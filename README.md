@@ -3848,7 +3848,7 @@ _(1) Once per turn, you can select any number of face-up Spell or Trap Cards. Re
   
 ## CRIMSON FIRE
 
-*   If the opponent activates a card that inflicts damage to both players, such as "Tremendous Fire," and you respond with “Crimson Fire,” you take no damage and your opponent takes 2500 damage (the 500 normal, plus double the 1000 damage you would have taken).
+*   If the opponent activates a card that inflicts damage to both players, such as "Tremendous Fire", and you respond with “Crimson Fire,” you take no damage and your opponent takes 2500 damage (the 500 normal, plus double the 1000 damage you would have taken).
 *   If you control “Red Dragon Archfiend/Assault Mode” but not “Red Dragon Archfiend,” you cannot activate “Crimson Fire.”
 
   
@@ -4222,7 +4222,7 @@ _(C) This card cannot be Normal Summoned or Set. (S) This card cannot be Special
 *   Spirit Monsters, Toon Monsters, Ritual Monsters, etc. are sent to your hand as they cannot be Special Summoned or must be Special Summoned is a specific way.
 *   Both players reveal all 5 cards to each other, and then the turn player may Special Summon his monsters, then the opponent. After revealing the cards, you may shuffle them around so you can Special Summon monsters face-down without the opponent knowing which monster is which.
 *   If "Sangan" or "Witch of the Black Forest" was destroyed by "Cyber Jar"’s effect, Special Summon monsters first and then complete "Sangan"’s effect.
-*   If you attacked your opponent’s face-down "Cyber Jar," after its effect resolves you can then attack with any monsters you Special Summoned in Attack Position before you enter your Main Phase 2.
+*   If you attacked your opponent’s face-down "Cyber Jar", after its effect resolves you can then attack with any monsters you Special Summoned in Attack Position before you enter your Main Phase 2.
 *   "Torrential Tribute" can be used on monsters Summoned by "Cyber Jar" but not if "Cyber Jar" was flipped face-up in the Damage Step, since "Torrential Tribute" cannot be activated during the Damage Step.
 *   If a player has less than 5 cards in their Deck, they do not lose (since you are picking-up cards, not drawing), they pick up however many cards they have and continue with "Cyber Jar"’s effect.
 
@@ -6239,8 +6239,8 @@ _(1) If this card attacks a Defense Position monster, return that monster to its
         *   Ex: "Sasuke Samurai #4"'s effect destroys Ehren in Substep 1 - Start of the Damage Step.
 *   The (2) mandatory Trigger Effect must resolve (even if the effect is negated) before the turn can end.
     *   If you do not have enough cards to send to the Graveyard remaining in your Deck when resolving this effect, all cards remaining in your Deck are sent to the Graveyard.
-    *   If the activation of this effect is negated by "Light and Darkness Dragon," it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
-    *   If this effect is negated by "Skill Drain," it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If the activation of this effect is negated by "Light and Darkness Dragon", it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If this effect is negated by "Skill Drain", it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
     *   The "Lightsworn" monster (or "Judgment Dragon") must remain face-up on the field in order to activate and resolve this effect.
     *   If your opponent activates "Book of Eclipse" after you resolve this effect, when "Book of Eclipse" resolves and your affected monsters are flipped face-up (and you draw 1 card for each) then each "Lightsworn" monster (or "Judgment Dragon") will once again activate this effect \[[REF](https://www.pojo.biz/board/showthread.php?t=678963)\]
 *   (2) VS. "Brain Control": Player A gains control of Player B's "Lightsworn" monster until the End Phase. During the End Phase, Player A may decide in which order to activate/resolve effects:
@@ -6939,7 +6939,7 @@ _This card cannot be Normal Summoned or Set. (S) This card cannot be Special Sum
     *   You still send a monster to the Graveyard (and remove it from play) while "Macro Cosmos" applies.
 *   The (2) Continuous Effect applies so long as this card is face-up on the field.
 *   The (3) Unclassified Effect cannot be negated.
-    *   If "Exodius the Ultimate Forbidden Lord" is removed from play with "Interdimensional Matter Transporter," "Exodius the Ultimate Forbidden Lord" is not returned to the field in the End Phase.
+    *   If "Exodius the Ultimate Forbidden Lord" is removed from play with "Interdimensional Matter Transporter", "Exodius the Ultimate Forbidden Lord" is not returned to the field in the End Phase.
     *   If "Exodius the Ultimate Forbidden Lord" is removed from the field while equipped by the effect of "Relinquished", it is removed from play.
 *   The (C) Condition CANNOT be negated.
     *   This alternative win condition does not start a chain.
@@ -6957,7 +6957,7 @@ _(1) When this card is destroyed by battle and sent to the Graveyard, destroy th
   
 ## EXPLODER DRAGONWING
 
-*   "Exploder Dragonwing" has a Trigger Effect that activates at the start of Damage Step. (Before a face-down monster is flipped face-up, at the same time as "Sasuke Samurai" or "Ninja Grandmaster Sasuke," etc.) You can choose whether or not to activate the effect of “Exploder Dragonwing.” However, you must activate the full effect (destroy without damage calculation + inflict effect damage) or none of it.
+*   "Exploder Dragonwing" has a Trigger Effect that activates at the start of Damage Step. (Before a face-down monster is flipped face-up, at the same time as "Sasuke Samurai" or "Ninja Grandmaster Sasuke", etc.) You can choose whether or not to activate the effect of “Exploder Dragonwing.” However, you must activate the full effect (destroy without damage calculation + inflict effect damage) or none of it.
 *   “Exploder Dragonwing” inflicts damage equal to the destroyed monster’s ATK while it was on the field, including any adjustments from continuous effects.
 *   The effects of “Exploder Dragonwing” to destroy a monster and inflict damage are considered to be simultaneous, although as a practical matter the monster is destroyed first. The effect is considered to have resolved after both parts are completed.
     *   If, while the effect is being resolved, the other monster’s ATK becomes higher than that of “Exploder Dragonwing,” the effect of “Exploder Dragonwing” is not applied.
@@ -8548,8 +8548,8 @@ _(1) This card gains 300 ATK and DEF for each "Lightsworn" monster with a differ
 *   The (2) Continuous Effect does not start a chain.
 *   The (3) mandatory Trigger Effect must resolve (even if the effect is negated) before the turn can end.
     *   If you do not have enough cards to send to the Graveyard remaining in your Deck when resolving this effect, all cards remaining in your Deck are sent to the Graveyard.
-    *   If the activation of this effect is negated by "Light and Darkness Dragon," it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
-    *   If this effect is negated by "Skill Drain," it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If the activation of this effect is negated by "Light and Darkness Dragon", it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If this effect is negated by "Skill Drain", it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
     *   The "Lightsworn" monster (or "Judgment Dragon") must remain face-up on the field in order to activate and resolve this effect.
     *   If your opponent activates "Book of Eclipse" after you resolve this effect, when "Book of Eclipse" resolves and your affected monsters are flipped face-up (and you draw 1 card for each) then each "Lightsworn" monster (or "Judgment Dragon") will once again activate this effect \[[REF](https://www.pojo.biz/board/showthread.php?t=678963)\]
 *   (3) VS. "Brain Control": Player A gains control of Player B's "Lightsworn" monster until the End Phase. During the End Phase, Player A may decide in which order to activate/resolve effects:
@@ -9607,7 +9607,7 @@ _(1) Cards cannot be removed from play._
 *   If an effect is chained that increases the ATK of your Special Summoned monster above 1500 ATK, your monsters are still Special Summoned.
 *   If you activate "Inferno Reckless Summon" when you Special Summon "Proto-Cyber Dragon", you will Special Summon "Cyber Dragon" from your hand, Deck, and Graveyard.
 *   You can activate "Inferno Reckless Summon" when your opponent Special Summons a monster with 1500 or less ATK onto your side of the field.
-*   If either player does not Special Summon monsters so that they have 3 monsters with the same name in play after resolving "Inferno Reckless Summon," the opponent can check that player's hand and Deck to verify that they have Summoned all possible copies of the chosen monster. If that monster is Limited or Semi-Limited, and the maximum number of copies allowed per Deck are on that player's side of the field the field, in their Graveyard or in their Removed Zone, their opponent can not check their hand and Deck for additional copies.
+*   If either player does not Special Summon monsters so that they have 3 monsters with the same name in play after resolving "Inferno Reckless Summon", the opponent can check that player's hand and Deck to verify that they have Summoned all possible copies of the chosen monster. If that monster is Limited or Semi-Limited, and the maximum number of copies allowed per Deck are on that player's side of the field the field, in their Graveyard or in their Removed Zone, their opponent can not check their hand and Deck for additional copies.
 
   
 ## INFERNO TEMPEST
@@ -9912,8 +9912,8 @@ _(1) If this card attacks an opponent's monster, it gains 300 ATK during the Dam
     *   This effect does not activate, it cannot be negated by "Light-Imprisoning Mirror".
 *   The (2) mandatory Trigger Effect must resolve (even if the effect is negated) before the turn can end.
     *   If you do not have enough cards to send to the Graveyard remaining in your Deck when resolving this effect, all cards remaining in your Deck are sent to the Graveyard.
-    *   If the activation of this effect is negated by "Light and Darkness Dragon," it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
-    *   If this effect is negated by "Skill Drain," it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If the activation of this effect is negated by "Light and Darkness Dragon", it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If this effect is negated by "Skill Drain", it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
     *   The "Lightsworn" monster (or "Judgment Dragon") must remain face-up on the field in order to activate and resolve this effect.
     *   If your opponent activates "Book of Eclipse" after you resolve this effect, when "Book of Eclipse" resolves and your affected monsters are flipped face-up (and you draw 1 card for each) then each "Lightsworn" monster (or "Judgment Dragon") will once again activate this effect \[[REF](https://www.pojo.biz/board/showthread.php?t=678963)\]
 *   (2) VS. "Brain Control": Player A gains control of Player B's "Lightsworn" monster until the End Phase. During the End Phase, Player A may decide in which order to activate/resolve effects:
@@ -11016,8 +11016,8 @@ _(1) Once per turn, you can discard 1 card to Special Summon 1 Level 4 or lower 
     *   You can't activate this effect without a valid target in the Graveyard, even if you would one as cost.
 *   The (2) mandatory Trigger Effect must resolve (even if the effect is negated) before the turn can end.
     *   If you do not have enough cards to send to the Graveyard remaining in your Deck when resolving this effect, all cards remaining in your Deck are sent to the Graveyard.
-    *   If the activation of this effect is negated by "Light and Darkness Dragon," it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
-    *   If this effect resolves negated by "Skill Drain," it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If the activation of this effect is negated by "Light and Darkness Dragon", it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If this effect resolves negated by "Skill Drain", it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
     *   The "Lightsworn" monster (or "Judgment Dragon") must remain face-up on the field in order to activate and resolve this effect.
     *   If your opponent activates "Book of Eclipse" after you resolve this effect, when "Book of Eclipse" resolves and your affected monsters are flipped face-up (and you draw 1 card for each) then each "Lightsworn" monster (or "Judgment Dragon") will once again activate this effect \[[REF](https://www.pojo.biz/board/showthread.php?t=678963)\]
 *   (2) VS. "Brain Control": Player A gains control of Player B's "Lightsworn" monster until the End Phase. During the End Phase, Player A may decide in which order to activate/resolve effects:
@@ -11050,8 +11050,8 @@ _(1) You can change this card from face-up Attack Position to face-up Defense Po
     *   After this effect resolves, if your opponent steals Lyla with "Mind Control", they CANNOT manually change her to Attack Position in order to use this effect \[[REF](https://www.pojo.biz/board/showthread.php?t=872829)\].
 *   The (2) mandatory Trigger Effect must resolve (even if the effect is negated) before the turn can end.
     *   If you do not have enough cards to send to the Graveyard remaining in your Deck when resolving this effect, all cards remaining in your Deck are sent to the Graveyard.
-    *   If the activation of this effect is negated by "Light and Darkness Dragon," it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
-    *   If this effect resolves negated by "Skill Drain," it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If the activation of this effect is negated by "Light and Darkness Dragon", it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If this effect resolves negated by "Skill Drain", it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
     *   The "Lightsworn" monster (or "Judgment Dragon") must remain face-up on the field in order to activate and resolve this effect.
     *   If your opponent activates "Book of Eclipse" after you resolve this effect, when "Book of Eclipse" resolves and your affected monsters are flipped face-up (and you draw 1 card for each) then each "Lightsworn" monster (or "Judgment Dragon") will once again activate this effect \[[REF](https://www.pojo.biz/board/showthread.php?t=678963)\]
 *   (2) VS. "Brain Control": Player A gains control of Player B's "Lightsworn" monster until the End Phase. During the End Phase, Player A may decide in which order to activate/resolve effects:
@@ -11472,8 +11472,8 @@ _(U) You can Normal Summon this card without Tributing. (1) If you do, this card
 *   The (1) Trigger Effect is mandatory, it activates & resolves on the field in the End Phase.
     *   This effect ONLY activates & resolve is if it is the ONLY Zombie-Type monster on the field.
     *   This effect will activate during the End Phase of every turn (if this card was Normal Summoned with its \[U\] Unclassified Effect).
-    *   If the activation of this effect is negated by "Light and Darkness Dragon," it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
-    *   If this effect resolves negated by "Skill Drain," it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If the activation of this effect is negated by "Light and Darkness Dragon", it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If this effect resolves negated by "Skill Drain", it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
     *   This effect resolves without effect (Goku En is not destroyed) if an effect (like "Call of the Haunted") is chained that Summons an another Zombie-Type monster to the field face-up.
     *   This effect resolves sequentially: first, send this card to the Graveyard; then inflict effect damage.
     *   This effect inflicts damage equal to the original (printed) ATK of "Malevolent Mech - Goku En".
@@ -11589,7 +11589,7 @@ _(1) The controller of a monster that attacks this face-down card takes 1000 dam
   
 ## MASK OF BRUTALITY
 
-*   The payment of 1000 Life Points is optional and the controller of "Mask of Brutality," not the controller of the equipped monster, chooses to pay or not. If you choose not to pay 1000 Life Points, "Mask of Brutality" is destroyed.
+*   The payment of 1000 Life Points is optional and the controller of "Mask of Brutality", not the controller of the equipped monster, chooses to pay or not. If you choose not to pay 1000 Life Points, "Mask of Brutality" is destroyed.
 
   
 ## MASK OF RESTRICT  
@@ -13313,7 +13313,7 @@ _(1) Any Battle Damage this monster inflicts to your opponent becomes 0. (2) Onc
     *   This effect targets 1 Effect Monster in your Graveyard.
     *   You cannot target a non-effect monster, nor can you target a Gemini monster.
     *   The target is removed from play when this effect resolves.
-    *   If this effect removes the target from play,"Phantom of Chaos" gains its name, ATK, and effect(s).
+    *   If this effect removes the target from play",Phantom of Chaos" gains its name, ATK, and effect(s).
     *   "Phantom of Chaos" will not gain the category of TUNER, etc. \[[REF](https://www.pojo.biz/board/showthread.php?t=634429)\], nor will it gain any Conditions (ex: if "Debris Dragon" is copied, you CAN use "Phantom of Chaos" for the Synchro Summon of a non-Dragon-Type Synchro Monster, the other Synchro Material Monsters may be Level 4) \[[REF](https://www.pojo.biz/board/showthread.php?t=765037)\].
     *   If the target is removed from play before this effect resolves, "Phantom of Chaos" does not gain any traits of the target, nor can it activate its effect again that turn \[[REF](http://duelistgroundz.com/index.php?/topic/78184-phantom-of-chaosddcrownorleras/&tab=comments)\].
     *   You decide when this lingering effect expires during the End Phase (like with "Brain Control").
@@ -14000,7 +14000,7 @@ _(1) You can send 1 monster from your hand to the Graveyard and Special Summon t
 *   If an effect is chained that removes your only Tuner monster from your side of the field, "Quillbolt Hedgehog" is not Special Summoned.
 *   If "Quillbolt Hedgehog" is flipped face-down after it is Special Summoned by its effect, it is not removed from play when it is removed from the field, even if it is flipped face-up.
 *   If "Quillbolt Hedgehog" is Special Summoned by its effect and is later removed from the field while "Skill Drain" is active, "Quillbolt Hedgehog" is still removed from play.
-*   If you Special Summon "Quillbolt Hedgehog" with its effect and afterwards remove it from play with "Interdimensional Matter Transporter," "Quillbolt Hedgehog" is not returned to the field in the End Phase.
+*   If you Special Summon "Quillbolt Hedgehog" with its effect and afterwards remove it from play with "Interdimensional Matter Transporter", "Quillbolt Hedgehog" is not returned to the field in the End Phase.
 
   
 ## R - RIGHTEOUS JUSTICE
@@ -15225,7 +15225,7 @@ _(1) Once per turn, during your Main Phase, you can pay 800 Life Points. If you 
 *   ## If the effect of "Scrubbed Raid" is activated when a monster declares an attack, then the Battle Phase ends, so the attacking monster can no longer be treated as an "attacking monster".
 
 *   If the effect of "Scrubbed Raid" is activated in Chain to an effect like "Dimensional Prison", then the effect of "Dimensional Prison" is not applied, and the attacking monster remains on the field.
-*   If the effect of "Scrubbed Raid" is activated in Chain to "Magic Cylinder", then the Battle Phase ends,"Magic Cylinder" cannot negate the attack so the effect of inflicting damage equal to the monster's ATK is not applied.
+*   If the effect of "Scrubbed Raid" is activated in Chain to "Magic Cylinder", then the Battle Phase ends",Magic Cylinder" cannot negate the attack so the effect of inflicting damage equal to the monster's ATK is not applied.
 *   The effect of "Mirror Force" only destroys all monsters in Attack Position, so all Attack Position monsters will still be destroyed even if the effect of "Scrubbed Raid" ends the Battle Phase.
 
   
@@ -15496,8 +15496,8 @@ _(1) This card gains 300 ATK for each "Lightsworn" monster with a different name
     *   If "Blackwing - Gale the Whirlwind" halves this card's ATK, and later the number of "Lightsworn" monsters with different names in your Graveyard changes, this card's ATK will remain the same.
 *   The (2) mandatory Trigger Effect must resolve (even if the effect is negated) before the turn can end.
     *   If you do not have enough cards to send to the Graveyard remaining in your Deck when resolving this effect, all cards remaining in your Deck are sent to the Graveyard.
-    *   If the activation of this effect is negated by "Light and Darkness Dragon," it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
-    *   If this effect is negated by "Skill Drain," it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If the activation of this effect is negated by "Light and Darkness Dragon", it will activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
+    *   If this effect is negated by "Skill Drain", it will not activate again in the same End Phase \[[REF](http://duelistgroundz.com/index.php?/topic/137855-end-phase-mandatory-trigger-effects/)\].
     *   The "Lightsworn" monster (or "Judgment Dragon") must remain face-up on the field in order to activate and resolve this effect.
     *   If your opponent activates "Book of Eclipse" after you resolve this effect, when "Book of Eclipse" resolves and your affected monsters are flipped face-up (and you draw 1 card for each) then each "Lightsworn" monster (or "Judgment Dragon") will once again activate this effect \[[REF](https://www.pojo.biz/board/showthread.php?t=678963)\]
 *   (2) VS. "Brain Control": Player A gains control of Player B's "Lightsworn" monster until the End Phase. During the End Phase, Player A may decide in which order to activate/resolve effects:
@@ -15922,7 +15922,7 @@ _If you have only 1 original (printed) Type of monster in your Graveyard, face-u
 *   You reduce the Level of the targeted "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster when the effect resolves.
 *   If you increase the Level of your "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster with "[Time Passage](https://yugioh.fandom.com/wiki/Time_Passage)" and then reduce it for the effect of "[Solitaire Magician](https://yugioh.fandom.com/wiki/Solitaire_Magician)", your "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" will still have its Level reduced by 3 when the effect of "[Time Passage](https://yugioh.fandom.com/wiki/Time_Passage)" is no longer applied.
 *   You cannot choose to reduce the Level of a "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster whose Level is less than 3.
-*   If you activate this effect and the targeted "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster is flipped face-down by "[Book of Moon](https://yugioh.fandom.com/wiki/Book_of_Moon)," the effect of "[Solitaire Magician](https://yugioh.fandom.com/wiki/Solitaire_Magician)" will not apply. If the monster [targeted](https://yugioh.fandom.com/wiki/Target) to be destroyed is flipped face-down by "[Book of Moon](https://yugioh.fandom.com/wiki/Book_of_Moon)," the effect of "[Solitaire Magician](https://yugioh.fandom.com/wiki/Solitaire_Magician)" resolves normally.
+*   If you activate this effect and the targeted "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster is flipped face-down by "[Book of Moon](https://yugioh.fandom.com/wiki/Book_of_Moon)", the effect of "[Solitaire Magician](https://yugioh.fandom.com/wiki/Solitaire_Magician)" will not apply. If the monster [targeted](https://yugioh.fandom.com/wiki/Target) to be destroyed is flipped face-down by "[Book of Moon](https://yugioh.fandom.com/wiki/Book_of_Moon)", the effect of "[Solitaire Magician](https://yugioh.fandom.com/wiki/Solitaire_Magician)" resolves normally.
 *   You must choose two different [targets](https://yugioh.fandom.com/wiki/Target) for this effect.
 
   
@@ -18786,7 +18786,7 @@ _(1) Once per turn, while this card is in the Graveyard, you can pay 500 Life Po
 *   If you activate "Magic Drain" and your opponent discards 1 Spell Card, you cannot activate "Voltanis the Adjudicator"'s effect.
 *   "Voltanis the Adjudicator"'s effect can be activated when you activate "Goblin Out of the Frying Pan" or "Malfunction" to negate your opponent's Spell or Trap Card.
 *   "Royal Oppression" can be used to negate “Voltanis the Adjudicator's” effect to Special Summon itself.
-*   If you activate "Magic Jammer," etc. and discard "Night Assailant" for its activation cost, the effects of "Night Assailant" and “Voltanis the Adjudicator” will start a new Chain after the Chain that included your "Magic Jammer" resolves. "Night Assailant"'s effect will be Chain Link 1 and “Voltanis the Adjudicator's” will be Chain Link 2.
+*   If you activate "Magic Jammer", etc. and discard "Night Assailant" for its activation cost, the effects of "Night Assailant" and “Voltanis the Adjudicator” will start a new Chain after the Chain that included your "Magic Jammer" resolves. "Night Assailant"'s effect will be Chain Link 1 and “Voltanis the Adjudicator's” will be Chain Link 2.
 
   
 ## VWXYZ-DRAGON CATAPULT CANNON
