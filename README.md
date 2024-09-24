@@ -3322,7 +3322,7 @@ _Send the top 3 cards of your Deck to the Graveyard. Add 1 Level 4 or lower "Lig
 *   Charge does not target the "Lightsworn" in Deck, it can activate with "[Aurkus, Lightsworn Druid](https://yugipedia.com/wiki/Aurkus,_Lightsworn_Druid)" face-up.
 
   
-## **CHARM OF SHABTI**
+## CHARM OF SHABTI
 
 *   You can activate the effect of "Charm of Shabti" during the Damage Step.
 *   "Charm of Shabti" is like a reverse-"Kuriboh": you take damage from the attack as normal, but your monster is unharmed.
