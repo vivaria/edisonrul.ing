@@ -6488,7 +6488,7 @@ _(1) Once per turn, you can reveal 1 Fusion Monster from your Fusion Deck and se
     *   This effect can be activated while "Dimensional Fissure" is active. The Fusion Material Monster is removed from play as it is sent to the Graveyard, and Prisma gains its printed name.
     *   If an effect is chained that removes "Elemental Hero Prisma" from the field or flips it face-down, "Elemental Hero Prisma"'s effect disappears. You do not reveal a Fusion Monster or send one of the listed Fusion Material Monsters to the Graveyard \[[REF](http://web.archive.org/web/20080703055137/http://entertainment.upperdeck.com/COMMUNITY/forums/thread/1215851.aspx)\].
     *   VS. "Rainbow Neos": you may only send "Elemental Hero Neos". You cannot send "Rainbow Dragon" or "Rainbow Dark Dragon", as "Rainbow Neos" actually lists "1 'Ultimate Crystal' monster" as the other Fusion Material \[[REF](https://yugipedia.com/wiki/Rainbow_Neos)\].  
-        ​
+        
 
 ## ELEMENTAL HERO RAMPART BLASTER
 
@@ -8400,7 +8400,7 @@ _(1) You can substitute this card for any 1 Fusion Material Monster. When you do
 
 *   Can be activated and will resolve normally while "Thunder King Rai-Oh" isface-upon the field.
 *   The selected card is placed in a face-up state when removed from play. The identity of the card is revealed when it is selected and removed from play.
-*   The selected card must remain banished for the duration of the two turns in order to be added to your hand.​
+*   The selected card must remain banished for the duration of the two turns in order to be added to your hand.
 
   
 ## GOLDD, WU-LORD OF DARK WORLD  
