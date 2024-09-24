@@ -1,3 +1,7 @@
+# Better Edison Card Rulings
+
+In this repo, you will find the text of [Edisonformat.com](https://www.edisonformat.com/)'s [Individual Card Rulings](https://www.edisonformat.com/rulings), reformatted to make the experience easier. 
+ 
  * [3-HUMP LACOODA](https://github.com/vivaria/better-edison-card-rulings/blob/main/README.md#3-hump-lacooda)
  * [7](https://github.com/vivaria/better-edison-card-rulings/blob/main/README.md#7)
  * [8-CLAWS SCORPION](https://github.com/vivaria/better-edison-card-rulings/blob/main/README.md#8-claws-scorpion)
