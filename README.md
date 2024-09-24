@@ -7031,8 +7031,8 @@ _(1) When this card is destroyed by battle and sent to the Graveyard, destroy th
   
 ## FAKE TRAP
 
-*   "The face-down Trap Cards protected by ""Fake Trap"" must be revealed when resolving the effect that would destroy them, to confirm that they are Trap Cards.
-*   If your opponent activates ""Heavy Storm"" and your chain ""Fake Trap"", your Trap Cards are protected but your Spell Cards are still destroyed."
+*   "The face-down Trap Cards protected by "Fake Trap" must be revealed when resolving the effect that would destroy them, to confirm that they are Trap Cards.
+*   If your opponent activates "Heavy Storm" and your chain "Fake Trap", your Trap Cards are protected but your Spell Cards are still destroyed."
 
   
 ## FALCHIONβ
@@ -8421,8 +8421,8 @@ Also see rulings for “Dark World Monsters”.
   
 ## GOLDEN LADYBUG
 
-*   "Revealing ""Golden Ladybug"" in your hand is a cost.
-*   If your hand is being revealed by another card's effect (""Mind on Air"", etc.), you cannot activate ""Golden Ladybug's"" effect."
+*   "Revealing "Golden Ladybug" in your hand is a cost.
+*   If your hand is being revealed by another card's effect ("Mind on Air", etc.), you cannot activate "Golden Ladybug's" effect."
 
   
 ## GOOD GOBLIN HOUSEKEEPING
@@ -14495,7 +14495,7 @@ _As long as this card remains face-up on the field, the control of all monsters 
     *   cause control to revert if "Remove Brainwashing" is destroyed. (ex: "Remove Brainwashing" is destroyed after "Mind Control" has resolved. Control does NOT revert control of the monster to the player who activated "Mind Control").
 *   VS. "[Black Garden](https://yugipedia.com/wiki/Black_Garden)": Player A Normal Summoned a monster, causing a "Rose Token" to be Special Summoned to Player B's field. Player A is the owner of that "Rose Token". "Remove Brainwashing" will cause Player A to gain control of that "Rose Token".
 *   VS. "[Vengeful Servant](https://yugipedia.com/wiki/Vengeful_Servant)": if the equipped monster changes control, it will immediately switch back before the effect of "Vengeful Servant" can activate. Afterwards, "Vengeful Servant" will activate once, and inflict damage to the equipped monster's current controller: its original owner.
-*   When your opponent activates "Autonomous Action Unit" and Special Summons your Synchro Monster to his field, if "Remove Brainwashing" is on the field, then the monster is still considered to have been Special Summoned to your opponent's field, even though it is now on your side of the field. Thus, you can activate the effect of "Shiny Black "C"" to destroy the Synchro Monster, even though it is on your side of the field.
+*   When your opponent activates "Autonomous Action Unit" and Special Summons your Synchro Monster to his field, if "Remove Brainwashing" is on the field, then the monster is still considered to have been Special Summoned to your opponent's field, even though it is now on your side of the field. Thus, you can activate the effect of "Shiny Black "C" to destroy the Synchro Monster, even though it is on your side of the field.
 
   
 ## REPTILIANNE GARDNA
