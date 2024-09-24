@@ -5158,7 +5158,7 @@ _(1) Once per turn, during your Main Phase, if you control this monster on the f
 *   If you have a Spirit Message in your hand you cannot activate it, they can only be placed on the field by the effect of "Destiny Board" during your opponent’s End Phase.
 
   
-## DESTINY END DRAGOON\*  
+## DESTINY END DRAGOON
 _(C) A Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. (1) Once per turn, you can destroy 1 monster your opponent controls and inflict damage to your opponent equal to its ATK. If you activate this effect you cannot conduct your Battle Phase this turn. (2) During your Standby Phase, if this card is in your Graveyard you can remove from play 1 "Destiny Hero" card from your Graveyard to Special Summon this card._
 
 *   The (C) Condition cannot be negated.
@@ -5175,7 +5175,8 @@ _(C) A Fusion Summon of this monster can only be conducted with the above Fusion
     *   Removing 1 "Destiny Hero" card from play is a cost.
     *   This effect does not target a card in the Graveyard. It is not negated by "Necrovalley".
     *   If this effect (or its activation) is negated by "Royal Oppression" (or "Divine Wrath"), this effect can be activated again during the same Standby Phase \[[REF](https://web.archive.org/web/20091001204158/http://www.yu-judges.com/cat359_p5.htm)\].
-*   (\*) Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+> Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
 
   
 ## DESTINY HERO - CAPTAIN TENACIOUS
@@ -6479,7 +6480,7 @@ _1 "Elemental Hero" monster + 1 EARTH Monster
 *   The effect of “Elemental Hero Neo Bubbleman” that makes it treated as “Elemental Hero Bubbleman” is a Continuous Effect. The effect that destroys a monster that battles it is a Trigger Effect.
 
   
-## ELEMENTAL HERO PRISMA\*  
+## ELEMENTAL HERO PRISMA
 _(1) Once per turn, you can reveal 1 Fusion Monster from your Fusion Deck and send 1 of the Fusion Material Monsters listed on that card from your Deck to the Graveyard. Until the End Phase, this card’s name is treated as the sent monster’s name._
 
 *   The (1) Ignition Effect has no activation cost.
@@ -7616,7 +7617,8 @@ _(1) Send, from your Deck to the Graveyard, Fusion Material Monsters that are li
 *   You CANNOT reveal a Contact Fusion Monster (ex: "Gladiator Beast Gyzarus", "Chimeratech Fortress Dragon") since they do not use "Polymerization" to Fusion Summon. Also, Evil Hero Fusions CANNOT be revealed as their Summon Condition specifies they must be Special Summoned by "Dark Fusion".
 *   You CANNOT activate this card if "Dimension Fortress Weapon" is face-up on the field.
 *   You CANNOT reveal "Five-Headed Dragon" with this card while "Koa'ki Meiru Drago" is face-up on the field. You CANNOT activate this card if "Vanity's Fiend" is face-up on the field.
-*   (\*) NOTE: the rulings of "Future Fusion" changed over the course of 2010-2011.
+
+> NOTE: the rulings of "Future Fusion" changed over the course of 2010-2011.
     *   SJC Edison (May 2010) ruling: 'performs a Special Summon (in the future) on activation' \[[1](https://www.pojo.biz/board/showpost.php?p=19154590&postcount=6), [2](https://www.pojo.biz/board/showthread.php?t=815140)\].
     *   Post July 2011 ruling: Future Fusion 'does not perform a Special Summon on activation' \[[3](https://www.pojo.biz/board/showpost.php?p=22145287&postcount=12)\].
 *   The (1) effect activates when the card is played face-up on the field and creates a Lingering Effect (L).
@@ -7734,7 +7736,7 @@ _(1) You can reveal this card in your hand to send the top card of your Deck to 
     *   "_send the top card of your Deck to the Graveyard_" occurs before "_If that card is a monster, inflict damage to your opponent equal to its Level x 200, and Special Summon this card from your hand. If it is not a monster, destroy this card_".
     *   If a Monster Card is sent: damage is inflicted AND Gallis is Special Summoned simultaneously
 *   This effect is not guaranteed to inflict effect damage, thus "[Barrel Behind the Door](https://yugipedia.com/wiki/Barrel_Behind_the_Door)" cannot be activated.
-*   ## CARD LEGALITY: In Edison Format, promotional cards from video games and other media were legal for play in North American events so long as an English translation / copy of the card was used. Konami would not reverse this policy until late 2010 \[[REF](https://www.pojo.biz/board/showpost.php?s=25207dc48f1f8866472fb43a67e259f3&p=20134042&postcount=10)\].
+*   CARD LEGALITY: In Edison Format, promotional cards from video games and other media were legal for play in North American events so long as an English translation / copy of the card was used. Konami would not reverse this policy until late 2010 \[[REF](https://www.pojo.biz/board/showpost.php?s=25207dc48f1f8866472fb43a67e259f3&p=20134042&postcount=10)\].
 
   
 ## GANDORA THE DRAGON OF DESTRUCTION  
@@ -10756,7 +10758,7 @@ _(1) When your opponent activates a card's effect that inflicts damage, you can 
     *   If you control “Des Wombat” and it is preventing you from taking damage, you cannot activate “Lifeforce Harmonizer”.
 
   
-## LIGHT AND DARKNESS DRAGON\*  
+## LIGHT AND DARKNESS DRAGON
 _(C) This card cannot be Special Summoned. (1) While this card is face-up on the field its Attribute is also treated as DARK. (2) When a Spell or Trap Card is activated, or the effect of an Effect Monster is activated, that activation is negated and this card loses 500 ATK and DEF. (3) When this card is destroyed and sent to the Graveyard, select 1 monster in your Graveyard. Then destroy all cards you control, and Special Summon that monster._
 
 *   The (C) Condition cannot be negated.
@@ -10782,7 +10784,8 @@ _(C) This card cannot be Special Summoned. (1) While this card is face-up on the
         *   Destroy all cards you control, even if the target cannot be Special Summoned.
         *   If "Peten the Dark Clown" you control is destroyed, and then you Special Summon the target, Peten cannot activate its effect \[[REF](https://www.pojo.biz/board/showthread.php?t=492019)\].
 *   NOTE: This card received an erratum with [Problem-Solving Card Text](https://yugiohblog.konami.com/articles/?p=4514) in Astral Pack 2 (2013). The TCG rulings were updated, changing the (3) Trigger Effect so that both parts resolved simultaneously. In Edison Format, play with the same rules the OCG used and resolve this effect sequentially.
-*   (\*) Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+> Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
 
   
 ## LIGHT BARRIER
@@ -11542,7 +11545,7 @@ _(U) You can Normal Summon this card without Tributing. (1) If you do, this card
 *   If “DNA Surgery” is activated later in the turn, after this effect has already resolved, it has no effect on the resolution of this effect. (Control does not instantly change back. Control changes back as normal at the end of the turn.)
 
   
-## MARK OF THE ROSE\*  
+## MARK OF THE ROSE
 _Remove from play 1 Plant-Type monster from your Graveyard and equip this card to a monster your opponent controls. (1) Gain control of the equipped monster. (2)_ _During your End Phase, give control of the equipped monster to your opponent. (3)_ _During your Standby Phase, gain control of the equipped monster._
 
 *   Removing 1 Plant-Type monster in your Graveyard from play is a cost.
@@ -11553,9 +11556,10 @@ _Remove from play 1 Plant-Type monster from your Graveyard and equip this card t
     *   If the equipped monster is briefly banished by "Interdimensional Matter Transporter", "Mark of the Rose" is destroyed by game mechanic, the monster returns to the field and won't change control.
 *   The (2) mandatory Trigger-like Effect activates & resolves on the field.
     *   This effect differs with contemporary errata of "Mark of the Rose".
-*   The (3) mandatory Trigger-like Effect\* activates & resolves on the field.
+*   The (3) mandatory Trigger-like Effect activates & resolves on the field.
     *   This effect is not present on contemporary errata of "Mark of the Rose".
-*   (## \*) Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+> Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
 
   
 ## MARSHMALLON  
@@ -12402,8 +12406,9 @@ _(1) Activate only by paying 1500 Life Poitns when your opponent activates a car
 *   CANNOT negate "Heavy Storm" that would destroy a monster(s) treated as an Equip Spell Card.
 *   CANNOT be chained to a Card OR Effect that might not destroy a monster(s).
     *   Examples include: "Magical Dimension", "Barrel Dragon", and "Time Wizard" \[[REF](http://duelistgroundz.com/index.php?/topic/113775-time-wizard-vs-my-body-as-a-shield/)\].
-*   (## \*) Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
-    *   SJC Edison was played with the TU2 erratum, but the GLD3 erratum better communicates this card's ability to respond to the activation of a Card OR Effect.
+
+> Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play. (SJC Edison was played with the TU2 erratum, but the GLD3 erratum better communicates this card's ability to respond to the activation of a Card OR Effect.)
+
 
   
 ## MYSTERIOUS PUPPETEER
@@ -12552,7 +12557,7 @@ _(1) When this card is Normal Summoned, shuffle all removed from play cards into
     *   Example 3: "Necroface" is Normal Summoned and activates it's (1) effect (Chain Link 1) simultaneously with the effect of "Future Visions" (Chain Link 2). When resolving the chain: "Necroface" is first removed from play by "Future Visions", then shuffled back into the Deck by it's (1) effect. A new chain starts since "Necroface"'s (2) effect has met its trigger condition.
 
   
-## NECROVALLEY\*  
+## NECROVALLEY
 _(1) Negate the effects of Spells, Traps, and Effect Monsters that target a card(s) in either player’s Graveyard. (2) Cards in either player’s Graveyard cannot be removed from play. (3) All “Gravekeeper’s” monsters gain 500 ATK and DEF._
 
 *   The (1) Continuous-like Effect NEGATES:
@@ -12566,7 +12571,8 @@ _(1) Negate the effects of Spells, Traps, and Effect Monsters that target a card
     *   This effect only applies to "Gravekeeper"'s monsters that are face-up on the field.
     *   If "Magical Hats" Special Summons "Gravekeeper's Servant", it gains 500 ATK & DEF.
 *   Cards in the Graveyard can have their Type / Attribute changed by card effects that do not target.
-*   ## (\*) Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+> Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
 
   
 ## NEEDLE BURROWER
@@ -14970,7 +14976,7 @@ _This card can only be activated when "Necrovalley" is on your side of the field
 *   Both cards are considered to be sent to the Graveyard simulataneously.
 
   
-## RYKO, LIGHTSWORN HUNTER\*  
+## RYKO, LIGHTSWORN HUNTER
 _FLIP: (A) You can destroy 1 card on the field. (B) Send the top 3 cards of your Deck to the Graveyard._
 
 *   The Flip Effect activates & resolves on the field.
@@ -14979,7 +14985,8 @@ _FLIP: (A) You can destroy 1 card on the field. (B) Send the top 3 cards of your
     *   If you want to destroy 1 card, target 1 card (face-up / face-down) on the field at activation.
     *   Milling 3 cards from the top of your Deck is always the last thing to happen. This can cause some effects to miss their activation timing (such as "Geartown" and "Dimensional Alchemist").
 *   Example: Player A Flip Summons "Ryko, Lightsworn Hunter" and targets Player B's "Dimensional Alchemist". First, "Dimensional Alchemist" is destroyed, and afterwards Player A sends the top three cards of their deck to the Graveyard, among which was "Peten the Dark Clown". The last thing to happen was Player A sending the top three cards of their Deck to the Graveyard. Alchemist's trigger effect has missed its activation timing, but Peten may activate its effect.
-*   (\*) Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+> Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
 
   
 ## RYU KOKKI  
@@ -15210,20 +15217,13 @@ _(1) Once per turn, during your Main Phase, you can pay 800 Life Points. If you 
   
 ## SCRUBBED RAID
 
-*   ## Sending one other card you control to the Graveyard is a cost to activate the effect of "Scrubbed Raid" which ends the Battle Phase.
-
+*   Sending one other card you control to the Graveyard is a cost to activate the effect of "Scrubbed Raid" which ends the Battle Phase.
 *   You can neither activate "Scrubbed Raid" nor activate the effect of "Scrubbed Raid" during the Damage Step.
-
-*   ## You can activate a Spell or Trap Card as Chain Link 1 and then activate the effect of "Scrubbed Raid" in Chain to the card by sending the activated card to the Graveyard. If the activated card was a Normal Spell Card or a Normal Trap Card, then the effect of the card will resolve properly. If the activated card was an Equip, Continuous, or Field Spell Card or a Continuous Trap Card, then the other card is not on the field when resolving its effect, so the effect of the other card is not applied.
-
-*   ## If you would activate a Set "Scrubbed Raid", then you can also send one card you control to the Graveyard to also simultaneously activate its effect to end the Battle Phase.
-
-*   ## You cannot activate the effect of a face-up "Scrubbed Raid" multiple times in the same Chain.
-
-*   ## You can activate the effect of "Scrubbed Raid" during your own Battle Phase's Start Step or Battle Step, but you cannot activate the effect of "Scrubbed Raid" during the Damage Step or End Step. Also, if you are only activating a Set "Scrubbed Raid" to make it face-up on the field, then you can activate "Scrubbed Raid" during the End Step.
-
-*   ## If the effect of "Scrubbed Raid" is activated when a monster declares an attack, then the Battle Phase ends, so the attacking monster can no longer be treated as an "attacking monster".
-
+*   You can activate a Spell or Trap Card as Chain Link 1 and then activate the effect of "Scrubbed Raid" in Chain to the card by sending the activated card to the Graveyard. If the activated card was a Normal Spell Card or a Normal Trap Card, then the effect of the card will resolve properly. If the activated card was an Equip, Continuous, or Field Spell Card or a Continuous Trap Card, then the other card is not on the field when resolving its effect, so the effect of the other card is not applied.
+*   If you would activate a Set "Scrubbed Raid", then you can also send one card you control to the Graveyard to also simultaneously activate its effect to end the Battle Phase.
+*   You cannot activate the effect of a face-up "Scrubbed Raid" multiple times in the same Chain.
+*   You can activate the effect of "Scrubbed Raid" during your own Battle Phase's Start Step or Battle Step, but you cannot activate the effect of "Scrubbed Raid" during the Damage Step or End Step. Also, if you are only activating a Set "Scrubbed Raid" to make it face-up on the field, then you can activate "Scrubbed Raid" during the End Step.
+*   If the effect of "Scrubbed Raid" is activated when a monster declares an attack, then the Battle Phase ends, so the attacking monster can no longer be treated as an "attacking monster".
 *   If the effect of "Scrubbed Raid" is activated in Chain to an effect like "Dimensional Prison", then the effect of "Dimensional Prison" is not applied, and the attacking monster remains on the field.
 *   If the effect of "Scrubbed Raid" is activated in Chain to "Magic Cylinder", then the Battle Phase ends",Magic Cylinder" cannot negate the attack so the effect of inflicting damage equal to the monster's ATK is not applied.
 *   The effect of "Mirror Force" only destroys all monsters in Attack Position, so all Attack Position monsters will still be destroyed even if the effect of "Scrubbed Raid" ends the Battle Phase.
@@ -15963,7 +15963,7 @@ _If you have only 1 original (printed) Type of monster in your Graveyard, face-u
 *   The effect that destroys “Soul Devouring Bamboo Sword” during the second Standby Phase after it was activated does not begin a Chain.
 
   
-## SOUL EXCHANGE\*  
+## SOUL EXCHANGE
 _(1) Select 1 monster your opponent controls. This turn you can Tribute that monster as if you controlled it. (C) You cannot conduct your Battle Phase the turn you activate this card._
 
 *   The (1) effect of this card targets an opponent's (face-up / face-down) monster.
@@ -15979,7 +15979,8 @@ _(1) Select 1 monster your opponent controls. This turn you can Tribute that mon
     *   If the EFFECT of "Soul Exchange" is negated (by "Imperial Order"), the (C) Condition still applies. You cannot conduct your Battle Phase this turn.
 *   You cannot activate “Soul Exchange” during your Main Phase 2 because you must skip your Battle Phase.
 *   You cannot use “Soul Exchange” for “Polymerization” because “Polymerization” does not use Tribute.
-*   ## (\*) Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of the DTP1 (2008) [erratum of Soul Exchange](https://yugipedia.com/wiki/Card_Errata:Soul_Exchange) are essential to authentic Edison Format play, as the text was not corrected to the initial effect until BP01 (2012).
+
+> Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of the DTP1 (2008) [erratum of Soul Exchange](https://yugipedia.com/wiki/Card_Errata:Soul_Exchange) are essential to authentic Edison Format play, as the text was not corrected to the initial effect until BP01 (2012).
 
   
 ## SOUL OF FIRE
