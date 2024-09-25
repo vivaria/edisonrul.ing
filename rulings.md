@@ -6,7 +6,7 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 
 
 ## 3-HUMP LACOODA  
-_① If there are 3 face-up "3-Hump Lacooda" cards on your side of the field, Tribute 2 of them to draw 3 cards._
+> ① If there are 3 face-up "3-Hump Lacooda" cards on your side of the field, Tribute 2 of them to draw 3 cards.
 
 *   The ① Ignition Effect activates & resolves on the field.
 *   You don't have to activate "3-Hump Lacooda"'s effect just because you have 3 copies in play.
@@ -17,7 +17,7 @@ _① If there are 3 face-up "3-Hump Lacooda" cards on your side of the field, Tr
 
   
 ## 7  
-_When there are 3 face-up "7" cards on your side of the field, draw 3 cards from your Deck. Then destroy all "7" cards. When this card is sent directly from the field to your Graveyard, increase your Life Points by 700 points._
+> When there are 3 face-up "7" cards on your side of the field, draw 3 cards from your Deck. Then destroy all "7" cards. When this card is sent directly from the field to your Graveyard, increase your Life Points by 700 points.
 
 *   If you have 3 "7"'s and destroy them all, you get 2100 Life Points.
 *   If your opponent also has "7"'s, they are also destroyed.
@@ -28,7 +28,7 @@ _When there are 3 face-up "7" cards on your side of the field, draw 3 cards from
 
   
 ## 8-CLAWS SCORPION  
-_① Once per turn, you can flip this card into face-down Defense Position. ② When this card attacks an opponent's face-down Defense Position monster, this card's ATK becomes 2400 during damage calculation only._
+> ① Once per turn, you can flip this card into face-down Defense Position. ② When this card attacks an opponent's face-down Defense Position monster, this card's ATK becomes 2400 during damage calculation only.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   If you use this effect, then Flip Summon this card: you cannot used this effect again that turn \[[REF](/home/basic-strategy-flip-flop-fundamentals)\].
@@ -39,7 +39,7 @@ _① Once per turn, you can flip this card into face-down Defense Position. ② 
 
   
 ## A CAT OF ILL OMEN  
-_FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected Trap Card to your hand instead._
+> FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected Trap Card to your hand instead.
 
 *   Show the card to your opponent.
 *   If "Imperial Order" & "Necrovalley" are both active, and "A Cat of Ill Omen" is flipped, you add the card to your hand because "Necrovalley" is face-up on the field, even though its effect is negated.
@@ -48,14 +48,14 @@ _FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If "N
 
   
 ## 'A' CELL BREEDING DEVICE  
-_① During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls._
+> ① During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.
 
 *   The ① mandatory Trigger-like Effect activates & resolves on the field.
     *   You can select a monster that is unaffected by the effects of Spell Cards as the monster to put an A-Counter on, but the counter will not be placed.
 
   
 ## 'A' CELL INCUBATOR  
-_① Each time an A-Counter(s) is removed from play by a card effect, place 1 A-Counter on this card. ② When this card is destroyed, distribute the A-Counters on this card among face-up monsters._
+> ① Each time an A-Counter(s) is removed from play by a card effect, place 1 A-Counter on this card. ② When this card is destroyed, distribute the A-Counters on this card among face-up monsters.
 
 *   The ① Continuous-like Effect applies on the field.
     *   This effect does not use the Chain.
@@ -67,7 +67,7 @@ _① Each time an A-Counter(s) is removed from play by a card effect, place 1 A-
 
   
 ## 'A' CELL SCATTER BURST  
-_Select 1 face-up "Alien" monster you control. Destroy it and distribute new A-Counters equal to its Level among your opponent's face-up monsters._
+> Select 1 face-up "Alien" monster you control. Destroy it and distribute new A-Counters equal to its Level among your opponent's face-up monsters.
 
 *   This effect targets 1 face-up “Alien” monster you control.
 *   You choose which monsters to put the A-Counters on when this effect resolves.
@@ -77,7 +77,7 @@ _Select 1 face-up "Alien" monster you control. Destroy it and distribute new A-C
 
   
 ## A DEAL WITH DARK RULER  
-_You can only activate this card during a turn in which a Level 8 or higher monster on your side of the field was sent to the Graveyard. Special Summon 1 "Berserk Dragon" from your hand or Deck._
+> You can only activate this card during a turn in which a Level 8 or higher monster on your side of the field was sent to the Graveyard. Special Summon 1 "Berserk Dragon" from your hand or Deck.
 
 *   The "Level" in "A Deal with Dark Ruler" is the original Level printed on the Monster Card.
 *   If your opponent's Level 8 or higher monster than you control is sent to the Graveyard, you can activate "A Deal with Dark Ruler".
@@ -87,7 +87,7 @@ _You can only activate this card during a turn in which a Level 8 or higher mons
 
   
 ## A FEATHER OF THE PHOENIX  
-_Discard 1 card. Select 1 card from your Graveyard and return it to the top of your Deck._
+> Discard 1 card. Select 1 card from your Graveyard and return it to the top of your Deck.
 
 *   Discarding 1 card is a cost. Your opponent can chain "D.D. Crow".
 *   This is an effect that targets.
@@ -96,7 +96,7 @@ _Discard 1 card. Select 1 card from your Graveyard and return it to the top of y
 
   
 ## A FEINT PLAN  
-_A player cannot attack face-down monsters during this turn._
+> A player cannot attack face-down monsters during this turn.
 
 *   If "A Feint Plan" is activated and you control only face-down monsters, your opponent cannot attack any of your monsters and they cannot attack your Life Points directly either.
 
@@ -104,7 +104,7 @@ _A player cannot attack face-down monsters during this turn._
 
   
 ## A HERO EMERGES  
-_You can only activate this card when your opponent declares an attack. Your opponent selects 1 random card from your hand. If it is a Monster Card, Special Summon it on your side of the field. If not, send it to the Graveyard._
+> You can only activate this card when your opponent declares an attack. Your opponent selects 1 random card from your hand. If it is a Monster Card, Special Summon it on your side of the field. If not, send it to the Graveyard.
 
 *   You can Special Summon a high-level monster, like "Dark Magician", with "A Hero Emerges". But if your opponent selects a Special Summon-only monster like "Dark Necrofear", or a Spirit Monster, it is sent to the Graveyard.
 
@@ -114,7 +114,7 @@ _You can only activate this card when your opponent declares an attack. Your opp
 
   
 ## A LEGENDARY OCEAN  
-_Ⓒ This card's name is treated as "Umi". ① Reduce the Level of all WATER monsters in both players' hands and on the field by 1. ② All WATER monsters gain 200 ATK and DEF._
+> Ⓒ This card's name is treated as "Umi". ① Reduce the Level of all WATER monsters in both players' hands and on the field by 1. ② All WATER monsters gain 200 ATK and DEF.
 
 *   The Ⓒ Condition cannot be negated, it applies in the Deck:
     *   You can have 3 cards total in your Deck between "A Legendary Ocean" and "Umi", because this card’s name is treated as "Umi". So you cannot have 3 copies of "Umi" and 3 copies of "A Legendary Ocean" in your Deck.
@@ -131,7 +131,7 @@ _Ⓒ This card's name is treated as "Umi". ① Reduce the Level of all WATER mon
 
   
 ## A MAN WITH WDJAT  
-_① When you Normal Summon this card, and during each of your Standby Phases, select 1 Set card on your opponent's side of the field. Pick it up and look at it, then return it to its original position._
+> ① When you Normal Summon this card, and during each of your Standby Phases, select 1 Set card on your opponent's side of the field. Pick it up and look at it, then return it to its original position.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
 *   If you Set "A Man with Wdjat", its effect is not activated.
@@ -140,7 +140,7 @@ _① When you Normal Summon this card, and during each of your Standby Phases, s
 
   
 ## A RIVAL APPEARS!  
-_Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster._
+> Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.
 
 *   For the effect of “A Rival Appears!”, refer to the levels of the monster on the field and the monster in the hand at the time “A Rival Appears!” resolves (for purposes of “Cost Down”, “Level Conversion Lab”, “Mystical Space Typhoon” in a chain destroying “Demotion”, etc.)
 
@@ -150,7 +150,7 @@ _Select 1 face-up monster your opponent controls. Special Summon 1 monster from 
 
   
 ## A WINGBEAT OF GIANT DRAGON  
-_Return 1 face-up Level 5 or higher Dragon-Type monster you control to the owner's hand and destroy all Spell and Trap Cards._
+> Return 1 face-up Level 5 or higher Dragon-Type monster you control to the owner's hand and destroy all Spell and Trap Cards.
 
 *   "A Wingbeat of Giant Dragon" targets 1 Level 5 or higher Dragon-Type monster.
 
@@ -160,7 +160,7 @@ _Return 1 face-up Level 5 or higher Dragon-Type monster you control to the owner
 
   
 ## ABARE USHIONI  
-_① Once per turn, you can toss a coin and call it. If you call it right, inflict 1000 damage to your opponent. If you call it wrong, you take 1000 damage._
+> ① Once per turn, you can toss a coin and call it. If you call it right, inflict 1000 damage to your opponent. If you call it wrong, you take 1000 damage.
 
 *   The ① Ignition Effect activates & resolves on the field.
 *   If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.
@@ -169,7 +169,7 @@ _① Once per turn, you can toss a coin and call it. If you call it right, infli
 
   
 ## ABSOLUTE END  
-_Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks._
+> Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.
 
 *   When "Absolute End" is activated during an attack, that attack becomes a direct attack.
 
@@ -177,7 +177,7 @@ _Activate only during your opponent's turn. This turn, the attacks from your opp
 
   
 ## ABSORBING KID FROM THE SKY  
-_① When this card destroys a monster and sends it to the Graveyard as a result of battle, increase your Life Points by the Level of the destroyed monster x 300 points._
+> ① When this card destroys a monster and sends it to the Graveyard as a result of battle, increase your Life Points by the Level of the destroyed monster x 300 points.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 7 - End of the Damage Step.
@@ -186,13 +186,13 @@ _① When this card destroys a monster and sends it to the Graveyard as a result
 
   
 ## ABYSSAL DESIGNATOR  
-_Pay 1000 Life Points. Declare a Type and an Attribute. Your opponent must send 1 monster with both the declared Type and Attribute from their hand or Deck to the Graveyard._
+> Pay 1000 Life Points. Declare a Type and an Attribute. Your opponent must send 1 monster with both the declared Type and Attribute from their hand or Deck to the Graveyard.
 
 *   If your opponent sends a monster to the Graveyard with the declared Type and Attribute, you cannot see their hand and Deck. But if they claim to have no such card, you can check their hand and Deck to confirm.
 
   
 ## ACID TRAP HOLE  
-_Select 1 face-down Defense Position monster. Flip it face-up, and if the DEF of the monster is 2000 points or less, destroy the monster. If the DEF is more than 2000 points, return the monster to face-down Defense Position._
+> Select 1 face-down Defense Position monster. Flip it face-up, and if the DEF of the monster is 2000 points or less, destroy the monster. If the DEF is more than 2000 points, return the monster to face-down Defense Position.
 
 *   A face-down "Jinzo" will be destroyed by this card.
 
@@ -202,7 +202,7 @@ _Select 1 face-down Defense Position monster. Flip it face-up, and if the DEF of
 
   
 ## ADHESION TRAP HOLE  
-_Activate only when your opponent Summons a monster(s). While that monster(s) is face-up on the field, its original ATK is halved._
+> Activate only when your opponent Summons a monster(s). While that monster(s) is face-up on the field, its original ATK is halved.
 
 *   "Adhesion Trap Hole" works against "a monster or monsters", so "Adhesion Trap Hole" does NOT target.
 
@@ -215,7 +215,7 @@ _Activate only when your opponent Summons a monster(s). While that monster(s) is
 
   
 ## ADHESIVE EXPLOSIVE  
-_① If an opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. ② Destroy the equipped monster during the Standby Phase of your opponent's next turn._
+> ① If an opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. ② Destroy the equipped monster during the Standby Phase of your opponent's next turn.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 3 - Before Damage Calculation.
@@ -227,13 +227,13 @@ _① If an opponent's monster attacks this face-down Defense Position card, this
 
   
 ## ADVANCE DRAW  
-_Tribute 1 face-up Level 8 or higher monster you control. Draw 2 cards._
+> Tribute 1 face-up Level 8 or higher monster you control. Draw 2 cards.
 
 *   Tributing 1 face-up Level 8 or higher monster is a cost.
 
   
 ## ADVANCE FORCE  
-_① You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster._
+> ① You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.
 
 *   The ① Continuous-like Effect applies on the field.
     *   You can still Tribute 2 monsters to Tribute Summon a Level 7 or higher monster if you want to.
@@ -241,7 +241,7 @@ _① You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or 
 
   
 ## ADVANCED RITUAL ART  
-_Select 1 Ritual Monster in your hand. Send Normal Monsters from your Deck to the Graveyard whose total Levels are equal to that Ritual Monster's. Ritual Summon a card with the name of the selected Ritual Monster from your hand._
+> Select 1 Ritual Monster in your hand. Send Normal Monsters from your Deck to the Graveyard whose total Levels are equal to that Ritual Monster's. Ritual Summon a card with the name of the selected Ritual Monster from your hand.
 
 *   This effect does not target anything.
 
@@ -250,7 +250,7 @@ _Select 1 Ritual Monster in your hand. Send Normal Monsters from your Deck to th
 
   
 ## AEGIS OF THE OCEAN DRAGON LORD  
-_Until the End Phase of this turn, face-up Level 3 or lower WATER monsters you control cannot be destroyed by battle or by card effects._
+> Until the End Phase of this turn, face-up Level 3 or lower WATER monsters you control cannot be destroyed by battle or by card effects.
 
 *   You can still activate this card even if you control no face-up Level 3 or lower WATER monsters at the time.
 *   This effect is applied until you choose to end it during the End Phase.
@@ -258,7 +258,7 @@ _Until the End Phase of this turn, face-up Level 3 or lower WATER monsters you c
 
   
 ## AFTER GENOCIDE  
-_This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn._
+> This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn.
 
 *   This card's title has been changed to "After the Struggle". If you have a card titled "After Genocide" its name is treated as "After the Struggle".
 
@@ -269,7 +269,7 @@ _This card can only be activated during Main Phase 1. All monsters on both sides
 
   
 ## AFTER THE STRUGGLE  
-_This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn._
+> This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn.
 
 *   This card's title has been changed to "After the Struggle". If you have a card titled "After Genocide" its name is treated as "After the Struggle".
 
@@ -280,7 +280,7 @@ _This card can only be activated during Main Phase 1. All monsters on both sides
 
   
 ## AGAINST THE WIND  
-_Select 1 "Blackwing" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand._
+> Select 1 "Blackwing" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.
 
 *   “Against the Wind” targets 1 “Blackwing” monster in your Graveyard.
 *   If you control “Des Wombat,” you can activate “Against the Wind,” but since the damage you take becomes 0, you cannot add a card to your hand.
@@ -290,7 +290,7 @@ _Select 1 "Blackwing" monster in your Graveyard. Take damage equal to the ATK of
 
   
 ## AGIDO  
-_① When this card is destroyed and sent to the Graveyard as a result of battle, roll a six-sided die. You can Special Summon 1 Fairy-Type monster from your Graveyard whose Level is equal to the number rolled. (If the result is 6, you can Special Summon a Level 6 or higher monster.)_
+> ① When this card is destroyed and sent to the Graveyard as a result of battle, roll a six-sided die. You can Special Summon 1 Fairy-Type monster from your Graveyard whose Level is equal to the number rolled. (If the result is 6, you can Special Summon a Level 6 or higher monster.)
 
 *   The ① mandatory Trigger Effect activates & resolves in the Graveyard.
     *   This effect activates in Substep 7 - End of the Damage Step.
@@ -299,7 +299,7 @@ _① When this card is destroyed and sent to the Graveyard as a result of battle
 
   
 ## AIRKNIGHT PARSHATH  
-_① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② When this card inflicts Battle Damage to your opponent, draw 1 card._
+> ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② When this card inflicts Battle Damage to your opponent, draw 1 card.
 
 *   The ① Continuous Effect applies while this card is attacking.
     *   This effect will not apply if "Total Defense Shogun" attacks this card from Defense Position.
@@ -311,7 +311,7 @@ _① During battle between this attacking card and a Defense Position monster wh
 
   
 ## ALCHEMY CYCLE  
-_The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the Graveyard, draw 1 card._
+> The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the Graveyard, draw 1 card.
 
 *   Monsters with an original ATK that is already 0 are not affected by "Alchemy Cycle". You will not draw a card when they are destroyed by battle.
 
@@ -321,7 +321,7 @@ _The original ATK of all face-up monsters you control becomes 0, until the End P
 
   
 ## ALIEN AMMONITE  
-_① When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower "Alien" monster from your Graveyard. Destroy it during the End Phase._
+> ① When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower "Alien" monster from your Graveyard. Destroy it during the End Phase.
 
 *   The ① optional Trigger Effect activates in the Summon response timing.
     *   The effect targets one Level 4 or lower "Alien" Monster in your Graveyard.
@@ -329,7 +329,7 @@ _① When this card is Normal Summoned, you can Special Summon 1 Level 4 or lowe
 
   
 ## ALIEN BRAIN  
-_Activate only when a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard. Take control of the attacking monster, and treat it as a Reptile-Type monster._
+> Activate only when a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard. Take control of the attacking monster, and treat it as a Reptile-Type monster.
 
 *   This effect does not target.
 *   The destroyed monster must be Reptile-Type while on the field AND in the Graveyard.
@@ -341,7 +341,7 @@ _Activate only when a Reptile-Type monster you control is destroyed by battle wi
 
   
 ## ALIEN DOG  
-_① When you Normal Summon an "Alien" monster, you can Special Summon this card from your hand. ② When you do, place 2 A-Counters on face-up monster(s) your opponent controls._
+> ① When you Normal Summon an "Alien" monster, you can Special Summon this card from your hand. ② When you do, place 2 A-Counters on face-up monster(s) your opponent controls.
 
 *   The ① optional Trigger Effect activates & resolves in the hand.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -355,7 +355,7 @@ _① When you Normal Summon an "Alien" monster, you can Special Summon this card
 
   
 ## ALIEN GREY  
-_FLIP: Place 1 A-Counter on 1 face-up monster on your opponent's side of the field. (① If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) ② After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card._
+> FLIP: Place 1 A-Counter on 1 face-up monster on your opponent's side of the field. (① If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) ② After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card.
 
 *   The Flip Effect is mandatory.
 *   The ① Continuous Effect applies while this card is face-up on the field.
@@ -366,7 +366,7 @@ _FLIP: Place 1 A-Counter on 1 face-up monster on your opponent's side of the fie
 
   
 ## ALIEN HUNTER  
-_① If this card destroys a monster with an A-Counter by battle, it can attack once again in a row._
+> ① If this card destroys a monster with an A-Counter by battle, it can attack once again in a row.
 
 *   The ① optional Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 7 - End of the Damage Step.
@@ -375,8 +375,8 @@ _① If this card destroys a monster with an A-Counter by battle, it can attack 
 
   
 ## ALIEN HYPNO  
-_Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:_  
-__● ① During your Main Phase, you can select 1 monster your opponent controls with an A-Counter(s), and take control of it while this card is on the field. ② During each of your End Phases, remove 1 A-Counter from each controlled monster. ③ If all A-Counters are removed from one of these monsters, destroy it.__
+> Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:_  
+__● ① During your Main Phase, you can select 1 monster your opponent controls with an A-Counter(s), and take control of it while this card is on the field. ② During each of your End Phases, remove 1 A-Counter from each controlled monster. ③ If all A-Counters are removed from one of these monsters, destroy it._
 
 *   The Ⓤ Unclassified effect cannot be negated, even while in the Graveyard.
 *   The Ⓒ Condition allows this monster to be Gemini Summoned.
@@ -392,7 +392,7 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 
   
 ## ALIEN KID  
-_① Place 1 A-Counter on all monsters Special Summoned to your opponent's side of the field. ② (If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)_
+> ① Place 1 A-Counter on all monsters Special Summoned to your opponent's side of the field. ② (If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   This effect does not retroactively place A-Counters on Special Summoned monsters.
@@ -403,7 +403,7 @@ _① Place 1 A-Counter on all monsters Special Summoned to your opponent's side 
 
   
 ## ALIEN MARS  
-_① The effects of Effect Monsters with A-Counters are negated, except for "Alien Mars"._
+> ① The effects of Effect Monsters with A-Counters are negated, except for "Alien Mars".
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   This effect can only negate the effects of face-up monsters on the field, as face-down monsters (and monsters that are not on the field) cannot hold A-Counters.
@@ -411,7 +411,7 @@ _① The effects of Effect Monsters with A-Counters are negated, except for "Ali
 
   
 ## ALIEN MOTHER  
-_① If this card destroys a monster with an A-Counter by battle and sends it to the Graveyard, Special Summon the destroyed monster to your side of the field at the end of the Battle Phase. ② When this card is removed from the field, all monsters that were Special Summoned by this card's effect are destroyed._
+> ① If this card destroys a monster with an A-Counter by battle and sends it to the Graveyard, Special Summon the destroyed monster to your side of the field at the end of the Battle Phase. ② When this card is removed from the field, all monsters that were Special Summoned by this card's effect are destroyed.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 7 - End of the Damage Step.
@@ -422,7 +422,7 @@ _① If this card destroys a monster with an A-Counter by battle and sends it to
 
   
 ## ALIEN OVERLORD  
-_Ⓤ You can remove 2 A-Counters from anywhere on the field to Special Summon this card from your hand. ① Once per turn, you can place 1 A-Counter on each face-up monster your opponent controls. (② If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) ③ You can only control 1 "Alien Overlord"._
+> Ⓤ You can remove 2 A-Counters from anywhere on the field to Special Summon this card from your hand. ① Once per turn, you can place 1 A-Counter on each face-up monster your opponent controls. (② If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) ③ You can only control 1 "Alien Overlord".
 
 *   The Ⓤ Unclassified Effect acts as a built-in Special Summon (this does not start a Chain).
     *   This card can also be Normal Summoned.
@@ -435,7 +435,7 @@ _Ⓤ You can remove 2 A-Counters from anywhere on the field to Special Summon th
 
   
 ## ALL-OUT ATTACKS  
-_① All monsters that are Special Summoned are changed to face-up Attack Position and must attack, if able, during the turn they are Special Summoned._
+> ① All monsters that are Special Summoned are changed to face-up Attack Position and must attack, if able, during the turn they are Special Summoned.
 
 *   The ① mandatory Trigger-like Effect activates & resolves on the field.
     *   This effect starts a Chain even if a monster(s) is Special Summoned in Attack Position.
@@ -444,7 +444,7 @@ _① All monsters that are Special Summoned are changed to face-up Attack Positi
 
   
 ## ALLURE QUEEN LV3  
-_① Once per turn, during your Main Phase, you can select 1 Level 3 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) ② If this card would be destroyed by battle, the equipped monster is destroyed instead. ③ During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 "Allure Queen LV5" from your hand or Deck._
+> ① Once per turn, during your Main Phase, you can select 1 Level 3 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) ② If this card would be destroyed by battle, the equipped monster is destroyed instead. ③ During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 "Allure Queen LV5" from your hand or Deck.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a face-up monster on your opponent's field.
@@ -460,7 +460,7 @@ _① Once per turn, during your Main Phase, you can select 1 Level 3 or lower mo
 
   
 ## ALLURE QUEEN LV5  
-_① Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV3", you can select 1 Level 5 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) ② If this card would be destroyed by battle, the equipped monster is destroyed instead. ③ During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 "Allure Queen LV7" from your hand or Deck._
+> ① Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV3", you can select 1 Level 5 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) ② If this card would be destroyed by battle, the equipped monster is destroyed instead. ③ During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 "Allure Queen LV7" from your hand or Deck.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a face-up monster on your opponent's field.
@@ -478,7 +478,7 @@ _① Once per turn, during your Main Phase, if this card was Special Summoned by
 
   
 ## ALLURE QUEEN LV7  
-_Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV5", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead._
+> Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV5", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a face-up monster on your opponent's field.
@@ -492,7 +492,7 @@ _Once per turn, during your Main Phase, if this card was Special Summoned by the
 
   
 ## ALLY OF JUSTICE CATASTOR  
-_① If this card attacks or is attacked by a non-DARK monster, destroy that monster at the start of the Damage Step (without damage calculation)._
+> ① If this card attacks or is attacked by a non-DARK monster, destroy that monster at the start of the Damage Step (without damage calculation).
 
 *   This ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 1 - Start of the Damage Step, before face-down monsters are flipped face-up. This effect will not activate when attacking a face-down monster.
@@ -501,7 +501,7 @@ _① If this card attacks or is attacked by a non-DARK monster, destroy that mon
 
   
 ## ALTAR FOR TRIBUTE  
-_Select 1 monster on your side of the field and send it to the Graveyard. Increase your Life Points by an amount equal to the original ATK of the monster._
+> Select 1 monster on your side of the field and send it to the Graveyard. Increase your Life Points by an amount equal to the original ATK of the monster.
 
 *   Sending a monster to the Graveyard for "Altar for Tribute" is a cost.
 
@@ -511,14 +511,14 @@ _Select 1 monster on your side of the field and send it to the Graveyard. Increa
 
   
 ## AMAZON ARCHER  
-_① Tribute 2 monsters on your side of the field to inflict 1200 points of damage to your opponent's Life Points._
+> ① Tribute 2 monsters on your side of the field to inflict 1200 points of damage to your opponent's Life Points.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Tributing 2 monsters is a cost. "Amazon Archer" can be Tributed to pay its cost.
 
   
 ## AMAZONESS ARCHERS  
-_You can activate this card when your opponent declares an attack and if there is a monster(s) on your side of the field that includes "Amazoness" in its card name, or is named "Amazon Archer". All monsters on your opponent's side of the field are changed to face-up Attack Position (Flip Effects are not activated), and as long as they remain face-up on the field, their ATK(s) are decreased by 500 points. Your opponent must attack with all of his/her monsters._
+> You can activate this card when your opponent declares an attack and if there is a monster(s) on your side of the field that includes "Amazoness" in its card name, or is named "Amazon Archer". All monsters on your opponent's side of the field are changed to face-up Attack Position (Flip Effects are not activated), and as long as they remain face-up on the field, their ATK(s) are decreased by 500 points. Your opponent must attack with all of his/her monsters.
 
 *   "These monsters" means all of your opponent's face-up monsters on the field at the time "Amazoness Archers" resolves, not just the monsters that were flipped by "Amazoness Archers"' effect.
 
@@ -535,7 +535,7 @@ _You can activate this card when your opponent declares an attack and if there i
 
   
 ## AMAZONESS BLOWPIPER  
-_① Select 1 face-up monster on your opponent's side of the field during each of your Standby Phases. Decrease the ATK of the selected monster by 500 points until the end of this turn._
+> ① Select 1 face-up monster on your opponent's side of the field during each of your Standby Phases. Decrease the ATK of the selected monster by 500 points until the end of this turn.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect targets 1 face-up monster your opponent controls.
@@ -544,7 +544,7 @@ _① Select 1 face-up monster on your opponent's side of the field during each o
 
   
 ## AMAZONESS CHAIN MASTER  
-_① When this card is destroyed by battle and sent to the Graveyard, you can pay 1500 Life Points to look at your opponent's hand, select 1 Monster Card in it, and add that card to your hand._
+> ① When this card is destroyed by battle and sent to the Graveyard, you can pay 1500 Life Points to look at your opponent's hand, select 1 Monster Card in it, and add that card to your hand.
 
 *   The ① optional Trigger Effect activates & resolves in the Graveyard.
     *   This effect activates in Substep 7 - End of the Damage Step.
@@ -556,7 +556,7 @@ _① When this card is destroyed by battle and sent to the Graveyard, you can pa
 
   
 ## AMAZONESS FIGHTER  
-_① All Battle Damage to this card's controller that he/she takes from a battle involving this monster becomes 0._
+> ① All Battle Damage to this card's controller that he/she takes from a battle involving this monster becomes 0.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   This effect is applied in Substep 4 - Damage Calculation.
@@ -568,14 +568,14 @@ _① All Battle Damage to this card's controller that he/she takes from a battle
 
   
 ## AMAZONESS PALADIN  
-_① Increase the ATK of this monster by 100 for each monster on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer"._
+> ① Increase the ATK of this monster by 100 for each monster on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer".
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
 *   "Amazoness Paladin" counts herself in her effect, so even by herself she gains +100 ATK.
 
   
 ## AMAZONESS SPELLCASTER  
-_Until the end of this turn, switch the original ATK of 1 face-up monster on your side of field that includes "Amazoness" in its card name or is named "Amazon Archer", with the original ATK of 1 face-up monster on your opponent's side of the field._
+> Until the end of this turn, switch the original ATK of 1 face-up monster on your side of field that includes "Amazoness" in its card name or is named "Amazon Archer", with the original ATK of 1 face-up monster on your opponent's side of the field.
 
 *   "Amazoness Spellcaster" targets (it targets 2 monsters), so when you activate "Amazoness Spellcaster" you select 1 face-up Amazoness on your side of the field and 1 face-up monster on your opponent's side of the field.
 
@@ -587,7 +587,7 @@ _Until the end of this turn, switch the original ATK of 1 face-up monster on you
 
   
 ## AMAZONESS SWORDS WOMAN  
-_① The opponent takes all Battle Damage to this card's controller that he/she would have taken from a battle involving this card._
+> ① The opponent takes all Battle Damage to this card's controller that he/she would have taken from a battle involving this card.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
 *   "Amazoness Swordswoman" only applies her effect to Battle Damage to her controller, so if attacked by a stronger monster, the "Amazoness Swordswoman" herself is still destroyed as normal.
@@ -601,7 +601,7 @@ _① The opponent takes all Battle Damage to this card's controller that he/she 
 
   
 ## AMAZONESS TIGER  
-_① You can only have 1 "Amazoness Tiger" on your side of the field. ② Increase the ATK of this card by 400 points for each monster on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer". ③ As long as this card remains face-up on the field, your opponent cannot attack another monster that includes "Amazoness" in its name, or is named "Amazon Archer"._
+> ① You can only have 1 "Amazoness Tiger" on your side of the field. ② Increase the ATK of this card by 400 points for each monster on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer". ③ As long as this card remains face-up on the field, your opponent cannot attack another monster that includes "Amazoness" in its name, or is named "Amazon Archer".
 
 *   The ① Unclassified Effect applies while this card is face-up on the field (like a Continuous Effect).
     *   If you have an "Amazoness Tiger" face-up, you can Set another "Amazoness Tiger" face-down. If the face-down "Amazoness Tiger" is flipped face-up by an attack, the flipped "Amazoness Tiger" is destroyed after damage calculation. If the face-down "Amazoness Tiger" is flipped with "Swords of Revealing Light", etc., the flipped "Amazoness Tiger" is destroyed but the original "Amazoness Tiger" is not.
@@ -619,7 +619,7 @@ _① You can only have 1 "Amazoness Tiger" on your side of the field. ② Increa
 
   
 ## AMBULANCEROID  
-_① When a "roid" monster is added from your Graveyard to your hand, you can Special Summon that monster._
+> ① When a "roid" monster is added from your Graveyard to your hand, you can Special Summon that monster.
 
 *   The ① optional Trigger Effect activates & resolves on the field.
     *   You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.
@@ -627,7 +627,7 @@ _① When a "roid" monster is added from your Graveyard to your hand, you can Sp
 
   
 ## AMBUSH FANGS  
-_Activate only when a face-up "Venom" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked._
+> Activate only when a face-up "Venom" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked.
 
 *   This card’s effect to “…end the Battle Phase.” causes play to enter the End Step of the Battle Phase. The Venom Counter is placed on the monster that attacked, then any other effects that happen “at the end of the Battle Phase” are resolved.
 
@@ -635,7 +635,7 @@ _Activate only when a face-up "Venom" monster you control is declared as an atta
 
   
 ## AMEBA  
-_① When this card is face-up on the field and control shifts to your opponent, inflict 2000 points of damage to your opponent's Life Points. Ⓒ This effect can only be used once as long as this card remains face-up on the field._
+> ① When this card is face-up on the field and control shifts to your opponent, inflict 2000 points of damage to your opponent's Life Points. Ⓒ This effect can only be used once as long as this card remains face-up on the field.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This card’s effect is not activated when equipped to an opponent’s "Relinquished".
@@ -645,14 +645,14 @@ _① When this card is face-up on the field and control shifts to your opponent,
 
   
 ## AMPHIBIOUS BUGROTH MK-3  
-_① While "Umi" is face-up on the field, this card can attack your opponent's Life Points directly._
+> ① While "Umi" is face-up on the field, this card can attack your opponent's Life Points directly.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   When "Umi" is on the field, and "Amphibious Bugroth MK-3" declares a direct attack, and "Umi" is destroyed during the Battle Step, "Amphibious Bugroth MK-3" can no longer attack directly, so a replay occurs.
 
   
 ## AMPLIFIER  
-_Equip only to "Jinzo". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated._
+> Equip only to "Jinzo". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.
 
 *   Note that "Amplifier"'s activation and effect cannot be negated. This is written on the card.
 
@@ -668,7 +668,7 @@ _Equip only to "Jinzo". While this card is equipped, the equipped monster's effe
 
   
 ## AMULET OF AMBITION  
-_Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the Graveyard, you can return it to the top of the Deck._
+> Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the Graveyard, you can return it to the top of the Deck.
 
 *   The increase in ATK is applied only during Damage Calculation.
 
@@ -676,7 +676,7 @@ _Equip only to a Normal Monster. If it battles a monster with a higher Level, th
 
   
 ## AN OWL OF LUCK  
-_FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected Field Spell Card to your hand instead._
+> FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected Field Spell Card to your hand instead.
 
 *   Show the card to your opponent.
 
@@ -687,13 +687,13 @@ _FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck
 
   
 ## AN UNFORTUNATE REPORT  
-_Your opponent conducts their next Battle Phase twice._
+> Your opponent conducts their next Battle Phase twice.
 
 *   If you activate “An Unfortunate Report” during your turn and your opponent decides not to enter the Battle Phase of their following turn, they will conduct two Battle Phases the next time that they decide to conduct their Battle Phase, in a later turn.
 
   
 ## ANCIENT CITY - RAINBOW RUINS  
-_This card gets these effects, based on the number of "Crystal Beast" cards in your Spell & Trap Card Zone. ●1+: This card cannot be destroyed by a card effect. ●2+: Once per turn, you can halve the Battle Damage you take. ●3+: You can send 1 "Crystal Beast" monster you control to the Graveyard to negate the activation of a Spell or Trap Card and destroy it. ●4+: Once per turn, during your Main Phase, you can draw 1 card. ●5+: Once per turn, during your Main Phase, you can Special Summon 1 "Crystal Beast" card from your Spell & Trap Card Zone._
+> This card gets these effects, based on the number of "Crystal Beast" cards in your Spell & Trap Card Zone. ●1+: This card cannot be destroyed by a card effect. ●2+: Once per turn, you can halve the Battle Damage you take. ●3+: You can send 1 "Crystal Beast" monster you control to the Graveyard to negate the activation of a Spell or Trap Card and destroy it. ●4+: Once per turn, during your Main Phase, you can draw 1 card. ●5+: Once per turn, during your Main Phase, you can Special Summon 1 "Crystal Beast" card from your Spell & Trap Card Zone.
 
 *   These effects are cumulative. If you have 4 or more "Crystal Beast" monsters in your Spell & Trap Card Zone, this card gets all of these effects except the last one.
     *   Only the controller of this card can use these effects.
@@ -723,7 +723,7 @@ _This card gets these effects, based on the number of "Crystal Beast" cards in y
 
   
 ## ANCIENT CRIMSON APE  
-_① When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points._
+> ① When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   If “Ancient Crimson Ape” is destroyed and sent to the Graveyard, its effect does not activate.
@@ -731,7 +731,7 @@ _① When a monster(s) you control is destroyed and sent to the Graveyard, gain 
 
   
 ## ANCIENT FAIRY DRAGON  
-_① Once per turn, you can Special Summon 1 Level 4 or lower monster from your hand. Ⓒ You cannot conduct your Battle Phase the turn you activate this effect. ② Once per turn, you can destroy a Field Spell Card. If you do, gain 1000 Life Points, and you can add 1 Field Spell Card from your Deck to your hand._
+> ① Once per turn, you can Special Summon 1 Level 4 or lower monster from your hand. Ⓒ You cannot conduct your Battle Phase the turn you activate this effect. ② Once per turn, you can destroy a Field Spell Card. If you do, gain 1000 Life Points, and you can add 1 Field Spell Card from your Deck to your hand.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   You can Special Summon a monster whose level in the hand is to 4 or less by "Cost Down".
@@ -750,7 +750,7 @@ _① Once per turn, you can Special Summon 1 Level 4 or lower monster from your 
 
   
 ## ANCIENT FOREST  
-_① When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. ② If a monster attacks, destroy it at the end of that turn's Battle Phase._
+> ① When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. ② If a monster attacks, destroy it at the end of that turn's Battle Phase.
 
 *   The ① Continuous-like Effect applies when “Ancient Forest” resolves.
     *   If “Dust Tornado” is Chained to the activation of “Ancient Forest,” the Defense Position monsters are not changed to Attack Position because “Ancient Forest” is no longer face-up on the field.
@@ -766,14 +766,14 @@ _① When you activate this card, change any Defense Position monster(s) to face
 
   
 ## ANCIENT GEAR  
-_Ⓤ While you control a face-up "Ancient Gear", you can Special Summon this card from your hand in Attack Position._
+> Ⓤ While you control a face-up "Ancient Gear", you can Special Summon this card from your hand in Attack Position.
 
 *   The Ⓤ Unclassified Effect applies in the hand.
     *   Special Summoning this card does not start a chain.
 
   
 ## ANCIENT GEAR BEAST  
-_Ⓒ This card cannot be Special Summoned. ① The effects of your opponent's monsters that this card destroys by battle are negated. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step._
+> Ⓒ This card cannot be Special Summoned. ① The effects of your opponent's monsters that this card destroys by battle are negated. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
 
 *   The Ⓒ Condition cannot be negated.
     *   This card cannot be Special Summoned face-down by "The Shallow Grave".
@@ -794,7 +794,7 @@ _Ⓒ This card cannot be Special Summoned. ① The effects of your opponent's mo
 
   
 ## ANCIENT GEAR CANNON  
-_① You can Tribute this card to inflict 500 damage to your opponent, and then neither player can activate Trap Cards during the Battle Phase of this turn._
+> ① You can Tribute this card to inflict 500 damage to your opponent, and then neither player can activate Trap Cards during the Battle Phase of this turn.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   The restriction on Trap Cards is tied to “Ancient Gear Cannon” inflicting damage. If “Barrel Behind the Door” is chained to the effect of “Ancient Gear Cannon”, the rest of “Ancient Gear Cannon”’s effect is not applied and Trap Cards can still be activated.
@@ -806,7 +806,7 @@ _① You can Tribute this card to inflict 500 damage to your opponent, and then 
 
   
 ## ANCIENT GEAR CASTLE  
-_① Face-up "Ancient Gear" monsters gain 300 ATK. ② Each time a monster(s) is Normal Summoned or Set, put 1 counter on this card. ③ If you Tribute Summon an "Ancient Gear" monster, you can substitute this card for a Tribute(s), if the number of counters is equal to or greater than the number of required Tribute(s)._
+> ① Face-up "Ancient Gear" monsters gain 300 ATK. ② Each time a monster(s) is Normal Summoned or Set, put 1 counter on this card. ③ If you Tribute Summon an "Ancient Gear" monster, you can substitute this card for a Tribute(s), if the number of counters is equal to or greater than the number of required Tribute(s).
 
 *   The ① Continuous-like Effect applies to "Ancient Gear" monsters on BOTH sides of the field.
 *   The ② Continuous-like Effect does not start a Chain.
@@ -821,7 +821,7 @@ _① Face-up "Ancient Gear" monsters gain 300 ATK. ② Each time a monster(s) is
 
   
 ## ANCIENT GEAR DRILL  
-_Activate only while you control a face-up "Ancient Gear" monster. Discard 1 card from your hand. Select 1 Spell Card from your Deck and Set it. You cannot use that Spell Card this turn._
+> Activate only while you control a face-up "Ancient Gear" monster. Discard 1 card from your hand. Select 1 Spell Card from your Deck and Set it. You cannot use that Spell Card this turn.
 
 *   Discarding 1 card is a cost.
 *   You must show your chosen card to your opponent to verify that it is a Spell Card.
@@ -833,7 +833,7 @@ _Activate only while you control a face-up "Ancient Gear" monster. Discard 1 car
 
   
 ## ANCIENT GEAR ENGINEER  
-_① Negate the effect of any Trap Card that targets this card, and destroy that Trap Card. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of Damage Step. ③ When this card attacks, destroy 1 Spell or Trap Card on your opponent's side of the field at the end of the Damage Step._
+> ① Negate the effect of any Trap Card that targets this card, and destroy that Trap Card. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of Damage Step. ③ When this card attacks, destroy 1 Spell or Trap Card on your opponent's side of the field at the end of the Damage Step.
 
 *   The ① Continuous Effect does not activate.
     *   This card can still be targeted by the effects of Trap Cards, but they resolve without effect.
@@ -852,7 +852,7 @@ _① Negate the effect of any Trap Card that targets this card, and destroy that
 
   
 ## ANCIENT GEAR FACTORY  
-_Select 1 "Ancient Gear" monster in your hand and show it to your opponent. Remove from play "Ancient Gear" cards in your Graveyard whose total Levels are equal to double the selected card's. You can Normal Summon the selected card without Tributes this turn._
+> Select 1 "Ancient Gear" monster in your hand and show it to your opponent. Remove from play "Ancient Gear" cards in your Graveyard whose total Levels are equal to double the selected card's. You can Normal Summon the selected card without Tributes this turn.
 
 *   You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.
 
@@ -862,14 +862,14 @@ _Select 1 "Ancient Gear" monster in your hand and show it to your opponent. Remo
 
   
 ## ANCIENT GEAR FIST  
-_Equip only to an "Ancient Gear" monster. Destroy any monster that battles with it, at the end of the Damage Step._
+> Equip only to an "Ancient Gear" monster. Destroy any monster that battles with it, at the end of the Damage Step.
 
 *   This card's effect does not target the monster it destroys.
 *   This effect activates in Substep 7 - End of the Damage Step.
 
   
 ## ANCIENT GEAR GADJILTRON CHIMERA  
-_① If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect: ● Green Gadget: This card gains 300 ATK. ● Red Gadget: If this card successfully attacks your opponent directly, inflict 500 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 700 damage to your opponent._
+> ① If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect: ● Green Gadget: This card gains 300 ATK. ● Red Gadget: If this card successfully attacks your opponent directly, inflict 500 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 700 damage to your opponent.
 
 *   The ① Continous Effect of gaining effect(s) by Tributing a "Gadget" does not activate.
     *   When you Tribute Summon this card by Tributing a "Gadget" monster, it does not start a chain. Gaining the appropriate effect is a Continuous Effect.
@@ -884,7 +884,7 @@ _① If you Tribute Summon this card by Tributing 1 of the following monsters, t
 
   
 ## ANCIENT GEAR GADJILTRON DRAGON  
-_① If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. ② If you Tribute Summon this card by Tributing any of the following monster(s), this card gets the appropriate effect(s): ● Green Gadget: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ● Red Gadget: If this card inflicts Battle Damage to your opponent, inflict 400 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 600 damage to your opponent._
+> ① If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. ② If you Tribute Summon this card by Tributing any of the following monster(s), this card gets the appropriate effect(s): ● Green Gadget: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ● Red Gadget: If this card inflicts Battle Damage to your opponent, inflict 400 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 600 damage to your opponent.
 
 *   The ① Continuous Effect applies while this face-up monster is attacking.
     *   This effect begins to apply at the Start of the Battle Step - Attack Declaration.
@@ -907,7 +907,7 @@ _① If this card attacks, your opponent cannot activate any Spell or Trap Cards
 
   
 ## ANCIENT GEAR GOLEM  
-_Ⓒ This card cannot be Special Summoned. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step._
+> Ⓒ This card cannot be Special Summoned. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
 
 *   The Ⓒ Condition cannot be negated.
     *   This card cannot be Special Summoned face-down by "The Shallow Grave".
@@ -924,19 +924,19 @@ _Ⓒ This card cannot be Special Summoned. ① During battle between this attack
 
   
 ## ANCIENT LEAF  
-_If you have 9000 or more Life Points, you can pay 2000 Life Points to draw 2 cards._
+> If you have 9000 or more Life Points, you can pay 2000 Life Points to draw 2 cards.
 
 *   Paying 2000 Life Points is a cost.
 
   
 ## ANCIENT RULES  
-_Special Summon 1 Level 5 or higher Normal Monster from your hand._
+> Special Summon 1 Level 5 or higher Normal Monster from your hand.
 
 *   If an effect is chained to the activation of “Ancient Rules” that causes you to discard the only Level 5 or higher Normal Monster(s) in your hand, your opponent may look at your hand to confirm this when “Ancient Rules” resolves.
 
   
 ## ANCIENT SACRED WYVERN  
-_① While your Life Points are higher than your opponent's, this card gains ATK equal to the difference. ② While your Life Points are lower than your opponent's, this card loses ATK equal to the difference. ③ When this card is destroyed by battle and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card._
+> ① While your Life Points are higher than your opponent's, this card gains ATK equal to the difference. ② While your Life Points are lower than your opponent's, this card loses ATK equal to the difference. ③ When this card is destroyed by battle and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card.
 
 *   The ① Continuous Effect does not start a Chain.
     *   This effect applies while this card is face-up on the field.
@@ -949,7 +949,7 @@ _① While your Life Points are higher than your opponent's, this card gains ATK
 
   
 ## ANDRO SPHINX  
-_① You can pay 500 Life Points to Special Summon this card when "Pyramid of Light" is on the field. ② This card cannot attack during the turn that it is Normal Summoned or Special Summoned. Ⓒ This card cannot be Special Summoned from the Graveyard. ③ If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the ATK of the destroyed monster._
+> ① You can pay 500 Life Points to Special Summon this card when "Pyramid of Light" is on the field. ② This card cannot attack during the turn that it is Normal Summoned or Special Summoned. Ⓒ This card cannot be Special Summoned from the Graveyard. ③ If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the ATK of the destroyed monster.
 
 *   The ① Ignition Effect activates & resolves in the hand \[[REF](https://www.pojo.biz/board/showthread.php?t=610305)\].
     *   This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.
@@ -966,7 +966,7 @@ _① You can pay 500 Life Points to Special Summon this card when "Pyramid of Li
 
   
 ## ANGEL O7  
-_When this card is Tribute Summoned, it gains the following effect: ①● The effects of Effect Monsters cannot be activated._
+> When this card is Tribute Summoned, it gains the following effect: ①● The effects of Effect Monsters cannot be activated.
 
 *   The Ⓒ Condition is not an effect, it cannot be negated.
     *   This card must be Tribute Summoned, not Normal Summoned by "Mausoleum of the Emperor".
@@ -979,7 +979,7 @@ _When this card is Tribute Summoned, it gains the following effect: ①● The e
 
   
 ## ANTE  
-_Each Player selects 1 card from his/her hand, then looks at the Level of the selected cards. The card with more Levels returns to the hand of the player who selected it. The player who selected the card with fewer Levels takes 1000 Life Points damage and sends the card to the Graveyard. If a non-Monster Card is selected, it is treated as Level 0. If they are the same Level, each player returns his/her card to his/her hand._
+> Each Player selects 1 card from his/her hand, then looks at the Level of the selected cards. The card with more Levels returns to the hand of the player who selected it. The player who selected the card with fewer Levels takes 1000 Life Points damage and sends the card to the Graveyard. If a non-Monster Card is selected, it is treated as Level 0. If they are the same Level, each player returns his/her card to his/her hand.
 
 *   If "Ante" is the only card in your hand, you cannot activate it.
 
@@ -992,7 +992,7 @@ _Each Player selects 1 card from his/her hand, then looks at the Level of the se
 
   
 ## ANTEATEREATINGANT  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 2 Spell or Trap Cards you control to the Graveyard. ① You can destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card cannot attack during this turn._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 2 Spell or Trap Cards you control to the Graveyard. ① You can destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card cannot attack during this turn.
 
 *   The Ⓒ Condition is not an effect. It cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand.
@@ -1009,7 +1009,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special
 
   
 ## ANTI-AIRCRAFT FLOWER  
-_① By tributing 1 Insect-Type monster on your side of the field, inflict 800 points of damage to your opponent's Life Points._
+> ① By tributing 1 Insect-Type monster on your side of the field, inflict 800 points of damage to your opponent's Life Points.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Tributing 1 Insect-Type monster you control is a cost.
@@ -1017,25 +1017,25 @@ _① By tributing 1 Insect-Type monster on your side of the field, inflict 800 p
 
   
 ## ANTI-FUSION DEVICE  
-_Destroy 1 face-up Fusion Monster on the field._
+> Destroy 1 face-up Fusion Monster on the field.
 
 *   This effect targets.
 
   
 ## ANTI-SPELL  
-_Remove 2 Spell Counters on your side of the field to negate the activation of a Spell Card and destroy it._
+> Remove 2 Spell Counters on your side of the field to negate the activation of a Spell Card and destroy it.
 
 *   Removing 2 Spell Counters is a cost.
 
   
 ## ANTI-SPELL FRAGRANCE  
-_Both players must Set Spell Cards before activating them, and cannot activate them until their next turn._
+> Both players must Set Spell Cards before activating them, and cannot activate them until their next turn.
 
 *   The "use" in this card's text means "activate". So you may discard Spell Cards from your hand for the cost of other cards.
 
   
 ## APOCATEQUIL  
-_① While this card is face-up on the field, it is Level 5 if you control a face-up Tuner monster. ② When this card on the field is destroyed and sent to the Graveyard, you can select and Special Summon 1 "Oracle of the Sun" from your Graveyard._
+> ① While this card is face-up on the field, it is Level 5 if you control a face-up Tuner monster. ② When this card on the field is destroyed and sent to the Graveyard, you can select and Special Summon 1 "Oracle of the Sun" from your Graveyard.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   If “Level Eater” reduced this card's Level to 4: it becomes Level 3 when the Tuner is flipped face-down / leaves the field; it becomes Level 5 if another Tuner is Summoned face-up.
@@ -1045,7 +1045,7 @@ _① While this card is face-up on the field, it is Level 5 if you control a fac
 
   
 ## APPOINTER OF THE RED LOTUS  
-_Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until the End Phase of your opponent’s next turn._
+> Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until the End Phase of your opponent’s next turn.
 
 *   Paying 2000 Life Points and revealing all cards in your hand (minimum 1) is a cost.
 *   The selected card is removed from play face-up.
@@ -1056,7 +1056,7 @@ _Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's
 
   
 ## APPRENTICE MAGICIAN  
-_① When this card is Summoned, place 1 Spell Counter on a face-up card that you can place a Spell Counter on. ② When this card is destroyed by battle, you can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position._
+> ① When this card is Summoned, place 1 Spell Counter on a face-up card that you can place a Spell Counter on. ② When this card is destroyed by battle, you can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position.
 
 *   The ① Trigger Effect is mandatory. It activates & resolves on the field.
     *   This effect activates whenever this card is (Normal / Flip / Special) Summoned face-up.
@@ -1070,7 +1070,7 @@ _① When this card is Summoned, place 1 Spell Counter on a face-up card that yo
 
   
 ## APPROPRIATE  
-_Activate only when your opponent draws a card(s), except during their Draw Phase. Draw 2 cards._
+> Activate only when your opponent draws a card(s), except during their Draw Phase. Draw 2 cards.
 
 *   "Appropriate" can only be activated if the last effect on the Chain ends with your opponent drawing a card(s) outside of their Draw Phase. (See "Missing the Timing - Optional Trigger Effects" in the Advanced Gameplay FAQ for more information.)
 *   If your opponent "picks up" cards with "Morphing Jar #2", etc., you do not draw.
@@ -1079,7 +1079,7 @@ _Activate only when your opponent draws a card(s), except during their Draw Phas
 
   
 ## ARCANA CALL  
-_Select 1 "Arcana Force" monster you control. Remove from play 1 "Arcana Force" monster from either player's Graveyard. Until the End Phase, the selected monster's effect becomes the removed monster's effect for the same coin toss result._
+> Select 1 "Arcana Force" monster you control. Remove from play 1 "Arcana Force" monster from either player's Graveyard. Until the End Phase, the selected monster's effect becomes the removed monster's effect for the same coin toss result.
 
 *   "Arcana Call" targets 1 "Arcana Force" monster you control and 1 "Arcana Force" monster in the Graveyard.
 *   If an effect is chained that removes the "Arcana Force" monster from the Graveyard, the effect of "Arcana Call" disappears.
@@ -1087,7 +1087,7 @@ _Select 1 "Arcana Force" monster you control. Remove from play 1 "Arcana Force" 
 
   
 ## ARCANA FORCE EX - THE DARK RULER  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. ① When this card is Special Summoned, toss a coin: ● Heads: This card can attack twice during the same Battle Phase. If this card battles twice using this effect, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect. ● Tails: If this card is destroyed, destroy all cards on the field._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. ① When this card is Special Summoned, toss a coin: ● Heads: This card can attack twice during the same Battle Phase. If this card battles twice using this effect, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect. ● Tails: If this card is destroyed, destroy all cards on the field.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand (this Special Summon does not start a Chain).
@@ -1103,7 +1103,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special
 
   
 ## ARCANA FORCE EX - THE LIGHT RULER  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. ① When this card is Special Summoned, toss a coin: ● Heads: When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can add 1 card from your Graveyard to your hand. ● Tails: When an effect of a Spell, Trap or Effect Monster's effect that targets this card is activated, negate its activation and destroy it, and this card loses 1000 ATK._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. ① When this card is Special Summoned, toss a coin: ● Heads: When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can add 1 card from your Graveyard to your hand. ● Tails: When an effect of a Spell, Trap or Effect Monster's effect that targets this card is activated, negate its activation and destroy it, and this card loses 1000 ATK.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand (this Special Summon does not start a Chain).
@@ -1126,7 +1126,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special
 
   
 ## ARCANA FORCE I - THE MAGICIAN  
-_① When this card is Summoned, toss a coin: ● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn. ● Tails: When a Spell Card is activated, your opponent gains 500 Life Points._
+> ① When this card is Summoned, toss a coin: ● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn. ● Tails: When a Spell Card is activated, your opponent gains 500 Life Points.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by "Skill Drain", but this card will not forget which effect is gained while face-up.
@@ -1139,7 +1139,7 @@ _① When this card is Summoned, toss a coin: ● Heads: When a Spell Card is ac
 
   
 ## ARCANA FORCE VII - THE CHARIOT  
-_① When this card is Summoned, toss a coin: ● Heads: If this card destroys an opponent's monster by battle, you can Special Summon that monster to your side of the field. ● Tails: Your opponent gains control of this card._
+> ① When this card is Summoned, toss a coin: ● Heads: If this card destroys an opponent's monster by battle, you can Special Summon that monster to your side of the field. ● Tails: Your opponent gains control of this card.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by "Skill Drain", but this card will not forget which effect is gained while face-up.
@@ -1152,7 +1152,7 @@ _① When this card is Summoned, toss a coin: ● Heads: If this card destroys a
 
   
 ## ARCANA FORCE XIV - TEMPERANCE  
-_① During either player's turn, you can discard this card to reduce the damage you take from a battle to 0. ② When this card is Summoned, toss a coin. ● Heads: Halve all Battle Damage you take. ● Tails: Halve all Battle Damage your opponent takes._
+> ① During either player's turn, you can discard this card to reduce the damage you take from a battle to 0. ② When this card is Summoned, toss a coin. ● Heads: Halve all Battle Damage you take. ● Tails: Halve all Battle Damage your opponent takes.
 
 *   The ① Quick Effect activates & resolves in the hand.
     *   Discarding this card is a cost.
@@ -1166,7 +1166,7 @@ _① During either player's turn, you can discard this card to reduce the damage
 
   
 ## ARCANA FORCE XVIII - THE MOON  
-_① When this card is Summoned, toss a coin: ● Heads: During your Standby Phase, you can Special Summon 1 "Moon Token" (Fairy-Type/LIGHT/Level 1/ATK 0/DEF 0). ● Tails: During each of your End Phases, select 1 monster you control and give control of it to your opponent._
+> ① When this card is Summoned, toss a coin: ● Heads: During your Standby Phase, you can Special Summon 1 "Moon Token" (Fairy-Type/LIGHT/Level 1/ATK 0/DEF 0). ● Tails: During each of your End Phases, select 1 monster you control and give control of it to your opponent.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by "Skill Drain", but this card will not forget which effect is gained while face-up.
@@ -1177,7 +1177,7 @@ _① When this card is Summoned, toss a coin: ● Heads: During your Standby Pha
 
   
 ## ARCANA FORCE XXI - THE WORLD  
-_① When this card is Summoned, toss a coin: ● Heads: During your End Phase, you can send 2 monsters you control to the Graveyard to skip your opponent's next turn. ● Tails: During your opponent's Draw Phase, add the top card of their Graveyard to their hand._
+> ① When this card is Summoned, toss a coin: ● Heads: During your End Phase, you can send 2 monsters you control to the Graveyard to skip your opponent's next turn. ● Tails: During your opponent's Draw Phase, add the top card of their Graveyard to their hand.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by "Skill Drain", but this card will not forget which effect is gained while face-up.
@@ -1190,7 +1190,7 @@ _① When this card is Summoned, toss a coin: ● Heads: During your End Phase, 
 
   
 ## ARCANA KNIGHT JOKER  
-_Ⓒ A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. ① Once per turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or Effect Monster's effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card)._
+> Ⓒ A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. ① Once per turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or Effect Monster's effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card).
 
 *   The Ⓒ Condition cannot be negated.
     *   Fusion Substitute cards (like "King of the Swamp") cannot be used in this card's Fusion Summon.
@@ -1204,7 +1204,7 @@ _Ⓒ A Fusion Summon of this card can only be conducted with the above Fusion Ma
 
   
 ## ARCANE ARCHER OF THE FOREST  
-_① While there is a Plant-Type monster on your side of the field, this card cannot be attacked. ② By Tributing 1 Plant-Type monster on your side of the field, destroy 1 Spell or Trap Card on the field._
+> ① While there is a Plant-Type monster on your side of the field, this card cannot be attacked. ② By Tributing 1 Plant-Type monster on your side of the field, destroy 1 Spell or Trap Card on the field.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   If this card, your only monster on the field, is changed to Plant-Type: your opponent can't attack.
@@ -1215,7 +1215,7 @@ _① While there is a Plant-Type monster on your side of the field, this card ca
 
   
 ## ARCANE BARRIER  
-_① Each time a Spellcaster-Type monster(s) on the field is destroyed, place 1 Spell Counter on this card (max. 4). ② You can send this card and 1 face-up Spellcaster-Type monster you control to the Graveyard to draw 1 card for each Spell Counter on this card._
+> ① Each time a Spellcaster-Type monster(s) on the field is destroyed, place 1 Spell Counter on this card (max. 4). ② You can send this card and 1 face-up Spellcaster-Type monster you control to the Graveyard to draw 1 card for each Spell Counter on this card.
 
 *   The ① Continuous-like Effect applies while this card is face-up on the field.
     *   Placing Spell Counters on “Arcane Barrier” does not start a chain.
@@ -1227,7 +1227,7 @@ _① Each time a Spellcaster-Type monster(s) on the field is destroyed, place 1 
 
   
 ## ARCANITE MAGICIAN  
-_① When this card is Synchro Summoned, place 2 Spell Counters on it. ② This card gains 1000 ATK for each Spell Counter on it. ③ You can remove 1 Spell Counter from a card you control to destroy 1 card your opponent controls._
+> ① When this card is Synchro Summoned, place 2 Spell Counters on it. ② This card gains 1000 ATK for each Spell Counter on it. ③ You can remove 1 Spell Counter from a card you control to destroy 1 card your opponent controls.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   Spell Counters cannot be placed on face-down monsters (if "Book of Moon" is chained).
@@ -1241,7 +1241,7 @@ _① When this card is Synchro Summoned, place 2 Spell Counters on it. ② This 
 
   
 ## ARCHFIEND GENERAL  
-_① You can discard this card to the Graveyard to add 1 "Pandemonium" from your Deck to your hand. ② If this card is on the field but "Pandemonium" is not on the field, destroy this card._
+> ① You can discard this card to the Graveyard to add 1 "Pandemonium" from your Deck to your hand. ② If this card is on the field but "Pandemonium" is not on the field, destroy this card.
 
 *   The ① Ignition Effect activates & resolves in the hand.
     *   Discarding this card to the Graveyard is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
@@ -1264,7 +1264,7 @@ The following rulings apply to "Vilepawn Archfiend", "Desrook Archfiend", "Shado
 
   
 ## ARCHFIEND'S OATH  
-_① Once per turn you can pay 500 Life Points to declare 1 card name. Pick up the top card from your Deck and if the card name is the one you declared, add it to your hand. If not, send the card you picked up to the Graveyard._
+> ① Once per turn you can pay 500 Life Points to declare 1 card name. Pick up the top card from your Deck and if the card name is the one you declared, add it to your hand. If not, send the card you picked up to the Graveyard.
 
 *   The ① Ignition-like Effect activates & resolves on the field.
     *   Paying 500 Life Points is a cost. Declare 1 card name at activation.
@@ -1273,7 +1273,7 @@ _① Once per turn you can pay 500 Life Points to declare 1 card name. Pick up t
 
   
 ## ARCHFIEND'S ROAR  
-_Pay 500 Life Points to activate this card. Special Summon 1 Archfiend Monster Card from your Graveyard. This monster cannot be Tributed under any conditions and is destroyed during the End Phase of this turn._
+> Pay 500 Life Points to activate this card. Special Summon 1 Archfiend Monster Card from your Graveyard. This monster cannot be Tributed under any conditions and is destroyed during the End Phase of this turn.
 
 *   Paying 500 Life Points is a cost.
 *   This effect targets 1 Archfiend Monster in your Graveyard.
@@ -1284,7 +1284,7 @@ _Pay 500 Life Points to activate this card. Special Summon 1 Archfiend Monster C
 
   
 ## ARCHFIEND ZOMBIE SKULL  
-_① Face-up Zombie-Type monsters you control cannot be destroyed by card effects._
+> ① Face-up Zombie-Type monsters you control cannot be destroyed by card effects.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   If you control “Archfiend Zombie-Skull” and “Il Blud” and “Il Blud” is removed from the field, any monsters Summoned by the effect of “Il Blud” will not be destroyed.
@@ -1292,7 +1292,7 @@ _① Face-up Zombie-Type monsters you control cannot be destroyed by card effect
 
   
 ## ARCHLORD KRISTYA  
-_Ⓢ If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Special Summon this card from your hand. ① When you do, add 1 Fairy-Type monster from your Graveyard to your hand. ② Neither player can Special Summon monsters. Ⓤ If this face-up card would be sent from the field to the Graveyard, it is returned to the top of the owner’s Deck, instead._
+> Ⓢ If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Special Summon this card from your hand. ① When you do, add 1 Fairy-Type monster from your Graveyard to your hand. ② Neither player can Special Summon monsters. Ⓤ If this face-up card would be sent from the field to the Graveyard, it is returned to the top of the owner’s Deck, instead.
 
 *   The Ⓢ Unclassified Effect applies in the hand (this Special Summon does not start a chain).
     *   This card can still be Normal Summoned, or Special Summoned by card effects.
@@ -1308,7 +1308,7 @@ _Ⓢ If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Specia
 
   
 ## ARCHLORD ZERATO  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by Tributing 1 face-up "Warrior of Zera" on your side of the field while "The Sanctuary in the Sky" is on the field. ① If "The Sanctuary in the Sky" is on your side of the field, by discarding 1 LIGHT Monster Card from your hand to the Graveyard, destroy all monsters on your opponent's side of the field. If "The Sanctuary in the Sky" is not on your side of the field, this effect is not applied._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by Tributing 1 face-up "Warrior of Zera" on your side of the field while "The Sanctuary in the Sky" is on the field. ① If "The Sanctuary in the Sky" is on your side of the field, by discarding 1 LIGHT Monster Card from your hand to the Graveyard, destroy all monsters on your opponent's side of the field. If "The Sanctuary in the Sky" is not on your side of the field, this effect is not applied.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand (this Special Summon does not start a Chain).
@@ -1323,7 +1323,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special
 
   
 ## ARMAGEDDON KNIGHT  
-_① When this card is Summoned, you can send 1 DARK monster from your Deck to the Graveyard._
+> ① When this card is Summoned, you can send 1 DARK monster from your Deck to the Graveyard.
 
 *   The ① Trigger Effect is optional, it activates & resolves on the field.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -1333,7 +1333,7 @@ _① When this card is Summoned, you can send 1 DARK monster from your Deck to t
 
   
 ## ARMED CHANGER  
-_Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. ① If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand._
+> Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. ① If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand.
 
 *   Sending 1 Equip Spell Card from your hand to the Graveyard is a cost. You can't activate this card while "Macro Cosmos" is active, since you can't pay the cost.
 *   The ① Trigger-like Effect is optional, it activates & resolves on the field.
@@ -1343,7 +1343,7 @@ _Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. 
 
   
 ## ARMED DRAGON LV3  
-_① During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 "Armed Dragon LV5" from your hand or Deck._
+> ① During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 "Armed Dragon LV5" from your hand or Deck.
 
 *   The ① Trigger Effect is optional, it activates & resolves on the field.
     *   Sending this face-up card to the Graveyard is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
@@ -1351,7 +1351,7 @@ _① During your Standby Phase, by sending this face-up card to the Graveyard, S
 
   
 ## ARMED DRAGON LV5  
-_① By sending 1 Monster Card from your hand to the Graveyard, destroy 1 face-up monster on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster. ② During the End Phase of a turn that this card destroyed a monster by battle, by sending this card to the Graveyard, Special Summon 1 "Armed Dragon LV7" from your hand or Deck._
+> ① By sending 1 Monster Card from your hand to the Graveyard, destroy 1 face-up monster on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster. ② During the End Phase of a turn that this card destroyed a monster by battle, by sending this card to the Graveyard, Special Summon 1 "Armed Dragon LV7" from your hand or Deck.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Sending 1 Monster Card from your hand is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
@@ -1366,7 +1366,7 @@ _① By sending 1 Monster Card from your hand to the Graveyard, destroy 1 face-u
 
   
 ## ARMED DRAGON LV7  
-_Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "Armed Dragon LV5". ① By sending 1 Monster Card from your hand to the Graveyard, destroy all face-up monsters on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster._
+> Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "Armed Dragon LV5". ① By sending 1 Monster Card from your hand to the Graveyard, destroy all face-up monsters on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster.
 
 *   The Ⓒ Condition cannot be negated.
     *   You can Special Summon "Armed Dragon LV7" by using "Level Up!" on "Armed Dragon LV5", because "Level Up!" lets you bypass the normal Summoning requirements.
@@ -1380,7 +1380,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Sum
 
   
 ## ARMED DRAGON LV10  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by Tributing 1 "Armed Dragon LV7" on your side of the field. ① By sending 1 card from your hand to the Graveyard, destroy all face-up monsters on your opponent's side of the field._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by Tributing 1 "Armed Dragon LV7" on your side of the field. ① By sending 1 card from your hand to the Graveyard, destroy all face-up monsters on your opponent's side of the field.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand (this Special Summon doesn't start a Chain).
@@ -1392,13 +1392,13 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special
 
   
 ## ARMED NINJA  
-_FLIP: Destroy 1 Spell Card on the field. If the card is face-down, look at the card and destroy it if it is a Spell Card. If it is a Trap Card, return it to its original position._
+> FLIP: Destroy 1 Spell Card on the field. If the card is face-down, look at the card and destroy it if it is a Spell Card. If it is a Trap Card, return it to its original position.
 
 *   This card can destroy a Spell Card on either side of the field. So if your opponent has no Spell Cards and no Set Spell or Trap Cards, you must destroy a card on your side of the field. If it is face-down Trap Card you must reveal it to your opponent, and it is not destroyed.
 
   
 ## ARMED SAMURAI - BEN KEI  
-_① In addition to a normal attack, this card can attack during the same Battle Phase as many times as the number of Equip Cards equipped to it._
+> ① In addition to a normal attack, this card can attack during the same Battle Phase as many times as the number of Equip Cards equipped to it.
 
 *   The ① Continuous Effect applies while this card is face-up on the field, it does not start a Chain.
     *   The attacks of “Armed Samurai Ben Kei” do not have to be in a row.
@@ -1407,7 +1407,7 @@ _① In addition to a normal attack, this card can attack during the same Battle
 
   
 ## ARMED SEA HUNTER  
-_① If you control another face-up WATER monster, negate the effects of the monster that battled with this card, after damage calculation. ② If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead._
+> ① If you control another face-up WATER monster, negate the effects of the monster that battled with this card, after damage calculation. ② If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   This effect activates in Substep 5 - After Damage Calculation \[[REF](https://www.pojo.biz/board/showthread.php?t=753181)\].
@@ -1419,8 +1419,8 @@ _① If you control another face-up WATER monster, negate the effects of the mon
 
   
 ## ARMITYLE THE CHAOS PHANTOM  
-_"Uria, Lord of Searing Flames" + "Hamon, Lord of Striking Thunder" + "Raviel, Lord of Phantasms"  
-Ⓒ This card can only be Special Summoned from your Extra Deck by removing from play the above cards you control. (You do not use "Polymerization".) ① This card cannot be destroyed by battle. ② This card gains 10,000 ATK during your turn only._
+> "Uria, Lord of Searing Flames" + "Hamon, Lord of Striking Thunder" + "Raviel, Lord of Phantasms"  
+Ⓒ This card can only be Special Summoned from your Extra Deck by removing from play the above cards you control. (You do not use "Polymerization".) ① This card cannot be destroyed by battle. ② This card gains 10,000 ATK during your turn only.
 
 *   The Ⓒ Condition cannot be negated.
     *   This card can't be Special Summoned by "Summoner of Illusions".
@@ -1438,7 +1438,7 @@ _"Uria, Lord of Searing Flames" + "Hamon, Lord of Striking Thunder" + "Raviel, L
 
   
 ## ARMOR BREAKER  
-_① Once per turn, you can equip this card to a Warrior-Type monster you control, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, when that monster inflicts Battle Damage to your opponent, destroy 1 card on the field. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, this card is destroyed instead.)_
+> ① Once per turn, you can equip this card to a Warrior-Type monster you control, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, when that monster inflicts Battle Damage to your opponent, destroy 1 card on the field. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, this card is destroyed instead.)
 
 *   The ① Ignition(-like) Effect activates & resolves on the field.
     *   If activated while in the monster zone, this is a Monster Card's effect.
@@ -1449,7 +1449,7 @@ _① Once per turn, you can equip this card to a Warrior-Type monster you contro
 
   
 ## ARMOR EXE  
-_① This card cannot attack in the same turn it is Normal Summoned, Flip Summoned, or Special Summoned. Ⓜ During each of your and your opponent's Standby Phases, remove 1 Spell Counter on your side of the field. If you do not, this card is destroyed._
+> ① This card cannot attack in the same turn it is Normal Summoned, Flip Summoned, or Special Summoned. Ⓜ During each of your and your opponent's Standby Phases, remove 1 Spell Counter on your side of the field. If you do not, this card is destroyed.
 
 *   This card's name is pronounced "egg-zay".
 *   The ① Continuous Effect applies the turn this card is Summoned.
@@ -1460,7 +1460,7 @@ _① This card cannot attack in the same turn it is Normal Summoned, Flip Summon
 
   
 ## ARMORED AXON KICKER  
-_Ⓤ If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. ① If this card destroys an opponent's monster by battle, you take damage equal to half the destroyed monster's ATK. Then, you can Special Summon 1 monster from your Graveyard with ATK less than or equal to the damage you took._
+> Ⓤ If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. ① If this card destroys an opponent's monster by battle, you take damage equal to half the destroyed monster's ATK. Then, you can Special Summon 1 monster from your Graveyard with ATK less than or equal to the damage you took.
 
 *   The Ⓤ Unclassified Effect applies in the hand, it doesn't start a Chain.
     *   You can still Tribute Summon this card while you control a face-up Psychic-Type monster.
@@ -1474,7 +1474,7 @@ _Ⓤ If you control a face-up Psychic-Type monster, you can Normal Summon this c
 
   
 ## ARMORED CYBERN  
-_① Once per turn, during your Main Phase, you can equip this card to a "Cyber Dragon" you control, or to a Fusion Monster you control that lists "Cyber Dragon" as a Fusion Material Monster, OR unequip it to Special Summon this card in face-up Attack Position. ② Once per turn, while equipped to a monster by this effect, you can decrease the equipped monster's ATK by 1000 and destroy 1 face-up monster. Ⓒ (A monster can only by equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, you can equip this card to a "Cyber Dragon" you control, or to a Fusion Monster you control that lists "Cyber Dragon" as a Fusion Material Monster, OR unequip it to Special Summon this card in face-up Attack Position. ② Once per turn, while equipped to a monster by this effect, you can decrease the equipped monster's ATK by 1000 and destroy 1 face-up monster. Ⓒ (A monster can only by equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)
 
 *   "Armored Cybern"'s effect to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.
 *   If "Reverse Trap" is activated, the equipped monster will gain 1000 ATK instead of losing 1000 ATK. When the turn ends, the ATK gain will become an ATK loss.
@@ -1483,7 +1483,7 @@ _① Once per turn, during your Main Phase, you can equip this card to a "Cyber 
 
   
 ## ARMOROID  
-_① When you Tribute Summon this card by Tributing at least 1 "roid" monster, remove from play all Spell and Trap Cards on the field._
+> ① When you Tribute Summon this card by Tributing at least 1 "roid" monster, remove from play all Spell and Trap Cards on the field.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -1492,7 +1492,7 @@ _① When you Tribute Summon this card by Tributing at least 1 "roid" monster, r
 
   
 ## ARMORY ARM  
-_① Once per turn, you can equip this card to a monster OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 1000 ATK. ③ When the equipped monster destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the destroyed monster’s ATK._
+> ① Once per turn, you can equip this card to a monster OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 1000 ATK. ③ When the equipped monster destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the destroyed monster’s ATK.
 
 *   The ① Ignition(-like) Effect activates & resolves on the field.
     *   If activated while in the monster zone, this is a Monster Card's effect.
@@ -1510,7 +1510,7 @@ _① Once per turn, you can equip this card to a monster OR unequip it to Specia
 
   
 ## ARRAY OF REVEALING LIGHT  
-_Declare 1 Type of monster. ① Any monster of the declared Type cannot declare an attack during the turn it is Normal Summoned, Flip Summoned or Special Summoned._
+> Declare 1 Type of monster. ① Any monster of the declared Type cannot declare an attack during the turn it is Normal Summoned, Flip Summoned or Special Summoned.
 
 *   You declare the Type of monster when you activate this card, not when it resolves. This means you pick the Type before the opponent decides whether to chain or not.
 *   You cannot change your mind about the Type after you activate this card. The declared Type remains the same as long as this card is on the field.
@@ -1521,7 +1521,7 @@ _Declare 1 Type of monster. ① Any monster of the declared Type cannot declare 
 
   
 ## ARSENAL BUG  
-_① If there are no face-up Insect-Type monsters (except this monster) on your side of the field, both the ATK and DEF of this monster become 1000 points._
+> ① If there are no face-up Insect-Type monsters (except this monster) on your side of the field, both the ATK and DEF of this monster become 1000 points.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   If you have 2 "Arsenal Bugs" on your side of the field, each has ATK 2000.
@@ -1532,7 +1532,7 @@ _① If there are no face-up Insect-Type monsters (except this monster) on your 
 
   
 ## ARSENAL SUMMONER  
-_FLIP: Add 1 card that includes "Guardian" in its card name from your Deck to your hand. You cannot add "Celtic Guardian", "Winged Dragon, Guardian of the Fortress #1", "Winged Dragon, Guardian of the Fortress #2", "Guardian of of the Labyrinth", or "The Reliable Guardian"._
+> FLIP: Add 1 card that includes "Guardian" in its card name from your Deck to your hand. You cannot add "Celtic Guardian", "Winged Dragon, Guardian of the Fortress #1", "Winged Dragon, Guardian of the Fortress #2", "Guardian of of the Labyrinth", or "The Reliable Guardian".
 
 *   The FLIP Effect is mandatory, it activates & resolves on the field.
     *   You must show your opponent the card you retrieved with "Arsenal Summoner".
@@ -1541,7 +1541,7 @@ _FLIP: Add 1 card that includes "Guardian" in its card name from your Deck to yo
 
   
 ## ASCENDING SOUL  
-_① Once per turn, when a Ritual Monster is Ritual Summoned, you can select and add to your hand 1 monster in your Graveyard that was Tributed for the Ritual Summon._
+> ① Once per turn, when a Ritual Monster is Ritual Summoned, you can select and add to your hand 1 monster in your Graveyard that was Tributed for the Ritual Summon.
 
 *   The ① Trigger-like Effect is optional, it activates & resolves on the field.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -1551,7 +1551,7 @@ _① Once per turn, when a Ritual Monster is Ritual Summoned, you can select and
 
   
 ## ASSAULT ON GHQ  
-_Select 1 monster on your side of the field to activate this card. Destroy the selected card and send 2 cards from the top of your opponent's Deck to the Graveyard._
+> Select 1 monster on your side of the field to activate this card. Destroy the selected card and send 2 cards from the top of your opponent's Deck to the Graveyard.
 
 *   This effect targets 1 monster you control.
 *   This effect resolves sequentially: destroy the target, then mill 2 cards from your opponent's Deck.
@@ -1560,7 +1560,7 @@ _Select 1 monster on your side of the field to activate this card. Destroy the s
 
   
 ## ASTRAL BARRIER  
-_① If your opponent's monster attacks a monster on your side of the field, you can make the attack a direct attack._
+> ① If your opponent's monster attacks a monster on your side of the field, you can make the attack a direct attack.
 
 *   The ① Trigger-like Effect is optional, it activates & resolves on the field.
     *   This effect activates in Start of the Battle Step - Attack Declaration (like "Mirror Force").
@@ -1570,7 +1570,7 @@ _① If your opponent's monster attacks a monster on your side of the field, you
 
   
 ## ASURA PRIEST  
-_Ⓒ This card cannot be Special Summoned. ① This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. ② This card can attack all monsters your opponent controls once each. This monster cannot attack directly if it has already attacked a monster._
+> Ⓒ This card cannot be Special Summoned. ① This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. ② This card can attack all monsters your opponent controls once each. This monster cannot attack directly if it has already attacked a monster.
 
 *   The Ⓒ Condition is not an effect, it cannot be negated.
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
@@ -1587,7 +1587,7 @@ _Ⓒ This card cannot be Special Summoned. ① This card returns to its owner's 
 
   
 ## ASSAULT ARMOR  
-_Ⓒ Equip only to a Warrior-Type monster that is the only monster you control. ① It gains 300 ATK. ② During your Main Phase, you can send this equipped card to the Graveyard. If you do, the equipped monster can attack twice during the Battle Phase this turn._
+> Ⓒ Equip only to a Warrior-Type monster that is the only monster you control. ① It gains 300 ATK. ② During your Main Phase, you can send this equipped card to the Graveyard. If you do, the equipped monster can attack twice during the Battle Phase this turn.
 
 *   The Ⓒ Condition is not an effect, it can't be negated.
     *   If “Assault Armor” is equipped to your monster, then after that you Summon another monster, “Assault Armor” remains on the field.
@@ -1602,7 +1602,7 @@ _Ⓒ Equip only to a Warrior-Type monster that is the only monster you control. 
 
   
 ## ASSAULT MERCENARY  
-_① Once per turn, you can return 1 "Assault Mode Activate" from your hand or Graveyard to the Deck to destroy 1 Spell or Trap Card your opponent controls._
+> ① Once per turn, you can return 1 "Assault Mode Activate" from your hand or Graveyard to the Deck to destroy 1 Spell or Trap Card your opponent controls.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Returning the “Assault Mode Activate” to the Deck is a cost.
@@ -1611,7 +1611,7 @@ _① Once per turn, you can return 1 "Assault Mode Activate" from your hand or G
 
   
 ## ASSAULT MODE ACTIVATE  
-_Tribute 1 Synchro Monster. Special Summon 1 "/Assault Mode" monster whose name includes the Tributed monster's name from your Deck in Attack Position._
+> Tribute 1 Synchro Monster. Special Summon 1 "/Assault Mode" monster whose name includes the Tributed monster's name from your Deck in Attack Position.
 
 *   Tributing a Synchro Monster is a cost.
 *   You can Tribute your opponent’s Synchro Monster using “Soul Exchange”.
@@ -1621,14 +1621,14 @@ _Tribute 1 Synchro Monster. Special Summon 1 "/Assault Mode" monster whose name 
 
   
 ## ASSAULT OVERLOAD  
-_Tribute 1 "/Assault Mode" monster. Inflict damage to both players equal to its Level x 200._
+> Tribute 1 "/Assault Mode" monster. Inflict damage to both players equal to its Level x 200.
 
 *   Tributing 1 "/Assault Mode" monster is a cost.
 *   Compute damage based on the monster’s Level at the time it was used to pay the cost of this card.
 
   
 ## ASSAULT REVIVAL  
-_Remove from play 1 "Assault Mode Activate" from your Graveyard. Destroy all monsters you control and Special Summon 1 "/Assault Mode" monster from your Graveyard, ignoring its Summoning conditions. Its effect(s) is negated, and it cannot be Tributed. If it is removed from the field, remove it from play._
+> Remove from play 1 "Assault Mode Activate" from your Graveyard. Destroy all monsters you control and Special Summon 1 "/Assault Mode" monster from your Graveyard, ignoring its Summoning conditions. Its effect(s) is negated, and it cannot be Tributed. If it is removed from the field, remove it from play.
 
 *   Banishing 1 "Assault Mode Activate" from your Graveyard is a cost. This card can't be activated while "Imperial Iron Wall" is active, since you can't pay the cost.
 *   “Assault Revival” can only Special Summon an “/Assault Mode” monster that was properly Special Summoned in the first place, and was then sent to the Graveyard. It cannot Special Summon an “/Assault Mode” monster that was directly sent to the Graveyard from the hand or Deck.
@@ -1639,13 +1639,13 @@ _Remove from play 1 "Assault Mode Activate" from your Graveyard. Destroy all mon
 
   
 ## ASSAULT TELEPORT  
-_Return 1 "/Assault Mode" monster from your hand to the Deck. Draw 2 cards._
+> Return 1 "/Assault Mode" monster from your hand to the Deck. Draw 2 cards.
 
 *   Returning an “/Assault Mode” monster to your Deck is a cost. You must reveal the “/Assault Mode” monster to your opponent.
 
   
 ## ASWAN APPARITION  
-_① If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your Graveyard to the top of your Deck._
+> ① If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your Graveyard to the top of your Deck.
 
 *   The ① Trigger Effect is optional, it activates & resolves on the field.
     *   This effect activates in Substep 5 - After Damage Calculation.
@@ -1653,7 +1653,7 @@ _① If this card inflicts Battle Damage to your opponent's Life Points, you can
 
   
 ## A-TEAM: TRAP DISPOSAL UNIT  
-_① This effect can be used during either player's turn. When your opponent activates a Trap Card, Tribute this face-up card to negate the activation of the Trap Card and destroy it._
+> ① This effect can be used during either player's turn. When your opponent activates a Trap Card, Tribute this face-up card to negate the activation of the Trap Card and destroy it.
 
 *   The ① Quick Effect is optional, it activates & resolves on the field.
     *   Tributing this card is a cost.
@@ -1663,7 +1663,7 @@ _① This effect can be used during either player's turn. When your opponent act
 
   
 ## ATHENA  
-_① Each time a Fairy-Type monster is Summoned, inflict 600 damage to your opponent. ② Once per turn, you can send 1 Fairy-Type monster you control, except "Athena", to the Graveyard and Special Summon 1 Fairy-Type monster from your Graveyard, except "Athena"._
+> ① Each time a Fairy-Type monster is Summoned, inflict 600 damage to your opponent. ② Once per turn, you can send 1 Fairy-Type monster you control, except "Athena", to the Graveyard and Special Summon 1 Fairy-Type monster from your Graveyard, except "Athena".
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   "Athena"'s first effect does not inflict damage when it is Summoned.
@@ -1676,7 +1676,7 @@ _① Each time a Fairy-Type monster is Summoned, inflict 600 damage to your oppo
 
   
 ## ATOMIC FIREFLY  
-_① When this face-up card on the field attacks or is attacked and it is destroyed as a result of battle, the player who destroyed it takes 1000 points of damage._
+> ① When this face-up card on the field attacks or is attacked and it is destroyed as a result of battle, the player who destroyed it takes 1000 points of damage.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves in the Graveyard / banished.
     *   The card text is very correct on the card mechanics; "Atomic Firefly" has to be face-up BEFORE the attack is declared.
@@ -1685,7 +1685,7 @@ _① When this face-up card on the field attacks or is attacked and it is destro
 
   
 ## AT ONE WITH THE SWORD  
-_Activate while the only monster you control is 1 face-up "X-Saber" monster. Equip this card to that monster. ① It gains 800 ATK. ② If it destroys your opponent's monster by battle, draw 1 card._
+> Activate while the only monster you control is 1 face-up "X-Saber" monster. Equip this card to that monster. ① It gains 800 ATK. ② If it destroys your opponent's monster by battle, draw 1 card.
 
 *   This effect targets the 1 face-up “X-Saber” monster when activated.
     *   You can use “Tailor of the Fickle” to equip “At One With the Sword” to a different face-up monster.
@@ -1698,7 +1698,7 @@ _Activate while the only monster you control is 1 face-up "X-Saber" monster. Equ
 
   
 ## ATTACK AND RECEIVE  
-_You can only activate this card when you take damage to your Life Points. Inflict 700 points of damage to your opponent's Life Points. Also, inflict 300 points of damage to your opponent's Life Points for each "Attack and Receive" card in your Graveyard._
+> You can only activate this card when you take damage to your Life Points. Inflict 700 points of damage to your opponent's Life Points. Also, inflict 300 points of damage to your opponent's Life Points for each "Attack and Receive" card in your Graveyard.
 
 *   This card can be activated when the last thing to happen was inflicting Battle / Effect Damage.
     *   This can activate in Substep 5 - After Damage Calculation, after adding Trigger Effects to the Chain.
@@ -1708,7 +1708,7 @@ _You can only activate this card when you take damage to your Life Points. Infli
 
   
 ## ATTACK OF THE CORNERED RAT  
-_① If a Level 3 or lower Normal Monster you control battles, during the Damage Step you can pay Life Points in multiples of 100. The ATK of the opponent's monster is reduced by the amount of Life Points you paid, until the End Phase. (You cannot pay more Life Points than the ATK of the opponent's monster.)_
+> ① If a Level 3 or lower Normal Monster you control battles, during the Damage Step you can pay Life Points in multiples of 100. The ATK of the opponent's monster is reduced by the amount of Life Points you paid, until the End Phase. (You cannot pay more Life Points than the ATK of the opponent's monster.)
 
 *   The ① Quick-like Effect activates & resolves on the field.
     *   This effect targets the opponent’s monster.
@@ -1720,20 +1720,20 @@ _① If a Level 3 or lower Normal Monster you control battles, during the Damage
 
   
 ## ATTACK PHEROMONES  
-_If a monster you control attacks a Defense Position monster, change that monster to face-up Attack Position at the end of the Damage Step if your attacking monster is Reptile-Type._
+> If a monster you control attacks a Defense Position monster, change that monster to face-up Attack Position at the end of the Damage Step if your attacking monster is Reptile-Type.
 
 *   The effect to change the Battle Position of a Defense Position monster targets that monster. The attacking monster must be Reptile-Type during damage calculation for this effect to apply.
 
   
 ## ATTACK REFLECTOR UNIT  
-_Tribute 1 "Cyber Dragon". Special Summon 1 "Cyber Barrier Dragon" from your hand or Deck._
+> Tribute 1 "Cyber Dragon". Special Summon 1 "Cyber Barrier Dragon" from your hand or Deck.
 
 *   Tributing 1 "Cyber Dragon" monster is a cost.
 *   You can Tribute a face-down “Cyber Dragon” to activate “Attack Reflector Unit”.
 
   
 ## AURKUS, LIGHTSWORN DRUID  
-_① "Lightsworn" monsters cannot be targeted by effects. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard._
+> ① "Lightsworn" monsters cannot be targeted by effects. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
 
 *   The ① Continuous Effect applies so long as this card is face-up on the field.
     *   Card Effects can't target "Lightsworn" monsters on either field / Graveyard / banished.
@@ -1755,7 +1755,7 @@ _① "Lightsworn" monsters cannot be targeted by effects. ② During each of you
 
   
 ## AUSSA THE EARTH CHARMER  
-_FLIP: Take control of 1 EARTH monster on your opponent's side of the field, for as long as this card remains face-up on the field._
+> FLIP: Take control of 1 EARTH monster on your opponent's side of the field, for as long as this card remains face-up on the field.
 
 *   The FLIP Effect is mandatory, it activates & resolves on the field.
     *   This effect activates (starting a Chain) even if there isn't a legal target on the field.
@@ -1770,7 +1770,7 @@ _FLIP: Take control of 1 EARTH monster on your opponent's side of the field, for
 
   
 ## AUTOMATIC LASER  
-_When your opponent Normal or Special Summons a monster(s) with 1000 or more ATK, reveal 1 "Iron Core of Koa'ki Meiru" in your hand to activate this card. Destroy that Summoned monster(s)._
+> When your opponent Normal or Special Summons a monster(s) with 1000 or more ATK, reveal 1 "Iron Core of Koa'ki Meiru" in your hand to activate this card. Destroy that Summoned monster(s).
 
 *   This card activates in the Summon response timing (like "Trap Hole").
 *   “Automatic Laser” does not target.
@@ -1778,7 +1778,7 @@ _When your opponent Normal or Special Summons a monster(s) with 1000 or more ATK
 
   
 ## AUTONOMOUS ACTION UNIT  
-_Pay 1500 Life Points. Select 1 Monster Card from your opponent's Graveyard. Special Summon it to your side of the field in Attack Position, and equip it with this card. ① When this card is removed from the field, destroy the equipped monster._
+> Pay 1500 Life Points. Select 1 Monster Card from your opponent's Graveyard. Special Summon it to your side of the field in Attack Position, and equip it with this card. ① When this card is removed from the field, destroy the equipped monster.
 
 *   Paying 1500 Life Points is a cost.
 *   This effect targets 1 monster in your opponent Graveyard, it is negated by "Necrovalley".
@@ -1788,7 +1788,7 @@ _Pay 1500 Life Points. Select 1 Monster Card from your opponent's Graveyard. Spe
 
   
 ## AVALANCHING AUSSA  
-_① Once per turn, you can Tribute 1 EARTH monster (except this card) to Special Summon 1 EARTH monster from your hand. The monster Special Summoned by this effect is destroyed if "Avalanching Aussa" is removed from your side of the field._
+> ① Once per turn, you can Tribute 1 EARTH monster (except this card) to Special Summon 1 EARTH monster from your hand. The monster Special Summoned by this effect is destroyed if "Avalanching Aussa" is removed from your side of the field.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Tributing a monster is a cost.
@@ -1798,7 +1798,7 @@ _① Once per turn, you can Tribute 1 EARTH monster (except this card) to Specia
 
   
 ## AVATAR OF THE POT  
-_① By sending 1 "Pot of Greed" from your hand to the Graveyard, draw 3 cards from your Deck._
+> ① By sending 1 "Pot of Greed" from your hand to the Graveyard, draw 3 cards from your Deck.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Sending "Pot of Greed" to the Graveyard is a cost.
@@ -1807,7 +1807,7 @@ _① By sending 1 "Pot of Greed" from your hand to the Graveyard, draw 3 cards f
 
   
 ## AVENGING KNIGHT PARSHATH  
-_① Once per turn, you can change the battle position of 1 face-up monster your opponent controls. ② During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent._
+> ① Once per turn, you can change the battle position of 1 face-up monster your opponent controls. ② During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets 1 face-up monster your opponent controls.
@@ -1815,7 +1815,7 @@ _① Once per turn, you can change the battle position of 1 face-up monster your
 
   
 ## AXE OF DESPAIR  
-_① The equipped monster gains 1000 ATK. ② When this card is sent from the field to the Graveyard, you can Tribute 1 monster to return this card to the top of the Deck._
+> ① The equipped monster gains 1000 ATK. ② When this card is sent from the field to the Graveyard, you can Tribute 1 monster to return this card to the top of the Deck.
 
 *   (This card is always treated as an "Archfiend" card.)
 *   The ① Continuous-like Effect applies while this card is on the field.
@@ -1826,7 +1826,7 @@ _① The equipped monster gains 1000 ATK. ② When this card is sent from the fi
 
   
 ## B.E.S. COVERED CORE  
-_① When this card is Normal Summoned, put 2 counters on it. ② This card cannot be destroyed by battle. ③ If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. ④ If this card battles without a counter, destroy it at the end of the Damage Step._
+> ① When this card is Normal Summoned, put 2 counters on it. ② This card cannot be destroyed by battle. ③ If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. ④ If this card battles without a counter, destroy it at the end of the Damage Step.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   If this card's effects are negated, the counters placed by this effect are removed.
@@ -1839,7 +1839,7 @@ _① When this card is Normal Summoned, put 2 counters on it. ② This card cann
 
   
 ## B.E.S. CRYSTAL CORE  
-_① When this card is Normal Summoned, put 3 counters on it. ② This card cannot be destroyed by battle. ③ If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. ④ Once per turn, during your Main Phase, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position._
+> ① When this card is Normal Summoned, put 3 counters on it. ② This card cannot be destroyed by battle. ③ If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. ④ Once per turn, during your Main Phase, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   If this card's effects are negated, the counters placed by this effect are removed.
@@ -1852,7 +1852,7 @@ _① When this card is Normal Summoned, put 3 counters on it. ② This card cann
 
   
 ## BACKFIRE  
-_When a FIRE monster(s) on your side of the field is destroyed and sent to the Graveyard, inflict 500 points of damage to your opponent's Life Points._
+> When a FIRE monster(s) on your side of the field is destroyed and sent to the Graveyard, inflict 500 points of damage to your opponent's Life Points.
 
 *   If a monster is FIRE because it is equipped with "Scroll of Bewitchment", you cannot activate "Backfire"'s effect when it is sent to the Graveyard because it is no longer equipped when it arrives in the Graveyard.
 *   When multiple FIRE monsters are sent to the Graveyard simultaneously, the damage is only 500 points.
@@ -1860,14 +1860,14 @@ _When a FIRE monster(s) on your side of the field is destroyed and sent to the G
 
   
 ## BACKS TO THE WALL  
-_Pay Life Points so that you only have 100 left. Special Summon as many "Six Samurai" monsters from your Graveyard as possible. You cannot Special Summon more than 1 monster with the same name, or a monster that has the same name as a monster on the field._
+> Pay Life Points so that you only have 100 left. Special Summon as many "Six Samurai" monsters from your Graveyard as possible. You cannot Special Summon more than 1 monster with the same name, or a monster that has the same name as a monster on the field.
 
 *   You cannot activate this card if your Life Points are exactly 100 or less than 100.
 *   You cannot activate this card if there are no “Six Samurai” monsters in your Graveyard.
 
   
 ## BACKUP SOLDIER  
-_Activate only if there are 5 or more monsters in your Graveyard. Add up to 3 non-Effect Monsters with 1500 or less ATK from your Graveyard to your hand._
+> Activate only if there are 5 or more monsters in your Graveyard. Add up to 3 non-Effect Monsters with 1500 or less ATK from your Graveyard to your hand.
 
 *   This effect selects up to 3 targets. You can even target Gemini, Fusion, and Synchro monsters.
 *   If you have 4 Effect Monsters and 1 Normal Monster with 1500 ATK in your Graveyard, you can activate this card and return the 1 Normal Monster to your hand.
@@ -1876,7 +1876,7 @@ _Activate only if there are 5 or more monsters in your Graveyard. Add up to 3 no
 
   
 ## BAD REACTION TO SIMOCHI  
-_As long as this card remains face-up on the field, any effect of increasing your opponent's Life Points is changed to inflict the same amount of points in damage to your opponent's Life Points._
+> As long as this card remains face-up on the field, any effect of increasing your opponent's Life Points is changed to inflict the same amount of points in damage to your opponent's Life Points.
 
 *   The Continuous-like Effect applies while this card is face-up on the field. It does not activate.
 *   This effect is not cumulative. If you control 2 copies of "Bad Reaction to Simochi" and your opponent activates "Dian Keto the Cure Master", they only take 1000 points of damage \[[REF](http://web.archive.org/web/20080131140306/http:/entertainment.upperdeck.com/COMMUNITY/forums/thread/1005905.aspx)\].
@@ -1886,7 +1886,7 @@ _As long as this card remains face-up on the field, any effect of increasing you
 
   
 ## BAIT DOLL  
-_Force the activation of 1 face-down Trap Card. If the timing of the activation of the Trap Card is incorrect, negate the effect and destroy it. If it is not a Trap Card, it is returned to its original position. After this card is activated, it is placed into the Deck (not the Graveyard). Then shuffle the Deck._
+> Force the activation of 1 face-down Trap Card. If the timing of the activation of the Trap Card is incorrect, negate the effect and destroy it. If it is not a Trap Card, it is returned to its original position. After this card is activated, it is placed into the Deck (not the Graveyard). Then shuffle the Deck.
 
 *   You cannot activate this card if you cannot return cards to the Deck (by "G.B. Hunter").
 *   As long as the activation and effect of "Bait Doll" are not negated, the effect of "Bait Doll" that shuffles it back into the Deck still resolves.
@@ -1901,14 +1901,14 @@ _Force the activation of 1 face-down Trap Card. If the timing of the activation 
 
   
 ## BALLISTA OF RAMPART SMASHING  
-_If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only._
+> If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.
 
 *   This Continuous-like Effect increases the ATK in Substep 4 - Damage Calculation.
 *   "Ballista of Rampart Smashing" only increases the ATK for damage calculation, then the increase disappears after the end of damage calculation.
 
   
 ## BALLOON LIZARD  
-_① Put 1 counter on this card during each of your Standby Phases. ② When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters x 400 points._
+> ① Put 1 counter on this card during each of your Standby Phases. ② When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters x 400 points.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   While "Skill Drain" is active, you can't put new counters on "Balloon Lizard".
@@ -1920,14 +1920,14 @@ _① Put 1 counter on this card during each of your Standby Phases. ② When thi
 
   
 ## BAMBOO SCRAP  
-_Tribute 1 Plant-Type monster. Special Summon 2 "Plant Tokens" (Plant-Type/EARTH/Level 1/ATK 800/DEF 500) to your opponent's side of the field in Defense Position._
+> Tribute 1 Plant-Type monster. Special Summon 2 "Plant Tokens" (Plant-Type/EARTH/Level 1/ATK 800/DEF 500) to your opponent's side of the field in Defense Position.
 
 *   Tributing 1 Plant-Type monster is a cost to activate this card.
 *   You can Tribute a face-down Plant-Type monster to activate this card.
 
   
 ## BANISHER OF THE LIGHT  
-_① As long as this card remains face-up on the field, any card sent to the Graveyard is removed from play._
+> ① As long as this card remains face-up on the field, any card sent to the Graveyard is removed from play.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   If "Banisher of the Light" is destroyed, it will be sent to the Graveyard. If "Banisher of the Light" and other monsters are destroyed simultaneously all monsters are sent to the Graveyard.
@@ -1936,14 +1936,14 @@ _① As long as this card remains face-up on the field, any card sent to the Gra
 
   
 ## BANNER OF COURAGE  
-_① During your Battle Phase, all monsters you control gain 200 ATK._
+> ① During your Battle Phase, all monsters you control gain 200 ATK.
 
 *   The ① Continuous Effect does not start a Chain.
 *   Multiple copies of this card are cumulative.
 
   
 ## BARK OF DARK RULER  
-_You can only activate this card during the Damage Step of a Battle Phase if a Fiend-Type monster on your side of the field battles. Pay Life Points (in multiples of 100 points) to decrease 1 of your opponent's monster's ATK and DEF by the same amount of points until End Phase of that turn._
+> You can only activate this card during the Damage Step of a Battle Phase if a Fiend-Type monster on your side of the field battles. Pay Life Points (in multiples of 100 points) to decrease 1 of your opponent's monster's ATK and DEF by the same amount of points until End Phase of that turn.
 
 *   This card targets your opponent’s monster that is battling your Fiend-Type monster.
 *   Paying Life Points for this card is a cost.
@@ -1951,7 +1951,7 @@ _You can only activate this card during the Damage Step of a Battle Phase if a F
 
   
 ## BARREL BEHIND THE DOOR  
-_Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead._
+> Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.
 
 *   This card can only be Chained to an activated effect that inflicts damage to YOUR Life Points.
     *   You can activate "Barrel Behind the Door" against "Jigen Bakudan". You don’t activate "Barrel Behind the Door" when the Flip Effect activates, you activate "Barrel Behind the Door" when "Jigen Bakudan" activates its effect during the next Standby Phase to inflict damage.
@@ -1966,7 +1966,7 @@ _Activate only when a card's effect that would inflict damage to you is activate
 
   
 ## BARRIER STATUE OF THE ABYSS  
-_① Neither player can Special Summon monsters, except DARK monsters._
+> ① Neither player can Special Summon monsters, except DARK monsters.
 
 *   Non-DARK Monsters can't be Special Summoned face-down.
 *   "Reasoning" can be activated while a Barrier Statue is face-up. If "Reasoning" would Special Summon a non-DARK monster, it is sent to the Graveyard and the effect of "Reasoning" ends.
@@ -1976,7 +1976,7 @@ _① Neither player can Special Summon monsters, except DARK monsters._
 
   
 ## BARRIER STATUE OF THE DROUGHT  
-_① Neither player can Special Summon monsters, except EARTH monsters._
+> ① Neither player can Special Summon monsters, except EARTH monsters.
 
 *   Non-EARTH Monsters can't be Special Summoned face-down.
 *   "Reasoning" can be activated while a Barrier Statue is face-up. If "Reasoning" would Special Summon a non-EARTH monster, it is sent to the Graveyard and the effect of "Reasoning" ends.
@@ -1986,7 +1986,7 @@ _① Neither player can Special Summon monsters, except EARTH monsters._
 
   
 ## BARRIER STATUE OF THE HEAVENS  
-_① Neither player can Special Summon monsters, except LIGHT monsters._
+> ① Neither player can Special Summon monsters, except LIGHT monsters.
 
 *   Non-LIGHT Monsters can't be Special Summoned face-down.
 *   "Reasoning" can be activated while a Barrier Statue is face-up. If "Reasoning" would Special Summon a non-LIGHT monster, it is sent to the Graveyard and the effect of "Reasoning" ends.
@@ -1996,7 +1996,7 @@ _① Neither player can Special Summon monsters, except LIGHT monsters._
 
   
 ## BARRIER STATUE OF THE INFERNO  
-_① Neither player can Special Summon monsters, except FIRE monsters._
+> ① Neither player can Special Summon monsters, except FIRE monsters.
 
 *   Non-FIRE Monsters can't be Special Summoned face-down.
 *   "Reasoning" can be activated while a Barrier Statue is face-up. If "Reasoning" would Special Summon a non-FIRE monster, it is sent to the Graveyard and the effect of "Reasoning" ends.
@@ -2006,7 +2006,7 @@ _① Neither player can Special Summon monsters, except FIRE monsters._
 
   
 ## BARRIER STATUE OF THE STORMWINDS  
-_① Neither player can Special Summon monsters, except WIND monsters._
+> ① Neither player can Special Summon monsters, except WIND monsters.
 
 *   Non-WIND Monsters can't be Special Summoned face-down.
 *   "Reasoning" can be activated while a Barrier Statue is face-up. If "Reasoning" would Special Summon a non-WIND monster, it is sent to the Graveyard and the effect of "Reasoning" ends.
@@ -2016,7 +2016,7 @@ _① Neither player can Special Summon monsters, except WIND monsters._
 
   
 ## BARRIER STATUE OF THE TORRENT  
-_① Neither player can Special Summon monsters, except WATER monsters._
+> ① Neither player can Special Summon monsters, except WATER monsters.
 
 *   Non-WATER Monsters can't be Special Summoned face-down.
 *   "Reasoning" can be activated while a Barrier Statue is face-up. If "Reasoning" would Special Summon a non-WATER monster, it is sent to the Graveyard and the effect of "Reasoning" ends.
@@ -2050,7 +2050,7 @@ _① Neither player can Special Summon monsters, except WATER monsters._
 
   
 ## BATTLE FADER  
-_① When your opponent’s monster declares a direct attack, you can Special Summon this card from your hand and end the Battle Phase. Ⓒ If this card is Special Summoned with this effect, remove it from play when it is removed from the field._
+> ① When your opponent’s monster declares a direct attack, you can Special Summon this card from your hand and end the Battle Phase. Ⓒ If this card is Special Summoned with this effect, remove it from play when it is removed from the field.
 
 *   The ① Trigger Effect activates during the first substep of the Battle Step - Attack Declaration.
     *   This effect to Special Summon can be negated by "Royal Oppression".
@@ -2094,7 +2094,7 @@ _① When your opponent’s monster declares a direct attack, you can Special Su
 
   
 ## BATTLE TUTORS (Mystic Tomato, Shining Angel, UFO Turtle, Mother Grizzly, Flying Kaminari #1, Giant Rat, Pyramid Turtle, etc)  
-_When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \[Attribute or Type\] monster with \[specified ATK / specified DEF / specified Level\] in \[Battle Position\]._
+> When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \[Attribute or Type\] monster with \[specified ATK / specified DEF / specified Level\] in \[Battle Position\].
 
 *   These optional Trigger Effects activate in Substep 7 - End of the Damage Step.
 *   The "When... you can" structure means this effect can miss the timing.
@@ -2139,7 +2139,7 @@ _When this card is destroyed by battle and sent to the Graveyard, you can Specia
 
   
 ## BEASTKING OF THE SWAMPS  
-_① You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s)._
+> ① You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -2151,7 +2151,7 @@ _① You can substitute this card for any 1 Fusion-Material Monster. When you do
 
   
 ## BECKONING LIGHT  
-_Discard all the cards in your hand, then select a number of LIGHT monsters in your Graveyard equal to the number of cards you discarded, and add them to your hand._
+> Discard all the cards in your hand, then select a number of LIGHT monsters in your Graveyard equal to the number of cards you discarded, and add them to your hand.
 
 *   Discarding is not a cost.
 *   "Beckoning Light" doesn't target. When you resolve "Beckoning Light", first discard, then pick cards to add to your hand. So you can add cards to your hand that you discarded while resolving "Beckoning Light".
@@ -2180,7 +2180,7 @@ _Discard all the cards in your hand, then select a number of LIGHT monsters in y
 
   
 ## BELIAL - MARQUIS OF DARKNESS  
-_① Your opponent cannot select any monster you control, except "Belial - Marquis of Darkness", as an attack target, or as a target of a Spell or Trap Card._
+> ① Your opponent cannot select any monster you control, except "Belial - Marquis of Darkness", as an attack target, or as a target of a Spell or Trap Card.
 
 *   The ① Continuous Effect applies so long as "Belial - Marquis of Darkness" is face-up on the field.
     *   If a Spell / Trap Card targets 1 monster you control and you chain "Call of the Haunted" to Special Summon "Belial - Marquis of Darkness", the effect is still resolved as normal.
@@ -2272,10 +2272,10 @@ _① Your opponent cannot select any monster you control, except "Belial - Marqu
 
   
 ## BLACK BRUTDRAGO  
-_1 Tuner + 1 or more non-Tuner Gemini monsters  
+> 1 Tuner + 1 or more non-Tuner Gemini monsters  
 ① Once per turn, you can send 1 Gemini monster from your hand to the Graveyard to select and destroy 1 Spell or Trap Card your opponent controls. ② When this card is destroyed and sent to the Graveyard, you can select 1 Gemini monster in your Graveyard and Special Summon it. The Special Summoned Gemini monster is treated as an Effect Monster, and gains its effect._
 
-*   If you use "[Eccentric Boy](https://yugipedia.com/wiki/Eccentric_Boy)" to Synchro Summon "Black Brutdrago", you must send a Gemini monster from your hand to the Graveyard as a Synchro Material Monster.
+*   If you use "[Eccentric Boy](https://yugipedia.com/wiki/EccentricBoy)" to Synchro Summon "Black Brutdrago", you must send a Gemini monster from your hand to the Graveyard as a Synchro Material Monster.
 *   The ① Ignition Effect activates & resolves on the field.
     *   Sending 1 Gemini monster from your hand to the Graveyard is a cost. This effect cannot be activated while "Dimensional Fissure" is active.
     *   This effect targets 1 Spell / Trap Card (face-up / face-down) your opponent controls.
@@ -2285,7 +2285,7 @@ _1 Tuner + 1 or more non-Tuner Gemini monsters
 
   
 ## BLACK GARDEN  
-_① When a monster is Normal or Special Summoned, except by the effect of “Black Garden”, halve its ATK and Special Summon 1 “Rose Token” (Plant-Type/DARK/Level 2/ATK 800/DEF 800) to its controller’s opponent’s side of the field, in Attack Position. ② You can destroy this card and all face-up Plant-Type monsters on the field and Special Summon 1 monster with ATK equal to the total ATK of those monsters from your Graveyard._
+> ① When a monster is Normal or Special Summoned, except by the effect of “Black Garden”, halve its ATK and Special Summon 1 “Rose Token” (Plant-Type/DARK/Level 2/ATK 800/DEF 800) to its controller’s opponent’s side of the field, in Attack Position. ② You can destroy this card and all face-up Plant-Type monsters on the field and Special Summon 1 monster with ATK equal to the total ATK of those monsters from your Graveyard.
 
 *   The ① mandatory Trigger-like Effect CANNOT miss the timing.
     *   Player A performs a Normal Summon, causing "Black Garden" to activate. Player A chooses which Zone the "Rose Token" is Summoned to, and is considered its _owner_ (for "Remove Brainwashing").
@@ -2351,7 +2351,7 @@ _① When a monster is Normal or Special Summoned, except by the effect of “Bl
 
   
 ## BLACK ROSE DRAGON  
-_① When this card is Synchro Summoned, you can destroy all cards on the field. ② Once per turn, you can remove from play 1 Plant-Type monster from your Graveyard to change 1 Defense Position monster your opponent controls to face-up Attack Position, and reduce its ATK to 0 until the End Phase._
+> ① When this card is Synchro Summoned, you can destroy all cards on the field. ② Once per turn, you can remove from play 1 Plant-Type monster from your Graveyard to change 1 Defense Position monster your opponent controls to face-up Attack Position, and reduce its ATK to 0 until the End Phase.
 
 *   The ① optional Trigger Effect activates in the Summon response timing.
     *   If "Black Rose Dragon" activates its first effect, it is also destroyed.
@@ -2364,7 +2364,7 @@ _① When this card is Synchro Summoned, you can destroy all cards on the field.
 
   
 ## BLACK SALVO  
-_When this card is Normal Summoned, you can Special Summon 1 Level 4 DARK Machine-Type monster from your Graveyard in face-up Defense Position. Its effect(s) is negated._
+> When this card is Normal Summoned, you can Special Summon 1 Level 4 DARK Machine-Type monster from your Graveyard in face-up Defense Position. Its effect(s) is negated.
 
 *   This is a Trigger Effect that targets the appropriate monster in your Graveyard. Once the target is Summoned, it is no longer targeted by this card.
 
@@ -2379,7 +2379,7 @@ _When this card is Normal Summoned, you can Special Summon 1 Level 4 DARK Machin
 
   
 ## BLACK WHIRLWIND  
-_When a “Blackwing” monster is Normal Summoned to your side of the Field, you can add 1 “Blackwing” monster from your Deck to your hand that has less ATK than that monster._
+> When a “Blackwing” monster is Normal Summoned to your side of the Field, you can add 1 “Blackwing” monster from your Deck to your hand that has less ATK than that monster.
 
 *   This optional Trigger-like Effect activates in the Summon response timing.
 *   Both "Black Whirlwind" and the Normal Summoned "Blackwing" monster must be face-up on the field.
@@ -2394,7 +2394,7 @@ _When a “Blackwing” monster is Normal Summoned to your side of the Field, yo
 
   
 ## BLACKWING - ARMOR MASTER  
-_① This card cannot be destroyed by battle, and you take no Battle Damage from battles involving this card. ② If this card attacks a monster, you can place 1 Wedge Counter on that monster at the end of the Damage Step (max. 1). ③ You can remove all Wedge Counters from your opponent's monsters to reduce the ATK and DEF of each monster that had a Wedge Counter to 0, until the End Phase._
+> ① This card cannot be destroyed by battle, and you take no Battle Damage from battles involving this card. ② If this card attacks a monster, you can place 1 Wedge Counter on that monster at the end of the Damage Step (max. 1). ③ You can remove all Wedge Counters from your opponent's monsters to reduce the ATK and DEF of each monster that had a Wedge Counter to 0, until the End Phase.
 
 *   This ① Continuous Effect can be negated by "Skill Drain".
 *   The ② optional Trigger Effect places a "Wedge Counter" on a monster that battled Amor Master during Substep 7 - End of the Damage Step (when monsters destroyed by battle are sent to the Graveyard).
@@ -2422,7 +2422,7 @@ _① This card cannot be destroyed by battle, and you take no Battle Damage from
 
   
 ## BLACKWING - GALE THE WHIRLWIND  
-_Ⓢ If you control a “Blackwing” monster other than “Blackwing – Gale the Whirlwind”, you can Special Summon this card from your hand._  
+> Ⓢ If you control a “Blackwing” monster other than “Blackwing – Gale the Whirlwind”, you can Special Summon this card from your hand.  
 ① Once per turn, you can halve the ATK and DEF of 1 face-up monster your opponent controls.
 
 *   This Ⓢ Special Summon does not start a chain.
@@ -2433,7 +2433,7 @@ _Ⓢ If you control a “Blackwing” monster other than “Blackwing – Gale t
 
   
 ## BLACKWING - KALUT THE MOON SHADOW  
-_When a "Blackwing" monster you control attacks or is attacked, you can send this card from your hand to the Graveyard during the Damage Step to have that monster gain 1400 ATK until the End Phase._
+> When a "Blackwing" monster you control attacks or is attacked, you can send this card from your hand to the Graveyard during the Damage Step to have that monster gain 1400 ATK until the End Phase.
 
 *   Sending “Blackwing – Kalut the Moon Shadow” to the graveyard is a cost to activate its effect.
 *   The effect of “Blackwing – Kalut the Moon Shadow” does not target.
@@ -2448,7 +2448,7 @@ _When a "Blackwing" monster you control attacks or is attacked, you can send thi
 
   
 ## BLACKWING - SIROCCO THE DAWN  
-_Ⓤ If your opponent controls a monster and you control no monsters, you can Normal Summon or Set this card without Tributing. ① Once per turn, you can select 1 face-up "Blackwing" monster you control. It gains ATK equal to the total ATK of all face-up "Blackwing" monsters on the field except itself. Ⓒ Monsters other than the selected monster cannot attack the turn you activate this effect._
+> Ⓤ If your opponent controls a monster and you control no monsters, you can Normal Summon or Set this card without Tributing. ① Once per turn, you can select 1 face-up "Blackwing" monster you control. It gains ATK equal to the total ATK of all face-up "Blackwing" monsters on the field except itself. Ⓒ Monsters other than the selected monster cannot attack the turn you activate this effect.
 
 *   The Ⓤ Unclassified Effect allows this monsster to be Normal Summoned / Set without Tribute.
     *   This effect does not activate.
@@ -2465,7 +2465,7 @@ _Ⓤ If your opponent controls a monster and you control no monsters, you can No
 
   
 ## BLACKWING - SHURA THE BLUE FLAME  
-_① When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 "Blackwing" monster with 1500 or less ATK from your Deck. That monster's effect(s) is negated._
+> ① When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 "Blackwing" monster with 1500 or less ATK from your Deck. That monster's effect(s) is negated.
 
 *   The ① optional Trigger Effect activates at the start of Substep 7 - End of the Damage Step (when monsters destroyed by battle are sent to the Graveyard) of the Damage Step.
     *   This effect only activates if Shura is face-up on the field (ex: "Goyo Guardian" and [MANY MORE](https://www.duelingbook.com/deck?id=7967783)).
@@ -2479,7 +2479,7 @@ _① When this card destroys an opponent's monster by battle and sends it to the
 
   
 ## BLACKWING - SILVERWIND THE ASCENDENT  
-_① When this card is Synchro Summoned, you can select and destroy up to 2 face-up monsters on the field with DEF lower than this card's ATK. Ⓒ You cannot conduct your Battle Phase the turn you activate this effect. ② The next time a "Blackwing" monster you control would be destroyed by battle during your opponent's turn, it is not destroyed, this effect only happens once._
+> ① When this card is Synchro Summoned, you can select and destroy up to 2 face-up monsters on the field with DEF lower than this card's ATK. Ⓒ You cannot conduct your Battle Phase the turn you activate this effect. ② The next time a "Blackwing" monster you control would be destroyed by battle during your opponent's turn, it is not destroyed, this effect only happens once.
 
 *   You can Special Summon this monster with the effect of “Blackwing – Vayu the Emblem of Honor." You must remove from play a Level 7 “Blackwing” monster alongside Vayu to do so.
 *   The ① optional Trigger Effect can only be activated when this monster is Synchro Summoned.
@@ -2492,7 +2492,7 @@ _① When this card is Synchro Summoned, you can select and destroy up to 2 face
 
   
 ## BLACKWING - VAYU THE EMBLEM OF HONOR  
-_① If this card is face-up on the field, you cannot use it for a Synchro Summon. ② If this card is in your Graveyard, you can remove from play this card plus 1 non-Tuner “Blackwing” monster in your Graveyard, and Special Summon 1 “Blackwing” Synchro Monster from your Extra Deck whose Level equals the total Levels of the removed monsters. The effect(s) of that Synchro Monster is negated._
+> ① If this card is face-up on the field, you cannot use it for a Synchro Summon. ② If this card is in your Graveyard, you can remove from play this card plus 1 non-Tuner “Blackwing” monster in your Graveyard, and Special Summon 1 “Blackwing” Synchro Monster from your Extra Deck whose Level equals the total Levels of the removed monsters. The effect(s) of that Synchro Monster is negated.
 
 *   The ① Continuous Effect CAN be negated (by "Skill Drain" or if Vayu is Special Summoned by Shura).
 *   The ② Ignition Effect targets a "Blackwing" Monster in your Graveyard.
@@ -2568,7 +2568,7 @@ _① If this card is face-up on the field, you cannot use it for a Synchro Summo
 
   
 ## BLAZE ACCELERATOR  
-_① You can send 1 Pyro-Type monster with 500 or less ATK from your hand to the Graveyard to destroy 1 monster your opponent controls, Ⓒ but you cannot declare an attack during this turn if you do._
+> ① You can send 1 Pyro-Type monster with 500 or less ATK from your hand to the Graveyard to destroy 1 monster your opponent controls, Ⓒ but you cannot declare an attack during this turn if you do.
 
 *   The ① Ignition-like Effect targets.
     *   If the target is not on the field, you must still send a Pyro-Type Monster to the Graveyard.
@@ -2585,8 +2585,8 @@ _① You can send 1 Pyro-Type monster with 500 or less ATK from your hand to the
 
   
 ## BLAZEWING BUTTERFLY  
-_Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:  
-● ① You can Tribute this card to Special Summon 1 Gemini monster from your Graveyard, except "Blazewing Butterfly". A Gemini monster Special Summoned by this effect is treated as an Effect Monster, and gains its effect._
+> Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:  
+● ① You can Tribute this card to Special Summon 1 Gemini monster from your Graveyard, except "Blazewing Butterfly". A Gemini monster Special Summoned by this effect is treated as an Effect Monster, and gains its effect.
 
 *   The Ⓤ Unclassified Effect applies on the field and in the Graveyard.
     *   This effect can be negated while "Blazewing Butterfly" is face-up on the field, causing it to be treated as an effect monster.
@@ -2660,7 +2660,7 @@ _Ⓤ This card is treated as a Normal Monster while face-up on the field or in t
 
   
 ## BOOK OF LIFE  
-_Special Summon 1 Zombie-Type monster from your Graveyard and remove from play 1 monster from your opponent's Graveyard._
+> Special Summon 1 Zombie-Type monster from your Graveyard and remove from play 1 monster from your opponent's Graveyard.
 
 *   This targets 1 Zombie-Type monster in your Graveyard and 1 monster in your opponent's Graveyard.
     *   This effect resolves both parts simultaneously.
@@ -2672,7 +2672,7 @@ _Special Summon 1 Zombie-Type monster from your Graveyard and remove from play 1
 
   
 ## BOOK OF MOON  
-_Flip 1 face-up monster on the field into face-down Defense Position._
+> Flip 1 face-up monster on the field into face-down Defense Position.
 
 *   This effect targets 1 face-up monster.
 *   A monster flipped face-down remembers:
@@ -2695,7 +2695,7 @@ _Flip 1 face-up monster on the field into face-down Defense Position._
 
   
 ## BOOK OF TAIYOU  
-_Flip 1 face-down monster on the field into face-up Attack Position._
+> Flip 1 face-down monster on the field into face-up Attack Position.
 
 *   This effect targets 1 face-down monster on the field.
 *   This effect DOES NOT perform a Flip Summon (a manual player action).
@@ -2712,7 +2712,7 @@ _Flip 1 face-down monster on the field into face-up Attack Position._
 
   
 ## BOTANICAL LION  
-_① This card gains 300 ATK for each face-up Plant-Type monster you control. ② Control of this face-up card cannot switch._
+> ① This card gains 300 ATK for each face-up Plant-Type monster you control. ② Control of this face-up card cannot switch.
 
 *   The ① Continuous Effect constantly re-calculates the ATK gain. This effect does not activate.
     *   This effect stops re-calculating if a non-continuous effect (ex: "Blackwing - Gale the Whirlwind") changes the ATK value of "Botanical Lion".
@@ -2731,7 +2731,7 @@ _① This card gains 300 ATK for each face-up Plant-Type monster you control. �
 
   
 ## BOTTOMLESS TRAP HOLE  
-_Activate only when your opponent Summons a monster(s) with 1500 or more ATK. Destroy and remove from play the monster(s)._
+> Activate only when your opponent Summons a monster(s) with 1500 or more ATK. Destroy and remove from play the monster(s).
 
 *   This card can only respond to a Normal / Flip / Special Summon of a monster with 1500(+) ATK.
     *   Only monsters whose current ATK (including ATK changes) is 1500(+) are destroyed.
@@ -2746,7 +2746,7 @@ _Activate only when your opponent Summons a monster(s) with 1500 or more ATK. De
 
   
 ## BOUNTIFUL ARTEMIS  
-_① Draw 1 card from your Deck each time a Counter Trap Card is activated._
+> ① Draw 1 card from your Deck each time a Counter Trap Card is activated.
 
 *   The ① Continuous Effect does not start a chain.
 *   "Bountiful Artemis" must be face-up on the field in order to apply this effect.
@@ -2764,7 +2764,7 @@ _① Draw 1 card from your Deck each time a Counter Trap Card is activated._
 
   
 ## BRAIN CONTROL  
-_Pay 800 LifePoints. Select 1 face-up monster your opponent controls. Take control of it until the End Phase._
+> Pay 800 LifePoints. Select 1 face-up monster your opponent controls. Take control of it until the End Phase.
 
 *   Paying 800 Life Points is a cost. This effect targets a face-up monster.
     *   The targeted monster must remain face-up in order for control to be changed.
@@ -2775,7 +2775,7 @@ _Pay 800 LifePoints. Select 1 face-up monster your opponent controls. Take contr
 
   
 ## BRAIN GOLEM  
-_① Effects of face-up LIGHT monsters are negated. ② If this card destroys a LIGHT monster by battle, it can attack once again in a row._
+> ① Effects of face-up LIGHT monsters are negated. ② If this card destroys a LIGHT monster by battle, it can attack once again in a row.
 
 *   The ① Continuous Effect applies so long as "Brain Golem" is face-up on the field.
     *   This effect only affects LIGHT monsters while they are face-up.
@@ -2793,7 +2793,7 @@ _① Effects of face-up LIGHT monsters are negated. ② If this card destroys a 
 
   
 ## BRAIN RESEARCH LAB  
-_① Once per turn, you can Normal Summon 1 Psychic-Type monster in addition to your Normal Summon or Set. ② If successful, place 1 Psychic Counter on this card. ③ You can also place 1 Psychic Counter on this card instead of paying Life Points to activate any Psychic-Type monster's effect that you control. ④ When this card is removed from the field, the controller of this card takes 1000 damage for each Psychic Counter on it._
+> ① Once per turn, you can Normal Summon 1 Psychic-Type monster in addition to your Normal Summon or Set. ② If successful, place 1 Psychic Counter on this card. ③ You can also place 1 Psychic Counter on this card instead of paying Life Points to activate any Psychic-Type monster's effect that you control. ④ When this card is removed from the field, the controller of this card takes 1000 damage for each Psychic Counter on it.
 
 *   None of the effects of “Brain Research Lab” start a Chain.
     *   The ①, ②, ③, and ④ effects are all Continuous-like.
@@ -2844,7 +2844,7 @@ _① Once per turn, you can Normal Summon 1 Psychic-Type monster in addition to 
 
   
 ## BRIONAC, DRAGON OF THE ICE BARRIER  
-_① You can discard and number of cards to the Graveyard to return the same number of cards from the field to the hand._
+> ① You can discard and number of cards to the Graveyard to return the same number of cards from the field to the hand.
 
 *   The ① Ignition Effect and can be activated multiple times per turn.
 *   This effect targets cards equal to the number of cards discarded to the Graveyard.
@@ -2899,7 +2899,7 @@ Also see rulings for “Dark World Monsters”.
 
   
 ## BURNING BEAST  
-_① Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your "Freezing Beast" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, each time the equipped monster inflicts Battle Damage to your opponent, destroy 1 face-up Spell or Trap Card on the field. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your "Freezing Beast" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, each time the equipped monster inflicts Battle Damage to your opponent, destroy 1 face-up Spell or Trap Card on the field. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
 
 *   You may use the effect of "Burning Beast" to destroy a Spell or Trap Card on your side of the field.
 *   If a monster equipped with "Burning Beast" attacks your opponent's Life Points directly, and "Robbin' Goblin" is the only face-up Spell or Trap Card on the field, the turn player chooses whether to resolve "Robbin' Goblin"'s effect first or resolve "Burning Beast"'s effect first. If the effect of "Burning Beast" is resolved first and destroys "Robbin' Goblin", then "Robbin' Goblin"'s effect is not applied because it is a Continuous Trap Card that is no longer in play.
@@ -2947,7 +2947,7 @@ _① Once per turn, during your Main Phase, if you control this monster on the f
 
   
 ## CAIUS THE SHADOW MONARCH  
-_① When this card is Tribute Summoned, remove from play 1 card on the field. If it was a DARK Monster Card, inflict 1000 damage to your opponent._
+> ① When this card is Tribute Summoned, remove from play 1 card on the field. If it was a DARK Monster Card, inflict 1000 damage to your opponent.
 
 *   The ① mandatory Trigger Effect activates when Caius is successfully Tribute Summoned.
 *   If the target is a DARK Monster Card when banished, inflict 1000 Points of damage.
@@ -2968,7 +2968,7 @@ _① When this card is Tribute Summoned, remove from play 1 card on the field. I
 
   
 ## CALL OF THE HAUNTED  
-_Select 1 monster from your Graveyard and Special Summon it in face-up Attack Position. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card._
+> Select 1 monster from your Graveyard and Special Summon it in face-up Attack Position. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.
 
 *   This effect targets a monster in the Graveyard, and continues to target it while it is face-up on the field.
 *   If the monster Special Summoned with "Call of the Haunted" is returned to its owner's hand by an effect, "Call of the Haunted" remains on the field meaninglessly.
@@ -3007,7 +3007,7 @@ _Select 1 monster from your Graveyard and Special Summon it in face-up Attack Po
 
   
 ## CARD GUARD  
-_① When this card is Normal or Special Summoned, place 1 "Guard Counter" on it. ② This card gains 300 ATK for each Guard Counter it has. ③ Once per turn, you can remove 1 "Guard Counter" from this card and place it on 1 other face-up card you control. Ⓒ If that card would be destroyed, remove the "Guard Counter" instead._
+> ① When this card is Normal or Special Summoned, place 1 "Guard Counter" on it. ② This card gains 300 ATK for each Guard Counter it has. ③ Once per turn, you can remove 1 "Guard Counter" from this card and place it on 1 other face-up card you control. Ⓒ If that card would be destroyed, remove the "Guard Counter" instead.
 
 *   The ① mandatory Trigger Effect will only place a "Guard Counter" on it if is still face-up.
 *   The ② Continuous Effect only affects itself while it has a "Guard Counter" on it.
@@ -3054,7 +3054,7 @@ _① When this card is Normal or Special Summoned, place 1 "Guard Counter" on it
   
   
 ## CARD TROOPER  
-_① Once per turn, you can send up to 3 cards from the top of your Deck to the Graveyard. This card gains 500 ATK for each card sent to the Graveyard until the End Phase. ② When this card you control is destroyed and sent to the Graveyard, draw 1 card.The ② mandatory Trigger Effect only activates if "Card Trooper" is destroyed while on your side of the field._
+> ① Once per turn, you can send up to 3 cards from the top of your Deck to the Graveyard. This card gains 500 ATK for each card sent to the Graveyard until the End Phase. ② When this card you control is destroyed and sent to the Graveyard, draw 1 card.The ② mandatory Trigger Effect only activates if "Card Trooper" is destroyed while on your side of the field.
 
 *   The ① Ignition Effect sends up to 3 cards from the top of your Deck to the Graveyard AS COST.
     *   This effect CANNOT be activated if "Dimension Fortress Weapon" is face-up on the field.
@@ -3090,7 +3090,7 @@ _① Once per turn, you can send up to 3 cards from the top of your Deck to the 
 
   
 ## CATAPULT TURTLE  
-_① You can Tribute 1 monster to inflict damage equal to half of its ATK to your opponent._
+> ① You can Tribute 1 monster to inflict damage equal to half of its ATK to your opponent.
 
 *   Tributing 1 monster is cost for this Ignition Effect.
 *   If a face-up monster is tributed, inflict damage equal to half its ATK while face-up on the field.
@@ -3133,7 +3133,7 @@ _① You can Tribute 1 monster to inflict damage equal to half of its ATK to you
 
   
 ## CELESTIA, LIGHTSWORN ANGEL  
-_① When you Tribute Summon this card by Tributing a "Lightsworn" monster, you can send the top 4 cards of your Deck to the Graveyard to destroy up to 2 cards your opponent controls._
+> ① When you Tribute Summon this card by Tributing a "Lightsworn" monster, you can send the top 4 cards of your Deck to the Graveyard to destroy up to 2 cards your opponent controls.
 
 *   The ① optional Trigger Effect only activates if the Tribute Material is a "Lightsworn" monster.
     *   This effect activates even if the Tributed "Lightsworn" monster was face-down.
@@ -3182,7 +3182,7 @@ _① When you Tribute Summon this card by Tributing a "Lightsworn" monster, you 
 
   
 ## CHAIN DISAPPEARANCE  
-_You can only activate this card when a monster(s) with an ATK of 1000 or less is Normal Summoned, Flip Summoned or Special Summoned. Remove from play those Summoned monster(s), and your opponent removes from play all cards of the same name in their hand and Deck. Their Deck is then shuffled._
+> You can only activate this card when a monster(s) with an ATK of 1000 or less is Normal Summoned, Flip Summoned or Special Summoned. Remove from play those Summoned monster(s), and your opponent removes from play all cards of the same name in their hand and Deck. Their Deck is then shuffled.
 
 *   This card activates in the Summon response timing (like "Trap Hole").
     *   This card cannot be activated if a monster was Normal / Special Summoned as Chain Link 2+.
@@ -3288,7 +3288,7 @@ _You can only activate this card when a monster(s) with an ATK of 1000 or less i
 
   
 ## CHAOS SORCERER  
-_This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by removing from play 1 LIGHT and 1 DARK monster in your Graveyard. ① Once per turn, during your Main Phase, you can remove from play 1 face-up monster on the field. Ⓒ If you activate this effect, this card cannot attack this turn._
+> This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by removing from play 1 LIGHT and 1 DARK monster in your Graveyard. ① Once per turn, during your Main Phase, you can remove from play 1 face-up monster on the field. Ⓒ If you activate this effect, this card cannot attack this turn.
 
 *   The Ⓢ Special Summon effect does not start a chain.
     *   If successfully summoned, "Chaos Sorcerer" can later be Summoned by "Call of the Haunted".
@@ -3311,7 +3311,7 @@ _This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special S
 
   
 ## CHARGE OF THE LIGHT BRIGADE  
-_Send the top 3 cards of your Deck to the Graveyard. Add 1 Level 4 or lower "Lightsworn" monster from your Deck to your hand._
+> Send the top 3 cards of your Deck to the Graveyard. Add 1 Level 4 or lower "Lightsworn" monster from your Deck to your hand.
 
 *   Sending 3 cards from the top of your Deck to the Graveyard is a cost.
     *   Charge cannot be activated while "Dimensional Fissure" / "Macro Cosmos" is active.
@@ -3342,8 +3342,8 @@ _Send the top 3 cards of your Deck to the Graveyard. Add 1 Level 4 or lower "Lig
 
   
 ## CHIMERATECH FORTRESS DRAGON  
-_“Cyber Dragon” + 1 or more Machine-Type monsters_  
-_Ⓒ This monster cannot be used as a Fusion Material monster. Ⓢ You can only Special Summon this card from your Extra Deck by sending the above cards from either side of the field to the Graveyard. (You do not use “Polymerization”.) ① The original ATK of this card is equal to 1000 x the number of Fusion Material Monsters used to Special Summon it._
+> “Cyber Dragon” + 1 or more Machine-Type monsters_  
+_Ⓒ This monster cannot be used as a Fusion Material monster. Ⓢ You can only Special Summon this card from your Extra Deck by sending the above cards from either side of the field to the Graveyard. (You do not use “Polymerization”.) ① The original ATK of this card is equal to 1000 x the number of Fusion Material Monsters used to Special Summon it.
 
 *   The Ⓒ Condition is not an effect. It cannot be negated by "Skill Drain".
 *   This Ⓢ Special Summon does not start a chain.
@@ -3427,7 +3427,7 @@ _Ⓒ This monster cannot be used as a Fusion Material monster. Ⓢ You can only 
 
   
 ## CLEAR VICE DRAGON  
-_① You are unaffected by the effects of "Clear World". ② If this card attacks an opponent's monster, the ATK of this card becomes twice the ATK of the attack target, during damage calculation only. ③ If this card would be destroyed by an opponent's card effect, you can discard 1 card instead._
+> ① You are unaffected by the effects of "Clear World". ② If this card attacks an opponent's monster, the ATK of this card becomes twice the ATK of the attack target, during damage calculation only. ③ If this card would be destroyed by an opponent's card effect, you can discard 1 card instead.
 
 *   The ① Continuous Effect does not activate.
     *   VS. "[Clear World"](https://yugipedia.com/wiki/Card_Rulings:Clear_World): If you control "Clear Vice Dragon" and any EARTH, FIRE, or WATER monsters, the effect of "Clear World" will start a Chain but it will resolve without effect.
@@ -3571,7 +3571,7 @@ _① You are unaffected by the effects of "Clear World". ② If this card attack
 
   
 ## CODARUS  
-_① You can send 1 face-up "Umi" you control to the Graveyard to select up to 2 cards your opponent controls and send them to the Graveyard._
+> ① You can send 1 face-up "Umi" you control to the Graveyard to select up to 2 cards your opponent controls and send them to the Graveyard.
 
 *   The ① Ignition Effect targets.
 *   If you gain control of one of the cards targeted by the effect of “Codarus” before it resolves, that card is not sent to the Graveyard. The other one is.
@@ -3581,7 +3581,7 @@ _① You can send 1 face-up "Umi" you control to the Graveyard to select up to 2
 
   
 ## CODE "A" ANCIENT RUINS  
-_① Each time a face-up "Alien" monster(s) is destroyed, place 1 A-Counter on this card. ② Once per turn, you can remove 2 A-Counters from anywhere on the field to Special Summon 1 "Alien" monster from your Graveyard._
+> ① Each time a face-up "Alien" monster(s) is destroyed, place 1 A-Counter on this card. ② Once per turn, you can remove 2 A-Counters from anywhere on the field to Special Summon 1 "Alien" monster from your Graveyard.
 
 *   The ① Continuous-like Effect does not start a chain.
     *   No A-Counter is placed on this card if an "Alien" monster face-down when an attack is declared.
@@ -3598,7 +3598,7 @@ _① Each time a face-up "Alien" monster(s) is destroyed, place 1 A-Counter on t
 
   
 ## COLD WAVE  
-_This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set and Spell or Trap Cards._
+> This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set and Spell or Trap Cards.
 
 *   While this effect applies \[[REF](https://www.pojo.biz/board/showpost.php?p=10997322&postcount=3)\], players CANNOT:
     *   Set Spell / Trap / Monster (ex: "[Toy Magician](https://yugipedia.com/wiki/Toy_Magician)") cards in the Spell / Trap Card Zone;
@@ -3621,7 +3621,7 @@ _This card can only be activated at the start of Main Phase 1. Until your next t
 
   
 ## COLOSSAL FIGHTER  
-_① This card gains 100 ATK for every Warrior-Type monster in any Graveyard. ② When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Warrior-Type monster from either player's Graveyard._
+> ① This card gains 100 ATK for every Warrior-Type monster in any Graveyard. ② When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Warrior-Type monster from either player's Graveyard.
 
 *   The ① Continuous Effect re-calculates as the total of Warrior-Type monsters in the Graveyards changes.
     *   This process does not start a chain, even in instances where the ATK gain changes.
@@ -3793,7 +3793,7 @@ _① This card gains 100 ATK for every Warrior-Type monster in any Graveyard. �
 
   
 ## COSMIC FORTRESS GOL’GAR  
-_① Once per turn, you can select any number of face-up Spell or Trap Cards. Return those cards to their owners' hands, and distribute new A-Counters among monsters on the field equal to the number of cards returned. ② Once per turn, you can remove 2 A-Counters from anywhere on the field to destroy 1 card your opponent controls._
+> ① Once per turn, you can select any number of face-up Spell or Trap Cards. Return those cards to their owners' hands, and distribute new A-Counters among monsters on the field equal to the number of cards returned. ② Once per turn, you can remove 2 A-Counters from anywhere on the field to destroy 1 card your opponent controls.
 
 *   The ① Ignition Effect targets a number of face-up Spell / Trap Cards on the field.
     *   The targeted cards are returned to the hand when the effect resolves. This is not a cost.
@@ -3873,7 +3873,7 @@ _① Once per turn, you can select any number of face-up Spell or Trap Cards. Re
 
   
 ## CROSS PORTER  
-_① You can send 1 monster you control to the Graveyard and Special Summon 1 “Neo-Spacian” monster from your hand. ② When this card is sent to the Graveyard, you can add 1 “Neo-Spacian” monster from your Deck to your hand._
+> ① You can send 1 monster you control to the Graveyard and Special Summon 1 “Neo-Spacian” monster from your hand. ② When this card is sent to the Graveyard, you can add 1 “Neo-Spacian” monster from your Deck to your hand.
 
 *   The ① Ignition Effect targets 1 monster you control.
     *   The target is sent to the Graveyard when the effect resolves.
@@ -4108,7 +4108,7 @@ _① You can send 1 monster you control to the Graveyard and Special Summon 1 �
 
   
 ## CURSE OF FIEND  
-_Changes the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can activate this card only during your Standby Phase._
+> Changes the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can activate this card only during your Standby Phase.
 
 *   This card must be Set in order to be activated during your Standby Phase. During your Standby Phase you flip up the face-down "Curse of Fiend" to activate its effect.
 *   Face-down monsters changed to Attack Position will have their Flip Effects (and "_when this card is flipped face-up_" Trigger Effects) activated \[[REF](https://www.pojo.biz/board/showthread.php?t=282964)\]. This is NOT a Flip Summon, and will not cause "Swarm of Scarabs" to activate its Trigger Effect.
@@ -4157,7 +4157,7 @@ _Changes the battle positions of all Attack Position monsters on the field to De
 
   
 ## CYBER DINOSAUR  
-_① When your opponent Special Summons a monster from their hand, you can Special Summon this card from your hand._
+> ① When your opponent Special Summons a monster from their hand, you can Special Summon this card from your hand.
 
 *   The ① optional Trigger Effect can miss its activation timing.
     *   You can activate this effect if the last thing to happen was your opponent Special Summoning of a monster from their hand.
@@ -4183,7 +4183,7 @@ _① When your opponent Special Summons a monster from their hand, you can Speci
 
   
 ## CYBER ELTANIN  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by removing from play all face-up LIGHT Machine-Type monsters from your side of the field and your Graveyard. ① This card's ATK and DEF are equal to the number of monsters removed from play for its Special Summon x 500. ② When this card is Special Summoned, send all other face-up monsters on the field to the Graveyard._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by removing from play all face-up LIGHT Machine-Type monsters from your side of the field and your Graveyard. ① This card's ATK and DEF are equal to the number of monsters removed from play for its Special Summon x 500. ② When this card is Special Summoned, send all other face-up monsters on the field to the Graveyard.
 
 *   The Ⓒ Summoning Condition cannot be negated.
 *   The Ⓢ Special Summon Effect is the only way to Special Summon this card.
@@ -4244,7 +4244,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special
 
   
 ## CYBER PHOENIX  
-_① While this card is in face-up Attack Position, negate the effects of any Spell or Trap Card that targets 1 Machine-Type monster you control. ② When this face-up card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can draw 1 card._
+> ① While this card is in face-up Attack Position, negate the effects of any Spell or Trap Card that targets 1 Machine-Type monster you control. ② When this face-up card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can draw 1 card.
 
 *   The ① Continuous Effect only applies while this card is in face-up Attack Position.
     *   Your Machine-Type monster Summoned by "Call of the Haunted" is not destroyed when "Call of the Haunted" leaves the field. This also applies to “D.D.R. - Different Dimension Reincarnation”.
@@ -4285,10 +4285,10 @@ _① While this card is in face-up Attack Position, negate the effects of any Sp
 
   
 ## CYBER VALLEY  
-_You can use 1 of the following 3 effects:_  
+> You can use 1 of the following 3 effects:_  
 __① When this card is selected as an attack target by an opponent’s monster, you can remove this card from play to draw 1 card and end the Battle Phase._  
 _② You can remove from play this card and 1 face-up monster you control, then draw 2 cards._  
-_③ You can remove from play this card and 1 card from your hand, and place 1 card from your Graveyard on top of your Deck.__
+_③ You can remove from play this card and 1 card from your hand, and place 1 card from your Graveyard on top of your Deck._
 
 *   The ① optional Trigger Effect may be activated upon attack declaration.
     *   This effect does not target the attacking monster.
@@ -4427,7 +4427,7 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 
   
 ## D.D. SURVIVOR  
-_① When this card is removed from play while face-up on your side of the field, you Special Summon it during the End Phase._
+> ① When this card is removed from play while face-up on your side of the field, you Special Summon it during the End Phase.
 
 *   The ① mandatory Trigger Effect activates & resolves while this card is banished in the End Phase.
     *   This effect can only be activated once per turn by each copy of "D.D. Survivor".
@@ -4439,7 +4439,7 @@ _① When this card is removed from play while face-up on your side of the field
 
   
 ## D.D. WARRIOR LADY  
-_① When this card battles your opponent’s monster, after damage calculation you can remove from play the opponent’s monster and this card._
+> ① When this card battles your opponent’s monster, after damage calculation you can remove from play the opponent’s monster and this card.
 
 *   The ① optional Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 6 - Resolve Effects of the Damage Step.
@@ -4450,7 +4450,7 @@ _① When this card battles your opponent’s monster, after damage calculation 
 
   
 ## DANDYLION  
-_① When this card is sent to the Graveyard, Special Summon 2 "Fluff Tokens" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. Ⓒ These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned._
+> ① When this card is sent to the Graveyard, Special Summon 2 "Fluff Tokens" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. Ⓒ These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.
 
 *   The ① mandatory Trigger Effect always activates, even if you cannot Special Summon monsters.
     *   This effect MUST Special Summon 2 "Fluff Tokens" simultaneously.
@@ -4465,7 +4465,7 @@ _① When this card is sent to the Graveyard, Special Summon 2 "Fluff Tokens" (P
 
   
 ## DARK ARMED DRAGON  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having exactly 3 DARK monsters in your Graveyard. ① You can remove from play 1 DARK monster from your Graveyard to destroy 1 card on the field._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having exactly 3 DARK monsters in your Graveyard. ① You can remove from play 1 DARK monster from your Graveyard to destroy 1 card on the field.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon Effect is the only way to Special Summon this card.
@@ -4477,7 +4477,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special
 
   
 ## DARK BRIBE  
-_Negate the activation of an opponent's Spell or Trap Card, and destroy it. Your opponent draws 1 card._
+> Negate the activation of an opponent's Spell or Trap Card, and destroy it. Your opponent draws 1 card.
 
 *   This card can only respond to the activation (when it is played face-up) of a Spell / Trap Card## .
 *   This card cannot respond to the activated effect of a Spell / Trap Card on the field / in the Graveyard.
@@ -4488,7 +4488,7 @@ _Negate the activation of an opponent's Spell or Trap Card, and destroy it. Your
 
   
 ## DARK CALLING  
-_Remove from play, from your hand or your Graveyard, the Fusion Material Monsters listed on a Fusion Monster Card that can only be Special Summoned with "Dark Fusion", and Special Summon that monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon with "Dark Fusion".)_
+> Remove from play, from your hand or your Graveyard, the Fusion Material Monsters listed on a Fusion Monster Card that can only be Special Summoned with "Dark Fusion", and Special Summon that monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon with "Dark Fusion".)
 
 *   You can remove from play monsters both in your hand or Graveyard, so you can remove from play only monsters in your Graveyard, only monsters in your hand, or monsters in your hand and Graveyard.
 *   This card does not target. Fusion Materials are removed from play when this effect resolves.
@@ -4500,7 +4500,7 @@ _Remove from play, from your hand or your Graveyard, the Fusion Material Monster
 
   
 ## DARK END DRAGON  
-_① One per turn, you can have this card lose 500 ATK and DEF, and sent 1 monster your opponent controls to the Graveyard._
+> ① One per turn, you can have this card lose 500 ATK and DEF, and sent 1 monster your opponent controls to the Graveyard.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets an opponent’s (face-up / face-down) monster.
@@ -4527,7 +4527,7 @@ _① One per turn, you can have this card lose 500 ATK and DEF, and sent 1 monst
 
   
 ## DARK FUSION  
-_Send, from your hand or your side of the field to the Graveyard, Fusion Material Monsters that are listed on a Fiend-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon). The Special Summoned monster cannot be targeted by the effects of your opponent's Monsters, Spells, and Traps this turn._
+> Send, from your hand or your side of the field to the Graveyard, Fusion Material Monsters that are listed on a Fiend-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon). The Special Summoned monster cannot be targeted by the effects of your opponent's Monsters, Spells, and Traps this turn.
 
 *   When you Special Summon a Fiend-Type Fusion Monster with “Dark Fusion” and during the same turn control of the Fiend-Type Fusion Monster is shifted to your opponent (with “Creature Swap”, etc.), your opponent still cannot target that Fiend-Type Fusion Monster with the effects of Spell, Trap, or Monster Cards until the end of the turn, even though they now control the Fiend-Type Fusion Monster.
 *   If the Fiend-Type Fusion Monster Fusion Summoned by “Dark Fusion” is sent to the Graveyard, the effect that prevents it from being targeted by the opponent’s Spell, Trap, and Monster Card effects is no longer applied.
@@ -4535,7 +4535,7 @@ _Send, from your hand or your side of the field to the Graveyard, Fusion Materia
 
   
 ## DARK GREPHER  
-_Ⓢ You can discard 1 Level 5 or higher DARK monster to Special Summon this card from your hand. ① Once per turn, you can discard 1 DARK monster to send 1 DARK monster from your Deck to the Graveyard._
+> Ⓢ You can discard 1 Level 5 or higher DARK monster to Special Summon this card from your hand. ① Once per turn, you can discard 1 DARK monster to send 1 DARK monster from your Deck to the Graveyard.
 
 *   The Ⓢ Special Summon Effect does not start a chain.
     *   Discarding a Level 5 or higher DARK monster is a cost.
@@ -4546,7 +4546,7 @@ _Ⓢ You can discard 1 Level 5 or higher DARK monster to Special Summon this car
 
   
 ## DARK HORUS  
-_① Once per turn, when a Spell Card is activated during your opponent's Main Phase, you can Special Summon 1 Level 4 DARK monster from your Graveyard._
+> ① Once per turn, when a Spell Card is activated during your opponent's Main Phase, you can Special Summon 1 Level 4 DARK monster from your Graveyard.
 
 *   The ① optional Trigger Effect activates AFTER a Spell Card's activation resolved (starting a new chain).
     *   This effect CAN miss the timing if Chain Link 1 was NOT the activation of a Spell Card.
@@ -4699,7 +4699,7 @@ _① Once per turn, when a Spell Card is activated during your opponent's Main P
 
   
 ## DARK RULER HA DES  
-_Ⓒ This card cannot be Special Summoned from the Graveyard. ① Negate the effects of Effect Monsters destroyed by battle with Fiend-Type monsters you control._
+> Ⓒ This card cannot be Special Summoned from the Graveyard. ① Negate the effects of Effect Monsters destroyed by battle with Fiend-Type monsters you control.
 
 *   The Ⓒ Condition cannot be negated.
     *   "Dark Ruler Ha Des" cannot be Special Summoned face-down by "The Shallow Grave".
@@ -4732,7 +4732,7 @@ _Ⓒ This card cannot be Special Summoned from the Graveyard. ① Negate the eff
 
   
 ## DARK SIMORGH  
-_① While this card is face-up on the field its Attribute is also treated as WIND. ② You can remove from play 1 DARK monster and 1 WIND monster from your Graveyard to Special Summon this card from your hand. ③ You can remove from play 1 DARK monster and 1 WIND monster from your hand to Special Summon this card from your Graveyard. ④ Your opponent cannot Set any cards on the field._
+> ① While this card is face-up on the field its Attribute is also treated as WIND. ② You can remove from play 1 DARK monster and 1 WIND monster from your Graveyard to Special Summon this card from your hand. ③ You can remove from play 1 DARK monster and 1 WIND monster from your hand to Special Summon this card from your Graveyard. ④ Your opponent cannot Set any cards on the field.
 
 *   You can Normal Summon “Dark Simorgh.”
 *   The ① Continuous Effect applies only while "Dark Simorgh" is face-up.
@@ -4788,7 +4788,7 @@ _① While this card is face-up on the field its Attribute is also treated as WI
 
   
 ## DARK TINKER  
-_① When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck._
+> ① When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.
 
 *   The ① Trigger Effect is mandatory.
     *   This effect only activates when it is sent from your side of the field to your Graveyard.
@@ -4820,7 +4820,7 @@ _① When this card you control is sent to the Graveyard, look at the top card o
 
   
 ## "DARK WORLD" monsters (“Beiige, Vanguard of Dark World”, “Broww, Huntsman of Dark World”, “Sillva, Warlord of Dark World” and “Goldd, Wu-Lord of Dark World”).  
-_① If this card is discarded from the hand to the Graveyard by a card effect, \[perform action 1\]. ① If this card is discarded from the hand to the Graveyard by an opponent’s card effect, \[perform action 2\]._
+> ① If this card is discarded from the hand to the Graveyard by a card effect, \[perform action 1\]. ① If this card is discarded from the hand to the Graveyard by an opponent’s card effect, \[perform action 2\].
 
 *   These effects will not miss timing, they are mandatory effects.
     *   If discarded by a card effect in the middle of a chain, or in the middle of a card effect like “Dragged Down into the Grave”, these effects will activate after the current chain resolves.
@@ -4861,7 +4861,7 @@ _① If this card is discarded from the hand to the Graveyard by a card effect, 
 
   
 ## DARKLORD NURSE REFICULE (original name: Nurse Reficule the Fallen One)  
-_① Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent._
+> ① Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.
 
 *   The ① Continuous Effect does not activate, it applies when the effect resolves.
     *   This deals Effect Damage, and is not the same as losing Life Points (ex: "Immortal of Thunder").
@@ -4873,7 +4873,7 @@ _① Any effect that would cause your opponent to gain Life Points instead infli
 
   
 ## DARKNESS APPROACHES  
-_① Discard 2 cards from your hand. Select 1 face-up monster and flip it face-down, but do not change its battle position._
+> ① Discard 2 cards from your hand. Select 1 face-up monster and flip it face-down, but do not change its battle position.
 
 *   Discarding 2 cards is a cost. A monster is targeted at activation.
 *   If an Attack Position monster is targeted, it is flipped into face-down Attack Position.
@@ -4899,7 +4899,7 @@ _① Discard 2 cards from your hand. Select 1 face-up monster and flip it face-d
 
   
 ## DEBRIS DRAGON  
-_① When this card is Normal Summoned, you can Special Summon 1 monster with 500 or less ATK from your Graveyard in Attack Position. That monster’s effect(s) is negated. Ⓒ This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Dragon-Type Synchro Monster. Ⓒ The other Synchro Material Monster(s) cannot be Level 4._
+> ① When this card is Normal Summoned, you can Special Summon 1 monster with 500 or less ATK from your Graveyard in Attack Position. That monster’s effect(s) is negated. Ⓒ This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Dragon-Type Synchro Monster. Ⓒ The other Synchro Material Monster(s) cannot be Level 4.
 
 *   The ① optional Trigger Effect follows a "When... you can" structure and can miss the timing.
     *   This effect targets the monster in the Graveyard, and will be negated by "Necrovalley".
@@ -4914,7 +4914,7 @@ _① When this card is Normal Summoned, you can Special Summon 1 monster with 50
 
   
 ## DECK DEVASTATION VIRUS  
-_Tribute 1 DARK monster with an ATK of 2000 points or more on your side of the field. ① Check all monsters on your opponent's side of the field, your opponent's hand, and all cards he/she draws (until the end of your opponent's 3rd turn after this card's activation), and destroy all monsters with an ATK of 1500 or less._
+> Tribute 1 DARK monster with an ATK of 2000 points or more on your side of the field. ① Check all monsters on your opponent's side of the field, your opponent's hand, and all cards he/she draws (until the end of your opponent's 3rd turn after this card's activation), and destroy all monsters with an ATK of 1500 or less.
 
 *   This card's cost requires that the monster have 2000 or more ATK while on the field.
     *   You can Tribute a face-down DARK monster with 2000 ATK (ex: "[Fusilier Dragon, the Dual-Mode Beast](https://yugioh.fandom.com/wiki/Fusilier_Dragon,_the_Dual-Mode_Beast)" is Set without Tribute).
@@ -5025,7 +5025,7 @@ _Tribute 1 DARK monster with an ATK of 2000 points or more on your side of the f
 
   
 ## DEMISE, KING OF ARMAGEDDON  
-_Ⓒ This card can only be Ritual Summoned with the Ritual Spell Card, "End of the World". ① You can pay 2000 Life Points to destroy all cards on the field, except this card._
+> Ⓒ This card can only be Ritual Summoned with the Ritual Spell Card, "End of the World". ① You can pay 2000 Life Points to destroy all cards on the field, except this card.
 
 *   The Ⓒ Summoning Condition common to Ritual Monsters at the time is poorly worded.
     *   This card CAN be Ritual Summoned by "Advanced Ritual Art" or "Contract with the Abyss".
@@ -5061,7 +5061,7 @@ _Ⓒ This card can only be Ritual Summoned with the Ritual Spell Card, "End of t
 
   
 ## DES DENDLE  
-_① Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your "Vampire Orchis" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, each time the equipped monster destroys 1 of your opponent's monsters, Special Summon 1 "Wicked Plant Token" (Plant-Type/EARTH/1 Star/ATK 800/DEF 800). Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)_  
+> ① Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your "Vampire Orchis" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, each time the equipped monster destroys 1 of your opponent's monsters, Special Summon 1 "Wicked Plant Token" (Plant-Type/EARTH/1 Star/ATK 800/DEF 800). Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)  
   
 ## DES FERAL IMP
 
@@ -5157,7 +5157,7 @@ _① Once per turn, during your Main Phase, if you control this monster on the f
 
   
 ## DESTINY END DRAGOON
-_Ⓒ A Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. ① Once per turn, you can destroy 1 monster your opponent controls and inflict damage to your opponent equal to its ATK. If you activate this effect you cannot conduct your Battle Phase this turn. ② During your Standby Phase, if this card is in your Graveyard you can remove from play 1 "Destiny Hero" card from your Graveyard to Special Summon this card._
+> Ⓒ A Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. ① Once per turn, you can destroy 1 monster your opponent controls and inflict damage to your opponent equal to its ATK. If you activate this effect you cannot conduct your Battle Phase this turn. ② During your Standby Phase, if this card is in your Graveyard you can remove from play 1 "Destiny Hero" card from your Graveyard to Special Summon this card.
 
 *   The Ⓒ Condition cannot be negated.
     *   If this card is Fusion Summoned, the Fusion Material Monsters must be correct.
@@ -5188,7 +5188,7 @@ _Ⓒ A Fusion Summon of this monster can only be conducted with the above Fusion
 
   
 ## DESTINY HERO - DASHER  
-_① Once per turn, by Tributing 1 monster, this card gains 1000 ATK until the end of this turn. ② If this card attacks, it is changed to Defense Position at the end of the Battle Phase. ③ While this card is in the Graveyard, one time only, when you draw a Monster Card during your Draw Phase you can show it to your opponent and Special Summon it._
+> ① Once per turn, by Tributing 1 monster, this card gains 1000 ATK until the end of this turn. ② If this card attacks, it is changed to Defense Position at the end of the Battle Phase. ③ While this card is in the Graveyard, one time only, when you draw a Monster Card during your Draw Phase you can show it to your opponent and Special Summon it.
 
 *   The ① Ignition Effect Tributes 1 monster you control as cost.
     *   If "Soul Exchange" targeted your opponent's monster, you can Tribute it for this effect.
@@ -5221,7 +5221,7 @@ _① Once per turn, by Tributing 1 monster, this card gains 1000 ATK until the e
 
   
 ## DESTINY HERO - DIAMOND DUDE  
-_① Once per turn, you can reveal the top card of your Deck. If it is a Normal Spell Card, send it to the Graveyard and you can activate its effect during the Main Phase of your next turn. If the card is not a Normal Spell Card, place it on the bottom of your Deck._
+> ① Once per turn, you can reveal the top card of your Deck. If it is a Normal Spell Card, send it to the Graveyard and you can activate its effect during the Main Phase of your next turn. If the card is not a Normal Spell Card, place it on the bottom of your Deck.
 
 *   The ① Ignition Effect has no cost. The top card of the Deck is revealed as the effect resolves.
 *   The effect of the revealed Normal Spell Card can be activated during your next turn's Main Phase even if Diamond Dude leaves the field.
@@ -5242,7 +5242,7 @@ _① Once per turn, you can reveal the top card of your Deck. If it is a Normal 
 
   
 ## DESTINY HERO - DOOM LORD  
-_① Once per turn, if this card is in face-up Attack Position, you can remove from play 1 monster your opponent controls. Ⓒ If you use this effect, you cannot declare an attack this turn, and the removed monster will be returned to the opponent's side of the field in the same battle position during your second Standby Phase after activation._
+> ① Once per turn, if this card is in face-up Attack Position, you can remove from play 1 monster your opponent controls. Ⓒ If you use this effect, you cannot declare an attack this turn, and the removed monster will be returned to the opponent's side of the field in the same battle position during your second Standby Phase after activation.
 
 *   The ① Ignition Effect targets a monster.
     *   Doom Lord must remain in face-up Attack Position for this effect to resolve.
@@ -5285,7 +5285,7 @@ _① Once per turn, if this card is in face-up Attack Position, you can remove f
 
   
 ## DESTINY HERO - MALICIOUS  
-_① You can remove from play this card from your Graveyard to Special Summon 1 "Destiny Hero - Malicious" from your Deck._
+> ① You can remove from play this card from your Graveyard to Special Summon 1 "Destiny Hero - Malicious" from your Deck.
 
 *   The ① Ignition Effect activates & resolves in the Graveyard.
     *   Banishing this card is a cost. This effect cannot activate while "Necrovalley" is in play.
@@ -5293,7 +5293,7 @@ _① You can remove from play this card from your Graveyard to Special Summon 1 
 
   
 ## DESTINY HERO - PLASMA  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by Tributing 3 monsters you control. ① Once per turn, select your opponent's monster and equip it to this card (you can only equip 1 monster at a time to this card). ② This card gains equal to half of the ATK of the equipped monster. ③ While this card is face-up on the field, negate all the effect of face-up effect monster your opponent controls._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by Tributing 3 monsters you control. ① Once per turn, select your opponent's monster and equip it to this card (you can only equip 1 monster at a time to this card). ② This card gains equal to half of the ATK of the equipped monster. ③ While this card is face-up on the field, negate all the effect of face-up effect monster your opponent controls.
 
 *   The Ⓒ Condition cannot be negated.
     *   This means you cannot Special Summon "Destiny Hero - Plasma" by "Call of the Haunted".
@@ -5459,7 +5459,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special
 
   
 ## DIMENSION EXPLOSION  
-_Return 1 face-up Fusion Monster you control to the Fusion Deck. ① Both players select up to 2 of their monsters that are removed from play, and Special Summon them._
+> Return 1 face-up Fusion Monster you control to the Fusion Deck. ① Both players select up to 2 of their monsters that are removed from play, and Special Summon them.
 
 *   Returning 1 face-up Fusion Monster you control to the Extra Deck is a cost.
 *   This card targets removed from play monsters for both players.
@@ -5513,7 +5513,7 @@ _Return 1 face-up Fusion Monster you control to the Fusion Deck. ① Both player
 
   
 ## DIMENSIONAL ALCHEMIST  
-_① Once per turn, you can remove from play the top card of your Deck; this card gains 500 ATK until the End Phase. ② When this card is destroyed and sent from your side of the field to the Graveyard, you can select 1 of your removed from play monsters and return it to your hand._
+> ① Once per turn, you can remove from play the top card of your Deck; this card gains 500 ATK until the End Phase. ② When this card is destroyed and sent from your side of the field to the Graveyard, you can select 1 of your removed from play monsters and return it to your hand.
 
 *   The ① Ignition Effect resolves even if "Dimensional Alchemist" is flipped face-down / leaves the field.
     *   Remove from play the top card of your Deck when the effect resolves, NOT as a cost \[[REF1](https://www.pojo.biz/board/showthread.php?t=841434), [REF2](http://duelistgroundz.com/index.php?/topic/118829-dimensional-alchemist-vs-skill-drain/)\].
@@ -5526,7 +5526,7 @@ _① Once per turn, you can remove from play the top card of your Deck; this car
 
   
 ## DIMENSIONAL FISSURE  
-_① Any monster sent to the Graveyard is removed from play instead._
+> ① Any monster sent to the Graveyard is removed from play instead.
 
 *   The ① Continuous-like Effect only affects Monster Cards that would be sent to the Graveyard.
     *   Face-down monsters that would be sent to the Graveyard are also removed from play.
@@ -5551,7 +5551,7 @@ _① Any monster sent to the Graveyard is removed from play instead._
 
   
 ## DIMENSIONAL PRISON  
-_Activate only when your opponent declares an attack. Remove from play the attacking monster._
+> Activate only when your opponent declares an attack. Remove from play the attacking monster.
 
 *   This card targets the attacking monster.
 *   You cannot choose to activate cards/effects like "Dimensional Prison" while "Imperial Iron Wall" is active.
@@ -5641,7 +5641,7 @@ _Activate only when your opponent declares an attack. Remove from play the attac
 
   
 ## DIVINE WRATH  
-_Discard 1 card from your hand. Negate the activation of an Effect Monster's effect, and destroy that Effect Monster._
+> Discard 1 card from your hand. Negate the activation of an Effect Monster's effect, and destroy that Effect Monster.
 
 *   This card can be activated any time during the turn, including the Damage Step and end of turn discard.
 *   If an attacking monster or the monster being attacked is destroyed by this card, no replay occurs. If damage calculation has not been performed yet, it is not performed.
@@ -5671,7 +5671,7 @@ _Discard 1 card from your hand. Negate the activation of an Effect Monster's eff
 
   
 ## DJINN RELEASER OF RITUALS  
-_① When you Ritual Summon a Ritual Monster, you can remove from play this card from your Graveyard as 1 of the monsters required for the Ritual Summon. ② While the monster Ritual Summoned using this card is face-up on the field, your opponent cannot Special Summon._
+> ① When you Ritual Summon a Ritual Monster, you can remove from play this card from your Graveyard as 1 of the monsters required for the Ritual Summon. ② While the monster Ritual Summoned using this card is face-up on the field, your opponent cannot Special Summon.
 
 *   The ① Unclassified Effect cannot be negated.
     *   This effect cannot be applied while "Necrovalley" is active.
@@ -5708,7 +5708,7 @@ _① When you Ritual Summon a Ritual Monster, you can remove from play this card
 
   
 ## DOITSU  
-_① Once per turn, you can equip this card to a "Soitsu" you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, that monster gains 2500 ATK. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)_
+> ① Once per turn, you can equip this card to a "Soitsu" you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, that monster gains 2500 ATK. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)
 
 *   While “Non-Spellcasting Area” is active and “Doitsu” is equipped to “Soitsu”, the increase to ATK is not applied. However, the effect that destroys “Doitsu” instead of “Soitsu” is not an effect that “Soitsu” gets, so that effect is applied normally. Also, the effect of “Doitsu” that allows it to unequip and be Special Summoned is applied normally.
 
@@ -5725,8 +5725,8 @@ _① Once per turn, you can equip this card to a "Soitsu" you control, OR unequi
 
   
 ## DOOM SHAMAN  
-_① This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:  
-● ② Once per turn, you can Special Summon 1 Fiend-Type monster from your hand or from either player's Graveyard. ③ When this card is removed from the field, destroy all Fiend-Type monsters Special Summoned by this effect._
+> ① This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:  
+● ② Once per turn, you can Special Summon 1 Fiend-Type monster from your hand or from either player's Graveyard. ③ When this card is removed from the field, destroy all Fiend-Type monsters Special Summoned by this effect.
 
 *   The ① unclassified effect does not apply while "Il Blud" is in the Deck. It cannot be negated.
 *   The Ⓒ Condition cannot be negated.
@@ -5743,7 +5743,7 @@ _① This card is treated as a Normal Monster while face-up on the field or in t
 
   
 ## DOOMCALIBER KNIGHT  
-_Ⓒ This card cannot be Special Summoned. ① When an Effect Monster’s effect is activated, you must Tribute this card. Negate that effect’s activation, and destroy the monster._
+> Ⓒ This card cannot be Special Summoned. ① When an Effect Monster’s effect is activated, you must Tribute this card. Negate that effect’s activation, and destroy the monster.
 
 *   The Ⓒ Condition cannot be negated.
 *   The ① mandatory Quick Effect MUST activate whenever its activation requirement is met.
@@ -5769,7 +5769,7 @@ _Ⓒ This card cannot be Special Summoned. ① When an Effect Monster’s effect
 
   
 ## DOOMKAISER DRAGON  
-_① When this card is Special Summoned, you can select 1 Zombie-Type monster in your opponent's Graveyard and Special Summon it to your side of the field in Attack Position. Ⓒ Destroy it when this card is removed from the field._
+> ① When this card is Special Summoned, you can select 1 Zombie-Type monster in your opponent's Graveyard and Special Summon it to your side of the field in Attack Position. Ⓒ Destroy it when this card is removed from the field.
 
 *   The ① effect targets 1 Zombie-Type monster in either Graveyard.
     *   This effect continuous to target the Special Summoned monster while it is on the field.
@@ -5853,7 +5853,7 @@ _① When this card is Special Summoned, you can select 1 Zombie-Type monster in
 
   
 ## DOUBLE TOOL C&D  
-_Equip only to a "Power Tool Dragon" or Level 4 or higher Machine-Type "Morphtronic" monster you control. While equipped: ● During your turn: It gains 1000 ATK. If it attacks, any effects of the attack target that activate or apply on the field are negated during that Battle Phase. ● During your opponent's turn: Your opponent cannot select a monster other than the equipped monster as an attack target. An opponent's monster that battles the equipped monster is destroyed at the end of the Damage Step._
+> Equip only to a "Power Tool Dragon" or Level 4 or higher Machine-Type "Morphtronic" monster you control. While equipped: ● During your turn: It gains 1000 ATK. If it attacks, any effects of the attack target that activate or apply on the field are negated during that Battle Phase. ● During your opponent's turn: Your opponent cannot select a monster other than the equipped monster as an attack target. An opponent's monster that battles the equipped monster is destroyed at the end of the Damage Step.
 
 *   “Double Tool C&D” can only be equipped to a monster you control. If control shifts to the opponent, “Double Tool C&D” will be destroyed.
 *   A monster equipped with “Double Tool C&D” only negates a monster’s effect during your turn while the 2 monsters are battling. This means that it only negates effects that activate on the field, or are continuous effects while on the field.
@@ -5883,7 +5883,7 @@ _Equip only to a "Power Tool Dragon" or Level 4 or higher Machine-Type "Morphtro
 
   
 ## DRAGON ICE  
-_① When your opponent Special Summons a monster, you can discard 1 card to Special Summon this card from your hand or Graveyard. ② There can only be 1 face-up "Dragon Ice" monster on the field._
+> ① When your opponent Special Summons a monster, you can discard 1 card to Special Summon this card from your hand or Graveyard. ② There can only be 1 face-up "Dragon Ice" monster on the field.
 
 *   The ① optional Trigger Effect CANNOT be activated in the Damage Step \[[REF](https://www.pojo.biz/board/showpost.php?p=13836493&postcount=31)\].
     *   This is similar to "Green Baboon, Defender of the Forest"'s, whose rulings were updated \[[REF](https://img.yugioh-card.com/lat-am/gameplay/errata/YGOErrata100105.pdf)\].
@@ -5907,7 +5907,7 @@ _① When your opponent Special Summons a monster, you can discard 1 card to Spe
 
   
 ## DRAGON'S MIRROR  
-_Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on a Dragon-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.)_
+> Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on a Dragon-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.)
 
 *   “Dragon’s Mirror” does not target. You select and remove the monsters during resolution.
 *   You can use fusion substitute monsters like “King of the Swamp” for “Dragon’s Mirror”.
@@ -5915,7 +5915,7 @@ _Remove from play, from your side of the field or your Graveyard, Fusion Materia
 
   
 ## DRAGON QUEEN OF TRAGIC ENDINGS  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by controlling 3 or more face-up Continuous Spell Cards. ① When this attacking card inflicts Battle Damage to your opponent, your opponent selects and sends 1 card from their hand to the Graveyard, and you draw 1 card. ② During your Standby Phase, if this card is in your Graveyard and was sent there from the field, you can send 1 face-up Continuous Spell Card you control to the Graveyard to Special Summon this card from the Graveyard._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by controlling 3 or more face-up Continuous Spell Cards. ① When this attacking card inflicts Battle Damage to your opponent, your opponent selects and sends 1 card from their hand to the Graveyard, and you draw 1 card. ② During your Standby Phase, if this card is in your Graveyard and was sent there from the field, you can send 1 face-up Continuous Spell Card you control to the Graveyard to Special Summon this card from the Graveyard.
 
 *   The Ⓢ Special Summon procedure is the only way to properly Summoned this card.
     *   This card can only be Special Summoned by Ⓢ from your hand.
@@ -5996,14 +5996,14 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Speci
 
   
 ## DRILL SYNCHRON  
-_While you control this face-up card, during each battle between a Warrior Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect, you can draw 1 card._
+> While you control this face-up card, during each battle between a Warrior Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect, you can draw 1 card.
 
 *   The effect to draw a card is a Trigger Effect that activates after damage calculation.
 *   The effect to draw a card will stack with effects like “Spiral SpIf you control 2 “Drill Synchrons” you can activate the effect of both of them when your WarriorDefense Position monster and inflicts damage.
 
   
 ## DRILL WARRIOR  
-_① Once per turn, during your Main Phase, you can halve this card’s ATK (permanently). If you do, it can attack your opponent directly this turn. ② Once per turn, during your Main Phase, you can discard 1 card and remove this card from play. ③ During your next Standby Phase, Special Summon this card, if removed by this effect. Then, add 1 Monster Card from your Graveyard to your hand._
+> ① Once per turn, during your Main Phase, you can halve this card’s ATK (permanently). If you do, it can attack your opponent directly this turn. ② Once per turn, during your Main Phase, you can discard 1 card and remove this card from play. ③ During your next Standby Phase, Special Summon this card, if removed by this effect. Then, add 1 Monster Card from your Graveyard to your hand.
 
 *   The ① Ignition Effect does not target this card.
     *   This card's ATK is halved when the effect resolves. This is not a cost.
@@ -6057,7 +6057,7 @@ _① Once per turn, during your Main Phase, you can halve this card’s ATK (per
 
   
 ## DUPE FROG  
-_① This card's name is treated as "Des Frog" while it is face-up on the field. ② Your opponent cannot select another monster as an attack target. ③ When this card is sent from the field to the Graveyard, you can add 1 "Frog" monster except "Dupe Frog" or "Frog the Jam" from your Deck or Graveyard to your hand._
+> ① This card's name is treated as "Des Frog" while it is face-up on the field. ② Your opponent cannot select another monster as an attack target. ③ When this card is sent from the field to the Graveyard, you can add 1 "Frog" monster except "Dupe Frog" or "Frog the Jam" from your Deck or Graveyard to your hand.
 
 *   The ① Continuous Effect causes "Dupe Frog" to be counted towards the effect of "Des Croaking".
 *   The ② Continuous Effect applies while face-up on the field. It can be negated by "Skill Drain".
@@ -6227,7 +6227,7 @@ _① This card's name is treated as "Des Frog" while it is face-up on the field.
 
   
 ## EHREN, LIGHTSWORN MONK  
-_① If this card attacks a Defense Position monster, return that monster to its owner’s Deck before damage calculation. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard._
+> ① If this card attacks a Defense Position monster, return that monster to its owner’s Deck before damage calculation. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 
 *   The ① mandatory Trigger Effect activates in Substep 3 - Before Damage Calculation.
     *   This effect activates after Set monsters are Flipped face-up (in Substep 2).
@@ -6270,7 +6270,7 @@ _① If this card attacks a Defense Position monster, return that monster to its
 
   
 ## ELECTRIC VIRUS  
-_① By discarding this card from your hand to the Graveyard, take control of 1 face-up Machine or Dragon-Type monster your opponent controls until the end of this turn._
+> ① By discarding this card from your hand to the Graveyard, take control of 1 face-up Machine or Dragon-Type monster your opponent controls until the end of this turn.
 
 *   The ① Ignition Effect activates and resolves from your hand.
     *   Discarding this card is a cost.
@@ -6354,7 +6354,7 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 
   
 ## ELEMENTAL HERO CAPTAIN GOLD  
-_① You can discard this card to the Graveyard to add 1 "Skyscraper" from your Deck to your hand. ② If this card is on the field but "Skyscraper" is not on the field, destroy this card._
+> ① You can discard this card to the Graveyard to add 1 "Skyscraper" from your Deck to your hand. ② If this card is on the field but "Skyscraper" is not on the field, destroy this card.
 
 *   The ① Ignition Effect activates & resolves in the hand.
     *   Discarding this card is a cost.
@@ -6415,8 +6415,8 @@ _① You can discard this card to the Graveyard to add 1 "Skyscraper" from your 
 
   
 ## ELEMENTAL HERO GAIA  
-_1 "Elemental Hero" monster + 1 EARTH Monster  
-Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① When this card is Fusion Summoned, select 1 face-up monster your opponent controls. Until the end of this turn, that monster's ATK is halved and this card gains the same amount of ATK._
+> 1 "Elemental Hero" monster + 1 EARTH Monster  
+Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① When this card is Fusion Summoned, select 1 face-up monster your opponent controls. Until the end of this turn, that monster's ATK is halved and this card gains the same amount of ATK.
 
 *   Fusion Material must be 1 "Elemental Hero" (NOT "Destiny Hero" / "Evil Hero") + 1 EARTH monster.
     *   The EARTH monster can be a "Destiny Hero" / "Evil Hero" monster.
@@ -6479,7 +6479,7 @@ _1 "Elemental Hero" monster + 1 EARTH Monster
 
   
 ## ELEMENTAL HERO PRISMA
-_① Once per turn, you can reveal 1 Fusion Monster from your Fusion Deck and send 1 of the Fusion Material Monsters listed on that card from your Deck to the Graveyard. Until the End Phase, this card’s name is treated as the sent monster’s name._
+> ① Once per turn, you can reveal 1 Fusion Monster from your Fusion Deck and send 1 of the Fusion Material Monsters listed on that card from your Deck to the Graveyard. Until the End Phase, this card’s name is treated as the sent monster’s name.
 
 *   The ① Ignition Effect has no activation cost.
     *   When this effect resolves: reveal a Fusion Monster and send a named Fusion Material Monster.
@@ -6500,9 +6500,9 @@ _① Once per turn, you can reveal 1 Fusion Monster from your Fusion Deck and se
 
   
 ## ELEMENTAL HERO STRATOS  
-_① When this card is Normal or Special Summoned, you can select and activate 1 of these effects:  
+> ① When this card is Normal or Special Summoned, you can select and activate 1 of these effects:  
 Ⓐ Destroy Spell or Trap Cards on the field up to the number of "Elemental Hero", "Destiny Hero" and "Evil Hero" monsters you control (not counting this card).  
-Ⓑ Select and add 1 "Elemental Hero", "Destiny Hero" or "Evil Hero" from your Deck to your hand._
+Ⓑ Select and add 1 "Elemental Hero", "Destiny Hero" or "Evil Hero" from your Deck to your hand.
 
 *   The ① optional "_When... you can..._" Trigger Effect (both Ⓐ and Ⓑ) can miss the timing.
     *   This effect (both Ⓐ and Ⓑ) CAN be activated during the Damage Step.
@@ -6532,7 +6532,7 @@ _① When this card is Normal or Special Summoned, you can select and activate 1
 
   
 ## ELEMENTAL HERO VOLTIC  
-_① When this card inflicts Battle Damage to your opponent, you can Special Summon 1 of your removed from play "Elemental Hero" monsters._
+> ① When this card inflicts Battle Damage to your opponent, you can Special Summon 1 of your removed from play "Elemental Hero" monsters.
 
 *   The ① optional Trigger Effect activates in Substep 5 - After Damage Calculation.
     *   This effect targets the "Elemental Hero" you intend to Special Summon.
@@ -6546,7 +6546,7 @@ _① When this card inflicts Battle Damage to your opponent, you can Special Sum
 
   
 ## ELEMENTAL HERO WILDHEART  
-_① This card is unaffected by the effects of Trap Cards._
+> ① This card is unaffected by the effects of Trap Cards.
 
 *   The ① Continuous Effect does not activate.
     *   Apply this effect while Wildheart is face-up; not in the hand / Deck / Graveyard / removed from play.
@@ -6685,9 +6685,9 @@ _① This card is unaffected by the effects of Trap Cards._
 
   
 ## ENEMY CONTROLLER  
-_Select and activate 1 of these effects:  
+> Select and activate 1 of these effects:  
 ● ① Change the Battle Position of 1 face-up monster your opponent controls.  
-● ② Tribute 1 monster. Select 1 face-up monster your opponent controls. Take control of it until the End Phase._
+● ② Tribute 1 monster. Select 1 face-up monster your opponent controls. Take control of it until the End Phase.
 
 *   If you activate either of "Enemy Controller"'s effects, and your opponent chains "Book of Moon" to flip the target monster face-down, its targeting conditions are no longer correct when "Enemy Controller" resolves and "Enemy Controller"'s effect disappears.
 *   The ① effect targets 1 face-up monster your opponent controls.
@@ -6745,7 +6745,7 @@ _Select and activate 1 of these effects:
 
   
 ## ERADICATOR EPIDEMIC VIRUS  
-_Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Cards. ① Check all Spell and Trap Cards on your opponent's side of the field, your opponent's hand, and all cards they draw (until the end of your opponent's 3rd turn after this card's activation), and destroy all cards of the chosen type._
+> Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Cards. ① Check all Spell and Trap Cards on your opponent's side of the field, your opponent's hand, and all cards they draw (until the end of your opponent's 3rd turn after this card's activation), and destroy all cards of the chosen type.
 
 *   This card's cost Tributes a DARK monster with 2500 or more ATK.
     *   Face-down DARK monsters can be Tributed (like a Set "[Fusilier Dragon, the Dual-Mode Beast](https://yugioh.fandom.com/wiki/Fusilier_Dragon,_the_Dual-Mode_Beast)").
@@ -6807,8 +6807,8 @@ _Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Ca
 
   
 ## EVIL HERO DARK GAIA  
-_1 Fiend-Type monster + 1 Rock-Type monster  
-Ⓒ This card cannot be Special Summoned except with "Dark Fusion". ① The original ATK of this card is equal to the combined ATK of the Fusion Material Monsters used to Fusion Summon it. ② When this card declares an attack, change all Defense Position monsters your opponent controls to face-up Attack Position. Flip Effects are not activated at this time._
+> 1 Fiend-Type monster + 1 Rock-Type monster  
+Ⓒ This card cannot be Special Summoned except with "Dark Fusion". ① The original ATK of this card is equal to the combined ATK of the Fusion Material Monsters used to Fusion Summon it. ② When this card declares an attack, change all Defense Position monsters your opponent controls to face-up Attack Position. Flip Effects are not activated at this time.
 
 *   The Ⓒ Condition cannot be negated.
     *   ONLY "Dark Fusion" / "Dark Calling" can Special Summon this card.
@@ -6833,7 +6833,7 @@ _1 Fiend-Type monster + 1 Rock-Type monster
 
   
 ## EVIL HERO INFERNAL PRODIGY  
-_Ⓢ If you control no monsters, you can Special Summon this card from your hand in face-up Attack Position. ① If you Tribute this card to Tribute Summon an "Elemental Hero", "Destiny Hero", or "Evil Hero" monster, draw 1 card during this turn's End Phase._
+> Ⓢ If you control no monsters, you can Special Summon this card from your hand in face-up Attack Position. ① If you Tribute this card to Tribute Summon an "Elemental Hero", "Destiny Hero", or "Evil Hero" monster, draw 1 card during this turn's End Phase.
 
 *   This Ⓢ Special Summon effect does not start a chain.
 *   The ① mandatory Trigger Effect activates during the End Phase.
@@ -6859,8 +6859,8 @@ _Ⓢ If you control no monsters, you can Special Summon this card from your hand
 
   
 ## EVIL HERO MALICIOUS FIEND  
-_"Evil Hero Malicious Edge" + 1 Level 6 or higher Fiend-Type monster  
-Ⓒ This monster cannot be Special Summoned except with "Dark Fusion". ① During your opponent's Battle Phase, all monsters they control are changed to face-up Attack Position, and each monster they control must attack this card._
+> "Evil Hero Malicious Edge" + 1 Level 6 or higher Fiend-Type monster  
+Ⓒ This monster cannot be Special Summoned except with "Dark Fusion". ① During your opponent's Battle Phase, all monsters they control are changed to face-up Attack Position, and each monster they control must attack this card.
 
 *   The Ⓒ Condition cannot be negated.
     *   ONLY "Dark Fusion" / "Dark Calling" can Special Summon this card.
@@ -6926,7 +6926,7 @@ _"Evil Hero Malicious Edge" + 1 Level 6 or higher Fiend-Type monster
 
   
 ## EXODIUS THE ULTIMATE FORBIDDEN LORD  
-_This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by returning all monsters from your Graveyard to your Deck. ① When this card declares an attack, send 1 monster from your hand or Deck to the Graveyard. ② This card has 1000 ATK for each Normal Monster in your Graveyard. ③ When this card is removed from the field, remove it from play. Ⓒ If there are 5 different "Forbidden One" cards in your Graveyard that were sent there by this card's effect, you win the Duel._
+> This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by returning all monsters from your Graveyard to your Deck. ① When this card declares an attack, send 1 monster from your hand or Deck to the Graveyard. ② This card has 1000 ATK for each Normal Monster in your Graveyard. ③ When this card is removed from the field, remove it from play. Ⓒ If there are 5 different "Forbidden One" cards in your Graveyard that were sent there by this card's effect, you win the Duel.
 
 *   The Ⓢ Summon Effect is the only way to Special Summon this card.
     *   This card CANNOT be Special Summoned from the Graveyard / removed from play area.
@@ -6945,7 +6945,7 @@ _This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Sum
 
   
 ## EXPLODER DRAGON  
-_① When this card is destroyed by battle and sent to the Graveyard, destroy the monster that destroyed it. ② While this card is attacking, any Battle Damage either player takes from a battle involving this card becomes 0._
+> ① When this card is destroyed by battle and sent to the Graveyard, destroy the monster that destroyed it. ② While this card is attacking, any Battle Damage either player takes from a battle involving this card becomes 0.
 
 *   The ① mandatory Trigger Effect does not target the monster that destroyed this card.
     *   This effect activates in Substep 7 - End of the Damage Step (like "Masked Dragon").
@@ -7237,7 +7237,7 @@ _① When this card is destroyed by battle and sent to the Graveyard, destroy th
   
   
 ## FISSURE  
-_Destroy the 1 face-up monster your opponent controls that has the lowest ATK. (If it's a tie, you get to choose.)_
+> Destroy the 1 face-up monster your opponent controls that has the lowest ATK. (If it's a tie, you get to choose.)
 
 *   This effect does NOT target. It can be negated by "My Body as a Shield".
 *   You can activate "[Fissure](https://yugipedia.com/wiki/Fissure)" even if your opponent only has 1 monster on the field.
@@ -7245,7 +7245,7 @@ _Destroy the 1 face-up monster your opponent controls that has the lowest ATK. (
 
   
 ## FLAMVELL FIREDOG  
-_① When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except "Flamvell Firedog"._
+> ① When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except "Flamvell Firedog".
 
 *   This ① optional Trigger Effect activates in Substep 7 - End of the Damage Step.
     *   This card must be face-up on the field to activate this effect.
@@ -7259,15 +7259,15 @@ _① When this card destroys an opponent's monster by battle and sends it to the
 
   
 ## FLASHBANG  
-_Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn._
+> Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn._
 
-*   If "[Flashbang](https://yugipedia.com/wiki/Flashbang)" is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as "[Don Zaloog](https://yugipedia.com/wiki/Don_Zaloog)".
+*   If "[Flashbang](https://yugipedia.com/wiki/Flashbang)" is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as "[Don Zaloog](https://yugipedia.com/wiki/DonZaloog)".
 
 *   If "[Flashbang](https://yugipedia.com/wiki/Flashbang)" is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as "[Goblin Attack Force](https://yugipedia.com/wiki/Goblin_Attack_Force)".
 
   
 ## FLIP FLOP FROG  
-_① Once per turn, you can flip this card into face-down Defense Position. ② When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up "Frog" monsters you control, except "Frog the Jam"._
+> ① Once per turn, you can flip this card into face-down Defense Position. ② When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up "Frog" monsters you control, except "Frog the Jam".
 
 *   The ① Ignition Effect does not target this card.
     *   This effect can only be used once per turn.
@@ -7321,7 +7321,7 @@ _① Once per turn, you can flip this card into face-down Defense Position. ② 
 
   
 ## FOG KING  
-_You can Normal Summon this card with 1 Tribute, or without a Tribute. ① The ATK of this card is equal to the combined original ATK of the monsters Tributed to Summon it. ② Neither player can Tribute monsters_
+> You can Normal Summon this card with 1 Tribute, or without a Tribute. ① The ATK of this card is equal to the combined original ATK of the monsters Tributed to Summon it. ② Neither player can Tribute monsters
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   A monster's "original ATK" is the printed value on the card.
@@ -7335,7 +7335,7 @@ _You can Normal Summon this card with 1 Tribute, or without a Tribute. ① The A
 
   
 ## FORBIDDEN CHALICE  
-_One face-up monster on the field gains 400 ATK, but its effect is negated until the End Phase._
+> One face-up monster on the field gains 400 ATK, but its effect is negated until the End Phase.
 
 *   This effect targets a face-up monster on the field.
     *   If the target is not face-up when this effect resolves, that monster's effect are not negated.
@@ -7409,7 +7409,7 @@ _One face-up monster on the field gains 400 ATK, but its effect is negated until
     
 
 ## FORTUNE LADY LIGHT  
-_① This card's ATK and DEF are equal to its Level x 200. ② During each of your Standby Phases, increase the Level of this card by 1 (max 12). ③ When this card is removed from the field by a card effect, you can Special Summon 1 "Fortune Lady" monster from your Deck._
+> ① This card's ATK and DEF are equal to its Level x 200. ② During each of your Standby Phases, increase the Level of this card by 1 (max 12). ③ When this card is removed from the field by a card effect, you can Special Summon 1 "Fortune Lady" monster from your Deck.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   This card has "? ATK" while in the Graveyard.
@@ -7444,7 +7444,7 @@ _① This card's ATK and DEF are equal to its Level x 200. ② During each of yo
 
   
 ## FOSSIL DYNA PACHYCEPHALO  
-_① Neither player can Special Summon monsters. ② When this card is flipped face-up, destroy all Special Summoned monsters on the field._
+> ① Neither player can Special Summon monsters. ② When this card is flipped face-up, destroy all Special Summoned monsters on the field.
 
 *   The ① Continuous Effect applies while this card is face-up.
     *   Monsters cannot be Special Summoned face-down (by "Super-Nimble Mega Hamster).
@@ -7476,7 +7476,7 @@ _① Neither player can Special Summon monsters. ② When this card is flipped f
 
   
 ## FREED THE BRAVE WANDERER  
-_① Once per turn, you can remove from play 2 LIGHT monsters in your Graveyard to destroy 1 face-up monster on the field with higher ATK than this card._
+> ① Once per turn, you can remove from play 2 LIGHT monsters in your Graveyard to destroy 1 face-up monster on the field with higher ATK than this card.
 
 *   The ① Ignition Effect targets 1 face-up monster whose ATK is greater than Freed's
     *   If an effect causes the target's ATK to be less than Freed's ATK, the target is not destroyed.
@@ -7487,7 +7487,7 @@ _① Once per turn, you can remove from play 2 LIGHT monsters in your Graveyard 
 
   
 ## FREED THE MATCHLESS GENERAL  
-_① Negate the effect of any Spell Card that targets this card and destroy it. ② You can add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand instead of conducting a normal draw in your Draw Phase._
+> ① Negate the effect of any Spell Card that targets this card and destroy it. ② You can add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand instead of conducting a normal draw in your Draw Phase.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   This effect does not apply while Freed is in the Graveyard / removed from play.
@@ -7504,7 +7504,7 @@ _① Negate the effect of any Spell Card that targets this card and destroy it. 
 
   
 ## FREEZING BEAST  
-_① Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your "Burning Beast" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, each time the equipped monster inflicts Battle Damage to your opponent, destroy 1 face-down Spell or Trap Card on the field. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to your "Burning Beast" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, each time the equipped monster inflicts Battle Damage to your opponent, destroy 1 face-down Spell or Trap Card on the field. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
 
 *   You may use the effect of "Freezing Beast" to destroy a Spell or Trap Card on your side of the field.
 
@@ -7520,7 +7520,7 @@ _① Once per turn, during your Main Phase, if you control this monster on the f
 
   
 ## FROZEN SOUL  
-_You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase._
+> You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.
 
 *   If you activate "Frozen Soul", and your opponent skips his next Battle Phase somehow, his Battle Phase of the next turn is skipped with "Frozen Soul" \[[REF](https://www.pojo.biz/board/showpost.php?p=5706059&postcount=6)\].
     *   "Skipping a Phase" is not the same as "Conducting a Phase". Since the Battle Phase is optional, declare your intent to Conduct your Battle Phase (state you are entering the Battle Phase) in order to Skip it. Players are responsible for declaring they wish to conduct the Battle Phase.
@@ -7570,7 +7570,7 @@ _You can only activate this card when your Life Points are at least 2000 lower t
 
   
 ## FUSION GATE  
-_① As long as this card remains face-up on the field, a Fusion Monster can be Fusion Summoned without using "Polymerization". The Fusion Material monsters used in the Fusion Summon are not sent to the Graveyard, but are removed from play._
+> ① As long as this card remains face-up on the field, a Fusion Monster can be Fusion Summoned without using "Polymerization". The Fusion Material monsters used in the Fusion Summon are not sent to the Graveyard, but are removed from play.
 
 *   The ① Ignition-like Effect activates & resolves on the field.
     *   Both Players can activate this effect on their turn.
@@ -7609,7 +7609,7 @@ _① As long as this card remains face-up on the field, a Fusion Monster can be 
 
   
 ## FUTURE FUSION  
-_① Send, from your Deck to the Graveyard, Fusion Material Monsters that are listed on a Fusion Monster Card, and select that 1 Fusion Monster from your Fusion Deck. Ⓛ Special Summon a Fusion Monster from your Fusion Deck with the same name as the selected Fusion Monster during your 2nd Standby Phase after this card's activation. (This Special Summon is treated as a Fusion Summon.) ② When this card is removed from the field, destroy that monster. ③ When the monster is destroyed, destroy this card._
+> ① Send, from your Deck to the Graveyard, Fusion Material Monsters that are listed on a Fusion Monster Card, and select that 1 Fusion Monster from your Fusion Deck. Ⓛ Special Summon a Fusion Monster from your Fusion Deck with the same name as the selected Fusion Monster during your 2nd Standby Phase after this card's activation. (This Special Summon is treated as a Fusion Summon.) ② When this card is removed from the field, destroy that monster. ③ When the monster is destroyed, destroy this card.
 
 *   You CANNOT reveal a Fusion Monster whose Fusion Material list a Fusion or Synchro Monster.
 *   You CANNOT reveal a Contact Fusion Monster (ex: "Gladiator Beast Gyzarus", "Chimeratech Fortress Dragon") since they do not use "Polymerization" to Fusion Summon. Also, Evil Hero Fusions CANNOT be revealed as their Summon Condition specifies they must be Special Summoned by "Dark Fusion".
@@ -7640,7 +7640,7 @@ _① Send, from your Deck to the Graveyard, Fusion Material Monsters that are li
 
   
 ## FUTURE VISIONS  
-_① When a monster is Normal Summoned, remove from play that monster. ② During the next Standby Phase of the controller who Summoned that monster, return it to the field in face-up Attack Position._
+> ① When a monster is Normal Summoned, remove from play that monster. ② During the next Standby Phase of the controller who Summoned that monster, return it to the field in face-up Attack Position.
 
 *   The ① mandatory Trigger-like Effect cannot miss the timing.
     *   This effect targets the Normal Summoned monster.
@@ -7668,7 +7668,7 @@ _① When a monster is Normal Summoned, remove from play that monster. ② Durin
 
   
 ## GAAP THE DIVINE SOLDIER  
-_① All monsters are changed to face-up Attack Position, and their battle positions cannot be changed. (Flip Effects are not activated at this time.) ② Once per turn, you can reveal any number of Fiend-Type monsters in your hand to give this card 300 ATK for each revealed card, until the End Phase._
+> ① All monsters are changed to face-up Attack Position, and their battle positions cannot be changed. (Flip Effects are not activated at this time.) ② Once per turn, you can reveal any number of Fiend-Type monsters in your hand to give this card 300 ATK for each revealed card, until the End Phase.
 
 *   The ① Continuous Effect applies while Gaap is face-up on the field.
     *   Set monsters changed to Attack Position by this effect are not treated as being Flip Summoned.
@@ -7700,7 +7700,7 @@ _① All monsters are changed to face-up Attack Position, and their battle posit
 
   
 ## GAIA PLATE THE EARTH GIANT  
-_Ⓤ You can Special Summon this card by removing from play any 2 Rock-Type monsters in your Graveyard. Ⓜ During your Standby Phase, remove from play 1 Rock-Type monster in your Graveyard, or send this card to the Graveyard. ① Halve the ATK and DEF of any monster that battles with this card._
+> Ⓤ You can Special Summon this card by removing from play any 2 Rock-Type monsters in your Graveyard. Ⓜ During your Standby Phase, remove from play 1 Rock-Type monster in your Graveyard, or send this card to the Graveyard. ① Halve the ATK and DEF of any monster that battles with this card.
 
 *   The Ⓤ Unclassified effect is not a Summoning condition. You can Normal Summon this monster.
 *   The Ⓜ Maintenance Cost does not activate, it simply applies during your Standby Phase.
@@ -7722,7 +7722,7 @@ _Ⓤ You can Special Summon this card by removing from play any 2 Rock-Type mons
 
   
 ## GALLIS THE STAR BEAST  
-_① You can reveal this card in your hand to send the top card of your Deck to the Graveyard. If that card is a monster, inflict damage to your opponent equal to its Level x 200, and Special Summon this card from your hand. If it is not a monster, destroy this card._
+> ① You can reveal this card in your hand to send the top card of your Deck to the Graveyard. If that card is a monster, inflict damage to your opponent equal to its Level x 200, and Special Summon this card from your hand. If it is not a monster, destroy this card.
 
 *   The ① Ignition Effect activates and resolves in the hand.
     *   If you cannot Special Summon monsters when this effect resolves, you still send the top card of your Deck to the Graveyard (and inflict damage if it was a monster). "Gallis the Star Beast" is not Special Summoned, and (if a non-monster card was sent) is destroyed and sent to the Graveyard.
@@ -7738,7 +7738,7 @@ _① You can reveal this card in your hand to send the top card of your Deck to 
 
   
 ## GANDORA THE DRAGON OF DESTRUCTION  
-_Ⓒ This card cannot be Special Summoned. ① You can pay half your Life Points to destroy and remove from play all other cards on the field. This card gains 300 ATK for each card destroyed this way. ② This card is sent to the Graveyard during the End Phase of the turn it was Summoned._
+> Ⓒ This card cannot be Special Summoned. ① You can pay half your Life Points to destroy and remove from play all other cards on the field. This card gains 300 ATK for each card destroyed this way. ② This card is sent to the Graveyard during the End Phase of the turn it was Summoned.
 
 *   The Ⓒ Condition cannot be negated. This is not an effect.
 *   The ① Ignition Effect does not target.
@@ -7764,7 +7764,7 @@ _Ⓒ This card cannot be Special Summoned. ① You can pay half your Life Points
 
   
 ## GAROTH, LIGHTSWORN WARRIOR  
-_① Each time a card(s) is sent from your Deck to the Graveyard by the effect of a "Lightsworn" monster you control, except "Garoth, Lightsworn Warrior", send the top 2 cards of your Deck to the Graveyard. Then, draw 1 card for each "Lightsworn" monster sent to the Graveyard by this effect._
+> ① Each time a card(s) is sent from your Deck to the Graveyard by the effect of a "Lightsworn" monster you control, except "Garoth, Lightsworn Warrior", send the top 2 cards of your Deck to the Graveyard. Then, draw 1 card for each "Lightsworn" monster sent to the Graveyard by this effect.
 
 *   The ① mandatory Trigger Effect will activate every time its trigger is met.
     *   When this effect resolves: drawing 1 card for each "Lightsworn" monster does not start a Chain.
@@ -7774,7 +7774,7 @@ _① Each time a card(s) is sent from your Deck to the Graveyard by the effect o
 
   
 ## GATEWAY OF THE SIX  
-_① Each time a "Six Samurai" monster is Normal or Special Summoned, place 2 Bushido Counters on this card. ② You can remove Bushido Counters from your side of the field to apply the following effects. ● 2 Counters: Until the End Phase of this turn, 1 face-up "Six Samurai" or "Shien" Effect Monster gains 500 ATK. ● 4 Counters: Add 1 "Six Samurai" monster from your Deck or Graveyard to your hand. ● 6 Counters: Special Summon 1 "Shien" Effect Monster from your Graveyard._
+> ① Each time a "Six Samurai" monster is Normal or Special Summoned, place 2 Bushido Counters on this card. ② You can remove Bushido Counters from your side of the field to apply the following effects. ● 2 Counters: Until the End Phase of this turn, 1 face-up "Six Samurai" or "Shien" Effect Monster gains 500 ATK. ● 4 Counters: Add 1 "Six Samurai" monster from your Deck or Graveyard to your hand. ● 6 Counters: Special Summon 1 "Shien" Effect Monster from your Graveyard.
 
 *   The ① Continuous Effect places Bushido Counters without using the chain.
     *   This effect applies even if the Summoned Monster is flipped face-down / leaves the field.
@@ -7822,7 +7822,7 @@ _① Each time a "Six Samurai" monster is Normal or Special Summoned, place 2 Bu
 
   
 ## GEARTOWN  
-_① Both players can Tribute Summon "Ancient Gear" monsters with 1 less Tribute than required. ② When this card is destroyed and sent to the Graveyard, you can Special Summon 1 "Ancient Gear" monster from your hand, Deck, or Graveyard._
+> ① Both players can Tribute Summon "Ancient Gear" monsters with 1 less Tribute than required. ② When this card is destroyed and sent to the Graveyard, you can Special Summon 1 "Ancient Gear" monster from your hand, Deck, or Graveyard.
 
 *   The ① Continuous-like Effect applies to both players.
     *   You can still Tribute the usual number of monsters to Summon an "Ancient Gear" monster.
@@ -7876,7 +7876,7 @@ _① Both players can Tribute Summon "Ancient Gear" monsters with 1 less Tribute
 
   
 ## GEMINI Monsters ("Gigaplant", "Elemental Hero Neos Alius", etc.)  
-_This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: \[...\]._
+> This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: \[...\].
 
 *   Gemini Monsters are treated as Effect Monsters in the Deck, hand, when removed from play, and while their effects on the field are being negated.
 *   Gemini Monsters are treated as Normal Monsters on the field and in the Graveyard.
@@ -7899,7 +7899,7 @@ _This card is treated as a Normal Monster while face-up on the field or in the G
 
   
 ## GEMINI SPARK  
-_Tribute 1 face-up Level 4 Gemini Monster you control and select 1 card on the field. Destroy the selected card and draw 1 card._
+> Tribute 1 face-up Level 4 Gemini Monster you control and select 1 card on the field. Destroy the selected card and draw 1 card.
 
 *   Tributing 1 face-up Level 4 Gemini monster you control is a cost.
 *   This effect targets 1 card on the field.
@@ -7929,7 +7929,7 @@ _Tribute 1 face-up Level 4 Gemini Monster you control and select 1 card on the f
 
   
 ## GENESIS DRAGON  
-_① Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. ② When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck._
+> ① Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. ② When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck.
 
 *   The ① Ignition Effect targets a Dragon-Type monster in the Graveyard.
     *   Discarding 1 Dragon-Type monster is a cost. You can target the discarded Dragon.
@@ -8025,8 +8025,8 @@ _① Once per turn, you can send 1 Dragon-Type monster from your hand to the Gra
 
   
 ## GIGAPLANT  
-_Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:  
-● ① Once per turn, you can Special Summon 1 Insect-Type or Plant-Type monster from your hand or Graveyard._
+> Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:  
+● ① Once per turn, you can Special Summon 1 Insect-Type or Plant-Type monster from your hand or Graveyard.
 
 *   The Ⓤ Unclassified Effect applies on the field and in the Graveyard.
     *   This effect can be negated while "Gigaplant" is face-up on the field, causing it to be treated as an effect monster.
@@ -8047,7 +8047,7 @@ _Ⓤ This card is treated as a Normal Monster while face-up on the field or in t
 
   
 ## GLADIATOR BEAST ALEXANDER  
-_Ⓒ This card cannot be Special Summoned except by the effect of "Gladiator Beast Dimacari". ① If this card is Special Summoned, it is unaffected by the effects of Spell Cards. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Alexander"._
+> Ⓒ This card cannot be Special Summoned except by the effect of "Gladiator Beast Dimacari". ① If this card is Special Summoned, it is unaffected by the effects of Spell Cards. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Alexander".
 
 *   The Ⓒ Summon Condition cannot be negated and applies even while this card is in the Deck.
     *   Alexander cannot be Special Summoned by the effect of "Test Tiger" or "Call of the Haunted".
@@ -8065,7 +8065,7 @@ _Ⓒ This card cannot be Special Summoned except by the effect of "Gladiator Bea
 
   
 ## GLADIATOR BEAST BESTIARI  
-_① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, destroy 1 Spell or Trap Card on the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Bestiari"__._
+> ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, destroy 1 Spell or Trap Card on the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Bestiari"__.
 
 *   The ① mandatory Trigger Effect cannot miss the timing.
     *   This effect targets 1 Spell / Trap Card on the field (it targets your own if your opponent has none).
@@ -8082,9 +8082,9 @@ _① When this card is Special Summoned by the effect of a "Gladiator Beast" mon
 
   
 ## GLADIATOR BEAST DARIUS  
-_① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, you can select 1 "Gladiator Beast" monster from your Graveyard and Special Summon it. Ⓛ That monster's effect(s) is negated, and it is returned to your Deck when this card is removed from the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Darius"._
+> ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, you can select 1 "Gladiator Beast" monster from your Graveyard and Special Summon it. Ⓛ That monster's effect(s) is negated, and it is returned to your Deck when this card is removed from the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Darius"._
 
-*   The ① optional "_When... you can..._" Trigger Effect can miss the timing.
+*   The ① optional "_When... you can..." Trigger Effect can miss the timing.
     *   This effect targets 1 "Gladiator Beast" monster in the Graveyard. It is negated by "Necrovalley".
     *   The target can still activate its effect.
     *   The target is continuously targeted by Darius's effect while Darius is on the field \[[REF1](https://www.pojo.biz/board/showthread.php?t=847041), [REF2](https://www.pojo.biz/board/showpost.php?p=13130602&postcount=7)\].
@@ -8110,7 +8110,7 @@ _① When this card is Special Summoned by the effect of a "Gladiator Beast" mon
 
   
 ## GLADIATOR BEAST DIMACARI  
-_① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, it can attack twice during each Battle Phase. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Dimacari"._
+> ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, it can attack twice during each Battle Phase. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Dimacari".
 
 *   The ① Continuous Effect does not activate.
     *   This effect no longer applies if Dimacari is flipped face-down, leaves the field, or has its effects negated by “Skill Drain” (even if “Skill Drain” is later negated / destroyed).
@@ -8128,7 +8128,7 @@ _① If this card was Special Summoned by the effect of a "Gladiator Beast" mons
 
   
 ## GLADIATOR BEAST EQUESTE  
-_① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, add 1 "Gladiator Beast" card from your Graveyard to your hand. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Equeste"._
+> ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, add 1 "Gladiator Beast" card from your Graveyard to your hand. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Equeste".
 
 *   The ① mandatory Trigger Effect cannot miss the timing.
     *   This effect targets 1 "Gladiator Beast" (Monster / Spell / Trap) card in your Graveyard.
@@ -8145,8 +8145,8 @@ _① When this card is Special Summoned by the effect of a "Gladiator Beast" mon
 
   
 ## GLADIATOR BEAST GAIODIAZ  
-_"Gladiator Beast Spartacus" + 1 "Gladiator Beast" monster  
-Ⓢ This card can only be Special Summoned from your Fusion Deck, by returning the above cards you control to the Deck. (You do not use "Polymerization".) ① When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Fusion Deck to Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Spartacus"._
+> "Gladiator Beast Spartacus" + 1 "Gladiator Beast" monster  
+Ⓢ This card can only be Special Summoned from your Fusion Deck, by returning the above cards you control to the Deck. (You do not use "Polymerization".) ① When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Fusion Deck to Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Spartacus".
 
 *   The Ⓢ Special Summon Condition restricts how this card is Summoned from the Extra Deck.
     *   This Summon does not start a Chain.
@@ -8170,8 +8170,8 @@ _"Gladiator Beast Spartacus" + 1 "Gladiator Beast" monster
 
   
 ## GLADIATOR BEAST GYZARUS  
-_“Gladiator Beast Bestiari” + 1 Gladiator Beast monster_  
-_Ⓢ This card can only be Special Summoned from your Fusion Deck by returning the above cards you control to the Deck. (You do not use “Polymerization”.) ① When this card is Special Summoned, you can destroy up to 2 cards on the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return this card to the Fusion Deck to Special Summon 2 “Gladiator Beast” monsters from your Deck, except “Gladiator Beast Bestiari”._
+> “Gladiator Beast Bestiari” + 1 Gladiator Beast monster_  
+_Ⓢ This card can only be Special Summoned from your Fusion Deck by returning the above cards you control to the Deck. (You do not use “Polymerization”.) ① When this card is Special Summoned, you can destroy up to 2 cards on the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return this card to the Fusion Deck to Special Summon 2 “Gladiator Beast” monsters from your Deck, except “Gladiator Beast Bestiari”.
 
 *   The Ⓢ Special Summon Condition restricts how this card is Summoned from the Extra Deck.
     *   This Summon does not start a Chain.
@@ -8193,8 +8193,8 @@ _Ⓢ This card can only be Special Summoned from your Fusion Deck by returning t
 
   
 ## GLADIATOR BEAST HERAKLINOS  
-_"Gladiator Beast Laquari" + 2 "Gladiator Beast" monsters  
-Ⓢ This card can only be Special Summoned from your Fusion Deck, by returning the above cards you control to the Deck. (You do not use "Polymerization".) ① You can discard 1 card from your hand to negate the activation of a Spell or Trap Card and destroy it. You can use this effect during either player's turn._
+> "Gladiator Beast Laquari" + 2 "Gladiator Beast" monsters  
+Ⓢ This card can only be Special Summoned from your Fusion Deck, by returning the above cards you control to the Deck. (You do not use "Polymerization".) ① You can discard 1 card from your hand to negate the activation of a Spell or Trap Card and destroy it. You can use this effect during either player's turn.
 
 *   The Ⓢ Special Summon Condition restricts how this card is Summoned from the Extra Deck.
     *   This Summon does not start a Chain.
@@ -8209,7 +8209,7 @@ _"Gladiator Beast Laquari" + 2 "Gladiator Beast" monsters
 
   
 ## GLADIATOR BEAST HOPLOMUS  
-_① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, its original DEF is 2400. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Hoplomus"._
+> ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, its original DEF is 2400. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Hoplomus".
 
 *   The ① Continuous Effect does not activate.
     *   This effect no longer applies if Hoplomus is flipped face-down, leaves the field, or has its effects negated by “Skill Drain” (even if “Skill Drain” is later negated / destroyed).
@@ -8226,7 +8226,7 @@ _① If this card was Special Summoned by the effect of a "Gladiator Beast" mons
 
   
 ## GLADIATOR BEAST LAQUARI  
-_① If this card is Special Summoned by the effect of a "Gladiator Beast" monster, its original ATK is 2100. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Laquari"._
+> ① If this card is Special Summoned by the effect of a "Gladiator Beast" monster, its original ATK is 2100. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Laquari".
 
 *   The ① Continuous Effect does not activate.
     *   This effect no longer applies if Laquari is flipped face-down, leaves the field, or has its effects negated by “Skill Drain” (even if “Skill Drain” is later negated / destroyed).
@@ -8243,7 +8243,7 @@ _① If this card is Special Summoned by the effect of a "Gladiator Beast" monst
 
   
 ## GLADIATOR BEAST MURMILLO  
-_① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, destroy 1 face-up monster. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Murmillo"._
+> ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, destroy 1 face-up monster. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Murmillo".
 
 *   The ① mandatory Trigger Effect cannot miss the timing.
     *   This effect targets a face-up monster (it will targets one of yours if your opponent has none).
@@ -8261,7 +8261,7 @@ _① When this card is Special Summoned by the effect of a "Gladiator Beast" mon
 
   
 ## GLADIATOR BEAST SECUTOR  
-_① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, at the end of any Battle Phase, if this card attacks or was attacked, Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Secutor"._
+> ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, at the end of any Battle Phase, if this card attacks or was attacked, Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Secutor".
 
 *   The ① mandatory Trigger Effect activates if this card has engaged in Substep 4 - Damage Calculation.
 *   If you have only 1 available Monster Zone Space, you will still choose 2 “Gladiator Beast” monsters. You will Special Summon one, and the other will be destroyed and sent to the Graveyard.
@@ -8278,7 +8278,7 @@ _① If this card was Special Summoned by the effect of a "Gladiator Beast" mons
 
   
 ## GLADIATOR BEAST WAR CHARIOT  
-_Activate only if you control a "Gladiator Beast" monster. Negate the activation of an Effect Monster's effect, and destroy it._
+> Activate only if you control a "Gladiator Beast" monster. Negate the activation of an Effect Monster's effect, and destroy it.
 
 *   This effect does not target.
 *   This negates the activation of the monster's effect, removing that Link from the Chain.
@@ -8349,7 +8349,7 @@ _Activate only if you control a "Gladiator Beast" monster. Negate the activation
 
   
 ## GOBLIN ZOMBIE  
-_① When this card inflicts Battle Damage to your opponent, send the top card of their Deck to the Graveyard. ② When this card is sent from the field to the Graveyard, add 1 Zombie-Type monster with 1200 or less DEF from your Deck to your hand._
+> ① When this card inflicts Battle Damage to your opponent, send the top card of their Deck to the Graveyard. ② When this card is sent from the field to the Graveyard, add 1 Zombie-Type monster with 1200 or less DEF from your Deck to your hand.
 
 *   The ① mandatory Trigger Effect activates in Substep 5 - After Damage Calculation of the Damage Step.
     *   If "Macro Cosmos" applies, the top card of your opponent's Deck is removed from play instead.
@@ -8368,7 +8368,7 @@ _① When this card inflicts Battle Damage to your opponent, send the top card o
 
   
 ## GODDESS WITH THE THIRD EYE  
-_① You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s)._
+> ① You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -8458,9 +8458,9 @@ Also see rulings for “Dark World Monsters”.
 
   
 ## GORZ, THE EMISSARY OF DARKNESS  
-_① When you take damage from a card your opponent controls while you control no cards, you can Special Summon this card from your hand. ② Then activate the appropriate effect based on the type of damage:  
+> ① When you take damage from a card your opponent controls while you control no cards, you can Special Summon this card from your hand. ② Then activate the appropriate effect based on the type of damage:  
 (2A) Battle Damage: Special Summon 1 “Emissary of Darkness Token” (Fairy-Type/ LIGHT/ Level 7/ ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of battle damage you took.  
-(2B) Effect Damage: Inflict damage to your opponent equal to the amount of damage you took._
+(2B) Effect Damage: Inflict damage to your opponent equal to the amount of damage you took.
 
 *   The ① optional "_When... you can..._" Trigger Effect can miss the timing.
     *   You cannot activate Gorz's effect and chain the effect of "Tragoedia", etc.
@@ -8476,7 +8476,7 @@ _① When you take damage from a card your opponent controls while you control n
 
   
 ## GOTTOMS' EMERGENCY CALL  
-_Activate only if there is a face-up "X-Saber" monster(s) on the field. Select 2 "X-Saber" monsters in either player's Graveyard(s). Special Summon those monsters to your side of the field._
+> Activate only if there is a face-up "X-Saber" monster(s) on the field. Select 2 "X-Saber" monsters in either player's Graveyard(s). Special Summon those monsters to your side of the field.
 
 *   This effect targets the 2 "X-Saber" (including "XX-Saber") monsters in the Graveyard(s).
 *   If either target is not in the Graveyard when this card resolves, the other target is not Summoned \[[REF](https://www.pojo.biz/board/showthread.php?t=824459)\].
@@ -8485,8 +8485,8 @@ _Activate only if there is a face-up "X-Saber" monster(s) on the field. Select 2
 
   
 ## GOYO GUARDIAN  
-_1 Tuner + 1 or more non-Tuner monsters._  
-_① When this card destroys an opponent’s monster by battle and sends it to the Graveyard, you can Special Summon that monster to your side of the field in face-up Defense Position._
+> 1 Tuner + 1 or more non-Tuner monsters._  
+_① When this card destroys an opponent’s monster by battle and sends it to the Graveyard, you can Special Summon that monster to your side of the field in face-up Defense Position.
 
 *   The Synchro Material Monsters do not need to be EARTH monsters, contrary to recent Errata.
 *   The ① optional Trigger Effect activates at the start of Substep 7 - End of the Damage Step (when monsters destroyed by battle are sent to the Graveyard) of the Damage Step.
@@ -8500,7 +8500,7 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 
   
 ## GOZEN MATCH  
-_① Each player sends monsters they control to the Graveyard until they each control monsters of only 1 Attribute. Each player cannot control monsters with different Attributes._
+> ① Each player sends monsters they control to the Graveyard until they each control monsters of only 1 Attribute. Each player cannot control monsters with different Attributes.
 
 *   The ① Continuous-like Effect applies immediately after this Trap Card’s activation resolves: both players look at the face-up monsters they control and each choose 1 Attribute to keep and send their face-up monsters that aren’t that Attribute to the Graveyard.
     *   Monsters like "Dark Simorgh" can still be Summoned, they only have one Attribute while in hand.
@@ -8541,7 +8541,7 @@ _① Each player sends monsters they control to the Graveyard until they each co
 
   
 ## GRAGONITH, LIGHTSWORN DRAGON  
-_① This card gains 300 ATK and DEF for each "Lightsworn" monster with a different name in your Graveyard. ② During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ③ During each of your End Phases, send the top 3 cards of your Deck to the Graveyard._
+> ① This card gains 300 ATK and DEF for each "Lightsworn" monster with a different name in your Graveyard. ② During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ③ During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 
 *   The ① Continuous Effect does not start a chain.
     *   If "Blackwing - Gale the Whirlwind" halves this card's ATK, its ATK will not change anymore.
@@ -8578,7 +8578,7 @@ _① This card gains 300 ATK and DEF for each "Lightsworn" monster with a differ
 
   
 ## GRANDMASTER OF THE SIX SAMURAI  
-_Ⓤ You can only control 1 "Grandmaster of the Six Samurai" monster. Ⓢ While you control a face-up "Six Samurai" monster, you can Special Summon this card from your hand. ① When this card is destroyed by your opponent's card effect, add 1 "Six Samurai" monster from your Graveyard to your hand._
+> Ⓤ You can only control 1 "Grandmaster of the Six Samurai" monster. Ⓢ While you control a face-up "Six Samurai" monster, you can Special Summon this card from your hand. ① When this card is destroyed by your opponent's card effect, add 1 "Six Samurai" monster from your Graveyard to your hand.
 
 *   Ⓤ is an Unclassified Effect.
     *   You CANNOTsummon a "Grandmaster of the Six Samurai" while one is already face-up under your control, however you can Tribute Set further copies.
@@ -8611,7 +8611,7 @@ _Ⓤ You can only control 1 "Grandmaster of the Six Samurai" monster. Ⓢ While 
 
   
 ## GRAVE OF THE SUPER ANCIENT ORGANISM  
-_All face-up Level 6 or higher Special Summoned monsters on the field cannot declare an attack or activate their effects._
+> All face-up Level 6 or higher Special Summoned monsters on the field cannot declare an attack or activate their effects.
 
 *   Even mandatory effects cannot activate while “Grave of the Super Ancient Organism” is active.
 *   This card does not negate effects, it prevents both players from activating such effects.
@@ -8642,7 +8642,7 @@ _All face-up Level 6 or higher Special Summoned monsters on the field cannot dec
 
   
 ## GRAVEKEEPER'S ASSAILANT  
-_① If "Necrovalley" is on the field when this card declares an attack, you can change the battle position of 1 face-up monster your opponent controls._
+> ① If "Necrovalley" is on the field when this card declares an attack, you can change the battle position of 1 face-up monster your opponent controls.
 
 *   The ① optional Trigger Effect activates in Start of the Battle Phase - Attack Declaration.
     *   This effect targets 1 face-up monster your opponent controls.
@@ -8663,7 +8663,7 @@ _① If "Necrovalley" is on the field when this card declares an attack, you can
 
   
 ## GRAVEKEEPER’S DESCENDANT  
-_① You can Tribute 1 face-up "Gravekeeper"'s monster you control, except this card, to destroy 1 card your opponent controls._
+> ① You can Tribute 1 face-up "Gravekeeper"'s monster you control, except this card, to destroy 1 card your opponent controls.
 
 *   The ① Ignition Effect targets 1 card your opponent controls.
     *   If you gain control of the target, it is not destroyed.
@@ -8679,7 +8679,7 @@ _① You can Tribute 1 face-up "Gravekeeper"'s monster you control, except this 
 
   
 ## GRAVEKEEPER'S SPY  
-_FLIP: Special Summon 1 "Gravekeeper"'s monster with 1500 or less ATK from your Deck._
+> FLIP: Special Summon 1 "Gravekeeper"'s monster with 1500 or less ATK from your Deck.
 
 *   The Flip Effect is mandatory.
     *   This effect always activates, even if there are no "Gravekeeper"'s monsters in your Deck.
@@ -8722,7 +8722,7 @@ _FLIP: Special Summon 1 "Gravekeeper"'s monster with 1500 or less ATK from your 
 
   
 ## GRAVITY BIND  
-_① Level 4 and higher monsters cannot attack._
+> ① Level 4 and higher monsters cannot attack.
 
 *   The ① Continuous-like Effect does not activate.
     *   If you activate "Gravity Bind" when a Level 4+ monster attacks, the attack stops but is not negated.
@@ -8750,7 +8750,7 @@ _① Level 4 and higher monsters cannot attack._
 
   
 ## GREAT SHOGUN SHIEN  
-_Ⓤ If you control 2 or more "Six Samurai" monsters, you can Special Summon this card from your hand. ① Your opponent can activate only 1 Spell/Trap Card each turn. ② If this card would be destroyed, you can destroy a "Six Samurai" monster you control instead._
+> Ⓤ If you control 2 or more "Six Samurai" monsters, you can Special Summon this card from your hand. ① Your opponent can activate only 1 Spell/Trap Card each turn. ② If this card would be destroyed, you can destroy a "Six Samurai" monster you control instead.
 
 *   The Ⓤ Unclassified Effect works like a built-in Special Summon. This Summon does not start a chain.
 *   The ① Continuous Effect applies so long as "Great Shogun Shien" is face-up on the field.
@@ -8786,9 +8786,9 @@ _Ⓤ If you control 2 or more "Six Samurai" monsters, you can Special Summon thi
 
   
 ## GREEN BABOON, DEFENDER OF THE FOREST  
-_① When a Beast-Type monster you control is destroyed and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card from your hand or the Graveyard._
+> ① When a Beast-Type monster you control is destroyed and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card from your hand or the Graveyard._
 
-*   The ① optional "_When... you can..._" Trigger Effect can miss the timing.
+*   The ① optional "_When... you can..." Trigger Effect can miss the timing.
     *   This effect can be activated during either player's turn.
     *   This effect can activate even if the destroyed monster was Beast-Type by "DNA Surgery".
     *   You can only activate the effect of 1 “Green Baboon, Defender of the Forest,” even if multiple copies are available in your hand/Graveyard.
@@ -8803,9 +8803,9 @@ _① When a Beast-Type monster you control is destroyed and sent to the Graveyar
 
   
 ## GREEN GADGET  
-_① When you Normal Summon or Special Summon this card, you can add 1 "Red Gadget" from your Deck to your hand._
+> ① When you Normal Summon or Special Summon this card, you can add 1 "Red Gadget" from your Deck to your hand._
 
-*   The ① optional "_When... you can..._" Trigger Effect can miss the timing.
+*   The ① optional "_When... you can..." Trigger Effect can miss the timing.
     *   If Normal Summoned, this effect activates in the Summon response timing (like "Trap Hole").
     *   This effect can activate if Special Summoned in the Damage Step (by "Giant Rat" as Chain Link 1).
     *   This effect cannot activate if this card was Normal / Special Summoned as Chain Link 2+, such as by "Ultimate Offering" or "Call of the Haunted".
@@ -8902,7 +8902,7 @@ _① When you Normal Summon or Special Summon this card, you can add 1 "Red Gadg
 
   
 ## GUARDIAN EATOS  
-_Ⓤ If you have no monsters in your Graveyard, you can Special Summon this card from your hand. ① You can send 1 Equip Spell Card equipped to this card to the Graveyard to select and remove from play up to 3 monsters in your opponent's Graveyard. This card gains 500 ATK for each monster removed by this effect, until the End Phase._
+> Ⓤ If you have no monsters in your Graveyard, you can Special Summon this card from your hand. ① You can send 1 Equip Spell Card equipped to this card to the Graveyard to select and remove from play up to 3 monsters in your opponent's Graveyard. This card gains 500 ATK for each monster removed by this effect, until the End Phase.
 
 *   The Ⓤ Unclassified effect works like a built-in Special Summon. This does not start a Chain.
 *   The ① Ignition Effect sends an Equip Spell equipped to this card to the Graveyard for cost.
@@ -8998,7 +8998,7 @@ _Ⓤ If you have no monsters in your Graveyard, you can Special Summon this card
 
   
 ## HAND DESTRUCTION  
-_Each player sends 2 cards from their hand to the Graveyard and draws 2 cards._
+> Each player sends 2 cards from their hand to the Graveyard and draws 2 cards.
 
 *   Sending 2 cards from the hand to the Graveyard is NOT a cost.
     *   Sending a card to the Graveyard is not the same as discarding it.
@@ -9024,7 +9024,7 @@ _Each player sends 2 cards from their hand to the Graveyard and draws 2 cards._
 
   
 ## HAND OF THE SIX SAMURAI  
-_① While you control another "Six Samurai" monster, you can Tribute 1 "Six Samurai" monster to destroy 1 monster on the field._
+> ① While you control another "Six Samurai" monster, you can Tribute 1 "Six Samurai" monster to destroy 1 monster on the field.
 
 *   The ① Ignition Effect targets 1 monster on the field.
     *   Tributing 1 "Six Samurai" monster (including this card) you control is a cost. If "Soul Exchange" targets your opponent's "Six Samurai" monster, you can Tribute it as cost instead.
@@ -9038,7 +9038,7 @@ _① While you control another "Six Samurai" monster, you can Tribute 1 "Six Sam
 
   
 ## HARDENED ARMED DRAGON  
-_(U1) You can send 1 Level 8 or higher monster from your hand to the Graveyard and Special Summon this card. (U2) If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects._
+> (U1) You can send 1 Level 8 or higher monster from your hand to the Graveyard and Special Summon this card. (U2) If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.
 
 *   The (U1) Unclassified effect is a built-in Special Summon. This does not start a Chain.
     *   This can only be used to Summon this card from the hand.
@@ -9127,7 +9127,7 @@ _(U1) You can send 1 Level 8 or higher monster from your hand to the Graveyard a
 
   
 ## HEAVY MECH SUPPORT PLATFORM  
-_① Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it and Special Summon it in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 500 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, this card is destroyed instead.)_
+> ① Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it and Special Summon it in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 500 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, this card is destroyed instead.)
 
 *   Note that "Heavy Mech Support Platform" is different from other Union Monsters in that its last sentence is applied if the monster it is equipped to is destroyed (period), not just when the monster is destroyed as a result of battle. This extra effect does not apply to previous Union Monsters.
 *   If a monster equipped with "Heavy Mech Support Platform" is targeted by "Ring of Destruction", then "Heavy Mech Support Platform" is destroyed instead of the equipped monster, and the damage inflicted to both players by "Ring of Destruction" is 0 (because the monster targeted by "Ring of Destruction" was not destroyed by it).
@@ -9154,7 +9154,7 @@ _① Once per turn, during your Main Phase, you can equip this card to a Machine
 
   
 ## HERALD OF CREATION  
-_① Once per turn, you can discard 1 card to add 1 Level 7 or higher monster from your Graveyard to your hand._
+> ① Once per turn, you can discard 1 card to add 1 Level 7 or higher monster from your Graveyard to your hand.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Discarding 1 card is a cost.
@@ -9163,7 +9163,7 @@ _① Once per turn, you can discard 1 card to add 1 Level 7 or higher monster fr
 
   
 ## HERALD OF GREEN LIGHT  
-_① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an opponent's Spell Card and destroy it. This effect can be activated during either player's turn._
+> ① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an opponent's Spell Card and destroy it. This effect can be activated during either player's turn.
 
 *   The ① Quick Effect can activate in the Damage Step, as it negates the activation of cards/effects.
     *   Sending this card and 1 Fairy-Type monster from hand to the Graveyard is a cost.
@@ -9173,7 +9173,7 @@ _① You can send this card and 1 other Fairy-Type monster from your hand to the
 
   
 ## HERALD OF ORANGE LIGHT  
-_① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it. You can activate this effect during either player's turn._
+> ① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it. You can activate this effect during either player's turn.
 
 *   The ① Quick Effect can activate in the Damage Step, as it negates the activation of cards/effects.
     *   Sending this card and 1 Fairy-Type monster from hand to the Graveyard is a cost.
@@ -9185,7 +9185,7 @@ _① You can send this card and 1 other Fairy-Type monster from your hand to the
 
   
 ## HERALD OF PURPLE LIGHT  
-_① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an opponent's Trap Card and destroy it. This effect can be activated during either player's turn._
+> ① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an opponent's Trap Card and destroy it. This effect can be activated during either player's turn.
 
 *   The ① Quick Effect can activate in the Damage Step, as it negates the activation of cards/effects.
     *   Sending this card and 1 Fairy-Type monster from hand to the Graveyard is a cost.
@@ -9208,7 +9208,7 @@ _① You can send this card and 1 other Fairy-Type monster from your hand to the
 
   
 ## HERO BLAST  
-_Select 1 "Elemental Hero" Normal Monster from your Graveyard and add it to your hand. Then, destroy 1 face-up monster your opponent controls with ATK equal to or less than the selected monster's ATK._
+> Select 1 "Elemental Hero" Normal Monster from your Graveyard and add it to your hand. Then, destroy 1 face-up monster your opponent controls with ATK equal to or less than the selected monster's ATK.
 
 *   This effect targets 1 "Elemental Hero" Normal Monster (including Gemini Monsters) in your Graveyard.
     *   If the target is not returned to your hand, you do not destroy your opponent's monster.
@@ -9302,7 +9302,7 @@ _Select 1 "Elemental Hero" Normal Monster from your Graveyard and add it to your
 
   
 ## HONEST  
-_① During your Main Phase, you can return this card from the field to its owner’s hand. ② During either player’s Damage Step, when a face-up LIGHT monster you control battles, you can send this card from your hand to the Graveyard to have that monster gain ATK equal to the ATK of the opponent’s monster it is battling, until the End Phase._
+> ① During your Main Phase, you can return this card from the field to its owner’s hand. ② During either player’s Damage Step, when a face-up LIGHT monster you control battles, you can send this card from your hand to the Graveyard to have that monster gain ATK equal to the ATK of the opponent’s monster it is battling, until the End Phase.
 
 *   The ① Ignition Effect can be activated during your Main Phase 1 or 2.
     *   Returning this card to the hand is not a cost.
@@ -9419,7 +9419,7 @@ _① During your Main Phase, you can return this card from the field to its owne
 
   
 ## HYPER PSYCHIC BLASTER  
-_① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks a Defense Position monster whose DEF is lower than the ATK of this card, gain Life Points equal to the difference at the end of the Damage Step._
+> ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks a Defense Position monster whose DEF is lower than the ATK of this card, gain Life Points equal to the difference at the end of the Damage Step.
 
 *   The ① Continuous Effect does not start a chain.
 *   The ② mandatory Trigger Effect cannot miss the timing.
@@ -9441,7 +9441,7 @@ _① During battle between this attacking card and a Defense Position monster wh
 *   Tributing 2 monsters is a cost. "Hysteric Fairy" can be Tributed to pay its cost.
 
 ## ICARUS ATTACK  
-_Tribute 1 Winged Beast-Type monster. Destroy 2 cards on the field._
+> Tribute 1 Winged Beast-Type monster. Destroy 2 cards on the field.
 
 *   Tributing a (face-up / face-down) Winged-Beast is a cost.
 *   This card targets two cards. "Icarus Attack" CANNOT target itself.
@@ -9463,7 +9463,7 @@ _Tribute 1 Winged Beast-Type monster. Destroy 2 cards on the field._
 
   
 ## Il Blud  
-_Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:_  
+> Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:  
 ● ① Once per turn, you can Special Summon 1 Zombie-Type monster from your hand or from either player's Graveyard. ② When this card is removed from the field, destroy all Zombie-Type monsters Special Summoned by this effect.
 
 *   The Ⓤ unclassified effect does not apply while "Il Blud" is in the Deck. It cannot be negated.
@@ -9482,7 +9482,7 @@ _Ⓤ This card is treated as a Normal Monster while face-up on the field or in t
 
   
 ## IMPERIAL CUSTOM  
-_① Face-up Continuous Trap Cards cannot be destroyed, except "Imperial Custom". You can only control 1 "Imperial Custom"._
+> ① Face-up Continuous Trap Cards cannot be destroyed, except "Imperial Custom". You can only control 1 "Imperial Custom".
 
 *   The ① Continuous-like Effect does not activate.
 *   This effect only protects Continuous Traps from destruction.
@@ -9500,7 +9500,7 @@ _① Face-up Continuous Trap Cards cannot be destroyed, except "Imperial Custom"
 
   
 ## IMPERIAL IRON WALL  
-_① Cards cannot be removed from play._
+> ① Cards cannot be removed from play.
 
 *   The ① Continuous-like Effect does not activate.
 *   Cards CANNOT activate if their cost / effect would remove a card(s) from play
@@ -9686,7 +9686,7 @@ _① Cards cannot be removed from play._
 
   
 ## INSTANT FUSION  
-_① Pay 1000 Life Points. Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) ① It cannot attack, and is destroyed during the End Phase. Ⓒ Only 1 "Instant Fusion" can be activated per turn._
+> ① Pay 1000 Life Points. Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) ① It cannot attack, and is destroyed during the End Phase. Ⓒ Only 1 "Instant Fusion" can be activated per turn.
 
 *   Paying 1000 Life Points is a cost.
 *   The ① effect performs a proper Fusion Summon.
@@ -9719,7 +9719,7 @@ _① Pay 1000 Life Points. Special Summon 1 Level 5 or lower Fusion Monster from
 
   
 ## INTERDIMENSIONAL MATTER TRANSPORTER  
-_① Select 1 face-up monster you control and remove it from play until the End Phase of this turn._
+> ① Select 1 face-up monster you control and remove it from play until the End Phase of this turn.
 
 *   The ① effect of this card targets a face-up monster you control.
     *   If the target is no longer face-up, it is not removed from play.
@@ -9738,7 +9738,7 @@ _① Select 1 face-up monster you control and remove it from play until the End 
 
   
 ## INTERPLANETARY INVADER 'A'  
-_① Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase._
+> ① Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.
 
 *   The ① Trigger Effect meets activates in Substep 7 - End of the Damage Step, then "starts another chain" in the End of the Battle Phase, this time taking control of every monster that battled it.
     *   This effect does not target.
@@ -9759,7 +9759,7 @@ _① Gain control of a monster that attacks this face-up Attack Position card, a
 
   
 ## INVADER OF DARKNESS  
-_① While this card is face-up on the field, your opponent cannot activate Quick-Play Spell Cards._
+> ① While this card is face-up on the field, your opponent cannot activate Quick-Play Spell Cards.
 
 *   The ① Continuous Effect applies while this card is face-upon the field.
 *   Your opponent cannot activate (play face-up) Quick-Play Spells.
@@ -9806,7 +9806,7 @@ _① While this card is face-up on the field, your opponent cannot activate Quic
 
   
 ## IRON CHAIN DRAGON  
-_① You can remove from play all "Iron Chain" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. ② When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard._
+> ① You can remove from play all "Iron Chain" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. ② When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard.
 
 *   The ① Ignition Effect does not target this card.
     *   There is no cost.
@@ -9887,7 +9887,7 @@ _① You can remove from play all "Iron Chain" monsters from your Graveyard to h
 
   
 ## JADE KNIGHT  
-_① While this card is in Attack Position, face-up Machine-Type monsters you control with 1200 or less ATK cannot be destroyed by the effects of Trap Cards. ② When this face-up card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 LIGHT Machine-Type monster from your Deck to your hand._
+> ① While this card is in Attack Position, face-up Machine-Type monsters you control with 1200 or less ATK cannot be destroyed by the effects of Trap Cards. ② When this face-up card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 LIGHT Machine-Type monster from your Deck to your hand.
 
 *   The ① Continuous Effect only applies while this card is in face-up Attack Position.  
     *   This applies to the effects for all classes of Trap Card (Normal, Continuous, Counter).  
@@ -9905,7 +9905,7 @@ _① While this card is in Attack Position, face-up Machine-Type monsters you co
 
   
 ## JAIN, LIGHTSWORN PALADIN  
-_① If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard._
+> ① If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
 
 *   The ① Continuous Effect starts to apply in Substep 1 - Start of the Damage Step.
     *   This effect applies until Substep 7 - End of the Damage Step.
@@ -9952,7 +9952,7 @@ _① If this card attacks an opponent's monster, it gains 300 ATK during the Dam
 
   
 ## JESTER CONFIT  
-_Ⓢ You can Special Summon this card from your hand in face-up Attack Position. ① If you do, return this card and 1 face-up monster your opponent controls to the hand during the End Phase of your opponent's next turn. Ⓤ You can only control 1 face-up "Jester Confit"._
+> Ⓢ You can Special Summon this card from your hand in face-up Attack Position. ① If you do, return this card and 1 face-up monster your opponent controls to the hand during the End Phase of your opponent's next turn. Ⓤ You can only control 1 face-up "Jester Confit".
 
 *   The Ⓢ Summon Effect does not start a Chain.
 *   The ① mandatory Trigger Effect is activated by the controller of this card.
@@ -9989,7 +9989,7 @@ _Ⓢ You can Special Summon this card from your hand in face-up Attack Position.
 
   
 ## JINZO - RETURNER  
-_① This card can attack your opponent directly. ② When this card is sent to the Graveyard, you can Special Summon 1 "Jinzo" from your Graveyard. Destroy it during your End Phase._
+> ① This card can attack your opponent directly. ② When this card is sent to the Graveyard, you can Special Summon 1 "Jinzo" from your Graveyard. Destroy it during your End Phase.
 
 *   The ① Continuous Effect does not activate.
     *   If this effect is negated in the Damage Step, no replay occurs.
@@ -10028,7 +10028,7 @@ _① This card can attack your opponent directly. ② When this card is sent to 
 
   
 ## JUDGMENT DRAGON  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having 4 or more "Lightsworn" monsters with different names in your Graveyard. ① You can pay 1000 Life Points to destroy all other cards on the field. ② During each of your End Phases, send the top 4 cards of your Deck to the Graveyard._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having 4 or more "Lightsworn" monsters with different names in your Graveyard. ① You can pay 1000 Life Points to destroy all other cards on the field. ② During each of your End Phases, send the top 4 cards of your Deck to the Graveyard.
 
 *   This Ⓢ Special Summon effect does not start a chain.
     *   This card can ONLY be special summoned from the hand by this effect.
@@ -10066,7 +10066,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special
 
   
 ## JUNK ARCHER  
-_① Once per turn, you can select 1 monster your opponent controls. Remove that monster from play. During the End Phase of this turn, it returns to your opponent's side of the field, in the same Battle Position._
+> ① Once per turn, you can select 1 monster your opponent controls. Remove that monster from play. During the End Phase of this turn, it returns to your opponent's side of the field, in the same Battle Position.
 
 *   The ① Ignition Effect targets 1 (face-up / face-down) monster your opponent controls.
     *   If the target is face-down, it is banished face-down, and returns to the field face-down.
@@ -10081,7 +10081,7 @@ _① Once per turn, you can select 1 monster your opponent controls. Remove that
 
   
 ## JUNK SYNCHRON  
-_① When this card is Normal Summoned, you can Special Summon 1 Level 2 or lower monster from your Graveyard in face-up Defense Position. That monster's effect(s) is negated._
+> ① When this card is Normal Summoned, you can Special Summon 1 Level 2 or lower monster from your Graveyard in face-up Defense Position. That monster's effect(s) is negated.
 
 *   The ① optional Trigger Effect activates in the Summon response timing (like "Trap Hole").
     *   This effect targets a monster in the Graveyard. It is negated by "Necrovalley".
@@ -10112,7 +10112,7 @@ _① When this card is Normal Summoned, you can Special Summon 1 Level 2 or lowe
 
   
 ## KAISER COLOSSEUM  
-_① If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. Ⓒ The cards that are already on the field before this card's activation are unaffected by this effect._
+> ① If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. Ⓒ The cards that are already on the field before this card's activation are unaffected by this effect.
 
 *   The ① Continuous Effect only applies while you control 1+ monster(s).
     *   Your opponent can still Flip Summon monsters.
@@ -10154,7 +10154,7 @@ _① If there is 1 or more monster(s) on the field of the controller of this car
 
   
 ## KARMA CUT  
-_Discard 1 card. Remove from play 1 face-up monster your opponent controls. Then, remove from play any cards in your opponent's Graveyard with the same name as that monster._
+> Discard 1 card. Remove from play 1 face-up monster your opponent controls. Then, remove from play any cards in your opponent's Graveyard with the same name as that monster.
 
 *   Discarding a card from your hand is a cost.
 *   This card can be activated while your opponent controls "Kycoo the Ghost Destroyer".
@@ -10213,7 +10213,7 @@ _Discard 1 card. Remove from play 1 face-up monster your opponent controls. Then
 
   
 ## KING OF THE SWAMP  
-_① You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s). ② Discard this card from your hand to the Graveyard to add a "Polymerization" from your Deck to your hand. The Deck is then shuffled._
+> ① You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s). ② Discard this card from your hand to the Graveyard to add a "Polymerization" from your Deck to your hand. The Deck is then shuffled.
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -10230,7 +10230,7 @@ _① You can substitute this card for any 1 Fusion Material Monster. When you do
 
   
 ## KING TIGER WANGHU  
-_① Destroy all monsters with an ATK of 1400 or less that are Normal Summoned or Special Summoned._
+> ① Destroy all monsters with an ATK of 1400 or less that are Normal Summoned or Special Summoned.
 
 *   This ① mandatory Trigger Effect activates in the Summon response timing (like "Trap Hole").
     *   This effect verifies ATK at resolution, and includes all ATK modifiers.
@@ -10259,7 +10259,7 @@ _① Destroy all monsters with an ATK of 1400 or less that are Normal Summoned o
 
   
 ## KIRYU  
-_① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Dark Blade" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 900 points, and you can Tribute this card to allow the equipped monster to attack your opponent's Life Points directly this turn. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Dark Blade" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 900 points, and you can Tribute this card to allow the equipped monster to attack your opponent's Life Points directly this turn. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
 
 *   While "Mask of Restrict" is active, you cannot Tribute "Kiryu" because "Mask of Restrict" prevents all Tributing, including Tributing Equip Spell Cards.
 *   If you Tribute "Kiryu" while it is equipped to "Dark Blade", you cannot then use "Super Rejuvenation" and count "Kiryu" as a Dragon-Type monster.
@@ -10291,7 +10291,7 @@ _① Once per turn, during your Main Phase, if you control this card on the fiel
 
   
 ## KOA'KI MEIRU DRAGO  
-_Ⓜ During each of your End Phases, destroy this card unless you send 1 “Iron Core of Koa’ki Meiru” from your hand to the Graveyard or reveal 1 Dragon-Type monster in your hand. ① LIGHT and DARK monsters cannot be Special Summoned._
+> Ⓜ During each of your End Phases, destroy this card unless you send 1 “Iron Core of Koa’ki Meiru” from your hand to the Graveyard or reveal 1 Dragon-Type monster in your hand. ① LIGHT and DARK monsters cannot be Special Summoned.
 
 *   The Ⓜ Maintenance Cost is not an effect. It cannot be negated.
     *   Revealing 1 Dragon-Type monster does not start a chain.
@@ -10325,7 +10325,7 @@ _Ⓜ During each of your End Phases, destroy this card unless you send 1 “Iron
 
   
 ## KOA’KI MEIRU POWERHAND  
-_During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Normal Trap Card in your hand. If this card battles a LIGHT or DARK monster, any of that monster's effects that activate or apply on the field are negated during that Battle Phase, while this card remains on the field._
+> During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Normal Trap Card in your hand. If this card battles a LIGHT or DARK monster, any of that monster's effects that activate or apply on the field are negated during that Battle Phase, while this card remains on the field.
 
 *   The first sentence of this card is a maintenance cost, not an effect. It does not start a Chain.
 *   “Koa’ki Meiru Powerhand” only negates a monster’s effect while they are battling. This means that it only negates effects that activate on the field, or are continuous effects while on the field. Effects that activate in the Graveyard like “Sangan” are not negated.
@@ -10370,7 +10370,7 @@ _During each of your End Phases, destroy this card unless you send 1 "Iron Core 
 
   
 ## KOITSU  
-_① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Aitsu" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK of the equipped monster by 3000 points. ③ When it attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Aitsu" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK of the equipped monster by 3000 points. ③ When it attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
 
 *   "Koitsu"'s effect that inflicts damage is only applied to a monster that is equipped with "Koitsu" by "Koitsu"'s effect; "Koitsu" itself, while a monster, does not receive this effect.
 
@@ -10390,7 +10390,7 @@ _① Once per turn, during your Main Phase, if you control this card on the fiel
 
   
 ## KREBONS  
-_① When this card is selected as an attack target, you can pay 800 Life Points to negate the attack._
+> ① When this card is selected as an attack target, you can pay 800 Life Points to negate the attack.
 
 *   The ① optional Trigger Effect activates at the Start of the Battle Step - Attack Declaration.
     *   Paying 800 Life Points is a cost.
@@ -10411,9 +10411,9 @@ _① When this card is selected as an attack target, you can pay 800 Life Points
 
   
 ## KURAZ THE LIGHT MONARCH  
-_① When this card is Normal or Special Summoned, you can destroy up to 2 cards on the field. For each card destroyed, that card's controller draws 1 card. ② This card cannot attack during the turn it is Normal or Special Summoned._
+> ① When this card is Normal or Special Summoned, you can destroy up to 2 cards on the field. For each card destroyed, that card's controller draws 1 card. ② This card cannot attack during the turn it is Normal or Special Summoned._
 
-*   This ① optional "_When... you can..._" Trigger Effect can miss the timing.
+*   This ① optional "_When... you can..." Trigger Effect can miss the timing.
     *   This effect targets 1 or 2 cards on the field.
     *   The "_destroy_" and "_draw_" parts are considered to resolve simultaneously.
     *   If a target cannot be destroyed, the other is still destroyed.
@@ -10445,7 +10445,7 @@ _① When this card is Normal or Special Summoned, you can destroy up to 2 cards
 
   
 ## KYCOO THE GHOST DESTROYER  
-_① When this card inflicts Battle Damage to your opponent, you can remove from play up to 2 Monster Cards from their Graveyard. ② Your opponent cannot remove from play cards from either player’s Graveyard._
+> ① When this card inflicts Battle Damage to your opponent, you can remove from play up to 2 Monster Cards from their Graveyard. ② Your opponent cannot remove from play cards from either player’s Graveyard.
 
 *   The ① optional Trigger Effect activates in Substep 5 - After Damage Calculation.
     *   This effect targets up to 2 Monsters in your opponent's Graveyard.
@@ -10554,7 +10554,7 @@ _① When this card inflicts Battle Damage to your opponent, you can remove from
 
   
 ## LAVA GOLEM  
-_This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned to your opponent's side of the field by Tributing 2 monsters they control. Ⓒ You cannot Normal Summon or Set the turn you Special Summon this card. ① Take 1000 points of damage during each of your Standby Phases._
+> This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned to your opponent's side of the field by Tributing 2 monsters they control. Ⓒ You cannot Normal Summon or Set the turn you Special Summon this card. ① Take 1000 points of damage during each of your Standby Phases.
 
 *   The Ⓢ Special Summon does not start a chain.
     *   Once Summoned, "Call of the Haunted" / "Return from the Different Dimension" can Summon it later.
@@ -10624,7 +10624,7 @@ _This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special S
 
   
 ## LEGENDARY JUJITSU MASTER  
-_① A monster that battles with this Defense Position card is returned to the top of its owner’s Deck at the end of the Damage Step._
+> ① A monster that battles with this Defense Position card is returned to the top of its owner’s Deck at the end of the Damage Step.
 
 *   The ① mandatory Trigger Effect activates in Substep 7 - End of the Damage Step.
     *   This effect activates if Jujitsu Master engaged in Substep 4 - Damage Calculation.
@@ -10662,7 +10662,7 @@ _① A monster that battles with this Defense Position card is returned to the t
 
   
 ## LEVEL EATER  
-_① If this card in in the Graveyard, you can activate its effect by selecting 1 face-up Level 5 or higher monster you control. Reduce that monster’s Level by 1. Special Summon this card from the Graveyard. This can cannot be Tributed except for a Tribute Summon._
+> ① If this card in in the Graveyard, you can activate its effect by selecting 1 face-up Level 5 or higher monster you control. Reduce that monster’s Level by 1. Special Summon this card from the Graveyard. This can cannot be Tributed except for a Tribute Summon.
 
 *   This ① Ignition Effect activates & resolves in the Graveyard.
     *   This effect targets a Level 5+ monster you control.
@@ -10711,7 +10711,7 @@ _① If this card in in the Graveyard, you can activate its effect by selecting 
 
   
 ## LEVEL WARRIOR  
-_Ⓢ If there are no monsters on the field, you can Normal Summon this card from your hand as a Level 2 monster. Ⓤ If your opponent controls a monster and you control no monsters, you can Special Summon this card from your hand as a Level 4 monster._
+> Ⓢ If there are no monsters on the field, you can Normal Summon this card from your hand as a Level 2 monster. Ⓤ If your opponent controls a monster and you control no monsters, you can Special Summon this card from your hand as a Level 4 monster.
 
 *   The Ⓤ Unclassified summon effect does not start a Chain.
 *   “Skill Drain” has no effect on “Level Warrior’s” Level, because “Level Warrior” is considered to already be on the field with the appropriate level. So “Skill Drain” will not cause “Level Warrior’s” Level to become 3.
@@ -10743,7 +10743,7 @@ _Ⓢ If there are no monsters on the field, you can Normal Summon this card from
 
   
 ## LIFEFORCE HARMONIZER  
-_① When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it._  
+> ① When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.  
   
 
 *   The ① Quick Effect can be activated during either player’s turn.
@@ -10757,7 +10757,7 @@ _① When your opponent activates a card's effect that inflicts damage, you can 
 
   
 ## LIGHT AND DARKNESS DRAGON
-_Ⓒ This card cannot be Special Summoned. ① While this card is face-up on the field its Attribute is also treated as DARK. ② When a Spell or Trap Card is activated, or the effect of an Effect Monster is activated, that activation is negated and this card loses 500 ATK and DEF. ③ When this card is destroyed and sent to the Graveyard, select 1 monster in your Graveyard. Then destroy all cards you control, and Special Summon that monster._
+> Ⓒ This card cannot be Special Summoned. ① While this card is face-up on the field its Attribute is also treated as DARK. ② When a Spell or Trap Card is activated, or the effect of an Effect Monster is activated, that activation is negated and this card loses 500 ATK and DEF. ③ When this card is destroyed and sent to the Graveyard, select 1 monster in your Graveyard. Then destroy all cards you control, and Special Summon that monster.
 
 *   The Ⓒ Condition cannot be negated.
 *   The ① Continuous Effect only applies on the field.
@@ -10797,7 +10797,7 @@ _Ⓒ This card cannot be Special Summoned. ① While this card is face-up on the
 
   
 ## LIGHT END DRAGON  
-_① When this monster battles, you can activate this card’s effect at attack declaration. If you do, this card loses 500 ATK and DEF (permanently), and the monster it is battling loses 1500 ATK and DEF until the End Phase._
+> ① When this monster battles, you can activate this card’s effect at attack declaration. If you do, this card loses 500 ATK and DEF (permanently), and the monster it is battling loses 1500 ATK and DEF until the End Phase.
 
 *   The ① optional Trigger Effect activates & resolves on the field.
     *   This effect activates in Start of the Battle Step - Attack Declaration.
@@ -10901,7 +10901,7 @@ _① When this monster battles, you can activate this card’s effect at attack 
 
   
 ## LIMITER REMOVAL  
-_① Double the ATK of all face-up Machine-Type monsters you control, until the end of this turn. Ⓛ During the End Phase, destroy all monsters that were affected by this effect._
+> ① Double the ATK of all face-up Machine-Type monsters you control, until the end of this turn. Ⓛ During the End Phase, destroy all monsters that were affected by this effect.
 
 *   The ① effect doubles the current ATK of your monsters, after applying ATK changes from other effects.
     *   Machine-Type monsters Summoned in the Chain before this card resolves are also affected.
@@ -10945,7 +10945,7 @@ _① Double the ATK of all face-up Machine-Type monsters you control, until the 
 
   
 ## LONEFIRE BLOSSOM  
-_① Once per turn, you can Tribute 1 face-up Plant-Type monster to Special Summon 1 Plant-Type monster from your Deck._
+> ① Once per turn, you can Tribute 1 face-up Plant-Type monster to Special Summon 1 Plant-Type monster from your Deck.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Tributing 1 face-up Plant-Type monster is a cost. This card can be Tributed for its own effect.
@@ -11007,7 +11007,7 @@ _① Once per turn, you can Tribute 1 face-up Plant-Type monster to Special Summ
 
   
 ## LUMINA, LIGHTSWORN SUMMONER  
-_① Once per turn, you can discard 1 card to Special Summon 1 Level 4 or lower "Lightsworn" monster from your Graveyard. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard._
+> ① Once per turn, you can discard 1 card to Special Summon 1 Level 4 or lower "Lightsworn" monster from your Graveyard. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Discarding 1 card is a cost to activate this effect.
@@ -11041,7 +11041,7 @@ _① Once per turn, you can discard 1 card to Special Summon 1 Level 4 or lower 
 
   
 ## LYLA, LIGHTSWORN SORCERESS  
-_① You can change this card from face-up Attack Position to face-up Defense Position and destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card's battle position cannot be changed until the end of your next turn, except with a card effect. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard._
+> ① You can change this card from face-up Attack Position to face-up Defense Position and destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card's battle position cannot be changed until the end of your next turn, except with a card effect. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 
 *   The ① Ignition effect activates & resolves on the field.
     *   This effect targets 1 Spell / Trap Card your opponent controls.
@@ -11063,7 +11063,7 @@ _① You can change this card from face-up Attack Position to face-up Defense Po
 
   
 ## MACHINA ARMORED UNIT  
-_① Once per turn, when a Machine-Type monster is destroyed by battle and sent to your Graveyard, you can Special Summon 1 Machine-Type monster from your Deck that has the same Attribute and less ATK than the destroyed monster._
+> ① Once per turn, when a Machine-Type monster is destroyed by battle and sent to your Graveyard, you can Special Summon 1 Machine-Type monster from your Deck that has the same Attribute and less ATK than the destroyed monster.
 
 *   The ① Trigger-like Effect activates in Substep 7 - End of the Damage Step.
     *   If the destroyed monster is no longer in the Graveyard when this effect resolves, you cannot Special Summon a monster from your Deck.
@@ -11074,7 +11074,7 @@ _① Once per turn, when a Machine-Type monster is destroyed by battle and sent 
 
   
 ## MACHINA FORTRESS  
-_Ⓢ You can discard Machine-Type monster(s) whose total Levels equal 8 or more to Special Summon this card from your hand or Graveyard. ① When this card is destroyed by battle and sent to the Graveyard, select and destroy 1 card your opponent controls. ② When this face-up card you control is targeted by an opponent's Effect Monster's effect, look at your opponent's hand and discard 1 card from their hand._
+> Ⓢ You can discard Machine-Type monster(s) whose total Levels equal 8 or more to Special Summon this card from your hand or Graveyard. ① When this card is destroyed by battle and sent to the Graveyard, select and destroy 1 card your opponent controls. ② When this face-up card you control is targeted by an opponent's Effect Monster's effect, look at your opponent's hand and discard 1 card from their hand.
 
 *   The Ⓢ Special Summon does not start a chain.
     *   Discarding a Machine-Type monster(s) is a cost.
@@ -11090,7 +11090,7 @@ _Ⓢ You can discard Machine-Type monster(s) whose total Levels equal 8 or more 
 
   
 ## MACHINA GEARFRAME  
-_① When this card is Normal Summoned, you can add 1 "Machina" monster, except "Machina Gearframe", from your Deck to your hand. (2A) Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR (2B) unequip it to Special Summon this card in face-up Attack Position. (Ⓒ A monster can only be equipped with 1 Union Monster at a time. ③ If the equipped monster would be destroyed, destroy this card instead.)_
+> ① When this card is Normal Summoned, you can add 1 "Machina" monster, except "Machina Gearframe", from your Deck to your hand. (2A) Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR (2B) unequip it to Special Summon this card in face-up Attack Position. (Ⓒ A monster can only be equipped with 1 Union Monster at a time. ③ If the equipped monster would be destroyed, destroy this card instead.)
 
 *   The ① optional Trigger Effect activates in the Summon response timing (like "Trap Hole").
     *   The "_When... you can..._" effect can miss the timing if "Machina Gearframe" is Normal Summoned as Chain Link 2+ by the effect of "Ultimate Offering".
@@ -11114,7 +11114,7 @@ _① When this card is Normal Summoned, you can add 1 "Machina" monster, except 
 
   
 ## MACHINA PEACEKEEPER  
-_① When this card on the field is destroyed and sent to the Graveyard, you can add 1 Union Monster from your Deck to your hand. (2A) Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR (2B) unequip it to Special Summon this card in face-up Attack Position. (Ⓒ A monster can only be equipped with 1 Union Monster at a time. ③ If the equipped monster would be destroyed, destroy this card instead.)_
+> ① When this card on the field is destroyed and sent to the Graveyard, you can add 1 Union Monster from your Deck to your hand. (2A) Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR (2B) unequip it to Special Summon this card in face-up Attack Position. (Ⓒ A monster can only be equipped with 1 Union Monster at a time. ③ If the equipped monster would be destroyed, destroy this card instead.)
 
 *   This ① optional Trigger Effect CAN miss the timing.
     *   This effect will only activate if the last thing to happen was Peacekeeper's destruction.
@@ -11141,7 +11141,7 @@ _① When this card on the field is destroyed and sent to the Graveyard, you can
 
   
 ## MACHINE ASSEMBLY LINE  
-_① All face-up Machine-Type monsters on the field gain 200 ATK. ② Each time a Machine-Type monster(s) on the field is destroyed, place 2 Junk Counters on this card. ③ You can send this card to the Graveyard to select and Special Summon 1 Machine-Type monster from your Graveyard, whose Level is less than or equal to the number of Junk Counters on this card._
+> ① All face-up Machine-Type monsters on the field gain 200 ATK. ② Each time a Machine-Type monster(s) on the field is destroyed, place 2 Junk Counters on this card. ③ You can send this card to the Graveyard to select and Special Summon 1 Machine-Type monster from your Graveyard, whose Level is less than or equal to the number of Junk Counters on this card.
 
 *   The ① Continuous-like Effect applies to face-up Machine-Type monsters on BOTH sides of the field.
 *   The ② Continuous-like Effect does not start a Chain.
@@ -11155,7 +11155,7 @@ _① All face-up Machine-Type monsters on the field gain 200 ATK. ② Each time 
 
   
 ## MACHINE DUPLICATION  
-_Select 1 face-up Machine-Type monster you control with 500 or less ATK. You can Special Summon up to 2 cards with the same name from your Deck._
+> Select 1 face-up Machine-Type monster you control with 500 or less ATK. You can Special Summon up to 2 cards with the same name from your Deck.
 
 *   This effect targets 1 face-up Machine-Type monster you control with 500 or less ATK.
     *   A monster with 500 or less ATk whose Type is Machine by "DNA Surgery" can be targeted.
@@ -11176,7 +11176,7 @@ _Select 1 face-up Machine-Type monster you control with 500 or less ATK. You can
 
   
 ## MACRO COSMOS  
-_① You can Special Summon 1 “Helios – The Primordial Sun” from your hand or Deck when you activate this card. ② While this card is on the field, any card sent to the Graveyard is removed from play instead._
+> ① You can Special Summon 1 “Helios – The Primordial Sun” from your hand or Deck when you activate this card. ② While this card is on the field, any card sent to the Graveyard is removed from play instead.
 
 *   The ① Effect is optional, you can activate this card without a Helios in the Deck.
     *   "Macro Cosmos" must remain face-up on the Field in order to successfully resolve its ① effect.
@@ -11270,7 +11270,7 @@ _① You can Special Summon 1 “Helios – The Primordial Sun” from your hand
 
   
 ## MAGICAL HATS  
-_Activate only during your opponent's Battle Phase. ① Select 2 non-Monster Cards from your Deck and 1 monster you control. Shuffle those 3 cards and Set them on the field in face-down Defense Position. ⒸThe 2 cards selected from your Deck are treated as monsters (ATK 0/DEF 0) and are destroyed at the end of the Battle Phase._
+> Activate only during your opponent's Battle Phase. ① Select 2 non-Monster Cards from your Deck and 1 monster you control. Shuffle those 3 cards and Set them on the field in face-down Defense Position. ⒸThe 2 cards selected from your Deck are treated as monsters (ATK 0/DEF 0) and are destroyed at the end of the Battle Phase.
 
 *   This card cannot be activated unless you can Special Summon both cards. You cannot activate this card while a "Barrier Statue" monster restricts you to Summoning monsters of a specific Attribute.
 *   This card can activate in the Start Step (before Attack declaration), the Battle Step before \[but not during\] the Damage Step, and the End Step (before Main Phase 2) of your opponent's Battle Phase.
@@ -11467,7 +11467,7 @@ _Activate only during your opponent's Battle Phase. ① Select 2 non-Monster Car
 
   
 ## MALEVOLENT MECH - GOKU EN  
-_Ⓤ You can Normal Summon this card without Tributing. ① If you do, this card is sent to the Graveyard during the End Phase if it is the only Zombie-Type monster on the field. When it is sent to the Graveyard by this effect, you take damage equal to its ATK._
+> Ⓤ You can Normal Summon this card without Tributing. ① If you do, this card is sent to the Graveyard during the End Phase if it is the only Zombie-Type monster on the field. When it is sent to the Graveyard by this effect, you take damage equal to its ATK.
 
 *   The Ⓤ Unclassified Effect does not activate, it applies in the hand.
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field in the End Phase.
@@ -11544,7 +11544,7 @@ _Ⓤ You can Normal Summon this card without Tributing. ① If you do, this card
 
   
 ## MARK OF THE ROSE
-_Remove from play 1 Plant-Type monster from your Graveyard and equip this card to a monster your opponent controls. ① Gain control of the equipped monster. ②_ _During your End Phase, give control of the equipped monster to your opponent. ③_ _During your Standby Phase, gain control of the equipped monster._
+> Remove from play 1 Plant-Type monster from your Graveyard and equip this card to a monster your opponent controls. ① Gain control of the equipped monster. ②_ _During your End Phase, give control of the equipped monster to your opponent. ③_ _During your Standby Phase, gain control of the equipped monster.
 
 *   Removing 1 Plant-Type monster in your Graveyard from play is a cost.
 *   This card targets 1 monster your opponent controls.
@@ -11561,7 +11561,7 @@ _Remove from play 1 Plant-Type monster from your Graveyard and equip this card t
 
   
 ## MARSHMALLON  
-_① The controller of a monster that attacks this face-down card takes 1000 damage after damage calculation. ② This card cannot be destroyed by battle. (Damage calculation is applied normally.)_
+> ① The controller of a monster that attacks this face-down card takes 1000 damage after damage calculation. ② This card cannot be destroyed by battle. (Damage calculation is applied normally.)
 
 *   The ① Trigger Effect activates in Substep 5 - After Damage Calculation.
     *   This effect forms a Chain with effects (like “Airknight Parshath”) that activate at the same time.
@@ -11595,7 +11595,7 @@ _① The controller of a monster that attacks this face-down card takes 1000 dam
 
   
 ## MASK OF RESTRICT  
-_Monsters cannot be Tributed._
+> Monsters cannot be Tributed.
 
 *   If a card / effect Tributes a monster(s) as part of a cost / effect, it cannot be activated.
 *   If this card is Chained to a card whose effect would Tribute a monster(s), no monster(s) is Tributed.
@@ -11639,7 +11639,7 @@ _Monsters cannot be Tributed._
 
   
 ## MAUSOLEUM OF THE EMPEROR  
-_① Both players can Normal Summon or Set monsters without Tributing, by paying 1000 Life Points x the number of monsters needed for the Tribute Summon._
+> ① Both players can Normal Summon or Set monsters without Tributing, by paying 1000 Life Points x the number of monsters needed for the Tribute Summon.
 
 *   The ① Ignition-like Effect activates & resolves on the field.
     *   Either player can use this effect on their respective turn.
@@ -11753,7 +11753,7 @@ _① Both players can Normal Summon or Set monsters without Tributing, by paying
 
   
 ## METALLIZING PARASITE - LUNATITE  
-_① Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to a face-up monster on your side of the field as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, that monster will be unaffected by the effects of Spell Cards controlled by your opponent. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the monster that this card is equipped to is destroyed as a result of battle, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, if you control this monster on the field, you can equip it to a face-up monster on your side of the field as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, that monster will be unaffected by the effects of Spell Cards controlled by your opponent. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the monster that this card is equipped to is destroyed as a result of battle, destroy this card instead.)
 
 *   While "Metallizing Parasite - Lunatite" is equipped to a monster, and "Final Destiny" is activated, all monsters are destroyed except for the monster equipped with "Metallizing Parasite - Lunatite".
 *   If you equip "Metallizing Parasite - Lunatite" to a monster that has been affected by "Limiter Removal", the monster is still destroyed during the End Phase by "Limiter Removal"'s effect.
@@ -11821,7 +11821,7 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
 
   
 ## MEZUKI  
-_① You can remove from play this card from your Graveyard to Special Summon 1 Zombie-Type monster from your Graveyard._
+> ① You can remove from play this card from your Graveyard to Special Summon 1 Zombie-Type monster from your Graveyard.
 
 *   The ① Ignition Effect can only activate it during your Main Phase.
     *   This card removes itself from play as a cost.
@@ -11855,7 +11855,7 @@ _① You can remove from play this card from your Graveyard to Special Summon 1 
 
   
 ## MIND CONTROL  
-_Take control of 1 monster your opponent controls until the End Phase. It cannot declare an attack or be Tributed._
+> Take control of 1 monster your opponent controls until the End Phase. It cannot declare an attack or be Tributed.
 
 *   This effect targets 1 (face-up / face-down) monster your opponent controls.  
     
@@ -11872,7 +11872,7 @@ _Take control of 1 monster your opponent controls until the End Phase. It cannot
 
   
 ## MIND CRUSH  
-_① Declare 1 card name. If that card is in your opponent's hand, they must discard all copies of it from their hand. If it is not, you randomly discard 1 card._
+> ① Declare 1 card name. If that card is in your opponent's hand, they must discard all copies of it from their hand. If it is not, you randomly discard 1 card.
 
 *   You CANNOT activate "Mind Crush" while either player has no cards in hand.
     *   This effect resolves even if you no longer have any cards in hand.
@@ -12054,7 +12054,7 @@ _① Declare 1 card name. If that card is in your opponent's hand, they must dis
 
   
 ## MIST WURM  
-_① When this card is Synchro Summoned, return up to 3 cards your opponent controls to the hand._
+> ① When this card is Synchro Summoned, return up to 3 cards your opponent controls to the hand.
 
 *   The ① mandatory Trigger Effect activates in the Summon response timing (like "Trap Hole").
     *   This effect targets 1, 2, or 3 (face-up / face-down) cards your opponent controls.
@@ -12062,7 +12062,7 @@ _① When this card is Synchro Summoned, return up to 3 cards your opponent cont
 
   
 ## MOBIUS THE FROST MONARCH  
-_① When this card is Tribute Summoned, you can destroy up to 2 Spell or Trap Cards on the field._
+> ① When this card is Tribute Summoned, you can destroy up to 2 Spell or Trap Cards on the field.
 
 *   The ① Trigger Effect is OPTIONAL.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -12124,7 +12124,7 @@ _① When this card is Tribute Summoned, you can destroy up to 2 Spell or Trap C
 
   
 ## MONSTER REINCARNATION  
-_Discard 1 card. Add 1 Monster Card from your Graveyard to your hand._
+> Discard 1 card. Add 1 Monster Card from your Graveyard to your hand.
 
 *   This effect targets a card in the Graveyard \[[REF](https://www.pojo.biz/board/showthread.php?t=848277)\]. It is negated by "Necrovalley".
 *   You discard a card for cost.
@@ -12160,7 +12160,7 @@ _Discard 1 card. Add 1 Monster Card from your Graveyard to your hand._
 
   
 ## MORAY OF GREED  
-_Return 2 WATER monsters from your hand to your Deck and draw 3 cards._
+> Return 2 WATER monsters from your hand to your Deck and draw 3 cards.
 
 *   Returning 2 WATER monsters to the Deck is an effect, not a cost.
 *   If you have less than 2 WATER monsters in hand when this card resolves, it resolves without effect.
@@ -12385,7 +12385,7 @@ _Return 2 WATER monsters from your hand to your Deck and draw 3 cards._
 
   
 ## MUTANT MINDMASTER  
-_① When this card declares an attack, you can take control of 1 face-up Attack Position monster your opponent controls, and attack with it instead of this monster. Ⓒ It cannot attack your opponent directly. Return it to your opponent at the end of the Battle Phase._
+> ① When this card declares an attack, you can take control of 1 face-up Attack Position monster your opponent controls, and attack with it instead of this monster. Ⓒ It cannot attack your opponent directly. Return it to your opponent at the end of the Battle Phase.
 
 *   The ① optional Trigger Effect activates and resolves in the Battle Step (Substep 1 - Attack Declaration)
     *   This effect targets 1 face-up Attack Position monster your opponent controls.
@@ -12395,7 +12395,7 @@ _① When this card declares an attack, you can take control of 1 face-up Attack
 
   
 ## MY BODY AS A SHIELD  
-_① Activate only by paying 1500 Life Poitns when your opponent activates a card with an effect that would destroy 1 or more monster(s) on the field. Negate the activation of that card and destroy it._
+> ① Activate only by paying 1500 Life Poitns when your opponent activates a card with an effect that would destroy 1 or more monster(s) on the field. Negate the activation of that card and destroy it.
 
 *   Paying 1500 Life Points is a cost.
 *   CAN be chained to the activation of a Card OR Effect that destroys a monster(s) on the field.
@@ -12469,7 +12469,7 @@ _① Activate only by paying 1500 Life Poitns when your opponent activates a car
 
   
 ## MYSTICAL SHEEP #1  
-_① You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s)._
+> ① You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -12529,7 +12529,7 @@ _① You can substitute this card for any 1 Fusion-Material Monster. When you do
 
   
 ## NECRO GARDNA  
-_① Remove from play this card from your Graveyard to negate 1 attack this turn from a monster your opponent controls._
+> ① Remove from play this card from your Graveyard to negate 1 attack this turn from a monster your opponent controls.
 
 *   The ① Quick Effect can be activated at any time before the End of your opponent's Battle Phase.
     *   You do not choose which attack to negate, it automatically negates the next attack. If this effect is activated in the Battle Step, it negates that attack.
@@ -12544,7 +12544,7 @@ _① Remove from play this card from your Graveyard to negate 1 attack this turn
 
   
 ## NECROFACE  
-_① When this card is Normal Summoned, shuffle all removed from play cards into their owner's Decks. This card gains 100 ATK for each of those cards. ② When this card is removed from play, both players remove from play the top 5 cards of their Deck._
+> ① When this card is Normal Summoned, shuffle all removed from play cards into their owner's Decks. This card gains 100 ATK for each of those cards. ② When this card is removed from play, both players remove from play the top 5 cards of their Deck.
 
 *   The ① Trigger Effect is mandatory, it activates even if no cards are removed from play.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -12556,7 +12556,7 @@ _① When this card is Normal Summoned, shuffle all removed from play cards into
 
   
 ## NECROVALLEY
-_① Negate the effects of Spells, Traps, and Effect Monsters that target a card(s) in either player’s Graveyard. ② Cards in either player’s Graveyard cannot be removed from play. ③ All “Gravekeeper’s” monsters gain 500 ATK and DEF._
+> ① Negate the effects of Spells, Traps, and Effect Monsters that target a card(s) in either player’s Graveyard. ② Cards in either player’s Graveyard cannot be removed from play. ③ All “Gravekeeper’s” monsters gain 500 ATK and DEF.
 
 *   The ① Continuous-like Effect NEGATES:
     *   cards / effects that targets a card(s) in the Graveyard (ex: "Debris Dragon", "Salvage").
@@ -12608,7 +12608,7 @@ _① Negate the effects of Spells, Traps, and Effect Monsters that target a card
 
   
 ## NEKO MANE KING  
-_① During your opponent's turn, when this card is sent to the Graveyard by the effect of your opponent's Spell, Trap, or Monster Card, your opponent's turn ends._
+> ① During your opponent's turn, when this card is sent to the Graveyard by the effect of your opponent's Spell, Trap, or Monster Card, your opponent's turn ends.
 
 *   The ① Trigger Effect is mandatory.
     *   This effect can be activated during the Damage Step.
@@ -12689,7 +12689,7 @@ _① During your opponent's turn, when this card is sent to the Graveyard by the
 
   
 ## NEO-SPACIAN GRAND MOLE  
-_① If this card battles with your opponent's monster, you can return both monsters to their owners' hands at the start of the Damage Step (without damage calculation)._
+> ① If this card battles with your opponent's monster, you can return both monsters to their owners' hands at the start of the Damage Step (without damage calculation).
 
 *   The ① Trigger Effect is OPTIONAL.
     *   This effect activates in Substep 1 - Start of the Damage Step (before face-down monsters are flipped face-up). A face-down Flip Monster that is attacked is returned without activating its effect.
@@ -12731,7 +12731,7 @@ _① If this card battles with your opponent's monster, you can return both mons
 
   
 ## NIGHT ASSAILANT  
-_① FLIP: Select 1 monster on your opponent's side of the field and destroy it. ② When this card is sent directly from your hand to the Graveyard, return 1 Flip Effect Monster from your Graveyard to your hand._
+> ① FLIP: Select 1 monster on your opponent's side of the field and destroy it. ② When this card is sent directly from your hand to the Graveyard, return 1 Flip Effect Monster from your Graveyard to your hand.
 
 *   The ① Flip Effect is mandatory.
     *   This effect targets 1 (face-up / face-down) monster your opponent controls.
@@ -12816,7 +12816,7 @@ _① FLIP: Select 1 monster on your opponent's side of the field and destroy it.
 
   
 ## NITRO WARRIOR  
-_① Once during each of your turns, if you activated a Spell Card, this card gains 1000 ATK during its next attack, for damage calculation only. ② Once per turn, if this attacking card destroys an opponent's monster by battle, you can change 1 face-up Defense Position monster your opponent controls to Attack Position, and attack it with this card._
+> ① Once during each of your turns, if you activated a Spell Card, this card gains 1000 ATK during its next attack, for damage calculation only. ② Once per turn, if this attacking card destroys an opponent's monster by battle, you can change 1 face-up Defense Position monster your opponent controls to Attack Position, and attack it with this card.
 
 *   The ① Continuous Effect applies in Substep 4 - Damage Calculation.
     *   If the Spell Card was activated before "Nitro Warrior" was Summoned, this effect does not apply.
@@ -12832,7 +12832,7 @@ _① Once during each of your turns, if you activated a Spell Card, this card ga
 
   
 ## NOBLEMAN OF CROSSOUT  
-_① Destroy 1 face-down monster and remove it from play. If the monster is a Flip Effect Monster, both players must remove from play all monsters from their Decks with the same name as the destroyed monster._
+> ① Destroy 1 face-down monster and remove it from play. If the monster is a Flip Effect Monster, both players must remove from play all monsters from their Decks with the same name as the destroyed monster.
 
 *   The ① effect targets a face-down monster anywhere on the field.
     *   If the target is not destroyed, it is not removed from play, nor are any cards in the Deck(s).
@@ -12843,7 +12843,7 @@ _① Destroy 1 face-down monster and remove it from play. If the monster is a Fl
 
   
 ## NOBLEMAN OF EXTERMINATION  
-_① Destroy 1 face-down Spell or Trap Card and remove it from play. If the card is a Trap Card, both players must check their respective Decks and remove all cards of the same name from play. Then shuffle the Decks._
+> ① Destroy 1 face-down Spell or Trap Card and remove it from play. If the card is a Trap Card, both players must check their respective Decks and remove all cards of the same name from play. Then shuffle the Decks.
 
 *   The ① effect targets a face-down Spell / Trap Card anywhere on the field.
     *   You can target a face-down monster that is equipped to "Relinquished".
@@ -12910,7 +12910,7 @@ _① Destroy 1 face-down Spell or Trap Card and remove it from play. If the card
 
   
 ## NURSE REFICULE THE FALLEN ONE (erratum: "Darklord Nurse Reficule")  
-_① Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent._
+> ① Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.
 
 *   The ① Continuous Effect applies when effects that cause your opponent to gain Life Points resolve.
     *   This effect causes those effects to inflict Effect Damage.
@@ -12934,7 +12934,7 @@ _① Any effect that would cause your opponent to gain Life Points instead infli
 
   
 ## OBELISK THE TORMENTOR  
-_Ⓒ You must Tribute 3 monsters to Normal Summon this card (you cannot Set this card). Ⓤ The Normal Summon of this card cannot be negated. ① When this card is Normal Summoned, Spells, Traps, and Effect Monster effects cannot be activated. ② This card cannot be targeted by the effects of Spells, Traps, or Effect Monsters. ③ If this card is Special Summoned, it is sent to the Graveyard during the End Phase. ④ You can Tribute 2 monsters to destroy all monsters your opponent controls. (4C) This card cannot declare an attack the turn this effect is activated._
+> Ⓒ You must Tribute 3 monsters to Normal Summon this card (you cannot Set this card). Ⓤ The Normal Summon of this card cannot be negated. ① When this card is Normal Summoned, Spells, Traps, and Effect Monster effects cannot be activated. ② This card cannot be targeted by the effects of Spells, Traps, or Effect Monsters. ③ If this card is Special Summoned, it is sent to the Graveyard during the End Phase. ④ You can Tribute 2 monsters to destroy all monsters your opponent controls. (4C) This card cannot declare an attack the turn this effect is activated.
 
 *   The Ⓒ Summon Condition cannot be negated.
     *   You can only Tribute Summon this card by Tributing 3 monsters.
@@ -13013,7 +13013,7 @@ _Ⓒ You must Tribute 3 monsters to Normal Summon this card (you cannot Set this
 
   
 ## OILMAN  
-_① Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, if the equipped monster destroys an opponent's monster by battle, draw 1 card. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, if the equipped monster destroys an opponent's monster by battle, draw 1 card. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)
 
 *   The effect to draw a card while “Oilman” is equipped starts a Chain.
 *   Equipping “Oilman” is an Ignition Effect, and the effects while equipped are considered as effects of a Spell Card.
@@ -13153,7 +13153,7 @@ _① Once per turn, during your Main Phase, you can equip this card to a Machine
 
   
 ## OVERDRIVE TELEPORTER  
-_Ⓒ This card cannot be Special Summoned. ① You can pay 2000 Life Points to Special Summon 2 Level 3 Psychic-Type monsters from your Deck. This effect can only be used once while this card is face-up on the field._
+> Ⓒ This card cannot be Special Summoned. ① You can pay 2000 Life Points to Special Summon 2 Level 3 Psychic-Type monsters from your Deck. This effect can only be used once while this card is face-up on the field.
 
 *   The Ⓒ Summoning Condition is not an effect. It cannot be negated.
 *   The ① Ignition Effect can only be activated during your Main Phase.
@@ -13180,7 +13180,7 @@ _Ⓒ This card cannot be Special Summoned. ① You can pay 2000 Life Points to S
 
   
 ## OVERWHELM  
-_Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card._  
+> Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.  
   
 
 *   You must control a face-up Level 7(+) monster that was Tribute Summoned to activate this card.
@@ -13203,7 +13203,7 @@ _Activate only while you control a face-up Level 7 or higher monster that was Tr
 
 
 ## PALADIN OF CURSED DRAGON  
-_① Once per turn, you can Special Summon 1 Level 4 or lower Zombie-Type monster that was destroyed by battle from your opponent's Graveyard to your side of the field._
+> ① Once per turn, you can Special Summon 1 Level 4 or lower Zombie-Type monster that was destroyed by battle from your opponent's Graveyard to your side of the field.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a Zombie-Type monster in your opponent's Graveyard.
@@ -13310,7 +13310,7 @@ _① Once per turn, you can Special Summon 1 Level 4 or lower Zombie-Type monste
 
   
 ## PHANTOM OF CHAOS  
-_① Any Battle Damage this monster inflicts to your opponent becomes 0. ② Once per turn, you can remove from play 1 Effect Monster in your Graveyard. Until the End Phase, this card's name is treated as that monster's name, and it gains that monster's effect(s) and ATK._
+> ① Any Battle Damage this monster inflicts to your opponent becomes 0. ② Once per turn, you can remove from play 1 Effect Monster in your Graveyard. Until the End Phase, this card's name is treated as that monster's name, and it gains that monster's effect(s) and ATK.
 
 *   The ① Continuous Effect applies so long as this card is face-up on the field.
 *   The ② Ignition Effect activates & resolves on the field.
@@ -13327,7 +13327,7 @@ _① Any Battle Damage this monster inflicts to your opponent becomes 0. ② Onc
 
   
 ## PHANTOM SKYBLASTER  
-_① When you Normal or Flip Summon this card, you can Special Summon any number of "Skyblaster Tokens" (Fiend-Type/DARK/Level 4/ATK 500/DEF 500), but not more than the number of monsters you control. ② During your Standby Phase, you can inflict 300 damage to your opponent for each "Skyblaster" monster you control. If you activate this effect, "Skyblaster" monsters you control cannot attack this turn._
+> ① When you Normal or Flip Summon this card, you can Special Summon any number of "Skyblaster Tokens" (Fiend-Type/DARK/Level 4/ATK 500/DEF 500), but not more than the number of monsters you control. ② During your Standby Phase, you can inflict 300 damage to your opponent for each "Skyblaster" monster you control. If you activate this effect, "Skyblaster" monsters you control cannot attack this turn.
 
 *   The ① optional Trigger Effect must Special Summon at least 1 "Skyblaster Token".
     *   If you control no monsters when this effect resolves, no Tokens are Special Summoned.
@@ -13359,7 +13359,7 @@ _① When you Normal or Flip Summon this card, you can Special Summon any number
 
   
 ## PHOENIX WING WIND BLAST  
-_Discard 1 card. Return 1 card your opponent controls to the top of the Deck._
+> Discard 1 card. Return 1 card your opponent controls to the top of the Deck.
 
 *   Discarding 1 card is a cost. This can be activated while "Macro Cosmos" is active.
 *   This effect targets 1 (face-up / face-down) card your opponent controls.
@@ -13368,7 +13368,7 @@ _Discard 1 card. Return 1 card your opponent controls to the top of the Deck._
 
   
 ## PHOENIXIAN CLUSTER AMARYLLIS  
-_Ⓒ This card cannot be Special Summoned except with its own effect or with "Phoenixian Seed". ① If this card attacks, it is destroyed after damage calculation. ② If this card you control is destroyed and sent to the Graveyard, inflict 800 damage to your opponent. ③ During your End Phase, you can remove from play 1 Plant-Type monster from your Graveyard to Special Summon this card from your Graveyard in Defense Position._  
+> Ⓒ This card cannot be Special Summoned except with its own effect or with "Phoenixian Seed". ① If this card attacks, it is destroyed after damage calculation. ② If this card you control is destroyed and sent to the Graveyard, inflict 800 damage to your opponent. ③ During your End Phase, you can remove from play 1 Plant-Type monster from your Graveyard to Special Summon this card from your Graveyard in Defense Position.  
   
 
 *   The Ⓒ Condition is the only way this card can be Special Summoned.
@@ -13444,7 +13444,7 @@ _Ⓒ This card cannot be Special Summoned except with its own effect or with "Ph
 
   
 ## PITCH-DARK DRAGON  
-_① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Dark Blade" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 400 points. ③ When it attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)_  
+> ① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Dark Blade" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 400 points. ③ When it attacks with an ATK that is higher than the DEF of a Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)  
   
 ## PIXIE RING
 
@@ -13459,7 +13459,7 @@ _① Once per turn, during your Main Phase, if you control this card on the fiel
 
   
 ## PLAGUESPREADER ZOMBIE  
-_① You can return 1 card from your hand to the top of the Deck to Special Summon this card from the Graveyard. Ⓛ If you do, remove this card from play when it is removed from the field._
+> ① You can return 1 card from your hand to the top of the Deck to Special Summon this card from the Graveyard. Ⓛ If you do, remove this card from play when it is removed from the field.
 
 *   The ① Ignition Effect activates & resolves in the Graveyard.
     *   Placing a card from your hand on top of the Deck is a cost.
@@ -13497,7 +13497,7 @@ _① You can return 1 card from your hand to the top of the Deck to Special Summ
 
   
 ## POISON DRAW FROG  
-_① When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card._
+> ① When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.
 
 *   The ① optional Trigger Effect activates & resolves in the Graveyard.
 *   This effect will activate if the last thing to happen was "Poison Draw Frog":
@@ -13513,7 +13513,7 @@ _① When this face-up card on the field is sent to the Graveyard (unless it was
 
   
 ## POLE POSITION  
-_① The face-up monster(s) with the highest ATK on the field is unaffected by the effects of Spell Cards. ② When "Pole Position" is removed from the field, destroy the face-up monster(s) with the highest ATK on the field._
+> ① The face-up monster(s) with the highest ATK on the field is unaffected by the effects of Spell Cards. ② When "Pole Position" is removed from the field, destroy the face-up monster(s) with the highest ATK on the field.
 
 *   The ① Continuous-like Effect does not start a chain.
 *   The ① Continuous-like Effect can become responsible for "voluntary" and "involuntary" infinite loops. Any "voluntary" action that would result in an infinite loop is simply an illegal action that players CANNOT perform. If an "involuntary" action (such as drawing a card during your Draw Phase) creates an infinite loop, the card responsible for the loop is destroyed by game mechanics.
@@ -13545,7 +13545,7 @@ _① The face-up monster(s) with the highest ATK on the field is unaffected by t
 
   
 ## POT OF AVARICE  
-_Select 5 Monster Cards in your Graveyard. Return those cards to the Deck, then draw 2 cards._
+> Select 5 Monster Cards in your Graveyard. Return those cards to the Deck, then draw 2 cards.
 
 *   This effect targets 5 monsters in your Graveyard. This effect is negated by "Necrovalley".
     *   Synchro and Fusion Monsters targeted are returned to the Extra Deck.
@@ -13629,7 +13629,7 @@ _Select 5 Monster Cards in your Graveyard. Return those cards to the Deck, then 
 
   
 ## POWER TOOL DRAGON  
-_① Once per turn, during your Main Phase, you can select 3 Equip Spell Cards from your Deck, have your opponent pick 1 of them at random, and add it to your hand. Return the remaining cards to your Deck. ② If this card would be destroyed while equipped with an Equip Spell Card, you can send that card to the Graveyard instead._
+> ① Once per turn, during your Main Phase, you can select 3 Equip Spell Cards from your Deck, have your opponent pick 1 of them at random, and add it to your hand. Return the remaining cards to your Deck. ② If this card would be destroyed while equipped with an Equip Spell Card, you can send that card to the Graveyard instead.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   You reveal the 3 Equip Spell Cards from your Deck that you pick. From that point on, you do not have to show them (so your opponent does not see them while picking randomly).
@@ -13663,7 +13663,7 @@ _① Once per turn, during your Main Phase, you can select 3 Equip Spell Cards f
 
   
 ## PREPARATION OF RITES  
-_(1A) Add to your hand 1 Level 7 or lower Ritual Monster Card from your Deck. (1B) Then you can add to your hand 1 Ritual Spell Card from your Graveyard._
+> (1A) Add to your hand 1 Level 7 or lower Ritual Monster Card from your Deck. (1B) Then you can add to your hand 1 Ritual Spell Card from your Graveyard.
 
 *   You can activate this card even if there are no Ritual Spell Cards in your Graveyard.
 *   This effect resolves sequentially (do 1A, then 1B).
@@ -13716,7 +13716,7 @@ _(1A) Add to your hand 1 Level 7 or lower Ritual Monster Card from your Deck. (1
 
   
 ## PRIME MATERIAL DRAGON  
-_① Any effect that would inflict damage to a player instead increases their Life Points by the same amount. ② When a card's effect to destroy a monster(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card._
+> ① Any effect that would inflict damage to a player instead increases their Life Points by the same amount. ② When a card's effect to destroy a monster(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.
 
 *   The ① Continuous Effect does not start a chain. This effect applies to both players.
     *   If "[The Immortal of Thunder](https://yugipedia.com/wiki/The_Immortal_of_Thunder)" is sent to the Graveyard, its owner will still lose 5000 Life Points.
@@ -13734,7 +13734,7 @@ _① Any effect that would inflict damage to a player instead increases their Li
 
   
 ## PROHIBITION  
-_When you activate this card, declare 1 card name. Cards with that name and their effects cannot be used. Cards on the field before this card was activated are not affected (including face-down cards)._
+> When you activate this card, declare 1 card name. Cards with that name and their effects cannot be used. Cards on the field before this card was activated are not affected (including face-down cards).
 
 *   The effect declares a Card Name at activation. The declared card name cannot be changed.
     *   Cards (face-up / face-down) already on the field are unaffected.
@@ -13769,7 +13769,7 @@ _When you activate this card, declare 1 card name. Cards with that name and thei
 
   
 ## PROOF OF POWERLESSNESS  
-_Activate only while you control a face-up Level 7 or higher monster. Destroy all face-up Level 5 or lower monsters your opponent controls. Monsters you control cannot attack this turn._  
+> Activate only while you control a face-up Level 7 or higher monster. Destroy all face-up Level 5 or lower monsters your opponent controls. Monsters you control cannot attack this turn.  
   
 
 *   Your Level 7+ monster only needs to be face-up to activate this card. The effect will resolve even if it is flipped face-down / leaves the field.
@@ -13778,7 +13778,7 @@ _Activate only while you control a face-up Level 7 or higher monster. Destroy al
 
   
 ## PROTECTIVE SOUL AILIN  
-_① Once per turn, you can equip this card to an "Indomitable Fighter Lei Lei" you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)_  
+> ① Once per turn, you can equip this card to an "Indomitable Fighter Lei Lei" you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)  
   
 ## PROTECTOR OF THE SANCTUARY
 
@@ -13831,7 +13831,7 @@ _① Once per turn, you can equip this card to an "Indomitable Fighter Lei Lei" 
 
   
 ## PSYCHIC COMMANDER  
-_① When a Psychic-Type monster you control battles, during the Damage Step you can pay Life Points in multiples of 100 (max. 500) to have the monster it's battling lose that much ATK and DEF, until the End Phase._
+> ① When a Psychic-Type monster you control battles, during the Damage Step you can pay Life Points in multiples of 100 (max. 500) to have the monster it's battling lose that much ATK and DEF, until the End Phase.
 
 *   The ① Quick Effect activates & resolves on the field.
     *   This effect targets the opponent's monster.
@@ -13900,7 +13900,7 @@ _① When a Psychic-Type monster you control battles, during the Damage Step you
 
   
 ## PULLING THE RUG  
-_Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster._
+> Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster.
 
 *   This effect activates in the Summon response timing (like "Zaborg the Thunder Monarch").
 *   If a monster effect activates in response to a Normal Summon (ex: "King Tiger Wanghu"), you can activate this card.
@@ -13919,7 +13919,7 @@ _Negate the activation and effect of an Effect Monster whose effect activated wh
 
   
 ## PUPPET MASTER  
-_① When this card is Tribute Summoned you can pay 2000 Life Points to Special Summon 2 Fiend-Type monsters from your Graveyard. They cannot attack this turn._
+> ① When this card is Tribute Summoned you can pay 2000 Life Points to Special Summon 2 Fiend-Type monsters from your Graveyard. They cannot attack this turn.
 
 *   The ① optional Trigger Effect activates & resolves on the field.
     *   Paying 2000 Life Points is a cost.
@@ -13961,7 +13961,7 @@ _① When this card is Tribute Summoned you can pay 2000 Life Points to Special 
 
   
 ## QUEEN OF THORNS  
-_① Each player must pay 1000 Life Points to Normal or Special Summon a non-Plant-Type monster from their hand._
+> ① Each player must pay 1000 Life Points to Normal or Special Summon a non-Plant-Type monster from their hand.
 
 *   The ① Continuous Effect does not activate.
     *   If you Tribute a face-up “Queen of Thorns” for a Tribute / Special Summon, pay 1000 Life Points.
@@ -13985,7 +13985,7 @@ _① Each player must pay 1000 Life Points to Normal or Special Summon a non-Pla
 
   
 ## QUICKDRAW SYNCHRON  
-_① You can send 1 monster from your hand to the Graveyard and Special Summon this card from your hand. Ⓒ You can substitute this card for any 1 “Synchron” Tuner monster for a Synchro Summon. Ⓒ This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a monster that lists a “Synchron” monster as a Tuner monster._
+> ① You can send 1 monster from your hand to the Graveyard and Special Summon this card from your hand. Ⓒ You can substitute this card for any 1 “Synchron” Tuner monster for a Synchro Summon. Ⓒ This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a monster that lists a “Synchron” monster as a Tuner monster.
 
 *   The ① Special Summon starts a chain (treat it as an Ignition Effect) \[[REF](http://duelistgroundz.com/index.php?/topic/119293-hardened-armed-dragon/)\].
     *   Sending (not discarding) 1 monster from your hand to the Graveyard is not a cost.
@@ -14126,7 +14126,7 @@ _① You can send 1 monster from your hand to the Graveyard and Special Summon t
 
   
 ## RAIZA THE STORM MONARCH  
-_① When this card is Tribute Summoned, return 1 card on the field to the top of its owner's Deck._
+> ① When this card is Tribute Summoned, return 1 card on the field to the top of its owner's Deck.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -14163,7 +14163,7 @@ _① When this card is Tribute Summoned, return 1 card on the field to the top o
 
   
 ## RARE METALMORPH  
-_① Select 1 face-up Machine-Type monster. It gains 500 ATK. One time only, negate the effect of a Spell Card that targets that monster. ② When the selected monster is removed from the field, destroy this card._
+> ① Select 1 face-up Machine-Type monster. It gains 500 ATK. One time only, negate the effect of a Spell Card that targets that monster. ② When the selected monster is removed from the field, destroy this card.
 
 *   The ① Continuous-like Effect applies on the field.
     *   This effect (continuously) targets a face-up Machine-Type monster anywhere on the field.
@@ -14275,7 +14275,7 @@ _① Select 1 face-up Machine-Type monster. It gains 500 ATK. One time only, neg
 
   
 ## RED DRAGON ARCHFIEND  
-_① If this card attacks a Defense Position monster your opponent controls, destroy all Defense Position monsters your opponent controls after damage calculation. ② During your End Phase, destroy all other monsters you control that did not declare an attack this turn._
+> ① If this card attacks a Defense Position monster your opponent controls, destroy all Defense Position monsters your opponent controls after damage calculation. ② During your End Phase, destroy all other monsters you control that did not declare an attack this turn.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect in Substep 5 - After Damage Calculation (before Flip Effects activate).
@@ -14311,7 +14311,7 @@ _① If this card attacks a Defense Position monster your opponent controls, des
 
   
 ## RED-EYES DARKNESS METAL DRAGON  
-_Ⓢ You can remove from play 1 face-up Dragon-Type monster you control to Special Summon this card. ① Once per turn, during your Main Phase, you can Special Summon 1 Dragon-Type monster, except “Red-Eyes Darkness Metal Dragon” from your hand or Graveyard._
+> Ⓢ You can remove from play 1 face-up Dragon-Type monster you control to Special Summon this card. ① Once per turn, during your Main Phase, you can Special Summon 1 Dragon-Type monster, except “Red-Eyes Darkness Metal Dragon” from your hand or Graveyard.
 
 *   TheⓈ Special Summon procedure does not start a chain.
     *   You may Special Summon several copies of thsi card from your hand in a turn.
@@ -14322,7 +14322,7 @@ _Ⓢ You can remove from play 1 face-up Dragon-Type monster you control to Speci
 
   
 ## RED-EYES WYVERN  
-_① During your End Phase, if you did not Normal Summon or Set a monster that turn, you can remove from play this card from your Graveyard to Special Summon 1 "Red-Eyes" monster from your Graveyard, except "Red-Eyes B. Chick"._
+> ① During your End Phase, if you did not Normal Summon or Set a monster that turn, you can remove from play this card from your Graveyard to Special Summon 1 "Red-Eyes" monster from your Graveyard, except "Red-Eyes B. Chick".
 
 *   The ① optional Trigger Effect activates in the Graveyard
     *   Removing this card from play is a cost.
@@ -14400,7 +14400,7 @@ _① During your End Phase, if you did not Normal Summon or Set a monster that t
 
   
 ## REINFORCEMENT OF THE ARMY  
-_Add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand._
+> Add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand.
 
 *   Reveal the monster you search with this effect to your opponent before placing it in your hand.
 *   You cannot activate this card if you do not have a Level 4 or lower Warrior-Type monsters in your Deck.
@@ -14413,7 +14413,7 @@ _Add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand._
 
   
 ## REKINDLING  
-_Special Summon from your Graveyard as many FIRE monsters as possible with 200 DEF. During the End Phase, remove from play all monsters that were Special Summoned by this effect._
+> Special Summon from your Graveyard as many FIRE monsters as possible with 200 DEF. During the End Phase, remove from play all monsters that were Special Summoned by this effect.
 
 *   This effect does not target cards in the Graveyard. It is not be negated by "Necrovalley".
 *   Monsters Special Summoned by this effect are Summoned simultaneously.
@@ -14441,7 +14441,7 @@ _Special Summon from your Graveyard as many FIRE monsters as possible with 200 D
 
   
 ## RELINQUISHED  
-_① Once per turn, select 1 monster your opponent controls and equip it to this card (only 1 monster can be equipped to it at a time). ② This card's ATK and DEF become equal to the ATK and DEF of the monster equipped to this card. ③ If this card is destroyed by battle, the equipped monster is destroyed instead, and any battle damage you received from the battle is also inflicted to your opponent._
+> ① Once per turn, select 1 monster your opponent controls and equip it to this card (only 1 monster can be equipped to it at a time). ② This card's ATK and DEF become equal to the ATK and DEF of the monster equipped to this card. ③ If this card is destroyed by battle, the equipped monster is destroyed instead, and any battle damage you received from the battle is also inflicted to your opponent.
 
 *   The ① Ignition Effect targets a (face-up / face-down) monster your opponent controls.
     *   The target will become equipped even if it is flipped face-down / face-up.
@@ -14484,7 +14484,7 @@ _① Once per turn, select 1 monster your opponent controls and equip it to this
 
   
 ## REMOVE BRAINWASHING  
-_As long as this card remains face-up on the field, the control of all monsters on the field returns to the original owners._
+> As long as this card remains face-up on the field, the control of all monsters on the field returns to the original owners.
 
 *   The Continuous-like Effect does not activate.
     *   Monsters like "Lava Golem" return to their owner's side of the field.
@@ -14583,7 +14583,7 @@ _As long as this card remains face-up on the field, the control of all monsters 
 
   
 ## RESCUE CAT  
-_① You can send this face-up card to the Graveyard to Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck. Those monsters are destroyed during the End Phase._
+> ① You can send this face-up card to the Graveyard to Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck. Those monsters are destroyed during the End Phase.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Sending this card to the Graveyard is cost. This effect cannot activate with "Macro Cosmos" active.
@@ -14605,7 +14605,7 @@ _① You can send this face-up card to the Graveyard to Special Summon 2 Level 3
 
   
 ## RETURN FROM THE DIFFERENT DIMENSION  
-_① Pay half your Life Points. Special Summon as many of your removed from play monsters as possible. Ⓛ During the End Phase, remove from play all monsters that were Special Summoned by this effect._
+> ① Pay half your Life Points. Special Summon as many of your removed from play monsters as possible. Ⓛ During the End Phase, remove from play all monsters that were Special Summoned by this effect.
 
 *   Paying half your Life Points is a cost.
 *   The Ⓛ Lingering Effect does not start a chain.
@@ -14675,7 +14675,7 @@ _① Pay half your Life Points. Special Summon as many of your removed from play
 
   
 ## REVIVED KING HA DES  
-_① Negate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control._
+> ① Negate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.
 
 *   The ① Continuous Effect does not activate. It also applies to "Revived King Ha Des".
     *   This effect CANNOT be negated by "Divine Wrath", but CAN be negated by "Skill Drain".
@@ -14790,7 +14790,7 @@ _① Negate the effects of Effect Monsters destroyed by battle with Zombie-Type 
 
   
 ## RIVALRY OF WARLORDS  
-_Each player sends monsters they control to the Graveyard so that they only control 1 Type of monster. Each player can only control 1 Type of monster._
+> Each player sends monsters they control to the Graveyard so that they only control 1 Type of monster. Each player can only control 1 Type of monster.
 
 *   The ① Continuous-like Effect applies immediately after this Trap Card’s activation resolves: both players look at the face-up monsters they control and each choose 1 Type to keep and send their face-up monsters that aren’t that Type to the Graveyard.
     *   If a face-down with a different Type is attacked, it is flipped face-up in Substep 2 - Flip Face-Down, and is sent to the Graveyard at the start of Substep 5 - After Damage Calculation. Flip Effects will still activate, but effects that trigger when the monster is destroyed by battle will not.
@@ -14818,7 +14818,7 @@ _Each player sends monsters they control to the Graveyard so that they only cont
 
   
 ## ROBBIN' GOBLIN  
-_Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card._
+> Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.
 
 *   This is a mandatory effect. It activates even if your opponent has no cards in hand.
 *   This effect will not activate if you inflict 0 Battle Damage.
@@ -14906,7 +14906,7 @@ _Each time a monster you control inflicts Battle Damage to your opponent, your o
 
   
 ## ROYAL DECREE  
-_Negate the effects of all other Trap Cards on the field._
+> Negate the effects of all other Trap Cards on the field.
 
 *   Trap Cards (and their effects) can still be activated (played face-up).
 *   This effect negates the effects of Trap Cards that activate & resolve on the field.
@@ -14938,7 +14938,7 @@ _Negate the effects of all other Trap Cards on the field._
 
   
 ## ROYAL OPPRESSION  
-_① Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards._
+> ① Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.
 
 *   The ① Quick-like Effect activates & resolves on the field, so long as this card is face-up.
     *   This Card / Effect can't be activated in the Damage Step.
@@ -14953,7 +14953,7 @@ _① Either player can pay 800 Life Points to negate the Special Summon of a mon
 
   
 ## ROYAL TRIBUTE  
-_This card can only be activated when "Necrovalley" is on your side of the field. Both players discard all Monster Cards in their hands to the Graveyard._
+> This card can only be activated when "Necrovalley" is on your side of the field. Both players discard all Monster Cards in their hands to the Graveyard.
 
 *   Both players must reveal their hands to the opponent when "Royal Tribute" resolves.
 *   "Necrovalley" only needs to be face-up on the field when this card is activated.
@@ -14975,7 +14975,7 @@ _This card can only be activated when "Necrovalley" is on your side of the field
 
   
 ## RYKO, LIGHTSWORN HUNTER
-_FLIP: Ⓐ You can destroy 1 card on the field. Ⓑ Send the top 3 cards of your Deck to the Graveyard._
+> FLIP: Ⓐ You can destroy 1 card on the field. Ⓑ Send the top 3 cards of your Deck to the Graveyard.
 
 *   The Flip Effect activates & resolves on the field.
     *   If flipped in the Damage Step, this effect activates in Substep 6 - Resolve Effects.
@@ -14988,7 +14988,7 @@ _FLIP: Ⓐ You can destroy 1 card on the field. Ⓑ Send the top 3 cards of your
 
   
 ## RYU KOKKI  
-_① If this card battles a Warrior or Spellcaster-Type monster, destroy that monster at the end of the Damage Step._
+> ① If this card battles a Warrior or Spellcaster-Type monster, destroy that monster at the end of the Damage Step.
 
 *   The ① mandatory Trigger Effect activates in Substep 7 - End of the Damage Step.
     *   If "Ryu Kokki" was destroyed by battle, this effect still activates.
@@ -15013,7 +15013,7 @@ _① If this card battles a Warrior or Spellcaster-Type monster, destroy that mo
 
 
 ## SABER HOLE  
-_Activate only while you control a face-up "X-Saber" monster. Negate the Summon of a monster, and destroy it._
+> Activate only while you control a face-up "X-Saber" monster. Negate the Summon of a monster, and destroy it.
 
 *   You must control a face-up XX-Saber or X-Saber monster in order to activate this card.
 *   This card activates in the Summon negation timing (like “Horn of Heaven” and “Black Horn of Heaven”).
@@ -15024,7 +15024,7 @@ _Activate only while you control a face-up "X-Saber" monster. Negate the Summon 
 
   
 ## SABER SLASH  
-_Destroy a number of face-up cards on the field equal to the number of face-up Attack Position "X-Saber" monsters you control._
+> Destroy a number of face-up cards on the field equal to the number of face-up Attack Position "X-Saber" monsters you control.
 
 *   This effect does not target.
 *   Count your face-up Attack Position XX-Saber & X-Saber monsters when “Saber Slash” resolves.
@@ -15078,7 +15078,7 @@ _Destroy a number of face-up cards on the field equal to the number of face-up A
 
   
 ## SALVAGE  
-_Add 2 WATER monsters in your Graveyard with an ATK of 1500 or less each to your hand._
+> Add 2 WATER monsters in your Graveyard with an ATK of 1500 or less each to your hand.
 
 *   "Salvage" targets 2 WATER monsters in the Graveyard.
 *   If 1 of the targeted WATER monsters is removed from the Graveyard by an effect chained to "Salvage", the remaining WATER monster is still added to your hand.
@@ -15117,7 +15117,7 @@ _Add 2 WATER monsters in your Graveyard with an ATK of 1500 or less each to your
 
   
 ## SANGAN  
-_① When this card is sent from the field to the Graveyard, add 1 monster with 1500 or less ATK from your Deck to your hand._
+> ① When this card is sent from the field to the Graveyard, add 1 monster with 1500 or less ATK from your Deck to your hand.
 
 *   This ① mandatory Trigger Effect activates & resolves in the Graveyard.
     *   Monsters with "? ATK" cannot be added from Deck to hand.
@@ -15128,7 +15128,7 @@ _① When this card is sent from the field to the Graveyard, add 1 monster with 
 
   
 ## SANGUINE SWAMP  
-_① If you control any other Spell or Trap Cards, destroy this card. ② Face-down Spell and Trap Cards cannot be activated. ③ Destroy this card during your 2nd Standby Phase after activation._
+> ① If you control any other Spell or Trap Cards, destroy this card. ② Face-down Spell and Trap Cards cannot be activated. ③ Destroy this card during your 2nd Standby Phase after activation.
 
 *   The ①, ②, and ③ Continuous-like Effects do not start a Chain.
 *   If you activate "Sanguine Swamp" while you control face-down Spell or Trap Card(s), it is destroyed after it resolves.
@@ -15143,7 +15143,7 @@ _① If you control any other Spell or Trap Cards, destroy this card. ② Face-d
 
   
 ## SASUKE SAMURAI #2  
-_① Once per turn, during your Main Phase, you can pay 800 Life Points. If you do this, until the End Phase, Spell and Trap Cards cannot be activated._
+> ① Once per turn, during your Main Phase, you can pay 800 Life Points. If you do this, until the End Phase, Spell and Trap Cards cannot be activated.
 
 *   You can only activate "Sasuke Samurai #2"'s effect during your Main Phase 1 or 2 because it's an Ignition Effect.
 *   You can only activate "Sasuke Samurai #2"'s effect once per turn.
@@ -15228,7 +15228,7 @@ _① Once per turn, during your Main Phase, you can pay 800 Life Points. If you 
 
   
 ## SEA DRAGON LORD GISHILNODON  
-_① When a face-up Level 3 or lower monster on the field is sent to the Graveyard, this card's ATK becomes 3000 until the End Phase of this turn._
+> ① When a face-up Level 3 or lower monster on the field is sent to the Graveyard, this card's ATK becomes 3000 until the End Phase of this turn.
 
 *   If “Sea Dragon Lord Gishilnodon’s” effect activates, and later “Skill Drain” is activated, “Sea Dragon Lord Gishilnodon” drops to 2300 ATK again. Even if “Skill Drain” is destroyed after that, “Sea Dragon Lord Gishilnodon” remains at 2300 ATK until its effect is triggered again.
 *   If “Sea Dragon Lord Gishilnodon” has its ATK altered by a Field Spell Card, etc., and then its effect is triggered, its ATK becomes 3000.
@@ -15270,7 +15270,7 @@ _① When a face-up Level 3 or lower monster on the field is sent to the Graveya
 
   
 ## SECOND GOBLIN  
-_① Once per turn, you can equip this card to an "Indomitable Fighter Lei Lei" you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)_
+> ① Once per turn, you can equip this card to an "Indomitable Fighter Lei Lei" you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, you can change that monster's battle position once per turn. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)
 
 *   The effect of changing a monster's Battle Position can only be used once per turn.
 
@@ -15290,7 +15290,7 @@ _① Once per turn, you can equip this card to an "Indomitable Fighter Lei Lei" 
 
   
 ## SECRET VILLAGE OF THE SPELLCASTERS  
-_① If you control a Spellcaster-Type monster and your opponent does not, your opponent cannot activate Spell Cards. ② If you control no Spellcaster-Type monsters, you cannot activate Spell Cards._
+> ① If you control a Spellcaster-Type monster and your opponent does not, your opponent cannot activate Spell Cards. ② If you control no Spellcaster-Type monsters, you cannot activate Spell Cards.
 
 *   The ① Continuous-like Effect does not activate.
     *   This effect applies if you have a face-up Spellcaster-Type monster and your opponent does not.
@@ -15372,7 +15372,7 @@ _① If you control a Spellcaster-Type monster and your opponent does not, your 
 
   
 ## SHADOW-IMPRISONING MIRROR  
-_When the effect of a DARK monster activates on the field or in the Graveyard, negate it._
+> When the effect of a DARK monster activates on the field or in the Graveyard, negate it.
 
 *   When determining if a monster’s effect should be negated by “Shadow-Imprisoning Mirror”, check the monster’s Attribute at the time its effect is resolved.
 *   When a Non-DARK monster’s effect is activated while the monster and “Shadow-Imprisoning Mirror” are both face-up on the field, if you chain “DNA Transplant” and select “DARK”, the monster’s effect will be negated if the monster is still face-up on the field when its effect resolves because it is now a DARK monster.
@@ -15476,7 +15476,7 @@ _When the effect of a DARK monster activates on the field or in the Graveyard, n
 
   
 ## SHINY BLACK C  
-_① When 1 Synchro Monster is Special Summoned to your opponent's side of the field, you can remove from play this card in the Graveyard to destroy that monster._
+> ① When 1 Synchro Monster is Special Summoned to your opponent's side of the field, you can remove from play this card in the Graveyard to destroy that monster.
 
 *   The ① Quick Effect activates & resolves in the Graveyard.
     *   Removing “Shiny Black C” from play is a cost.
@@ -15488,7 +15488,7 @@ _① When 1 Synchro Monster is Special Summoned to your opponent's side of the f
 
   
 ## SHIRE, LIGHTSWORN SPIRIT  
-_① This card gains 300 ATK for each "Lightsworn" monster with a different name in your Graveyard. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard._
+> ① This card gains 300 ATK for each "Lightsworn" monster with a different name in your Graveyard. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
 
 *   The ① Continuous Effect does not start a chain during the Damage Step.
     *   If "Blackwing - Gale the Whirlwind" halves this card's ATK, and later the number of "Lightsworn" monsters with different names in your Graveyard changes, this card's ATK will remain the same.
@@ -15528,7 +15528,7 @@ _① This card gains 300 ATK for each "Lightsworn" monster with a different name
 
   
 ## SHRINK  
-_Select 1 face-up monster on the field. The original ATK of that monster is halved until the end of this turn._
+> Select 1 face-up monster on the field. The original ATK of that monster is halved until the end of this turn.
 
 *   This card can be activated during the Damage Step, before Substep 4 - Damage Calculation.
 *   This effect target's 1 face-up monster anywhere on the field.
@@ -15632,7 +15632,7 @@ Also see rulings for “Dark World Monsters”.
 
   
 ## SKILL DRAIN  
-_Pay 1000 Life Points. ① The effects of all face-up Effect Monsters are negated._
+> Pay 1000 Life Points. ① The effects of all face-up Effect Monsters are negated.
 
 *   The ① Continuous-like Effect does not activate.
     *   Paying 1000 Life Points is a cost.
@@ -15646,7 +15646,7 @@ _Pay 1000 Life Points. ① The effects of all face-up Effect Monsters are negate
 
   
 ## SKILL SUCCESSOR  
-_① Select 1 face-up monster you control. It gains 400 ATK until the End Phase. ② You can remove from play this card in the Graveyard to give 1 face-up monster you control 800 ATK until the End Phase. This effect cannot be activated the turn this card is sent to the Graveyard, and can only be activated during your turn._
+> ① Select 1 face-up monster you control. It gains 400 ATK until the End Phase. ② You can remove from play this card in the Graveyard to give 1 face-up monster you control 800 ATK until the End Phase. This effect cannot be activated the turn this card is sent to the Graveyard, and can only be activated during your turn.
 
 *   The ① effect activates & resolves on the field.
     *   This effect targest 1 face-up monster you control.
@@ -15757,7 +15757,7 @@ _① Select 1 face-up monster you control. It gains 400 ATK until the End Phase.
 
   
 ## SKY SCOURGE NORLERAS  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by removing from play 1 LIGHT Fairy-Type monster and 3 DARK Fiend-Type monsters in your Graveyard. ① You can pay 1000 Life Points to send all cards on the field and in both players' hands to the Graveyard, then you draw 1 card._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by removing from play 1 LIGHT Fairy-Type monster and 3 DARK Fiend-Type monsters in your Graveyard. ① You can pay 1000 Life Points to send all cards on the field and in both players' hands to the Graveyard, then you draw 1 card.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon Condition does not start a Chain when Summoning this card from the hand.
@@ -15770,7 +15770,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special
 
   
 ## SKYSCRAPER  
-_① When an "Elemental Hero" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only._
+> ① When an "Elemental Hero" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.
 
 *   The ① Continuous-like Effect does not start a chain.
     *   This effect applies during Substep 4 - Damage Calculation.
@@ -15808,7 +15808,7 @@ _① When an "Elemental Hero" monster attacks, if its ATK is lower than the ATK 
 
   
 ## SMASHING GROUND  
-_Destroy the 1 face-up monster your opponent controls that has the highest DEF. (If it's a tie, you get to choose.)_
+> Destroy the 1 face-up monster your opponent controls that has the highest DEF. (If it's a tie, you get to choose.)
 
 *   This effect does NOT target.
 *   You can activate "Smashing Ground" even if your opponent only has 1 monster on the field.
@@ -15857,7 +15857,7 @@ _Destroy the 1 face-up monster your opponent controls that has the highest DEF. 
 
   
 ## SNIPE HUNTER  
-_① You can discard 1 card to select 1 card on the field and roll a six-sided die. If the result is not 1 or 6, destroy the selected card._
+> ① You can discard 1 card to select 1 card on the field and roll a six-sided die. If the result is not 1 or 6, destroy the selected card.
 
 *   This ① Ignition Effect activates & resolves on the field.
     *   This effect targets a (face-up / face-down) card anywhere on the field.
@@ -15866,7 +15866,7 @@ _① You can discard 1 card to select 1 card on the field and roll a six-sided d
 
   
 ## SNOWMAN EATER  
-_① When this card is flipped face-up, destroy 1 face-up monster on the field._
+> ① When this card is flipped face-up, destroy 1 face-up monster on the field.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect targets 1 face-up monster on the field.
@@ -15883,7 +15883,7 @@ _① When this card is flipped face-up, destroy 1 face-up monster on the field._
 
   
 ## SOLAR RECHARGE  
-_Discard 1 "Lightsworn" monster. ① Draw 2 cards then send the top 2 cards of your Deck to the Graveyard._
+> Discard 1 "Lightsworn" monster. ① Draw 2 cards then send the top 2 cards of your Deck to the Graveyard.
 
 *   Discarding 1 "Lightsworn" monster is a cost.
 *   The ① effect resolves sequentially. First, draw 2 cards, then send the top 2 to the Graveyard.
@@ -15892,7 +15892,7 @@ _Discard 1 "Lightsworn" monster. ① Draw 2 cards then send the top 2 cards of y
 
   
 ## SOLEMN JUDGMENT  
-_Pay half of your Life Points. ① Negate an activation of a Spell / Trap Card / Normal Summon / Flip Summon / Special Summon and destroy the Spell Card, Trap Card, or Summoned monster._
+> Pay half of your Life Points. ① Negate an activation of a Spell / Trap Card / Normal Summon / Flip Summon / Special Summon and destroy the Spell Card, Trap Card, or Summoned monster.
 
 *   Paying half your Life Points is a cost. If this results in a fraction, your Life Points are rounded up.
 *   "Solemn Judgment" does not target the card it will destroy.
@@ -15908,7 +15908,7 @@ _Pay half of your Life Points. ① Negate an activation of a Spell / Trap Card /
 
   
 ## SOLIDARITY  
-_If you have only 1 original (printed) Type of monster in your Graveyard, face-up monsters you control with the same Type gain 800 ATK._
+> If you have only 1 original (printed) Type of monster in your Graveyard, face-up monsters you control with the same Type gain 800 ATK.
 
 *   If non-Zombie-Type monsters in the Graveyard are being treated as Zombie-Type due to “Zombie World” the ATK boost will not apply.
 *   If you only have Warrior-Type monsters in your Graveyard and non-Warrior-Type monsters on the field are being treated as Warrior-Type by “DNA Surgery,” the ATK boost will apply to the monsters on the field.
@@ -15962,7 +15962,7 @@ _If you have only 1 original (printed) Type of monster in your Graveyard, face-u
 
   
 ## SOUL EXCHANGE
-_① Select 1 monster your opponent controls. This turn you can Tribute that monster as if you controlled it. Ⓒ You cannot conduct your Battle Phase the turn you activate this card._
+> ① Select 1 monster your opponent controls. This turn you can Tribute that monster as if you controlled it. Ⓒ You cannot conduct your Battle Phase the turn you activate this card.
 
 *   The ① effect of this card targets an opponent's (face-up / face-down) monster.
     *   If the target is flipped face-down, it can still be Tributed \[[REF](https://www.pojo.biz/board/showthread.php?t=925157)\].
@@ -15988,7 +15988,7 @@ _① Select 1 monster your opponent controls. This turn you can Tribute that mon
 
   
 ## SOUL OF PURITY AND LIGHT  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by removing from play 2 LIGHT monsters from your Graveyard. ① During your opponent's Battle Phase, monsters they control lose 300 ATK._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by removing from play 2 LIGHT monsters from your Graveyard. ① During your opponent's Battle Phase, monsters they control lose 300 ATK.
 
 *   The Ⓒ Summon Condition cannot be negated.
 *   The Ⓢ Summon Condition does not start a Chain.
@@ -16093,7 +16093,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Speci
 
   
 ## SPELL CANCELLER  
-_① As long as this card remains face-up on the field, Spell Cards cannot be activated. ② The effects of all Spell Cards are also negated._
+> ① As long as this card remains face-up on the field, Spell Cards cannot be activated. ② The effects of all Spell Cards are also negated.
 
 *   The ① Continuous Effect applies on the field.
     *   Players CANNOT activate(play face-up) Spell Card. This does not "_negate the activation_" of Spell Cards (the way "Dark Bribe" does), and so "Spiritualism" cannot be played.
@@ -16277,7 +16277,7 @@ The following rules apply to all Spirit Monsters:
 
   
 ## SPIRIT OF THE SIX SAMURAI  
-_① Once per turn, you can equip this card to a "Six Samurai" monster you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, that monster gains 500 ATK and DEF. ③ When the equipped monster destroys an opponent's monster by battle, draw 1 card. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, this card is destroyed instead.)_
+> ① Once per turn, you can equip this card to a "Six Samurai" monster you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, that monster gains 500 ATK and DEF. ③ When the equipped monster destroys an opponent's monster by battle, draw 1 card. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, this card is destroyed instead.)
 
 *   The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the Graveyard.
 *   If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.
@@ -16285,7 +16285,7 @@ _① Once per turn, you can equip this card to a "Six Samurai" monster you contr
 
   
 ## SPIRIT REAPER  
-_① This card cannot be destroyed by battle. ② Destroy this card when it is targeted by the effect of a Spell, Trap, or Effect Monster. ③ If this card successfully attacks directly, your opponent randomly discards 1 card._
+> ① This card cannot be destroyed by battle. ② Destroy this card when it is targeted by the effect of a Spell, Trap, or Effect Monster. ③ If this card successfully attacks directly, your opponent randomly discards 1 card.
 
 *   The ① Continuous Effects applies while this monster is face-up on the field.
 *   The ② Continuous Effects applies while this monster is face-up on the field.
@@ -16334,7 +16334,7 @@ _① This card cannot be destroyed by battle. ② Destroy this card when it is t
 
   
 ## SPIRITUALISM  
-_Return 1 Spell or Trap Card on your opponent's side of the field to the owner's hand. This card's activation and effect cannot be negated by any other card._
+> Return 1 Spell or Trap Card on your opponent's side of the field to the owner's hand. This card's activation and effect cannot be negated by any other card.
 
 *   The Spell / Trap Card goes to its owner’s hand.
 *   This targets 1 Spell / Trap Card your opponent controls, even monsters treated as Equip Spell Cards.
@@ -16384,7 +16384,7 @@ _Return 1 Spell or Trap Card on your opponent's side of the field to the owner's
 
   
 ## STARDUST DRAGON  
-_① You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster’s effect that destroys a card(s) on the field, and destroy that card. ② If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase._
+> ① You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster’s effect that destroys a card(s) on the field, and destroy that card. ② If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase.
 
 *   The ① Quick Effect activates & resolves on the field.
     *   Tributing this card is a cost.
@@ -16403,7 +16403,7 @@ _① You can Tribute this card to negate the activation of a Spell Card, Trap Ca
 
   
 ## STARDUST DRAGON/ASSAULT MODE  
-_This card cannot be Normal Summoned or Set. Ⓒ This card cannot be Special Summoned except with its own effect or with "Assault Mode Activate". ① You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card. ② If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase. ③ When this card on the field is destroyed, you can Special Summon 1 "Stardust Dragon" from your Graveyard._
+> This card cannot be Normal Summoned or Set. Ⓒ This card cannot be Special Summoned except with its own effect or with "Assault Mode Activate". ① You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card. ② If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase. ③ When this card on the field is destroyed, you can Special Summon 1 "Stardust Dragon" from your Graveyard.
 
 *   The Ⓒ Condition cannot be negated. It must first be Special Summoned by "Assault Mode Activate".
     *   You cannot Special Summon this card with "Call of the Haunted", only its own effect.
@@ -16458,7 +16458,7 @@ Special Summoning this monster is a Trigger Effect that that activates in the Gr
 
   
 ## STARLIGHT ROAD  
-_Activate only when an effect is activated that would destroy 2 or more cards you control. Negate the effect and destroy that card. Then, you can Special Summon 1 “Stardust Dragon” from your Extra Deck._
+> Activate only when an effect is activated that would destroy 2 or more cards you control. Negate the effect and destroy that card. Then, you can Special Summon 1 “Stardust Dragon” from your Extra Deck.
 
 *   This card can be activated when an effect would destroy 2(+) cards on the field simultaneously, even if some cards would be unaffected (ex: "Elemental Hero Wildheart" is unaffected by "Torrential Tribute").
     *   This card cannot be activated if an effect would only destroy 1 card you control (ex: "Celestia, Lightsworn Angel" / "Gladiator Beast Gyzarus" only targets 1 card with its effect).
@@ -16531,7 +16531,7 @@ _Activate only when an effect is activated that would destroy 2 or more cards yo
 
   
 ## STRIKE NINJA  
-_① You can remove this card from play until the End Phase of this turn by removing from play 2 DARK monsters in your Graveyard. You can use this effect during either player’s turn. You can only use this effect once per turn._
+> ① You can remove this card from play until the End Phase of this turn by removing from play 2 DARK monsters in your Graveyard. You can use this effect during either player’s turn. You can only use this effect once per turn.
 
 *   The ① Quick Effect activates & resolves on the field.
     *   Banishing 2 DARK monsters in your Graveyard is a cost.
@@ -16548,7 +16548,7 @@ _① You can remove this card from play until the End Phase of this turn by remo
 
   
 ## STUMBLING  
-_Any monster that is Normal Summoned, Flip Summoned, or Special Summoned is changed to Defense Position._
+> Any monster that is Normal Summoned, Flip Summoned, or Special Summoned is changed to Defense Position.
 
 *   The mandatory Trigger-like Effect always starts a Chain in the Summon response timing, even if the monster was Summoned by a card effect as Chain Link 2(+).
 *   This effect activates as soon as a monster is successfully Summoned (or simultaneously with any mandatory Trigger Effects) before optional Trigger Effects ("Red Gadget") or chained Spell / Trap Cards (Trap Hole). This supersedes Ignition Effect Priority.
@@ -16561,7 +16561,7 @@ _Any monster that is Normal Summoned, Flip Summoned, or Special Summoned is chan
 
   
 ## SUBSTITOAD  
-_① You can Tribute 1 monster to Special Summon 1 "Frog" monster from your Deck, except "Frog the Jam". ② "Frog" monsters, except "Frog the Jam", cannot be destroyed by battle._
+> ① You can Tribute 1 monster to Special Summon 1 "Frog" monster from your Deck, except "Frog the Jam". ② "Frog" monsters, except "Frog the Jam", cannot be destroyed by battle.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Tributing 1 (face-up / face-down) monster you control is a cost.
@@ -16573,7 +16573,7 @@ _① You can Tribute 1 monster to Special Summon 1 "Frog" monster from your Deck
 
   
 ## SUCCESS PROBABILITY 0%  
-_Send 2 random Fusion Monsters from your opponent's Fusion Deck to the Graveyard._
+> Send 2 random Fusion Monsters from your opponent's Fusion Deck to the Graveyard.
 
 *   If your opponent has no Extra Deck, you cannot activate “Success Probability 0%”.
 *   “Success Probability 0%” does not target, because the cards are chosen randomly.
@@ -16595,7 +16595,7 @@ _Send 2 random Fusion Monsters from your opponent's Fusion Deck to the Graveyard
 
   
 ## SUMMON LIMIT  
-_Neither player can Summon more than two times per turn._
+> Neither player can Summon more than two times per turn.
 
 *   The Continuous-like Effect does not activate.
     *   This effect counts all Summon events performed during the turn. (ex: "Scapegoat" is only 1 Summon event, since the 4 monsters are Summoned simultaneously).
@@ -16668,7 +16668,7 @@ _Neither player can Summon more than two times per turn._
 
   
 ## SUPER REJUVENATION  
-_Ⓛ During the End Phase of the turn this card is activated, draw 1 card from your Deck for each Dragon-Type monster discarded from your hand and/or Tributed during this turn._
+> Ⓛ During the End Phase of the turn this card is activated, draw 1 card from your Deck for each Dragon-Type monster discarded from your hand and/or Tributed during this turn.
 
 *   This effect counts monsters that were Dragon-Type when Tributed / Discarded.
     *   Monsters treated as Dragon-Type (by "DNA Surgery") that are Tributed are still counted.
@@ -16724,7 +16724,7 @@ _Ⓛ During the End Phase of the turn this card is activated, draw 1 card from y
 
   
 ## SUPERVISE  
-_Ⓒ Equip only to a Gemini monster. ① It is treated as an Effect Monster, and gains its effect(s). ② When this face-up card on the field is sent to the Graveyard, select and Special Summon 1 Normal Monster from your Graveyard._
+> Ⓒ Equip only to a Gemini monster. ① It is treated as an Effect Monster, and gains its effect(s). ② When this face-up card on the field is sent to the Graveyard, select and Special Summon 1 Normal Monster from your Graveyard.
 
 *   The Ⓒ Condition cannot be negated.
     *   This card can be equipped to a Gemini Monster which has gained its effects.
@@ -16744,7 +16744,7 @@ _Ⓒ Equip only to a Gemini monster. ① It is treated as an Effect Monster, and
 
   
 ## SUPERANCIENT DEEPSEA KING COELACANTH  
-_① Once per turn, you can discard 1 card to Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck. A monster Special Summoned by this effect cannot declare an attack and its effect(s) is negated while on the field. ② If this card is targeted by a Spell, Trap, or Effect Monster's effect, you can Tribute 1 other Fish-Type monster to negate the effect and destroy that card._
+> ① Once per turn, you can discard 1 card to Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck. A monster Special Summoned by this effect cannot declare an attack and its effect(s) is negated while on the field. ② If this card is targeted by a Spell, Trap, or Effect Monster's effect, you can Tribute 1 other Fish-Type monster to negate the effect and destroy that card.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Discarding 1 card is a cost.
@@ -16778,7 +16778,7 @@ _① Once per turn, you can discard 1 card to Special Summon as many Level 4 or 
 
   
 ## SWALLOW FLIP  
-_Negate the activation of an Effect Monster's effect that activates when a monster is Special Summoned (including itself), and destroy it._
+> Negate the activation of an Effect Monster's effect that activates when a monster is Special Summoned (including itself), and destroy it.
 
 *   This effect activates in the Summon response timing (like "Archlord Kristya").
 *   If a monster effect activates in response to a Special Summon (ex: "King Tiger Wanghu"), you can activate this card.
@@ -16788,7 +16788,7 @@ _Negate the activation of an Effect Monster's effect that activates when a monst
 
   
 ## SWAP FROG  
-_Ⓢ You can discard 1 WATER monster to Special Summon this card from your hand. ① When this card is Summoned, you can select and sent 1 Level 2 or lower Aqua-Type WATER monster from your Deck or your side of the field to the Graveyard. ② Once per turn, you can return 1 monster you control to the hand to Normal Summon 1 “Frog” monster, except “Swap Frog” or “Frog the Jam”, in addition to your Normal Summon or Set this turn._
+> Ⓢ You can discard 1 WATER monster to Special Summon this card from your hand. ① When this card is Summoned, you can select and sent 1 Level 2 or lower Aqua-Type WATER monster from your Deck or your side of the field to the Graveyard. ② Once per turn, you can return 1 monster you control to the hand to Normal Summon 1 “Frog” monster, except “Swap Frog” or “Frog the Jam”, in addition to your Normal Summon or Set this turn.
 
 *   TheⓈ Summon Effect does not start a chain.
     *   Discarding 1 WATER monster is a cost.
@@ -16905,7 +16905,7 @@ _Ⓢ You can discard 1 WATER monster to Special Summon this card from your hand.
 
   
 ## SYMBOLS OF DUTY  
-_Send 1 Normal Monster you control to the Graveyard. Select and Special Summon 1 monster from either Graveyard and equip it with this card. When this card is removed from the field, destroy the equipped monster._
+> Send 1 Normal Monster you control to the Graveyard. Select and Special Summon 1 monster from either Graveyard and equip it with this card. When this card is removed from the field, destroy the equipped monster.
 
 *   Sending 1 Normal Monster you control to the Graveyard is a cost. This is not a Tribute.
     *   Face-down Normal Monsters and face-up Gemini Monsters (which haven't gained their effects) can also be sent to the Graveyard as cost.
@@ -16945,7 +16945,7 @@ _Send 1 Normal Monster you control to the Graveyard. Select and Special Summon 1
 
   
 ## SYSTEM DOWN  
-_Pay 1000 Life Points. ① Remove from play all Machine-Type monsters on your opponent's side of the field and in their Graveyard._
+> Pay 1000 Life Points. ① Remove from play all Machine-Type monsters on your opponent's side of the field and in their Graveyard.
 
 *   Paying 1000 Life Points is a cost.
 *   The ① effect does not destroy Machine-Type monsters, it only removes them from play.
@@ -17037,7 +17037,7 @@ _Pay 1000 Life Points. ① Remove from play all Machine-Type monsters on your op
 
   
 ## TEST TIGER  
-_① If you control a "Gladiator Beast" monster, you can Special Summon this card. ② You can Tribute this card to return 1 "Gladiator Beast" monster you control to the Deck, and then Special Summon 1 "Gladiator Beast" from your Deck. The Special Summoned monster is treated as if it was Special Summoned by the effect of a "Gladiator Beast" monster._
+> ① If you control a "Gladiator Beast" monster, you can Special Summon this card. ② You can Tribute this card to return 1 "Gladiator Beast" monster you control to the Deck, and then Special Summon 1 "Gladiator Beast" from your Deck. The Special Summoned monster is treated as if it was Special Summoned by the effect of a "Gladiator Beast" monster.
 
 *   The ① Unclassified Effect Special Summons this card without starting a Chain.
     *   This effect does not activate.
@@ -17049,7 +17049,7 @@ _① If you control a "Gladiator Beast" monster, you can Special Summon this car
 
   
 ## TETHYS, GODDESS OF LIGHT  
-_① When you draw a Fairy-Type monster(s), you can reveal 1 of those monsters to draw 1 more card._
+> ① When you draw a Fairy-Type monster(s), you can reveal 1 of those monsters to draw 1 more card.
 
 *   This ① optional Trigger Effect activates & resolves on the field.
     *   1 Fairy-Type monster you JUST drew is revealed to your opponent at activation.
@@ -17135,7 +17135,7 @@ _① When you draw a Fairy-Type monster(s), you can reveal 1 of those monsters t
 
   
 ## THE DARK - HEX-SEALED FUSION  
-_① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 DARK Fusion Monster from your Fusion Deck._
+> ① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 DARK Fusion Monster from your Fusion Deck.
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -17150,7 +17150,7 @@ _① You can substitute this card for any 1 Fusion Material Monster. The other F
 
   
 ## THE DARK CREATOR  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned, by having 5 or more DARK monsters in your Graveyard while you control no monsters. ① Once per turn, you can remove from play 1 DARK monster from your Graveyard to Special Summon 1 DARK monster from your Graveyard._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned, by having 5 or more DARK monsters in your Graveyard while you control no monsters. ① Once per turn, you can remove from play 1 DARK monster from your Graveyard to Special Summon 1 DARK monster from your Graveyard.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon Effect does not start a chain.
@@ -17177,7 +17177,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Speci
 
   
 ## THE EARTH - HEX-SEALED FUSION  
-_① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 EARTH Fusion Monster from your Fusion Deck._
+> ① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 EARTH Fusion Monster from your Fusion Deck.
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -17309,7 +17309,7 @@ _① You can substitute this card for any 1 Fusion Material Monster. The other F
 
   
 ## THE LIGHT - HEX-SEALED FUSION  
-_① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 LIGHT Fusion Monster from your Fusion Deck._
+> ① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 LIGHT Fusion Monster from your Fusion Deck.
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -17343,7 +17343,7 @@ _① You can substitute this card for any 1 Fusion Material Monster. The other F
 
   
 ## THE SIX SAMURAI - IROU  
-_① While you control another "Six Samurai" monster with a different name, if this card attacks a face-down Defense Position monster, destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead._
+> ① While you control another "Six Samurai" monster with a different name, if this card attacks a face-down Defense Position monster, destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 1 - Start of the Damage Step, before the Set monster if revealed.
@@ -17362,7 +17362,7 @@ _① While you control another "Six Samurai" monster with a different name, if t
 
   
 ## THE SIX SAMURAI - KAMON  
-_① Once per turn, while you control another "Six Samurai" monster with a different name, you can destroy 1 face-up Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead._
+> ① Once per turn, while you control another "Six Samurai" monster with a different name, you can destroy 1 face-up Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a face-up Spell / Trap Card anywhere on the field.
@@ -17385,7 +17385,7 @@ _① Once per turn, while you control another "Six Samurai" monster with a diffe
 
   
 ## THE SIX SAMURAI - NISASHI  
-_① While you control another "Six Samurai" monster with a different name, this card can attack twice during the same Battle Phase. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead._
+> ① While you control another "Six Samurai" monster with a different name, this card can attack twice during the same Battle Phase. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 
 *   The ① Continuous Effect does not activate, it applies on the field.
     *   This effect only applies if you control another "Six Samurai" monster with a different name.
@@ -17404,7 +17404,7 @@ _① While you control another "Six Samurai" monster with a different name, this
 
   
 ## THE SIX SAMURAI - YAICHI  
-_① Once per turn, while you control another "Six Samurai" monster with a different name, you can destroy 1 Set Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead._
+> ① Once per turn, while you control another "Six Samurai" monster with a different name, you can destroy 1 Set Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a face-down Spell / Trap Card anywhere on the field.
@@ -17427,7 +17427,7 @@ _① Once per turn, while you control another "Six Samurai" monster with a diffe
 
   
 ## THE SIX SAMURAI - YARIZA  
-_① While you control another "Six Samurai" monster with a different name, this card can attack your opponent directly. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead._
+> ① While you control another "Six Samurai" monster with a different name, this card can attack your opponent directly. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 
 *   The ① Continuous Effect does not activate, it applies on the field.
     *   This effect only applies if you control another "Six Samurai" monster with a different name.
@@ -17446,7 +17446,7 @@ _① While you control another "Six Samurai" monster with a different name, this
 
   
 ## THE SIX SAMURAI - ZANJI  
-_① While you control another "Six Samurai" monster with a different name, destroy any monster this card attacks at the end of the Damage Step.② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead._
+> ① While you control another "Six Samurai" monster with a different name, destroy any monster this card attacks at the end of the Damage Step.② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 7 - End of the Damage Step.
@@ -17511,7 +17511,7 @@ _① While you control another "Six Samurai" monster with a different name, dest
 
   
 ## THE WHITE STONE OF LEGEND  
-_① When this card is sent to the Graveyard, add 1 "Blue-Eyes White Dragon" from your Deck to your hand._
+> ① When this card is sent to the Graveyard, add 1 "Blue-Eyes White Dragon" from your Deck to your hand.
 
 *   This ① mandatory Trigger Effect activates & resolves in the Graveyard.
 *   This effect will activate even if no copies of "Blue-Eyes White Dragon" remain in your Deck. In this case: your opponent can briefly check your Deck to verify, unless all 3 copies of "Blue-Eyes White Dragon" can be accounted for in the Graveyard / field / removed from play (face-up).
@@ -17558,7 +17558,7 @@ _① When this card is sent to the Graveyard, add 1 "Blue-Eyes White Dragon" fro
 
   
 ## THOUGHT RULER ARCHFIEND  
-_① When this card destroys a monster by battle and sends it to the Graveyard, gain Life Points equal to that monster's original ATK. ② You can pay 1000 Life Points to negate the activation of a Spell or Trap Card that targets 1 Psychic-Type monster, and destroy it._
+> ① When this card destroys a monster by battle and sends it to the Graveyard, gain Life Points equal to that monster's original ATK. ② You can pay 1000 Life Points to negate the activation of a Spell or Trap Card that targets 1 Psychic-Type monster, and destroy it.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 7 - End of the Damage Step.
@@ -17633,7 +17633,7 @@ _① When this card destroys a monster by battle and sends it to the Graveyard, 
 
   
 ## THUNDER KING RAI-OH  
-_① Neither player can add cards from their Deck to their hand except by drawing them. ② You can send this face-up card to the Graveyard to negate the Special Summon of 1 of your opponent monsters, and destroy it._
+> ① Neither player can add cards from their Deck to their hand except by drawing them. ② You can send this face-up card to the Graveyard to negate the Special Summon of 1 of your opponent monsters, and destroy it.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   Cards / Effects that add a card(s) from Deck to hand (ex: "Terraforming", "Elemental Hero Stratos") cannot activate. Mandatory effects (like "Sangan" still activate, starting a chain).
@@ -17656,7 +17656,7 @@ _① Neither player can add cards from their Deck to their hand except by drawin
 
   
 ## THUNDER OF RULER  
-_You can only activate this card during your opponent's Standby Phase. Your opponent cannot conduct his/her Battle Phase this turn._
+> You can only activate this card during your opponent's Standby Phase. Your opponent cannot conduct his/her Battle Phase this turn.
 
 *   When you activate "Thunder of Ruler", since your opponent cannot enter the Battle Phase, your opponent proceeds from Main Phase 1 to the End Phase.
 *   VS. "Frozen Soul": The effect of "Frozen Soul" cannot be removed if your opponent cannot conduct their Battle Phase (by "Thunder of Ruler"). If "Thunder of Ruler" and "Frozen Soul" both resolved before your opponent attempted to enter their Battle Phase, then this first Battle Phase cannot be conducted (because of "Thunder of Ruler"), and the lingering effect of "Frozen Soul" will persist until a later turn where your opponent attempts to conduct their Battle Phase \[[REF](http://duelistgroundz.com/index.php?/topic/144344-frozen-soul-and-thunder-of-ruler/)\].
@@ -17725,7 +17725,7 @@ _You can only activate this card during your opponent's Standby Phase. Your oppo
 
   
 ## TONGUE TWISTER  
-_① If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play._
+> ① If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.
 
 *   The ① mandatory Trigger Effect activates & resolves in the Graveyard.
     *   The effect of "Tongue Twister" will only activate if it was Tribute Summoned. It will not activate if it was Tribute Set \[[REF](https://www.pojo.biz/board/showthread.php?t=826682)\].
@@ -17801,7 +17801,7 @@ _① If this card was Tribute Summoned, when it is sent from the field to the Gr
 
   
 ## TOTEM DRAGON  
-_① This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-Type monster. ② If this card is in your Graveyard during your Standby Phase and you control no monsters, you can Special Summon this card in Attack Position. You cannot activate this effect if there are any monsters in your Graveyard that are not Dragon-Type. Ⓒ If this card is Special Summoned with this effect, remove it from play when it is removed from the field._
+> ① This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-Type monster. ② If this card is in your Graveyard during your Standby Phase and you control no monsters, you can Special Summon this card in Attack Position. You cannot activate this effect if there are any monsters in your Graveyard that are not Dragon-Type. Ⓒ If this card is Special Summoned with this effect, remove it from play when it is removed from the field.
 
 *   The ① Unclassified Effect does not activate.
     *   This effect applies even if this card is face-down (like "Kaiser Sea Horse").
@@ -17833,7 +17833,7 @@ _① This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-T
 
   
 ## TRADE-IN  
-_Discard 1 Level 8 monster. Draw 2 cards._
+> Discard 1 Level 8 monster. Draw 2 cards.
 
 *   Discarding a Level 8 monster is a cost.
 *   This card can be activated while "Macro Cosmos" / "Dimensional Fissure" apply their effects.
@@ -17848,7 +17848,7 @@ _Discard 1 Level 8 monster. Draw 2 cards._
 
   
 ## TRAGOEDIA  
-_① You can Special Summon this card from your hand when you take Battle Damage. ② This card gains 600 ATK and DEF for each card in your hand. ③ Once per turn, you can send 1 monster from your hand to the Graveyard to take control of 1 face-up monster your opponent controls with the same Level as the sent monster. ④ Once per turn, you can select 1 monster in your Graveyard; this card's Level becomes the same as that monster's, until the End Phase._
+> ① You can Special Summon this card from your hand when you take Battle Damage. ② This card gains 600 ATK and DEF for each card in your hand. ③ Once per turn, you can send 1 monster from your hand to the Graveyard to take control of 1 face-up monster your opponent controls with the same Level as the sent monster. ④ Once per turn, you can select 1 monster in your Graveyard; this card's Level becomes the same as that monster's, until the End Phase.
 
 *   The ① optional Trigger Effect activates & resolves in the hand.
     *   This effect activates in Substep 5 - After Damage Calculation (after Battle Damage is dealt).
@@ -17888,7 +17888,7 @@ _① You can Special Summon this card from your hand when you take Battle Damage
 
   
 ## TRAP EATER  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by sending 1 face-up Trap Card your opponent controls to the Graveyard._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by sending 1 face-up Trap Card your opponent controls to the Graveyard.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon Effect does not start a Chain.
@@ -17901,7 +17901,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special
 
   
 ## TRAP HOLE  
-_Activate only when your opponent Normal Summons or Flip Summons a monster with 1000 or more ATK. Destroy that monster._
+> Activate only when your opponent Normal Summons or Flip Summons a monster with 1000 or more ATK. Destroy that monster.
 
 *   "Trap Hole" can only be activated during the Summon response window after a Normal or Flip Summon.
 *   "Trap Hole"targets the monster that was Summoned.
@@ -17972,7 +17972,7 @@ _Activate only when your opponent Normal Summons or Flip Summons a monster with 
 
   
 ## TRAP STUN  
-_Negate the effects of all other Trap Cards on the field during this turn._
+> Negate the effects of all other Trap Cards on the field during this turn.
 
 *   This effect does not prevent Trap Cards from being activated.
 *   Negate any effect of a Trap Card that activates & resolves on the field.
@@ -17985,7 +17985,7 @@ _Negate the effects of all other Trap Cards on the field during this turn._
 
   
 ## TREEBORN FROG  
-_① If this card is in your Graveyard during your Standby Phase and you control no Spell or Trap Cards, you can Special Summon it. This effect cannot be activated if you control a face-up “Treeborn Frog”._
+> ① If this card is in your Graveyard during your Standby Phase and you control no Spell or Trap Cards, you can Special Summon it. This effect cannot be activated if you control a face-up “Treeborn Frog”.
 
 *   The ① optional Trigger Effect activates & resolves in the Graveyard.
     *   This effect does not target. It is not negated by "Necrovalley".
@@ -18082,7 +18082,7 @@ _① If this card is in your Graveyard during your Standby Phase and you control
 
   
 ## TUNINGWARE  
-_① If this card is used for a Synchro Summon, you can treat it as a Level 2 monster. ② If this card is sent to the Graveyard for a Synchro Summon, draw 1 card._
+> ① If this card is used for a Synchro Summon, you can treat it as a Level 2 monster. ② If this card is sent to the Graveyard for a Synchro Summon, draw 1 card.
 
 *   The ① Unclassified Effect does not activate. It applies while this card is face-up on the field
     *   Applying this effect does not start a chain.
@@ -18249,7 +18249,7 @@ _① If this card is used for a Synchro Summon, you can treat it as a Level 2 mo
 
   
 ## TYTANNIAL, PRINCESS OF CAMELLIAS  
-_① You can Tribute 1 face-up Plant-Type monster you control to negate the activation of a Spell, Trap, or Effect Monster's effect that targets a card(s) on the field and destroy it._
+> ① You can Tribute 1 face-up Plant-Type monster you control to negate the activation of a Spell, Trap, or Effect Monster's effect that targets a card(s) on the field and destroy it.
 
 *   The ① Quick Effect activates & resolves on the field.
     *   Tributing 1 face-up Plant-Type monster (even itself) you control is a cost.
@@ -18283,7 +18283,7 @@ _① You can Tribute 1 face-up Plant-Type monster you control to negate the acti
 
   
 ## ULTIMATE ANCIENT GEAR GOLEM  
-_Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step. ③ If this card is destroyed, you can Special Summon 1 "Ancient Gear Golem" from your Graveyard, ignoring the Summoning conditions._
+> Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step. ③ If this card is destroyed, you can Special Summon 1 "Ancient Gear Golem" from your Graveyard, ignoring the Summoning conditions.
 
 *   The Ⓒ Condition cannot be negated.
     *   This card cannot be Special Summoned from the Graveyard / removed from play.
@@ -18340,7 +18340,7 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① During
 If you control "Ultimate Obedient Fiend" and have no hand and no other monsters, but you have Spell or Trap Cards on the field, "Ultimate Obedient Fiend" cannot attack.  
   
 ## ULTIMATE OFFERING  
-_①_ _You can pay 500 Life Points to Normal Summon or Set 1 extra monster. You can only activate this effect during your Main Phase or your opponent's Battle Phase._
+> ①_ _You can pay 500 Life Points to Normal Summon or Set 1 extra monster. You can only activate this effect during your Main Phase or your opponent's Battle Phase.
 
 *   The ① Quick-like Effect activates & resolves on the field. This card must remain face-up to resolve.
     *   Paying 500 Life Points is a cost.
@@ -18376,7 +18376,7 @@ _①_ _You can pay 500 Life Points to Normal Summon or Set 1 extra monster. You 
 
   
 ## UNIFROG  
-_① This card can attack your opponent directly. ② When this card successfully attacks directly, if you control a "Frog" monster other than "Frog the Jam" or "Unifrog", you can destroy 1 Spell or Trap your opponent controls._
+> ① This card can attack your opponent directly. ② When this card successfully attacks directly, if you control a "Frog" monster other than "Frog the Jam" or "Unifrog", you can destroy 1 Spell or Trap your opponent controls.
 
 *   The ① Continuous Effect applies on the field.
 *   The ② optional Trigger Effect activates & resolves on the field.
@@ -18418,7 +18418,7 @@ _① This card can attack your opponent directly. ② When this card successfull
 
   
 ## URGENT TUNING  
-_Activate only during the Battle Phase. Synchro Summon 1 Synchro Monster. (Send the appropriate Synchro Material Monsters to the Graveyard.)_
+> Activate only during the Battle Phase. Synchro Summon 1 Synchro Monster. (Send the appropriate Synchro Material Monsters to the Graveyard.)
 
 *   This card does not target.
 *   This card cannot be activated during the Damage Step.
@@ -18429,7 +18429,7 @@ _Activate only during the Battle Phase. Synchro Summon 1 Synchro Monster. (Send 
 
   
 ## URIA, LORD OF SEARING FLAMES  
-_Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by sending 3 face-up Trap Cards you control to the Graveyard. ① This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. ② Once per turn, you can destroy 1 Set Spell or Trap Card your opponent controls. (2C) Spell and Trap Cards cannot be activated in response to this effect's activation._
+> Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by sending 3 face-up Trap Cards you control to the Graveyard. ① This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. ② Once per turn, you can destroy 1 Set Spell or Trap Card your opponent controls. (2C) Spell and Trap Cards cannot be activated in response to this effect's activation.
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon effect does not start a chain.
@@ -18500,10 +18500,10 @@ _Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special
 
   
 ## VAN'DALGYON THE DARK DRAGON LORD  
-_① After a Counter Trap Card you control negates the activation of an opponent's card(s) or effect(s), you can Special Summon this card from your hand. ② Then activate the appropriate effects, based on the type of cards negated:  
+> ① After a Counter Trap Card you control negates the activation of an opponent's card(s) or effect(s), you can Special Summon this card from your hand. ② Then activate the appropriate effects, based on the type of cards negated:  
 • Spell: Inflict 1500 damage to your opponent.  
 • Trap: Select and destroy 1 card your opponent controls.  
-• Effect Monster: Select 1 monster in your Graveyard and Special Summon it._
+• Effect Monster: Select 1 monster in your Graveyard and Special Summon it.
 
 *   The ① optional Trigger Effect activates & resolves in the hand.
     *   This effect cannot be activated during the Damage Step \[[REF](http://duelistgroundz.com/index.php?/topic/70685-vandalgyon-the-dark-dragon-lord/)\].
@@ -18534,7 +18534,7 @@ _① After a Counter Trap Card you control negates the activation of an opponent
 
   
 ## VANITY'S FIEND  
-_Ⓒ This card cannot be Special Summoned. ① While this card is on the field, neither player can Special Summon monsters._
+> Ⓒ This card cannot be Special Summoned. ① While this card is on the field, neither player can Special Summon monsters.
 
 *   The Ⓒ Condition cannot be negated.
 *   The ① Continuous Effect applies while this card is face-up on the field. It does not activate.
@@ -18621,7 +18621,7 @@ _Ⓒ This card cannot be Special Summoned. ① While this card is on the field, 
 
   
 ## VERDANT SANCTUARY  
-_① When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand._
+> ① When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.
 
 *   The ① optional Trigger-like Effect can be activated during the Damage Step.
     *   This effect does not target the monster in the Graveyard.
@@ -18634,7 +18634,7 @@ _① When a face-up Insect-Type monster is destroyed and sent to the Graveyard, 
 
   
 ## VERSAGO THE DESTROYER  
-_① You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s)._
+> ① You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).
 
 *   The ① Unclassified Effect is not an Ignition, Trigger, Quick, or Continuous Effect. It does not activate.
     *   This effect does not target.
@@ -18658,7 +18658,7 @@ _① You can substitute this card for any 1 Fusion-Material Monster. When you do
 
   
 ## VICTORIA  
-_① Once per turn, you can select and Special Summon 1 Dragon-Type monster in your opponent's Graveyard to your side of the field. ② Your opponent cannot select another face-up Fairy-Type monster as an attack target._
+> ① Once per turn, you can select and Special Summon 1 Dragon-Type monster in your opponent's Graveyard to your side of the field. ② Your opponent cannot select another face-up Fairy-Type monster as an attack target.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets 1 Dragon-Type monster in your opponent’s Graveyard.
@@ -18700,7 +18700,7 @@ _① Once per turn, you can select and Special Summon 1 Dragon-Type monster in y
 
   
 ## VOLCANIC COUNTER  
-_① When you take Battle Damage while this card is in your Graveyard, remove it from play. Then, if there is a FIRE monster other than "Volcanic Counter" in your Graveyard, inflict damage to your opponent equal to the amount of Battle Damage you took._
+> ① When you take Battle Damage while this card is in your Graveyard, remove it from play. Then, if there is a FIRE monster other than "Volcanic Counter" in your Graveyard, inflict damage to your opponent equal to the amount of Battle Damage you took.
 
 *   The ① mandatory Trigger Effect activates & resolves in the Graveyard.
     *   This effect activates in Substep 5 - After Damage Calculation.
@@ -18742,7 +18742,7 @@ _① When you take Battle Damage while this card is in your Graveyard, remove it
 
   
 ## VOLCANIC SCATTERSHOT  
-_① When this card is sent to the Graveyard, inflict 500 damage to your opponent. ② If this card is sent to the Graveyard for the effect of a "Blaze Accelerator" card, you can send 2 "Volcanic Scattershots" from your hand / Deck to the Graveyard to destroy all monsters your opponent controls._
+> ① When this card is sent to the Graveyard, inflict 500 damage to your opponent. ② If this card is sent to the Graveyard for the effect of a "Blaze Accelerator" card, you can send 2 "Volcanic Scattershots" from your hand / Deck to the Graveyard to destroy all monsters your opponent controls.
 
 *   The ① mandatory Trigger Effect activates & resolves in the Graveyard.
     *   If this card is sent to the Graveyard for the effect of a “Blaze Accelerator” card, its effect to inflict 500 damage to your opponent does not activate. This UDE ruling applies in Edison Format \[[REF](https://www.pojo.biz/board/showthread.php?t=899897)\].
@@ -18754,7 +18754,7 @@ _① When this card is sent to the Graveyard, inflict 500 damage to your opponen
 
   
 ## VOLCANIC SHELL  
-_① Once per turn, while this card is in the Graveyard, you can pay 500 Life Points to add 1 “Volcanic Shell” from your Deck to your hand._
+> ① Once per turn, while this card is in the Graveyard, you can pay 500 Life Points to add 1 “Volcanic Shell” from your Deck to your hand.
 
 *   The ① Ignition Effect activates & resolves in the Graveyard.
     *   Paying 500 Life Points is a cost.
@@ -18798,7 +18798,7 @@ _① Once per turn, while this card is in the Graveyard, you can pay 500 Life Po
 
   
 ## W-WING CATAPULT  
-_① Once per turn, you can equip this card to a "V-Tiger Jet" you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, the equipped monster gains 400 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)_  
+> ① Once per turn, you can equip this card to a "V-Tiger Jet" you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, the equipped monster gains 400 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)  
   
 ## WABOKU
 
@@ -18855,7 +18855,7 @@ _① Once per turn, you can equip this card to a "V-Tiger Jet" you control, OR u
 
   
 ## WAVE-MOTION CANNON  
-_① During your Main Phase, you can send this card to the Graveyard to inflict 1000 damage to your opponent for each of your Standby Phases that have passed since this card was activated._
+> ① During your Main Phase, you can send this card to the Graveyard to inflict 1000 damage to your opponent for each of your Standby Phases that have passed since this card was activated.
 
 *   The ① Ignition-like Effect activates & resolves on the field.
     *   Sending "Wave-Motion Cannon" to the Graveyard is a cost.
@@ -18898,7 +18898,7 @@ _① During your Main Phase, you can send this card to the Graveyard to inflict 
 
   
 ## WHITE NIGHT DRAGON  
-_① Negate the activation of any Spell or Trap Card that targets this card, and destroy that card. ② When a face-up monster you control is selected as an attack target, you can send 1 Spell or Trap Card you control to the Graveyard to change the target to this card._
+> ① Negate the activation of any Spell or Trap Card that targets this card, and destroy that card. ② When a face-up monster you control is selected as an attack target, you can send 1 Spell or Trap Card you control to the Graveyard to change the target to this card.
 
 *   The ① Quick Effect activates & resolves on the field.
     *   This effect can be activated on either players turn, and even in the Damage Step.
@@ -19086,7 +19086,7 @@ _① Negate the activation of any Spell or Trap Card that targets this card, and
 
   
 ## X-SABER URBELLUM  
-_①_ _When this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck._
+> ①_ _When this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 5 - After Damage Calculation.
@@ -19095,7 +19095,7 @@ _①_ _When this card inflicts Battle Damage to your opponent while they have 4 
 
   
 ## XX-SABER FAULTROLL  
-_Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except while you control 2 or more face-up "X-Saber" monsters. ① Once per turn, you can Special Summon 1 Level 4 or lower "X-Saber" monster from your Graveyard._
+> Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except while you control 2 or more face-up "X-Saber" monsters. ① Once per turn, you can Special Summon 1 Level 4 or lower "X-Saber" monster from your Graveyard.
 
 *   The Ⓒ Summon Condition cannot be negated.
     *   This card can only be Special Summoned (by its effect) from the hand.
@@ -19107,7 +19107,7 @@ _Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Sum
 
   
 ## XX-SABER FULHELMKNIGHT  
-_① Once, while this card is face-up on the field; you can negate the attack of 1 of your opponent’s monsters. ② If this card destroys a Defense Position monster your opponent controls by battle, you can Special Summon 1 Level 4 or lower “X-Saber” monster from your Graveyard._
+> ① Once, while this card is face-up on the field; you can negate the attack of 1 of your opponent’s monsters. ② If this card destroys a Defense Position monster your opponent controls by battle, you can Special Summon 1 Level 4 or lower “X-Saber” monster from your Graveyard.
 
 *   This ① optional Trigger Effect activates & resolves on the field.
     *   This effect activates in Start of the Battle Step - Attack Declaration (like "Mirror Force").
@@ -19126,8 +19126,8 @@ _① Once, while this card is face-up on the field; you can negate the attack of
 
   
 ## XX-SABER GOTTOMS  
-_1 Tuner + 1 or more EARTH monsters  
-① You can Tribute 1 "X-Saber" monster to discard 1 random card from your opponent's hand._
+> 1 Tuner + 1 or more EARTH monsters  
+① You can Tribute 1 "X-Saber" monster to discard 1 random card from your opponent's hand.
 
 *   This card's Synchro Material does not specify the need for non-Tuners.
     *   You can Synchro Summon this card using all Tuner monsters, so long as 1+ are EARTH.
@@ -19171,13 +19171,13 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
 
   
 ## Y-DRAGON HEAD  
-_① Once per turn, during your Main Phase, you can equip this card to "X-Head Cannon" you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 400 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, you can equip this card to "X-Head Cannon" you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 400 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)
 
 *   If "Y-Dragon Head"'s ATK is doubled with "Limiter Removal", and then "Y-Dragon Head" is equipped to "X-Head Cannon", "Y-Dragon Head" is not destroyed at the end of the turn.
 
   
 ## YELLOW BABOON, ARCHER OF THE FOREST  
-_① When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand._  
+> ① When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand.  
   
 
 *   The ① optional Trigger Effect activates & resolves in the hand.
@@ -19260,7 +19260,7 @@ _① When a Beast-Type monster you control is destroyed by battle and sent to th
 
   
 ## Z-METAL TANK  
-_① Once per turn, during your Main Phase, you can equip this card to "X-Head Cannon" or "Y-Dragon Head" you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 600 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, you can equip this card to "X-Head Cannon" or "Y-Dragon Head" you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 600 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)
 
 *   If "Z-Metal Tank"'s ATK is doubled with "Limiter Removal", and then "Z-Metal Tank" is equipped to "X-Head Cannon", "Z-Metal Tank" is not destroyed at the end of the turn.
 
@@ -19281,7 +19281,7 @@ _① Once per turn, during your Main Phase, you can equip this card to "X-Head C
 
   
 ## ZOMBIE MASTER  
-_① Once per turn, you can send 1 Monster Card from your hand to the Graveyard to Special Summon 1 Level 4 or lower Zombie-Type Monster from either player's Graveyard._
+> ① Once per turn, you can send 1 Monster Card from your hand to the Graveyard to Special Summon 1 Level 4 or lower Zombie-Type Monster from either player's Graveyard.
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Sending 1 Monster Card from your hand to the Graveyard is a cost.
@@ -19294,13 +19294,13 @@ _① Once per turn, you can send 1 Monster Card from your hand to the Graveyard 
 
   
 ## ZOMBIE TIGER  
-_① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Decayed Commander" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 500 points, and each time it destroys 1 of your opponent's monsters, your opponent discards 1 card randomly from his/her hand. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)_
+> ① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Decayed Commander" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 500 points, and each time it destroys 1 of your opponent's monsters, your opponent discards 1 card randomly from his/her hand. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
 
 *   When a monster equipped with "Zombie Tiger" destroys another monster, the discard effect is applied before the destroyed monster is sent to the Graveyard.
 
   
 ## ZOMBIE WORLD  
-_① All monsters on the field and in any Graveyard become Zombie-Type monsters. ② Neither player can Tribute Summon monsters, except Zombie-Type monsters._
+> ① All monsters on the field and in any Graveyard become Zombie-Type monsters. ② Neither player can Tribute Summon monsters, except Zombie-Type monsters.
 
 *   The ① Continous-like Effect does not activate.
     *   This effect does not target.
