@@ -31,7 +31,7 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > ① Once per turn, you can flip this card into face-down Defense Position. ② When this card attacks an opponent's face-down Defense Position monster, this card's ATK becomes 2400 during damage calculation only.
 
 *   The ① Ignition Effect activates & resolves on the field.
-    *   If you use this effect, then Flip Summon this card: you cannot used this effect again that turn \[[REF](/home/basic-strategy-flip-flop-fundamentals)\].
+    *   If you use this effect, then Flip Summon this card: you cannot used this effect again that turn \[[REF](https://www.edisonformat.com/home/basic-strategy-flip-flop-fundamentals)\].
 *   The ② mandatory Trigger Effect activates & resolves on the field.
     *   This effect is applied if the condition is correct on activation ("8-Claws Scorpion" declared an attack against a face-down Defense Position monster.) The target monster does not have to be in face-down Defense Position when the effect of "8-Claws Scorpion" is resolved. So if "Final Attack Orders" is active, or "Ceasefire" flips the monster face-up, "8-Claws Scorpion" still gets its 2400 ATK.
     *   The ATK of "8-Claws Scorpion" becomes 2400 during damage calculation. You cannot chain "Rush Recklessly" or "Blast with Chain" to this effect. If these cards were activated before damage calculation, then the ATK of "8-Claws Scorpion" becomes 2400 during damage calculation so those cards have no effect on its ATK.
@@ -181,7 +181,7 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 7 - End of the Damage Step.
-    *   This card must be face-up on the field to activate this effect \[[REF](/home/basic-strategy-will-it-trigger)\].
+    *   This card must be face-up on the field to activate this effect \[[REF](https://www.edisonformat.com/home/basic-strategy-will-it-trigger)\].
     *   The Level is the original Level printed on the card.
 
   
@@ -2686,7 +2686,7 @@ The following rulings apply to "Vilepawn Archfiend", "Desrook Archfiend", "Shado
     *   what method / effect Summoned it (ex: "Exodius the Ultimate Forbidden Lord").
     *   where it was Summoned from.
     *   lingering effects that previously applies to it (like "Limited Removal").
-    *   if it used its "once per turn" effect(s) earlier this turn (read about exceptions [HERE](/home/basic-strategy-flip-flop-fundamentals)).
+    *   if it used its "once per turn" effect(s) earlier this turn (read about exceptions [HERE](https://www.edisonformat.com/home/basic-strategy-flip-flop-fundamentals)).
     *   if it was Normal Summoned again (in the case of Gemini Monsters).
     *   if it had been Flip Summoned.
 *   You cannot flip a Monster Token face-down because Monster Tokens are always face-up.
@@ -11647,7 +11647,7 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
     *   Paying 1000 or 2000 Life Points is a cost.
     *   You cannot pay 3000 Life Points to Normal Summon "Victory Dragon" or "Gilford the Lightning", so you cannot use this effect to Normal Summon "Obelisk the Tormentor" \[[REF](https://www.pojo.biz/board/showthread.php?t=814931)\].
     *   The Normal Summoned monster (ex: "Caius the Shadow Monarch") was NOT Tribute Summoned.
-    *   The Normal Summon CANNOT be negated by "Solemn Judgment" \[[REF](/home/rules-update-when-not-immediately-after-this-effect-resolves)\].
+    *   The Normal Summon CANNOT be negated by "Solemn Judgment" \[[REF](https://www.edisonformat.com/home/rules-update-when-not-immediately-after-this-effect-resolves)\].
     *   The Normal Summon can be responded to with "Torrential Tribute".
     *   You cannot use the effect of "Spell Economics" to activate this effect without paying Life Points.
     *   This effect cannot be used when resolving the effect of “Ultimate Offering”, because you cannot activate “Mausoleum of the Emperor’s” effect during the resolution of “Ultimate Offering’s” effect.
@@ -18347,7 +18347,7 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other monsters,
     *   This effect does not use your 1 Normal Summon / Set per turn.
     *   The Normal Summon can be a Tribute Summon, no monster is Tributed until this effect resolves.
     *   The Normal Summon / Set occurs while (not after) this effect resolves.
-    *   The Normal / Tribute Summon performed CANNOT be negated by "Solemn Judgment" \[[REF](/home/rules-update-when-not-immediately-after-this-effect-resolves)\].
+    *   The Normal / Tribute Summon performed CANNOT be negated by "Solemn Judgment" \[[REF](https://www.edisonformat.com/home/rules-update-when-not-immediately-after-this-effect-resolves)\].
     *   If this effect resolves as Chain Link 1, "Torrential Tribute" can activate \[[REF](https://www.pojo.biz/board/showthread.php?t=26817)\].
     *   This effect can be activated during your Main Phase or your opponent’s Battle Phase.
     *   If this card is face-up, you can activate this effect multiple times in the same Chain. If you cannot perform every Normal Summon / Set when resolving the chain: reveal your hand to verify.
@@ -18423,7 +18423,7 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other monsters,
 *   This card does not target.
 *   This card cannot be activated during the Damage Step.
 *   The Synchro Summon occurs when this effect resolves, it does not occur "_immediately after this effect resolves._" as seen in the most recent erratum.
-*   "Solemn Judgment" cannot negate the Synchro Summon performed when this effect resolves \[[REF](/home/rules-update-when-not-immediately-after-this-effect-resolves)\].
+*   "Solemn Judgment" cannot negate the Synchro Summon performed when this effect resolves \[[REF](https://www.edisonformat.com/home/rules-update-when-not-immediately-after-this-effect-resolves)\].
 *   If the number of monsters you control changes due to an effect chained to “Urgent Tuning”, and you do not have a Synchro Monster of a Level you could Summon when “Urgent Tuning” resolves, you must show your Extra Deck to your opponent to prove that you cannot Summon a monster. You do not have to show your Extra Deck to your opponent if you would not be able to Synchro Summon at all when “Urgent Tuning” resolves. (Because you control only 1 monster, or control only Tuner monsters, etc.)
 *   You can use monsters that are not affected by Trap Cards, like “Elemental Hero Wildheart” as Synchro Material Monsters for “Urgent Tuning”.
 
