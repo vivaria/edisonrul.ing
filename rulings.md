@@ -99,7 +99,6 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > A player cannot attack face-down monsters during this turn.
 
 *   If "A Feint Plan" is activated and you control only face-down monsters, your opponent cannot attack any of your monsters and they cannot attack your Life Points directly either.
-
 *   If you activate "A Feint Plan" after your opponent declares an attack against one of your face-down monsters, that attack resolves as normal, but they cannot attack other face-down monsters for the remainder of the turn. (This is because "A Feint Plan" prevents declaring an attack against a face-down monster, and the attack has already been declared by the time "A Feint Plan" resolves during the Battle Step.)
 
   
@@ -107,9 +106,7 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > You can only activate this card when your opponent declares an attack. Your opponent selects 1 random card from your hand. If it is a Monster Card, Special Summon it on your side of the field. If not, send it to the Graveyard.
 
 *   You can Special Summon a high-level monster, like "Dark Magician", with "A Hero Emerges". But if your opponent selects a Special Summon-only monster like "Dark Necrofear", or a Spirit Monster, it is sent to the Graveyard.
-
 *   When "Guardian Elma" is selected for "A Hero Emerges", and you have "Butterfly Dagger - Elma" on your side of the field, you can Special Summon her, but if you don't have it, then she is sent to the Graveyard.
-
 *   You can activate "A Hero Emerges" even if you have only 1 card in your hand.
 
   
@@ -135,7 +132,6 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
 *   If you Set "A Man with Wdjat", its effect is not activated.
-
 *   Any effects of the card you look at are not activated when you look at them with "A Man with Wdjat" (such as a Flip Effect, or if it is a Trap Card, etc.).
 
   
@@ -143,9 +139,7 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.
 
 *   For the effect of “A Rival Appears!”, refer to the levels of the monster on the field and the monster in the hand at the time “A Rival Appears!” resolves (for purposes of “Cost Down”, “Level Conversion Lab”, “Mystical Space Typhoon” in a chain destroying “Demotion”, etc.)
-
 *   If the opponent’s monster is face-down or not on the field when “A Rival Appears!” resolves, then its effect disappears.
-
 *   If you do not have a monster of the same level as the target, you cannot activate “A Rival Appears!”
 
   
@@ -153,9 +147,7 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > Return 1 face-up Level 5 or higher Dragon-Type monster you control to the owner's hand and destroy all Spell and Trap Cards.
 
 *   "A Wingbeat of Giant Dragon" targets 1 Level 5 or higher Dragon-Type monster.
-
 *   If you target a Level 5 or higher Dragon-Type Fusion / Synchro Monster, it is returned to the Extra Deck.
-
 *   If the target is flipped face-down / leaves the field / has its Monster Type changed, "A Wingbeat of Giant Dragon"'s effect disappears.
 
   
@@ -164,7 +156,6 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 
 *   The ① Ignition Effect activates & resolves on the field.
 *   If you call the coin toss wrong for “Abare Ushioni” you can still prevent the damage with “Pikeru’s Circle of Enchantment”, etc.
-
 *   You cannot chain “Barrel Behind the Door” to the effect of “Abare Ushioni” because you don’t know yet if you will take damage or not from the effect.
 
   
@@ -172,7 +163,6 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.
 
 *   When "Absolute End" is activated during an attack, that attack becomes a direct attack.
-
 *   If "Taunt" and "Absolute End" are both active, the attack becomes a direct attack to your Life Points. This is because the attack target is the monster selected by "Taunt", but then "Absolute End" turns it into a direct attack.
 
   
@@ -195,9 +185,7 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > Select 1 face-down Defense Position monster. Flip it face-up, and if the DEF of the monster is 2000 points or less, destroy the monster. If the DEF is more than 2000 points, return the monster to face-down Defense Position.
 
 *   A face-down "Jinzo" will be destroyed by this card.
-
 *   If the monster flipped face-up has an effect that changes its DEF, such as "Enraged Muka Muka", calculate the current DEF, then determine if it will be destroyed or flipped back face-down. So if you had 4 cards in your hand, "Enraged Muka Muka" would not be destroyed.
-
 *   If the targeted monster has a Flip Effect, that Effect is activated whether the DEF is greater than 2000 or not. If the DEF of the selected monster is 2000 or less, such as a "Hane-Hane", it can not select itself for its Flip Effect since it is destroyed.
 
   
@@ -205,12 +193,10 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > Activate only when your opponent Summons a monster(s). While that monster(s) is face-up on the field, its original ATK is halved.
 
 *   "Adhesion Trap Hole" works against "a monster or monsters", so "Adhesion Trap Hole" does NOT target.
-
 *   When "Cyber Jar" is activated, you may use "Adhesion Trap Hole" against all monsters your opponent Special Summons in face-up Attack Position, but "Adhesion Trap Hole" has no effect on any monsters your opponent Special Summons face-down.
 *   "Adhesion Trap Hole" cannot affect monsters Special Summoned face-down with "The Shallow Grave", "Morphing Jar #2", etc.
 *   If a monster affected by "Adhesion Trap Hole" is flipped face-down (with "Book of Moon", etc.), "Adhesion Trap Hole"'s effect disappears and the monster's ATK is back to normal.
 *   "Adhesion Trap Hole" halves the original ATK, so if you activate another effect that alters ATK, halve the original ATK first and then resolve the other ATK-modifying effect.
-
 *   If a monster affected by "Adhesion Trap Hole" is then equipped with "Megamorph", only "Megamorph"'s effect applies.
 
   
@@ -244,7 +230,6 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > Select 1 Ritual Monster in your hand. Send Normal Monsters from your Deck to the Graveyard whose total Levels are equal to that Ritual Monster's. Ritual Summon a card with the name of the selected Ritual Monster from your hand.
 
 *   This effect does not target anything.
-
 *   You choose the Ritual Monster you want to Ritual Summon when the effect resolves.
 *   You send the Normal Monsters from your Deck to the Graveyard when the effect resolves.
 
@@ -261,10 +246,8 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn.
 
 *   This card's title has been changed to "After the Struggle". If you have a card titled "After Genocide" its name is treated as "After the Struggle".
-
 *   Even if the Battle Damage is reduced to 0 by the effect of "Waboku", "Kuriboh", "Sanga of the Thunder", etc., both the attacking and defending monster are still destroyed during the End Step by this card’s effect.
 *   If you activate "After the Struggle", even a monster that performs a direct attack will be destroyed by this card’s effect during the End Step.
-
 *   Note that "After the Struggle" will destroy monsters during the End Step, not the End Phase.
 
   
@@ -272,10 +255,8 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn.
 
 *   This card's title has been changed to "After the Struggle". If you have a card titled "After Genocide" its name is treated as "After the Struggle".
-
 *   Even if the Battle Damage is reduced to 0 by the effect of "Waboku", "Kuriboh", "Sanga of the Thunder", etc., both the attacking and defending monster are still destroyed during the End Step by this card’s effect.
 *   If you activate "After the Struggle", even a monster that performs a direct attack will be destroyed by this card’s effect during the End Step.
-
 *   Note that "After the Struggle" will destroy monsters during the End Step, not the End Phase.
 
   
@@ -314,9 +295,7 @@ On this page you will find the text of [Edisonformat.com](https://www.edisonform
 > The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the Graveyard, draw 1 card.
 
 *   Monsters with an original ATK that is already 0 are not affected by "Alchemy Cycle". You will not draw a card when they are destroyed by battle.
-
 *   The effect to draw 1 card starts a Chain.
-
 *   Monsters Summoned or flipped face-up after "Alchemy Cycle" resolves will not have their original ATK become 0.
 
   
@@ -450,7 +429,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
     *   This effect targets a face-up monster on your opponent's field.
     *   If "Book of Moon" is chained to the activation of "Allure Queen LV3"'s effect to turn the "Allure Queen" face-down, the target is destroyed. It cannot be equipped to a face-down monster.
     *   You can equip a monster to “Allure Queen LV3” that is having its Level reduced to 3 or lower by an effect, like “Demotion”.
-
 *   The ② Continuous Effect applies while this card is face-up on the field.
     *   Applying this effect does not start a Chain.
     *   The destroyed monster (that was equipped) is not considered to be destroyed by battle.
@@ -504,9 +482,7 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > Select 1 monster on your side of the field and send it to the Graveyard. Increase your Life Points by an amount equal to the original ATK of the monster.
 
 *   Sending a monster to the Graveyard for "Altar for Tribute" is a cost.
-
 *   You can select a Token Monster as the cost for "Altar for Tribute", but you won't gain any Life Points because Tokens are taken off the field instead of going to the Graveyard.
-
 *   You can send your opponent's monster that you control to the Graveyard as the cost for "Altar for Tribute", and you would gain the Life Points.
 
   
@@ -521,7 +497,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > You can activate this card when your opponent declares an attack and if there is a monster(s) on your side of the field that includes "Amazoness" in its card name, or is named "Amazon Archer". All monsters on your opponent's side of the field are changed to face-up Attack Position (Flip Effects are not activated), and as long as they remain face-up on the field, their ATK(s) are decreased by 500 points. Your opponent must attack with all of his/her monsters.
 
 *   "These monsters" means all of your opponent's face-up monsters on the field at the time "Amazoness Archers" resolves, not just the monsters that were flipped by "Amazoness Archers"' effect.
-
 *   If you activate "Amazoness Archers" during the Battle Phase and your opponent Special Summons another monster afterwards (such as with "Call of the Haunted", or if "Cyber Jar" is flipped), the newly-Summoned monster is not affected by "Amazoness Archers" and does not suffer the -500 ATK reduction nor does it have to attack.
 *   The -500 ATK applies to each monster as long as that monster remains face-up on the field. You can activate multiple "Amazoness Archers" and the ATK reductions are cumulative (so -1000 ATK with 2 copies).
 *   "Amazoness Archers" vs. "Cat's Ear Tribe": the ATK is 200.
@@ -530,7 +505,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 *   The effect of "Amazoness Archers" will make your opponent have to attack with all of his monsters if he has multiple monsters on his side of the field. If "Amazoness Archers" is in effect, and later a replay occurs, your opponent cannot choose not to attack.
 *   Monsters that have already attacked cannot attack again. If "The Dark Door" is active, your opponent still can only attack with 1 monster. Monsters which cannot attack still cannot attack (Toon Monsters the turn they are Summoned, "Ultimate Obedient Fiend" under the wrong conditions, etc.) If "Diffusion Wave-Motion" is in effect, only the monster affected by "Diffusion Wave-Motion" can attack. The ATK reduction of "Amazoness Archers" is still applied in these cases where monsters cannot attack.
 *   If you activate "Amazoness Archers" and chain "Magic Cylinder", "Magic Cylinder" does the full damage before the -500 ATK is applied; your opponent's other monsters must attack normally. If you chain "Amazoness Archers" to "Magic Cylinder", the ATK is reduced first and then "Magic Cylinder" does damage.
-
 *   If either player chains "Negate Attack" to "Amazoness Archers", the Battle Phase ends because of "Negate Attack"'s effect.
 
   
@@ -563,7 +537,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 *   The ATK of this card should be 1500 ATK (this card had 1300 ATK when first printed \[[REF](https://yugipedia.com/wiki/Card_Errata:Amazoness_Fighter)\]).
 *   If "Dark Ruler Ha Des" attacks "Amazoness Fighter", the effect of "Amazoness Fighter" is still applied.
 *   When "Amazoness Fighter" battles "Amazoness Swordswoman", the damage to Life Points is zero.
-
 *   When a monster quipped with "Wicked-Breaking Flamberge - Baou" attacks "Amazoness Fighter" or "Amazoness Swordswoman", the effects of the Amazonesses are applied.
 
   
@@ -578,11 +551,9 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > Until the end of this turn, switch the original ATK of 1 face-up monster on your side of field that includes "Amazoness" in its card name or is named "Amazon Archer", with the original ATK of 1 face-up monster on your opponent's side of the field.
 
 *   "Amazoness Spellcaster" targets (it targets 2 monsters), so when you activate "Amazoness Spellcaster" you select 1 face-up Amazoness on your side of the field and 1 face-up monster on your opponent's side of the field.
-
 *   You can select "Gradius' Option" as the other monster, and the original ATK of the Amazoness will now be the ATK of "Gradius' Option" at the time "Amazoness Spellcaster" resolves. The ATK of "Gradius' Option" remains as the ATK of "Gradius" and does not become the ATK of the Amazoness.
 *   If you activate "Amazoness Spellcaster", and chain "Dramatic Rescue", "Amazoness Spellcaster"'s effect disappears.
 *   If you switch ATKs with "Amazoness Spellcaster", and one of the monsters is equipped with "Megamorph", after the switch, you change the ATK of the monster that is equipped with "Megamorph" using the effect of "Megamorph". With "Shield & Sword", since these are both Normal Spell Cards, you resolve them in the order of their activation, and recalculate their ATKs in that order.
-
 *   If either of the targeted monsters is affect by "Shrink" before "Amazoness Spellcaster" resolves, the ATK values printed on the monsters will be switched, and the effect of "Shrink" effectively disappears. If a monster that has its original ATK changed by "Amazoness Spellcaster" is affected by "Shrink", its ATK will become half of the changed original ATK.
 
   
@@ -591,12 +562,10 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
 *   "Amazoness Swordswoman" only applies her effect to Battle Damage to her controller, so if attacked by a stronger monster, the "Amazoness Swordswoman" herself is still destroyed as normal.
-
 *   Damage inflicted to the opponent when "Amazoness Swordswoman"'s effect is activated is Battle Damage, so the opponent cannot use "Barrel Behind the Door".
 *   When "Dark Ruler Ha Des" attacks "Amazoness Swordswoman", the effect of "Amazoness Swordswoman" is still resolved.
 *   When a monster affected by "Diffusion Wave-Motion" attacks "Amazoness Swordswoman", the "Amazoness Swordswoman"'s effect is applied and the opponent (who used "Diffusion Wave-Motion") takes the damage dealt to Life Points. Likewise, the controller of "Spear Dragon" takes damages when "Spear Dragon" battles "Amazoness Swordswoman" (or the controller of a monster equipped with "Fairy Meteor Crush", or who used "Meteorain").
 *   When the controller of "Amazoness Swordswoman" uses "Kuriboh", the controller takes zero Battle Damage so no damage is dealt to the opponent.
-
 *   When "Susa Soldier" battles "Amazoness Swordswoman", the controller of "Susa Soldier" takes full damage; the damage is NOT halved.
 
   
@@ -609,7 +578,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
     *   If both players have a face-up "Amazoness Tiger" and you give your opponent your "Amazoness Tiger" with "Creature Swap", then your "Amazoness Tiger" is destroyed.
     *   If both players give their "Amazoness Tigers" to each other with "Creature Swap", neither is destroyed.
     *   If you pick up 2 "Amazoness Tigers" with "Cyber Jar", you must place both face-down, or place 1 face-up and 1 face-down.
-
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   "Amazoness Tiger" increases its own ATK.
     *   You can use "Bottomless Trap Hole" against "Amazoness Tiger" because its ATK is at least 1500 when Summoned.
@@ -630,7 +598,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > Activate only when a face-up "Venom" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked.
 
 *   This card’s effect to “…end the Battle Phase.” causes play to enter the End Step of the Battle Phase. The Venom Counter is placed on the monster that attacked, then any other effects that happen “at the end of the Battle Phase” are resolved.
-
 *   If you activate "Ambush Fangs", and the attacking monster's attack is negated by a card chained to "Ambush Fangs ("Negate Attack", etc.), you cannot place a Venom Counter on the monster that attacked.
 
   
@@ -655,7 +622,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > Equip only to "Jinzo". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.
 
 *   Note that "Amplifier"'s activation and effect cannot be negated. This is written on the card.
-
 *   It is the controller of "Jinzo" equipped with "Amplifier", not the controller of "Amplifier", that can activate Trap Cards.
 *   If you equip "Amplifier" to your opponent's "Jinzo", then your opponent can activate Trap Cards and they will not be negated.
 *   If you control 2 "Jinzos" and only 1 is equipped with "Amplifier", you cannot activate Trap Cards.
@@ -663,7 +629,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 *   If you activate "Mask of Restrict" and you have "Jinzo" with "Amplifier", "Mask of Restrict" is not negated and its effect still applies, so neither player may Tribute.
 *   If the controller of "Jinzo" with "Amplifier" has activated the effects of "Regulation of Tribe", "Spatial Collapse", "Robbin' Goblin", "Robbin' Zombie", "Curse of Darkness", etc., their effects are not negated, but if the opponent activates them, they ARE negated.
 *   If your "Amplifier" is switched from your "Jinzo" to your opponent's "Jinzo" with "Tailor of the Fickle", then your Jinzo is not destroyed.
-
 *   You cannot activate a card that would cause an infinite loop because its effect cannot resolve completely. Example #1: You activate "Snatch Steal" targeting your opponent's "Jinzo". You then equip "Jinzo" with "Amplifier". You cannot activate "Imperial Order" because it cannot resolve completely (it would negate "Snatch Steal", returning "Jinzo" to your opponent, which would negate "Imperial Order" so "Snatch Steal" would re-activate). If you activate "Imperial Order" by mistake in such a situation, flip it face-down again. Example #2: you control "Jinzo" equipped with "Amplifier" and "Skill Drain". Your opponent cannot activate "Royal Decree".
 
   
@@ -671,7 +636,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the Graveyard, you can return it to the top of the Deck.
 
 *   The increase in ATK is applied only during Damage Calculation.
-
 *   This card’s effect to return itself to the top of the Deck starts a Chain.
 
   
@@ -679,10 +643,8 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected Field Spell Card to your hand instead.
 
 *   Show the card to your opponent.
-
 *   If "Imperial Order" & "Necrovalley" are both active, and "An Owl of Luck" is flipped, you add the card to your hand because "Necrovalley" is face-up on the field, even though its effect is negated.
 *   If "Mystical Space Typhoon" is chained to the effect to destroy "Necrovalley", so that "Necrovalley" is not on the field when this effect resolves, you cannot place the card in your hand.
-
 *   You select the card for this effect when the effect resolves, not when it activates.
 
   
@@ -699,7 +661,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
     *   Only the controller of this card can use these effects.
     *   This card’s effects are not applied until its activation is resolved. If you have 1 "Crystal Beast" monster in your Spell & Trap Card Zones when you activate this card, and your opponent Chains “Mystical Space Typhoon,” etc., this card will be destroyed.
     *   If “Crystal Beast” monsters in your Spell & Trap Card Zones are destroyed in a Chain to the activation of any of this card’s effects that can be chained to, then this card’s effect is not applied. The correct number of “Crystal Beast” monsters must be in your Spell & Trap Card Zones when the effect resolves.
-
 *   The (1+) Continuous-like Effect applies while this card is face-up on the field.
     *   This card can be targeted by “Mystical Space Typhoon,” etc., but this card will not be destroyed.
     *   If you control this card and have at least 1 “Crystal Beast” in your Spell & Trap Card Zones, and they would all be destroyed at the same time then “Ancient City – Rainbow Ruins” is not destroyed.
@@ -716,7 +677,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 *   The (4+) Ignition-like Effect activates & resolves on the field.
     *   This effect can only be used once a turn, even if the number of “Crystal Beast” cards in your Spell & Trap Card Zones becomes less than 4, and then becomes 4 or more again after you have used it in a given turn.
     *   You must have 4+ “Crystal Beast” monsters in your Spell & Trap Card Zones to resolve this effect.
-
 *   The (5) Ignition-like Effect activates & resolves on the field.
     *   This effect targets 1 “Crystal Beast” card in your Spell & Trap Card Zones.
     *   You must have 5 “Crystal Beast” monsters in your Spell & Trap Card Zones to resolve this effect.
@@ -825,10 +785,8 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 
 *   Discarding 1 card is a cost.
 *   You must show your chosen card to your opponent to verify that it is a Spell Card.
-
 *   You can select a Field Spell Card but you must Set it in your Field Card Zone.
 *   “You cannot use that Spell Card this turn” means that you cannot activate it, and you cannot use it to pay a cost for Summoning “Anteatereatingant” or for the effect of a card like “Emergency Provisions” or “Elemental Hero Tempest”.
-
 *   If you get a Spell Card with “Ancient Gear Drill” and then return it to your hand with “Giant Trunade”, restrictions no longer apply so you can use it as normal.
 
   
@@ -855,9 +813,7 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > Select 1 "Ancient Gear" monster in your hand and show it to your opponent. Remove from play "Ancient Gear" cards in your Graveyard whose total Levels are equal to double the selected card's. You can Normal Summon the selected card without Tributes this turn.
 
 *   You reveal your chosen “Ancient Gear” monster when the effect of “Ancient Gear Factory” resolves. Not when it is activated.
-
 *   You can activate “Ancient Gear Factory” and then decide not to Summon the revealed monster.
-
 *   You cannot select a monster for “Ancient Gear Factory” that you could not Tribute Summon, such as Level 4 and lower monsters.
 
   
@@ -873,7 +829,6 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 
 *   The ① Continous Effect of gaining effect(s) by Tributing a "Gadget" does not activate.
     *   When you Tribute Summon this card by Tributing a "Gadget" monster, it does not start a chain. Gaining the appropriate effect is a Continuous Effect.
-
 *   The "Green Gadget" Continuous Effect does not start a Chain.
     *   This effect applies immediately, since it does not start a Chain.
 *   The ("Red Gadget") Trigger Effect is mandatory.
@@ -982,12 +937,10 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 > Each Player selects 1 card from his/her hand, then looks at the Level of the selected cards. The card with more Levels returns to the hand of the player who selected it. The player who selected the card with fewer Levels takes 1000 Life Points damage and sends the card to the Graveyard. If a non-Monster Card is selected, it is treated as Level 0. If they are the same Level, each player returns his/her card to his/her hand.
 
 *   If "Ante" is the only card in your hand, you cannot activate it.
-
 *   If your opponent has no cards in his hand, you cannot activate "Ante".
 *   You select cards at the resolution of "Ante"'s effect, not at "Ante"'s activation.
 *   You cannot chain "Barrel Behind the Door" to "Ante" because you don't know for certain whether you will take damage.
 *   If either player chains "Raigeki Break" or "Last Turn" to "Ante" and then has no cards at resolution of "Ante"'s effect, "Ante"'s effect disappears.
-
 *   When "A Legendary Ocean" is active and you activate "Ante", when you check the Level, treat the Levels of WATER monsters in the hand as 1 lower for purposes of "Ante".
 
   
@@ -2716,7 +2669,6 @@ The following rulings apply to "Vilepawn Archfiend", "Desrook Archfiend", "Shado
 
 *   The ① Continuous Effect constantly re-calculates the ATK gain. This effect does not activate.
     *   This effect stops re-calculating if a non-continuous effect (ex: "Blackwing - Gale the Whirlwind") changes the ATK value of "Botanical Lion".
-
 *   The ② Continuous Effect prevents any attempt to change control of this face-up card.
     *   This effect prevents "Botanical Lion" from becoming an Equip Spell by the effect of "Relinquished".
     *   A face-down "Botanical Lion" can still change control (by "Mind Control" / "Creature Swap").
@@ -2752,7 +2704,6 @@ The following rulings apply to "Vilepawn Archfiend", "Desrook Archfiend", "Shado
 *   "Bountiful Artemis" must be face-up on the field in order to apply this effect.
 *   This effect will not apply for any Counter Trap Cards which might [negate the Summon](https://www.edisonformat.com/summons.html) of Artemis.
 *   You will draw 1 card immediately after a Counter Trap’s effects have resolved.
-
 *   This effect will activate even if your opponent is the one who resolved the effect of a Counter Trap.
 *   If “Seven Tools of the Bandit” negates the activation of another Counter Trap Card (ex: “Magic Jammer”), you do not draw a card for “Magic Jammer” since its activation was negated.
 
@@ -2952,7 +2903,6 @@ Also see rulings for “Dark World Monsters”.
 *   The ① mandatory Trigger Effect activates when Caius is successfully Tribute Summoned.
 *   If the target is a DARK Monster Card when banished, inflict 1000 Points of damage.
     *   Your opponent CAN use "Gorz, the Emissary of Darkness"'s effect in response to the Effect Damage which was inflicted AFTER their only card (a DARK monster) was banished.  
-        
     *   DO NOT inflict damage if the monster is not DARK when banished by this effect.  
         *   Examples include Token Monsters, Trap Monster, Monsters who are only DARK while face-up on the field (ex: "Light and Darkness Dragon").  
             
@@ -2960,7 +2910,6 @@ Also see rulings for “Dark World Monsters”.
         *   Examples include "Battle Fader", and "Plaguespreader Zombie".  
             
     *   DO inflict damage when a DARK Monster equipped to "Relinquished" is removed from play.  
-        
     *   The target must remain on the field in order to be removed from play by this effect.
 *   You CAN Tribute Summon Caius while "Imperial iron Wall" is active.
     *   This effect STILL activates while "Imperial Iron Wall" is active (starting a chain). A target it declared, but no cards can be removed from play while "Imperial Iron Wall"'s effect applies.
@@ -3060,7 +3009,6 @@ Also see rulings for “Dark World Monsters”.
     *   This effect CANNOT be activated if "Dimension Fortress Weapon" is face-up on the field.
     *   This effect CANNOT be activated while "Dimensional Fissure" / "Macro Cosmos" is active.
     *   The ATK gained by this effect disappears if "Card Trooper" ceases to be face-up or has its effect negated (by "Skill Drain").
-
 *   If "Card Trooper"'s first effect is activated, and it is flipped face-down then face-up again, the increase in ATK is no longer applied. The effect can be activated again.
 *   If "Skill Drain" is activated after "Card Trooper"'s first effect has been activated, the increase in ATK will be negated. Even if "Skill Drain" leaves play, the increase in ATK will not return.
 *   The ② Trigger Effect activates in the Graveyard.
@@ -3108,11 +3056,8 @@ Also see rulings for “Dark World Monsters”.
 ## CATOBLEPAS AND THE WITCH OF FATE
 
 *   You cannot activate this effect during the Damage Step.
-
 *   Removing from play 1 monster with ? is a cost.
-
 *   This effect does not target.
-
 *   If multiple monsters are Special Summoned at the same time, including "Catoblepas and the Witch of Fate", you can activate its effect to destroy all your opponent's monsters that were Special Summoned at the same time.
 *   If you activate "The Shallow Grave" while you control "Catoblepas and the Witch of Fate" you can activate its effect to destroy the monster your opponent Special Summons.
 
@@ -4370,12 +4315,10 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## D - FORMATION
 
 *   Placing 1 D Counter onto "D - Formation" does not start a Chain.
-
 *   The second effect of "D - Formation" starts a Chain. It does not target.
 *   You cannot activate "D-Formation"'s second effect when you Special Summon a monster face-down.
 *   If an effect is chained that flips the Normal or Special Summoned monster face-down, "D-Formation"'s effect disappears.
 *   If you have 2 or more "D-Formations" with 2 D Counters when you Normal or Special Summon a monster, you can activate the second effect of each "D-Formation".
-
 *   If a card’s effect Special Summons multiple monsters during your Main Phase, you can activate the second effect of "D-Formation". In this case you will select which monster you will apply towards the effect when "D-Formation"'s effect resolves.
 
   
@@ -4387,19 +4330,16 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## D. D. CRAZY BEAST
 
 *   "D.D. Crazy Beast"'s effect is applied at the end of the Damage Step, removing the destroyed monster from play instead of sending it to the Graveyard.
-
 *   If "D.D. Crazy Beast" attacks an Attack Position monster with the same ATK and both monsters are destroyed, "D.D. Crazy Beast"'s effect is not applied.
 
   
 ## D. D. DESIGNATOR
 
 *   You can't activate "D. D. Designator" if you have no cards in your hand, or if "D. D. Designator" is the only card in your hand.
-
 *   If you have your opponent's card in your hand because of "Exchange", you can remove it from play if you name a card your opponent doesn't have in his hand.
 *   You declare the card name when you activate "D. D. Designator".
 *   If your opponent has no cards in his hand when "D. D. Designator" resolves, the effect of "D. D. Designator" is negated.
 *   You can't activate "D. D. Designator" when your opponent has no cards in his hand.
-
 *   If you activate "D. D. Designator" and your opponent has 2 copies of the same card in hand, you (the player who activated "D. D. Designator") select which of the 2 cards is removed from play (this can be important if your opponent holds your card because of "Exchange").
 
   
@@ -4412,7 +4352,6 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 
 *   "D. D. Scout Plane"'s effect can only activate once during the same End Phase, so if a combo of "Banisher of the Light" and "King Tiger Wanghu" is set up, "D. D. Scout Plane" will only be Special Summoned once.
 *   It is the OWNER of "D. D. Scout Plane" that Special Summons it. Even if your opponent controls your "D. D. Scout Plane", if it is removed from play, you get to Special Summon it.
-
 *   If you don't have a vacant Monster Card Zone when "D. D. Scout Plane" would be Special Summoned, "D. D. Scout Plane" is destroyed and sent to the Graveyard.
 *   "D. D. Scout Plane"'s effect activates whether it is removed from your hand, Deck, Graveyard, or the field.
 *   If "D. D. Scout Plane" is removed from play and is face-down while out of play, such as with "Lightforce Sword" or "Different Dimension Capsule", "D. D. Scout Plane"'s effect does not activate. But if "D. D. Scout Plane" was face-down on the field, and was removed by "Nobleman of Crossout", it is placed face-up while out of play and its effect does activate.
@@ -4422,7 +4361,6 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 *   If "D. D. Scout Plane" is removed during an End Phase, it is Special Summoned with its effect during that same End Phase.
 *   If "D. D. Scout Plane" is removed from play and then returned to the Graveyard with "Miracle Dig" the same turn, its effect is reset and it remains in the Graveyard and is not Special Summoned.
 *   If "Prohibition" was used and "D. D. Scout Plane" is prohibited, "D. D. Scout Plane" cannot be Special Summoned and remains removed from play.
-
 *   If "D. D. Scout Plane" is removed from play with "Different Dimension Gate", "D. D. Scout Plane"'s effect activates and "D. D. Scout Plane" is Special Summoned. If "Different Dimension Gate" is later destroyed, the other removed monster is returned to the field at that time.
 
   
@@ -4558,7 +4496,6 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## DARK HUNTER
 
 *   If you activate "Dark Hunter"'s "5 or more" effect and an effect is chained that reduces the number of DARK monsters in your Graveyard to 4 or less, "Dark Hunter"'s effect still resolves.
-
 *   While "Skill Drain" is active, all of "Dark Hunter"'s effects are negated because the primary effect, "This card's effect changes depending on the number of DARK monsters in your Graveyard", is negated.
 
   
@@ -4570,25 +4507,20 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## DARK JEROID
 
 *   If the monster selected by "Dark Jeroid" is removed from the field by "Dimensionhole", or flipped face-down, or returned to the hand or Deck, or sent to the Graveyard, etc., the effect of "Dark Jeroid" is reset and the selected monster no longer has a lowered ATK.
-
 *   If "Dark Jeroid" is the only monster on the field when it is Summoned, it reduces its own ATK.
-
 *   The ATK cannot go below zero.
 
   
 ## DARK LUCIUS LV6
 
 *   If “Dark Lucius LV6” destroys a monster with an Ignition Effect, like “Exiled Force”, or a monster with a Trigger Effect that wouldn’t activate, like “Mysterious Puppeteer”, then “Dark Lucius LV6” did not negate their effects. So you cannot Special Summon “Dark Lucius LV8”.
-
 *   If “Dark Lucius LV6” destroys “Sangan” while “Macro Cosmos” or “Grave Protector” is active, the effect of “Sangan” cannot activate, so it is not negated. So you cannot Special Summon “Dark Lucius LV8”.
-
 *   If “Dark Lucius LV6” negates an opponent’s monster effect, but is then flipped face-down, you cannot Special Summon “Dark Lucius LV8”. However, if “Dark Lucius LV6” negates a monster effect, and is then temporarily removed from play with “Interdimensional Matter Transporter”, when it returns to play you can Special Summon “Dark Lucius LV8”.
 
   
 ## DARK LUCIUS LV8
 
 *   “Dark Lucius LV8” must be on the field in order to negate a monster’s effect and remove it from play. If “Dark Lucius LV8” is returned to the hand because of “Begone, Knave!”, it does not negate effects or remove monsters from play.
-
 *   If “Dark Lucius LV8” destroys “D.D. Scout Plane”, it will still be Special Summoned because you cannot negate the effect of a monster that is activated while removed from play.
 
   
@@ -4682,14 +4614,12 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## DARK PALADIN
 
 *   "Dark Paladin" cannot be Special Summoned, EXCEPT by Fusion Summon. So you cannot Special Summon "Dark Paladin" using "Monster Reborn", etc., even if he was properly Summoned before. You cannot Special Summon "Dark Paladin" using "Magical Scientist", etc.
-
 *   You can use "substitute" Fusion Material Monsters such as "Goddess With the Third Eye", etc. to Fusion Summon "Dark Paladin".
 *   "Dark Paladin"'s Spell-negating effect is a Quick Effect, so it can be activated during your opponent's turn.
 *   You can activate "Dark Paladin"'s Spell-negating effect multiple times in the same chain.
 *   "Dark Paladin"'s Spell-negating effect can be chained to.
 *   If you activate "Dark Paladin"'s Spell-negating effect, and your opponent chains "Ring of Destruction" to destroy "Dark Paladin", the Spell Card is still negated even though "Dark Paladin" is destroyed.
 *   If you activate "Dark Paladin"'s Spell-negating effect, and your opponent chains "Book of Moon" to flip "Dark Paladin" face-down, the Spell Card is still negated even though "Dark Paladin" is face-down.
-
 *   "Dark Paladin"'s +500 ATK effect is a Continuous Effect. While "Skill Drain" is active, the effects of "Dark Paladin" are negated.
 
   
@@ -4844,19 +4774,15 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## DARKBLAZE DRAGON
 
 *   "Darkblaze Dragon"'s effect doubles its original ATK and DEF to create a new current ATK and DEF.
-
 *   "Darkblaze Dragon"'s effect that doubles it original ATK and DEF to create a new current ATK and DEF disappears when "Darkblaze Dragon" is removed from the field or flipped face-down.
 *   If "Skill Drain" is face-up on the field when "Darkblaze Dragon" is Special Summoned from the Graveyard, or if "Skill Drain" is activated after "Darkblaze Dragon" is Special Summoned from the Graveyard, "Skill Drain" will negate "Darkblaze Dragon"'s effect that doubles its original ATK and DEF to create a new current ATK and DEF. If "Skill Drain" is later negated or removed from the field, the original ATK and DEF are not doubled again.
-
 *   If "Darkblaze Dragon" has its original ATK and DEF doubled to create a new current ATK and DEF and "Shrink" is used on the “Darkblaze Dragon”, the current ATK of "Darkblaze Dragon" becomes half of its original ATK. (its ATK would be 600 and its DEF would be 2000)
 
   
 ## DARK-EYES ILLUSIONIST
 
 *   You can select a face-down monster.
-
 *   When a face-down "Dark-Eyes Illusionist" is attacked and destroyed, its effect does not activate.
-
 *   If "Royal Command" is actived after "Dark-Eyes Illusionist"'s effect resolves, "Dark-Eyes Illusionist"'s effect is negated.
 
   
@@ -5207,16 +5133,13 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## DESTINY HERO - DEFENDER
 
 *   "Destiny Hero - Defender"'s effect is a Trigger Effect.
-
 *   If an effect is chained that flips "Destiny Hero - Defender" face-down or removes it from the field, its effect disappears.
 
   
 ## DESTINY HERO - DEPARTED
 
 *   When "Destiny Hero - Departed" is sent to the Graveyard to pay a cost, it is not removed from play.
-
 *   "Destiny Hero - Departed"'s first effect is a Trigger Effect. It is not optional.
-
 *   "Destiny Hero - Departed"'s effect is not activated while "King Tiger Wanghu" is face-up on the field because an infinite loop would result. If "Destiny Hero - Departed"'s ATK would become greater than 1400 when Special Summoned, because of another card's effect, it is Special Summoned.
 
   
@@ -5249,7 +5172,6 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
     *   The target can be face-up or face-down. A face-down monster removed by this effect will remain face-down while removed from play and none of its effects will activate.
     *   This effect cannot be activated the turn you declared an attack, even if the attack was negated.
     *   If you have both “Destiny Hero – Doom Lord” and “Berserk Gorilla” face-up on the field you can still activate “Doom Lord’s” effect. “Berserk Gorilla” will not be able to attack that turn.
-
 *   The Ⓒ Condition cannot be negated.
     *   If all 5 of your opponent’s Monster Card Zones are full when the removed monster would return to play, it is destroyed (by game mechanic) and sent to the Graveyard.
     *   Returning the monster to play does not start a chain. The effect will resolve and the monster will return to play during your 2nd Standby Phase even if “Destiny Hero – Doom Lord” is not on the field.
@@ -5260,7 +5182,6 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## DESTINY HERO - DOUBLE DUDE
 
 *   This card’s effect activates in the Graveyard. If “Destiny Hero – Double Dude” is removed from play its effect will not activate.
-
 *   If “Destiny Hero – Double Dude” is destroyed and sent to the Graveyard while in the hand or Deck his effect still activates, and you can Special Summon the 2 “Double Dude Tokens”. He could be destroyed in the hand or Deck by effects like “Neo-Spacian Aqua Dolphin” or “Chain Destruction”.
 
   
@@ -5272,10 +5193,8 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## DESTINY HERO - DREADMASTER
 
 *   “Destiny Hero – Dreadmaster’s” second sentence is applied if he is Special Summoned by any method, not just by the effect of “Clock Tower Prison”.
-
 *   “Destiny Hero – Dreadmaster’s” first effect (to destroy your non-“Destiny Hero” monsters and Special Summon 2 “Destiny Hero” monsters) is a Trigger Effect and his other effects are Continuous Effects.
 *   Destroying all your non-“Destiny Hero” monsters and Special Summoning 2 “Destiny Hero” monsters is resolved in the same chain link. Even if you have no monsters that will be destroyed you still get to Special Summon 2 “Destiny Hero” monsters.
-
 *   If you have any face-down “Destiny Hero” monsters, they will be destroyed, because their names cannot be confirmed.
 
   
@@ -5759,7 +5678,6 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
     *   Example: Player A controls 2 "Doomcaliber Knights". Player B activates an Effect Monster's effect. Both of Player A's "Doomcaliber Knight" activate and form a Chain:
         *   Chain Link 1 = Effect Monster, Chain Link 2 = Doomcal A, Chain Link 3 = Doomcal B
         *   Only "Doomcaliber Knight" A negates the Effect Monster's effect.
-
 *   VS. "Kuriboh": If an attacking "Doomcaliber Knight" is Tributed to negate "Kuriboh"'s effect, then damage has already been calculated. If "Doomcaliber Knight" was attacking a monster with equal or lower ATK that monster will be destroyed, and Battle Damage will be inflicted as normal.
 *   Example 1: Player A Tributes her "Sangan" and "Witch of the Black Forest" to Tribute Summon "Dark Magician". "Sangan’s" effect is Chain Link 1 and "Witch of the Black Forest’s" effect is Chain Link 2. The effect of Player B's "Doomcaliber Knight" is chained, and it will negate "Witch of the Black Forest"'s effect.
 *   Example 2: Player A and Player B have "Goldd, Wu-Lord of Dark World" in their hand and Player A controls "Doomcaliber Knight". Player A activates "Card Destruction". When both copies of "Goldd, Wu-Lord of Dark World" are discarded, their effects start a Chain. Player A is the turn player, so his "Goldd, Wu-Lord of Dark World" is Chain Link 1 and Player B's is Chain Link 2. "Doomcaliber Knight"'s effect is chained, and it will negate Player B's "Goldd, Wu-Lord of Dark World".
@@ -5774,7 +5692,6 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 *   The ① effect targets 1 Zombie-Type monster in either Graveyard.
     *   This effect continuous to target the Special Summoned monster while it is on the field.
     *   If "Doomkaiser Dragon" is flipped face-down before this effect resolves, the target is still Special Summoned and it is no longer targeted by "Doomkaiser Dragon" while on the field.
-
 *   The Ⓒ Condition destroys the Summoned monster immediately. This does not start a Chain.
     *   If this card is destroyed while resolving an effect in the Chain, destroy the Special Summoned monster immediately before resolving the next effect in the Chain.
 
@@ -5791,31 +5708,26 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## DOOMSDAY HORROR
 
 *   "Doomsday Horror"'s effects include your opponent's removed from play DARK monsters.
-
 *   The values determined for "Doomsday Horror"'s first effect are not treated as its original ATK or DEF.
 
   
 ## DOPPELGANGER
 
 *   “Doppelganger’s” effect starts a Chain after the effect that inflicted damage resolves.
-
 *   If you take damage from two or more effects in the same Chain, “Doppelganger’s” effect will activate once for each of those effects after the Chain resolves. Then, “Doppelganger’s” effects will form a new Chain.
 *   You cannot activate “Doppelganger” (flip it face-up) during the Damage Step.
 *   “Doppelganger’s” effect will activate during the Damage Step if it was face-up on the field.
 *   If “Cannon Soldier”, etc. is Tributed as a cost to activate its own effect to inflict damage, “Doppelganger’s” effect will still activate.
 *   If you take damage from multiple monsters’ Continuous Effects at the same time, like “Rapid-Fire Magician”, “Doppelganger’s” effect only activates once, and inflicts damage equal to the damage from only 1 of those monster’s Continuous Effects.
-
 *   You can activate (flip face-up) “Doppelganger”, and activate its effect as part of the same Chain Link, after a monster’s effect that inflicts damage to you resolves.
 
   
 ## DORA OF FATE
 
 *   "Dora of Fate"'s effect only applies when you Summon a monster, not when your opponent Summons a monster.
-
 *   "Dora of Fate" targets: the face-up monster on your opponent's side of the field.
 *   If you Summon multiple times with "Ultimate Offering", "Dora of Fate" only applies to the first Summon.
 *   You cannot use "Barrel Behind the Door" against "Dora of Fate".
-
 *   You get the "Dora of Fate"'s effect even if the monster you selected (on your opponent's side of the field) is destroyed before you Summon.
 
   
@@ -6009,14 +5921,11 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
     *   This card's ATK is halved when the effect resolves. This is not a cost.
 *   The ② Ignition Effect activates & resolves on the field.
     *   Discard 1 card (of your choice) when this effect resolves. This is not a cost.  
-        
     *   Discarding 1 card and banishing this card occur simultaneously
         *   Monsters with optional Trigger Effects (ex: "Peten the Dark Clown") do not miss the timing.  
             
     *   This card is still banished if flipped face-down (by "Book of Moon"), you still discard 1 card \[[REF](http://web.archive.org/web/20130529020634/http://www.pojo.biz/board/showthread.php?t=843371)\].  
-        
     *   If cards cannot be banished when this effect resolves, you still discard 1 card.  
-        
     *   If this card leaves the field before this effect resolves, you still discard 1 card \[[REF](https://www.pojo.biz/board/showthread.php?t=858617)\].
     *   If you cannot discard a card when resolves this effect, this card is not removed from play \[[REF](https://www.pojo.biz/board/showthread.php?t=858617)\].  
         
@@ -6220,9 +6129,7 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## EDGE HAMMER
 
 *   This card targets 1 opponent's monster.
-
 *   If you destroy a monster whose original ATK is undefined, like "King of the Skull Servants", this card will not inflict any damage to the opponent.
-
 *   If an effect like "Enemy Controller" is chained to "Edge Hammer" and control of the targeted monster switches, it will not be destroyed by "Edge Hammer".
 
   
@@ -6252,10 +6159,8 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 ## EKIBYO DRAKMORD
 
 *   If "Imperial Order" was active during the end of the second turn, a monster equipped with "Ekibyo Drakmord" will not be destroyed and "Ekibyo Drakmord" will remain equipped to it.
-
 *   If control of a monster equipped with "Ekibyo Drakmord" changes, the turn count resets. If "Ekibyo Drakmord" is moved by "Collected Power" or "Tailor of the Fickle" to another monster, the turn count resets.
 *   If "Ekibyo Drakmord" is no longer on the field, a previously equipped monster will not be destroyed on the 2nd turn after "Ekibyo Drakmord" was played.
-
 *   If "Ekibyo Drakmord" is equipped to "The Legendary Fisherman" and then "Umi" is activated, "Ekibyo Drakmord" will remain meaninglessly equipped to "The Legendary Fisherman".
 
   
@@ -7262,7 +7167,6 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 > Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn._
 
 *   If "[Flashbang](https://yugipedia.com/wiki/Flashbang)" is activated, effects that activate when Battle Damage is inflicted to a player will miss the timing for activation, such as "[Don Zaloog](https://yugipedia.com/wiki/DonZaloog)".
-
 *   If "[Flashbang](https://yugipedia.com/wiki/Flashbang)" is activated, any effects that would activate at the end of the Battle Phase will miss the timing for activation, such as "[Goblin Attack Force](https://yugipedia.com/wiki/Goblin_Attack_Force)".
 
   
@@ -7387,11 +7291,8 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 ## FORTUNE LADY DARK
 
 *   This effect targets the "Fortune Lady" monster in your Graveyard.
-
 *   If a "Fortune Lady" monster you control battles another monster and both are destroyed, you cannot activate the effect of "Fortune Lady Dark".
-
 *   If "Fortune Lady Dark" is not face-up when a "Fortune Lady" monster you control destroys an opponent's monster by battle and sends it to the Graveyard, you cannot activate this effect.
-
 *   If the "Fortune Lady" monster that destroys an opponent's monster by battle is not face-up when the monster is sent to the Graveyard, you cannot activate this effect.
 
   
@@ -7423,14 +7324,12 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 ## FORTUNE LADY WATER
 
 *   The effect to draw cards can activate during the Damage Step.
-
 *   If you Special Summon "[Fortune Lady Water](https://yugioh.fandom.com/wiki/Fortune_Lady_Water)" with "[Magical Dimension](https://yugioh.fandom.com/wiki/Magical_Dimension)" and then destroy the only other "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster you control, you cannot activate the effect of "[Fortune Lady Water](https://yugioh.fandom.com/wiki/Fortune_Lady_Water)".
 
   
 ## FORTUNE LADY WIND
 
 *   You count the number of "Fortune Lady" monsters you control when the effect resolves. This includes "Fortune Lady Wind."
-
 *   If the number of Spell and Trap Cards your opponent controls is less than the number of "Fortune Lady" monsters you control when you Summon "Fortune Lady Wind", you cannot activate its effect.
 *   This effect does not target. You choose which cards to destroy when resolving the effect.
 
@@ -7913,18 +7812,15 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 ## GEMINI TRAP HOLE
 
 *   When your opponent's Gemini Monster that is being treated as an Effect Monster is destroyed by battle, you can activate "Gemini Trap Hole".
-
 *   "Gemini Trap Hole" is activated at the end of the Damage Step when the destroyed Gemini Monster is sent to the Graveyard.
 
   
 ## GENERATION SHIFT
 
 *   Destroying your monster for “Generation Shift” is not a cost. It’s part of the effect.
-
 *   You can target a Limited monster with “Generation Shift”, but after destroying the monster you don’t search or shuffle your Deck.
 *   You can target a Token Monster with “Generation Shift” and it will be destroyed, but you do not search or shuffle your Deck (this part of the effect is not resolved).
 *   If you target “Proto-Cyber Dragon” or “Elemental Hero Neo Bubbleman” with this effect, you must add “Proto-Cyber Dragon” or “Elemental Hero Neo Bubbleman” to your hand. You cannot add “Cyber Dragon” or “Elemental Hero Bubbleman”.
-
 *   You can target "Embodiment of Apophis" with "Generation Shift". It will be destroyed and a copy of "Embodiment of Apophis" from your Deck will be added to your hand.
 
   
@@ -7949,31 +7845,25 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 ## GETSU FUHMA
 
 *   If "Getsu Fuhma" is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.
-
 *   If an attack is negated by "Magic Cylinder", etc., then "Getsu Fuhma"'s effect does not activate.
 *   If "Getsu Fuhma"'s ATK is large enough to destroy "Vampire Lord" by damage calculation, then "Getsu Fuhma"'s effect doesn't activate and "Vampire Lord" won't be Special Summoned, because it was destroyed by damage calculation and not by a card effect.
-
 *   If "Getsu Fuhma" is destroyed by "Dark Ruler Ha Des", "Getsu Fuhma"'s effect is not activated.
 
   
 ## GHOST GARDNA
 
 *   "Ghost Gardna"'s second effect targets 1 of your opponent's monsters.
-
 *   If a "Ghost Gardna" in your hand or Deck is destroyed and sent to your Graveyard, its effect activates.
-
 *   If you control a face-up "Marauding Captain" and "Ghost Gardna", when your opponent attacks "Marauding Captain" you can activate "Ghost Gardna"'s effect, and the opponent's monster will attack "Ghost Gardna" instead.
 
   
 ## GHOST KNIGHT OF JACKAL
 
 *   "Ghost Knight of Jackal"'s effect activates when you send a monster to the Graveyard.
-
 *   If your "Ghost Knight of Jackal" attacks a face-down "Jowls of Dark Demise", your opponent takes control of "Ghost Knight of Jackal" at the time that "Jowls of Dark Demise" is sent to the Graveyard, and "Ghost Knight of Jackal"'s effect disappears.
 *   If "Ghost Knight of Jackal" is removed from the field or flipped face-down before the monster it destroyed is sent to the Graveyard, then "Ghost Knight of Jackal"'s effect is not applied.
 *   If "Final Attack Orders" is active, you can Special Summon a monster destroyed by "Ghost Knight of Jackal" in Defense Position, but it is changed to Attack Position immediately.
 *   If your "Ghost Knight of Jackal" destroys a monster you own that is on your opponent's side of the field, the effect of "Ghost Knight of Jackal" is not applied because it only applies to "an opponent's monster" that is destroyed.
-
 *   If "Ghost Knight of Jackal" attacks "Ghost Knight of Jackal", neither effect is applied.
 
   
@@ -7985,7 +7875,6 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 ## GIANT KOZAKY
 
 *   The first part of “Giant Kozaky” is a Continuous Effect that does not start a chain. The second part is a Trigger Effect that can be chained to.
-
 *   You can chain “Barrel Behind the Door” to the Trigger Effect (the damage) of “Giant Kozaky”.
 *   If “Giant Kozaky” is destroyed while face-down, then its effect that inflicts damage is not activated. If “Giant Kozaky” is face-up on the field and is targeted by “Tribute to the Doomed”, and you chain “Book of Moon” so that “Giant Kozaky” is face-down when destroyed by “Tribute to the Doomed”, there is no damage.
 *   Like “Atomic Firefly”, “Foxfire”, and “Poison Draw Frog”, if a face-down “Giant Kozaky” is attacked and destroyed, its effect is not applied. However, if a face-down “Giant Kozaky” is attacked, and is not destroyed by the attack, if “Kozaky” is not face-up on the field, then “Giant Kozaky” is destroyed by its own effect after damage calculation, and damage is inflicted by its effect.
@@ -7993,7 +7882,6 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 *   The effect of “Giant Kozaky” that inflicts damage to the controller activates in the Graveyard or the “removed zone”, wherever “Giant Kozaky” goes to after being destroyed. “The End of Anubis” will negate the effect of “Giant Kozaky” if it was destroyed and sent to the Graveyard, but “Banisher of the Light” will not (because “Giant Kozaky” does not have to be “destroyed and sent to the Graveyard”). Nor will “Skill Drain” negate the damage if “Giant Kozaky” is destroyed.
 *   If “Giant Kozaky” is face-up on the field with “Kozaky”, and “Kozaky” is equipped to “Relinquished”, “Giant Kozaky” is not destroyed because a card called “Kozaky” is on the field.
 *   If “Giant Kozaky” is equipped to “Relinquished” as an Equip Spell Card, “Giant Kozaky” will not be destroyed by its effect because it’s not a monster (even if “Kozaky” is not on the field).
-
 *   If “Giant Kozaky” is equipped to “Relinquished” and is destroyed by “Mystical Space Typhoon” or the effect of “Relinquished”, the effect of “Giant Kozaky” will inflict damage to the controller.
 
   
@@ -8114,7 +8002,6 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 
 *   The ① Continuous Effect does not activate.
     *   This effect no longer applies if Dimacari is flipped face-down, leaves the field, or has its effects negated by “Skill Drain” (even if “Skill Drain” is later negated / destroyed).
-
 *   The ② optional Trigger Effect may be activated if this card was engaged in Damage Calculation.
     *   Returning the “Gladiator Beast” monster to the Deck is a cost.
     *   You can shuffle your opponent's "Gladiator Beast" (that you obtained by "Brain Control") into their deck and Special Summon a different named "Gladiator Beast" from yours.
@@ -8854,11 +8741,8 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## GROUND SPIDER
 
 *   This effect does not target.
-
 *   If "[Ground Spider](https://yugioh.fandom.com/wiki/Ground_Spider)" is no longer on the field when its effect resolves, the monster will still be switched to Defense Position.
-
 *   If your opponent Special Summons multiple monsters and at least one of them is Summoned in Attack Position, you can activate this effect.
-
 *   If your opponent Special Summons multiple monsters and you activate this effect, all of the Summoned monsters are changed to Defense Position.
 *   You cannot activate this effect during the Damage Step.
 
@@ -9544,10 +9428,8 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## INFERNAL INCINERATOR
 
 *   Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.
-
 *   You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.
 *   This card can be Special Summoned (even from your Deck, with a card like “Monster Gate”). You do not have to discard your hand when you Special Summon this card.
-
 *   When you Normal Summon or Set “Infernal Incinerator”, it does not start a chain even though you are using the monster’s effect to do so.
 
   
@@ -9566,7 +9448,6 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## INFERNITY NECROMANCER
 
 *   This effect target 1 "Infernity" monster in your Graveyard.
-
 *   If "Skill Drain" is active, the effect that lets "Infernity Necromancer" to gain the effect to Special Summon monsters is negated, so you cannot activate the effect to Special Summon 1 "Infernity" monster.
 *   If you activate the effect to Special Summon 1 "Infernity" monster and an effect is Chained that cause you to have 1 or more cards in your hand, you will still Special Summon the targeted "Infernity" monster.
 
@@ -9574,7 +9455,6 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## INFERNO
 
 *   When "Inferno" battles with another monster with equal ATK, "Inferno"'s effect is not activated because it must destroy the other monster "and send it to the Graveyard", and at that time, Inferno is no longer on the field to activate its effect.
-
 *   If "Inferno" attacks a face-down "Cyber Jar", "Inferno" is destroyed by the effect of "Cyber Jar" and "Inferno"'s effect is not activated.
 
   
@@ -9825,10 +9705,8 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## IRON CHAIN SNAKE
 
 *   "Iron Chain Snake"'s first effect targets 1 face-up monster your opponent controls.
-
 *   The player that controlled the equipped monster when it was destroyed sends cards from the top of their Deck to the Graveyard.
 *   If "Iron Chain Snake" is equipped to a monster with another card's effect, the equipped monster does not lose ATK and DEF. However, when the equipped monster is destroyed by battle and sent to the Graveyard, the effect of "Iron Chain Snake" activates.
-
 *   When the equipped monster is destroyed by battle and sent to the Graveyard, if its controller has fewer cards in their Deck than the Level of the destroyed monster, every card left in their Deck is sent to the Graveyard.
 
   
@@ -9880,9 +9758,7 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## JADE INSECT WHISTLE
 
 *   The monster selected for "Jade Insect Whistle" is chosen when the effect resolves, not when it is activated, so "Jade Insect Whistle" doesn't target.
-
 *   If your opponent claims to have no Insect-Type monsters in his/her Deck when your "Jade Insect Whistle" resolves, you can check the Deck to make sure.
-
 *   A face-up "Parasite Paracide" can be selected with "Jade Insect Whistle".
 
   
@@ -9891,15 +9767,12 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 
 *   The ① Continuous Effect only applies while this card is in face-up Attack Position.  
     *   This applies to the effects for all classes of Trap Card (Normal, Continuous, Counter).  
-        
     *   Machine-Type monsters you control with 1200 or less ATK can still be sent to the Graveyard, returned to the hand / Deck, or banished by Trap Cards.  
-        
     *   This does not negate the effect or activation of Trap Cards.  
         
 *   The ② optional Trigger Effect activates & resolves in the Graveyard.
     *   This effect activates in Substep 7 - End of the Damage Step.
     *   This card must be face-up before being selected as an attack target for this effect to trigger.  
-        
     *   This effect cannot activate if this face-down card is attacked and destroyed by battle \[[REF](https://www.pojo.biz/board/showpost.php?p=17414058&postcount=14)\].  
         
 
@@ -9971,7 +9844,6 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## JETROID
 
 *   Both players can chain to the Trap Card that is activated by the effect of “Jetroid” (the controller can activate several Trap Cards from his hand in a chain).
-
 *   If “Ancient Gear Golem” attacks “Jetroid”, the controller of “Jetroid” cannot use its effect.
 
   
@@ -10005,7 +9877,6 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## JIRAI GUMO
 
 *   If a replay occurs when "Jirai Gumo" attacks and you decide to continue attacking with "Jirai Gumo", you do not flip the coin again.
-
 *   If your opponent has "Toll", you must pay the cost for "Toll" before flipping the coin for "Jirai Gumo"
 
   
@@ -10021,9 +9892,6 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 *   When "Jowls of Dark Demise" is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.
 *   You can take control of a face-down monster with "Jowls of Dark Demise".
 *   You can Tribute a monster you took control of with "Jowls of Dark Demise".
-
-.
-
 *   If you take control of a Union Monster with "Jowls of Dark Demise", and equip it to your monster, control of the Union Monster Card does not return to your opponent at the end of the turn because it is an Equip Spell Card.
 
   
@@ -10046,11 +9914,9 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## JUDGMENT OF ANUBIS
 
 *   You can activate "Judgment of Anubis" when there are no monsters on your opponent's side of the field.
-
 *   When you activate "Judgment of Anubis", you destroy your opponent's monster after the activation and the effect of the Spell Care are negated. This means that the monster-destroying effect of "Judgment of Anubis" does not target.
 *   You can activate "Judgment of Anubis" and select a Spell Card that destroys only a Spell Card (like "De-Spell") or only a Trap Card (like "Remove Trap") or could destroy both (like "Mystical Space Typhoon") or many (like "Heavy Storm").
 *   You can activate "Judgment of Anubis" and select a Spell Card that negates the activation of a card and destroys it, like "My Body as a Shield" or "Bait Doll".
-
 *   You cannot activate "Barrel Behind the Door" against "Judgment of Anubis" because when "Judgment of Anubis" is activated, it has not been confirmed that the damage-inflicting effect will happen.
 
   
@@ -10176,16 +10042,13 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## KAZEJIN
 
 *   A marker may be placed on this card to indicate that its effect has been used. The effect resets if the monster is destroyed or removed from the field.
-
 *   You can use the effect of this card even if it is face-down when it is attacked because its effect is activated during the Damage Step, and it will be face-up at that point.
-
 *   The effect of this card targets.
 
   
 ## KELDO
 
 *   You cannot activate "Keldo"'s effect when there are not at least 2 cards in your opponent's Graveyard.
-
 *   The owner of the Deck shuffles it and the controller of "Keldo" cuts the Deck.
 
   
@@ -10197,10 +10060,8 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## KING DRAGUN
 
 *   The first effect of “King Dragun” is a Continuous Effect. The second effect of “King Dragun” is an Ignition Effect.
-
 *   Your opponent cannot target a Dragon-Type Fusion Monster with “De-Fusion” while “King Dragun” or “Lord of D.” is on the field because “De-Fusion” targets.
 *   “Divine Wrath” is NOT a card that targets, so “Divine Wrath” may be used against Dragon-Type monsters while “King Dragun” or “Lord of D.” is on the field.
-
 *   You can chain “Divine Wrath” to the effect of “King Dragun” that Special summons a Dragon-Type monster.
 
   
@@ -10246,7 +10107,6 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 ## KING'S KNIGHT
 
 *   When “King’s Knight” is Normal Summoned, its Trigger Effect starts a chain if “Queen’s Knight” is on the field. If the opponent chains “Torrential Tribute” to destroy “King’s Knight” and “Queen’s Knight” you still Special Summon “Jack’s Knight”.
-
 *   The effect of “King’s Knight” can only activate if it is Normal Summoned. Not if it is Flip Summoned, Special Summoned, or Set.
 
   
@@ -10439,7 +10299,6 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 *   You can activate this effect even if “Bad Reaction to Simochi” is face-up on the field.
 *   You can activate this effect even if “Kuribon” was attacked while face-down.
 *   When you use this effect, damage calculation is still conducted and “Kuribon” is considered to be destroyed by battle, so you can activate cards like “Byroad Sacrifice.”
-
 *   You can activate this effect when “Kuribon” is attacked by “Dark Ruler Ha Des.” “Dark Ruler Ha Des” will not negate the effect because it is activated before “Kuribon” would be destroyed.
 *   If you cannot take Battle Damage because of the effect of “Waboku” or “Tornado Wall” you cannot activate the effect of “Kuribon.”
 
@@ -11108,7 +10967,6 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 *   The ③ Continuous-like Effect is the effect of a Equip Spell Card.
     *   Apply this effect if the equipped monster would be destroyed by battle or card effect.
     *   If an effect (ex: "Black Rose Dragon") would simultaneously destroy Gearframe and the equipped Machine-Type monster; destroy both cards, you CANNOT apply this effect \[[REF](https://www.pojo.biz/board/showpost.php?p=18956551&postcount=2)\].  
-        
     *   This does not apply if the equipped monster would be removed from play, returned to the hand / Deck, or flipped face-down by a card effect.  
         
 
@@ -11134,9 +10992,7 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
     
 *   The ③ Continuous-like Effect is the effect of a Equip Spell Card.
     *   Apply this effect if the equipped monster would be destroyed by battle or card effect.  
-        
     *   If an effect (ex: "Black Rose Dragon") would simultaneously destroy Peacekeeper and the equipped Machine-Type monster; destroy both cards, you CANNOT apply this effect \[[REF](https://www.pojo.biz/board/showpost.php?p=18956551&postcount=2)\].  
-        
     *   This does not apply if the equipped monster would be removed from play, returned to the hand / Deck, or flipped face-down by a card effect.
 
   
@@ -13466,9 +13322,7 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
     *   This effect does not target a card in the Graveyard. It is not negated by "Necrovalley".
 *   The Ⓛ Lingering effect banishes this card when it would leave the field.  
     *   This does not start a chain.  
-        
     *   This works like "Battle Fader"'s Condition - meaning that "Caius the Shadow Monarch" will not inflict Effect Damage if its effect banishes "Plaguespreader Zombie" summoned by the ① effect.  
-        
     *   This effect disappears if "Plaguespreader Zombie" is flipped face-down.  
         
 
@@ -13876,7 +13730,6 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
 ## PSYCHIC TRIGGER
 
 *   This card targets 2 Psychic-Type monsters in your Graveyard.
-
 *   If one or both of the targeted cards are not in your Graveyard when “Psychic Trigger” resolves, its effect disappears.
 
   
@@ -13892,10 +13745,8 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
 ## PSYCHOKINESIS
 
 *   "Psychokinesis" targets 1 card on the field.
-
 *   Destroying the targeted card and inflicting 1000 damage are considered to happen at the same time.
 *   If an effect is chained that removes every Psychic-Type monster from your side of the field, the effect of "Psychokinesis" still resolves.
-
 *   If an effect is chained that removes the targeted card from the field, the damage is not inflicted.
 
   
@@ -14510,9 +14361,7 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
 ## REPTILIANNE GORGON
 
 *   This is a Trigger Effect that activates following damage calculation
-
 *   If this card destroys a monster by battle, its effect will activate but will resolve without effect.
-
 *   The effect of "[Reptilianne Gorgon](https://yugioh.fandom.com/wiki/Reptilianne_Gorgon)" will apply to a monster it battles as long as the monster is face-up on the field.  
       
     
@@ -14525,13 +14374,9 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
 ## REPTILIANNE MEDUSA
 
 *   Sending 1 card from your hand to the Graveyard is a cost.
-
 *   This is an Ignition Effect that targets 1 face-up monster your opponent controls.
-
 *   If an effect gives you control of the monster targeted by this effect, the monster's ATK will still become 0 and it will not be able to change its battle position.
-
 *   If the targeted monster is flipped face-down, this effect is not applied.
-
 *   You cannot target a monster with 0 ATK with this effect.
 
   
@@ -14549,7 +14394,6 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
 
 *   This is a Trigger Effect. It does not target.
 *   If you Summon a monster like "[Exiled Force](https://yugioh.fandom.com/wiki/Exiled_Force)" that has an effect that activates on the field and then activate its effect, it will still be negated. If you Summon a monster like "[Sangan](https://yugioh.fandom.com/wiki/Sangan)" with an effect that activates in the Graveyard, it will not be negated.
-
 *   This card looks at the ATK of the destroyed monster during damage calculation. If a monster with an original ATK of 0 is destroyed by battle with "[Reptilianne Scylla](https://yugioh.fandom.com/wiki/Reptilianne_Scylla)" while its ATK is increased by another effect, you cannot Special Summon it. If a monster whose ATK is reduced to 0 by an effect like "[Twin Swords of Flashing Light - Tryce](https://yugioh.fandom.com/wiki/Twin_Swords_of_Flashing_Light_-_Tryce)" is destroyed by battle with "[Reptilianne Scylla](https://yugioh.fandom.com/wiki/Reptilianne_Scylla)", you can Special Summon it.  
       
     
@@ -14577,7 +14421,6 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
 ## REPTILIANNE VIPER
 
 *   This effect targets 1 face-up monster with 0 [ATK](https://yugioh.fandom.com/wiki/ATK) your opponent controls.
-
 *   You keep control of the monster taken by this effect even if it is flipped face-down or its ATK changes.
 *   If the targeted monster is turned flipped face-down by an effect Chained to the effect of "[Reptilianne Viper](https://yugioh.fandom.com/wiki/Reptilianne_Viper)", you do not gain control of that monster.
 
@@ -14890,18 +14733,15 @@ This card's name has been changed to “SUPERNATURAL REGENERATION".
 ## ROULETTE BARREL
 
 *   You can only use "Roulette Barrel"'s effect once per turn.
-
 *   You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.
 *   You CAN select a die roll result which doesn't match the Level Stars of a face-up monster. But if the die roll you select does match a monster, you MUST destroy a face-up monster with the correct number of Level Stars.
 *   "Roulette Barrel" can destroy itself with its effect.
-
 *   You cannot destroy a monster with 7 or more stars with "Roulette Barrel"'s effect.
 
   
 ## ROYAL COMMAND
 
 *   This card can be chained to the activation of a Flip Effect from a Flip Summon to negate the Flip Effect. It cannot be activated during the Damage Step, so if a Flip Effect Monster is flipped face-up when attacked you cannot chain "Royal Command" to negate its Flip Effect.
-
 *   If "Royal Command" is active on the field both players may still Flip Summon monsters, but any Flip Effects are negated.
 
   
@@ -16252,7 +16092,6 @@ The following rules apply to all Spirit Monsters:
 *   Spirit is not a monster Type; you cannot declare "Spirit" for the effect of "DNA Surgery".
 *   Spirit Monsters are still Effect Monsters.
 *   A Spirit Monster must be face-up on the field during the End Phase for it to return to the owner’s hand. If it was destroyed or removed from play, it will not return to the owner’s hand.
-
 *   A Spirit Monster will return to the owner’s hand during the End Phase, even if the opponent played it from their hand (through the effect of "Exchange".)
 
   
@@ -16358,7 +16197,6 @@ The following rules apply to all Spirit Monsters:
 ## SPYDER SPIDER
 
 *   This is a Trigger Effect that targets 1 Level 4 or lower Insect-Type monster in your Graveyard.
-
 *   As long as your opponent's monster was in Defense Position during damage calculation, you can activate this effect.
 
 ## STAMPING DESTRUCTION
@@ -16417,7 +16255,6 @@ The following rules apply to all Spirit Monsters:
 *   The ② optional Trigger Effect activates during the End Phase ONLY if: "Stardust Dragon/Assault Mode" successfully resolved its ① effect this turn, and "Stardust Dragon/Assault Mode" is in your Graveyard.
     *   If your opponent controls your "Stardust Dragon/Assault Mode" and they use its ① effect, during the End Phase you can Special Summon it from your Graveyard via its ② effect.
     *   If this effect is negated (by "Royal Oppression" / "Divine Wrath"), "Stardust Dragon/Assault Mode" remains in the Graveyard and cannot activate this effect again \[[REF](https://www.pojo.biz/board/showthread.php?t=656779)\].
-
 *   If your Defense Position "Stardust Dragon/Assault Mode" is attacked by "Red Dragon Archfiend" and it is destroyed by battle, its ① effect cannot be used to negate the effect of "Red Dragon Archfiend" that destroys your Defense Position monsters.
 *   The ③ optional Trigger Effect targets a "Stardust Dragon" in your Graveyard.
     *   Even if a face-down Defense Position "[Red Dragon Archfiend/Assault Mode](https://yugipedia.com/wiki/Red_Dragon_Archfiend/Assault_Mode)" etc. on the field is destroyed by a card effect, you can activate its effect that Special Summons "Red Dragon Archfiend" etc. from your Graveyard (this ruling also applies to "Stardust Dragon/Assault Mode").
@@ -18446,13 +18283,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other monsters,
 ## VALHALLA, HALL OF THE FALLEN
 
 *   This effect starts a Chain Link. (It does not [target](https://yugipedia.com/wiki/Target). This effect cannot be activated in the same Chain Link in which this card was activated. This effect can be activated after this card resolves.)
-
 *   This effect cannot Special Summon Fairy-Type Special Summon Monsters.
-
 *   This effect can Special Summon Level 5 or higher Fairy-Type Normal Summon Monsters.
-
 *   This effect cannot be activated if you cannot Special Summon any monster from your hand. (You can perform the activation of this card.)
-
 *   "Royal Oppression" cannot be chained to "Call of the Mummy" or "Valhalla, Hall of the Fallen" when it is activated from the hand. However, if "Call of the Mummy" or "Valhalla, Hall of the Fallen" is already face-up on the field and its effect is activated, then "Royal Oppression" may be chained to negate the effect and destroy it.
 
   
@@ -19057,7 +18890,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other monsters,
 ## WRATH OF NEOS
 
 *   “Wrath of Neos” targets 1 face-up monster named “Elemental Hero Neos” you control.
-
 *   You can activate “Wrath of Neos” and target a Token or “Embodiment of Apophis” being treated as “Elemental Hero Neos” by "Hero Mask." If you target a Token, you cannot return it to the Deck or destroy all cards on the field. If you target “Embodiment of Apophis,” you can return it to the Deck and destroy all cards on the field.
 *   If your opponent gains control of “Elemental Hero Neos” targeted by “Wrath of Neos” before it resolves, you still return that card to your Deck and destroy all cards on the field.
 
@@ -19115,7 +18947,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other monsters,
     *   If this card is flipped face-down / leaves the field, this effect can be used again.
 *   The ② optional Trigger Effect activates in Substep 7 - End of the Damage Step.
     *   This effect targets an X/XX-Saber monster in your Graveyard; it is negated by "Necrovalley" \[[REF](https://www.pojo.biz/board/showthread.php?t=848277)\].  
-        
     *   This effects activates & resolves even if "XX-Saber Fulhelmknight" leaves the field \[[REF1](https://www.pojo.biz/board/showthread.php?t=835785), [REF2](https://www.pojo.biz/board/showthread.php?t=825682)\].
         *   Example: "Ryko, Lightsworn Hunter" is destroyed by battle, its Flip Effect destroys Fulhelmknight during Substep 6 - Resolve Effects, and Fulhelmknight's effect activates in Substep 7 - End of the Damage Step) \[[REF1](https://www.pojo.biz/board/showthread.php?t=835785), [REF2](https://www.pojo.biz/board/showthread.php?t=825682)\].
 
