@@ -1,7 +1,22 @@
 # Better Edison Card Rulings
 
 In this repo, you will find the text of [Edisonformat.com](https://www.edisonformat.com/)'s [Individual Card Rulings](https://www.edisonformat.com/rulings), reformatted to make the experience easier. 
- 
+
+## How to use
+
+To find relevant rulings:
+
+1. Ctrl+F on this page to find a card, then click the link to read the rulings for a card.
+2. Ctrl+F on the [Rulings](https://github.com/vivaria/better-edison-card-rulings/blob/main/rulings.md) page, select "Match Case", then type the card name in all-caps to read the rulings for a specific card.
+3. Ctrl+F on the [Rulings](https://github.com/vivaria/better-edison-card-rulings/blob/main/rulings.md) page, unselect "Match Case", then type the card name to find all mentions of that card in every ruling.
+
+To share the ruling for a specific card (e.g. in DuelingBook chat or on Discord):
+
+- Copy the link from the Table of Contents, or;
+- On the Rulings page, hover over a card name, then click the `¶` symbol to get a link to that card.
+
+## Table of Contents
+
  * [3-HUMP LACOODA](https://github.com/vivaria/better-edison-card-rulings/blob/main/rulings.md#3-hump-lacooda)
  * [7](https://github.com/vivaria/better-edison-card-rulings/blob/main/rulings.md#7)
  * [8-CLAWS SCORPION](https://github.com/vivaria/better-edison-card-rulings/blob/main/rulings.md#8-claws-scorpion)
