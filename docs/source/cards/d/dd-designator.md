@@ -1,4 +1,4 @@
-D.D. Designator
+# D.D. Designator
 
 *   You can't activate "D. D. Designator" if you have no cards in your hand, or if "D. D. Designator" is the only card in your hand.
 *   If you have your opponent's card in your hand because of "Exchange", you can remove it from play if you name a card your opponent doesn't have in his hand.
