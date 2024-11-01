@@ -64,6 +64,8 @@ html_context = {
     'display_github': True,
     'github_user': 'vivaria',
     'github_repo': 'edisonrul.ing',
+    'conf_py_path': '/docs/source/',
+    'commit': 'main',
 }
 html_last_updated_fmt = '%Y-%m-%d'
 html_show_copyright = False
