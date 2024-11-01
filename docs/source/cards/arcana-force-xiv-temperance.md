@@ -1,4 +1,4 @@
-# ARCANA FORCE XIV - TEMPERANCE
+# Arcana Force XIV - Temperance
 
 > ① During either player's turn, you can discard this card to reduce the damage you take from a battle to 0. ② When this card is Summoned, toss a coin. ● Heads: Halve all Battle Damage you take. ● Tails: Halve all Battle Damage your opponent takes.
 

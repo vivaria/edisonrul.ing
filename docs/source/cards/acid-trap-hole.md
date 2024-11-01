@@ -1,4 +1,4 @@
-# ACID TRAP HOLE
+# Acid Trap Hole
 
 > Select 1 face-down Defense Position monster. Flip it face-up, and if the DEF of the monster is 2000 points or less, destroy the monster. If the DEF is more than 2000 points, return the monster to face-down Defense Position.
 

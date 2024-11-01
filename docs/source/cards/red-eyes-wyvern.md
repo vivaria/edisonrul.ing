@@ -1,4 +1,4 @@
-# RED-EYES WYVERN
+# Red-Eyes Wyvern
 
 > ① During your End Phase, if you did not Normal Summon or Set a monster that turn, you can remove from play this card from your Graveyard to Special Summon 1 "Red-Eyes" monster from your Graveyard, except "Red-Eyes B. Chick".
 

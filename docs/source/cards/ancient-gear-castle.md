@@ -1,4 +1,4 @@
-# ANCIENT GEAR CASTLE
+# Ancient Gear Castle
 
 > ① Face-up "Ancient Gear" monsters gain 300 ATK. ② Each time a monster(s) is Normal Summoned or Set, put 1 counter on this card. ③ If you Tribute Summon an "Ancient Gear" monster, you can substitute this card for a Tribute(s), if the number of counters is equal to or greater than the number of required Tribute(s).
 

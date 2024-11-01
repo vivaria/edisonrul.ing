@@ -1,4 +1,4 @@
-# RAIN STORM
+# Rain Storm
 
 *   The effect of “Rain Storm” targets the selected face-up “Cloudian” monster.
 *   You select which of “Rain Storm’s” effects to apply when resolving “Rain Storm”.

@@ -1,4 +1,4 @@
-# FUSILIER DRAGON, THE DUAL-MODE BEAST
+# Fusilier Dragon, The Dual-Mode Beast
 
 *   If you Set “Fusilier Dragon, the Dual-Mode Beast”, even without Tribute, you do not have to show it to your opponent.
 *   If you Set “Fusilier Dragon, the Dual-Mode Beast” without Tribute, it has 2800 ATK and 2000 DEF while face-down and can be Tributed to activate "Deck Devastation Virus", etc. It has 1400 ATK and 1000 DEF when flipped face-up.

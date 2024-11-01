@@ -1,3 +1,3 @@
-# KAHKKI, GUERILLA OF DARK WORLD
+# Kahkki, Guerilla Of Dark World
 
 *   This is a Trigger Effect. This effect targets.

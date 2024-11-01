@@ -1,4 +1,4 @@
-# SNOWMAN EATER
+# Snowman Eater
 
 > ① When this card is flipped face-up, destroy 1 face-up monster on the field.
 

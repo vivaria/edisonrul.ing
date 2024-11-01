@@ -1,4 +1,4 @@
-# SWORDS OF REVEALING LIGHT
+# Swords Of Revealing Light
 
 *   This card remains on the field and is active until the end of your opponent’s third turn. This card must be on the field for its effect to be active.
 *   If this card is destroyed or removed from the field by the effect of another card, such as "Heavy Storm" or "Giant Trunade", the opponent may then attack.

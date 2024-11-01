@@ -1,4 +1,4 @@
-# ANCIENT RULES
+# Ancient Rules
 
 > Special Summon 1 Level 5 or higher Normal Monster from your hand.
 

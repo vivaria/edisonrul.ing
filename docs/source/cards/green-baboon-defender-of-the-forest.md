@@ -1,4 +1,4 @@
-# GREEN BABOON, DEFENDER OF THE FOREST
+# Green Baboon, Defender Of The Forest
 
 > ① When a Beast-Type monster you control is destroyed and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card from your hand or the Graveyard._
 

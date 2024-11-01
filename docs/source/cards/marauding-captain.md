@@ -1,4 +1,4 @@
-# MARAUDING CAPTAIN
+# Marauding Captain
 
 *   If you have 2 "Maurading Captains" on your side of the field, the opponent cannot attack any face-up Warrior-Type monsters you control. They can attack your Life Points directly if they control a monster with an effect that allows it (Such as "Rainbow Flower", "Inaba White Rabbit", or a Toon Monster). They could also attack a non-Warrior Type monster you control.
 *   Your opponent can attack face-down monsters while you have "Maurading Captain" on the field, even if the face-down monster is Warrior-Type.

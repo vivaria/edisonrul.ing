@@ -1,4 +1,4 @@
-# DIABOLOS, KING OF THE ABYSS
+# Diabolos, King Of The Abyss
 
 *   If this card is Normal Summoned face-down, the monsters Tributed must still be DARK.
 *   You cannot select this card as a card to be Tributed for a card's effect, like "Ectoplasmer".

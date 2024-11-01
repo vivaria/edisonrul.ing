@@ -1,4 +1,4 @@
-# HORUS THE BLACK FLAME DRAGON LV4
+# Horus The Black Flame Dragon LV4
 
 *   The "you" in "on your side of the field" is the current controller’s field, so as long as "Horus the Black Flame Dragon LV 4" is face-up, it is always "face-up on your side of the field".
 *   If "Horus the Black Flame Dragon LV 4" destroys a monster, you can activate its effect during the End Phase, even if the destroyed monster was your monster that was controlled by your opponent.

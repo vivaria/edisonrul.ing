@@ -1,4 +1,4 @@
-# SUMMON CLOUD
+# Summon Cloud
 
 *   The effect of “Summon Cloud” does not target.
 *   When you activate “Summon Cloud”, you cannot yet Special Summon a “Cloudian” monster. After “Summon Cloud” resolves, you can activate its effect to Special Summon a “Cloudian” monster in a separate Chain.

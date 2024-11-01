@@ -1,4 +1,4 @@
-# THE DRAGON'S BEAD
+# The Dragon'S Bead
 
 *   When you first activate this card (flip it face-up) you do not have to activate its effect.
 *   If "The Dragon’s Bead" is already face-up on the field, you may activate it multiple times in the same chain, but you must discard 1 card from you hand as a cost for each activation.

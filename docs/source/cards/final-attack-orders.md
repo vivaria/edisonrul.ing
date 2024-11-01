@@ -1,4 +1,4 @@
-# FINAL ATTACK ORDERS
+# Final Attack Orders
 
 *   While "Final Attack Orders" is active, if you attack a face-down Defense Position monster, the monster is changed to Attack Position, then damage calculation is applied with the monster in Attack Position.
 *   While "Final Attack Orders" is active, you can change monsters like "Guardian Sphinx" to face-down Defense Position, and while they are face-down, "Final Attack Orders" has no effect on them.

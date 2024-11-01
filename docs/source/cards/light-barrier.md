@@ -1,4 +1,4 @@
-# LIGHT BARRIER
+# Light Barrier
 
 *   "Light Barrier"'s effect to flip a coin during the Standby Phase starts a Chain.
 *   The effect of the Summoned "Arcana Force" monster still starts a Chain, but you do not toss the coin. When the effect resolves you will select if the heads or tails effect is applied.

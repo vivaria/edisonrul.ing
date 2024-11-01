@@ -1,4 +1,4 @@
-# STRIKE NINJA
+# Strike Ninja
 
 > ① You can remove this card from play until the End Phase of this turn by removing from play 2 DARK monsters in your Graveyard. You can use this effect during either player’s turn. You can only use this effect once per turn.
 

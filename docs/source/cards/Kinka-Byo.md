@@ -1,4 +1,4 @@
-# KINKA-BYO
+# Kinka-Byo
 
 *   "Kinka-Byo"'s effect targets 1 Level 1 monster in your Graveyard and continues to target it while it is on the field.
 *   Removing the Special Summoned monster from play when "Kinka-Byo" is removed from the field does not start a Chain.

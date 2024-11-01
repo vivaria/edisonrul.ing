@@ -1,4 +1,4 @@
-# GLADIATOR BEAST SECUTOR
+# Gladiator Beast Secutor
 
 > ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, at the end of any Battle Phase, if this card attacks or was attacked, Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Secutor".
 

@@ -1,4 +1,4 @@
-# MIND CRUSH
+# Mind Crush
 
 > ① Declare 1 card name. If that card is in your opponent's hand, they must discard all copies of it from their hand. If it is not, you randomly discard 1 card.
 

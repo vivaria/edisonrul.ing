@@ -1,4 +1,4 @@
-# DIFFUSION WAVE-MOTION
+# Diffusion Wave-Motion
 
 *   You cannot activate "Diffusion Wave-Motion" during Main Phase 2, or if you cannot conduct your Battle Phase this turn (if you activated "Soul Exchange", etc.), or if there are no monsters on your opponent's side of the field, or if your opponent has "Swords of Revealing Light", or if your opponent controls 2 "Marauding Captains" (or appropriate monsters with "Raregold Armor", etc.).
 *   You cannot use "Diffusion Wave-Motion" and select a Level 7 Spellcaster-Type monster that was Summoned this turn with "Tribute Doll" because it cannot attack that turn due to "Tribute Doll"'s effect.

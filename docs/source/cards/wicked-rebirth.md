@@ -1,4 +1,4 @@
-# WICKED REBIRTH
+# Wicked Rebirth
 
 *   Paying 800 Life Points is a cost to activate “Wicked Rebirth.”
 *   This card targets the Synchro Monster, both when you activate this card and while the monster is on the field.

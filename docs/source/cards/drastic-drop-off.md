@@ -1,4 +1,4 @@
-# DRASTIC DROP OFF
+# Drastic Drop Off
 
 *   If your opponent discards card(s) after drawing or adding card(s) to their hand as part of the same effect resolution, you cannot activate "Drastic Drop Off". For example, when your opponent resolves "Graceful Charity", you cannot activate "Drastic Drop Off".
 *   If you're the one using this card, tell your opponent that you might want to activate an effect before they shuffle the drawn card into their hand. Also ask them if they wish to activate anything before you do.

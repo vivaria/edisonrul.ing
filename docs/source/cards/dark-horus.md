@@ -1,4 +1,4 @@
-# DARK HORUS
+# Dark Horus
 
 > ① Once per turn, when a Spell Card is activated during your opponent's Main Phase, you can Special Summon 1 Level 4 DARK monster from your Graveyard.
 

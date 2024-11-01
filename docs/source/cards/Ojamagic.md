@@ -1,4 +1,4 @@
-# OJAMAGIC
+# Ojamagic
 
 *   When you activate this card’s effect, and you find out that you do not have all 3 of “Ojama Green”, “Ojama Yellow”, and “Ojama Black” in your Deck, then you cannot add any of them to your hand. You must add all 3 or none. If you do not add all 3, your opponent may check your Deck to verify.
 *   The effect of “Ojamagic” activates in the Graveyard, and it can be chained to. It cannot be negated by “Magic Jammer” or “Dark Balter the Terrible”.

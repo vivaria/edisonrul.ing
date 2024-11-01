@@ -1,4 +1,4 @@
-# SUMMONER OF ILLUSIONS
+# Summoner Of Illusions
 
 *   Tributing 1 monster is a cost.
 *   You must use "Summoner of Illusions"’ effect when it is flipped face-up, either by Flip Summon or by being attacked. If you have no cards in your Extra Deck, the effect cannot activate and you do not Tribute 1 monster.

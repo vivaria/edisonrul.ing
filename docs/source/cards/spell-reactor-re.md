@@ -1,4 +1,4 @@
-# SPELL REACTOR RE
+# Spell Reactor Re
 
 *   This effect does not negate the Spell Card’s effect; it merely destroys the Spell Card.
 *   This is a Trigger Effect that activates by chaining it to the activation of the Spell Card. It does not target.

@@ -1,4 +1,4 @@
-# ARMED DRAGON LV10
+# Armed Dragon LV10
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by Tributing 1 "Armed Dragon LV7" on your side of the field. ① By sending 1 card from your hand to the Graveyard, destroy all face-up monsters on your opponent's side of the field.
 

@@ -1,4 +1,4 @@
-# 8-CLAWS SCORPION
+# 8-Claws Scorpion
 
 > ① Once per turn, you can flip this card into face-down Defense Position. ② When this card attacks an opponent's face-down Defense Position monster, this card's ATK becomes 2400 during damage calculation only.
 

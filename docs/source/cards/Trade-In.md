@@ -1,4 +1,4 @@
-# TRADE-IN
+# Trade-In
 
 > Discard 1 Level 8 monster. Draw 2 cards.
 

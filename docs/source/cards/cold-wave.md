@@ -1,4 +1,4 @@
-# COLD WAVE
+# Cold Wave
 
 > This card can only be activated at the start of Main Phase 1. Until your next turn, you and your opponent cannot play or Set and Spell or Trap Cards.
 

@@ -1,4 +1,4 @@
-# THE AGENT OF FORCE - MARS
+# The Agent Of Force - Mars
 
 *   "The Agent of Force - Mars" is unaffected by Spell Cards just like "Guardian Kay'est" and "The Legendary Fisherman".
 *   Vs. "Reverse Trap", "The Agent of Force - Mars"' ATK & DEF become zero but cannot go below zero.

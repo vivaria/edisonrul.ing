@@ -1,4 +1,4 @@
-# FORCED BACK
+# Forced Back
 
 *   You cannot activate this card when a monster is Set.
 *   If a monster with a Flip Effect is Flip Summoned and you activate “Forced Back”, then the Flip Effect never activates.

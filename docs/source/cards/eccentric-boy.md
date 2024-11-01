@@ -1,4 +1,4 @@
-# ECCENTRIC BOY
+# Eccentric Boy
 
 Ⓒ When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. ① The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effect, its effect(s) is negated, and it is removed from play when removed from the field.
 

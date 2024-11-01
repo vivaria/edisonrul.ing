@@ -1,4 +1,4 @@
-# SHIELD & SWORD
+# Shield & Sword
 
 *   You can use this card with "Catapult Turtle". In this case, inflict Direct Damage equal to half of the Tribute monster's original DEF to your opponent's Life Points.
 *   This card switches the original ATK/DEF only. After this, apply all modifiers to the new ATK/DEF.

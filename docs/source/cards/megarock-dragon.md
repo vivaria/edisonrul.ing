@@ -1,4 +1,4 @@
-# MEGAROCK DRAGON
+# Megarock Dragon
 
 *   You must remove from play at least 1 Rock-Type monster in your Graveyard in order to Special Summon “Megarock Dragon”.
 *   If you Special Summon “Mega-Rock Dragon” with an original ATK of 2100 points, and you equip it with “Megamorph”, its current ATK will become 4200 or 1050 depending on your Life Points.

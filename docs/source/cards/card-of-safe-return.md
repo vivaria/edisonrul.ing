@@ -1,4 +1,4 @@
-# CARD OF SAFE RETURN
+# Card Of Safe Return
 
 *   If your opponent uses "Monster Reborn" to Special Summon a monster from your Graveyard, you get to draw a card.
 *   If the Special Summon is negated with "Horn of Heaven" or "Solemn Judgment" you do not get to draw a card.

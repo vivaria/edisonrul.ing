@@ -1,4 +1,4 @@
-# DIMENSION JAR
+# Dimension Jar
 
 *   This card should say "FLIP: Both players can remove from play up to 3 cards from their opponent's Graveyard.", not "up to 3 monsters".
 *   You can use "Dimension Jar"'s effect for zero to three cards, so even if your opponent has less than 3 cards in his Graveyard you can still use "Dimension Jar"'s effect.

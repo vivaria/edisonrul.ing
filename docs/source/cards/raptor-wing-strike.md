@@ -1,4 +1,4 @@
-# RAPTOR WING STRIKE
+# Raptor Wing Strike
 
 *   Sending 1 “Blacking” monster to the Deck is a cost.
 *   You cannot activate “Raptor Wing Strike” if you have no “Blackwing” monsters in your Deck.

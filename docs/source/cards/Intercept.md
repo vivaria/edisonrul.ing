@@ -1,4 +1,4 @@
-# INTERCEPT
+# Intercept
 
 *   "Intercept" targets the Tribute Summoned monster.
 *   If the Tribute Summoned monster has an effect that activates when it is Tribute Summoned, the player that Tribute Summoned the monster activates its effect. "Intercept" is chained to the monster's effect.

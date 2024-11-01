@@ -1,4 +1,4 @@
-# THORN OF MALICE
+# Thorn Of Malice
 
 *   “Thorn of Malice’s” effect that reduces a monster’s ATK & DEF starts a Chain. The ATK & DEF reduction from “Thorn of Malice” lasts as long as the reduced monster is face-up on the field.
 *   Effects like “Imperial Order” or “Spell Canceller” will not remove the ATK & DEF reduction.

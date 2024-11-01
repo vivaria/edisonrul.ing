@@ -1,4 +1,4 @@
-# DESTINY HERO - DOOM LORD
+# Destiny Hero - Doom Lord
 
 > ① Once per turn, if this card is in face-up Attack Position, you can remove from play 1 monster your opponent controls. Ⓒ If you use this effect, you cannot declare an attack this turn, and the removed monster will be returned to the opponent's side of the field in the same battle position during your second Standby Phase after activation.
 

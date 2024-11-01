@@ -1,4 +1,4 @@
-# LEVIA-DRAGON - DAEDALUS
+# Levia-Dragon - Daedalus
 
 *   You can send "A Legendary Ocean" to the Graveyard to activate "Levia-Dragon Daedalus"' effect, but you can't send "Maiden of the Aqua".
 *   You can't send a face-down "Umi" or "A Legendary Ocean" to activate "Levia-Dragon Daedalus"' effect.

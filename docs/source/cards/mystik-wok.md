@@ -1,4 +1,4 @@
-# MYSTIK WOK
+# Mystik Wok
 
 *   Tributing a monster for "Mystik Wok" is a cost, so you can Tribute "The Legendary Fisherman" or "The Agent of Force - Mars".
 *   The ATK or DEF is the current number, not the original number.

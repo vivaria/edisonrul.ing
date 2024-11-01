@@ -1,4 +1,4 @@
-# CARD TROOPER
+# Card Trooper
 
 > ① Once per turn, you can send up to 3 cards from the top of your Deck to the Graveyard. This card gains 500 ATK for each card sent to the Graveyard until the End Phase. ② When this card you control is destroyed and sent to the Graveyard, draw 1 card.The ② mandatory Trigger Effect only activates if "Card Trooper" is destroyed while on your side of the field.
 

@@ -1,4 +1,4 @@
-# REPTILIANNE VIPER
+# Reptilianne Viper
 
 *   This effect targets 1 face-up monster with 0 [ATK](https://yugioh.fandom.com/wiki/ATK) your opponent controls.
 *   You keep control of the monster taken by this effect even if it is flipped face-down or its ATK changes.

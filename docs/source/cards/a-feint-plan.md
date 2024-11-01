@@ -1,4 +1,4 @@
-# A FEINT PLAN
+# A Feint Plan
 
 > A player cannot attack face-down monsters during this turn.
 

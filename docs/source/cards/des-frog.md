@@ -1,4 +1,4 @@
-# DES FROG
+# Des Frog
 
 *   The effect of “Des Frog” is a Trigger Effect that can be chained to. It activates when “Des Frog” is Tribute Summoned successfully.
 *   Count the number of “T.A.D.P.O.L.E.(s)” when you resolve this effect, not when it activates.

@@ -1,4 +1,4 @@
-# ATHENA
+# Athena
 
 > ① Each time a Fairy-Type monster is Summoned, inflict 600 damage to your opponent. ② Once per turn, you can send 1 Fairy-Type monster you control, except "Athena", to the Graveyard and Special Summon 1 Fairy-Type monster from your Graveyard, except "Athena".
 

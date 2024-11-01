@@ -1,4 +1,4 @@
-# BLAST WITH CHAIN
+# Blast With Chain
 
 *   This card targets 1 monster.
 *   If you use "Emergency Provisions", it sends Spell & Trap Cards to the Graveyard, it does not destroy them, so if you send this card to the Graveyard with "Emergency Provisions", this card's effect will not be activated. The same applies to "Woodland Sprite".

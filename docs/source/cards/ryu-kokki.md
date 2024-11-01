@@ -1,4 +1,4 @@
-# RYU KOKKI
+# Ryu Kokki
 
 > ① If this card battles a Warrior or Spellcaster-Type monster, destroy that monster at the end of the Damage Step.
 

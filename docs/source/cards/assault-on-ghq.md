@@ -1,4 +1,4 @@
-# ASSAULT ON GHQ
+# Assault On GHQ
 
 > Select 1 monster on your side of the field to activate this card. Destroy the selected card and send 2 cards from the top of your opponent's Deck to the Graveyard.
 

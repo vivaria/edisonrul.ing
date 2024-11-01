@@ -1,4 +1,4 @@
-# GUNDARI
+# Gundari
 
 *   The effect to return “Gundari” and the Synchro Monster activates at the start of the Damage Step.
 *   If “Gundari” battles a Synchro Monster while “G.B. Hunter” is on the field, “Gundari” is returned to the hand and the Synchro Monster stays on the field.

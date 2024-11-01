@@ -1,4 +1,4 @@
-# SOLITAIRE MAGICIAN
+# Solitaire Magician
 
 *   This effect targets 2 monsters.
 *   You reduce the Level of the targeted "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster when the effect resolves.

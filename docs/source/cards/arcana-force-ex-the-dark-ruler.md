@@ -1,4 +1,4 @@
-# ARCANA FORCE EX - THE DARK RULER
+# Arcana Force Ex - The Dark Ruler
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. ① When this card is Special Summoned, toss a coin: ● Heads: This card can attack twice during the same Battle Phase. If this card battles twice using this effect, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect. ● Tails: If this card is destroyed, destroy all cards on the field.
 

@@ -1,4 +1,4 @@
-# DISCIPLE OF THE FORBIDDEN SPELL
+# Disciple Of The Forbidden Spell
 
 *   Choosing Attributes is a Trigger Effect that activates when “Disciple of the Forbidden Spell” is Summoned. Your opponent could chain “Disappear” to remove from play 1 “Disciple of the Forbidden Spell” in the Graveyard and you would choose 1 less Attribute.
 *   If “Chain Destruction” is chained to the Trigger Effect when “Disciple of the Forbidden Spell” is Summoned, “Chain Destruction” will resolve first, so all your copies of “Disciple of the Forbidden Spell” will be in the Graveyard, and you choose a number of Attributes equal to the new amount.

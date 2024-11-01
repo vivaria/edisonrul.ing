@@ -1,4 +1,4 @@
-# HEALING WAVE GENERATOR
+# Healing Wave Generator
 
 *   "Healing Wave Generator"'s effect targets 1 other monster you control.
 *   If an effect is chained that removes the targeted monster from the field or flips it face-down, "Healing Wave Generator"'s effect disappears.

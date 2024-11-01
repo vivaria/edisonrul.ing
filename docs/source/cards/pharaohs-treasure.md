@@ -1,4 +1,4 @@
-# PHARAOH'S TREASURE
+# Pharaoh'S Treasure
 
 *   You cannot select the "Pharaoh’s Treasure" you just drew and sent to the Graveyard as the card to place in your hand.
 *   You can select a face-up "Pharaoh’s Treasure" in your deck as 1 of the 5 cards for "Painful Choice", but because "Painful Choice" is not a draw, the effect of "Pharaoh’s Treasure" will not be activated.

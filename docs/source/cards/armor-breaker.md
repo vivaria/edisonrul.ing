@@ -1,4 +1,4 @@
-# ARMOR BREAKER
+# Armor Breaker
 
 > ① Once per turn, you can equip this card to a Warrior-Type monster you control, OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, when that monster inflicts Battle Damage to your opponent, destroy 1 card on the field. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, this card is destroyed instead.)
 

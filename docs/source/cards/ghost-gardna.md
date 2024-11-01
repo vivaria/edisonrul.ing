@@ -1,4 +1,4 @@
-# GHOST GARDNA
+# Ghost Gardna
 
 *   "Ghost Gardna"'s second effect targets 1 of your opponent's monsters.
 *   If a "Ghost Gardna" in your hand or Deck is destroyed and sent to your Graveyard, its effect activates.

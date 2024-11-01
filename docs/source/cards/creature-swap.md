@@ -1,4 +1,4 @@
-# CREATURE SWAP
+# Creature Swap
 
 *   "Creature Swap" does not target. The monsters are chosen when its effect resolves, not when "Creature Swap" is activated.
 *   The opponent cannot chain "Fairy’s Hand Mirror", "Riryoku Field", or "Shift" to "Creature Swap" because it does not target. For the same reason, "Lord of D." does not prevent Dragon-Type monsters from being selected, and "Freed the Matchless General" will not negate the effect of "Creature Swap".

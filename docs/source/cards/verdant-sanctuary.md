@@ -1,4 +1,4 @@
-# VERDANT SANCTUARY
+# Verdant Sanctuary
 
 > ① When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.
 

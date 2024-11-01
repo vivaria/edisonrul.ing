@@ -1,4 +1,4 @@
-# LUMINA, LIGHTSWORN SUMMONER
+# Lumina, Lightsworn Summoner
 
 > ① Once per turn, you can discard 1 card to Special Summon 1 Level 4 or lower "Lightsworn" monster from your Graveyard. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 

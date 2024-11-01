@@ -1,4 +1,4 @@
-# FUSION SWORD MURASAME BLADE
+# Fusion Sword Murasame Blade
 
 *   If this card is face-down on the field, it can be destroyed by effects that destroy Spell Cards.
 *   When you activate this card, the opponent can chain a card like "Magic Jammer" that will negate its activation and destroy it.

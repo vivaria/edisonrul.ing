@@ -1,4 +1,4 @@
-# EMERGENCY PROVISIONS
+# Emergency Provisions
 
 *   Sending Spell and Trap Cards on your side of the field to the Graveyard is a cost for activating this card.
 *   You can activate a Normal Spell Card, such as "Raigeki", then chain "Emergency Provisions" and send "Raigeki" to the Graveyard to gain 1000 Life Points, and the effect of "Raigeki" will still resolve.

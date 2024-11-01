@@ -1,4 +1,4 @@
-# ANCIENT LEAF
+# Ancient Leaf
 
 > If you have 9000 or more Life Points, you can pay 2000 Life Points to draw 2 cards.
 

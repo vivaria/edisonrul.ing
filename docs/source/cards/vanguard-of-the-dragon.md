@@ -1,4 +1,4 @@
-# VANGUARD OF THE DRAGON
+# Vanguard Of The Dragon
 
 *   Sending 1 Dragon to the Graveyard is a cost to activate this monster’s effect.
 *   “Vanguard of the Dragon’s” effect that Special Summons a monster is a targeted effect.

@@ -1,4 +1,4 @@
-# DARK CALLING
+# Dark Calling
 
 > Remove from play, from your hand or your Graveyard, the Fusion Material Monsters listed on a Fusion Monster Card that can only be Special Summoned with "Dark Fusion", and Special Summon that monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon with "Dark Fusion".)
 

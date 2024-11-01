@@ -1,4 +1,4 @@
-# SWORDS OF CONCEALING LIGHT
+# Swords Of Concealing Light
 
 *   If your second Standby Phase after activation of “Swords of Concealing Light” is skipped with “Solomon’s Lawbook”, etc., then “Swords of Concealing Light” is not destroyed and remains active on the field until removed from the field by another effect.
 *   While your “Swords of Concealing Light” is active on the field, your opponent can still Summon new monsters in Attack Position.

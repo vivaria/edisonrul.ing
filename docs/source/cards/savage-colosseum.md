@@ -1,4 +1,4 @@
-# SAVAGE COLOSSEUM
+# Savage Colosseum
 
 *   The effect of gain Life Points and the effect to destroy monsters both start a Chain.
 *   Monsters that are unaffected by Spell Cards, such as “Horus the Black Flame Dragon LV6,” do not have to attack and are not destroyed if they do not attack.

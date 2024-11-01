@@ -1,4 +1,4 @@
-# BLACK LUSTER SOLDIER - ENVOY OF THE BEGINNING
+# Black Luster Soldier - Envoy Of The Beginning
 
 *   "Black Luster Soldier - Envoy of the Beginning" is treated as a different card from "Black Luster Soldier". So you can have 3 copies of "Black Luster Soldier - Envoy of the Beginning" and 3 copies of "Black Luster Soldier" in your Deck & Side Deck combined.
 *   "Black Luster Soldier - Envoy of the Beginning" can remove itself from play using its first effect.

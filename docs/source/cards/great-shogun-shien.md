@@ -1,4 +1,4 @@
-# GREAT SHOGUN SHIEN
+# Great Shogun Shien
 
 > Ⓤ If you control 2 or more "Six Samurai" monsters, you can Special Summon this card from your hand. ① Your opponent can activate only 1 Spell/Trap Card each turn. ② If this card would be destroyed, you can destroy a "Six Samurai" monster you control instead.
 

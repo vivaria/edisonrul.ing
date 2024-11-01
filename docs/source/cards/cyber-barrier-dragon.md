@@ -1,4 +1,4 @@
-# CYBER BARRIER DRAGON
+# Cyber Barrier Dragon
 
 *   Even if there are 2 or more “Cyber Barrier Dragon” on your side of the field in Attack Position, only the first attack is negated.
 *   If you negate the first attack of “Mataza the Zapper”, it can still attack a 2nd time. “Asura Priest” could also attack again, as long as it attacks a different monster.

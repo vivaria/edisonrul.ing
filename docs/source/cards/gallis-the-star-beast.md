@@ -1,4 +1,4 @@
-# GALLIS THE STAR BEAST
+# Gallis The Star Beast
 
 > ① You can reveal this card in your hand to send the top card of your Deck to the Graveyard. If that card is a monster, inflict damage to your opponent equal to its Level x 200, and Special Summon this card from your hand. If it is not a monster, destroy this card.
 

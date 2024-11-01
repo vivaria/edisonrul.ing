@@ -1,4 +1,4 @@
-# PETEN THE DARK CLOWN
+# Peten The Dark Clown
 
 *   Missing the Timing: “Peten the Dark Clown” is a “when… you can” optional Trigger Effect. This means that “Peten” being sent to the Graveyard has to be the very last thing that happened in order to activate its effect.
 *   If “Peten the Dark Clown” is Tributed for a Tribute Summon, the last thing that happened was that a monster was Summoned, so the effect of “Peten” does not activate.

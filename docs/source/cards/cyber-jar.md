@@ -1,4 +1,4 @@
-# CYBER JAR
+# Cyber Jar
 
 *   Spirit Monsters, Toon Monsters, Ritual Monsters, etc. are sent to your hand as they cannot be Special Summoned or must be Special Summoned is a specific way.
 *   Both players reveal all 5 cards to each other, and then the turn player may Special Summon his monsters, then the opponent. After revealing the cards, you may shuffle them around so you can Special Summon monsters face-down without the opponent knowing which monster is which.

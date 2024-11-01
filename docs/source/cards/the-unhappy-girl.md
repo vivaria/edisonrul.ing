@@ -1,4 +1,4 @@
-# THE UNHAPPY GIRL
+# The Unhappy Girl
 
 *   "The Unhappy Girl"'s effect only applies to "manual" changes. You can still change the monster's position with an effect.
 *   If "The Unhappy Girl" is in attack position and her controller uses "Waboku" or "Kuriboh" to take no damage from the attack, the attacking monster still cannot change battle position.

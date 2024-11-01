@@ -1,4 +1,4 @@
-# FINAL COUNTDOWN
+# Final Countdown
 
 *   You count turns for "Final Countdown" like this: Turn 1 is the turn you activate it, Turn 2 is your opponent's turn, Turn 3 is your turn after you activated "Final Countdown", etc.
 *   "Final Countdown" is immediately sent to the Graveyard when it resolves.

@@ -1,4 +1,4 @@
-# R - RIGHTEOUS JUSTICE
+# R - Righteous Justice
 
 *   Count the number of “Elemental Heroes” on your side of the field when the effect of “R – Righteous Justice” resolves.
 *   There must be enough Spell & Trap Cards on the field in order to activate “R – Righteous Justice”. If there are fewer Spell & Trap Cards than the number of your “Elemental Heroes” then you cannot activate it.

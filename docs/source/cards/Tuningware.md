@@ -1,4 +1,4 @@
-# TUNINGWARE
+# Tuningware
 
 > ① If this card is used for a Synchro Summon, you can treat it as a Level 2 monster. ② If this card is sent to the Graveyard for a Synchro Summon, draw 1 card.
 

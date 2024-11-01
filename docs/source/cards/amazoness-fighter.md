@@ -1,4 +1,4 @@
-# AMAZONESS FIGHTER
+# Amazoness Fighter
 
 > ① All Battle Damage to this card's controller that he/she takes from a battle involving this monster becomes 0.
 

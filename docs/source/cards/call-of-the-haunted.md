@@ -1,4 +1,4 @@
-# CALL OF THE HAUNTED
+# Call Of The Haunted
 
 > Select 1 monster from your Graveyard and Special Summon it in face-up Attack Position. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.
 

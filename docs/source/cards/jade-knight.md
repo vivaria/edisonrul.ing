@@ -1,4 +1,4 @@
-# JADE KNIGHT
+# Jade Knight
 
 > ① While this card is in Attack Position, face-up Machine-Type monsters you control with 1200 or less ATK cannot be destroyed by the effects of Trap Cards. ② When this face-up card is destroyed by battle and sent to the Graveyard, you can add 1 Level 4 LIGHT Machine-Type monster from your Deck to your hand.
 

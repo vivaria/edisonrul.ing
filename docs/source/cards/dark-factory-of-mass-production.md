@@ -1,4 +1,4 @@
-# DARK FACTORY OF MASS PRODUCTION
+# Dark Factory Of Mass Production
 
 *   You select the 2 Normal Monsters when you activate "Dark Factory of Mass Production".
 *   This card targets 2 monsters.

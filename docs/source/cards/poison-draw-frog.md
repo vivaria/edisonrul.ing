@@ -1,4 +1,4 @@
-# POISON DRAW FROG
+# Poison Draw Frog
 
 > ① When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.
 

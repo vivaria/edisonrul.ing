@@ -1,4 +1,4 @@
-# SKYSCRAPER
+# Skyscraper
 
 > ① When an "Elemental Hero" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.
 

@@ -1,4 +1,4 @@
-# DRAGONIC KNIGHT
+# Dragonic Knight
 
 *   "Dragonic Knight"'s Quick Effect is chained to the effect of your opponent's Monster Card that would destroy your card(s). The card(s) targeted by the effect of your opponent's Monster Card are sent to the Graveyard as a cost.
 *   "Dragonic Knight"'s effect can only be activated if the effect of your opponent Monster Card targets card(s) you control. When your opponent activates the effect of "Sacred Phoenix of Nephthys" to destroy every Spell and Trap Card on the field, you cannot chain "Dragonic Knight"'s effect, because the effect of "Sacred Phoenix of Nephthys" does not target your Spell or Trap Cards on the field.

@@ -1,4 +1,4 @@
-# REVOKE FUSION
+# Revoke Fusion
 
 *   Fusion Monsters that are not Fusion Summoned with "Polymerization" ("XYZ-Dragon Cannon", etc.) can be selected with "Revoke Fusion" and you can Special Summon 1 of the Fusion Material Monsters listed on the Fusion Monster.
 *   You cannot Special Summon a Fusion Material Monster that is not specified by name. Example: You cannot select "Chimeratech Overdragon" with "Revoke Fusion" and Special Summon a "Blowback Dragon", but you can Special Summon a "Cyber Dragon".

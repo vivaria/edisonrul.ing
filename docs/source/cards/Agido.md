@@ -1,4 +1,4 @@
-# AGIDO
+# Agido
 
 > ① When this card is destroyed and sent to the Graveyard as a result of battle, roll a six-sided die. You can Special Summon 1 Fairy-Type monster from your Graveyard whose Level is equal to the number rolled. (If the result is 6, you can Special Summon a Level 6 or higher monster.)
 

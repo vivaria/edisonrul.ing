@@ -1,4 +1,4 @@
-# DRILL SYNCHRON
+# Drill Synchron
 
 > While you control this face-up card, during each battle between a Warrior Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect, you can draw 1 card.
 

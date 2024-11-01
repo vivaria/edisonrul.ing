@@ -1,4 +1,4 @@
-# SUPERVISE
+# Supervise
 
 > Ⓒ Equip only to a Gemini monster. ① It is treated as an Effect Monster, and gains its effect(s). ② When this face-up card on the field is sent to the Graveyard, select and Special Summon 1 Normal Monster from your Graveyard.
 

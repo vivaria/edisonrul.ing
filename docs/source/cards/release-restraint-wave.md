@@ -1,4 +1,4 @@
-# RELEASE RESTRAINT WAVE
+# Release Restraint Wave
 
 *   This effect targets 1 face-up Equip Spell Card you control.
 *   All cards destroyed by “Release Restraint Wave” are destroyed at the same time.

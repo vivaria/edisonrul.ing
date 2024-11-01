@@ -1,4 +1,4 @@
-# AIRKNIGHT PARSHATH
+# Airknight Parshath
 
 > ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② When this card inflicts Battle Damage to your opponent, draw 1 card.
 

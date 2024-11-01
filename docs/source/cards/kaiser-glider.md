@@ -1,4 +1,4 @@
-# KAISER GLIDER
+# Kaiser Glider
 
 *   The "same ATK" as "Kaiser Glider" means the same as the current ATK, not the original ATK.
 *   When "Kaiser Glider" is in Attack Position and battles a monster with the same ATK, only the other monster is destroyed.

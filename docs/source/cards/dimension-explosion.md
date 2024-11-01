@@ -1,4 +1,4 @@
-# DIMENSION EXPLOSION
+# Dimension Explosion
 
 > Return 1 face-up Fusion Monster you control to the Fusion Deck. ① Both players select up to 2 of their monsters that are removed from play, and Special Summon them.
 

@@ -1,4 +1,4 @@
-# DESTINY HERO - DIAMOND DUDE
+# Destiny Hero - Diamond Dude
 
 > ① Once per turn, you can reveal the top card of your Deck. If it is a Normal Spell Card, send it to the Graveyard and you can activate its effect during the Main Phase of your next turn. If the card is not a Normal Spell Card, place it on the bottom of your Deck.
 

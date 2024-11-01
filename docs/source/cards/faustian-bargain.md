@@ -1,4 +1,4 @@
-# FAUSTIAN BARGAIN
+# Faustian Bargain
 
 *   This effect targets the 1 monster you send to the Graveyard.
 *   You send the monster to the Graveyard when the effect resolves.

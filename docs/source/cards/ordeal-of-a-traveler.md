@@ -1,4 +1,4 @@
-# ORDEAL OF A TRAVELER
+# Ordeal Of A Traveler
 
 *   You can activate the effect of "Ordeal of a Traveler" each time your opponent attacks.
 *   You must show the card your opponent selects to your opponent.

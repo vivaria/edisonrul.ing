@@ -1,4 +1,4 @@
-# ABYSSAL DESIGNATOR
+# Abyssal Designator
 
 > Pay 1000 Life Points. Declare a Type and an Attribute. Your opponent must send 1 monster with both the declared Type and Attribute from their hand or Deck to the Graveyard.
 

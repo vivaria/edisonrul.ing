@@ -1,4 +1,4 @@
-# NEO-SPACIAN AQUA DOLPHIN
+# Neo-Spacian Aqua Dolphin
 
 *   This effect does not target.
 *   When this effect resolves you look at your opponent’s hand. If there are no Monster Cards, do nothing. If the opponent does have a Monster Card, and you have a monster on the field with greater or equal ATK, you will destroy the opponent’s Monster Card and inflict the 500 damage at the same time.

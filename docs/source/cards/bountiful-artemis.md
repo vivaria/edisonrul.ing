@@ -1,4 +1,4 @@
-# BOUNTIFUL ARTEMIS
+# Bountiful Artemis
 
 > ① Draw 1 card from your Deck each time a Counter Trap Card is activated.
 

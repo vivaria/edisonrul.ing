@@ -1,4 +1,4 @@
-# ADHESIVE EXPLOSIVE
+# Adhesive Explosive
 
 > ① If an opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. ② Destroy the equipped monster during the Standby Phase of your opponent's next turn.
 

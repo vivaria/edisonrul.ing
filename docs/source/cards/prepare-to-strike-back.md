@@ -1,4 +1,4 @@
-# PREPARE TO STRIKE BACK
+# Prepare To Strike Back
 
 *   The effect of “Prepare to Strike Back” can be chained to.
 *   The damage from “Prepare to Strike Back” is effect damage, not battle damage.

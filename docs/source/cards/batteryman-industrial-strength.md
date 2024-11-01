@@ -1,4 +1,4 @@
-# BATTERYMAN INDUSTRIAL STRENGTH
+# Batteryman Industrial Strength
 
 *   Removing 1 Thunder-Type monster from play is a cost to activate this effect.
 *   "Batteryman Industrial Strength"'s effect cannot be activated unless there is at least 1 monster and at least 1 Spell or Trap Card on the field.

@@ -1,4 +1,4 @@
-# FROZEN SOUL
+# Frozen Soul
 
 > You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.
 

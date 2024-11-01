@@ -1,4 +1,4 @@
-# AMBULANCEROID
+# Ambulanceroid
 
 > ① When a "roid" monster is added from your Graveyard to your hand, you can Special Summon that monster.
 

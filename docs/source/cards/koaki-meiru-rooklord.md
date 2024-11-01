@@ -1,4 +1,4 @@
-# KOA’KI MEIRU ROOKLORD
+# Koa’Ki Meiru Rooklord
 
 *   You can Tribute Summon this card by Tributing 1 “Koa’ki Meiru” monster” is not an effect.
 *   Removing from play 1 “Koa’ki Meiru” card in your Graveyard is a cost.

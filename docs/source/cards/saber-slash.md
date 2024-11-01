@@ -1,4 +1,4 @@
-# SABER SLASH
+# Saber Slash
 
 > Destroy a number of face-up cards on the field equal to the number of face-up Attack Position "X-Saber" monsters you control.
 

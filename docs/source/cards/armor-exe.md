@@ -1,4 +1,4 @@
-# ARMOR EXE
+# Armor Exe
 
 > ① This card cannot attack in the same turn it is Normal Summoned, Flip Summoned, or Special Summoned. Ⓜ During each of your and your opponent's Standby Phases, remove 1 Spell Counter on your side of the field. If you do not, this card is destroyed.
 

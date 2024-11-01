@@ -1,4 +1,4 @@
-# HAND OF THE SIX SAMURAI
+# Hand Of The Six Samurai
 
 > ① While you control another "Six Samurai" monster, you can Tribute 1 "Six Samurai" monster to destroy 1 monster on the field.
 

@@ -1,4 +1,4 @@
-# DESTRUCTION JAMMER
+# Destruction Jammer
 
 *   "Destruction Jammer" cannot be chained to effects that may or may not destroy a monster, like "Acid Trap Hole", "Blowback Dragon", "Magical Dimension", "Reign-Beaux, Overlord of Dark World", "Snipe Hunter", etc.
 *   "Destruction Jammer" cannot be chained to the activation of the Ignition-like effect of a Continuous Spell or Trap Card (like "Skull Lair", etc.).

@@ -1,4 +1,4 @@
-# DIMENSIONAL FISSURE
+# Dimensional Fissure
 
 > ① Any monster sent to the Graveyard is removed from play instead.
 

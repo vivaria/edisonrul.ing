@@ -1,4 +1,4 @@
-# TWIN SWORDS OF FLASHING LIGHT - TRYCE
+# Twin Swords Of Flashing Light - Tryce
 
 *   Sending a card to the Graveyard is a cost.
 *   If the first attack of a monster equipped with "Twin Swords of Flashing Light - Tryce" is negated by "Magic Cylinder", the monster can still perform the second attack.

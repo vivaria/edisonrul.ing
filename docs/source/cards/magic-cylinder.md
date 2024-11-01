@@ -1,4 +1,4 @@
-# MAGIC CYLINDER
+# Magic Cylinder
 
 *   The effect of "Magic Cylinder" negates the attack of one attacking monster, but that monster is still considered to have attacked and may not attack again or have its Battle Position manually changed.
 *   Monsters that may attack twice during the Battle Phase, such as "Hayabusa Knight", that have their first attack negated by the effect of "Magic Cylinder" may still make a second attack.

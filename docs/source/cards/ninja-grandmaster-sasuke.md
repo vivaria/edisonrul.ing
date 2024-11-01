@@ -1,4 +1,4 @@
-# NINJA GRANDMASTER SASUKE
+# Ninja Grandmaster Sasuke
 
 *   "Ninja Grandmaster Sasuke"’s effect activates at the beginning of the Damage Step, before the monster is flipped face-up. So if "Ninja Grandmaster Sasuke" attacks a face-down Defense Position monster, "Ninja Grandmaster Sasuke" will not destroy it with his effect because it is not flipped face-up until after "Ninja Grandmaster Sasuke"’s effect would activate.
 *   A face-up Defense Position "Spirit Reaper" will be destroyed by the effect of "Ninja Grandmaster Sasuke". "Ninja Grandmaster Sasuke"’s effect does not target. So if "Ninja Grandmaster Sasuke" attacks "Spirit Reaper", "Spirit Reaper" is destroyed by "Ninja Grandmaster Sasuke"’s effect, not by "Spirit Reaper"’s effect.

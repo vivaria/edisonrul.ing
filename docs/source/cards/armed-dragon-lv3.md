@@ -1,4 +1,4 @@
-# ARMED DRAGON LV3
+# Armed Dragon LV3
 
 > ① During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 "Armed Dragon LV5" from your hand or Deck.
 

@@ -1,4 +1,4 @@
-# GIFT OF THE MARTYR
+# Gift Of The Martyr
 
 *   “Gift of the Martyr” increases the monster’s ATK by the original ATK of the monster sent to the Graveyard.
 *   Sending a monster to the Graveyard is a cost for “Gift of the Martyr”. This is an effect that targets.

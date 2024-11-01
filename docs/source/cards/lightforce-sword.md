@@ -1,4 +1,4 @@
-# LIGHTFORCE SWORD
+# Lightforce Sword
 
 *   If you chain "Lightforce Sword" to your opponent's Ritual Spell Card and remove from play the only Ritual Monster they could Ritual Summon, the Ritual Spell Card's effect disappears.
 *   If the Standby Phase of your opponent's 4th turn is skipped, the card remains removed from play face-down.

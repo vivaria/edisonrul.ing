@@ -1,4 +1,4 @@
-# AURKUS, LIGHTSWORN DRUID
+# Aurkus, Lightsworn Druid
 
 > ① "Lightsworn" monsters cannot be targeted by effects. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
 

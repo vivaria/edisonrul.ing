@@ -1,4 +1,4 @@
-# SHINATO, KING OF A HIGHER PLANE
+# Shinato, King Of A Higher Plane
 
 *   When your "Shinato, King of a Higher Plane" destroys "Gradius' Option" or "Maju Garzett", your opponent takes no damage from "Shinato, King of a Higher Plane"'s effect.
 *   If "Shinato, King of a Higher Plane" is destroyed before monsters are sent to the Graveyard, for example if removed from play by "D. D. Warrior Lady", his effect does not activate. But if "Shinato, King of a Higher Plane" attacks "Yomi Ship", "Shinato, King of a Higher Plane" inflicts the damage from his effect even though he will be destroyed by "Yomi Ship"'s effect after "Yomi Ship" is sent to the Graveyard.

@@ -1,4 +1,4 @@
-# SCARY MOTH
+# Scary Moth
 
 *   Monsters Special Summoned before “Scary Moth” is Summoned do not count for this effect.
 *   If you activate “Monster Reborn” while “Scary Moth” and “Black Garden” are face-up on your side of the field, you will be able to Special Summon a monster with “Monster Reborn.”

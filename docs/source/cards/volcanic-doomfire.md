@@ -1,4 +1,4 @@
-# VOLCANIC DOOMFIRE
+# Volcanic Doomfire
 
 *   This card can be Special Summoned from the Graveyard, as long as it was properly Special Summon first, and then sent to the Graveyard.
 *   Monster Tokens destroyed by this card’s effect “…destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect” count as monsters, and 500 damage will be inflicted per Token.

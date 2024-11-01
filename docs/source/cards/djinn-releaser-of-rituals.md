@@ -1,4 +1,4 @@
-# DJINN RELEASER OF RITUALS
+# Djinn Releaser Of Rituals
 
 > ① When you Ritual Summon a Ritual Monster, you can remove from play this card from your Graveyard as 1 of the monsters required for the Ritual Summon. ② While the monster Ritual Summoned using this card is face-up on the field, your opponent cannot Special Summon.
 

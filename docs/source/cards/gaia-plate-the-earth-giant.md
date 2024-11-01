@@ -1,4 +1,4 @@
-# GAIA PLATE THE EARTH GIANT
+# Gaia Plate The Earth Giant
 
 > Ⓤ You can Special Summon this card by removing from play any 2 Rock-Type monsters in your Graveyard. Ⓜ During your Standby Phase, remove from play 1 Rock-Type monster in your Graveyard, or send this card to the Graveyard. ① Halve the ATK and DEF of any monster that battles with this card.
 

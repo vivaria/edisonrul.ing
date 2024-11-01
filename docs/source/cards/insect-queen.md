@@ -1,4 +1,4 @@
-# INSECT QUEEN
+# Insect Queen
 
 *   Insect Monster Tokens are placed during the End Phase for each monster "Insect Queen" destroyed that turn (1 for 1).
 *   Insect Monster Tokens are placed during the End Phase, not during the Battle Phase when "Insect Queen" destroys a monster.

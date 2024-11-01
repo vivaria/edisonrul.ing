@@ -1,4 +1,4 @@
-# GLADIATOR BEAST WAR CHARIOT
+# Gladiator Beast War Chariot
 
 > Activate only if you control a "Gladiator Beast" monster. Negate the activation of an Effect Monster's effect, and destroy it.
 

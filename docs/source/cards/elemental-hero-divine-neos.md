@@ -1,4 +1,4 @@
-# ELEMENTAL HERO DIVINE NEOS
+# Elemental Hero Divine Neos
 
 *   Removing 1 "Neos", "Neo-Spacian", "Elemental Hero", "Destiny Hero", or "Evil Hero" monster in your Graveyard from play is a cost.
 *   You can remove from play a Normal Monster "Neos" or "Elemental Hero" monster to activate the effect of "Elemental Hero Divine Neos". In this case "Elemental Hero Divine Neos" will not gain any effects.

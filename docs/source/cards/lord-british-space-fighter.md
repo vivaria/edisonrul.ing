@@ -1,4 +1,4 @@
-# LORD BRITISH SPACE FIGHTER
+# Lord British Space Fighter
 
 *   This effect activates at the end of the Damage Step.
 *   The second effect targets 1 Set card on the field.

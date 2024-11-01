@@ -1,4 +1,4 @@
-# DESTINY END DRAGOON
+# Destiny End Dragoon
 
 > Ⓒ A Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. ① Once per turn, you can destroy 1 monster your opponent controls and inflict damage to your opponent equal to its ATK. If you activate this effect you cannot conduct your Battle Phase this turn. ② During your Standby Phase, if this card is in your Graveyard you can remove from play 1 "Destiny Hero" card from your Graveyard to Special Summon this card.
 

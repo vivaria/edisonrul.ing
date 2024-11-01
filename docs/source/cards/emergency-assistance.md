@@ -1,4 +1,4 @@
-# EMERGENCY ASSISTANCE
+# Emergency Assistance
 
 *   This effect targets 1 monster.
 *   A monster that was destroyed while being treated as a Spell Card can be Summoned by this effect.

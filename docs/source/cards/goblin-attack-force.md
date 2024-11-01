@@ -1,4 +1,4 @@
-# GOBLIN ATTACK FORCE
+# Goblin Attack Force
 
 *   If "Goblin Attack Force"'s attack is negated, it is not shifted to Defense Position at the end of the Battle Phase.
 *   If you attack with "Goblin Attack Force" and it is shifted to Defense Position with its effect, if your opponent takes control of it during their following turn they cannot manually change it to Attack Position.

@@ -1,4 +1,4 @@
-# THUNDER NYAN NYAN
+# Thunder Nyan Nyan
 
 *   You may Summon "Thunder Nyan Nyan" even if you have non-LIGHT monsters on the field, but she will be destroyed.
 *   You can have face-down non-LIGHT monsters on your side of the field, "Thunder Nyan Nyan" will not be destroyed by her own effect, but if one of these monsters is flipped face-up, she will be destroyed.

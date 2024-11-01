@@ -1,4 +1,4 @@
-# NIGHTMARE WHEEL
+# Nightmare Wheel
 
 *   You can target a face-down monster for "Nightmare Wheel".
 *   If you activate "Nightmare Wheel" during the Battle Step and target a monster that is attacking, the attack stops.

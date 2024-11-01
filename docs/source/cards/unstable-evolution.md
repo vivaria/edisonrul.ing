@@ -1,4 +1,4 @@
-# UNSTABLE EVOLUTION
+# Unstable Evolution
 
 *   "Unstable Evolution" changes the equipped monster's original ATK. If the equipped monster is targeted by "Shrink", its original ATK determined by "Unstable Evolution" is halved.
 *   When determining the equipped monster's ATK, apply the effect of "Unstable Evolution" and then apply any other ATK gains and losses.

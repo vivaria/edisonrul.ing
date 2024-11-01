@@ -1,4 +1,4 @@
-# GRANDMASTER OF THE SIX SAMURAI
+# Grandmaster Of The Six Samurai
 
 > Ⓤ You can only control 1 "Grandmaster of the Six Samurai" monster. Ⓢ While you control a face-up "Six Samurai" monster, you can Special Summon this card from your hand. ① When this card is destroyed by your opponent's card effect, add 1 "Six Samurai" monster from your Graveyard to your hand.
 

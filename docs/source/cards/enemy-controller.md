@@ -1,4 +1,4 @@
-# ENEMY CONTROLLER
+# Enemy Controller
 
 > Select and activate 1 of these effects:
 ● ① Change the Battle Position of 1 face-up monster your opponent controls.  

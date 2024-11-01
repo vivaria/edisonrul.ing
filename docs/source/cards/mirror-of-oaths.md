@@ -1,4 +1,4 @@
-# MIRROR OF OATHS
+# Mirror Of Oaths
 
 *   “Mirror of Oaths” does not target.
 *   You cannot activate “Mirror of Oaths” during the Damage Step.

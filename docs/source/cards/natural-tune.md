@@ -1,4 +1,4 @@
-# NATURAL TUNE
+# Natural Tune
 
 *   “Natural Tune” is a targeted effect.
 *   If the target of “Natural Tune” becomes Level 5 or higher afterwards, it is still treated as a Tuner.

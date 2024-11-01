@@ -1,4 +1,4 @@
-# ALL-OUT ATTACKS
+# All-Out Attacks
 
 > ① All monsters that are Special Summoned are changed to face-up Attack Position and must attack, if able, during the turn they are Special Summoned.
 

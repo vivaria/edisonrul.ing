@@ -1,4 +1,4 @@
-# ARCHFIEND GENERAL
+# Archfiend General
 
 > ① You can discard this card to the Graveyard to add 1 "Pandemonium" from your Deck to your hand. ② If this card is on the field but "Pandemonium" is not on the field, destroy this card.
 

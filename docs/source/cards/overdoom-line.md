@@ -1,4 +1,4 @@
-# OVERDOOM LINE
+# Overdoom Line
 
 *   The ATK boost of “Overdoom Line” starts a Chain, but does not target.
 *   The text on “Overdoom Line” that destroys itself is not an effect, so “Royal Decree” etc. will not stop it from being destroyed.

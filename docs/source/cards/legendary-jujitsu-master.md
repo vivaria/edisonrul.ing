@@ -1,4 +1,4 @@
-# LEGENDARY JUJITSU MASTER
+# Legendary Jujitsu Master
 
 > ① A monster that battles with this Defense Position card is returned to the top of its owner’s Deck at the end of the Damage Step.
 

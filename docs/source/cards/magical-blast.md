@@ -1,4 +1,4 @@
-# MAGICAL BLAST
+# Magical Blast
 
 *   The number of Spellcaster-Type monsters is counted when “Magical Blast” resolves. If your opponent chains an effect to “Magical Blast” that destroys all of your Spellcasters, it still resolves but will do 0 damage.
 *   The effect of “Magical Blast” that activates in the Draw Phase can be chained to.

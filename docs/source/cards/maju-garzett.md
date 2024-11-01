@@ -1,4 +1,4 @@
-# MAJU GARZETT
+# Maju Garzett
 
 *   You can't search for "Maju Garzett" with "Sangan" or "Mystic Tomato".
 *   You can Tribute face-down monsters for "Maju Garzett" and their ATK will count towards "Maju Garzett"'s ATK.

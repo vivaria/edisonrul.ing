@@ -1,4 +1,4 @@
-# EXCHANGE OF THE SPIRIT
+# Exchange Of The Spirit
 
 *   “Exchange of the Spirit” does not “send” cards to the Graveyard; it swaps the cards in your Deck with those in your Graveyard. So the effects of cards like “Penguin Knight”, “Cockroach Knight”, or “Archfiend of Gilfer” will not activate, nor would the effect of “Skull Invitation” deal any damage. If “Banisher of Light” is on the field no cards will become removed from play because they are not being sent to the Graveyard.
 *   “Necrovalley” will negate the effect of “Exchange of the Spirit”.

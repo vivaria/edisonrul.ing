@@ -1,4 +1,4 @@
-# MONSTER REINCARNATION
+# Monster Reincarnation
 
 > Discard 1 card. Add 1 Monster Card from your Graveyard to your hand.
 

@@ -1,4 +1,4 @@
-# JESTER CONFIT
+# Jester Confit
 
 > Ⓢ You can Special Summon this card from your hand in face-up Attack Position. ① If you do, return this card and 1 face-up monster your opponent controls to the hand during the End Phase of your opponent's next turn. Ⓤ You can only control 1 face-up "Jester Confit".
 

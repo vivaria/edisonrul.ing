@@ -1,4 +1,4 @@
-# ROSE TENTACLES
+# Rose Tentacles
 
 *   The restriction against Special Summoning “Rose Tentacles” is not an ‘effect’.
 *   The effect of “Rose Tentacles” to inflict damage happens at the end of the Damage Step.

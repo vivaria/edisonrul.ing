@@ -1,4 +1,4 @@
-# ANGEL O7
+# Angel O7
 
 > When this card is Tribute Summoned, it gains the following effect: ①● The effects of Effect Monsters cannot be activated.
 

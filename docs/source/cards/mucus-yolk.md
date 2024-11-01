@@ -1,4 +1,4 @@
-# MUCUS YOLK
+# Mucus Yolk
 
 *   Zero damage is not damage, so "Mucus Yolk" must have its ATK increased somehow in order to inflict damage to the opponent and activate its effect.
 *   "Mucus Yolk" can continue to activate its effect over and over again, as long as it keeps inflicting Battle Damage to the opponent.

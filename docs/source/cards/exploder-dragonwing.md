@@ -1,4 +1,4 @@
-# EXPLODER DRAGONWING
+# Exploder Dragonwing
 
 *   "Exploder Dragonwing" has a Trigger Effect that activates at the start of Damage Step. (Before a face-down monster is flipped face-up, at the same time as "Sasuke Samurai" or "Ninja Grandmaster Sasuke", etc.) You can choose whether or not to activate the effect of “Exploder Dragonwing.” However, you must activate the full effect (destroy without damage calculation + inflict effect damage) or none of it.
 *   “Exploder Dragonwing” inflicts damage equal to the destroyed monster’s ATK while it was on the field, including any adjustments from continuous effects.

@@ -1,4 +1,4 @@
-# DESTRUCTIVE DRAW
+# Destructive Draw
 
 *   If multiple copies of “Destructive Draw” are in play, a player can draw 1 card for each if they have no cards in their hand at the start of their Draw Phase (after conducting their normal draw).
 *   This card’s effect to draw a card starts a Chain.

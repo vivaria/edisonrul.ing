@@ -1,4 +1,4 @@
-# TRAP EATER
+# Trap Eater
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by sending 1 face-up Trap Card your opponent controls to the Graveyard.
 

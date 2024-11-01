@@ -1,4 +1,4 @@
-# ELEMENTAL HERO TEMPEST
+# Elemental Hero Tempest
 
 *   This card’s effect is an Ignition Effect that targets. Sending 1 card from your side of the field to the Graveyard is a cost to active the effect.
 *   You cannot use a Monster Token for the cost because they are not sent to the Graveyard.

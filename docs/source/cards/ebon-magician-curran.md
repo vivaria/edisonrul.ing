@@ -1,4 +1,4 @@
-# EBON MAGICIAN CURRAN
+# Ebon Magician Curran
 
 *   The effect of “Ebon Magician Curran” is a Trigger Effect that can be chained to.
 *   Count the number of monsters on the opponent’s side of the field when you resolve the effect of “Ebon Magician Curran”, not when it activates.

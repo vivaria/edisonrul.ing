@@ -1,4 +1,4 @@
-# SANGUINE SWAMP
+# Sanguine Swamp
 
 > ① If you control any other Spell or Trap Cards, destroy this card. ② Face-down Spell and Trap Cards cannot be activated. ③ Destroy this card during your 2nd Standby Phase after activation.
 

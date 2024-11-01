@@ -1,4 +1,4 @@
-# SKILL DRAIN
+# Skill Drain
 
 > Pay 1000 Life Points. ① The effects of all face-up Effect Monsters are negated.
 

@@ -1,4 +1,4 @@
-# FORBIDDEN CHALICE
+# Forbidden Chalice
 
 > One face-up monster on the field gains 400 ATK, but its effect is negated until the End Phase.
 

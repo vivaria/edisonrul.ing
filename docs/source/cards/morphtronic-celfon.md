@@ -1,4 +1,4 @@
-# MORPHTRONIC CELFON
+# Morphtronic Celfon
 
 *   "Royal Oppression" can be chained to the Attack Position effect of "Morphtronic Celfon".
 *   If an effect is chained that removes "Morphtronic Celfon" from the field, its Attack or Defense Position effect that was activated will still resolve.

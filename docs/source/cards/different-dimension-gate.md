@@ -1,4 +1,4 @@
-# DIFFERENT DIMENSION GATE
+# Different Dimension Gate
 
 *   You select the monsters when you activate "Different Dimension Gate".
 *   If one player has no monsters on the field, you cannot activate "Different Dimension Gate".

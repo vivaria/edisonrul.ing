@@ -1,4 +1,4 @@
-# FREED THE MATCHLESS GENERAL
+# Freed The Matchless General
 
 > ① Negate the effect of any Spell Card that targets this card and destroy it. ② You can add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand instead of conducting a normal draw in your Draw Phase.
 

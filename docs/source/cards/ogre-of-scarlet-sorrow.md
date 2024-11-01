@@ -1,4 +1,4 @@
-# OGRE OF SCARLET SORROW
+# Ogre Of Scarlet Sorrow
 
 *   This effect does not target.
 *   If this card is Summoned and a replay occurs, your opponent can either choose to attack this card or choose not to attack with that monster.

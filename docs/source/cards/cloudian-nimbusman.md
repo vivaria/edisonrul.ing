@@ -1,4 +1,4 @@
-# CLOUDIAN - NIMBUSMAN
+# Cloudian - Nimbusman
 
 *   If “Cloudian – Nimbusman” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.
 *   If you Tribute “Unshaven Angler” to Tribute Summon “Cloudian – Nimbusman”, it will only count as 1 monster so you will only place 1 Fog Counter for Tributing it.

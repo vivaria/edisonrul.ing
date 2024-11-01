@@ -1,4 +1,4 @@
-# BLACKWING - SHURA THE BLUE FLAME
+# Blackwing - Shura The Blue Flame
 
 > ① When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 "Blackwing" monster with 1500 or less ATK from your Deck. That monster's effect(s) is negated.
 

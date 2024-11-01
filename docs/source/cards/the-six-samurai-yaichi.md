@@ -1,4 +1,4 @@
-# THE SIX SAMURAI - YAICHI
+# The Six Samurai - Yaichi
 
 > ① Once per turn, while you control another "Six Samurai" monster with a different name, you can destroy 1 Set Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 

@@ -1,4 +1,4 @@
-# HERO COUNTERATTACK
+# Hero Counterattack
 
 *   You must reveal the card randomly selected by your opponent (even if it is not an "Elemental Hero" monster).
 *   This card is activated at the end of the Damage Step, when monsters are sent to the Graveyard.

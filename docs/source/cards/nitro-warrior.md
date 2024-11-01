@@ -1,4 +1,4 @@
-# NITRO WARRIOR
+# Nitro Warrior
 
 > ① Once during each of your turns, if you activated a Spell Card, this card gains 1000 ATK during its next attack, for damage calculation only. ② Once per turn, if this attacking card destroys an opponent's monster by battle, you can change 1 face-up Defense Position monster your opponent controls to Attack Position, and attack it with this card.
 

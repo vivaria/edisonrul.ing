@@ -1,4 +1,4 @@
-# CYBER BLADER
+# Cyber Blader
 
 *   “Cyber Blader” only has 1 of her 3 effects at any one time. For example, if the opponent has 3 monsters, only her third effect applies, not the first or second effects.
 *   When applying the effect to double this card’s ATK, double the total amount. So if you equip “Cyber Blader” with “Axe of Despair”, her ATK will become 6200. (2100 + 1000) x 2 = 6200.

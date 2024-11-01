@@ -1,4 +1,4 @@
-# SHINY BLACK C
+# Shiny Black C
 
 > ① When 1 Synchro Monster is Special Summoned to your opponent's side of the field, you can remove from play this card in the Graveyard to destroy that monster.
 

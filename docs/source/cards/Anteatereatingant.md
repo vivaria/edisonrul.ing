@@ -1,4 +1,4 @@
-# ANTEATEREATINGANT
+# Anteatereatingant
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 2 Spell or Trap Cards you control to the Graveyard. ① You can destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card cannot attack during this turn.
 

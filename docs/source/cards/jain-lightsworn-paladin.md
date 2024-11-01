@@ -1,4 +1,4 @@
-# JAIN, LIGHTSWORN PALADIN
+# Jain, Lightsworn Paladin
 
 > ① If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
 

@@ -1,4 +1,4 @@
-# PHANTOM OF CHAOS
+# Phantom Of Chaos
 
 > ① Any Battle Damage this monster inflicts to your opponent becomes 0. ② Once per turn, you can remove from play 1 Effect Monster in your Graveyard. Until the End Phase, this card's name is treated as that monster's name, and it gains that monster's effect(s) and ATK.
 

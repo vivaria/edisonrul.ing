@@ -1,4 +1,4 @@
-# TRI-BLAZE ACCELERATOR
+# Tri-Blaze Accelerator
 
 *   Sending 1 face-up “Blaze Accelerator” on your side of the field to the Graveyard is a cost to activate this card.
 *   Sending 1 Pyro-Type monster with 500 or less ATK to the Graveyard is part of this card’s effect. It is not a cost.

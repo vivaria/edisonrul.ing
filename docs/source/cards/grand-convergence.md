@@ -1,4 +1,4 @@
-# GRAND CONVERGENCE
+# Grand Convergence
 
 *   Inflicting 300 damage and destroying all monsters on the field are both resolved at the same time.
 *   If the 300 damage would be reduced to 0 by the effect of “Des Wombat” or “Pikeru’s Circle of Enchantment”, “Grand Convergence” can still be activated and all monsters on the field will still be destroyed.

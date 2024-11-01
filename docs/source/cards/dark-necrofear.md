@@ -1,4 +1,4 @@
-# DARK NECROFEAR
+# Dark Necrofear
 
 *   You only remove the 3 Fiend-Type monsters in your Graveyard from play when you Special Summon "Dark Necrofear" from your hand. If you successfully Special Summon it using this method, and then wish to use "Monster Reborn" to Special Summon it from the Graveyard, you do not have to remove 3 more Fiend-Type monsters from the Graveyard.
 *   If "Banisher of the Light" is on the field when "Dark Necrofear" is destroyed, the "Dark Necrofear" is removed from play and does not return as an Equip Spell Card.

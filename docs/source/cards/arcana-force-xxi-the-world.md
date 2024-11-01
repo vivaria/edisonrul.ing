@@ -1,4 +1,4 @@
-# ARCANA FORCE XXI - THE WORLD
+# Arcana Force XXI - The World
 
 > ① When this card is Summoned, toss a coin: ● Heads: During your End Phase, you can send 2 monsters you control to the Graveyard to skip your opponent's next turn. ● Tails: During your opponent's Draw Phase, add the top card of their Graveyard to their hand.
 

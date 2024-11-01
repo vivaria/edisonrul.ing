@@ -1,4 +1,4 @@
-# MYTHICAL BEAST CERBERUS
+# Mythical Beast Cerberus
 
 *   If the monster battling “Mythical Beast Cerberus” is removed from the field before (or during) damage calculation, the Spell Counters on “Cerberus” will not be removed.
 *   Removing the Spell Counters from “Mythical Beast Cerberus” does not start a chain.

@@ -1,4 +1,4 @@
-# SPATIAL COLLAPSE
+# Spatial Collapse
 
 *   If "Spatial Collapse" is activated, and an effect is chained so that a player has more than 5 cards on the field after "Spatial Collapse" resolves, the controller selects cards to send to the Graveyard to make the number 5.
 *   You can activate "Spatial Collapse" when you have 5 or less cards on the field and your opponent has 5 or less cards on the field.

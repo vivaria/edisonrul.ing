@@ -1,4 +1,4 @@
-# CHIMERA THE FLYING MYTHICAL BEAST
+# Chimera The Flying Mythical Beast
 
 *   If “Chimera the Flying Mythical Beast” is destroyed by “Cyber Jar” you will miss the timing to activate its effect.
 *   If more copies of “Chimera the Flying Mythical Beast” are destroyed while in your Extra Deck by “Chain Destruction” you can activate their effects and Summon “Berfomet” or “Gazelle the King of Mythical Beasts.”

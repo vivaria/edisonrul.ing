@@ -1,4 +1,4 @@
-# FORGOTTEN TEMPLE OF THE DEEP
+# Forgotten Temple Of The Deep
 
 *   You can activate the effect to remove a monster from play on either player’s turn.
     *   It targets that monster.

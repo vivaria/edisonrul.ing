@@ -1,4 +1,4 @@
-# MIST WURM
+# Mist Wurm
 
 > ① When this card is Synchro Summoned, return up to 3 cards your opponent controls to the hand.
 

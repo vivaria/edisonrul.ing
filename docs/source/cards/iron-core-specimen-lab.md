@@ -1,4 +1,4 @@
-# IRON CORE SPECIMEN LAB
+# Iron Core Specimen Lab
 
 *   Revealing “Iron Core of Koa’ki Meiru” is a maintenance cost to keep this card on the field.
 *   Both players can use the effect of this card. If the opponent activates the effect of this card, the effect is considered to be controlled by the controller for this card.

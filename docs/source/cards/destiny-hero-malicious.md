@@ -1,4 +1,4 @@
-# DESTINY HERO - MALICIOUS
+# Destiny Hero - Malicious
 
 > ① You can remove from play this card from your Graveyard to Special Summon 1 "Destiny Hero - Malicious" from your Deck.
 

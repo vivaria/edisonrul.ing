@@ -1,4 +1,4 @@
-# BLINDLY LOYAL GOBLIN
+# Blindly Loyal Goblin
 
 *   If your opponent takes control of your "Blindly Loyal Goblin" with "Change of Heart" and flips it face-up, control of the monster does not return to you.
 *   If you Special Summon your opponent's "Blindly Loyal Goblin" with "Monster Reborn", and "Remove Brainwashing" is activated, control of "Blindly Loyal Goblin" does not return to your opponent.

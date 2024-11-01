@@ -1,4 +1,4 @@
-# SACRED PHOENIX OF NEPHTHYS
+# Sacred Phoenix Of Nephthys
 
 *   You can activate "Divine Wrath" when "Sacred Phoenix of Nephthys" is Special Summoned by its own effect. Because this effect activates in the Graveyard, and is being negated while "Sacred Phoenix of Nepthys" is in the Graveyard, "Sacred Phoenix of Nepthys" is never Special Summoned (so the card is never moved from the Graveyard) and is never destroyed. Because it is not destroyed, its effect to Special Summon itself does not activate again.
 *   If "Sacred Phoenix of Nephthys" is Special Summoned with "Call of the Haunted" or "Premature Burial", and that card is destroyed and destroys "Sacred Phoenix of Nephthys" with its effect, you Special Summon "Sacred Phoenix of Nephthys" during your next Standby Phase because it was destroyed by a card effect.

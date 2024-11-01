@@ -1,4 +1,4 @@
-# LONE WOLF
+# Lone Wolf
 
 *   If you activate “Lone Wolf” targeting an appropriate monster, and later you Summon another monster, the effect of “Lone Wolf” is still applied.
 *   If you target “Monk Fighter”, etc. with “Lone Wolf”, and “Monk Fighter” is later flipped face-down, the effect of “Lone Wolf” disappears and is not re-activated even if “Monk Fighter” is later flipped face-up again.

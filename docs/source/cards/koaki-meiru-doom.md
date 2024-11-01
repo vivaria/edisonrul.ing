@@ -1,4 +1,4 @@
-# KOA’KI MEIRU DOOM
+# Koa’Ki Meiru Doom
 
 *   The first sentence of this card is a maintenance cost, not an effect. It does not start a Chain.
 *   Continuous Effects that do not start a Chain cannot be negated by “Koa’ki Meiru Doom” because they do not ‘activate’.

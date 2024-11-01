@@ -1,3 +1,3 @@
-# FIRE TROOPER
+# Fire Trooper
 
 *   "Fire Trooper"'s effect is a Trigger Effect. Sending "Fire Trooper" to the Graveyard is a cost.

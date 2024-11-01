@@ -1,4 +1,4 @@
-# POLE POSITION
+# Pole Position
 
 > ① The face-up monster(s) with the highest ATK on the field is unaffected by the effects of Spell Cards. ② When "Pole Position" is removed from the field, destroy the face-up monster(s) with the highest ATK on the field.
 

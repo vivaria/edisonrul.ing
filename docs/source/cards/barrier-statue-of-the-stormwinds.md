@@ -1,4 +1,4 @@
-# BARRIER STATUE OF THE STORMWINDS
+# Barrier Statue Of The Stormwinds
 
 > ① Neither player can Special Summon monsters, except WIND monsters.
 

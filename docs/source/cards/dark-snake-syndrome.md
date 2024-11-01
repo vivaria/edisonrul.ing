@@ -1,4 +1,4 @@
-# DARK SNAKE SYNDROME
+# Dark Snake Syndrome
 
 *   If you have multiple copies of "Dark Snake Syndrome", the effects are cumulative.
 *   Both players take damage during the Standby Phase of the controller of the "Dark Snake Syndrome".

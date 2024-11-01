@@ -1,4 +1,4 @@
-# WABOKU
+# Waboku
 
 *   "Waboku" makes Battle Damage dealt by your opponent's monsters to your monsters and to your Life Points become zero.
 *   "Waboku" applies to ALL of the monsters on that player's side of the field for the entire turn.

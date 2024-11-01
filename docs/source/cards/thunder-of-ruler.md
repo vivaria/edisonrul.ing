@@ -1,4 +1,4 @@
-# THUNDER OF RULER
+# Thunder Of Ruler
 
 > You can only activate this card during your opponent's Standby Phase. Your opponent cannot conduct his/her Battle Phase this turn.
 

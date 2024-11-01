@@ -1,4 +1,4 @@
-# RETURN FROM THE DIFFERENT DIMENSION
+# Return From The Different Dimension
 
 > ① Pay half your Life Points. Special Summon as many of your removed from play monsters as possible. Ⓛ During the End Phase, remove from play all monsters that were Special Summoned by this effect.
 

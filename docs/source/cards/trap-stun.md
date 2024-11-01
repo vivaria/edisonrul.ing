@@ -1,4 +1,4 @@
-# TRAP STUN
+# Trap Stun
 
 > Negate the effects of all other Trap Cards on the field during this turn.
 

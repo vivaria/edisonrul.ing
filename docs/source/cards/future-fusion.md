@@ -1,4 +1,4 @@
-# FUTURE FUSION
+# Future Fusion
 
 > ① Send, from your Deck to the Graveyard, Fusion Material Monsters that are listed on a Fusion Monster Card, and select that 1 Fusion Monster from your Fusion Deck. Ⓛ Special Summon a Fusion Monster from your Fusion Deck with the same name as the selected Fusion Monster during your 2nd Standby Phase after this card's activation. (This Special Summon is treated as a Fusion Summon.) ② When this card is removed from the field, destroy that monster. ③ When the monster is destroyed, destroy this card.
 

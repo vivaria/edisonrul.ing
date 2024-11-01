@@ -1,4 +1,4 @@
-# RAIZA THE STORM MONARCH
+# Raiza The Storm Monarch
 
 > ① When this card is Tribute Summoned, return 1 card on the field to the top of its owner's Deck.
 

@@ -1,4 +1,4 @@
-# COMBINATION ATTACK
+# Combination Attack
 
 *   This card targets.
 *   Both the equipped monster and the Union Monster can attack after "Combination Attack" is used, assuming the Union Monster was Special Summoned in face-up Attack Position.

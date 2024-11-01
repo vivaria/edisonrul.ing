@@ -1,4 +1,4 @@
-# SPIRIT REAPER
+# Spirit Reaper
 
 > ① This card cannot be destroyed by battle. ② Destroy this card when it is targeted by the effect of a Spell, Trap, or Effect Monster. ③ If this card successfully attacks directly, your opponent randomly discards 1 card.
 

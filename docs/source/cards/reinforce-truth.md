@@ -1,4 +1,4 @@
-# REINFORCE TRUTH
+# Reinforce Truth
 
 *   You can activate “Reinforce Truth” during your opponent’s turn.
 *   If the activation of “Reinforce Truth” is negated by “Seven Tools of the Bandit” or “Solemn Judgment” you can still conduct your Battle Phase.

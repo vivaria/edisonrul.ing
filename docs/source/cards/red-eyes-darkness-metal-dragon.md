@@ -1,4 +1,4 @@
-# RED-EYES DARKNESS METAL DRAGON
+# Red-Eyes Darkness Metal Dragon
 
 > Ⓢ You can remove from play 1 face-up Dragon-Type monster you control to Special Summon this card. ① Once per turn, during your Main Phase, you can Special Summon 1 Dragon-Type monster, except “Red-Eyes Darkness Metal Dragon” from your hand or Graveyard.
 

@@ -1,4 +1,4 @@
-# EXPLODER DRAGON
+# Exploder Dragon
 
 > ① When this card is destroyed by battle and sent to the Graveyard, destroy the monster that destroyed it. ② While this card is attacking, any Battle Damage either player takes from a battle involving this card becomes 0.
 

@@ -1,4 +1,4 @@
-# DESROOK ARCHFIEND
+# Desrook Archfiend
 
 *   Missing the Timing: Because "Desrook Archfiend"'s effect is optional, the "Terrorking Archfiend" being sent to the Graveyard has to be the very last thing that happened in order for you to activate "Desrook Archfiend"'s effect. You cannot activate "Desrook Archfiend"'s effect in the middle of a chain, such as if "Pot of Greed" was activated and "Ring of Destruction" was chained to destroy "Terrorking Archfiend" and send him to the Graveyard in the middle of the chain.
 *   You can activate "Desrook Archfiend"'s effect when a face-down "Terrorking Archfiend" is destroyed and sent to the Graveyard by a card effect.

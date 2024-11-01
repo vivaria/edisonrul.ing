@@ -1,4 +1,4 @@
-# RIBBON OF REBIRTH
+# Ribbon Of Rebirth
 
 *   If you equip your opponent's monster with "Ribbon of Rebirth" and destroy the monster in battle, you will Special Summon it onto your side of the field during the End Phase.
 *   If "Ribbon of Rebirth" is not in the Graveyard or Removed Zone during the End Phase, its effect does not activate.

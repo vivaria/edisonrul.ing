@@ -1,4 +1,4 @@
-# LAVA GOLEM
+# Lava Golem
 
 > This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned to your opponent's side of the field by Tributing 2 monsters they control. Ⓒ You cannot Normal Summon or Set the turn you Special Summon this card. ① Take 1000 points of damage during each of your Standby Phases.
 

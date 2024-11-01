@@ -1,4 +1,4 @@
-# GROUND COLLAPSE
+# Ground Collapse
 
 *   When resolving the effect of "Cyber Jar" or "Morphing Jar #2", if you pick up more monsters than you can Special Summon, due to "Ground Collapse", the monsters you cannot Special Summon are destroyed. If a "Sangan" or "Witch of the Black Forest" is destroyed this way, its effect does not activate.
 *   While "Ground Collapse"'s effect is negated, monsters can be Summoned or Set into the selected Monster Card Zones. When "Ground Collapse" becomes active again, the selected Monster Card Zones cannot be used, but any monster in the selected Monster Card Zones remains there.

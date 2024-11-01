@@ -1,4 +1,4 @@
-# OJAMA COUNTRY
+# Ojama Country
 
 *   “Ojamuscle” is considered to be an “Ojama” card, so you can send it from your hand to the Graveyard for the cost of the first effect. If you control “Ojamuscle” and it is a monster (for example, with “Magical Hats”), it is considered an “Ojama” monster for the second effect.
 *   Sending an “Ojama” card to the Graveyard is a cost to activate “Ojama Country’s” Special Summon effect. It targets 1 “Ojama” monster in your Graveyard, and cannot be activated if there are no “Ojama” monsters in your Graveyard. If there is an “Ojama” monster in your Graveyard, you can discard an “Ojama” monster and Special Summon that same “Ojama” monster.

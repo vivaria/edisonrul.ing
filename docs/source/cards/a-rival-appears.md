@@ -1,4 +1,4 @@
-# A RIVAL APPEARS!
+# A Rival Appears!
 
 > Select 1 face-up monster your opponent controls. Special Summon 1 monster from your hand that has the same Level as the selected monster.
 

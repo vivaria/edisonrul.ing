@@ -1,4 +1,4 @@
-# VAMPIRE LORD
+# Vampire Lord
 
 *   Your Vampire Lord will only be Special Summoned by his own effect when destroyed and sent to the Graveyard by a card effect that your opponent controls, not by your own card effects or as a result of battle.
 *   Vampire Lord will only return to play with his effect when the owner controls it, because Vampire Lord must be “destroyed and sent to YOUR Graveyard”.

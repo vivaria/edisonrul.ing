@@ -1,4 +1,4 @@
-# DARKBLAZE DRAGON
+# Darkblaze Dragon
 
 *   "Darkblaze Dragon"'s effect doubles its original ATK and DEF to create a new current ATK and DEF.
 *   "Darkblaze Dragon"'s effect that doubles it original ATK and DEF to create a new current ATK and DEF disappears when "Darkblaze Dragon" is removed from the field or flipped face-down.

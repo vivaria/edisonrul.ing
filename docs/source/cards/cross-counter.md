@@ -1,4 +1,4 @@
-# CROSS COUNTER
+# Cross Counter
 
 *   You activate "Cross Counter" before damage calculation but after flipping the attacked monster face-up. The "Cross Counter" card is sent to the Graveyard after resolving its effect and destroying the attacking monster.
 *   The effect of "Cross Counter" only applies to the one attack and does not continue for the rest of the turn.

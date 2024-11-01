@@ -1,4 +1,4 @@
-# WALL OF IVY
+# Wall Of Ivy
 
 *   “Ivy Token’s” effect to inflict damage does not start a Chain.
 *   If the "Ivy Token" is destroyed by a card effect, inflict damage after the effect resolves. If the "Ivy Token" is destroyed by battle, inflict damage at the end of the Damage Step, when monsters destroyed by battle are sent to the Graveyard.

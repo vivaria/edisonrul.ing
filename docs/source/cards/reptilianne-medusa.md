@@ -1,4 +1,4 @@
-# REPTILIANNE MEDUSA
+# Reptilianne Medusa
 
 *   Sending 1 card from your hand to the Graveyard is a cost.
 *   This is an Ignition Effect that targets 1 face-up monster your opponent controls.

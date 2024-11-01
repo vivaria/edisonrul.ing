@@ -1,4 +1,4 @@
-# READY FOR INTERCEPTING
+# Ready For Intercepting
 
 *   If you activate "Ready for Intercepting" after your opponent’s attack declaration to flip face-down the monster which is being attacked, a replay does not occur. Complete the attack as normal. (This must happen during the Battle Step, not the Damage Step.)
 *   If you activate "Ready for Intercepting" and target the attacking monster, it is flipped into face-down Defense Position and the attack ends. (This must happen during the Battle Step, not the Damage Step.)

@@ -1,4 +1,4 @@
-# DESTINY HERO - DEPARTED
+# Destiny Hero - Departed
 
 *   When "Destiny Hero - Departed" is sent to the Graveyard to pay a cost, it is not removed from play.
 *   "Destiny Hero - Departed"'s first effect is a Trigger Effect. It is not optional.

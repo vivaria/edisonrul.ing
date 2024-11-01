@@ -1,4 +1,4 @@
-# HYPER HAMMERHEAD
+# Hyper Hammerhead
 
 *   "Hyper Hammerhead"'s effect activates at the time that a monster would be sent to the Graveyard.
 *   Even if "Hyper Hammerhead" was destroyed, its effect resolves.

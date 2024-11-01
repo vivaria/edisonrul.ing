@@ -1,4 +1,4 @@
-# MIRACLE LOCUS
+# Miracle Locus
 
 *   Because it modifies ATK, “Miracle Locus” can be activated in the Damage Step. But not during damage calculation or any point in the Damage Step after damage calculation.
 *   Even if control of the targeted monster shifts to your opponent, it is your opponent who takes no Battle Damage this turn from battles involving the targeted monster.

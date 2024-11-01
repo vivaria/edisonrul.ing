@@ -1,4 +1,4 @@
-# WYNN THE WIND CHARMER
+# Wynn The Wind Charmer
 
 *   If your opponent chains “Enemy Controller” to the activation of the Flip Effect of a “Charmer”, and takes control of the “Charmer”, the Flip Effect disappears.
 *   If you take control of the opponent’s monster with a “Charmer” and the opponent takes control back with “Change of Heart”, control still reverts to you after the effect of “Change of Heart” expires (even though it wasn’t your monster originally).

@@ -1,4 +1,4 @@
-# CLOUDIAN - TURBULENCE
+# Cloudian - Turbulence
 
 *   If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.
 *   You cannot activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” is not in your Deck or in either player’s Graveyard.

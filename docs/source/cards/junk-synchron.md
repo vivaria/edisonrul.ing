@@ -1,4 +1,4 @@
-# JUNK SYNCHRON
+# Junk Synchron
 
 > ① When this card is Normal Summoned, you can Special Summon 1 Level 2 or lower monster from your Graveyard in face-up Defense Position. That monster's effect(s) is negated.
 

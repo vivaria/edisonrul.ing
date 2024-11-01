@@ -1,4 +1,4 @@
-# LIMITER REMOVAL
+# Limiter Removal
 
 > ① Double the ATK of all face-up Machine-Type monsters you control, until the end of this turn. Ⓛ During the End Phase, destroy all monsters that were affected by this effect.
 

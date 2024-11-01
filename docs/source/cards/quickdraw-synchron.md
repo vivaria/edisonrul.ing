@@ -1,4 +1,4 @@
-# QUICKDRAW SYNCHRON
+# Quickdraw Synchron
 
 > ① You can send 1 monster from your hand to the Graveyard and Special Summon this card from your hand. Ⓒ You can substitute this card for any 1 “Synchron” Tuner monster for a Synchro Summon. Ⓒ This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a monster that lists a “Synchron” monster as a Tuner monster.
 

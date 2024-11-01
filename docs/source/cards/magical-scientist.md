@@ -1,4 +1,4 @@
-# MAGICAL SCIENTIST
+# Magical Scientist
 
 *   You can use "Magical Scientist"'s effect multiple times in the same turn.
 *   "Magical Scientist"'s effect does not target.

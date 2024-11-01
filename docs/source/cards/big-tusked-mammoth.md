@@ -1,4 +1,4 @@
-# BIG-TUSKED MAMMOTH
+# Big-Tusked Mammoth
 
 *   The effect of “Big-Tusked Mammoth” includes those monsters Summoned this turn before “Big-Tusked Mammoth” was face-up on the field. For example, if your opponent attacks with a monster that was Summoned this turn, and you activate “Call of the Haunted” to Special Summon “Big-Tusked Mammoth” from the Graveyard, this causes a replay, and your opponent now cannot attack with the monster that was Summoned this turn.
 *   If “Big-Tusked Mammoth” is Set on the field, and is attacked by a monster that was Summoned this turn, the attack resolves normally.

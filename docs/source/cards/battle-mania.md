@@ -1,4 +1,4 @@
-# BATTLE MANIA
+# Battle Mania
 
 *   You cannot activate this card if your opponent controls no monsters.
 *   If your opponent controls a face-up Attack Position monster at the end of their Main Phase 1, they must conduct their Battle Phase during the turn “Battle Mania” is activated.

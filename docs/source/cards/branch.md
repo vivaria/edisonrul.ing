@@ -1,4 +1,4 @@
-# BRANCH!
+# Branch!
 
 *   The effect of “Branch!” can be chained to.
 *   All of the Fusion Material Monsters do not need to be in the Graveyard in order to use the effect of “Branch!”. As long as 1 of the monsters used for the Fusion Summon is in the Graveyard, it can be Special Summoned.

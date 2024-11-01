@@ -1,4 +1,4 @@
-# PREMATURE BURIAL
+# Premature Burial
 
 *   You cannot activate "Tailor of the Fickle" selecting "Premature Burial" as a target.
 *   You cannot activate "Fairy’s Hand Mirror" to make your opponent chose a different monster when they activate "Premature Burial".

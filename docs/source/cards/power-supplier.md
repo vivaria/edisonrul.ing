@@ -1,4 +1,4 @@
-# POWER SUPPLIER
+# Power Supplier
 
 *   This effect continuously targets each monster you select for as long as “Power Supplier” is face-up on the field.
 *   You cannot apply “Power Supplier’s” effect on the same monster targeted during the previous turn.

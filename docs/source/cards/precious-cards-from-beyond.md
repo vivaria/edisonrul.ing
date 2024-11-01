@@ -1,4 +1,4 @@
-# PRECIOUS CARDS FROM BEYOND
+# Precious Cards From Beyond
 
 *   You can't use your "Precious Cards from Beyond" when your opponent offers 2 monsters as a Tribute, only when you do.
 *   "Precious Cards from Beyond" is only for a Tribute Summon or Set, not for a Ritual Summon or Special Summon like "Lava Golem".

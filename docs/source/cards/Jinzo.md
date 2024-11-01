@@ -1,4 +1,4 @@
-# JINZO
+# Jinzo
 
 ① Trap Cards cannot be activated. ② The effects of all face-up Trap Cards are negated.
 

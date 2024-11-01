@@ -1,4 +1,4 @@
-# D - FORMATION
+# D - Formation
 
 *   Placing 1 D Counter onto "D - Formation" does not start a Chain.
 *   The second effect of "D - Formation" starts a Chain. It does not target.

@@ -1,4 +1,4 @@
-# GREAT DEZARD
+# Great Dezard
 
 *   After destroying a second monster, "Great Dezard" still retains his first effect.
 *   If your opponent uses "Double Snare" against "Great Dezard" after "Great Dezard" has achieved his first effect, "Double Snare" is negated and destroyed.

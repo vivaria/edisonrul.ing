@@ -1,4 +1,4 @@
-# ARCANA FORCE EX - THE LIGHT RULER
+# Arcana Force Ex - The Light Ruler
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. ① When this card is Special Summoned, toss a coin: ● Heads: When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can add 1 card from your Graveyard to your hand. ● Tails: When an effect of a Spell, Trap or Effect Monster's effect that targets this card is activated, negate its activation and destroy it, and this card loses 1000 ATK.
 

@@ -1,4 +1,4 @@
-# GETSU FUHMA
+# Getsu Fuhma
 
 *   If "Getsu Fuhma" is destroyed by damage calculation, its effect still activates as long as it battled a monster and damage calculation was performed.
 *   If an attack is negated by "Magic Cylinder", etc., then "Getsu Fuhma"'s effect does not activate.

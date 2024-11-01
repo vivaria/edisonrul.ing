@@ -1,4 +1,4 @@
-# COSMIC FORTRESS GOL’GAR
+# Cosmic Fortress Gol’Gar
 
 > ① Once per turn, you can select any number of face-up Spell or Trap Cards. Return those cards to their owners' hands, and distribute new A-Counters among monsters on the field equal to the number of cards returned. ② Once per turn, you can remove 2 A-Counters from anywhere on the field to destroy 1 card your opponent controls.
 

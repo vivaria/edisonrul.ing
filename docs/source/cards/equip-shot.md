@@ -1,4 +1,4 @@
-# EQUIP SHOT
+# Equip Shot
 
 *   "Equip Shot" cannot be activated during the Damage Step or End Step.
 *   The Attack Position monster selected by "Equip Shot" must be a legal target for the selected Equip Card. If no legal targets exist, "Equip Shot" cannot be activated.

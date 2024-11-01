@@ -1,4 +1,4 @@
-# MARIONETTE MITE
+# Marionette Mite
 
 *   This is an Ignition Effect activated from your hand.
 *   Discarding this card is a cost to activate the effect.

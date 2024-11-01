@@ -1,4 +1,4 @@
-# TRANSMIGRATION BREAK
+# Transmigration Break
 
 *   You cannot activate "Pot of Avarice" while "Transmigration Break" is active.
 *   You can activate "Cyberdark Impact!" while "Transmigration Break" is active, but the "Cyberdark" Monsters are removed from play instead of being returned to the Deck.

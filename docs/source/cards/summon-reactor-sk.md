@@ -1,4 +1,4 @@
-# SUMMON REACTOR SK
+# Summon Reactor Sk
 
 *   The effect that inflicts damage can activate even during the Damage Step.
 *   If “Magical Dimension” Summons a monster and destroys “Summon Reactor ・SK”, then 800 damage is not inflicted to the opponent.

@@ -1,4 +1,4 @@
-# WINGED KURIBOH
+# Winged Kuriboh
 
 *   If “Winged Kuriboh” is destroyed as a result of battle, its effect will not reduce the Battle Damage its owner takes from that battle, because its effect doesn’t activate until later, when it’s sent to the Graveyard. (And damage calculation has already happened by then.)
 *   If “Winged Kuriboh” is destroyed and sent to the Graveyard, its effect activates and applies for the rest of the turn, even if “Winged Kuriboh” is removed from play with “Disappear”, or shuffled back into the Deck with “Fiber Jar”.

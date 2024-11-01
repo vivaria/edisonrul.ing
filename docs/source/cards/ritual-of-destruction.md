@@ -1,4 +1,4 @@
-# RITUAL OF DESTRUCTION
+# Ritual Of Destruction
 
 *   Removing this card from play is the cost to activate the effect to return destroyed monsters to the Deck.
 *   If a Ritual Monster destroys “Horus the Black Flame Dragon LV6” while the effect of this card is active, “Horus the Black Flame Dragon LV6” is returned to the Deck.

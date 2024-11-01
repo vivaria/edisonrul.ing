@@ -1,4 +1,4 @@
-# NETTLES
+# Nettles
 
 *   "Nettles'" effect does not target.
 *   If "Nettles" is attacked while face-down, its effect cannot be applied when it is destroyed by battle.

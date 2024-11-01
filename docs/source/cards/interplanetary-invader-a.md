@@ -1,4 +1,4 @@
-# INTERPLANETARY INVADER 'A'
+# Interplanetary Invader 'A'
 
 > ① Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.
 

@@ -1,4 +1,4 @@
-# METALMORPH
+# Metalmorph
 
 *   If you equip a monster with 2 or more copies of “Metalmorph”, the effect of each copy of “Metalmorph” is applied. For example, if you equip 2 “Metalmorph” onto a monster it will gain 600 ATK and DEF and when the equipped monster attacks your opponent’s monster its ATK will be increased further by the effect of each “Metalmorph”.
 *   If “Reverse Trap” is activated, the increase of 300 ATK and DEF is changed into a decrease of 300 ATK and DEF. When your monster that is equipped with “Metalmorph” attacks your opponent’s monster, the additional gained ATK, that is based on the ATK of the monster being attacked, is NOT changed to a decrease.

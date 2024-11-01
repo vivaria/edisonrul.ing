@@ -1,4 +1,4 @@
-# SUPER POLYMERIZATION
+# Super Polymerization
 
 *   "Super Polymerization" does not target. The Fusion Material Monsters are sent to the Graveyard when "Super Polymerization" resolves.
     *   After Fusion Materials are removed from the field, the last thing to happen is the Fusion Summon.

@@ -1,4 +1,4 @@
-# ELEMENTAL HERO CHAOS NEOS
+# Elemental Hero Chaos Neos
 
 *   Monsters Set by the effect of “Elemental Hero Chaos Neos” are Set in Defense Position.
 *   “Elemental Hero Chaos Neos” can be Special Summoned from the Graveyard if it was first Special Summoned according to its text and sent to the Graveyard afterwards. “Elemental Hero Chaos Neos” can also be Special Summoned from the Removed Zone if it was Special Summoned according to its text and then removed from play afterwards.

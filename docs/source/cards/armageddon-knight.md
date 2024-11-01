@@ -1,4 +1,4 @@
-# ARMAGEDDON KNIGHT
+# Armageddon Knight
 
 > ① When this card is Summoned, you can send 1 DARK monster from your Deck to the Graveyard.
 

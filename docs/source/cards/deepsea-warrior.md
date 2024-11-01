@@ -1,4 +1,4 @@
-# DEEPSEA WARRIOR
+# Deepsea Warrior
 
 *   If you take control of your opponent's face-down "Deepsea Warrior" with "Change of Heart" while "Umi" is face-up on the field, when it is flipped face-up it is immediately returned to your opponent.
 *   If you Special Summon "Deepsea Warrior" with "Premature Burial", when "Premature Burial" is destroyed while "Umi" is face-up on the field "Deepsea Warrior" is not destroyed.

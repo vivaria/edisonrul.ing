@@ -1,4 +1,4 @@
-# PHANTOM DRAGON
+# Phantom Dragon
 
 *   You cannot Summon "Phantom Dragon" if you do not have 2 Monster Card Zones that you can make unusable. However, "Phantom Dragon" can be Set or Special Summoned face-down when you do not have 2 Monster Card Zones to make unusable.
 *   You cannot activate "Phantom Dragon"'s effect during the Damage Step.

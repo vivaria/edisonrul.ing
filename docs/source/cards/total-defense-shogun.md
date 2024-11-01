@@ -1,4 +1,4 @@
-# TOTAL DEFENSE SHOGUN
+# Total Defense Shogun
 
 *   "Total Defense Shogun" does not permanently remain in Defense Position. After the turn that "Total Defense Shogun" is Summoned, you can change his battle position as normal. He can also have his battle position changed with card effects like "Stop Defense".
 *   You don’t Normal Summon or Flip Summon "Total Defense Shogun" in Defense Position; you Normal Summon or Flip Summon him in face-up Attack Position and he changes to Defense Position. (Or you can Tribute Set him in face-down Defense Position.)

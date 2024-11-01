@@ -1,4 +1,4 @@
-# PHANTOM SKYBLASTER
+# Phantom Skyblaster
 
 > ① When you Normal or Flip Summon this card, you can Special Summon any number of "Skyblaster Tokens" (Fiend-Type/DARK/Level 4/ATK 500/DEF 500), but not more than the number of monsters you control. ② During your Standby Phase, you can inflict 300 damage to your opponent for each "Skyblaster" monster you control. If you activate this effect, "Skyblaster" monsters you control cannot attack this turn.
 

@@ -1,4 +1,4 @@
-# ULTIMATE ANCIENT GEAR GOLEM
+# Ultimate Ancient Gear Golem
 
 > Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step. ③ If this card is destroyed, you can Special Summon 1 "Ancient Gear Golem" from your Graveyard, ignoring the Summoning conditions.
 

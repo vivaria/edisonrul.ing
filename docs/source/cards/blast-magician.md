@@ -1,4 +1,4 @@
-# BLAST MAGICIAN
+# Blast Magician
 
 *   If "Rush Recklessly" is chained to the effect of "Blast Magician", and the ATK of the target monster is now higher than 700 x the number of Spell Counters removed, the effect of "Blast Magician" disappears. You cannot remove additional Spell Counters to increase the effect.
 *   This is an effect that targets.

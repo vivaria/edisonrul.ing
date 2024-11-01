@@ -1,4 +1,4 @@
-# CODARUS
+# Codarus
 
 > ① You can send 1 face-up "Umi" you control to the Graveyard to select up to 2 cards your opponent controls and send them to the Graveyard.
 

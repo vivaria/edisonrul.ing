@@ -1,4 +1,4 @@
-# GARLANDOLF, KING OF DESTRUCTION
+# Garlandolf, King Of Destruction
 
 *   If “Garlandolf, King of Destruction” is not face-up on the field when its effect resolves, no monsters will be destroyed.
 *   All other face-up monsters with DEF less than or equal to this card’s ATK are destroyed, including your own.

@@ -1,4 +1,4 @@
-# LEGENDARY EBON STEED
+# Legendary Ebon Steed
 
 *   This card’s effect to destroy itself does not start a Chain.
 *   If you control 2 “Six Samurai” monsters, and 1 of them equipped with “Legendary Ebon Steed” would be destroyed, the effect of “Legendary Ebon Steed” must be used. You cannot choose to destroy another “Six Samurai” monster instead.

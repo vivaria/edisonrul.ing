@@ -1,4 +1,4 @@
-# VOLCANIC SCATTERSHOT
+# Volcanic Scattershot
 
 > ① When this card is sent to the Graveyard, inflict 500 damage to your opponent. ② If this card is sent to the Graveyard for the effect of a "Blaze Accelerator" card, you can send 2 "Volcanic Scattershots" from your hand / Deck to the Graveyard to destroy all monsters your opponent controls.
 

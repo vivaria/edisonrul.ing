@@ -1,4 +1,4 @@
-# TRAGOEDIA
+# Tragoedia
 
 > ① You can Special Summon this card from your hand when you take Battle Damage. ② This card gains 600 ATK and DEF for each card in your hand. ③ Once per turn, you can send 1 monster from your hand to the Graveyard to take control of 1 face-up monster your opponent controls with the same Level as the sent monster. ④ Once per turn, you can select 1 monster in your Graveyard; this card's Level becomes the same as that monster's, until the End Phase.
 

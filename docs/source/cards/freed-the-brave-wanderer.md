@@ -1,4 +1,4 @@
-# FREED THE BRAVE WANDERER
+# Freed The Brave Wanderer
 
 > ① Once per turn, you can remove from play 2 LIGHT monsters in your Graveyard to destroy 1 face-up monster on the field with higher ATK than this card.
 

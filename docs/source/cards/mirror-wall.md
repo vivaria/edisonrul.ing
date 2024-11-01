@@ -1,4 +1,4 @@
-# MIRROR WALL
+# Mirror Wall
 
 *   If "Mirror Wall" is already face-up on the field when a monster declares an attack, "Mirror Wall" reduces the ATK of the attacking monster by half when the attack is declared.
 *   If "Mirror Wall" is activated during an attack (including during the Damage Step), then it reduces the ATK of the attacking monster when "Mirror Wall" resolves. (Even though "Mirror Wall" normally reduces the attack by half when the attack is declared, it will still reduce the attack by half if you activate it after the attack is declared.)

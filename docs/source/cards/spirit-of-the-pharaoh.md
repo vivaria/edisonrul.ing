@@ -1,4 +1,4 @@
-# SPIRIT OF THE PHARAOH
+# Spirit Of The Pharaoh
 
 *   "Spirit of the Pharaoh" cannot be Normal Summoned or Set, and cannot be Special Summoned EXCEPT by the effect of "The First Sarcophagus". So "Spirit of the Pharaoh" cannot be Special Summoned with "Monster Reborn", etc., even if Special Summoned properly first.
 *   If your opponent chains "Royal Decree" to the effect of "The First Sarcophagus", the effect of Special Summoning is negated and "The First Sarcophagus" is sent to the Graveyard because that is the cost.

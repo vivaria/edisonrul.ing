@@ -1,4 +1,4 @@
-# BRAIN GOLEM
+# Brain Golem
 
 > ① Effects of face-up LIGHT monsters are negated. ② If this card destroys a LIGHT monster by battle, it can attack once again in a row.
 

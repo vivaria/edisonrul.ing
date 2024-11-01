@@ -1,4 +1,4 @@
-# EXODIA NECROSS
+# Exodia Necross
 
 *   "Exodia Necross" cannot be Normal Summoned or Set, and cannot be Special Summoned EXCEPT by the effect of "Contract with Exodia". So "Exodia Necross" cannot be Special Summoned with "Monster Reborn", etc., even if Special Summoned properly first.
 *   Players can activate Spell & Trap Card effects that destroy monsters, but "Exodia Necross" will not be destroyed by them.

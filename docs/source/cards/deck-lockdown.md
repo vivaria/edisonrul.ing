@@ -1,4 +1,4 @@
-# DECK LOCKDOWN
+# Deck Lockdown
 
 *   Destroying "Deck Lockdown" during the Standby Phase does not start a Chain.
 *   Monsters can be Special Summoned from the Extra Deck while “Deck Lockdown” is active.

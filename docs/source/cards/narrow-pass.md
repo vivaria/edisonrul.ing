@@ -1,4 +1,4 @@
-# NARROW PASS
+# Narrow Pass
 
 *   "Narrow Pass" can only be activated when Player A has 2 or fewer monsters and Player B has 2 or fewer monsters. So if there are 3 monsters in play (2 controlled by A and 1 by B) you can activate "Narrow Pass". But if either player controls 3 or more monsters on his side of the field then you cannot activate this card.
 *   Once "Narrow Pass" is activate, as long as it remains face-up on the field, Player A can Normal Summon or Set 2 up to 2 additional monsters, and Player B can Normal Summon or Set up to 2 additional monsters. It is helpful to place counters on "Narrow Pass" to keep track.

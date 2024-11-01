@@ -1,4 +1,4 @@
-# GLADIATOR BEAST GAIODIAZ
+# Gladiator Beast Gaiodiaz
 
 > "Gladiator Beast Spartacus" + 1 "Gladiator Beast" monster
 Ⓢ This card can only be Special Summoned from your Fusion Deck, by returning the above cards you control to the Deck. (You do not use "Polymerization".) ① When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Fusion Deck to Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Spartacus".

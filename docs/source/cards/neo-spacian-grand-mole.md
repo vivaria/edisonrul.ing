@@ -1,4 +1,4 @@
-# NEO-SPACIAN GRAND MOLE
+# Neo-Spacian Grand Mole
 
 > ① If this card battles with your opponent's monster, you can return both monsters to their owners' hands at the start of the Damage Step (without damage calculation).
 

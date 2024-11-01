@@ -1,4 +1,4 @@
-# MORPHTRONIC ENGINE
+# Morphtronic Engine
 
 *   The effect of “Morphtronic Engine” makes the equipped monster’s current ATK equal to twice its original ATK. The new ATK value is not considered to be the monster’s original ATK.
 *   If the Level of the equipped "Morphtronic" monster changes to a value other than 3, "Morphtronic Engine" is destroyed.

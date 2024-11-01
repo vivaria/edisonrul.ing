@@ -1,4 +1,4 @@
-# WITCH OF THE BLACK FOREST
+# Witch Of The Black Forest
 
 *   You must show your opponent the monster you select from your Deck for this card’s effect. If you have no eligible monsters, your opponent gets to see your Deck to verify.
 *   The effect of "Witch of the Black Forest" only activates when she is sent from the field to the Graveyard, not from your hand or Deck, and not if she is removed from play.

@@ -1,4 +1,4 @@
-# HEAVY MECH SUPPORT PLATFORM
+# Heavy Mech Support Platform
 
 > ① Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it and Special Summon it in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 500 ATK and DEF. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, this card is destroyed instead.)
 

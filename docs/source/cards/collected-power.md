@@ -1,4 +1,4 @@
-# COLLECTED POWER
+# Collected Power
 
 *   If "Kisetai" is moved by the effect of "Collected Power" it is destroyed.
 *   Monster Cards equipped to "Sword Hunter" can be moved to another "Sword Hunter", but if they are moved to any other monster they are destroyed.

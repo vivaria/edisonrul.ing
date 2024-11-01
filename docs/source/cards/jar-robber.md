@@ -1,4 +1,4 @@
-# JAR ROBBER
+# Jar Robber
 
 *   You can chain "Jar Robber" to your own or your opponent's "Pot of Greed".
 *   The only way to activate "Jar Robber" is to chain it to the activation of "Pot of Greed".

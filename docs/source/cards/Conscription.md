@@ -1,4 +1,4 @@
-# CONSCRIPTION
+# Conscription
 
 *   Both players get to see the card picked up for “Conscription”.
 *   If your Monster Card Zones are full, you can activate “Conscription”, and if you pick up a monster you can Normal Summon, it is destroyed and sent to the Graveyard.

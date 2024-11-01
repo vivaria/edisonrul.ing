@@ -1,4 +1,4 @@
-# SOUL DEVOURING BAMBOO SWORD
+# Soul Devouring Bamboo Sword
 
 *   “Soul Devouring Bamboo Sword” targets the selected monster that is equipped with “Bamboo Sword”.
 *   The effect of “Soul Devouring Bamboo Sword” that causes the opponent to skip their next Draw Phase activates at the time the selected monster inflicts Battle Damage. This effect begins a Chain.

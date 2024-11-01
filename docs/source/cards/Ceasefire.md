@@ -1,4 +1,4 @@
-# CEASEFIRE
+# Ceasefire
 
 *   "Ceasefire" can be activated if there is at least 1 face-down Defense Position monster and/or at least 1 face-up Effect Monster.
 *   Monsters flipped by "Ceasefire" are not Flip Summoned, so the effect of "Mysterious Puppeteer" does not activate.

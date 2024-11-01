@@ -1,4 +1,4 @@
-# CHIMERATECH OVERDRAGON
+# Chimeratech Overdragon
 
 *   When you Fusion Summon this card you can use a substitute, such as “King of the Swamp”, for the “Cyber Dragon”, but not for the Machine-Type monsters. That means you can use a maximum of 1 substitute monster in the Fusion Summon.
 *   The effect that sends all your other cards to the Graveyard is a Trigger Effect and it can be chained to.

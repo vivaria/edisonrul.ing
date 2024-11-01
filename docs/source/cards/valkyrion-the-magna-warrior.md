@@ -1,4 +1,4 @@
-# VALKYRION THE MAGNA WARRIOR
+# Valkyrion The Magna Warrior
 
 *   You can Tribute the three monsters required to Special Summon this card from your hand, the field, or any combination of the two.
 *   You can only Special Summon this card through its own effect during your Main Phase 1 or 2. You can also only use its effect to Special Summon the Magnet Warriors during your Main Phase 1 or 2.

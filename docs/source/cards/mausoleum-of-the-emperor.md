@@ -1,4 +1,4 @@
-# MAUSOLEUM OF THE EMPEROR
+# Mausoleum Of The Emperor
 
 > ① Both players can Normal Summon or Set monsters without Tributing, by paying 1000 Life Points x the number of monsters needed for the Tribute Summon.
 

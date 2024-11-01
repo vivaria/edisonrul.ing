@@ -1,4 +1,4 @@
-# ARSENAL SUMMONER
+# Arsenal Summoner
 
 > FLIP: Add 1 card that includes "Guardian" in its card name from your Deck to your hand. You cannot add "Celtic Guardian", "Winged Dragon, Guardian of the Fortress #1", "Winged Dragon, Guardian of the Fortress #2", "Guardian of of the Labyrinth", or "The Reliable Guardian".
 

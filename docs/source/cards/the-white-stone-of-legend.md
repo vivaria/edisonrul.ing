@@ -1,4 +1,4 @@
-# THE WHITE STONE OF LEGEND
+# The White Stone Of Legend
 
 > ① When this card is sent to the Graveyard, add 1 "Blue-Eyes White Dragon" from your Deck to your hand.
 

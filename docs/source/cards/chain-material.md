@@ -1,4 +1,4 @@
-# CHAIN MATERIAL
+# Chain Material
 
 \[EFFECT\] _Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters._ \[CONDITION\] _You cannot attack during the turn this card is activated._ \[CONDITION\] _If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase._
   

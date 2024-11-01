@@ -1,4 +1,4 @@
-# COMMAND KNIGHT
+# Command Knight
 
 *   If you control a "Command Knight" equipped with "Ring of Magnetism", and another monster, your opponent can and must select "Command Knight" as an attack target if he chooses to attack.
 *   If you control 2 face-up "Command Knights", and no other monsters, and 1 of them is equipped with "Ring of Magnetism", your opponent cannot attack because the 2 "Command Knights" are preventing an attack from being declared. "Ring of Magnetism"’s effect forcefully leads the attack to the equipped monster only when the opponent declares an attack, which is impossible for your opponent to do.

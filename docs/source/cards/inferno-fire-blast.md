@@ -1,4 +1,4 @@
-# INFERNO FIRE BLAST
+# Inferno Fire Blast
 
 *   No copies of "Red-Eyes B. Dragon" can attack if you activate "Inferno Fire Blast".
 *   If "Red-Eyes B. Dragon" attacked, you cannot activate "Inferno Fire Blast" during Main Phase 2, but if "Red-Eyes B. Dragon" did not attack, you can activate "Inferno Fire Blast" during Main Phase 2.

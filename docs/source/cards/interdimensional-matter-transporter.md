@@ -1,4 +1,4 @@
-# INTERDIMENSIONAL MATTER TRANSPORTER
+# Interdimensional Matter Transporter
 
 > ① Select 1 face-up monster you control and remove it from play until the End Phase of this turn.
 

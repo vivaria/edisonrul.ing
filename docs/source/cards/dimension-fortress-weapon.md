@@ -1,4 +1,4 @@
-# DIMENSION FORTRESS WEAPON
+# Dimension Fortress Weapon
 
 *   Costs cannot be paid while “Dimension Fortress Weapon” is on the field, if the cost is to send cards from the Deck to the Graveyard. So “Card Trooper” and “Celestia, Lightsworn Angel” cannot activate their effects.
     *   In general, Lightsworn monsters can activate their effects while “Dimension Fortress Weapon” is on the field, but cards are not sent from the Deck to the Graveyard afterwards.

@@ -1,4 +1,4 @@
-# SUPER SOLAR NUTRIENT
+# Super Solar Nutrient
 
 *   Calculate the maximum Level of monster you can Special Summon based on the Level of the Tributed monster when it was on the field.
 *   “Super Solar Nutrient” does not target a monster in your hand or Deck.

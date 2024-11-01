@@ -1,4 +1,4 @@
-# DARK FUSION
+# Dark Fusion
 
 > Send, from your hand or your side of the field to the Graveyard, Fusion Material Monsters that are listed on a Fiend-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon). The Special Summoned monster cannot be targeted by the effects of your opponent's Monsters, Spells, and Traps this turn.
 

@@ -1,4 +1,4 @@
-# ALIEN KID
+# Alien Kid
 
 > ① Place 1 A-Counter on all monsters Special Summoned to your opponent's side of the field. ② (If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)
 

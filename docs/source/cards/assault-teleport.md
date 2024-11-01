@@ -1,4 +1,4 @@
-# ASSAULT TELEPORT
+# Assault Teleport
 
 > Return 1 "/Assault Mode" monster from your hand to the Deck. Draw 2 cards.
 

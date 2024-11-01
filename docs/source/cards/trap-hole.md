@@ -1,4 +1,4 @@
-# TRAP HOLE
+# Trap Hole
 
 > Activate only when your opponent Normal Summons or Flip Summons a monster with 1000 or more ATK. Destroy that monster.
 

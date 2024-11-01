@@ -1,4 +1,4 @@
-# VISER DES
+# Viser Des
 
 *   “Viser Des” targets 1 monster your opponent controls.
 *   If your opponent takes control of “Viser Des” its effect will no longer apply.

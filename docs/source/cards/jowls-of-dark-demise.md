@@ -1,4 +1,4 @@
-# JOWLS OF DARK DEMISE
+# Jowls Of Dark Demise
 
 *   When "Jowls of Dark Demise" is flipped and its effect activates during your opponent's turn, it ends at the end of your opponent's turn. You take control of a monster, but can’t attack with it because it isn’t your turn.
 *   You can take control of a face-down monster with "Jowls of Dark Demise".

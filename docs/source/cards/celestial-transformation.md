@@ -1,4 +1,4 @@
-# CELESTIAL TRANSFORMATION
+# Celestial Transformation
 
 *   If the monster Special Summoned with “Celestial Transformation” is flipped face-down, then it is not destroyed during the End Phase.
 *   You can activate “Torrential Tribute” after a monster is Special Summoned with the effect of “Celestial Transformation”.

@@ -1,4 +1,4 @@
-# SPACEGATE
+# Spacegate
 
 *   Placing a "Gate Counter" onto "Spacegate" does not start a Chain.
 *   Sending "Spacegate" to the Graveyard is a cost to activate its second effect.

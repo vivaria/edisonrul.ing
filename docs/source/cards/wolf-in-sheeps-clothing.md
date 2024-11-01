@@ -1,4 +1,4 @@
-# WOLF IN SHEEP’S CLOTHING
+# Wolf In Sheep’S Clothing
 
 *   You activate this card after damage calculation.
 *   Revealing 1 Level 1 monster from your hand is a cost.

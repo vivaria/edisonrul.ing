@@ -1,4 +1,4 @@
-# CHAINSAW INSECT
+# Chainsaw Insect
 
 *   This card’s effect is a Trigger Effect that activates at the end of the Damage Step.
 *   If “Chainsaw Insect” battles, your opponent draws 1 card even if “Chainsaw Insect” is destroyed as a result of the battle, or is removed from the field before the end of the Damage Step (for example, by the effect of “Man-Eater Bug” or “Begone, Knave!”).

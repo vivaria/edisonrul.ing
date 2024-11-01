@@ -1,4 +1,4 @@
-# BALLISTA OF RAMPART SMASHING
+# Ballista Of Rampart Smashing
 
 > If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.
 

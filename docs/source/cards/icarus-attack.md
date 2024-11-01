@@ -1,4 +1,4 @@
-# ICARUS ATTACK
+# Icarus Attack
 
 > Tribute 1 Winged Beast-Type monster. Destroy 2 cards on the field.
 

@@ -1,4 +1,4 @@
-# ARCANE ARCHER OF THE FOREST
+# Arcane Archer Of The Forest
 
 > ① While there is a Plant-Type monster on your side of the field, this card cannot be attacked. ② By Tributing 1 Plant-Type monster on your side of the field, destroy 1 Spell or Trap Card on the field.
 

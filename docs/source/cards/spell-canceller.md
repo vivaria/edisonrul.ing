@@ -1,4 +1,4 @@
-# SPELL CANCELLER
+# Spell Canceller
 
 > ① As long as this card remains face-up on the field, Spell Cards cannot be activated. ② The effects of all Spell Cards are also negated.
 

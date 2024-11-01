@@ -1,4 +1,4 @@
-# PLAGUESPREADER ZOMBIE
+# Plaguespreader Zombie
 
 > ① You can return 1 card from your hand to the top of the Deck to Special Summon this card from the Graveyard. Ⓛ If you do, remove this card from play when it is removed from the field.
 

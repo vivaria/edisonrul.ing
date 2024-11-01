@@ -1,4 +1,4 @@
-# REVIVAL JAM
+# Revival Jam
 
 *   If you activate "Change of Heart" to take control of "Revival Jam", and it is sent to the Graveyard as a result of battle, the owner (not you) gets the option to pay 1000 Life Points to Special Summon "Revival Jam" to their side of the field.
 *   The cost of 1000 Life Points is paid when "Revival Jam" is sent to the Graveyard as a result of battle. If "Revival Jam" is removed from the Graveyard before your next Standby Phase by cards like "Disappear" you do not get your Life Points returned to you.

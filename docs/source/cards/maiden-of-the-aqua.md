@@ -1,4 +1,4 @@
-# MAIDEN OF THE AQUA
+# Maiden Of The Aqua
 
 *   The effect of "Maiden of the Aqua" is active only when there is no face-up Field Spell Card on the field. When a Field Spell Card is activated after "Maiden of the Aqua" is Summoned, the effect of "Maiden of the Aqua" is negated as long as there is a face-up Field Spell Card. If the only Field Spell Card is face-down, the effect of "Maiden of the Aqua" is active. If there is a face-up Field Spell Card but it is negated by "Imperial Order", the effect of "Maiden of the Aqua" is not active.
 *   If a Field Spell Card is already active, and "Maiden of the Aqua" is Summoned, the existing Field Spell Card continues to function and "Maiden of the Aqua"’s effect is not applied until there is no face-up Field Spell Card.

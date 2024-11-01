@@ -1,4 +1,4 @@
-# ALIEN DOG
+# Alien Dog
 
 > ① When you Normal Summon an "Alien" monster, you can Special Summon this card from your hand. ② When you do, place 2 A-Counters on face-up monster(s) your opponent controls.
 

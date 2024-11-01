@@ -1,4 +1,4 @@
-# MACHINA ARMORED UNIT
+# Machina Armored Unit
 
 > ① Once per turn, when a Machine-Type monster is destroyed by battle and sent to your Graveyard, you can Special Summon 1 Machine-Type monster from your Deck that has the same Attribute and less ATK than the destroyed monster.
 

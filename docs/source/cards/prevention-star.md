@@ -1,4 +1,4 @@
-# PREVENTION STAR
+# Prevention Star
 
 *   “Prevention Star” targets the equipped monster and the opponent’s selected monster.
 *   If the opponent has no monsters to select, “Prevention Star” cannot be activated.

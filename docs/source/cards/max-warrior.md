@@ -1,4 +1,4 @@
-# MAX WARRIOR
+# Max Warrior
 
 *   The effect to change the Level and halve the ATK/DEF of this card is a Trigger Effect that activates at the end of the Damage Step.
 *   If “Max Warrior” has its Level and ATK/DEF changed by its own effect and your next Standby Phase is skipped, the Level and ATK/DEF of “Max Warrior” will return to normal at the start of Main Phase 1.

@@ -1,4 +1,4 @@
-# BACKUP SOLDIER
+# Backup Soldier
 
 > Activate only if there are 5 or more monsters in your Graveyard. Add up to 3 non-Effect Monsters with 1500 or less ATK from your Graveyard to your hand.
 

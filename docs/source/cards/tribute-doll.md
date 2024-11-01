@@ -1,4 +1,4 @@
-# TRIBUTE DOLL
+# Tribute Doll
 
 *   You cannot use "Tribute Doll" to Special Summon a "Special Summon-only" monster like "Dark Necrofear".
 *   You can use Monster Tokens as a cost for "Tribute Doll".

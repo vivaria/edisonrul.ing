@@ -1,4 +1,4 @@
-# RETURN ZOMBIE
+# Return Zombie
 
 *   The effect of “Return Zombie” is an Ignition Effect. Paying 500 Life Points is a cost to activate the effect of “Return Zombie”.
 *   “Return Zombie’s” effect begins a Chain. It is possible to activate “Disappear” in chain to remove “Return Zombie” from play.

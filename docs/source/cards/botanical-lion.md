@@ -1,4 +1,4 @@
-# BOTANICAL LION
+# Botanical Lion
 
 > ① This card gains 300 ATK for each face-up Plant-Type monster you control. ② Control of this face-up card cannot switch.
 

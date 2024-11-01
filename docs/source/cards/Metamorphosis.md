@@ -1,4 +1,4 @@
-# METAMORPHOSIS
+# Metamorphosis
 
 *   "Metamorphosis" does not properly Summon a Fusion Monster, so you cannot use "Monster Reborn" on it afterwards.
 *   Tributing a monster is a cost.

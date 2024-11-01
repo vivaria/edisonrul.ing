@@ -1,4 +1,4 @@
-# SPIRIT OF THE SIX SAMURAI
+# Spirit Of The Six Samurai
 
 > ① Once per turn, you can equip this card to a "Six Samurai" monster you control, OR unequip it to Special Summon this card in face-up Attack Position. ② When equipped to a monster by this card's effect, that monster gains 500 ATK and DEF. ③ When the equipped monster destroys an opponent's monster by battle, draw 1 card. Ⓒ (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, this card is destroyed instead.)
 

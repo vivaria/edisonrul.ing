@@ -1,4 +1,4 @@
-# ANCIENT GEAR BEAST
+# Ancient Gear Beast
 
 > Ⓒ This card cannot be Special Summoned. ① The effects of your opponent's monsters that this card destroys by battle are negated. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
 

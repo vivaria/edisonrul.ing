@@ -1,4 +1,4 @@
-# BARREL BEHIND THE DOOR
+# Barrel Behind The Door
 
 > Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.
 

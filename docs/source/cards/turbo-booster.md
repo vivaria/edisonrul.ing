@@ -1,4 +1,4 @@
-# TURBO BOOSTER
+# Turbo Booster
 
 *   "Turbo Booster" can only be Special Summoned by its effect during your own Main Phases.
 *   "Turbo Booster"'s second effect is an Ignition Effect that you can activate during your Main Phase 2. Tributing "Turbo Booster" is a cost. This effect targets your opponent's monster.

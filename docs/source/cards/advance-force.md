@@ -1,4 +1,4 @@
-# ADVANCE FORCE
+# Advance Force
 
 > ① You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.
 

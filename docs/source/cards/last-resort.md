@@ -1,4 +1,4 @@
-# LAST RESORT
+# Last Resort
 
 *   If your opponent has an active Field Spell Card when you activate this card they can draw 1 card when this card resolves, even if that Field Spell Card is destroyed by an effect Chained to this card’s activation.
 *   This card is resolved as follows: First, select 1 “Ancient City – Rainbow Ruins” from your Deck and place it in your Field Spell Card Zone, then your opponent’s Field Spell Card is destroyed and they draw one card.

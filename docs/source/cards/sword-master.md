@@ -1,4 +1,4 @@
-# SWORD MASTER
+# Sword Master
 
 *   This effect activates if your opponent’s monster is not destroyed during damage calculation.
 *   The attacking monster must be Warrior-Type the entire time from attack declaration until the end of the Damage Step in order to Special Summon “Sword Master.”

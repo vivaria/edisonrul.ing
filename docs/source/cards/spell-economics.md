@@ -1,4 +1,4 @@
-# SPELL ECONOMICS
+# Spell Economics
 
 *   While "Spell Economics" is active, you don't have to pay Life Points to activate a Spell Card (place it face-up on the field), but to activate an effect of a Spell Card, like "Archfiend's Oath", you still have to pay.
 *   Only the controller of "Spell Economics" gets its effect.

@@ -1,4 +1,4 @@
-# VICTORIA
+# Victoria
 
 > ① Once per turn, you can select and Special Summon 1 Dragon-Type monster in your opponent's Graveyard to your side of the field. ② Your opponent cannot select another face-up Fairy-Type monster as an attack target.
 

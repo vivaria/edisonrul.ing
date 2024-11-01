@@ -1,4 +1,4 @@
-# ASURA PRIEST
+# Asura Priest
 
 > Ⓒ This card cannot be Special Summoned. ① This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. ② This card can attack all monsters your opponent controls once each. This monster cannot attack directly if it has already attacked a monster.
 

@@ -1,4 +1,4 @@
-# GLADIATOR BEAST ALEXANDER
+# Gladiator Beast Alexander
 
 > Ⓒ This card cannot be Special Summoned except by the effect of "Gladiator Beast Dimacari". ① If this card is Special Summoned, it is unaffected by the effects of Spell Cards. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Alexander".
 

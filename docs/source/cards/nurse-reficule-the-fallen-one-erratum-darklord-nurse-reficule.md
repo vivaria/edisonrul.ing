@@ -1,4 +1,4 @@
-# NURSE REFICULE THE FALLEN ONE (erratum: "Darklord Nurse Reficule")
+# Nurse Reficule The Fallen One (Erratum: "Darklord Nurse Reficule")
 
 > ① Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.
 

@@ -1,4 +1,4 @@
-# GEAR GOLEM THE MOVING FORTRESS
+# Gear Golem The Moving Fortress
 
 *   You cannot activate this card's effect during your opponent's turn or during Main Phase 2.
 *   You can only activate this card's effect once per turn.

@@ -1,4 +1,4 @@
-# PULLING THE RUG
+# Pulling The Rug
 
 > Negate the activation and effect of an Effect Monster whose effect activated when a monster was Normal Summoned (even itself), and destroy that Effect Monster.
 

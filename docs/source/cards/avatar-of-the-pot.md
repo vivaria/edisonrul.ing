@@ -1,4 +1,4 @@
-# AVATAR OF THE POT
+# Avatar Of The Pot
 
 > ① By sending 1 "Pot of Greed" from your hand to the Graveyard, draw 3 cards from your Deck.
 

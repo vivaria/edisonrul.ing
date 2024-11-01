@@ -1,4 +1,4 @@
-# PROOF OF POWERLESSNESS
+# Proof Of Powerlessness
 
 > Activate only while you control a face-up Level 7 or higher monster. Destroy all face-up Level 5 or lower monsters your opponent controls. Monsters you control cannot attack this turn.
   

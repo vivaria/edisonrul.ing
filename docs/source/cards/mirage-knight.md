@@ -1,4 +1,4 @@
-# MIRAGE KNIGHT
+# Mirage Knight
 
 *   "Mirage Knight" cannot be Normal Summoned or Set, and cannot be Special Summoned EXCEPT by the effect of "Dark Flare Knight". So "Mirage Knight" cannot be Special Summoned with "Monster Reborn", etc., even if Special Summoned properly first.
 *   "Mirage Knight" can be Special Summoned by "Dark Flare Knight"'s effect even if "Skill Drain" is active, because "Dark Flare Knight"'s effect activates in the Graveyard. However, "Mirage Knight"'s effects are negated by "Skill Drain".

@@ -1,4 +1,4 @@
-# AVENGING KNIGHT PARSHATH
+# Avenging Knight Parshath
 
 > ① Once per turn, you can change the battle position of 1 face-up monster your opponent controls. ② During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.
 

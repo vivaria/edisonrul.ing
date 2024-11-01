@@ -1,4 +1,4 @@
-# A LEGENDARY OCEAN
+# A Legendary Ocean
 
 > Ⓒ This card's name is treated as "Umi". ① Reduce the Level of all WATER monsters in both players' hands and on the field by 1. ② All WATER monsters gain 200 ATK and DEF.
 

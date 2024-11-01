@@ -1,4 +1,4 @@
-# MAJI-GIRE PANDA
+# Maji-Gire Panda
 
 *   The effect of “Maji-Gire Panda” is a Trigger Effect that activates when 1 or more Beast-Type monster(s) are destroyed. If the monsters were destroyed as a result of battle, the timing of this effect is at the end of the Damage Step, when the monsters are sent to the Graveyard.
 *   You can chain to the activation of “Maji-Gire Panda”’s effect, including with “Divine Wrath”.

@@ -1,4 +1,4 @@
-# TURBO CANNON
+# Turbo Cannon
 
 *   This is an Ignition effect.
 *   This effect targets 1 face-up monster.

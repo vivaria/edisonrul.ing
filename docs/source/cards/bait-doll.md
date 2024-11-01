@@ -1,4 +1,4 @@
-# BAIT DOLL
+# Bait Doll
 
 > Force the activation of 1 face-down Trap Card. If the timing of the activation of the Trap Card is incorrect, negate the effect and destroy it. If it is not a Trap Card, it is returned to its original position. After this card is activated, it is placed into the Deck (not the Graveyard). Then shuffle the Deck.
 

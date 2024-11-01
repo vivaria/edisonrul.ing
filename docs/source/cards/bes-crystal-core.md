@@ -1,4 +1,4 @@
-# B.E.S. CRYSTAL CORE
+# B.E.S. Crystal Core
 
 > ① When this card is Normal Summoned, put 3 counters on it. ② This card cannot be destroyed by battle. ③ If this card attacks or is attacked, remove 1 counter from this card at the end of the Damage Step. If you cannot, destroy it. ④ Once per turn, during your Main Phase, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.
 

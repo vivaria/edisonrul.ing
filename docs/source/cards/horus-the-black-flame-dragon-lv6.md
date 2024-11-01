@@ -1,4 +1,4 @@
-# HORUS THE BLACK FLAME DRAGON LV6
+# Horus The Black Flame Dragon LV6
 
 *   The "you" in "on your side of the field" is the current controller’s field, so as long as "Horus the Black Flame Dragon LV 6" is face-up, it is always "face-up on your side of the field".
 *   If you don’t have "Horus the Black Flame Dragon LV8" in your hand or Deck, you cannot send "Horus the Black Flame Dragon LV6" to the Graveyard to activate its effect.

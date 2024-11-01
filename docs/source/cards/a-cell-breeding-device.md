@@ -1,4 +1,4 @@
-# 'A' CELL BREEDING DEVICE
+# 'A' Cell Breeding Device
 
 > ① During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.
 

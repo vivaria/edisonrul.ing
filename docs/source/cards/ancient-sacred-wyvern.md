@@ -1,4 +1,4 @@
-# ANCIENT SACRED WYVERN
+# Ancient Sacred Wyvern
 
 > ① While your Life Points are higher than your opponent's, this card gains ATK equal to the difference. ② While your Life Points are lower than your opponent's, this card loses ATK equal to the difference. ③ When this card is destroyed by battle and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card.
 

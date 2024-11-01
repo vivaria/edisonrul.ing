@@ -1,4 +1,4 @@
-# CRUSADER OF ENDYMION
+# Crusader Of Endymion
 
 *   The effect to increase this card’s ATK is resolved only if you place a Spell Counter.
 *   This effect targets the card you place a Spell Counter on.

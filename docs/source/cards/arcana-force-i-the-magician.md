@@ -1,4 +1,4 @@
-# ARCANA FORCE I - THE MAGICIAN
+# Arcana Force I - The Magician
 
 > ① When this card is Summoned, toss a coin: ● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn. ● Tails: When a Spell Card is activated, your opponent gains 500 Life Points.
 

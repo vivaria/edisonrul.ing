@@ -1,4 +1,4 @@
-# SCAPEGOAT
+# Scapegoat
 
 *   You can only activate "Scapegoat" if you have 4 or more vacant Monster Card Zones.
 *   If the effect of "Cyber Jar" is activated during the turn you already activated "Scapegoat" all monsters that could be Special Summoned will be sent to the Graveyard.

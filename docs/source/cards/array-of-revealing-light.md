@@ -1,4 +1,4 @@
-# ARRAY OF REVEALING LIGHT
+# Array Of Revealing Light
 
 > Declare 1 Type of monster. ① Any monster of the declared Type cannot declare an attack during the turn it is Normal Summoned, Flip Summoned or Special Summoned.
 

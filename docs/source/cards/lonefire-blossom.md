@@ -1,4 +1,4 @@
-# LONEFIRE BLOSSOM
+# Lonefire Blossom
 
 > ① Once per turn, you can Tribute 1 face-up Plant-Type monster to Special Summon 1 Plant-Type monster from your Deck.
 

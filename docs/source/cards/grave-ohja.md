@@ -1,4 +1,4 @@
-# GRAVE OHJA
+# Grave Ohja
 
 *   If you control “Grave Ohja” and you Flip Summon a Flip Effect Monster, the two effects go on a chain. You can choose which effect is chain link 1.
 *   If you control multiple copies of “Grave Ohja” and Flip Summon a monster, the effects go on a chain and you can choose the order of the chain links.

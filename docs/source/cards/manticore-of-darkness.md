@@ -1,4 +1,4 @@
-# MANTICORE OF DARKNESS
+# Manticore Of Darkness
 
 *   "Manticore of Darkness"' effect can be activated during the End Phase when it was sent to the Graveyard from the field, hand, or your Deck that same turn.
 *   When you send 1 "Manticore of Darkness" to the Graveyard to Special Summon another "Manticore of Darkness", you can then send the new "Manticore of Darkness" to the Graveyard to Special Summon the first "Manticore of Darkness".

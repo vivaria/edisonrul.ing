@@ -1,4 +1,4 @@
-# COCOON VEIL
+# Cocoon Veil
 
 *   You cannot activate this card if you cannot Special Summon a monster due to the effect of "Scapegoat", etc.
 *   Tributing a "Chrysalis" monster is part of this card's effect, not a cost.

@@ -1,4 +1,4 @@
-# STAR BLAST
+# Star Blast
 
 *   “Star Blast” does not target.
 *   When its effect resolves, choose a monster on the field or in your hand.

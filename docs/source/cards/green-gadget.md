@@ -1,4 +1,4 @@
-# GREEN GADGET
+# Green Gadget
 
 > ① When you Normal Summon or Special Summon this card, you can add 1 "Red Gadget" from your Deck to your hand._
 

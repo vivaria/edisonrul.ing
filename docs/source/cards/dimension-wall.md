@@ -1,4 +1,4 @@
-# DIMENSION WALL
+# Dimension Wall
 
 *   The effect of “Dimension Wall” is applied during damage calculation and cannot be chained to.
 *   If your opponent already activated “Waboku” this turn, then they cannot take battle damage, so you cannot activate “Dimension Wall”. However, you can chain “Dimension Wall” to “Waboku” if the timing is appropriate.

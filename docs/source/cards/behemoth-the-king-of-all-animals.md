@@ -1,4 +1,4 @@
-# BEHEMOTH THE KING OF ALL ANIMALS
+# Behemoth The King Of All Animals
 
 *   It is possible to "properly" Tribute Summon "Behemoth the King of All Animals" with just 1 Tribute. For example, you can Tribute Summon it with "Trojan Horse", or use "Cost Down" and then Tribute 1 monster because "Behemoth the King of All Animals" is only Level 5. In cases such as this, either 2000 ATK or 2700 ATK is correct, so the controller can select which ATK it will have.
 *   If "Trojan Horse" is Tributed to Tribute Summon "Behemoth the King of All Animals", you still only return 1 monster from the Graveyard to your hand, because it’s the same number as the number of monsters you Tributed to perform the Summon.

@@ -1,4 +1,4 @@
-# SHRINK
+# Shrink
 
 > Select 1 face-up monster on the field. The original ATK of that monster is halved until the end of this turn.
 

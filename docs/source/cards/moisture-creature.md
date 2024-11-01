@@ -1,4 +1,4 @@
-# MOISTURE CREATURE
+# Moisture Creature
 
 *   You can Summon "Moisture Creature" by Tributing 2 monsters, but the effect will not be activated.
 *   You cannot Summon "Moisture Creature" by Tributing 3 monsters if there are no Spell or Trap Cards on your opponent’s side of the field.

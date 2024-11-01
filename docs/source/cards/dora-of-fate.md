@@ -1,4 +1,4 @@
-# DORA OF FATE
+# Dora Of Fate
 
 *   "Dora of Fate"'s effect only applies when you Summon a monster, not when your opponent Summons a monster.
 *   "Dora of Fate" targets: the face-up monster on your opponent's side of the field.

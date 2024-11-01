@@ -1,4 +1,4 @@
-# PROTECTOR OF THE SANCTUARY
+# Protector Of The Sanctuary
 
 *   Your opponent cannot draw with "Airknight Parshath" while you control "Protector of the Sanctuary".
 *   Most cards that would cause the opponent to draw outside of the Draw Phase, such as "Card Destruction", cannot be activated, even by the controller of "Protector of the Sanctuary". However, effects that are forcibly activated, like "Morphing Jar", can be activated (but results may vary; see below).

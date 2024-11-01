@@ -1,4 +1,4 @@
-# EVIL HERO INFERNAL PRODIGY
+# Evil Hero Infernal Prodigy
 
 > Ⓢ If you control no monsters, you can Special Summon this card from your hand in face-up Attack Position. ① If you Tribute this card to Tribute Summon an "Elemental Hero", "Destiny Hero", or "Evil Hero" monster, draw 1 card during this turn's End Phase.
 

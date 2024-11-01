@@ -1,4 +1,4 @@
-# BLACK TYRANNO
+# Black Tyranno
 
 *   If there is a Spell or Trap Card on your opponent's side of the field, "Black Tyranno" cannot attack directly.
 *   If there is an Attack Position monster on your opponent's side of the field, "Black Tyranno" cannot attack directly.

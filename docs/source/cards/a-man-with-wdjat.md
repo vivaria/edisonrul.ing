@@ -1,4 +1,4 @@
-# A MAN WITH WDJAT
+# A Man With Wdjat
 
 > ① When you Normal Summon this card, and during each of your Standby Phases, select 1 Set card on your opponent's side of the field. Pick it up and look at it, then return it to its original position.
 

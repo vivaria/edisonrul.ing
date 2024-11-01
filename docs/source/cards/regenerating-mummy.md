@@ -1,4 +1,4 @@
-# REGENERATING MUMMY
+# Regenerating Mummy
 
 *   "Regenerating Mummy"'s effect will activate when sent to the Graveyard by the effect of "Morphing Jar" or "Card Destruction".
 *   "Regenerating Mummy"'s effect will activate during the Damage Step because of "Spirit Reaper" or "Don Zaloog".

@@ -1,4 +1,4 @@
-# OVERDRIVE TELEPORTER
+# Overdrive Teleporter
 
 > Ⓒ This card cannot be Special Summoned. ① You can pay 2000 Life Points to Special Summon 2 Level 3 Psychic-Type monsters from your Deck. This effect can only be used once while this card is face-up on the field.
 

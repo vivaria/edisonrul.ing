@@ -1,4 +1,4 @@
-# MOSAIC MANTICORE
+# Mosaic Manticore
 
 *   "Mosaic Manticor"'s effect is a Trigger Effect that activates during the Standby Phase of your next turn.
 *   "Mosaic Manticore"'s effect does not target.

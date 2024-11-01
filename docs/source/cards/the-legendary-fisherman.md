@@ -1,4 +1,4 @@
-# THE LEGENDARY FISHERMAN
+# The Legendary Fisherman
 
 *   If you take control of your opponent's face-down "The Legendary Fisherman" with "Change of Heart" while "Umi" is face-up on the field, when it is flipped face-up it is immediately returned to your opponent.
 *   If you Special Summon "The Legendary Fisherman" with "Premature Burial", when "Premature Burial" is destroyed while "Umi" is face-up on the field "The Legendary Fisherman" is not destroyed.

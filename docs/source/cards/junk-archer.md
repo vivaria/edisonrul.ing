@@ -1,4 +1,4 @@
-# JUNK ARCHER
+# Junk Archer
 
 > ① Once per turn, you can select 1 monster your opponent controls. Remove that monster from play. During the End Phase of this turn, it returns to your opponent's side of the field, in the same Battle Position.
 

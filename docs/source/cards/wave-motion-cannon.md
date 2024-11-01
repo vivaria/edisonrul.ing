@@ -1,4 +1,4 @@
-# WAVE-MOTION CANNON
+# Wave-Motion Cannon
 
 > ① During your Main Phase, you can send this card to the Graveyard to inflict 1000 damage to your opponent for each of your Standby Phases that have passed since this card was activated.
 

@@ -1,4 +1,4 @@
-# MONSTER RECOVERY
+# Monster Recovery
 
 *   If you select a Fusion Monster or Synchro Monster, it returns to its owner's Extra Deck.
 *   If you select your opponent's monster that you currently control, it is returned to your opponent's Deck.

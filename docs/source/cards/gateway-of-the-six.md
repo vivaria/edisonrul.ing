@@ -1,4 +1,4 @@
-# GATEWAY OF THE SIX
+# Gateway Of The Six
 
 > ① Each time a "Six Samurai" monster is Normal or Special Summoned, place 2 Bushido Counters on this card. ② You can remove Bushido Counters from your side of the field to apply the following effects. ● 2 Counters: Until the End Phase of this turn, 1 face-up "Six Samurai" or "Shien" Effect Monster gains 500 ATK. ● 4 Counters: Add 1 "Six Samurai" monster from your Deck or Graveyard to your hand. ● 6 Counters: Special Summon 1 "Shien" Effect Monster from your Graveyard.
 

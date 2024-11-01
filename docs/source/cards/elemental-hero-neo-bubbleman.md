@@ -1,4 +1,4 @@
-# ELEMENTAL HERO NEO BUBBLEMAN
+# Elemental Hero Neo Bubbleman
 
 *   If “Skill Drain” is active, this card is no longer treated as “Elemental Hero Bubbleman”.
 *   You can have 3 “Elemental Hero Bubbleman” and 3 “Elemental Hero Neo Bubbleman” in your Deck and Side Deck combined.

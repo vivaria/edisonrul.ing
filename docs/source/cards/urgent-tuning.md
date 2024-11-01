@@ -1,4 +1,4 @@
-# URGENT TUNING
+# Urgent Tuning
 
 > Activate only during the Battle Phase. Synchro Summon 1 Synchro Monster. (Send the appropriate Synchro Material Monsters to the Graveyard.)
 

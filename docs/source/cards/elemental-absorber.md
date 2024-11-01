@@ -1,4 +1,4 @@
-# ELEMENTAL ABSORBER
+# Elemental Absorber
 
 *   Removing from play 1 Monster Card in your hand is not a cost. It is part of the effect of “Elemental Absorber”.
 *   You only remove from play 1 Monster Card from your hand and when “Elemental Absorber” resolves. You can’t remove additional cards later. You can’t remove from play more than 1 card when “Elemental Absorber” resolves.

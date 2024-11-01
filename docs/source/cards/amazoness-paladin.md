@@ -1,4 +1,4 @@
-# AMAZONESS PALADIN
+# Amazoness Paladin
 
 > ① Increase the ATK of this monster by 100 for each monster on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer".
 

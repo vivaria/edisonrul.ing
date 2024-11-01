@@ -1,4 +1,4 @@
-# DOUBLE TOOL C&D
+# Double Tool C&D
 
 > Equip only to a "Power Tool Dragon" or Level 4 or higher Machine-Type "Morphtronic" monster you control. While equipped: ● During your turn: It gains 1000 ATK. If it attacks, any effects of the attack target that activate or apply on the field are negated during that Battle Phase. ● During your opponent's turn: Your opponent cannot select a monster other than the equipped monster as an attack target. An opponent's monster that battles the equipped monster is destroyed at the end of the Damage Step.
 

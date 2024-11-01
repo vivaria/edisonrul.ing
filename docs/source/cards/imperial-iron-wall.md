@@ -1,4 +1,4 @@
-# IMPERIAL IRON WALL
+# Imperial Iron Wall
 
 > ① Cards cannot be removed from play.
 

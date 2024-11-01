@@ -1,4 +1,4 @@
-# CAIUS THE SHADOW MONARCH
+# Caius The Shadow Monarch
 
 > ① When this card is Tribute Summoned, remove from play 1 card on the field. If it was a DARK Monster Card, inflict 1000 damage to your opponent.
 

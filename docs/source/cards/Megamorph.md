@@ -1,4 +1,4 @@
-# MEGAMORPH
+# Megamorph
 
 *   "Megamorph" changes the current ATK of the monster it is equipped to. It calculates a new current ATK by half or doubling the equipped monster’s original ATK.
 *   Having multiple "Megamorphs" equipped to a monster is the same as having one.

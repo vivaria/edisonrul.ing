@@ -1,4 +1,4 @@
-# SWAP FROG
+# Swap Frog
 
 > Ⓢ You can discard 1 WATER monster to Special Summon this card from your hand. ① When this card is Summoned, you can select and sent 1 Level 2 or lower Aqua-Type WATER monster from your Deck or your side of the field to the Graveyard. ② Once per turn, you can return 1 monster you control to the hand to Normal Summon 1 “Frog” monster, except “Swap Frog” or “Frog the Jam”, in addition to your Normal Summon or Set this turn.
 

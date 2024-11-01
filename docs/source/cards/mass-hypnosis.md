@@ -1,4 +1,4 @@
-# MASS HYPNOSIS
+# Mass Hypnosis
 
 *   You can only select as many monsters with A-Counters as you have empty Monster Card Zones.
 *   If a monster you control with the effect of "Mass Hypnosis" loses it’s A-Counter, then control is returned to the opponent.

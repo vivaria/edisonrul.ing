@@ -1,4 +1,4 @@
-# VAN'DALGYON THE DARK DRAGON LORD
+# Van'Dalgyon The Dark Dragon Lord
 
 > ① After a Counter Trap Card you control negates the activation of an opponent's card(s) or effect(s), you can Special Summon this card from your hand. ② Then activate the appropriate effects, based on the type of cards negated:
 • Spell: Inflict 1500 damage to your opponent.  

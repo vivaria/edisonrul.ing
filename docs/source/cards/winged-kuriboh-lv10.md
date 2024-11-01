@@ -1,4 +1,4 @@
-# WINGED KURIBOH LV10
+# Winged Kuriboh LV10
 
 *   “Winged Kuriboh LV10's” effect is a Quick Effect. You cannot activate this effect during the Damage Step.
 *   The Quick Effect of “Winged Kuriboh LV10”can be chained to. You can chain “Barrel Behind the Door” or “My Body as a Shield” to the effect.

@@ -1,4 +1,4 @@
-# ELEMENTAL HERO GLOW NEOS
+# Elemental Hero Glow Neos
 
 *   This card’s final effect is an Ignition Effect. It targets 1 card controlled by the opponent.
 *   If you target a Token Monster with this effect, the additional effect (“This card cannot battle this turn.”) is not applied because the Token is not treated as a monster after it is destroyed.

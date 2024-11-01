@@ -1,4 +1,4 @@
-# EVIL HERO DARK GAIA
+# Evil Hero Dark Gaia
 
 > 1 Fiend-Type monster + 1 Rock-Type monster
 Ⓒ This card cannot be Special Summoned except with "Dark Fusion". ① The original ATK of this card is equal to the combined ATK of the Fusion Material Monsters used to Fusion Summon it. ② When this card declares an attack, change all Defense Position monsters your opponent controls to face-up Attack Position. Flip Effects are not activated at this time.

@@ -1,4 +1,4 @@
-# FORTUNE LADY DARK
+# Fortune Lady Dark
 
 *   This effect targets the "Fortune Lady" monster in your Graveyard.
 *   If a "Fortune Lady" monster you control battles another monster and both are destroyed, you cannot activate the effect of "Fortune Lady Dark".

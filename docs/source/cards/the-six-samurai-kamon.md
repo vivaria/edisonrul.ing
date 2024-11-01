@@ -1,4 +1,4 @@
-# THE SIX SAMURAI - KAMON
+# The Six Samurai - Kamon
 
 > ① Once per turn, while you control another "Six Samurai" monster with a different name, you can destroy 1 face-up Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 

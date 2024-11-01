@@ -1,4 +1,4 @@
-# GRAVEKEEPER’S DESCENDANT
+# Gravekeeper’S Descendant
 
 > ① You can Tribute 1 face-up "Gravekeeper"'s monster you control, except this card, to destroy 1 card your opponent controls.
 

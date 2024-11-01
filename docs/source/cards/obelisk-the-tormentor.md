@@ -1,4 +1,4 @@
-# OBELISK THE TORMENTOR
+# Obelisk The Tormentor
 
 > Ⓒ You must Tribute 3 monsters to Normal Summon this card (you cannot Set this card). Ⓤ The Normal Summon of this card cannot be negated. ① When this card is Normal Summoned, Spells, Traps, and Effect Monster effects cannot be activated. ② This card cannot be targeted by the effects of Spells, Traps, or Effect Monsters. ③ If this card is Special Summoned, it is sent to the Graveyard during the End Phase. ④ You can Tribute 2 monsters to destroy all monsters your opponent controls. (4C) This card cannot declare an attack the turn this effect is activated.
 

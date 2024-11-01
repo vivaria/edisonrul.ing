@@ -1,4 +1,4 @@
-# JINZO - RETURNER
+# Jinzo - Returner
 
 > ① This card can attack your opponent directly. ② When this card is sent to the Graveyard, you can Special Summon 1 "Jinzo" from your Graveyard. Destroy it during your End Phase.
 

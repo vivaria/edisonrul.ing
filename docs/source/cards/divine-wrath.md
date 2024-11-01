@@ -1,4 +1,4 @@
-# DIVINE WRATH
+# Divine Wrath
 
 > Discard 1 card from your hand. Negate the activation of an Effect Monster's effect, and destroy that Effect Monster.
 

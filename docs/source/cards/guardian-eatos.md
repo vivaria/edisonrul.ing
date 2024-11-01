@@ -1,4 +1,4 @@
-# GUARDIAN EATOS
+# Guardian Eatos
 
 > Ⓤ If you have no monsters in your Graveyard, you can Special Summon this card from your hand. ① You can send 1 Equip Spell Card equipped to this card to the Graveyard to select and remove from play up to 3 monsters in your opponent's Graveyard. This card gains 500 ATK for each monster removed by this effect, until the End Phase.
 

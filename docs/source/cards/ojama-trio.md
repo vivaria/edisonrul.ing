@@ -1,4 +1,4 @@
-# OJAMA TRIO
+# Ojama Trio
 
 *   You cannot activate "Ojama Trio" if there are not 3 vacant Monster Zones on your opponent's side of the field.
 *   You cannot activate "Ojama Trio" if "Scapegoat" or "The Last Warrior from Another Planet" is preventing you from Summoning.

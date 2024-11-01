@@ -1,4 +1,4 @@
-# VEIL OF DARKNESS
+# Veil Of Darkness
 
 *   Reveal the drawn DARK monster when you activate the effect of "Veil of Darkness". That DARK monster is sent to the Graveyard when the effect is resolved.
 *   You can activate the effect of "Veil of Darkness" when you draw a DARK monster with a card effect during your Draw Phase.

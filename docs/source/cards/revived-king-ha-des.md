@@ -1,4 +1,4 @@
-# REVIVED KING HA DES
+# Revived King Ha Des
 
 > ① Negate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.
 

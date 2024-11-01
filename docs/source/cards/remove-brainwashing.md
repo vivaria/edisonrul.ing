@@ -1,4 +1,4 @@
-# REMOVE BRAINWASHING
+# Remove Brainwashing
 
 > As long as this card remains face-up on the field, the control of all monsters on the field returns to the original owners.
 

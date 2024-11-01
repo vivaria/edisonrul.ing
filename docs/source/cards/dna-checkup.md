@@ -1,4 +1,4 @@
-# DNA CHECKUP
+# Dna Checkup
 
 *   This card targets 1 face-down monster you control.
 *   If the targeted monster is not on the field when “DNA Checkup” resolves, its effect disappears.

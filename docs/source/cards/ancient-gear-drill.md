@@ -1,4 +1,4 @@
-# ANCIENT GEAR DRILL
+# Ancient Gear Drill
 
 > Activate only while you control a face-up "Ancient Gear" monster. Discard 1 card from your hand. Select 1 Spell Card from your Deck and Set it. You cannot use that Spell Card this turn.
 

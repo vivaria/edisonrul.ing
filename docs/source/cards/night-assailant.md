@@ -1,4 +1,4 @@
-# NIGHT ASSAILANT
+# Night Assailant
 
 > ① FLIP: Select 1 monster on your opponent's side of the field and destroy it. ② When this card is sent directly from your hand to the Graveyard, return 1 Flip Effect Monster from your Graveyard to your hand.
 

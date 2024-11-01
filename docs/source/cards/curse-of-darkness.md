@@ -1,4 +1,4 @@
-# CURSE OF DARKNESS
+# Curse Of Darkness
 
 *   "Curse of Darkness" inflicts 1000 damage right after the Spell Card is activated, not when it resolves. If the Spell Card's activation is negated however, such as with "Magic Jammer", then no damage is inflicted because the activation was negated.
 *   "Curse of Darkness" does not form a new chain and cannot be chained to. You can chain to the Spell Card itself, after "Curse of Darkness" inflicts its 1000 damage.

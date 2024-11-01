@@ -1,4 +1,4 @@
-# CARD TRADER
+# Card Trader
 
 *   Shuffling 1 card into your Deck is a cost.
 *   Using this effect starts a Chain.

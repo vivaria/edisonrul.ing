@@ -1,4 +1,4 @@
-# GANDORA THE DRAGON OF DESTRUCTION
+# Gandora The Dragon Of Destruction
 
 > Ⓒ This card cannot be Special Summoned. ① You can pay half your Life Points to destroy and remove from play all other cards on the field. This card gains 300 ATK for each card destroyed this way. ② This card is sent to the Graveyard during the End Phase of the turn it was Summoned.
 

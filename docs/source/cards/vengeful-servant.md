@@ -1,4 +1,4 @@
-# VENGEFUL SERVANT
+# Vengeful Servant
 
 *   The effect of “Vengeful Servant” starts a chain when control of the monster switches.
 *   If a Continuous Effect would destroy the equipped monster first (example: an equipped “Thunder Nyan Nyan” switches sides and is destroyed immediately), then the effect of “Vengeful Servant” does not activate and it does not inflict damage.

@@ -1,4 +1,4 @@
-# FORTUNE LADY LIGHT
+# Fortune Lady Light
 
 > ① This card's ATK and DEF are equal to its Level x 200. ② During each of your Standby Phases, increase the Level of this card by 1 (max 12). ③ When this card is removed from the field by a card effect, you can Special Summon 1 "Fortune Lady" monster from your Deck.
 

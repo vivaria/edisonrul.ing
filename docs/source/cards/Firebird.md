@@ -1,4 +1,4 @@
-# FIREBIRD
+# Firebird
 
 *   The effect of “Firebird” is a Trigger Effect that activates when 1 or more Winged Beast-Type monster(s) on the controller’s side of the field are destroyed. If the monsters were destroyed as a result of battle, the timing of this effect is at the end of the Damage Step, when the monsters are sent to the Graveyard.
 *   You can chain to the activation of “Firebird”’s effect, including with “Divine Wrath”.

@@ -1,4 +1,4 @@
-# QUILLBOLT HEDGEHOG
+# Quillbolt Hedgehog
 
 *   "Quillbolt Hedgehog"'s Special Summon effect is an Ignition Effect.
 *   If an effect is chained that removes your only Tuner monster from your side of the field, "Quillbolt Hedgehog" is not Special Summoned.

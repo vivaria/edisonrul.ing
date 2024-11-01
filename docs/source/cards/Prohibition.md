@@ -1,4 +1,4 @@
-# PROHIBITION
+# Prohibition
 
 > When you activate this card, declare 1 card name. Cards with that name and their effects cannot be used. Cards on the field before this card was activated are not affected (including face-down cards).
 

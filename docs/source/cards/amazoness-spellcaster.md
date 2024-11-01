@@ -1,4 +1,4 @@
-# AMAZONESS SPELLCASTER
+# Amazoness Spellcaster
 
 > Until the end of this turn, switch the original ATK of 1 face-up monster on your side of field that includes "Amazoness" in its card name or is named "Amazon Archer", with the original ATK of 1 face-up monster on your opponent's side of the field.
 

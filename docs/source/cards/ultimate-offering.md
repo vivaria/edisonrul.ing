@@ -1,4 +1,4 @@
-# ULTIMATE OFFERING
+# Ultimate Offering
 
 > ①_ _You can pay 500 Life Points to Normal Summon or Set 1 extra monster. You can only activate this effect during your Main Phase or your opponent's Battle Phase.
 

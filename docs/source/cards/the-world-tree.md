@@ -1,4 +1,4 @@
-# THE WORLD TREE
+# The World Tree
 
 *   Placing Flower Counters onto "The World Tree" does not start a Chain.
 *   Each of "The World Tree"'s effects target. Each effect is an Ignition Effect.

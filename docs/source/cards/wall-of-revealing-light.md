@@ -1,4 +1,4 @@
-# WALL OF REVEALING LIGHT
+# Wall Of Revealing Light
 
 *   Paying Life Points for "Wall of Revealing Light" is a cost.
 *   If "Wall of Revealing Light"'s effect is negated by "Royal Decree" or "Jinzo", and then that card is destroyed, the effect of "Wall of Revealing Light" is re-applied.

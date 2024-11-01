@@ -1,4 +1,4 @@
-# CYBER TUTU
+# Cyber Tutu
 
 *   “Cyber Tutu’s” effect is a Continuous Effect; it cannot be chained to.
 *   “Cyber Tutu” cannot attack directly if the opponent controls any face-down monsters.

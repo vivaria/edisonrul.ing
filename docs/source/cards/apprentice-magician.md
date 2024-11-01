@@ -1,4 +1,4 @@
-# APPRENTICE MAGICIAN
+# Apprentice Magician
 
 > ① When this card is Summoned, place 1 Spell Counter on a face-up card that you can place a Spell Counter on. ② When this card is destroyed by battle, you can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position.
 

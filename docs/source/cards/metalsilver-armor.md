@@ -1,4 +1,4 @@
-# METALSILVER ARMOR
+# Metalsilver Armor
 
 *   Your opponent cannot activate "Monster Reborn" and other cards that target while you have a monster equipped with "Metalsilver Armor". Your opponent can activate "Raigeki", "Mirror Force", and other cards that do not target.
 *   If you attack with "Dark Magician", and you control another monster equipped with "Metalsilver Armor", your opponent cannot activate "Magic Cylinder" because "Magic Cylinder" targets and only the monster equipped with "Metalsilver Armor" can be targeted (and it is not attacking).

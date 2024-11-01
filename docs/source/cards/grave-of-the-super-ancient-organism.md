@@ -1,4 +1,4 @@
-# GRAVE OF THE SUPER ANCIENT ORGANISM
+# Grave Of The Super Ancient Organism
 
 > All face-up Level 6 or higher Special Summoned monsters on the field cannot declare an attack or activate their effects.
 

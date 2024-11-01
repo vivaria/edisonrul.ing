@@ -1,4 +1,4 @@
-# EVIL BLAST
+# Evil Blast
 
 *   “Evil Blast” targets the monster that you equip it to.
 *   You cannot activate “Evil Blast” during the Damage Step.

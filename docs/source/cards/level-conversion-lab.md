@@ -1,4 +1,4 @@
-# LEVEL CONVERSION LAB
+# Level Conversion Lab
 
 *   When you resolve the effect of “Level Conversion Lab”, show the card to your opponent then roll the die.
 *   The Level of a monster can go up or down with “Level Conversion Lab”.

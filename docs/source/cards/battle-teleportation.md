@@ -1,4 +1,4 @@
-# BATTLE TELEPORTATION
+# Battle Teleportation
 
 *   This effect targets your face-up Psychic-Type monster.
 *   You can activate “Battle Teleportation” even if your opponent has no open Monster Card Zones. If you do, the Psychic-Type monster is unable to move to your opponent’s side of the field and is destroyed.

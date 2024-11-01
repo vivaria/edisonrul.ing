@@ -1,4 +1,4 @@
-# DARK SPIRIT OF THE SILENT
+# Dark Spirit Of The Silent
 
 *   If your opponent has only 1 monster on the field you cannot activate this card.
 *   If a monster that has already attacked, or a monster targeted with the effect of "Spellbinding Circle" or "Nightmare Wheel" is targeted with the effect of "Dark Spirit of the Silent" that monster still attacks.

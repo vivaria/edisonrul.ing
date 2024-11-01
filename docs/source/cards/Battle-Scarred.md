@@ -1,4 +1,4 @@
-# BATTLE-SCARRED
+# Battle-Scarred
 
 *   If the Archfiend targeted by "Battle-Scarred" is flipped face-down, then the effect of "Battle-Scarred" disappears and "Battle-Scarred" remains on the field meaninglessly.
 *   You can select an Archfiend that doesn't require you to pay Life Points as a target for "Battle-Scarred" (such as "Summoned Skull", "Archfiend Soldier", or "Fiend Skull Dragon").

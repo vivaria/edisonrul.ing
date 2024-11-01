@@ -1,4 +1,4 @@
-# BATTLE FADER
+# Battle Fader
 
 > ① When your opponent’s monster declares a direct attack, you can Special Summon this card from your hand and end the Battle Phase. Ⓒ If this card is Special Summoned with this effect, remove it from play when it is removed from the field.
 

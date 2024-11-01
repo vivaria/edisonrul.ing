@@ -1,4 +1,4 @@
-# TRIANGLE ECSTASY SPARK
+# Triangle Ecstasy Spark
 
 *   You cannot activate "Triangle Ecstasy Spark" if "Harpie Lady Sisters" is not on the field. You can activate it if the opponent controls a "Harpie Lady Sisters". In that case the ATK of the opponent’s "Harpie Lady Sisters" will become 2700, but the opponent still cannot activate Trap Cards, and the effects of Trap Cards on the opponent’s side of the field are negated.
 *   If there are multiple copies of "Harpie Lady Sisters" on the field, the ATK of each becomes 2700 until the End Phase.

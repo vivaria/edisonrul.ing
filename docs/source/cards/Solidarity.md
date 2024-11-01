@@ -1,4 +1,4 @@
-# SOLIDARITY
+# Solidarity
 
 > If you have only 1 original (printed) Type of monster in your Graveyard, face-up monsters you control with the same Type gain 800 ATK.
 

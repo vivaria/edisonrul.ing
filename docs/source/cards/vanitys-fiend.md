@@ -1,4 +1,4 @@
-# VANITY'S FIEND
+# Vanity'S Fiend
 
 > Ⓒ This card cannot be Special Summoned. ① While this card is on the field, neither player can Special Summon monsters.
 

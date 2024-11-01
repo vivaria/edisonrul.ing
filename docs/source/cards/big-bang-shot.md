@@ -1,4 +1,4 @@
-# BIG BANG SHOT
+# Big Bang Shot
 
 *   When the monster equipped with "Big Bang Shot" is destroyed, and "Big Bang Shot" is destroyed as a result of this, the equipped monster is not removed from play.
 *   The effect of "Big Bang Shot" that removes the equipped monster from play can be resolved between steps of a chain. For example, if "Change of Heart" targets a monster equipped with "Big Bang Shot", and "Mystical Space Typhoon" is chained to "Change of Heart" to destroy "Big Bang Shot", first resolve "Mystical Space Typhoon" and destroy "Big Bang Shot", then remove the monster that was equipped from play, and THEN resolve "Change of Heart" (and the effect of "Change of Heart" disappears).

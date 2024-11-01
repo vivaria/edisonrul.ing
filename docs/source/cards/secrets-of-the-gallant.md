@@ -1,4 +1,4 @@
-# SECRETS OF THE GALLANT
+# Secrets Of The Gallant
 
 *   This card’s effect starts a Chain when the selected Normal Monster inflicts Battle Damage.
 *   This card’s effect will still activate if your opponent has only 1 or less card in their hand when the selected monster inflicts Battle Damage.

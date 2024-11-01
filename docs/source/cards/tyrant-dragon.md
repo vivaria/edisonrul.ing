@@ -1,4 +1,4 @@
-# TYRANT DRAGON
+# Tyrant Dragon
 
 *   The first sentence of this card’s text means that after you complete an attack with "Tyrant Dragon", if there is still a monster on the opponent’s side of the field, "Tyrant Dragon" can immediately attack again. You cannot attack with another monster in between, and then attack a second time with "Tyrant Dragon." If there are no monsters on your opponent’s side of the field after "Tyrant Dragon"’s first attack, "Tyrant Dragon" does not gain a second attack.
 *   "Tyrant Dragon" cannot attack more than twice, even if there is another monster remaining on your opponent’s side of the field after the second attack.

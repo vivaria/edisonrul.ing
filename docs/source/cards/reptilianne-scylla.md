@@ -1,4 +1,4 @@
-# REPTILIANNE SCYLLA
+# Reptilianne Scylla
 
 *   This is a Trigger Effect. It does not target.
 *   If you Summon a monster like "[Exiled Force](https://yugioh.fandom.com/wiki/Exiled_Force)" that has an effect that activates on the field and then activate its effect, it will still be negated. If you Summon a monster like "[Sangan](https://yugioh.fandom.com/wiki/Sangan)" with an effect that activates in the Graveyard, it will not be negated.

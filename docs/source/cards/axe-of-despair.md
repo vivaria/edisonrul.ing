@@ -1,4 +1,4 @@
-# AXE OF DESPAIR
+# Axe Of Despair
 
 > ① The equipped monster gains 1000 ATK. ② When this card is sent from the field to the Graveyard, you can Tribute 1 monster to return this card to the top of the Deck.
 

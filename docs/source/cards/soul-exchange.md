@@ -1,4 +1,4 @@
-# SOUL EXCHANGE
+# Soul Exchange
 
 > ① Select 1 monster your opponent controls. This turn you can Tribute that monster as if you controlled it. Ⓒ You cannot conduct your Battle Phase the turn you activate this card.
 

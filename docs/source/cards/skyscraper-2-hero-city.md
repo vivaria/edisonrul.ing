@@ -1,4 +1,4 @@
-# SKYSCRAPER 2 - HERO CITY
+# Skyscraper 2 - Hero City
 
 *   You can Special Summon an “Elemental Hero” monster that was destroyed by battle on a previous turn.
 *   Activating this card’s effect starts a Chain.

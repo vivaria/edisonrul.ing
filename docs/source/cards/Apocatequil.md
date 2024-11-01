@@ -1,4 +1,4 @@
-# APOCATEQUIL
+# Apocatequil
 
 > ① While this card is face-up on the field, it is Level 5 if you control a face-up Tuner monster. ② When this card on the field is destroyed and sent to the Graveyard, you can select and Special Summon 1 "Oracle of the Sun" from your Graveyard.
 

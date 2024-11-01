@@ -1,4 +1,4 @@
-# TOTEM DRAGON
+# Totem Dragon
 
 > ① This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-Type monster. ② If this card is in your Graveyard during your Standby Phase and you control no monsters, you can Special Summon this card in Attack Position. You cannot activate this effect if there are any monsters in your Graveyard that are not Dragon-Type. Ⓒ If this card is Special Summoned with this effect, remove it from play when it is removed from the field.
 

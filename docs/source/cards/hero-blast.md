@@ -1,4 +1,4 @@
-# HERO BLAST
+# Hero Blast
 
 > Select 1 "Elemental Hero" Normal Monster from your Graveyard and add it to your hand. Then, destroy 1 face-up monster your opponent controls with ATK equal to or less than the selected monster's ATK.
 

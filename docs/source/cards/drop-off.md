@@ -1,4 +1,4 @@
-# DROP OFF
+# Drop Off
 
 *   The card discarded by the effect of "Drop Off" is considered to be discarded from your hand, not your Deck. If "Penguin Knight" is the card discarded, its effect will not activate. If "Electric Snake", "Regenerating Mummy", or "Fear from the Dark" is the card discarded, its effect will activate.
 *   This card is activated during the opponent’s Draw Phase in response to the opponent drawing a card. It is not chained to the draw.

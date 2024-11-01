@@ -1,4 +1,4 @@
-# SLIP OF FORTUNE
+# Slip Of Fortune
 
 *   If the monster being attacked is removed from the field by an effect Chained to “Slip of Fortune” the attack will still be negated.
 *   If the monster being attacked is in face-down Defense Position, “Slip of Fortune” will remove it from play face-down and return it to play in face-down Defense Position.

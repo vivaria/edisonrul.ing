@@ -1,4 +1,4 @@
-# DIMENSIONAL ALCHEMIST
+# Dimensional Alchemist
 
 > ① Once per turn, you can remove from play the top card of your Deck; this card gains 500 ATK until the End Phase. ② When this card is destroyed and sent from your side of the field to the Graveyard, you can select 1 of your removed from play monsters and return it to your hand.
 

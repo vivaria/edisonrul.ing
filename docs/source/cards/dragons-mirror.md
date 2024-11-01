@@ -1,4 +1,4 @@
-# DRAGON'S MIRROR
+# Dragon'S Mirror
 
 > Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on a Dragon-Type Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.)
 

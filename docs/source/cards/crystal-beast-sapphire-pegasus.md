@@ -1,4 +1,4 @@
-# CRYSTAL BEAST SAPPHIRE PEGASUS
+# Crystal Beast Sapphire Pegasus
 
 *   You cannot activate this card’s effect if you have no open Spell & Trap Card Zones.
 *   You choose whether or not to use the “Crystal Beast” effect at the time the destroyed monster would be sent to the Graveyard.

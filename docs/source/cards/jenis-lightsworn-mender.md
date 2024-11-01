@@ -1,4 +1,4 @@
-# JENIS, LIGHTSWORN MENDER
+# Jenis, Lightsworn Mender
 
 *   "Jenis, Lightsworn Mender"'s effect only activates once during the End Phase, even if cards were sent from your Deck to the Graveyard by the effects of multiple "Lightsworn" monsters.
 *   If "Jenis, Lightsworn Mender" is Summoned after card(s) are sent from your Deck to the Graveyard by the effect of a "Lightsworn" Monster, "Jenis, Lightsworn Mender"'s effect still activates in the End Phase.

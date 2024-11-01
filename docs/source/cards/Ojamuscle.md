@@ -1,4 +1,4 @@
-# OJAMUSCLE
+# Ojamuscle
 
 *   This card’s effect lasts for as long as the selected “Ojama King” remains face-up on the field.
 *   This card targets 1 face-up “Ojama King”. If “Book of Moon” is chained to flip the targeted “Ojama King” face-down all the other “Ojama” monsters are destroyed, but no ATK increase is given.

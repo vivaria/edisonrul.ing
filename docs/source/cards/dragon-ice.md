@@ -1,4 +1,4 @@
-# DRAGON ICE
+# Dragon Ice
 
 > ① When your opponent Special Summons a monster, you can discard 1 card to Special Summon this card from your hand or Graveyard. ② There can only be 1 face-up "Dragon Ice" monster on the field.
 

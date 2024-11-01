@@ -1,4 +1,4 @@
-# BLAST ASMODIAN
+# Blast Asmodian
 
 *   If you activate “Call of the Haunted” targeting “Blast Asmodian”, then another card is chained to “Call of the Haunted”, the effect of “Blast Asmodian” does not activate and inflict damage after the chain resolves.
 *   Only Spell and Trap Card activations will activate the effect of “Blast Asmodian”. Effects that may activate from previously-activated Spell and Trap Cards are not taken into account.

@@ -1,4 +1,4 @@
-# ZETA RETICULANT
+# Zeta Reticulant
 
 *   The effect that Special Summons a Token is a Trigger Effect that activates in the Graveyard.
 *   The effect of “Zeta Reticulant” to Special Summon itself from your hand has no effect type. Like “Cyber Dragon”, it is merely a procedure to Special Summon.

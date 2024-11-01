@@ -1,4 +1,4 @@
-# POT OF AVARICE
+# Pot Of Avarice
 
 > Select 5 Monster Cards in your Graveyard. Return those cards to the Deck, then draw 2 cards.
 

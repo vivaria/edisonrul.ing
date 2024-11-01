@@ -1,4 +1,4 @@
-# SINISTER SERPENT
+# Sinister Serpent
 
 *   The effect of this card is optional; you do not have to return it to your hand.
 *   The effect of this card activates no matter how it is sent to the Graveyard. It can be destroyed, Tributed, discarded from the hand, or sent straight from the Deck to the Graveyard.

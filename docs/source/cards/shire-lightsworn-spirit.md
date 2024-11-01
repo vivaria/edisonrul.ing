@@ -1,4 +1,4 @@
-# SHIRE, LIGHTSWORN SPIRIT
+# Shire, Lightsworn Spirit
 
 > ① This card gains 300 ATK for each "Lightsworn" monster with a different name in your Graveyard. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
 

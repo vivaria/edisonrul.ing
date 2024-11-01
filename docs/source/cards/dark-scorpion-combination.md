@@ -1,4 +1,4 @@
-# DARK SCORPION COMBINATION
+# Dark Scorpion Combination
 
 *   When you use "Dark Scorpion Combination", each Dark Scorpion's card effects are also activated when they attack your opponent directly.
 *   When you attack with "Dark Scorpion Combination", the Battle Damage is 400 points for each Dark Scorpion, even if their ATK's are changed by some Equip Spell Card, Field Spell Card, "Rush Recklessly", etc. (exception: "Rod of the Mind's Eye" will adjust the damage to become 1000 points).

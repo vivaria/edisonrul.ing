@@ -1,4 +1,4 @@
-# CATAPULT TURTLE
+# Catapult Turtle
 
 > ① You can Tribute 1 monster to inflict damage equal to half of its ATK to your opponent.
 

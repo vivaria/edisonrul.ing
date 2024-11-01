@@ -1,4 +1,4 @@
-# DARK PALADIN
+# Dark Paladin
 
 *   "Dark Paladin" cannot be Special Summoned, EXCEPT by Fusion Summon. So you cannot Special Summon "Dark Paladin" using "Monster Reborn", etc., even if he was properly Summoned before. You cannot Special Summon "Dark Paladin" using "Magical Scientist", etc.
 *   You can use "substitute" Fusion Material Monsters such as "Goddess With the Third Eye", etc. to Fusion Summon "Dark Paladin".

@@ -1,4 +1,4 @@
-# BLACKWING - SILVERWIND THE ASCENDENT
+# Blackwing - Silverwind The Ascendent
 
 > ① When this card is Synchro Summoned, you can select and destroy up to 2 face-up monsters on the field with DEF lower than this card's ATK. Ⓒ You cannot conduct your Battle Phase the turn you activate this effect. ② The next time a "Blackwing" monster you control would be destroyed by battle during your opponent's turn, it is not destroyed, this effect only happens once.
 

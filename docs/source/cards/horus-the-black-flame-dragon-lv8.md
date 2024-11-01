@@ -1,4 +1,4 @@
-# HORUS THE BLACK FLAME DRAGON LV8
+# Horus The Black Flame Dragon LV8
 
 *   Note that "Horus the Black Flame Dragon LV8" has the word "except" in its Summoning conditions, which means that even if Special Summoned properly, you cannot revive it with "Monster Reborn" afterwards if it is destroyed.
 *   The "you" in "on your side of the field" is the current controller’s field, so as long as "Horus the Black Flame Dragon LV 8" is face-up, it is always "face-up on your side of the field".

@@ -1,4 +1,4 @@
-# ALTAR FOR TRIBUTE
+# Altar For Tribute
 
 > Select 1 monster on your side of the field and send it to the Graveyard. Increase your Life Points by an amount equal to the original ATK of the monster.
 

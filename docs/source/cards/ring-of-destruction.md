@@ -1,4 +1,4 @@
-# RING OF DESTRUCTION
+# Ring Of Destruction
 
 *   You cannot activate "Ring of Destruction" during the Damage Step.
 *   "Ring of Destruction" inflicts damage based on the current (total) ATK value, NOT the original ATK.

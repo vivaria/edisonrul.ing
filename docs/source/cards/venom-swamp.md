@@ -1,4 +1,4 @@
-# VENOM SWAMP
+# Venom Swamp
 
 *   This card’s effect to place a Venom Counter on each face-up monster starts a Chain.
 *   This card’s effect to destroy a monster whose ATK is reduced to 0 does not start a Chain.

@@ -1,3 +1,3 @@
-# REVERSAL OF FATE
+# Reversal Of Fate
 
 *   The effect of the "Arcana Force" monster remains changed as long as it remains face-up on the field.

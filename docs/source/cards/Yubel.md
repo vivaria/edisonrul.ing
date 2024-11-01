@@ -1,4 +1,4 @@
-# YUBEL
+# Yubel
 
 *   "Yubel"'s damage inflicting effect is a Trigger Effect that activates before damage calculation.
 *   Tributing 1 monster or destroying "Yubel" is a Trigger Effect that activates during your End Phase. You make your choice when the effect resolves.

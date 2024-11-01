@@ -1,4 +1,4 @@
-# ARMED CHANGER
+# Armed Changer
 
 > Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. ① If the equipped monster destroys a monster by battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand.
 

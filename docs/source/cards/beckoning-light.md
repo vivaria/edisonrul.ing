@@ -1,4 +1,4 @@
-# BECKONING LIGHT
+# Beckoning Light
 
 > Discard all the cards in your hand, then select a number of LIGHT monsters in your Graveyard equal to the number of cards you discarded, and add them to your hand.
 

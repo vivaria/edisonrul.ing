@@ -1,4 +1,4 @@
-# BUBBLE SHUFFLE
+# Bubble Shuffle
 
 *   “Bubble Shuffle” is an effect that targets 2 monsters.
 *   If either target of “Bubble Shuffle” is changed to Defense Position or removed from the field before “Bubble Shuffle” resolves, the entire effect of “Bubble Shuffle” disappears.

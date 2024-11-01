@@ -1,4 +1,4 @@
-# SAND MOTH
+# Sand Moth
 
 *   If a face-down “Sand Moth” is attacked by “Mystic Swordsman LV2” or “Sasuke Samurai” its effect will activate. But if it is attacked by “Drillroid” it will not activate since it will be face-up when it is destroyed by the effect of “Drillroid”.
 *   If the opponent controls your face-down “Sand Moth” and it is destroyed by a card effect, it will be Special Summoned to the owner’s side of the field.

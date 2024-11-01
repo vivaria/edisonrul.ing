@@ -1,4 +1,4 @@
-# THEINEN THE GREAT SPHINX
+# Theinen The Great Sphinx
 
 *   When you Special Summon "Theinen the Great Sphinx" you do not have to pay the additional 500 Life Points to increase its ATK, you can choose to leave the ATK at 3500. If you do not pay the extra 500 when it is Summoned, you cannot later decide to pay and increase its ATK, it must be done when it is Special Summoned.
 *   The effect of Summoning "Theinen the Great Sphinx" is a Trigger Effect, so you may do it during your opponent’s turn if "Andro Sphinx" and "Sphinx Teleia" are destroyed simultaneously.

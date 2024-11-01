@@ -1,4 +1,4 @@
-# DRAGON QUEEN OF TRAGIC ENDINGS
+# Dragon Queen Of Tragic Endings
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by controlling 3 or more face-up Continuous Spell Cards. ① When this attacking card inflicts Battle Damage to your opponent, your opponent selects and sends 1 card from their hand to the Graveyard, and you draw 1 card. ② During your Standby Phase, if this card is in your Graveyard and was sent there from the field, you can send 1 face-up Continuous Spell Card you control to the Graveyard to Special Summon this card from the Graveyard.
 

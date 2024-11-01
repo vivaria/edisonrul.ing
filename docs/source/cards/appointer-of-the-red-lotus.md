@@ -1,4 +1,4 @@
-# APPOINTER OF THE RED LOTUS
+# Appointer Of The Red Lotus
 
 > Pay 2000 Life Points and reveal all cards in your hand. Look at your opponent's hand and select 1 card. Remove that card from play until the End Phase of your opponent’s next turn.
 

@@ -1,4 +1,4 @@
-# MALICE DOLL OF DEMISE
+# Malice Doll Of Demise
 
 *   If your opponent takes control of your "Malice Doll of Demise", and sends it to the Graveyard by the effect of a Continuous Spell Card, you can still activate its effect to Special Summon it during your Standby Phase.
 *   If "Malice Doll of Demise" is Tributed to activate the effect of "Mass Driver", then "Malice Doll of Demise’s" effect does not activate because the Tribute is treated as a cost, not an effect.

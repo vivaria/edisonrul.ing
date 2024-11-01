@@ -1,4 +1,4 @@
-# LEVEL RETURNER
+# Level Returner
 
 *   This is a targeted effect.
 *   You decide whether to reduce the target’s Level by 1 or 2 when the effect resolves.

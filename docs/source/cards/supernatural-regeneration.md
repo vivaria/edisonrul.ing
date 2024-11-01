@@ -1,4 +1,4 @@
-# SUPERNATURAL REGENERATION
+# Supernatural Regeneration
 
 *   You count Psychic monsters sent to any Graveyard, including your opponent’s.
 *   “Zombie World” will change all Psychic monsters into Zombies, including in the Graveyard, so any Psychic monsters sent to the Graveyard will be Zombies instead, and will not count for “Supernatural Regeneration” (in fact, you cannot activate “Supernatural Regeneration” in that case).

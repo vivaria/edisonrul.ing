@@ -1,4 +1,4 @@
-# SPEAR CRETIN
+# Spear Cretin
 
 *   If you can Special Summon a monster but your opponent cannot, you will still Special Summon. If your opponent can Special Summon a monster and you cannot, your opponent will still Special Summon.
 *   Special Summoning a monster is optional.

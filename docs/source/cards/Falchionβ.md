@@ -1,4 +1,4 @@
-# FALCHIONβ
+# Falchionβ
 
 *   The effect to Special Summon from the Graveyard targets.
 *   If “Falchionβ” battles a monster with the same ATK and both are destroyed, it can select and Special Summon itself from the Graveyard.

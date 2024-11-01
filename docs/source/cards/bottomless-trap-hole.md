@@ -1,4 +1,4 @@
-# BOTTOMLESS TRAP HOLE
+# Bottomless Trap Hole
 
 > Activate only when your opponent Summons a monster(s) with 1500 or more ATK. Destroy and remove from play the monster(s).
 

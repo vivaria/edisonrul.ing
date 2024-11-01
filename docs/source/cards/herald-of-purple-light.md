@@ -1,4 +1,4 @@
-# HERALD OF PURPLE LIGHT
+# Herald Of Purple Light
 
 > ① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an opponent's Trap Card and destroy it. This effect can be activated during either player's turn.
 

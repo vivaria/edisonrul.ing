@@ -1,4 +1,4 @@
-# BLACK POTAN
+# Black Potan
 
 *   If “Black Potan” is removed from the field while being treated as a Tuner, you do not gain any Life Points.
 *   If a Monster Token being treated as a Tuner is removed from the field, you gain Life Points.

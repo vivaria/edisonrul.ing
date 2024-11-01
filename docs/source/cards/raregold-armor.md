@@ -1,4 +1,4 @@
-# RAREGOLD ARMOR
+# Raregold Armor
 
 *   "Raregold Armor" & "Metalsilver Armor" only apply their effects when the same player controls the Equip Spell Card and the monster it is equipped to; you can equip these cards to a monster controlled by your opponent but the effect is not active.
 *   If you have 2 monsters equipped with "Raregold Armor", then your opponent cannot attack.

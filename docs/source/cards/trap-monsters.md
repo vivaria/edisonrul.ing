@@ -1,4 +1,4 @@
-# TRAP MONSTERS
+# Trap Monsters
 
 (These rules apply to: "Cyber Shadow Gardna", "Embodiment of Apophis", "Machine King - 3000 B.C.", "Metal Reflect Slime", "Stronghold the Moving Fortress", and "Zoma the Spirit".)
 

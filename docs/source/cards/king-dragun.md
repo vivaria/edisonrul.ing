@@ -1,4 +1,4 @@
-# KING DRAGUN
+# King Dragun
 
 *   The first effect of “King Dragun” is a Continuous Effect. The second effect of “King Dragun” is an Ignition Effect.
 *   Your opponent cannot target a Dragon-Type Fusion Monster with “De-Fusion” while “King Dragun” or “Lord of D.” is on the field because “De-Fusion” targets.

@@ -1,4 +1,4 @@
-# SWIFT GAIA THE FIERCE KNIGHT
+# Swift Gaia The Fierce Knight
 
 *   "Swift Gaia the Fierce Knight" and "Gaia the Fierce Knight" are considered 2 separate monsters so you can have 3 of each in your Deck.
 *   You can’t use "Swift Gaia the Fierce Knight" as Fusion Material for "Gaia the Dragon Champion".

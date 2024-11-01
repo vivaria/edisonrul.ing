@@ -1,4 +1,4 @@
-# AMPLIFIER
+# Amplifier
 
 > Equip only to "Jinzo". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.
 

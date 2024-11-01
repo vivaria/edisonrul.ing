@@ -1,4 +1,4 @@
-# MAGIC HOLE GOLEM
+# Magic Hole Golem
 
 *   This effect targets 1 face-up monster you control.
 *   If you use “Shrink” on a monster whose ATK is halved by “Magic Hole Golem” the ATK becomes half of its original ATK. After “Shrink” is no longer applied, the ATK becomes the same as before “Magical Hole Golem” was activated.

@@ -1,4 +1,4 @@
-# FUSHIOH RICHIE
+# Fushioh Richie
 
 *   "Fushioh Richie" cannot negate cards like "Bottomless Trap Hole", or "Kisetai", because they do not target.
 *   When your opponent uses "Double Snare" on "Fushioh Richie", "Double Snare" is negated and destroyed.

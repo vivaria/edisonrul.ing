@@ -1,4 +1,4 @@
-# GREENKAPPA
+# Greenkappa
 
 *   If there is only 1 face-down Spell or Trap Card on the field when the effect of “Greenkappa” is activated, the effect disappears.
 *   You can chain to the effect of “Greenkappa”, even with the targeted Spell or Trap Cards. If only 1 of the 2 cards is chained, “Greenkappa” will still resolve and destroy the other. If “Greenkappa” is destroyed in a chain to its effect (such as with “Torrential Tribute”) its effect still resolves.

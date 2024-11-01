@@ -1,4 +1,4 @@
-# THE SIX SAMURAI - YARIZA
+# The Six Samurai - Yariza
 
 > ① While you control another "Six Samurai" monster with a different name, this card can attack your opponent directly. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 

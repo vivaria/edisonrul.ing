@@ -1,4 +1,4 @@
-# CASTLE GATE
+# Castle Gate
 
 *   If you use "Shield & Sword" to switch the original ATK and DEF of a monster and then Tribute it with "Castle Gate", the damage inflicted will be equal to the monster's unaltered original ATK. For example, if you use "Shield & Sword" to switch the original ATK and DEF of "Mystic Tomato" and then Tribute it with "Castle Gate", you will inflict 1400 damage to your opponent's Life Points.
 *   You can Tribute a monster whose Level is reduced to 5 or less by a card effect.

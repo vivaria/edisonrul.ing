@@ -1,4 +1,4 @@
-# NEO-SPACIAN GLOW MOSS
+# Neo-Spacian Glow Moss
 
 *   This effect activates when the attack is declared. It is a Trigger Effect and can be chained to. The act of drawing and revealing a card is resolved when the Trigger Effect resolves. If a face-down “Neo-Spacian Glow Moss” is attacked, its effect does not activate.
 *   The Spell Card effect (“…You can change this attack to a direct attack instead”) only works when “Neo-Spacian Glow Moss” is attacking. Not when it is attacked.

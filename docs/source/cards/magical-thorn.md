@@ -1,4 +1,4 @@
-# MAGICAL THORN
+# Magical Thorn
 
 *   If you have two copies of "Magical Thorn" active on the field, your opponent will take 1000 points of damage whenever they discard a card. If you have three copies, they will take 1500 points of damage.
 *   The effect of "Magical Thorn" is applied when the opponent discards during the End Phase to make their hand size 6, discarding for the cost of cards such as "Tribute to the Doomed", "Cost Down", or "Judgment of Anubis", and discarding for card effects such as "Delinquent Duo", "Confiscation", "Robbin’ Goblin", "Morphing Jar" and "Mefist the Infernal General".

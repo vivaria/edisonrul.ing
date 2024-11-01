@@ -1,4 +1,4 @@
-# CHAIN DISAPPEARANCE
+# Chain Disappearance
 
 > You can only activate this card when a monster(s) with an ATK of 1000 or less is Normal Summoned, Flip Summoned or Special Summoned. Remove from play those Summoned monster(s), and your opponent removes from play all cards of the same name in their hand and Deck. Their Deck is then shuffled.
 

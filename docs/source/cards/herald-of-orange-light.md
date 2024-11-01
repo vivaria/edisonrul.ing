@@ -1,4 +1,4 @@
-# HERALD OF ORANGE LIGHT
+# Herald Of Orange Light
 
 > ① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it. You can activate this effect during either player's turn.
 

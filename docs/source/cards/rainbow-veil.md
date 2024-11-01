@@ -1,4 +1,4 @@
-# RAINBOW VEIL
+# Rainbow Veil
 
 *   "Rainbow Veil"'s effect starts being applied when the attack is declared. It does not start a Chain. It does not target the opponent's monster.
 *   Effects that activate in the Graveyard or removed zone will not be negated by "Rainbow Veil".

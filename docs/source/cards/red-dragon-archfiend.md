@@ -1,4 +1,4 @@
-# RED DRAGON ARCHFIEND
+# Red Dragon Archfiend
 
 > ① If this card attacks a Defense Position monster your opponent controls, destroy all Defense Position monsters your opponent controls after damage calculation. ② During your End Phase, destroy all other monsters you control that did not declare an attack this turn.
 

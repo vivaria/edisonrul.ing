@@ -1,4 +1,4 @@
-# ANTI-SPELL
+# Anti-Spell
 
 > Remove 2 Spell Counters on your side of the field to negate the activation of a Spell Card and destroy it.
 

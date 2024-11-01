@@ -1,4 +1,4 @@
-# FALLING DOWN
+# Falling Down
 
 *   If there are no Archfiends on your side of the field, "Falling Down" is destroyed immediately, even in the middle of a chain.
 *   The Archfiend you need for "Falling Down" doesn't have to be a monster. Cards like "Axe of Despair", or an Archfiend monster equipped to your "Relinquished", will prevent "Falling Down" from being destroyed.

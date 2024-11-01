@@ -1,4 +1,4 @@
-# BLACK ROSE DRAGON
+# Black Rose Dragon
 
 > ① When this card is Synchro Summoned, you can destroy all cards on the field. ② Once per turn, you can remove from play 1 Plant-Type monster from your Graveyard to change 1 Defense Position monster your opponent controls to face-up Attack Position, and reduce its ATK to 0 until the End Phase.
 

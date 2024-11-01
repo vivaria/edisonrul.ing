@@ -1,4 +1,4 @@
-# CHAOS EMPEROR DRAGON - ENVOY OF THE END
+# Chaos Emperor Dragon - Envoy Of The End
 
 *   "Chaos Emperor Dragon - Envoy of the End" sends itself to the Graveyard as part of its effect, and counts itself for determining how much damage it inflicts.
 *   The damage that "Chaos Emperor Dragon - Envoy of the End" inflicts is equal to the number of cards BOTH players send to the Graveyard times 300 points.

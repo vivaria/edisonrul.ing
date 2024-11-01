@@ -1,4 +1,4 @@
-# MOON DRAGON QUILLA
+# Moon Dragon Quilla
 
 *   The effect to gain Life Points does not target.
 *   The effect to Special Summon “Sun Dragon Inti” does target.

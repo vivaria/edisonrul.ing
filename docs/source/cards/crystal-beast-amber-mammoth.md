@@ -1,4 +1,4 @@
-# CRYSTAL BEAST AMBER MAMMOTH
+# Crystal Beast Amber Mammoth
 
 *   You cannot activate this effect when “Crystal Beast Amber Mammoth” itself is selected as the attack target.
 *   You can activate this effect when a replay is triggered and a “Crystal Beast” monster you control is selected as an attack target.

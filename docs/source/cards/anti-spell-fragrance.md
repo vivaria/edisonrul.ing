@@ -1,4 +1,4 @@
-# ANTI-SPELL FRAGRANCE
+# Anti-Spell Fragrance
 
 > Both players must Set Spell Cards before activating them, and cannot activate them until their next turn.
 

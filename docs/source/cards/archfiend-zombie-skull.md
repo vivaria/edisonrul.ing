@@ -1,4 +1,4 @@
-# ARCHFIEND ZOMBIE SKULL
+# Archfiend Zombie Skull
 
 > ① Face-up Zombie-Type monsters you control cannot be destroyed by card effects.
 

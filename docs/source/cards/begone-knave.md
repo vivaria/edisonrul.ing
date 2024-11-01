@@ -1,4 +1,4 @@
-# BEGONE, KNAVE!
+# Begone, Knave!
 
 *   If "Gemini Elf" attacks a Defense Position "Battle Footballer", and "Gemini Elf"'s controller takes 200 damage, then "Begone, Knave!"'s effect will send "Battle Footballer" back to its owner's hand.
 *   The effect of "Begone, Knave!" can be on a chain.

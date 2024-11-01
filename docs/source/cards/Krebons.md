@@ -1,4 +1,4 @@
-# KREBONS
+# Krebons
 
 > ① When this card is selected as an attack target, you can pay 800 Life Points to negate the attack.
 

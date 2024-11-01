@@ -1,4 +1,4 @@
-# POT OF BENEVOLENCE
+# Pot Of Benevolence
 
 *   This card targets 2 cards from the Graveyard(s).
 *   If the effect of “Pot of Benevolence” is activated by “Destiny Hero – Diamond Dude” you can still activate a “Pot of Benevolence” that same turn.

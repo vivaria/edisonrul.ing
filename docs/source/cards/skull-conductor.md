@@ -1,4 +1,4 @@
-# SKULL CONDUCTOR
+# Skull Conductor
 
 *   You destroy this card during the End Step of the Battle Phase.
 *   Sending this card from your hand to the Graveyard is a cost to activate its effect.

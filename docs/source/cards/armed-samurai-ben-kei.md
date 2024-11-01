@@ -1,4 +1,4 @@
-# ARMED SAMURAI - BEN KEI
+# Armed Samurai - Ben Kei
 
 > ① In addition to a normal attack, this card can attack during the same Battle Phase as many times as the number of Equip Cards equipped to it.
 

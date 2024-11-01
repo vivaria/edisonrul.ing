@@ -1,4 +1,4 @@
-# DOUBLE-EDGED SWORD TECHNIQUE
+# Double-Edged Sword Technique
 
 *   If one of the two selected “Six Samurai” monsters is removed from the Graveyard before “Double-Edged Sword Technique” is resolved, the remaining selected “Six Samurai” monster will still be Special Summoned. When it is destroyed in the End Phase you will only receive damage according to its ATK.
 *   The effect that destroys the Special Summoned “Six Samurai” monsters and inflicts damage based on their ATK does not begin a Chain.

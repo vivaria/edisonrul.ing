@@ -1,4 +1,4 @@
-# ARSENAL BUG
+# Arsenal Bug
 
 > ① If there are no face-up Insect-Type monsters (except this monster) on your side of the field, both the ATK and DEF of this monster become 1000 points.
 

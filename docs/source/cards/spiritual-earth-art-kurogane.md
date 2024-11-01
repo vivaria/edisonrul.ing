@@ -1,4 +1,4 @@
-# SPIRITUAL EARTH ART - KUROGANE
+# Spiritual Earth Art - Kurogane
 
 *   Tributing a monster is a cost for “Spiritual Earth Art – Kurogane”.
 *   You can Tribute a face-down EARTH monster for the cost of “Spiritual Earth Art – Kurogane”.

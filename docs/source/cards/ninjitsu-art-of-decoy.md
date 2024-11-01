@@ -1,4 +1,4 @@
-# NINJITSU ART OF DECOY
+# Ninjitsu Art Of Decoy
 
 *   If the Ninja is destroyed or otherwise removed from the field by a card effect, "Ninjitsu Art of Decoy" remains on the field meaninglessly.
 *   If the Ninja is removed from the field temporarily, or flipped face-down, "Ninjitsu Art of Decoy"’s effect is no longer applied.

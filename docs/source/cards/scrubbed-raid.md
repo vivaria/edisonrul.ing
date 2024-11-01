@@ -1,4 +1,4 @@
-# SCRUBBED RAID
+# Scrubbed Raid
 
 *   Sending one other card you control to the Graveyard is a cost to activate the effect of "Scrubbed Raid" which ends the Battle Phase.
 *   You can neither activate "Scrubbed Raid" nor activate the effect of "Scrubbed Raid" during the Damage Step.

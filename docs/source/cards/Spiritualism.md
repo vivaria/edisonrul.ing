@@ -1,4 +1,4 @@
-# SPIRITUALISM
+# Spiritualism
 
 > Return 1 Spell or Trap Card on your opponent's side of the field to the owner's hand. This card's activation and effect cannot be negated by any other card.
 

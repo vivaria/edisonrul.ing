@@ -1,4 +1,4 @@
-# BLACKWING - GALE THE WHIRLWIND
+# Blackwing - Gale The Whirlwind
 
 > Ⓢ If you control a “Blackwing” monster other than “Blackwing – Gale the Whirlwind”, you can Special Summon this card from your hand.
 ① Once per turn, you can halve the ATK and DEF of 1 face-up monster your opponent controls.

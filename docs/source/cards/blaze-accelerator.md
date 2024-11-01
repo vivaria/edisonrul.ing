@@ -1,4 +1,4 @@
-# BLAZE ACCELERATOR
+# Blaze Accelerator
 
 > ① You can send 1 Pyro-Type monster with 500 or less ATK from your hand to the Graveyard to destroy 1 monster your opponent controls, Ⓒ but you cannot declare an attack during this turn if you do.
 

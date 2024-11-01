@@ -1,4 +1,4 @@
-# SPIDER EGG
+# Spider Egg
 
 *   This card does not target.
 *   If you do not have enough open Monster Card Zones to Special Summon the “Spider Tokens” in, you cannot activate “Spider Egg.”

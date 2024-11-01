@@ -1,4 +1,4 @@
-# IRIS, THE EARTH MOTHER
+# Iris, The Earth Mother
 
 *   The effect of “Iris, the Earth Mother” is a Trigger Effect. So it will start a new chain itself.
 *   “Iris, the Earth Mother” must have been on the field before the chain began and must have been on the field throughout the entire chain in order for its effect to activate.

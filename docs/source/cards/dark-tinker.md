@@ -1,4 +1,4 @@
-# DARK TINKER
+# Dark Tinker
 
 > ① When this card you control is sent to the Graveyard, look at the top card of your Deck. Return that card to either the top or the bottom of the Deck.
 

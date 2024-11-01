@@ -1,4 +1,4 @@
-# ATTACK OF THE CORNERED RAT
+# Attack Of The Cornered Rat
 
 > ① If a Level 3 or lower Normal Monster you control battles, during the Damage Step you can pay Life Points in multiples of 100. The ATK of the opponent's monster is reduced by the amount of Life Points you paid, until the End Phase. (You cannot pay more Life Points than the ATK of the opponent's monster.)
 

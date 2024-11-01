@@ -1,4 +1,4 @@
-# ASSAULT MODE ACTIVATE
+# Assault Mode Activate
 
 > Tribute 1 Synchro Monster. Special Summon 1 "/Assault Mode" monster whose name includes the Tributed monster's name from your Deck in Attack Position.
 

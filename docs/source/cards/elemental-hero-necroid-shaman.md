@@ -1,4 +1,4 @@
-# ELEMENTAL HERO NECROID SHAMAN
+# Elemental Hero Necroid Shaman
 
 *   The controller of “Elemental Hero Necroid Shaman” chooses which monster to Special Summon and what battle position to Special Summon it in. You can choose to Special Summon the monster that you destroyed.
 *   You cannot choose to Special Summon a monster if it cannot be Special Summoned, such as a Spirit monster, or “Dark Ruler Ha Des”, or a Fusion Monster that was Summoned by the effect of “Metamorphosis”.

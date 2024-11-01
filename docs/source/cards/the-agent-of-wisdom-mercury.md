@@ -1,4 +1,4 @@
-# THE AGENT OF WISDOM - MERCURY
+# The Agent Of Wisdom - Mercury
 
 *   When it is the END of your opponent's End Phase and you have no hand, then "The Agent of Wisdom - Mercury"'s effect activates. So if you activate "Dust Tornado" during your opponent's End Phase, and Set your last card in your hand, and have no cards at the end of the End Phase, "The Agent of Wisdom - Mercury"'s effect activates.
 *   If your hand was increased during the End Phase by activating "Jar of Greed", and you have a card in your hand at the end of the End Phase, then "The Agent of Wisdom - Mercury"'s effect does not activate.

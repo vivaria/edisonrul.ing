@@ -1,4 +1,4 @@
-# METAL REFLECT SLIME
+# Metal Reflect Slime
 
 *   You can select "Metal Reflect Slime" with "Last Turn" and it will not be sent to the Graveyard.
 *   A "Metal Reflect Slime" equipped with "Heart of Clear Water" will be destroyed by "Mystical Space Typhoon".

@@ -1,4 +1,4 @@
-# GRAVEKEEPER'S WATCHER
+# Gravekeeper'S Watcher
 
 *   You can activate the effect of "Gravekeeper’s Watcher" to negate "Graceful Charity".
 *   You cannot activate "Gravekeeper’s Watcher" during the Damage Step (such as against a "Morphing Jar" that is flipped by an attack).

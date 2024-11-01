@@ -1,4 +1,4 @@
-# ELEMENTAL HERO VOLTIC
+# Elemental Hero Voltic
 
 > ① When this card inflicts Battle Damage to your opponent, you can Special Summon 1 of your removed from play "Elemental Hero" monsters.
 

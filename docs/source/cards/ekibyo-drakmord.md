@@ -1,4 +1,4 @@
-# EKIBYO DRAKMORD
+# Ekibyo Drakmord
 
 *   If "Imperial Order" was active during the end of the second turn, a monster equipped with "Ekibyo Drakmord" will not be destroyed and "Ekibyo Drakmord" will remain equipped to it.
 *   If control of a monster equipped with "Ekibyo Drakmord" changes, the turn count resets. If "Ekibyo Drakmord" is moved by "Collected Power" or "Tailor of the Fickle" to another monster, the turn count resets.

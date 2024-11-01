@@ -1,4 +1,4 @@
-# TONGUE TWISTER
+# Tongue Twister
 
 > ① If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.
 

@@ -1,4 +1,4 @@
-# NEOS FORCE
+# Neos Force
 
 *   This card’s damage inflicting effect starts a Chain.
 *   The damage inflicted by this effect is equal to the destroyed monster’s ATK in the Graveyard.

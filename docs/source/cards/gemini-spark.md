@@ -1,4 +1,4 @@
-# GEMINI SPARK
+# Gemini Spark
 
 > Tribute 1 face-up Level 4 Gemini Monster you control and select 1 card on the field. Destroy the selected card and draw 1 card.
 

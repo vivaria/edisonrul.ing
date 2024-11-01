@@ -1,4 +1,4 @@
-# THE THING IN THE CRATER
+# The Thing In The Crater
 
 *   You can Special Summon a high-level Normal Monster with "The Thing in the Crater"'s effect, but not a "Special Summon-only" monster.
 *   The "Thing in the Crater"'s effect activates even if destroyed face-down and sent to the Graveyard.

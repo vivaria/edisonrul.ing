@@ -1,4 +1,4 @@
-# ALIEN BRAIN
+# Alien Brain
 
 > Activate only when a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard. Take control of the attacking monster, and treat it as a Reptile-Type monster.
 

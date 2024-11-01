@@ -1,4 +1,4 @@
-# ALLURE QUEEN LV7
+# Allure Queen LV7
 
 > Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV5", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead.
 

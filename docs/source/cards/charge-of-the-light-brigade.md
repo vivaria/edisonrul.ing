@@ -1,4 +1,4 @@
-# CHARGE OF THE LIGHT BRIGADE
+# Charge Of The Light Brigade
 
 > Send the top 3 cards of your Deck to the Graveyard. Add 1 Level 4 or lower "Lightsworn" monster from your Deck to your hand.
 

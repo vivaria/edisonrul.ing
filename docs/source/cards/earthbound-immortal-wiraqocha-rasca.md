@@ -1,4 +1,4 @@
-# EARTHBOUND IMMORTAL WIRAQOCHA RASCA
+# Earthbound Immortal Wiraqocha Rasca
 
 *   This effect targets 1-3 cards you control.
     *   If you control your opponent’s card, you can target it with this effect. The card will return to your opponent’s Deck and will count towards the number of cards your opponent must discard at random and the ATK gain for this card.

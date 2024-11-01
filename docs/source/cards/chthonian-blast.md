@@ -1,4 +1,4 @@
-# CHTHONIAN BLAST
+# Chthonian Blast
 
 *   This effect does not target.
 *   This card can be activated during the Damage Step if a monster is destroyed as a result of battle. However, it cannot be activated if a monster is destroyed by an effect during the Damage Step.

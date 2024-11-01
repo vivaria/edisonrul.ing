@@ -1,4 +1,4 @@
-# SANGAN
+# Sangan
 
 > ① When this card is sent from the field to the Graveyard, add 1 monster with 1500 or less ATK from your Deck to your hand.
 

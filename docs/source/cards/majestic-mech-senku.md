@@ -1,4 +1,4 @@
-# MAJESTIC MECH - SENKU
+# Majestic Mech - Senku
 
 *   If a “Majestic Mech” is face-down during the End Phase, its effect cannot activate so it will not be sent to the Graveyard. But it remembers when it was Summoned, even if flipped face-down. So if you Summon a “Majestic Mech - Senku”, flip it face-down, then flip it face-up again during the same turn, it will be sent to the Graveyard by its effect.
 *   The effect of “Majestic Mech – Senku” that sends itself to the Graveyard only activates during the End Phase of the turn it was Summoned. If it manages to remain on the field longer than that, it will not send itself to the Graveyard during any following End Phase.

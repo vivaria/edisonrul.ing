@@ -1,4 +1,4 @@
-# MERMAID ARCHER
+# Mermaid Archer
 
 *   “Mermaid Archer’s” effect to equip itself targets the Level 3 or lower monster you control.
 *   If “Imperial Order” or “Spell Canceller” are active, “Mermaid Archer” still gains the 800 ATK from a monster equipped to it.

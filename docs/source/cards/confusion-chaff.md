@@ -1,4 +1,4 @@
-# CONFUSION CHAFF
+# Confusion Chaff
 
 *   This card does not target.
 *   When "Confusion Chaff" resolves, the battle caused by "Confusion Chaff" proceeds directly to the Damage Step.

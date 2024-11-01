@@ -1,4 +1,4 @@
-# NUTRIENT Z
+# Nutrient Z
 
 *   This card can only be activated during your opponent’s Damage Step during the "Calculate and Apply Damage" portion or at any point in the Damage Step prior to that.
 *   You must take the 2000 points or more of Battle Damage from a single attack. If you take 1000 points of damage from one attack, and then 1200 points of damage from a second attack, the effect of this card will not activate.

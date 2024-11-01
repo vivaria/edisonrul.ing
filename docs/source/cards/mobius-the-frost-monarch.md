@@ -1,4 +1,4 @@
-# MOBIUS THE FROST MONARCH
+# Mobius The Frost Monarch
 
 > ① When this card is Tribute Summoned, you can destroy up to 2 Spell or Trap Cards on the field.
 

@@ -1,4 +1,4 @@
-# ANDRO SPHINX
+# Andro Sphinx
 
 > ① You can pay 500 Life Points to Special Summon this card when "Pyramid of Light" is on the field. ② This card cannot attack during the turn that it is Normal Summoned or Special Summoned. Ⓒ This card cannot be Special Summoned from the Graveyard. ③ If this card destroys a Defense Position monster as a result of battle, inflict damage to your opponent's Life Points equal to half of the ATK of the destroyed monster.
 

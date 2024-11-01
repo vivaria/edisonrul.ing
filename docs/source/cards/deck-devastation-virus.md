@@ -1,4 +1,4 @@
-# DECK DEVASTATION VIRUS
+# Deck Devastation Virus
 
 > Tribute 1 DARK monster with an ATK of 2000 points or more on your side of the field. ① Check all monsters on your opponent's side of the field, your opponent's hand, and all cards he/she draws (until the end of your opponent's 3rd turn after this card's activation), and destroy all monsters with an ATK of 1500 or less.
 

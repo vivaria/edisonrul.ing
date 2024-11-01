@@ -1,4 +1,4 @@
-# PSYCHIC COMMANDER
+# Psychic Commander
 
 > ① When a Psychic-Type monster you control battles, during the Damage Step you can pay Life Points in multiples of 100 (max. 500) to have the monster it's battling lose that much ATK and DEF, until the End Phase.
 

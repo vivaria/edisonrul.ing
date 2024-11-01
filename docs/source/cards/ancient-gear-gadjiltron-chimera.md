@@ -1,4 +1,4 @@
-# ANCIENT GEAR GADJILTRON CHIMERA
+# Ancient Gear Gadjiltron Chimera
 
 > ① If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect: ● Green Gadget: This card gains 300 ATK. ● Red Gadget: If this card successfully attacks your opponent directly, inflict 500 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 700 damage to your opponent.
 

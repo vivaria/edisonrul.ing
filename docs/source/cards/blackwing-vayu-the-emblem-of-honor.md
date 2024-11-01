@@ -1,4 +1,4 @@
-# BLACKWING - VAYU THE EMBLEM OF HONOR
+# Blackwing - Vayu The Emblem Of Honor
 
 > ① If this card is face-up on the field, you cannot use it for a Synchro Summon. ② If this card is in your Graveyard, you can remove from play this card plus 1 non-Tuner “Blackwing” monster in your Graveyard, and Special Summon 1 “Blackwing” Synchro Monster from your Extra Deck whose Level equals the total Levels of the removed monsters. The effect(s) of that Synchro Monster is negated.
 

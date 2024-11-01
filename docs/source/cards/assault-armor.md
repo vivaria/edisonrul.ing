@@ -1,4 +1,4 @@
-# ASSAULT ARMOR
+# Assault Armor
 
 > Ⓒ Equip only to a Warrior-Type monster that is the only monster you control. ① It gains 300 ATK. ② During your Main Phase, you can send this equipped card to the Graveyard. If you do, the equipped monster can attack twice during the Battle Phase this turn.
 

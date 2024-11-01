@@ -1,4 +1,4 @@
-# LUCKY CLOUD
+# Lucky Cloud
 
 *   If you Summon 2 or more “Cloudian” monsters with the same name during your turn and activate “Lucky Cloud” later in the same turn, you will still draw 2 cards during the End Phase.
 *   The effect of drawing 2 cards during the End Phase of a turn you Summon 2 or more “Cloudian” monsters with the same name does not begin a Chain.

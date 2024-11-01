@@ -1,4 +1,4 @@
-# FATAL ABACUS
+# Fatal Abacus
 
 *   For the effect of "Fatal Abacus" to trigger, a Monster Card that is being treated as a monster must be sent from the field to the Graveyard. This means that a Monster Card equipped to "Relinquished" or "Sword Hunter" that is sent to the Graveyard will not trigger this effect. Also, a Spell or Trap Card that is destroyed while being treated as a monster by the effect of "Magical Hats" will not trigger this effect.
 *   Monster Tokens do not trigger this card’s effect because they are not sent to the Graveyard.

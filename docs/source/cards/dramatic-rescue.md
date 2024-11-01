@@ -1,4 +1,4 @@
-# DRAMATIC RESCUE
+# Dramatic Rescue
 
 *   You can activate "Dramatic Rescue" when an Amazoness on your side of the field is targeted, such as with any Equip Spell Card, "Tribute to the Doomed", "Trap Hole", "Man-Eater Bug", "Relinquished", "Dark Cat with White Tail", "Amazoness Spellcaster", "Penguin Soldier" (even if it targets 2 monsters), "Change of Heart", "Ring of Destruction", "XYZ Dragon Cannon", etc. But not when cards like "Raigeki", "Dark Hole", "Mirror Force", "Fissure", "Creature Swap", "Guardian Sphinx", "Bottomless Trap Hole", "Adhesive Trap Hole", etc. are used.
 *   You cannot activate "Dramatic Rescue" when your face-down Amazoness is targeted (with "Nobleman of Crossout", etc.).

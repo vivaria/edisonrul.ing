@@ -1,4 +1,4 @@
-# ARMED SEA HUNTER
+# Armed Sea Hunter
 
 > ① If you control another face-up WATER monster, negate the effects of the monster that battled with this card, after damage calculation. ② If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead.
 

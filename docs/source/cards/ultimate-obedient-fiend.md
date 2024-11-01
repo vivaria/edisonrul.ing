@@ -1,4 +1,4 @@
-# ULTIMATE OBEDIENT FIEND
+# Ultimate Obedient Fiend
 
 If you control "Ultimate Obedient Fiend" and have no hand and no other monsters, but you have Spell or Trap Cards on the field, "Ultimate Obedient Fiend" cannot attack.
   

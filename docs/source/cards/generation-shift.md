@@ -1,4 +1,4 @@
-# GENERATION SHIFT
+# Generation Shift
 
 *   Destroying your monster for “Generation Shift” is not a cost. It’s part of the effect.
 *   You can target a Limited monster with “Generation Shift”, but after destroying the monster you don’t search or shuffle your Deck.

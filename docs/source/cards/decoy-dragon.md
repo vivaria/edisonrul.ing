@@ -1,4 +1,4 @@
-# DECOY DRAGON
+# Decoy Dragon
 
 *   "Decoy Dragon"'s effect is activated during the Battle Step when it is selected as the target for your opponent's attacking monster.
 *   "Decoy Dragon"'s effect does not cause a replay.

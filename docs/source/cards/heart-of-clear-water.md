@@ -1,4 +1,4 @@
-# HEART OF CLEAR WATER
+# Heart Of Clear Water
 
 *   You may equip this card to a monster with ATK 1300 or greater, but it will be immediately destroyed.
 *   If a monster equipped with this card has its ATK increased over 1299, by the effect of "Rush Recklessly", etc., this card is destroyed.

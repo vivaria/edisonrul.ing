@@ -1,4 +1,4 @@
-# GUARDIAN TRYCE
+# Guardian Tryce
 
 *   If you Special Summon "Guardian Tryce", you don't get to activate his effect when he's destroyed, even if you Tribute Summoned him previously and are using "Monster Reborn" on him later.
 *   You must Special Summon the exact same card that was Tributed for "Guardian Tryce" when using his effect; you cannot Special Summon a card of the same name.

@@ -1,4 +1,4 @@
-# GOTTOMS' EMERGENCY CALL
+# Gottoms' Emergency Call
 
 > Activate only if there is a face-up "X-Saber" monster(s) on the field. Select 2 "X-Saber" monsters in either player's Graveyard(s). Special Summon those monsters to your side of the field.
 

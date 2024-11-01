@@ -1,4 +1,4 @@
-# ROYAL TRIBUTE
+# Royal Tribute
 
 > This card can only be activated when "Necrovalley" is on your side of the field. Both players discard all Monster Cards in their hands to the Graveyard.
 

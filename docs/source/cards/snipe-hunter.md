@@ -1,4 +1,4 @@
-# SNIPE HUNTER
+# Snipe Hunter
 
 > ① You can discard 1 card to select 1 card on the field and roll a six-sided die. If the result is not 1 or 6, destroy the selected card.
 

@@ -1,4 +1,4 @@
-# SKY SCOURGE NORLERAS
+# Sky Scourge Norleras
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by removing from play 1 LIGHT Fairy-Type monster and 3 DARK Fiend-Type monsters in your Graveyard. ① You can pay 1000 Life Points to send all cards on the field and in both players' hands to the Graveyard, then you draw 1 card.
 

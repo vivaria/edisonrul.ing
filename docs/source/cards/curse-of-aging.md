@@ -1,4 +1,4 @@
-# CURSE OF AGING
+# Curse Of Aging
 
 *   You cannot decrease ATK/DEF by 1000 points by discarding 2 cards; you can only discard 1 card.
 *   Discarding a card is a cost.

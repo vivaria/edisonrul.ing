@@ -1,4 +1,4 @@
-# XX-SABER FULHELMKNIGHT
+# XX-Saber Fulhelmknight
 
 > ① Once, while this card is face-up on the field; you can negate the attack of 1 of your opponent’s monsters. ② If this card destroys a Defense Position monster your opponent controls by battle, you can Special Summon 1 Level 4 or lower “X-Saber” monster from your Graveyard.
 

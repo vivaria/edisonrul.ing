@@ -1,4 +1,4 @@
-# HARDENED ARMED DRAGON
+# Hardened Armed Dragon
 
 > (U1) You can send 1 Level 8 or higher monster from your hand to the Graveyard and Special Summon this card. (U2) If you Tribute this card for the Tribute Summon of a Level 7 or higher monster, that monster cannot be destroyed by card effects.
 

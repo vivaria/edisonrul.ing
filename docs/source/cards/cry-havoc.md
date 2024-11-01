@@ -1,4 +1,4 @@
-# CRY HAVOC!
+# Cry Havoc!
 
 *   You can activate (flip face-up) "Cry Havoc!" during any Game Phase, but you can only activate its effect during your Main Phase.
 *   Removing 1 monster in your Graveyard from play is a cost to activate the effect of "Cry Havoc!".

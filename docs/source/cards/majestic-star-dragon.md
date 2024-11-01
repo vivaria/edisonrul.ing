@@ -1,4 +1,4 @@
-# MAJESTIC STAR DRAGON
+# Majestic Star Dragon
 
 *   If you negate the effects of a monster with “Majestic Star Dragon” you can only activate 1 of the monster’s effects 1 time.
 *   The effect to return “Majestic Star Dragon” to the Extra Deck is mandatory. It activates even if an effect that prohibits Special Summons is applied. In that case, you return “Majestic Star Dragon” to the Extra Deck but will not Special Summon “Stardust Dragon.”

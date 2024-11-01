@@ -1,4 +1,4 @@
-# NECRO GARDNA
+# Necro Gardna
 
 > ① Remove from play this card from your Graveyard to negate 1 attack this turn from a monster your opponent controls.
 

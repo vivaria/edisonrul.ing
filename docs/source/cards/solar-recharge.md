@@ -1,4 +1,4 @@
-# SOLAR RECHARGE
+# Solar Recharge
 
 > Discard 1 "Lightsworn" monster. ① Draw 2 cards then send the top 2 cards of your Deck to the Graveyard.
 

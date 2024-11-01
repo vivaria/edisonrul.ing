@@ -1,4 +1,4 @@
-# GUARDIANS
+# Guardians
 
 "Guardian Baou", "Guardian Ceal", "Guardian Elma", "Guardian Grarl", "Guardian Kay'est", and "Guardian Tryce" all share some basic rules. These rules apply to all six of these monsters. Using "Guardian Elma" as an example:
 

@@ -1,4 +1,4 @@
-# DARK LUCIUS LV6
+# Dark Lucius LV6
 
 *   If “Dark Lucius LV6” destroys a monster with an Ignition Effect, like “Exiled Force”, or a monster with a Trigger Effect that wouldn’t activate, like “Mysterious Puppeteer”, then “Dark Lucius LV6” did not negate their effects. So you cannot Special Summon “Dark Lucius LV8”.
 *   If “Dark Lucius LV6” destroys “Sangan” while “Macro Cosmos” or “Grave Protector” is active, the effect of “Sangan” cannot activate, so it is not negated. So you cannot Special Summon “Dark Lucius LV8”.

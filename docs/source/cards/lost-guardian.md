@@ -1,4 +1,4 @@
-# LOST GUARDIAN
+# Lost Guardian
 
 *   Whenever the number of your monsters removed from play changes, re-calculate the DEF of “Lost Guardian”. (Just like “Shadow Ghoul”, etc.)
     *   NOTE: When a monster is removed from play, it goes to a “removed zone” (for lack of a better term) of the original owner. If the opponent controlled it, it will return to the opponent’s side of the field when it returns to player, however it is considered to be in the original owner’s “removed zone” while out of play. This is important for effects such as “Lost Guardian”.

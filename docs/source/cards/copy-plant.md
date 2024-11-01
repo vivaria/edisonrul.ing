@@ -1,4 +1,4 @@
-# COPY PLANT
+# Copy Plant
 
 *   "Copy Plant"'s effect targets 1 face-up Plant-Type monster on the field.
 *   "Copy Plant"'s effect copies the current Level of the targeted monster when "Copy Plant"'s effect resolves. If the targeted monster's Level changes after "Copy Plant"'s effect has resolved, "Copy Plant" keeps the level it copied when its effect resolved.

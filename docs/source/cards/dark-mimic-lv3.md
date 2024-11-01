@@ -1,4 +1,4 @@
-# DARK MIMIC LV3
+# Dark Mimic LV3
 
 *   If you take control of your opponent’s "Dark Mimic LV1" with "Snatch Steal", you can send it to the Graveyard during your Standby Phase to Special Summon your "Dark Mimic LV3".
 *   You can use "Level Up!" to send "Dark Mimic LV3" to the Graveyard in order to Special Summon "Dark Mimic LV1" because it is mentioned in "Dark Mimic LV3"’s card text.

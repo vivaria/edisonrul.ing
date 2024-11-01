@@ -1,4 +1,4 @@
-# TURBO SYNCHRON
+# Turbo Synchron
 
 ① When this card declares an attack, you can change the attack target to Defense Position. ② When you take Battle Damage while this card is attacking, you can Special Summon 1 monster from your hand with ATK equal to or less than the Battle Damage you took.
 

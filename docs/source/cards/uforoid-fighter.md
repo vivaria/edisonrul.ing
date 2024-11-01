@@ -1,4 +1,4 @@
-# UFOROID FIGHTER
+# Uforoid Fighter
 
 *   If “UFOroid Fighter” is Special Summoned with “Cyber-Stein” or “Metamorphosis”, its original ATK & DEF will be zero.
 *   If “UFOroid Fighter” is Special Summoned with “Power Bond”, first apply the effect of “UFOroid Fighter” to determine its original ATK & DEF, and then apply the ATK increase of “Power Bond”.

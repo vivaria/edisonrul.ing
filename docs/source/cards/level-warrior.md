@@ -1,4 +1,4 @@
-# LEVEL WARRIOR
+# Level Warrior
 
 > Ⓢ If there are no monsters on the field, you can Normal Summon this card from your hand as a Level 2 monster. Ⓤ If your opponent controls a monster and you control no monsters, you can Special Summon this card from your hand as a Level 4 monster.
 

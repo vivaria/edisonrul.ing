@@ -1,4 +1,4 @@
-# PRIME MATERIAL DRAGON
+# Prime Material Dragon
 
 > ① Any effect that would inflict damage to a player instead increases their Life Points by the same amount. ② When a card's effect to destroy a monster(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.
 

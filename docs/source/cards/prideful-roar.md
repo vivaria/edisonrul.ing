@@ -1,4 +1,4 @@
-# PRIDEFUL ROAR
+# Prideful Roar
 
 *   This card does not target.
 *   You can activate this card when a Defense Position monster you control battles.

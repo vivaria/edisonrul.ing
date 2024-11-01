@@ -1,4 +1,4 @@
-# SMOKE GRENADE OF THE THIEF
+# Smoke Grenade Of The Thief
 
 *   This card must be destroyed directly for its effect to activate, such as with the effects of "Mystical Space Typhoon", "Heavy Storm", or "Gearfried the Iron Knight". Its effect does NOT activate if the monster it is equipped to is destroyed, Tributed, flipped face-down, or removed from the field.
 *   If your opponent chains "Magic Jammer", "Magic Drain", etc., to negate and destroy this card, its effect does not activate.

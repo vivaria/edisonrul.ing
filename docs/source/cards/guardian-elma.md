@@ -1,4 +1,4 @@
-# GUARDIAN ELMA
+# Guardian Elma
 
 *   When you Summon "Guardian Elma", her effect activates and you choose the Equip Spell Card you want. Your opponent can then chain to the effect and, with an effect like "Disappear", can remove the Equip Spell Card so that "Guardian Elma"'s effect disappears.
 *   You cannot equip inappropriate Equip Spell Cards like "Premature Burial" or "Snatch Steal" to "Guardian Elma" with her effect.

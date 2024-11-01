@@ -1,4 +1,4 @@
-# DREAMSPRITE
+# Dreamsprite
 
 *   The effect of "Dreamsprite" is not optional so if you have at least 1 other monster on the field when "Dreamsprite" is attacked, the attack target is changed to your other monster. This is also true if "Dreamsprite" is attacked when face-down.
 *   If your "Dreamsprite" equipped with "Ring of Magnetism" is chosen as an attack target, and you control another monster, the effect of "Dreamsprite" will still change the attack target to your other monster.

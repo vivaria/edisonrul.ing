@@ -1,4 +1,4 @@
-# NOBLEMAN OF EXTERMINATION
+# Nobleman Of Extermination
 
 > ① Destroy 1 face-down Spell or Trap Card and remove it from play. If the card is a Trap Card, both players must check their respective Decks and remove all cards of the same name from play. Then shuffle the Decks.
 

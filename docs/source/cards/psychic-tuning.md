@@ -1,4 +1,4 @@
-# PSYCHIC TUNING
+# Psychic Tuning
 
 *   If “Royal Decree” is activated, the monster targeted by “Psychic Tuning” will no longer be considered a Tuner. However, if “Royal Decree” is destroyed, then the monster will once again be a Tuner.
 *   Calculate damage for “Psychic Tuning” based on the Level of the monster when it was Summoned (before any effects on the field are applied). (If you Special Summon a Level 5 WATER monster and “A Legendary Ocean” is active, you take 2000 damage for “Psychic Tuning”.)

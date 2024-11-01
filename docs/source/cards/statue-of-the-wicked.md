@@ -1,4 +1,4 @@
-# STATUE OF THE WICKED
+# Statue Of The Wicked
 
 *   This card is only activated if sent from the field to the Graveyard. There is no way to activate this card while it is Set on the field.
 *   The effect of "Statue of the Wicked" is activated in the Graveyard, so its effect is activated even if "Jinzo" is on the field, because "Jinzo" only applies to Trap Cards and Trap Card effects on the field. Also, cards like "Seven Tools of the Bandit" cannot be used against "Statue of the Wicked".

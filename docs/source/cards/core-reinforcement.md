@@ -1,4 +1,4 @@
-# CORE REINFORCEMENT
+# Core Reinforcement
 
 *   This card targets 1 “Koa’ki Meiru” monster in your Graveyard. The effect of “Core Reinforcement” that deals damage to its controller starts a Chain.
 *   If your face-up “Core Reinforcement” is destroyed during the End Phase by “Mystical Space Typhoon,” you will not take damage equal to the Summoned monster’s ATK.

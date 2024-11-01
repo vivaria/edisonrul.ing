@@ -1,4 +1,4 @@
-# OBSIDIAN DRAGON
+# Obsidian Dragon
 
 *   "Obsidian Dragon"'s effect is a Continuous Effect.
 *   Equip Spell Cards equipped during a previous turn will be negated and destroyed by "Obsidian Dragon"'s effect.

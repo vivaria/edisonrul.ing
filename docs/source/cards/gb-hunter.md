@@ -1,4 +1,4 @@
-# G.B. HUNTER
+# G.B. Hunter
 
 *   While “G.B. Hunter” is in play, you cannot activate effects that would return monsters to the Extra Deck, such as “De-Fusion,” “De-Synchro,” or “Compulsory Evacuation Device” targeting a Fusion or Synchro Monster.
 *   If “G.B. Hunter” and “Grave Protector” are both active, monsters destroyed by battle cannot return to the Deck, so they go to the Graveyard instead.

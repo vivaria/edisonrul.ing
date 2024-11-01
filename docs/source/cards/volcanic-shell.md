@@ -1,4 +1,4 @@
-# VOLCANIC SHELL
+# Volcanic Shell
 
 > ① Once per turn, while this card is in the Graveyard, you can pay 500 Life Points to add 1 “Volcanic Shell” from your Deck to your hand.
 

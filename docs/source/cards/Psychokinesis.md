@@ -1,4 +1,4 @@
-# PSYCHOKINESIS
+# Psychokinesis
 
 *   "Psychokinesis" targets 1 card on the field.
 *   Destroying the targeted card and inflicting 1000 damage are considered to happen at the same time.

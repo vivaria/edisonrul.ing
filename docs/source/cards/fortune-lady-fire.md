@@ -1,4 +1,4 @@
-# FORTUNE LADY FIRE
+# Fortune Lady Fire
 
 *   This effect targets 1 face-up monster your opponent controls.
 *   This effect inflicts damage equal to the ATK of the monster on the field at the time it was destroyed.

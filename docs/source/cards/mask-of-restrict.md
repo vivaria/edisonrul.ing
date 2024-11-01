@@ -1,4 +1,4 @@
-# MASK OF RESTRICT
+# Mask Of Restrict
 
 > Monsters cannot be Tributed.
 

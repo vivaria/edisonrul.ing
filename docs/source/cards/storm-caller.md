@@ -1,4 +1,4 @@
-# STORM CALLER
+# Storm Caller
 
 *   "Storm Caller"'s second effect only activates when it is destroyed while on the field. If it is destroyed while face-down, its second effect activates.
 *   If a Psychic-Type monster destroys your opponent's "Dark Magician of Chaos" by battle, you cannot return it to the top of your opponent's Deck.

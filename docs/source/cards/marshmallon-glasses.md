@@ -1,4 +1,4 @@
-# MARSHMALLON GLASSES
+# Marshmallon Glasses
 
 *   While you have “Marshmallon” and “Marshmallon Glasses” face-up on your side of the field, if you equip a monster, other than “Marshmallon”, on your side of the field with “Ring of Magnetism”, your opponent’s monsters must attack the monster equipped with “Ring of Magnetism” when they attack.
 *   While you have “Marshmallon” and “Marshmallon Glasses” face-up on your side of the field, if you activate “Staunch Defender” and select a monster other than “Marshmallon”, your opponent’s monsters must attack the monster you selected with “Staunch Defender”.

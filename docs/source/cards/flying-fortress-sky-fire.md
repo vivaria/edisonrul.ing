@@ -1,4 +1,4 @@
-# FLYING FORTRESS SKY FIRE
+# Flying Fortress Sky Fire
 
 *   "Summon Reactor ・SK" can Special Summon “Flying Fortress SKY FIRE” from the Graveyard even if it had not been Special Summoned properly before, and even if it was sent directly to the Graveyard from the hand or Deck.
 *   Sending the 3 cards to the Graveyard to Special Summon this monster is a cost.

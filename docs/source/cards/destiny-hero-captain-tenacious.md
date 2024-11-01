@@ -1,4 +1,4 @@
-# DESTINY HERO - CAPTAIN TENACIOUS
+# Destiny Hero - Captain Tenacious
 
 *   This effect does not activate when your “Destiny Hero” monster is destroyed. This effect activates during your Standby Phase, so “Destiny Hero - Captain Tenacious” must be face-up on your side of the field at that time to Special Summon the “Destiny Hero” monster.
 *   "Destiny Hero - Captain Tenacious" must be on your side of the field when the other "Destiny Hero" monster you control is destroyed by battle, and must remain on your side of the field until your following Standby Phase. If it is removed from the field or Special Summoned after the other "Destiny Hero" monster you control is destroyed by battle, you cannot activate its effect in your following Standby Phase.

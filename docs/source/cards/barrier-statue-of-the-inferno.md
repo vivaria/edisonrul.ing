@@ -1,4 +1,4 @@
-# BARRIER STATUE OF THE INFERNO
+# Barrier Statue Of The Inferno
 
 > ① Neither player can Special Summon monsters, except FIRE monsters.
 

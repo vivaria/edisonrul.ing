@@ -1,4 +1,4 @@
-# GOLDD, WU-LORD OF DARK WORLD
+# Goldd, Wu-Lord Of Dark World
 
 Also see rulings for “Dark World Monsters”.
 

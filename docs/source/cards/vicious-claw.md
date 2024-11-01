@@ -1,4 +1,4 @@
-# VICIOUS CLAW
+# Vicious Claw
 
 *   "Vicious Claw" is returned to its owner's hand at the end of the Damage Step when the equipped monster would have been sent to the Graveyard.
 *   If you cannot return "Vicious Claw" to your hand, its effects disappear.

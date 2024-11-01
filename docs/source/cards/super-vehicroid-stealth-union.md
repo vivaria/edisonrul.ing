@@ -1,4 +1,4 @@
-# SUPER VEHICROID - STEALTH UNION
+# Super Vehicroid - Stealth Union
 
 *   You can equip “Super Vehicroid – Stealth Union” with more than 1 monster with its effect. (Although you can only activate the equipping effect once per turn)
 *   You cannot select a face-down monster to equip to “Super Vehicroid – Stealth Union” because a face-down monster’s Monster Type cannot be determined.

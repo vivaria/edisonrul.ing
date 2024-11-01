@@ -1,4 +1,4 @@
-# DIMENSIONAL INVERSION
+# Dimensional Inversion
 
 *   If multiple monsters you control are being removed from play simultaneously, you can still activate “Dimensional Inversion”. Select 1 of those monsters to be Special Summoned.
 *   If your opponent controls “Macro Cosmos”, “Banisher of the Light”, etc., and an effect is activated by either player that sends a monster to the Graveyard, you can activate “Dimensional Inversion”. This is because your monster is being removed from play (instead of being sent to the Graveyard) by the effect of your opponent’s card.

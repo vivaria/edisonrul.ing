@@ -1,4 +1,4 @@
-# TREEBORN FROG
+# Treeborn Frog
 
 > ① If this card is in your Graveyard during your Standby Phase and you control no Spell or Trap Cards, you can Special Summon it. This effect cannot be activated if you control a face-up “Treeborn Frog”.
 

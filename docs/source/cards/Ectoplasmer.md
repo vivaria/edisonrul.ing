@@ -1,4 +1,4 @@
-# ECTOPLASMER
+# Ectoplasmer
 
 *   "Ectoplasmer" causes the turn player to Tribute during his/her End Phase, but the opponent does not Tribute. So while "Ectoplasmer" is out, I Tribute in my End Phase, and you Tribute in your End Phase. But I don't Tribute in yours and you don't Tribute in mine.
 *   So 1 Tribute is performed during the End Phase of each player's turn. The Tribute is performed by the turn player. (Both players have to do this during their respective End Phases, not just the controller of "Ectoplasmer".)

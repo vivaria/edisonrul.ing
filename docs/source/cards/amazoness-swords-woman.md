@@ -1,4 +1,4 @@
-# AMAZONESS SWORDS WOMAN
+# Amazoness Swords Woman
 
 > ① The opponent takes all Battle Damage to this card's controller that he/she would have taken from a battle involving this card.
 

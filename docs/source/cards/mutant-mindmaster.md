@@ -1,4 +1,4 @@
-# MUTANT MINDMASTER
+# Mutant Mindmaster
 
 > ① When this card declares an attack, you can take control of 1 face-up Attack Position monster your opponent controls, and attack with it instead of this monster. Ⓒ It cannot attack your opponent directly. Return it to your opponent at the end of the Battle Phase.
 

@@ -1,4 +1,4 @@
-# TORAPART
+# Torapart
 
 *   The restriction on using “Torapart” as a Synchro Material Monster is not an ‘effect’.
 *   If a monster Synchro Summoned with “Torapart” attacks, the opponent cannot activate Trap Cards until after the Damage Step is over.

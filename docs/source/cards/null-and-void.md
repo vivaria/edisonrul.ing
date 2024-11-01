@@ -1,4 +1,4 @@
-# NULL AND VOID
+# Null And Void
 
 *   You can only chain "Null and Void" to an effect that draws cards and does nothing else. You can chain "Null and Void" to the activation of "Pot of Greed" or "Jar of Greed". You can chain "Null and Void" to the activation of the effect of cards like "Airknight Parshath".
 *   You can chain "Null and Void" to a Continuous Spell or Trap Card that causes drawing, such as "Mirage of Nightmare" or "Heart of the Underdog".

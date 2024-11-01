@@ -1,4 +1,4 @@
-# MY BODY AS A SHIELD
+# My Body As A Shield
 
 > ① Activate only by paying 1500 Life Poitns when your opponent activates a card with an effect that would destroy 1 or more monster(s) on the field. Negate the activation of that card and destroy it.
 

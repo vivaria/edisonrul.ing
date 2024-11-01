@@ -1,4 +1,4 @@
-# SHINING SILVER FORCE
+# Shining Silver Force
 
 *   You can chain “Shining Silver Force” to a Trap Card your opponent activates that inflicts damage to themselves.
 *   If a Trap Card that normally gives Life Points has been changed to a damage card by “Bad Reaction to Simochi”, you can activate “Shining Silver Force”.

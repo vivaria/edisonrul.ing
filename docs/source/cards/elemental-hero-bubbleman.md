@@ -1,4 +1,4 @@
-# ELEMENTAL HERO BUBBLEMAN
+# Elemental Hero Bubbleman
 
 *   Missing the Timing: If “Elemental Hero Bubbleman” is Summoned by an effect in the middle of a chain, you will miss the timing and cannot draw the 2 cards.
 *   You can only use the effect of “Elemental Hero Bubbleman” to Special Summon itself during your Main Phase.

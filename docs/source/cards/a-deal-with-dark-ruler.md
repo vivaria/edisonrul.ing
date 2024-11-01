@@ -1,4 +1,4 @@
-# A DEAL WITH DARK RULER
+# A Deal With Dark Ruler
 
 > You can only activate this card during a turn in which a Level 8 or higher monster on your side of the field was sent to the Graveyard. Special Summon 1 "Berserk Dragon" from your hand or Deck.
 

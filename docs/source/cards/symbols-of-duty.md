@@ -1,4 +1,4 @@
-# SYMBOLS OF DUTY
+# Symbols Of Duty
 
 > Send 1 Normal Monster you control to the Graveyard. Select and Special Summon 1 monster from either Graveyard and equip it with this card. When this card is removed from the field, destroy the equipped monster.
 

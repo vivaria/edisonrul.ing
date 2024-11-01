@@ -1,4 +1,4 @@
-# INHERITED FORTUNE
+# Inherited Fortune
 
 *   You cannot activate this card during the Damage Step.
 *   You can activate “Inherited Fortune” even if you cannot Special Summon at the time, such as if you activated “Scapegoat” this turn or “Archlord Kristya” is on the field.

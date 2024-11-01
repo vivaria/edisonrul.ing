@@ -1,4 +1,4 @@
-# CYBER LASER DRAGON
+# Cyber Laser Dragon
 
 *   This card’s effect targets. You can destroy “Cyber Laser Dragon” with its own effect.
 *   The ATK or DEF of the targeted monster must be greater than (or equal to) the ATK of “Cyber Laser Dragon” when the effect resolves in order for it to be destroyed. Example: You target “Jinzo” with this card’s effect. The opponent chains “Rush Recklessly” to raise “Cyber Laser Dragon’s” ATK to 3100. “Jinzo” is not destroyed.

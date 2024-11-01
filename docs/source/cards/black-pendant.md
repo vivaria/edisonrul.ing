@@ -1,4 +1,4 @@
-# BLACK PENDANT
+# Black Pendant
 
 *   If this card is destroyed while face-down, it still does damage to your opponent.
 *   If this card’s activation is negated, such as with "Magic Jammer" or "Riryoku Field" it does not do damage to your opponent.

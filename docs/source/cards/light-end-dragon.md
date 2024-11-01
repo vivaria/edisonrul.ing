@@ -1,4 +1,4 @@
-# LIGHT END DRAGON
+# Light End Dragon
 
 > ① When this monster battles, you can activate this card’s effect at attack declaration. If you do, this card loses 500 ATK and DEF (permanently), and the monster it is battling loses 1500 ATK and DEF until the End Phase.
 

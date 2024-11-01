@@ -1,4 +1,4 @@
-# 'A' CELL SCATTER BURST
+# 'A' Cell Scatter Burst
 
 > Select 1 face-up "Alien" monster you control. Destroy it and distribute new A-Counters equal to its Level among your opponent's face-up monsters.
 

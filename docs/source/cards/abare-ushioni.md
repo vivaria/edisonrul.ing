@@ -1,4 +1,4 @@
-# ABARE USHIONI
+# Abare Ushioni
 
 > ① Once per turn, you can toss a coin and call it. If you call it right, inflict 1000 damage to your opponent. If you call it wrong, you take 1000 damage.
 

@@ -1,4 +1,4 @@
-# ATTACK AND RECEIVE
+# Attack And Receive
 
 > You can only activate this card when you take damage to your Life Points. Inflict 700 points of damage to your opponent's Life Points. Also, inflict 300 points of damage to your opponent's Life Points for each "Attack and Receive" card in your Graveyard.
 

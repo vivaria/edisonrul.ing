@@ -1,4 +1,4 @@
-# RITUAL OF GRACE
+# Ritual Of Grace
 
 *   The Graveyard effect of this card targets 1 Ritual Monster you control.
 *   Removing this card from the Graveyard is a cost.

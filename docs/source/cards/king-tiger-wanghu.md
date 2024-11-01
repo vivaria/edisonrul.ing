@@ -1,4 +1,4 @@
-# KING TIGER WANGHU
+# King Tiger Wanghu
 
 > ① Destroy all monsters with an ATK of 1400 or less that are Normal Summoned or Special Summoned.
 

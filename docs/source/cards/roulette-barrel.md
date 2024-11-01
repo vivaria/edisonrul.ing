@@ -1,4 +1,4 @@
-# ROULETTE BARREL
+# Roulette Barrel
 
 *   You can only use "Roulette Barrel"'s effect once per turn.
 *   You have to roll a die twice, not once. You must roll the die twice in a row, not once in Main Phase 1 and once in Main Phase 2, etc.

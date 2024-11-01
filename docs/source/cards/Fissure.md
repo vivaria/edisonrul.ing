@@ -1,4 +1,4 @@
-# FISSURE
+# Fissure
 
 > Destroy the 1 face-up monster your opponent controls that has the lowest ATK. (If it's a tie, you get to choose.)
 

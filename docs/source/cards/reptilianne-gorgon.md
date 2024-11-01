@@ -1,4 +1,4 @@
-# REPTILIANNE GORGON
+# Reptilianne Gorgon
 
 *   This is a Trigger Effect that activates following damage calculation
 *   If this card destroys a monster by battle, its effect will activate but will resolve without effect.

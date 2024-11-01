@@ -1,4 +1,4 @@
-# GLADIATOR BEAST EQUESTE
+# Gladiator Beast Equeste
 
 > ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, add 1 "Gladiator Beast" card from your Graveyard to your hand. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Equeste".
 

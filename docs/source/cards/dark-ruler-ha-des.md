@@ -1,4 +1,4 @@
-# DARK RULER HA DES
+# Dark Ruler Ha Des
 
 > Ⓒ This card cannot be Special Summoned from the Graveyard. ① Negate the effects of Effect Monsters destroyed by battle with Fiend-Type monsters you control.
 

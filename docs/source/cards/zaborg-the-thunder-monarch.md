@@ -1,4 +1,4 @@
-# ZABORG THE THUNDER MONARCH
+# Zaborg The Thunder Monarch
 
 *   You have to destroy 1 monster. If there are no other monsters then you have to destroy "Zaborg the Thunder Monarch".
 *   "Zaborg the Thunder Monarch"'s effect targets.

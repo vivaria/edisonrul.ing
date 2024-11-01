@@ -1,4 +1,4 @@
-# EMBODIMENT OF APOPHIS
+# Embodiment Of Apophis
 
 *   Once “Embodiment of Apophis” has been activated, it takes up 1 Monster Card Zone and 1 Spell & Trap Card Zone. The physical location of “Embodiment of Apophis” should be on the Monster Card Zones, however.
 *   If your Monster Card Zones are all full you cannot activate “Embodiment of Apophis”. If your Spell & Trap Card Zones are all full you cannot take control of your opponent’s “Embodiment of Apophis” because you will need 1 Monster Card Zone and 1 Spell & Trap Card Zone for it.

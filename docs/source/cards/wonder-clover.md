@@ -1,4 +1,4 @@
-# WONDER CLOVER
+# Wonder Clover
 
 *   Sending a Plant from your hand to the Graveyard is a cost to activate “Wonder Clover.”
 *   “Wonder Clover” targets 1 monster you control.

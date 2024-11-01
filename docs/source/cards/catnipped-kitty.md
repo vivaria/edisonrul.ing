@@ -1,4 +1,4 @@
-# CATNIPPED KITTY
+# Catnipped Kitty
 
 *   The first effect of “Catnipped Kitty” is a Continuous Effect and the second is an Ignition Effect.
 *   You cannot target a face-down monster with the effect of “Catnipped Kitty”.

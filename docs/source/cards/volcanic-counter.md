@@ -1,4 +1,4 @@
-# VOLCANIC COUNTER
+# Volcanic Counter
 
 > ① When you take Battle Damage while this card is in your Graveyard, remove it from play. Then, if there is a FIRE monster other than "Volcanic Counter" in your Graveyard, inflict damage to your opponent equal to the amount of Battle Damage you took.
 

@@ -1,4 +1,4 @@
-# SUBSTITOAD
+# Substitoad
 
 > ① You can Tribute 1 monster to Special Summon 1 "Frog" monster from your Deck, except "Frog the Jam". ② "Frog" monsters, except "Frog the Jam", cannot be destroyed by battle.
 

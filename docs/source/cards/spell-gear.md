@@ -1,4 +1,4 @@
-# SPELL GEAR
+# Spell Gear
 
 *   "'Ancient Gear' cards" means any card you control that has "Ancient Gear" in its card name.
 *   You cannot activate "Spell Gear" if you do not have any "Ancient Gear Golem" remaining in your Deck.

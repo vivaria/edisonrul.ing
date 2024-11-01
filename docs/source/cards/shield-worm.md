@@ -1,4 +1,4 @@
-# SHIELD WORM
+# Shield Worm
 
 *   Changing this card to Defense Position and sending cards to your opponent’s Graveyard are both parts of the same Trigger Effect.
 *   They occur one after the other, so you would miss the timing to activate “Tragedy.”

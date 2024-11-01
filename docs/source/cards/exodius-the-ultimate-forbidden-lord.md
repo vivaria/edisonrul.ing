@@ -1,4 +1,4 @@
-# EXODIUS THE ULTIMATE FORBIDDEN LORD
+# Exodius The Ultimate Forbidden Lord
 
 > This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by returning all monsters from your Graveyard to your Deck. ① When this card declares an attack, send 1 monster from your hand or Deck to the Graveyard. ② This card has 1000 ATK for each Normal Monster in your Graveyard. ③ When this card is removed from the field, remove it from play. Ⓒ If there are 5 different "Forbidden One" cards in your Graveyard that were sent there by this card's effect, you win the Duel.
 

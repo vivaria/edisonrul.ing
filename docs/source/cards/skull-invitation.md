@@ -1,4 +1,4 @@
-# SKULL INVITATION
+# Skull Invitation
 
 *   Cards that are Tributed or Discarded are included, because they are also "sent to the Graveyard".
 *   The effects of multiple "Skull Invitation" are cumulative.

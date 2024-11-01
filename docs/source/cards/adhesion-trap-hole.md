@@ -1,4 +1,4 @@
-# ADHESION TRAP HOLE
+# Adhesion Trap Hole
 
 > Activate only when your opponent Summons a monster(s). While that monster(s) is face-up on the field, its original ATK is halved.
 

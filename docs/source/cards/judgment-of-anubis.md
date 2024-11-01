@@ -1,4 +1,4 @@
-# JUDGMENT OF ANUBIS
+# Judgment Of Anubis
 
 *   You can activate "Judgment of Anubis" when there are no monsters on your opponent's side of the field.
 *   When you activate "Judgment of Anubis", you destroy your opponent's monster after the activation and the effect of the Spell Care are negated. This means that the monster-destroying effect of "Judgment of Anubis" does not target.

@@ -1,4 +1,4 @@
-# ELEMENTAL HERO FLAME WINGMAN
+# Elemental Hero Flame Wingman
 
 *   The damage inflicted by the effect of “Elemental Hero Flame Wingman” is based on the ATK of the destroyed monster in the Graveyard. So it’s the original ATK of the monster.
 *   The effect of “Elemental Hero Flame Wingman” is activated when the monster destroyed in battle by it is sent to the Graveyard. You can chain to this effect.

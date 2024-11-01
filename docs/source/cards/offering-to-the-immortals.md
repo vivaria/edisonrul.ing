@@ -1,4 +1,4 @@
-# OFFERING TO THE IMMORTALS
+# Offering To The Immortals
 
 *   None of these effects target.
 *   If you cannot Special Summon the “Ceremonial Tokens” you cannot add any of the listed cards to your hand.

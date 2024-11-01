@@ -1,4 +1,4 @@
-# COCOON PARTY
+# Cocoon Party
 
 *   You cannot activate this card if you have no "Neo-Spacian" monsters in your Graveyard and/or no "Chrysalis" monsters in your Deck.
 *   You cannot activate this card if there are fewer "Chrysalis" monsters in your Deck than there are "Neo-Spacian" monsters with different names in your Graveyard.

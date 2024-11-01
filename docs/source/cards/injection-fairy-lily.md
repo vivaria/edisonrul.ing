@@ -1,4 +1,4 @@
-# INJECTION FAIRY LILY
+# Injection Fairy Lily
 
 *   You can activate this card’s effect during both players’ Damage Steps, at damage calculation. You can activate it only once per Damage Step, but if "Injection Fairy Lily" is involved in multiple battles in the same turn, you can activate it once during each battle.
 *   You cannot increase this card’s ATK by 6000 points by paying 4000 Life Points.

@@ -1,4 +1,4 @@
-# BACKFIRE
+# Backfire
 
 > When a FIRE monster(s) on your side of the field is destroyed and sent to the Graveyard, inflict 500 points of damage to your opponent's Life Points.
 

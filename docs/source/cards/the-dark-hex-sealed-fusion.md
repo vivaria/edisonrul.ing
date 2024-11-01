@@ -1,4 +1,4 @@
-# THE DARK - HEX-SEALED FUSION
+# The Dark - Hex-Sealed Fusion
 
 > ① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 DARK Fusion Monster from your Fusion Deck.
 

@@ -1,4 +1,4 @@
-# FORMATION UNION
+# Formation Union
 
 *   The monster you equip the Union Monster to must be "appropriate", meaning the monster name written in the text of the Union Monster.
 *   The Union Monster is considered to be equipped 'by its effect' so any bonuses the Union Monster grants are granted if equipped with "Formation Union".

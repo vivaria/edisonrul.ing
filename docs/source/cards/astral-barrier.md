@@ -1,4 +1,4 @@
-# ASTRAL BARRIER
+# Astral Barrier
 
 > ① If your opponent's monster attacks a monster on your side of the field, you can make the attack a direct attack.
 

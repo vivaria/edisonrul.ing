@@ -1,4 +1,4 @@
-# CRYSTAL BEAST AMETHYST CAT
+# Crystal Beast Amethyst Cat
 
 *   When attacking using this ability, any increases to “Crystal Beast Amethyst Cat’s” ATK are added first, then the total ATK is halved to calculate Battle Damage to your opponent.
 *   You choose whether or not to use the “Crystal Beast” effect at the time the destroyed monster would be sent to the Graveyard.

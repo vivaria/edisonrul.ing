@@ -1,4 +1,4 @@
-# REPTILIANNE SPAWN
+# Reptilianne Spawn
 
 *   Removing 1 “Reptilianne” monster from your Graveyard is a cost.
 *   You cannot activate this card if you don’t have 2 or more empty Monster Card Zones.

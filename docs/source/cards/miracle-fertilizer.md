@@ -1,4 +1,4 @@
-# MIRACLE FERTILIZER
+# Miracle Fertilizer
 
 *   "Miracle Fertilizer" targets the monster(s) Special Summoned by its effect, both when it is selected in the Graveyard and while it is on the field. If "Miracle Fertilizer" is returned to its owner's hand, any monster(s) that was Special Summoned by its effect is no longer targeted, even if "Miracle Fertilizer" is activated again later.
 *   If you Special Summon a monster with "Miracle Fertilizer", and later in the same turn "Miracle Fertilizer" is removed from the field, you still cannot Normal Summon or Set a monster that turn.

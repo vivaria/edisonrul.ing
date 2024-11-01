@@ -1,4 +1,4 @@
-# GENESIS DRAGON
+# Genesis Dragon
 
 > ① Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. ② When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck.
 

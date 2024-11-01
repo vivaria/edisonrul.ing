@@ -1,4 +1,4 @@
-# VOLTANIS THE ADJUDICATOR
+# Voltanis The Adjudicator
 
 *   "Voltanis the Adjudicator"'s Special Summon effect starts a Chain. After "Voltanis the Adjudicator" is Special Summoned, its effect starts another new Chain if activated.
 *   Tributing all your monsters to Special Summon “Voltanis the Adjudicator” is a cost. If you do not have at least 1 monster to Tribute, you cannot activate this effect.

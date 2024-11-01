@@ -1,4 +1,4 @@
-# BRAIN CONTROL
+# Brain Control
 
 > Pay 800 LifePoints. Select 1 face-up monster your opponent controls. Take control of it until the End Phase.
 

@@ -1,4 +1,4 @@
-# ERADICATOR EPIDEMIC VIRUS
+# Eradicator Epidemic Virus
 
 > Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Cards. ① Check all Spell and Trap Cards on your opponent's side of the field, your opponent's hand, and all cards they draw (until the end of your opponent's 3rd turn after this card's activation), and destroy all cards of the chosen type.
 

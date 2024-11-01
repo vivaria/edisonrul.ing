@@ -1,4 +1,4 @@
-# IRON CHAIN SNAKE
+# Iron Chain Snake
 
 *   "Iron Chain Snake"'s first effect targets 1 face-up monster your opponent controls.
 *   The player that controlled the equipped monster when it was destroyed sends cards from the top of their Deck to the Graveyard.

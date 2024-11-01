@@ -1,4 +1,4 @@
-# GIANT TRAP HOLE
+# Giant Trap Hole
 
 *   You cannot activate “Giant Trap Hole” during the Damage Step.
 *   You can activate “Giant Trap Hole” when 1 monster is Special Summoned to each side of the field, by “The Shallow Grave”, etc.

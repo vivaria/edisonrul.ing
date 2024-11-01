@@ -1,4 +1,4 @@
-# GLADIATOR BEAST LAQUARI
+# Gladiator Beast Laquari
 
 > ① If this card is Special Summoned by the effect of a "Gladiator Beast" monster, its original ATK is 2100. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Laquari".
 

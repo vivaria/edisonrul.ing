@@ -1,4 +1,4 @@
-# STARDUST DRAGON
+# Stardust Dragon
 
 > ① You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster’s effect that destroys a card(s) on the field, and destroy that card. ② If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase.
 

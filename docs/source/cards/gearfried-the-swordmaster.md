@@ -1,4 +1,4 @@
-# GEARFRIED THE SWORDMASTER
+# Gearfried The Swordmaster
 
 *   If you Tribute 1 “Gearfried the Iron Knight” to activate “Release Restraint”, then chain “Serial Spell”, you can Special Summon 2 “Gearfried the Swordmaster” cards from your Deck.
 *   The Equip Card must be successfully equipped to “Gearfried the Swordmaster” to activate his effect. For example, if “Mystical Space Typhoon” is chained to the activation of an Equip Card, it is destroyed and sent to the Graveyard before resolving, so the effect of “Gearfried the Swordmaster” does not activate.

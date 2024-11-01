@@ -1,4 +1,4 @@
-# ELEMENTAL HERO CAPTAIN GOLD
+# Elemental Hero Captain Gold
 
 > ① You can discard this card to the Graveyard to add 1 "Skyscraper" from your Deck to your hand. ② If this card is on the field but "Skyscraper" is not on the field, destroy this card.
 

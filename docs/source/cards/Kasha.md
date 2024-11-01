@@ -1,4 +1,4 @@
-# KASHA
+# Kasha
 
 *   This card’s effect is a Trigger Effect. Setting the ATK equal to the number of Zombie-Type monsters x1000 is part of the resolution of the Trigger effect.
 *   If you return face-down Zombie-Type monsters to the Deck they are not counted towards the ATK of “Kasha.” If you return Zombie-Type Fusion Monsters or Synchro Monsters to the Extra Deck, they count towards the ATK of “Kasha.”

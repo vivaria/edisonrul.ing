@@ -1,4 +1,4 @@
-# KURAZ THE LIGHT MONARCH
+# Kuraz The Light Monarch
 
 > ① When this card is Normal or Special Summoned, you can destroy up to 2 cards on the field. For each card destroyed, that card's controller draws 1 card. ② This card cannot attack during the turn it is Normal or Special Summoned._
 

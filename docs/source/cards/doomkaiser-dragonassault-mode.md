@@ -1,4 +1,4 @@
-# DOOMKAISER DRAGON/ASSAULT MODE
+# Doomkaiser Dragon/Assault Mode
 
 *   You can, for example, Summon 1 Zombie from your opponent’s Graveyard, and 2 from yours, etc.
 *   This effect targets 1 or more monsters in the Graveyard(s).

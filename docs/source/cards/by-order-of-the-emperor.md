@@ -1,4 +1,4 @@
-# BY ORDER OF THE EMPEROR
+# By Order Of The Emperor
 
 *   The effect of "By Order of the Emperor" is chained to the effect of the Normal Summoned Effect Monster.
 *   The effect of "By Order of the Emperor" can be chained to negate "King Tiger Wanghu"'s effect.

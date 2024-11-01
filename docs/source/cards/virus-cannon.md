@@ -1,4 +1,4 @@
-# VIRUS CANNON
+# Virus Cannon
 
 *   Tributing monster(s) is a cost.
 *   If you target your opponent's monster with "Soul Exchange", it can be Tribute to activate "Virus Cannon".

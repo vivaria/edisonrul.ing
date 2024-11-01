@@ -1,4 +1,4 @@
-# JUDGMENT DRAGON
+# Judgment Dragon
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having 4 or more "Lightsworn" monsters with different names in your Graveyard. ① You can pay 1000 Life Points to destroy all other cards on the field. ② During each of your End Phases, send the top 4 cards of your Deck to the Graveyard.
 

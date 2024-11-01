@@ -1,4 +1,4 @@
-# LIGHT OF INTERVENTION
+# Light Of Intervention
 
 *   You can activate (flip face-up) this card at any time; it does not need to be activated in response to a Summon.
 *   The effect of this card applies to both players, and does not affect monsters that are already on the field face-down. These monsters remain face-down until flipped face-up as normal.

@@ -1,4 +1,4 @@
-# OBNOXIOUS CELTIC GUARD
+# Obnoxious Celtic Guard
 
 *   "Obnoxious Celtic Guard" and "Celtic Guardian" are considered 2 separate monsters so you can have 3 of each in your Deck.
 *   "Obnoxious Celtic Guard"’s effect looks at the ATK during Damage Calculation. So if he’s WIND and is attacked by "Insect Soldiers of the Sky", their ATK is 2000 during Damage Calculation and "Obnoxious Celtic Guard" is not destroyed. Or if an 1800 monster attacks and you use "Rush Recklessly" to increase the ATK to 2500 during the Damage Step, "Obnoxious Celtic Guardian" is not destroyed.

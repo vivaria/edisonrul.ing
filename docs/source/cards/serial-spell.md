@@ -1,4 +1,4 @@
-# SERIAL SPELL
+# Serial Spell
 
 *   "Serial Spell" must be chained to the activation of your Normal Spell Card. Nothing can be chained in-between by yourself or your opponent. If your opponent chains to your Normal Spell Card, you cannot chain "Serial Spell" to that Normal Spell Card. Because of this, it is impossible to chain 2 copies of "Serial Spell" to the same Normal Spell Card.
 *   "Serial Spell" does not target a card.

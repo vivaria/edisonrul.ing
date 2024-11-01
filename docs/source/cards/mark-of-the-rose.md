@@ -1,4 +1,4 @@
-# MARK OF THE ROSE
+# Mark Of The Rose
 
 > Remove from play 1 Plant-Type monster from your Graveyard and equip this card to a monster your opponent controls. ① Gain control of the equipped monster. ②_ _During your End Phase, give control of the equipped monster to your opponent. ③_ _During your Standby Phase, gain control of the equipped monster.
 

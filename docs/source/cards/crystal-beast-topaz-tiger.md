@@ -1,4 +1,4 @@
-# CRYSTAL BEAST TOPAZ TIGER
+# Crystal Beast Topaz Tiger
 
 *   You choose whether or not to use the “Crystal Beast” effect at the time the destroyed monster would be sent to the Graveyard.
 *   This effect does not use the Chain.

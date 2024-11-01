@@ -1,4 +1,4 @@
-# SWORD OF KUSANAGI
+# Sword Of Kusanagi
 
 *   "Sword of Kusanagi"'s second effect activates in the Graveyard.
 *   If you control your opponent's Spirit Monster and you equip it with "Sword of Kusanagi", when the Spirit Monster is returned to your opponent's hand and "Sword of Kusanagi" is destroyed, its second effect activates.

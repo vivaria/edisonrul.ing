@@ -1,4 +1,4 @@
-# BLACK GARDEN
+# Black Garden
 
 > ① When a monster is Normal or Special Summoned, except by the effect of “Black Garden”, halve its ATK and Special Summon 1 “Rose Token” (Plant-Type/DARK/Level 2/ATK 800/DEF 800) to its controller’s opponent’s side of the field, in Attack Position. ② You can destroy this card and all face-up Plant-Type monsters on the field and Special Summon 1 monster with ATK equal to the total ATK of those monsters from your Graveyard.
 

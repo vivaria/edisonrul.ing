@@ -1,4 +1,4 @@
-# TWIN-SHIELD DEFENDER
+# Twin-Shield Defender
 
 *   "Twin-Shield Defender"'s effect targets 1 face-up monster your opponent controls.
 *   "Twin-Shield Defender" halves the current ATK of the targeted monster, including any gains and/or losses from effects.

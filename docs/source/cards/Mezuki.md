@@ -1,4 +1,4 @@
-# MEZUKI
+# Mezuki
 
 > ① You can remove from play this card from your Graveyard to Special Summon 1 Zombie-Type monster from your Graveyard.
 

@@ -1,4 +1,4 @@
-# DARKLORD NURSE REFICULE (original name: Nurse Reficule the Fallen One)
+# Darklord Nurse Reficule (Original Name: Nurse Reficule The Fallen One)
 
 > ① Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.
 

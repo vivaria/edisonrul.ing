@@ -1,4 +1,4 @@
-# CENTRIFUGAL FIELD
+# Centrifugal Field
 
 *   Only the owner of the Fusion Monster that was destroyed and sent to the Graveyard by a card effect can Special Summon a Fusion Material Monster written on the Fusion Monster Card. However, this effect can be used by both players (when their Fusion Monsters are destroyed and sent to the Graveyard by a card effect).
 *   If both players have Fusion Monsters destroyed and sent to the Graveyard by card effects at the same time, each of them can Special Summon a Fusion Material Monster. However, when multiple Fusion Monsters controlled by the same player are destroyed and sent to the Graveyard by a card effect, that player can only select and Special Summon 1 Fusion Material Monster.

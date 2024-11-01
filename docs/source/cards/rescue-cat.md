@@ -1,4 +1,4 @@
-# RESCUE CAT
+# Rescue Cat
 
 > ① You can send this face-up card to the Graveyard to Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck. Those monsters are destroyed during the End Phase.
 

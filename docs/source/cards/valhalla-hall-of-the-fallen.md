@@ -1,4 +1,4 @@
-# VALHALLA, HALL OF THE FALLEN
+# Valhalla, Hall Of The Fallen
 
 *   This effect starts a Chain Link. (It does not [target](https://yugipedia.com/wiki/Target). This effect cannot be activated in the same Chain Link in which this card was activated. This effect can be activated after this card resolves.)
 *   This effect cannot Special Summon Fairy-Type Special Summon Monsters.

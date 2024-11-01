@@ -1,4 +1,4 @@
-# SYSTEM DOWN
+# System Down
 
 > Pay 1000 Life Points. ① Remove from play all Machine-Type monsters on your opponent's side of the field and in their Graveyard.
 

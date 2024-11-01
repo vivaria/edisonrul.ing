@@ -1,4 +1,4 @@
-# ARCANITE MAGICIAN
+# Arcanite Magician
 
 > ① When this card is Synchro Summoned, place 2 Spell Counters on it. ② This card gains 1000 ATK for each Spell Counter on it. ③ You can remove 1 Spell Counter from a card you control to destroy 1 card your opponent controls.
 

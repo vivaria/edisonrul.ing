@@ -1,4 +1,4 @@
-# CESTUS OF DAGLA
+# Cestus Of Dagla
 
 *   When "Airknight Parshath" equipped with "Cestus of Dagla" inflicts damage to your opponent's Life Points, the simultaneous effects go on a chain, so the controller decides which effect is resolved first.
 *   If you have multiple copies of "Cestus of Dagla" equipped to your monster, the effects accumulate.

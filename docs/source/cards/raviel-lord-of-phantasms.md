@@ -1,4 +1,4 @@
-# RAVIEL, LORD OF PHANTASMS
+# Raviel, Lord Of Phantasms
 
 *   You can Tribute face-down Fiends to Special Summon “Raviel, Lord of Phantasms”.
 *   Tributing 1 monster is a cost to activate this card’s Ignition Effect. You cannot Tribute this card for its own effect.

@@ -1,4 +1,4 @@
-# AT ONE WITH THE SWORD
+# At One With The Sword
 
 > Activate while the only monster you control is 1 face-up "X-Saber" monster. Equip this card to that monster. ① It gains 800 ATK. ② If it destroys your opponent's monster by battle, draw 1 card.
 

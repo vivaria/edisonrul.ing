@@ -1,4 +1,4 @@
-# GRANADORA
+# Granadora
 
 *   For the first effect (gaining Life Points), it is the controller of "Granadora" who gains. For the second effect (losing Life Points), it is the owner of "Granadora" who takes damage.
 *   When your face-down "Granadora" is destroyed, you take 2000 damage.

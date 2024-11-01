@@ -1,4 +1,4 @@
-# SPELL RECLAMATION
+# Spell Reclamation
 
 *   This effect does not target.
 *   This card can be chained to any type of Spell Card (Normal, Continuous, Quick-Play or Equip or Field.).

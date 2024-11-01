@@ -1,4 +1,4 @@
-# EVIL HERO MALICIOUS FIEND
+# Evil Hero Malicious Fiend
 
 > "Evil Hero Malicious Edge" + 1 Level 6 or higher Fiend-Type monster
 Ⓒ This monster cannot be Special Summoned except with "Dark Fusion". ① During your opponent's Battle Phase, all monsters they control are changed to face-up Attack Position, and each monster they control must attack this card.

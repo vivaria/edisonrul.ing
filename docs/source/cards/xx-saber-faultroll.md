@@ -1,4 +1,4 @@
-# XX-SABER FAULTROLL
+# XX-Saber Faultroll
 
 > Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except while you control 2 or more face-up "X-Saber" monsters. ① Once per turn, you can Special Summon 1 Level 4 or lower "X-Saber" monster from your Graveyard.
 

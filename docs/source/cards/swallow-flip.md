@@ -1,4 +1,4 @@
-# SWALLOW FLIP
+# Swallow Flip
 
 > Negate the activation of an Effect Monster's effect that activates when a monster is Special Summoned (including itself), and destroy it.
 

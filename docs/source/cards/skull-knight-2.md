@@ -1,4 +1,4 @@
-# SKULL KNIGHT #2
+# Skull Knight #2
 
 *   If you Tribute Set a high level Fiend-Type monster by Tributing this card, you CAN Special Summon another "Skull Knight #2" from your Deck and you do NOT have to reveal your Set monster to prove it is a Fiend-Type.
 *   If you activate "Change of Heart" to control your opponent’s "Skull Knight #2" and Tribute it to Tribute Summon a Fiend-Type monster you can Special Summon a "Skull Knight #2" from your Deck. But if you activate "Soul Exchange" to Tribute a "Skull Knight #2" on your opponent’s side of the field, neither player can activate its effect.

@@ -1,4 +1,4 @@
-# PATRICIAN OF DARKNESS
+# Patrician Of Darkness
 
 *   For this card’s effect, the chosen attack target must still be legal. You cannot force a monster to attack directly if it normally cannot, or force a monster to attack a monster on its own side of the field.
 *   The effect of "Patrician of Darkness" does not override the effects of "Marauding Captain", "The Legendary Fisherman", "Solar Flare Dragon", etc. You cannot choose an attack target prevented by the effects of these cards. Examples: You cannot choose "The Legendary Fisherman" as an attack target if "Umi" is on the field. You cannot choose another Warrior-Type monster as an attack target when you control "Marauding Captain".

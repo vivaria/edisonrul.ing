@@ -1,4 +1,4 @@
-# CONTINUOUS DESTRUCTION PUNCH
+# Continuous Destruction Punch
 
 *   "Continuous Destruction Punch" is like "Destruction Punch" except it's a Continuous Spell Card that you activate during your Main Phase.
 *   A monster destroyed because of "Continuous Destruction Punch" is destroyed by "Continuous Destruction Punch"'s effect, not "as a result of battle".

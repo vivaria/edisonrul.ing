@@ -1,4 +1,4 @@
-# AUSSA THE EARTH CHARMER
+# Aussa The Earth Charmer
 
 > FLIP: Take control of 1 EARTH monster on your opponent's side of the field, for as long as this card remains face-up on the field.
 

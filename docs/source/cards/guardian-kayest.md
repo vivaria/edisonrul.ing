@@ -1,4 +1,4 @@
-# GUARDIAN KAY'EST
+# Guardian Kay'Est
 
 *   "Guardian Kay'est" is not affected by Spell Cards, just like "The Legendary Fisherman".
 *   Your opponent cannot select "Guardian Kay'est" as the target of an attack.

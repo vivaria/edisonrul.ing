@@ -1,4 +1,4 @@
-# MYSTICAL KNIGHT OF JACKAL
+# Mystical Knight Of Jackal
 
 *   In order to activate the effect of "Mystical Knight of Jackal", the monster that "Mystical Knight of Jackal" destroyed as a result of battle must be your opponent’s own monster, not one of your monsters that your opponent controls.
 *   "Mystical Knight of Jackal" sends a monster to the Graveyard as a result of battle, and THEN returns it to the top of the deck, so "Sangan" or "Witch of the Black Forest", etc., will activate their effects.

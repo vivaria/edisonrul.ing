@@ -1,4 +1,4 @@
-# BLOWBACK DRAGON
+# Blowback Dragon
 
 *   "Blowback Dragon"'s effect does target. The target is the selected card.
 *   If your opponent uses "Blowback Dragon" on a Trap Card, you can use "Fake Trap" to save it.

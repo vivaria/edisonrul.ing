@@ -1,4 +1,4 @@
-# TERRORKING ARCHFIEND
+# Terrorking Archfiend
 
 *   When your only Archfiend monster is an Equip Spell Card equipped to "Relinquished", you cannot Normal Summon or Flip Summon "Terrorking Archfiend".
 *   While "Skill Drain" is active, you still need to have an Archfiend Monster Card on your side of the field in order to Normal Summon or Flip Summon "Terrorking Archfiend".

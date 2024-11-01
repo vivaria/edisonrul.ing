@@ -1,4 +1,4 @@
-# THUNDER KING RAI-OH
+# Thunder King Rai-Oh
 
 > ① Neither player can add cards from their Deck to their hand except by drawing them. ② You can send this face-up card to the Graveyard to negate the Special Summon of 1 of your opponent monsters, and destroy it.
 

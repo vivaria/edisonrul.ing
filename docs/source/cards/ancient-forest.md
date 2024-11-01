@@ -1,4 +1,4 @@
-# ANCIENT FOREST
+# Ancient Forest
 
 > ① When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. ② If a monster attacks, destroy it at the end of that turn's Battle Phase.
 

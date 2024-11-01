@@ -1,4 +1,4 @@
-# SHADOW-IMPRISONING MIRROR
+# Shadow-Imprisoning Mirror
 
 > When the effect of a DARK monster activates on the field or in the Graveyard, negate it.
 

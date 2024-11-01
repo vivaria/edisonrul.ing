@@ -1,4 +1,4 @@
-# HERALD OF CREATION
+# Herald Of Creation
 
 > ① Once per turn, you can discard 1 card to add 1 Level 7 or higher monster from your Graveyard to your hand.
 

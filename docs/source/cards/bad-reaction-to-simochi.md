@@ -1,4 +1,4 @@
-# BAD REACTION TO SIMOCHI
+# Bad Reaction To Simochi
 
 > As long as this card remains face-up on the field, any effect of increasing your opponent's Life Points is changed to inflict the same amount of points in damage to your opponent's Life Points.
 

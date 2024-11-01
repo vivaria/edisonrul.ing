@@ -1,4 +1,4 @@
-# TRAP RECLAMATION
+# Trap Reclamation
 
 *   This card can be chained to a Normal Trap Card or a Continuous Trap Card.
 *   This card’s effect is only applied once, the first time the Trap Card it was chained to is sent from the field to the Graveyard for any reason.

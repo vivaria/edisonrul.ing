@@ -1,4 +1,4 @@
-# SILLVA, WARLORD OF DARK WORLD
+# Sillva, Warlord Of Dark World
 
 Also see rulings for “Dark World Monsters”.
 

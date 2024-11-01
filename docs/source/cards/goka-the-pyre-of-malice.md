@@ -1,4 +1,4 @@
-# GOKA, THE PYRE OF MALICE
+# Goka, The Pyre Of Malice
 
 *   "Goka, the Pyre of Malice"'s first effect targets 1 FIRE monster you control.
 *   Tributing 1 FIRE monster is a cost to activate "Goka, the Pyre of Malice"'s third effect.

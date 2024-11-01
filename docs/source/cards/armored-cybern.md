@@ -1,4 +1,4 @@
-# ARMORED CYBERN
+# Armored Cybern
 
 > ① Once per turn, during your Main Phase, you can equip this card to a "Cyber Dragon" you control, or to a Fusion Monster you control that lists "Cyber Dragon" as a Fusion Material Monster, OR unequip it to Special Summon this card in face-up Attack Position. ② Once per turn, while equipped to a monster by this effect, you can decrease the equipped monster's ATK by 1000 and destroy 1 face-up monster. Ⓒ (A monster can only by equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)
 

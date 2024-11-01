@@ -1,4 +1,4 @@
-# APPROPRIATE
+# Appropriate
 
 > Activate only when your opponent draws a card(s), except during their Draw Phase. Draw 2 cards.
 

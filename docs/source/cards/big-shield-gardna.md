@@ -1,4 +1,4 @@
-# BIG SHIELD GARDNA
+# Big Shield Gardna
 
 *   A face-down "Big Shield Gardna" can only negate a Spell Card that targets 1 face-down monster, so it cannot negate "Riryoku", "Creature Swap" or "Dark Hole", but could negate "Nobleman of Crossout" or "Tribute to the Doomed".
 *   If "Big Shield Gardna" is targeted with a Spell Card, you may chain "Book of Moon" to flip it face-down, then it can negate the Spell Card and will flip back to face-up Defense Position.

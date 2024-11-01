@@ -1,4 +1,4 @@
-# ELEMENTAL HERO AQUA NEOS
+# Elemental Hero Aqua Neos
 
 *   If this card was Special Summoned properly by its own effect, then you can Special Summon it from the Graveyard with “Call of the Haunted”, etc.
 *   If you control your opponent’s “Elemental Hero Neos” or “Neo-Spacian”, you can return it to your opponent’s Deck to Special Summon this card.

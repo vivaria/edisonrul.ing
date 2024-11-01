@@ -1,4 +1,4 @@
-# CRYSTAL ABUNDANCE
+# Crystal Abundance
 
 *   Sending 4 "Crystal Beast" Monster Cards from your Spell & Trap Card Zone to the Graveyard is a cost to activate this card.
 *   You can activate this card when there are no cards on your opponent’s side of the field. However, you cannot Special Summon any “Crystal Beast” monsters from your Graveyard if you do.

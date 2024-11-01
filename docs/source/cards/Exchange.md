@@ -1,4 +1,4 @@
-# EXCHANGE
+# Exchange
 
 *   You cannot activate "Exchange" if you have no other card in your hand besides "Exchange".
 *   The opponent is still considered the owner of the card you take by the effect of "Exchange" for all purposes.

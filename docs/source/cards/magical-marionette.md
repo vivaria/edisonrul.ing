@@ -1,4 +1,4 @@
-# MAGICAL MARIONETTE
+# Magical Marionette
 
 *   There is no limit to the number of Spell Counters you can have on "Magical Marionette".
 *   Removing Spell Counters from "Magical Marionette" to use its effect is a cost.

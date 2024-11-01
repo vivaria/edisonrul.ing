@@ -1,4 +1,4 @@
-# IMPERIAL ORDER
+# Imperial Order
 
 *   When "Imperial Order" is activated, "Mystical Space Typhoon" can be chained to destroy it.
 *   If you chain "Imperial Order" when a Spell Card is activated, "Imperial Order" will resolve first and negate the Spell Card.

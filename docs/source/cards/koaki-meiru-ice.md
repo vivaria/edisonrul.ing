@@ -1,4 +1,4 @@
-# KOA’KI MEIRU ICE
+# Koa’Ki Meiru Ice
 
 *   The first sentence of this card is a maintenance cost, not an effect. It does not start a Chain.
 *   Sending a card from your hand to the Graveyard is a cost to activate this monster’s effect.

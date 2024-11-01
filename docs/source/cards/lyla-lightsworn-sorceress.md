@@ -1,4 +1,4 @@
-# LYLA, LIGHTSWORN SORCERESS
+# Lyla, Lightsworn Sorceress
 
 > ① You can change this card from face-up Attack Position to face-up Defense Position and destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card's battle position cannot be changed until the end of your next turn, except with a card effect. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 

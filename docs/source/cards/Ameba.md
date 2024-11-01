@@ -1,4 +1,4 @@
-# AMEBA
+# Ameba
 
 > ① When this card is face-up on the field and control shifts to your opponent, inflict 2000 points of damage to your opponent's Life Points. Ⓒ This effect can only be used once as long as this card remains face-up on the field.
 

@@ -1,4 +1,4 @@
-# MORPHTRONIC MAGNEN BAR
+# Morphtronic Magnen Bar
 
 *   Neither of this card’s effects target.
 *   If 1 of the monsters that was in Attack Position when this card’s Attack Position effect was activated is switched to Defense Position before the effect resolves, this card still gains the combined ATK of the 2 monsters.

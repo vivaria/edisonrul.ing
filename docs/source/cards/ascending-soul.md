@@ -1,4 +1,4 @@
-# ASCENDING SOUL
+# Ascending Soul
 
 > ① Once per turn, when a Ritual Monster is Ritual Summoned, you can select and add to your hand 1 monster in your Graveyard that was Tributed for the Ritual Summon.
 

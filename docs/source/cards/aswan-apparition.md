@@ -1,4 +1,4 @@
-# ASWAN APPARITION
+# Aswan Apparition
 
 > ① If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your Graveyard to the top of your Deck.
 

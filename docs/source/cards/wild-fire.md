@@ -1,4 +1,4 @@
-# WILD FIRE
+# Wild Fire
 
 *   You cannot activate this card if you do not control a “Blaze Accelerator” card.
 *   You cannot activate this card if there are no monsters on the field.

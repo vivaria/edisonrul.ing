@@ -1,4 +1,4 @@
-# VENNOMINAGA THE DEITY OF POISONOUS SNAKES
+# Vennominaga The Deity Of Poisonous Snakes
 
 *   Removing from play 1 Reptile-Type monster in your Graveyard to Special Summon this card is a cost.
 *   This card’s effect to place 1 Hyper-Venom Counter on itself starts a chain when it inflicts Battle Damage to your opponent.

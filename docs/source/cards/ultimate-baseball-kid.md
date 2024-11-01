@@ -1,4 +1,4 @@
-# ULTIMATE BASEBALL KID
+# Ultimate Baseball Kid
 
 *   "Ultimate Baseball Kid"’s ATK increase includes FIRE monsters on your opponent’s side of the field.
 *   You can only send FIRE monsters on your side of the field to the Graveyard for "Ultimate Baseball Kid’s" second effect, not monsters in the hand, Deck, Side Deck, Extra Deck, Removed Zone, or on your opponent’s side of the field.

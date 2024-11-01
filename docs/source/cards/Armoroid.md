@@ -1,4 +1,4 @@
-# ARMOROID
+# Armoroid
 
 > ① When you Tribute Summon this card by Tributing at least 1 "roid" monster, remove from play all Spell and Trap Cards on the field.
 

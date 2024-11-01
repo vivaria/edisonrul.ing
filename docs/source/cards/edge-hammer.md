@@ -1,4 +1,4 @@
-# EDGE HAMMER
+# Edge Hammer
 
 *   This card targets 1 opponent's monster.
 *   If you destroy a monster whose original ATK is undefined, like "King of the Skull Servants", this card will not inflict any damage to the opponent.

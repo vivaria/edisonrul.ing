@@ -1,4 +1,4 @@
-# KURIBON
+# Kuribon
 
 *   You can activate this effect even if “Bad Reaction to Simochi” is face-up on the field.
 *   You can activate this effect even if “Kuribon” was attacked while face-down.

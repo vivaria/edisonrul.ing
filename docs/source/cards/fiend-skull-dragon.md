@@ -1,4 +1,4 @@
-# FIEND SKULL DRAGON
+# Fiend Skull Dragon
 
 *   You cannot use substitute Fusion Material Monsters such as "Beastking of the Swamps" to Fusion Summon this card. You can use the effects of "Metamorphosis", "Magical Scientist", and "Summoner of Illusions" to Special Summon this card.
 *   If your opponent Flip Summons a monster with a Flip Effect, and chains a card like "Offerings to the Doomed" to destroy "Fiend Skull Dragon", the Flip Effect will not be negated since "Fiend Skull Dragon" is no longer on the field when the Flip Effect resolves, and it will only negate Flip Effect "as long as this card remains face-up on the field".

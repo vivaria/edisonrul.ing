@@ -1,4 +1,4 @@
-# CYBERNETIC MAGICIAN
+# Cybernetic Magician
 
 *   The effect of “Cybernetic Magician” is an Ignition Effect that targets a monster.
 *   Since “Cybernetic Magician” makes the ATK “become” 2000, that is the new value. Even if the monster was equipped with an Equip Spell Card, the ATK is 2000 and is not adjusted, even if the Equip Spell Card is destroyed. (However, if equipped after the effect of “Cybernetic Magician” resolves, the ATK will be adjusted from the new level of 2000 points.)

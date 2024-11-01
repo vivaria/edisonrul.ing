@@ -1,4 +1,4 @@
-# MACHINA GEARFRAME
+# Machina Gearframe
 
 > ① When this card is Normal Summoned, you can add 1 "Machina" monster, except "Machina Gearframe", from your Deck to your hand. (2A) Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR (2B) unequip it to Special Summon this card in face-up Attack Position. (Ⓒ A monster can only be equipped with 1 Union Monster at a time. ③ If the equipped monster would be destroyed, destroy this card instead.)
 

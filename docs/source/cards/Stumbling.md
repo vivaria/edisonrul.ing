@@ -1,4 +1,4 @@
-# STUMBLING
+# Stumbling
 
 > Any monster that is Normal Summoned, Flip Summoned, or Special Summoned is changed to Defense Position.
 

@@ -1,4 +1,4 @@
-# ARCANA KNIGHT JOKER
+# Arcana Knight Joker
 
 > Ⓒ A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. ① Once per turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or Effect Monster's effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card).
 

@@ -1,4 +1,4 @@
-# ROBBIN' GOBLIN
+# Robbin' Goblin
 
 > Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.
 

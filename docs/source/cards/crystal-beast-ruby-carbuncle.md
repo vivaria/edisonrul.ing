@@ -1,4 +1,4 @@
-# CRYSTAL BEAST RUBY CARBUNCLE
+# Crystal Beast Ruby Carbuncle
 
 *   When you activate this card's effect, you must Summon all “Crystal Beast” monsters in your Spell & Trap Card Zone that you have open Monster Card Zones for. You cannot choose to Summon fewer than the maximum possible.
 *   If you have no “Crystal Beast” monsters in your Spell & Trap Card Zone when you Special Summon “Crystal Beast Ruby Carbuncle”, you cannot activate this effect.

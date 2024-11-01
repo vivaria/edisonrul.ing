@@ -1,4 +1,4 @@
-# STARDUST XIAOLONG
+# Stardust Xiaolong
 
 Special Summoning this monster is a Trigger Effect that that activates in the Graveyard.
 

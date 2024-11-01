@@ -1,4 +1,4 @@
-# HERO BARRIER
+# Hero Barrier
 
 *   You can activate this card at any time before the Damage Step. You can activate it before the opponent declares any attacks, but in that case the first attack your opponent makes will be negated.
 *   “Hero Barrier” can be activated even if you do not have a face-up “Elemental Hero” monster on the field. If you do not have an “Elemental Hero” monster on the field when “Hero Barrier” resolves, then it does nothing. This means if the opponent chains “Ring of Destruction” to destroy your only “Elemental Hero”, then “Hero Barrier” does nothing.

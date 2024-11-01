@@ -1,4 +1,4 @@
-# IMPERIAL CUSTOM
+# Imperial Custom
 
 > ① Face-up Continuous Trap Cards cannot be destroyed, except "Imperial Custom". You can only control 1 "Imperial Custom".
 

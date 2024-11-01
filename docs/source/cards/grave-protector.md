@@ -1,4 +1,4 @@
-# GRAVE PROTECTOR
+# Grave Protector
 
 *   "Grave Protector"'s effect is not applied to itself when it is destroyed as a result of battle.
 *   Effects like "Mystic Tomato", etc., are not activated while "Grave Protector" is face-up on the field.

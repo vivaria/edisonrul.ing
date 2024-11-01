@@ -1,4 +1,4 @@
-# MONSTER GATE
+# Monster Gate
 
 *   If you pick up a Spirit Monster, you cannot Special Summon it and it is sent to the Graveyard.
 *   If you pick up a Guardian and don't have the corresponding Equip Spell Card on the field, you cannot Special Summon the Guardian and it is sent to the Graveyard. If you have the corresponding Equip Spell Card, the Guardian is Special Summoned.

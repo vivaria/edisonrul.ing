@@ -1,4 +1,4 @@
-# GRINDER GOLEM
+# Grinder Golem
 
 *   You cannot Special Summon "Grinder Golem" if you do not have 2 open Monster Zone Spaces for the "Grinder Tokens".
 *   If your opponent negates the Special Summon of "Grinder Golem", the "Grinder Tokens" remain on your side of the field and you cannot Normal Summon or Set that turn.

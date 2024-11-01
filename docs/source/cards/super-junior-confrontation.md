@@ -1,4 +1,4 @@
-# SUPER JUNIOR CONFRONTATION
+# Super Junior Confrontation
 
 *   “Super Junior Confrontation” does not target.
 *   If you do not control a face-up Defense Position monster, you cannot activate “Super Junior Confrontation”.

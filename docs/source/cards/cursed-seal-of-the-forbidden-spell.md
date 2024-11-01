@@ -1,4 +1,4 @@
-# CURSED SEAL OF THE FORBIDDEN SPELL
+# Cursed Seal Of The Forbidden Spell
 
 *   "Cursed Seal of the Forbidden Spell" only negates the activation of Spell Cards. It does not prevent the use of Continuous Spell Cards already active, like "Archfiend's Oath".
 *   If you activate a Spell Card and chain "Cursed Seal of the Forbidden Spell", then your opponent cannot activate Spell Cards of the same name, even though your opponent didn't activate the Spell Card in the first place.

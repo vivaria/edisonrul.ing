@@ -1,4 +1,4 @@
-# HAND OF NEPHTHYS
+# Hand Of Nephthys
 
 *   "Tribute 2 monsters on your side of the field, including this card" means that you Tribute "Hand of Nephthys" plus 1 additional monster.
 *   Ignition Effects on monsters cannot be activated while the Effect Monster is face-down. So this face-down monster cannot be Tributed for its own effect.

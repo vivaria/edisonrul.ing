@@ -1,4 +1,4 @@
-# VARIETY COMES OUT
+# Variety Comes Out
 
 *   Returning the Synchro Monster to the Extra Deck is a cost.
 *   You target the Tuner monster(s) you wish to Summon.If one of the targets is no longer in the Graveyard, you still Special Summon the rest of them.

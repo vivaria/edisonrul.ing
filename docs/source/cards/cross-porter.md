@@ -1,4 +1,4 @@
-# CROSS PORTER
+# Cross Porter
 
 > ① You can send 1 monster you control to the Graveyard and Special Summon 1 “Neo-Spacian” monster from your hand. ② When this card is sent to the Graveyard, you can add 1 “Neo-Spacian” monster from your Deck to your hand.
 

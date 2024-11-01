@@ -1,4 +1,4 @@
-# DARK-EYES ILLUSIONIST
+# Dark-Eyes Illusionist
 
 *   You can select a face-down monster.
 *   When a face-down "Dark-Eyes Illusionist" is attacked and destroyed, its effect does not activate.

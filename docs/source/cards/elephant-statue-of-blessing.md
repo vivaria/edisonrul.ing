@@ -1,4 +1,4 @@
-# ELEPHANT STATUE OF BLESSING
+# Elephant Statue Of Blessing
 
 *   "Elephant Statue of Blessing" must be sent from the owner's hand to the owner's Graveyard in order for its effect to activate.
 *   "Elephant Statue of Blessing"'s effect can be activated during the Damage Step.

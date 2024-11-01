@@ -1,4 +1,4 @@
-# THE SIX SAMURAI - ZANJI
+# The Six Samurai - Zanji
 
 > ① While you control another "Six Samurai" monster with a different name, destroy any monster this card attacks at the end of the Damage Step.② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 

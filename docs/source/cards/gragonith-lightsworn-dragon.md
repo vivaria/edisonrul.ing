@@ -1,4 +1,4 @@
-# GRAGONITH, LIGHTSWORN DRAGON
+# Gragonith, Lightsworn Dragon
 
 > ① This card gains 300 ATK and DEF for each "Lightsworn" monster with a different name in your Graveyard. ② During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ③ During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 

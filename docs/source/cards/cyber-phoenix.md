@@ -1,4 +1,4 @@
-# CYBER PHOENIX
+# Cyber Phoenix
 
 > ① While this card is in face-up Attack Position, negate the effects of any Spell or Trap Card that targets 1 Machine-Type monster you control. ② When this face-up card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can draw 1 card.
 

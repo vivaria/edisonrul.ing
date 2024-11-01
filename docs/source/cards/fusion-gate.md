@@ -1,4 +1,4 @@
-# FUSION GATE
+# Fusion Gate
 
 > ① As long as this card remains face-up on the field, a Fusion Monster can be Fusion Summoned without using "Polymerization". The Fusion Material monsters used in the Fusion Summon are not sent to the Graveyard, but are removed from play.
 

@@ -1,4 +1,4 @@
-# ZOMBIE WORLD
+# Zombie World
 
 > ① All monsters on the field and in any Graveyard become Zombie-Type monsters. ② Neither player can Tribute Summon monsters, except Zombie-Type monsters.
 

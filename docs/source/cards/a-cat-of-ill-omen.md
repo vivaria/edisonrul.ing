@@ -1,4 +1,4 @@
-# A CAT OF ILL OMEN
+# A Cat Of Ill Omen
 
 > FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected Trap Card to your hand instead.
 

@@ -1,4 +1,4 @@
-# XX-SABER GOTTOMS
+# XX-Saber Gottoms
 
 > 1 Tuner + 1 or more EARTH monsters
 ① You can Tribute 1 "X-Saber" monster to discard 1 random card from your opponent's hand.

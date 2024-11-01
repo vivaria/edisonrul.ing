@@ -1,4 +1,4 @@
-# CYBER DINOSAUR
+# Cyber Dinosaur
 
 > ① When your opponent Special Summons a monster from their hand, you can Special Summon this card from your hand.
 

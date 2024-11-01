@@ -1,4 +1,4 @@
-# AVALANCHING AUSSA
+# Avalanching Aussa
 
 > ① Once per turn, you can Tribute 1 EARTH monster (except this card) to Special Summon 1 EARTH monster from your hand. The monster Special Summoned by this effect is destroyed if "Avalanching Aussa" is removed from your side of the field.
 

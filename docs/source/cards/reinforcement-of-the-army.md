@@ -1,4 +1,4 @@
-# REINFORCEMENT OF THE ARMY
+# Reinforcement Of The Army
 
 > Add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand.
 

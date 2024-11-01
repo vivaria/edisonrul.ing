@@ -1,4 +1,4 @@
-# AGAINST THE WIND
+# Against The Wind
 
 > Select 1 "Blackwing" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.
 

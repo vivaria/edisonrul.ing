@@ -1,4 +1,4 @@
-# WATER DRAGON
+# Water Dragon
 
 *   When this card on the field is destroyed and sent to the Graveyard, its Optional Trigger Effect activates. You must have at least 2 “Hydrogeddon” and 1 “Oxygeddon” in your Graveyard to target, otherwise the effect will not activate. If you have 3 correct targets, the opponent can chain “Disappear” to remove from play 1 of the monsters, but the other 2 will still be Special Summoned.
 *   The effect of “Water Dragon” that activates when it is destroyed targets 2 “Hydrogeddon” and 1 “Oxygeddon” in the Graveyard.

@@ -1,4 +1,4 @@
-# UNION RIDER
+# Union Rider
 
 *   When you use "Union Rider"'s effect to equip a Union Monster to it, because the Union Monster was not equipped to "Union Rider" by the Union Monster's effect, the bonuses of the Union Monster are not applied, including the "If the monster that this card is equipped to is destroyed in battle, this card is destroyed instead." effect.
 *   You can only use the effect of "Union Rider" during your Main Phase 1 or 2.

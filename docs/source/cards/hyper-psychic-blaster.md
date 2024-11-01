@@ -1,4 +1,4 @@
-# HYPER PSYCHIC BLASTER
+# Hyper Psychic Blaster
 
 > ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks a Defense Position monster whose DEF is lower than the ATK of this card, gain Life Points equal to the difference at the end of the Damage Step.
 

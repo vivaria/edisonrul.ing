@@ -1,4 +1,4 @@
-# DESTINY HERO - DREADMASTER
+# Destiny Hero - Dreadmaster
 
 *   “Destiny Hero – Dreadmaster’s” second sentence is applied if he is Special Summoned by any method, not just by the effect of “Clock Tower Prison”.
 *   “Destiny Hero – Dreadmaster’s” first effect (to destroy your non-“Destiny Hero” monsters and Special Summon 2 “Destiny Hero” monsters) is a Trigger Effect and his other effects are Continuous Effects.

@@ -1,4 +1,4 @@
-# BATTLE TUTORS (Mystic Tomato, Shining Angel, UFO Turtle, Mother Grizzly, Flying Kaminari #1, Giant Rat, Pyramid Turtle, etc)
+# Battle Tutors (Mystic Tomato, Shining Angel, Ufo Turtle, Mother Grizzly, Flying Kaminari #1, Giant Rat, Pyramid Turtle, Etc)
 
 > When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \[Attribute or Type\] monster with \[specified ATK / specified DEF / specified Level\] in \[Battle Position\].
 

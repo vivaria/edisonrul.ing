@@ -1,4 +1,4 @@
-# CALL OF THE MUMMY
+# Call Of The Mummy
 
 *   When you activate the effect of "Call of the Mummy", you can Special Summon a high-level monster from your hand like "Giant Axe Mummy" or "Vampire Lord", but not a Special Summon-only monster like "Fushioh Richie".
 *   You can only activate "Call of the Mummy"’s effect during your Main Phase.

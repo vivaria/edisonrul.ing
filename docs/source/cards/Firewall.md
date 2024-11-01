@@ -1,4 +1,4 @@
-# FIREWALL
+# Firewall
 
 *   Removing from play 1 Pyro-Type monster in your Graveyard is a cost to activate this card’s effect.
 *   Paying 500 Life Points during your Standby Phase does not start a Chain.

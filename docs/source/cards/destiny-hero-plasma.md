@@ -1,4 +1,4 @@
-# DESTINY HERO - PLASMA
+# Destiny Hero - Plasma
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by Tributing 3 monsters you control. ① Once per turn, select your opponent's monster and equip it to this card (you can only equip 1 monster at a time to this card). ② This card gains equal to half of the ATK of the equipped monster. ③ While this card is face-up on the field, negate all the effect of face-up effect monster your opponent controls.
 

@@ -1,4 +1,4 @@
-# DOPPELGANGER
+# Doppelganger
 
 *   “Doppelganger’s” effect starts a Chain after the effect that inflicted damage resolves.
 *   If you take damage from two or more effects in the same Chain, “Doppelganger’s” effect will activate once for each of those effects after the Chain resolves. Then, “Doppelganger’s” effects will form a new Chain.

@@ -1,4 +1,4 @@
-# ARCANA FORCE VII - THE CHARIOT
+# Arcana Force VII - The Chariot
 
 > ① When this card is Summoned, toss a coin: ● Heads: If this card destroys an opponent's monster by battle, you can Special Summon that monster to your side of the field. ● Tails: Your opponent gains control of this card.
 

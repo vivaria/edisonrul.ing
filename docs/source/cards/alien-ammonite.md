@@ -1,4 +1,4 @@
-# ALIEN AMMONITE
+# Alien Ammonite
 
 > ① When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower "Alien" monster from your Graveyard. Destroy it during the End Phase.
 

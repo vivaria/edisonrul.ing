@@ -1,4 +1,4 @@
-# GAAP THE DIVINE SOLDIER
+# Gaap The Divine Soldier
 
 > ① All monsters are changed to face-up Attack Position, and their battle positions cannot be changed. (Flip Effects are not activated at this time.) ② Once per turn, you can reveal any number of Fiend-Type monsters in your hand to give this card 300 ATK for each revealed card, until the End Phase.
 

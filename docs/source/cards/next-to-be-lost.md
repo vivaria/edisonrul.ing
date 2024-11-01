@@ -1,4 +1,4 @@
-# NEXT TO BE LOST
+# Next To Be Lost
 
 *   You can target a Limited monster with “Next to be Lost”, but you don’t search or shuffle your Deck. Essentially, there is no effect.
 *   You cannot target a Token Monster with “Next to be Lost” because they cannot exist in your Deck.

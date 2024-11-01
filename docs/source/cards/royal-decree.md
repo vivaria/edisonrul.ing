@@ -1,4 +1,4 @@
-# ROYAL DECREE
+# Royal Decree
 
 > Negate the effects of all other Trap Cards on the field.
 

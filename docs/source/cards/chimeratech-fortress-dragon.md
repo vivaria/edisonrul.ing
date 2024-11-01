@@ -1,4 +1,4 @@
-# CHIMERATECH FORTRESS DRAGON
+# Chimeratech Fortress Dragon
 
 > “Cyber Dragon” + 1 or more Machine-Type monsters_
 _Ⓒ This monster cannot be used as a Fusion Material monster. Ⓢ You can only Special Summon this card from your Extra Deck by sending the above cards from either side of the field to the Graveyard. (You do not use “Polymerization”.) ① The original ATK of this card is equal to 1000 x the number of Fusion Material Monsters used to Special Summon it.

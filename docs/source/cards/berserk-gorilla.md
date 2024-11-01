@@ -1,4 +1,4 @@
-# BERSERK GORILLA
+# Berserk Gorilla
 
 *   If a face-down "Berserk Gorilla" is attacked and flipped face-up, it's destroyed after damage calculation.
 *   If a face-down "Berserk Gorilla" is flipped face-up by "Swords of Revealing Light", it's destroyed after resolving "Swords of Revealing Light".

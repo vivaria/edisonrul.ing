@@ -1,4 +1,4 @@
-# SNAKE WHISTLE
+# Snake Whistle
 
 *   This card can be activated when a Reptile-Type monster you control is destroyed by a Spell, Trap, or Monster effect. "Snake Whistle" cannot be activated in the Damage Step.
 *   You can only activate this card if the Reptile-Type monster’s destruction is the last thing to occur in a chain. This is similar to the activation timing for both “Dark Magician of Chaos” and “Peten the Dark Clown.”

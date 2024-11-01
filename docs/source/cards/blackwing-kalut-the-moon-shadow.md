@@ -1,4 +1,4 @@
-# BLACKWING - KALUT THE MOON SHADOW
+# Blackwing - Kalut The Moon Shadow
 
 > When a "Blackwing" monster you control attacks or is attacked, you can send this card from your hand to the Graveyard during the Damage Step to have that monster gain 1400 ATK until the End Phase.
 

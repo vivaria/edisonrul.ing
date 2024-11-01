@@ -1,4 +1,4 @@
-# GLADIATOR BEAST HOPLOMUS
+# Gladiator Beast Hoplomus
 
 > ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, its original DEF is 2400. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Hoplomus".
 

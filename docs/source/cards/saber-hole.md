@@ -1,4 +1,4 @@
-# SABER HOLE
+# Saber Hole
 
 > Activate only while you control a face-up "X-Saber" monster. Negate the Summon of a monster, and destroy it.
 

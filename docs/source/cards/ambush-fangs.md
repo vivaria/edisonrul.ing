@@ -1,4 +1,4 @@
-# AMBUSH FANGS
+# Ambush Fangs
 
 > Activate only when a face-up "Venom" monster you control is declared as an attack target. Negate the attack and end the Battle Phase. Then place 1 Venom Counter on the monster that attacked.
 

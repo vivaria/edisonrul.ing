@@ -1,4 +1,4 @@
-# CYBER VALLEY
+# Cyber Valley
 
 > You can use 1 of the following 3 effects:_
 __① When this card is selected as an attack target by an opponent’s monster, you can remove this card from play to draw 1 card and end the Battle Phase._  

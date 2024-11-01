@@ -1,4 +1,4 @@
-# BEASTKING OF THE SWAMPS
+# Beastking Of The Swamps
 
 > ① You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster(s) must be the correct one(s).
 

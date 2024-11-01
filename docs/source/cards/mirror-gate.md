@@ -1,4 +1,4 @@
-# MIRROR GATE
+# Mirror Gate
 
 *   This card does not target.
 *   If your "Elemental Hero" monster is in Defense Position, calculate damage as normal, using its DEF.

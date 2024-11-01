@@ -1,4 +1,4 @@
-# THE BIG MARCH OF ANIMALS
+# The Big March Of Animals
 
 *   “The Big March of Animals” applies its effect at resolution of the card and does not recalculate during the turn. Its effect lasts as long as the affected monsters remain face-up on the field, or until the End Phase.
 *   “The Big March of Animals” does not affect monsters Summoned after it resolves.

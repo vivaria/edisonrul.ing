@@ -1,4 +1,4 @@
-# THE SPELL ABSORBING LIFE
+# The Spell Absorbing Life
 
 *   The "Spell Absorbing Life" is like "Ceasefire" except it gives you Life Points instead of damaging your opponent.
 *   You can activate "The Spell Absorbing Life" as long as there is at least 1 face-down monster on the field, OR there is at least 1 effect monster on the field (or both).

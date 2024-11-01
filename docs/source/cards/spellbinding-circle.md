@@ -1,4 +1,4 @@
-# SPELLBINDING CIRCLE
+# Spellbinding Circle
 
 *   The Battle Position of a monster targeted by this card can still be changed by card effects, such as "Book of Moon", "Stop Defense", etc.
 *   This card may select a face-down monster as a target. This prevents the monster from being Flip Summoned, but it will still be flipped face-up if it is the target of an attack.

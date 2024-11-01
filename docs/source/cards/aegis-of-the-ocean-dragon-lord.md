@@ -1,4 +1,4 @@
-# AEGIS OF THE OCEAN DRAGON LORD
+# Aegis Of The Ocean Dragon Lord
 
 > Until the End Phase of this turn, face-up Level 3 or lower WATER monsters you control cannot be destroyed by battle or by card effects.
 

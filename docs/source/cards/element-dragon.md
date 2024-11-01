@@ -1,4 +1,4 @@
-# ELEMENT DRAGON
+# Element Dragon
 
 *   If a FIRE and a WIND monster are on the field, you get both effects.
 *   If there are 2 FIRE monsters on the field, Element Dragon’s ATK is 2000 (it only gets the +500 ATK bonus once, no matter how many FIRE monsters are on the field).

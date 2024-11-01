@@ -1,4 +1,4 @@
-# BRAIN RESEARCH LAB
+# Brain Research Lab
 
 > ① Once per turn, you can Normal Summon 1 Psychic-Type monster in addition to your Normal Summon or Set. ② If successful, place 1 Psychic Counter on this card. ③ You can also place 1 Psychic Counter on this card instead of paying Life Points to activate any Psychic-Type monster's effect that you control. ④ When this card is removed from the field, the controller of this card takes 1000 damage for each Psychic Counter on it.
 

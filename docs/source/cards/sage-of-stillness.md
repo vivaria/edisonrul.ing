@@ -1,4 +1,4 @@
-# SAGE OF STILLNESS
+# Sage Of Stillness
 
 *   This effect activates at the same time that the monster destroyed by battle is sent to the Graveyard.
 *   This effect will activate even if this card destroys a Monster Token, because the text does not require the destroyed monster to be sent to the Graveyard.

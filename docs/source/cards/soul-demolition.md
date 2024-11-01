@@ -1,4 +1,4 @@
-# SOUL DEMOLITION
+# Soul Demolition
 
 *   If either player has no monsters in their Graveyard, the effect of this card cannot be activated.
 *   If "Kycoo the Ghost Destroyer" is on the field, the effect of this card cannot be activated.

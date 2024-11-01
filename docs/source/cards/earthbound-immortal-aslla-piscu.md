@@ -1,4 +1,4 @@
-# EARTHBOUND IMMORTAL ASLLA PISCU
+# Earthbound Immortal Aslla Piscu
 
 *   If you control an Earthbound Immortal and no other monsters, your opponent cannot attack you, because they cannot select the Earthbound Immortal as an attack target. (Exception: they can attack with monsters that can attack directly, such as “Submarineroid.”)
 *   If the only Earthbound Immortal on the field is an Equip Spell Card, it is not treated as a monster so you can Summon an Earthbound Immortal.

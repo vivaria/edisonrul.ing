@@ -1,4 +1,4 @@
-# POT OF GENEROSITY
+# Pot Of Generosity
 
 *   You return cards to the Deck when you resolve the effect (it’s not a cost).
 *   You cannot activate “Pot of Generosity” if you have only 1 card in your hand besides “Pot of Generosity”.

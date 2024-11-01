@@ -1,4 +1,4 @@
-# BEAST SOUL SWAP
+# Beast Soul Swap
 
 *   The Beast-Type monster is Special Summoned from your hand.
 *   You can Special Summon the same Beast-Type monster you returned to your hand with the same effect of "Beast Soul Swap".

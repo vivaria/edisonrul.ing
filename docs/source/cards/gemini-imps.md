@@ -1,4 +1,4 @@
-# GEMINI IMPS
+# Gemini Imps
 
 *   The effect of “Gemini Imps” can only be activated in immediate response to your opponent’s card effect that will cause you to discard card(s) from your hand.
 *   You cannot activate the effect of “Gemini Imps” in response to effects that “send” cards in your hand to the Graveyard, like “Chaos Emperor Dragon – Envoy of the End”.

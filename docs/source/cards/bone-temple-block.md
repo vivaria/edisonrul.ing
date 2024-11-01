@@ -1,4 +1,4 @@
-# BONE TEMPLE BLOCK
+# Bone Temple Block
 
 *   Discarding a card is part of the resolution of “Bone Temple Block.”
 *   The effects of “Bone Temple Block” happen in sequence, so if you discard “Archfiend of Gilfer,” it will miss the timing on and not activate its effect.

@@ -1,4 +1,4 @@
-# HAND DESTRUCTION
+# Hand Destruction
 
 > Each player sends 2 cards from their hand to the Graveyard and draws 2 cards.
 

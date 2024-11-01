@@ -1,4 +1,4 @@
-# AMAZONESS CHAIN MASTER
+# Amazoness Chain Master
 
 > ① When this card is destroyed by battle and sent to the Graveyard, you can pay 1500 Life Points to look at your opponent's hand, select 1 Monster Card in it, and add that card to your hand.
 

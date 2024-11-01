@@ -1,4 +1,4 @@
-# THE LAW OF THE NORMAL
+# The Law Of The Normal
 
 *   The "Law of the Normal" includes Tokens.
 *   The "Law of the Normal" also destroys all Spell & Trap Cards.

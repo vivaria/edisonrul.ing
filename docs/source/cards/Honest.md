@@ -1,4 +1,4 @@
-# HONEST
+# Honest
 
 > ① During your Main Phase, you can return this card from the field to its owner’s hand. ② During either player’s Damage Step, when a face-up LIGHT monster you control battles, you can send this card from your hand to the Graveyard to have that monster gain ATK equal to the ATK of the opponent’s monster it is battling, until the End Phase.
 

@@ -1,4 +1,4 @@
-# GIANT KOZAKY
+# Giant Kozaky
 
 *   The first part of “Giant Kozaky” is a Continuous Effect that does not start a chain. The second part is a Trigger Effect that can be chained to.
 *   You can chain “Barrel Behind the Door” to the Trigger Effect (the damage) of “Giant Kozaky”.

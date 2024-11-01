@@ -1,4 +1,4 @@
-# AMAZONESS BLOWPIPER
+# Amazoness Blowpiper
 
 > ① Select 1 face-up monster on your opponent's side of the field during each of your Standby Phases. Decrease the ATK of the selected monster by 500 points until the end of this turn.
 

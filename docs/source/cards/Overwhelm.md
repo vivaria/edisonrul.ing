@@ -1,4 +1,4 @@
-# OVERWHELM
+# Overwhelm
 
 > Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.
   

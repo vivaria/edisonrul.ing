@@ -1,4 +1,4 @@
-# IRON CORE OF KOA’KI MEIRU
+# Iron Core Of Koa’Ki Meiru
 
 *   Both effects of “Iron Core of Koa’ki Meiru” start a chain.
 *   Sending a “Koa’ki Meiru” monster to the Graveyard is a cost to activate the second effect.

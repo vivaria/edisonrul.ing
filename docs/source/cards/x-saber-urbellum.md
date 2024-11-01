@@ -1,4 +1,4 @@
-# X-SABER URBELLUM
+# X-Saber Urbellum
 
 > ①_ _When this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.
 

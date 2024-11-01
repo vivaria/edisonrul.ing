@@ -1,4 +1,4 @@
-# TALISMAN OF TRAP SEALING
+# Talisman Of Trap Sealing
 
 *   While "Imperial Order" and "Talisman of Trap Sealing" are both active, and "Sealmaster Meisei" is removed from the field, "Talisman of Trap Sealing" stays on the field, but if "Imperial Order"'s effect is no longer being applied, "Talisman of Trap Sealing" is destroyed.
 *   "Talisman of Trap Sealing" is destroyed immediately when "Sealmaster Meisei" is not on the field. If your opponent chains "Ring of Destruction" to "Talisman of Trap Sealing" to destroy "Sealmaster Meisei", "Talisman of Trap Sealing" is immediately destroyed when "Ring of Destruction" resolves.

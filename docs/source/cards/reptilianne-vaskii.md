@@ -1,4 +1,4 @@
-# REPTILIANNE VASKII
+# Reptilianne Vaskii
 
 *   “Reptilianne Vaskii” cannot be Special Summoned except from your hand by the method written on the card.
 *   The effect to destroy 1 face-up monster targets that monster.

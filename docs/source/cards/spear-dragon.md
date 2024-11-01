@@ -1,4 +1,4 @@
-# SPEAR DRAGON
+# Spear Dragon
 
 *   If "Spear Dragon" attacks, even if the damage is reduced to 0 by the effect of "Waboku" or "Kuriboh", it is still changed to Defense Position.
 *   "Spear Dragon" will change to Defense Position after it attacks, regardless of the battle position of the opponent’s monster.

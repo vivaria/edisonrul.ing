@@ -1,4 +1,4 @@
-# MACHINE KING – 3000 B.C.
+# Machine King – 3000 B.C.
 
 *   Tributing a monster is a cost.
 *   You cannot Tribute this card to activate its effect.

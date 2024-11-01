@@ -1,4 +1,4 @@
-# MACHINE DUPLICATION
+# Machine Duplication
 
 > Select 1 face-up Machine-Type monster you control with 500 or less ATK. You can Special Summon up to 2 cards with the same name from your Deck.
 

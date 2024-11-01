@@ -1,4 +1,4 @@
-# ANCIENT GEAR FACTORY
+# Ancient Gear Factory
 
 > Select 1 "Ancient Gear" monster in your hand and show it to your opponent. Remove from play "Ancient Gear" cards in your Graveyard whose total Levels are equal to double the selected card's. You can Normal Summon the selected card without Tributes this turn.
 

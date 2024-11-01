@@ -1,4 +1,4 @@
-# BLACKWING - ARMOR MASTER
+# Blackwing - Armor Master
 
 > ① This card cannot be destroyed by battle, and you take no Battle Damage from battles involving this card. ② If this card attacks a monster, you can place 1 Wedge Counter on that monster at the end of the Damage Step (max. 1). ③ You can remove all Wedge Counters from your opponent's monsters to reduce the ATK and DEF of each monster that had a Wedge Counter to 0, until the End Phase.
 

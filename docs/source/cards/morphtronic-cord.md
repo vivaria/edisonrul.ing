@@ -1,4 +1,4 @@
-# MORPHTRONIC CORD
+# Morphtronic Cord
 
 *   "Morphtronic Cord"'s effect targets 1 Spell or Trap Card.
 *   "Morphtronic Cord"'s effect is mandatory. If it is the only Spell or Trap Card on the field when the equipped "Morphtronic" monster's Battle Position is changed, it must target itself with its effect.

@@ -1,4 +1,4 @@
-# DARK NEPHTHYS
+# Dark Nephthys
 
 *   "Dark Nephthys'" first effect is an Ignition Effect. Removing DARK monsters from play is a cost.
 *   You can activate "Dark Nephthys'" first effect while "Banisher of the Light" or "Macro Cosmos" is face-up, but "Dark Nephthys" will be removed from play.

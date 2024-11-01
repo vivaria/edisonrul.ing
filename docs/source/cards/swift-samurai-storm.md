@@ -1,4 +1,4 @@
-# SWIFT SAMURAI STORM!
+# Swift Samurai Storm!
 
 *   You cannot activate this card during the Damage Step.
 *   This card’s ATK increasing effect does not start a Chain.

@@ -1,4 +1,4 @@
-# GRADIUS' OPTION
+# Gradius' Option
 
 *   The ATK/DEF of "Gradius’ Option" is the same as the current ATK/DEF of the selected "Gradius", not the original ATK/DEF. So if you equip "Axe of Despair" to "Gradius", the ATK of "Gradius’ Option" will also increase by 1000 points.
 *   Equipping "Axe of Despair" to "Gradius’ Option" has no purpose. Activating "Reinforcements" targeting "Gradius’ Option" serves no purpose. "Luminous Spark" on the field will not change the ATK/DEF of "Gradius’ Option". It always has the same ATK/DEF of the selected "Gradius".

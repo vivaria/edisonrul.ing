@@ -1,4 +1,4 @@
-# CHAOS COMMAND MAGICIAN
+# Chaos Command Magician
 
 *   "Chaos Command Magician" must be face-up to negate a monster effect; if face-down then "Chaos Command Magician" will not negate any effects.
 *   When "Chaos Command Magician" is targeted by a card that doesn't select only 1 target, the effect of "Chaos Command Magician" is NOT applied and the effect resolves as normal.

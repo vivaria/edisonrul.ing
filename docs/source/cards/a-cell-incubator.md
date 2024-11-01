@@ -1,4 +1,4 @@
-# 'A' CELL INCUBATOR
+# 'A' Cell Incubator
 
 > ① Each time an A-Counter(s) is removed from play by a card effect, place 1 A-Counter on this card. ② When this card is destroyed, distribute the A-Counters on this card among face-up monsters.
 

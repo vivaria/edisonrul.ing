@@ -1,4 +1,4 @@
-# MORALE BOOST
+# Morale Boost
 
 *   If "Morale Boost" and other Equip Spell Cards are destroyed at the same time with "Harpie's Feather Duster" or "Heavy Storm", "Morale Boost" does not inflict any damage.
 *   While your "Morale Boost" is active, and you activate your opponent's Equip Spell Card that you had because of "Exchange", when that Equip Spell Card is removed from the field it is you that takes the damage.

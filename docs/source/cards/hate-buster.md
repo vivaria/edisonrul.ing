@@ -1,4 +1,4 @@
-# HATE BUSTER
+# Hate Buster
 
 *   "Hate Buster" targets the attacking monster and the Fiend-Type Monster being attacked.
 *   If your Fiend-Type Monster isn't destroyed by "Hate Buster", you do not inflict damage to your opponent's Life Points.

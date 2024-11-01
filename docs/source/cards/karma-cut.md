@@ -1,4 +1,4 @@
-# KARMA CUT
+# Karma Cut
 
 > Discard 1 card. Remove from play 1 face-up monster your opponent controls. Then, remove from play any cards in your opponent's Graveyard with the same name as that monster.
 

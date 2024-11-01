@@ -1,4 +1,4 @@
-# DARKNESS APPROACHES
+# Darkness Approaches
 
 > ① Discard 2 cards from your hand. Select 1 face-up monster and flip it face-down, but do not change its battle position.
 

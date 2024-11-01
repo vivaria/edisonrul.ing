@@ -1,4 +1,4 @@
-# GIANT RAT
+# Giant Rat
 
 *   If you attack with your "Giant Rat" and it is destroyed as a result of battle, you may attack with the monster Special Summoned by "Giant Rat" before entering Main Phase 2.
 *   If your opponent controls your "Giant Rat" and it is destroyed as a result of battle, you get the effect of "Giant Rat" NOT your opponent.

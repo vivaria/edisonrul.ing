@@ -1,4 +1,4 @@
-# DUPE FROG
+# Dupe Frog
 
 > ① This card's name is treated as "Des Frog" while it is face-up on the field. ② Your opponent cannot select another monster as an attack target. ③ When this card is sent from the field to the Graveyard, you can add 1 "Frog" monster except "Dupe Frog" or "Frog the Jam" from your Deck or Graveyard to your hand.
 

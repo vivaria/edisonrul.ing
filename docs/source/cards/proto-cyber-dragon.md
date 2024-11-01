@@ -1,4 +1,4 @@
-# PROTO-CYBER DRAGON
+# Proto-Cyber Dragon
 
 *   If “Skill Drain” is active, this card is no longer treated as “Cyber Dragon”. You could not use it for “Attack Reflector Unit”, etc.
 *   You can have 3 “Cyber Dragon” and 3 “Proto-Cyber Dragon” in your Deck and Side Deck combined.

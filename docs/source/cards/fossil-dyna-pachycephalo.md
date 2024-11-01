@@ -1,4 +1,4 @@
-# FOSSIL DYNA PACHYCEPHALO
+# Fossil Dyna Pachycephalo
 
 > ① Neither player can Special Summon monsters. ② When this card is flipped face-up, destroy all Special Summoned monsters on the field.
 

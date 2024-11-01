@@ -1,4 +1,4 @@
-# ELEMENTAL HERO WILDHEART
+# Elemental Hero Wildheart
 
 > ① This card is unaffected by the effects of Trap Cards.
 

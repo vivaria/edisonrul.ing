@@ -1,4 +1,4 @@
-# BARK OF DARK RULER
+# Bark Of Dark Ruler
 
 > You can only activate this card during the Damage Step of a Battle Phase if a Fiend-Type monster on your side of the field battles. Pay Life Points (in multiples of 100 points) to decrease 1 of your opponent's monster's ATK and DEF by the same amount of points until End Phase of that turn.
 

@@ -1,4 +1,4 @@
-# POWER TOOL DRAGON
+# Power Tool Dragon
 
 > ① Once per turn, during your Main Phase, you can select 3 Equip Spell Cards from your Deck, have your opponent pick 1 of them at random, and add it to your hand. Return the remaining cards to your Deck. ② If this card would be destroyed while equipped with an Equip Spell Card, you can send that card to the Graveyard instead.
 

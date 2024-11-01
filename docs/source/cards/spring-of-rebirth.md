@@ -1,4 +1,4 @@
-# SPRING OF REBIRTH
+# Spring Of Rebirth
 
 *   Only the controller of "Spring of Rebirth" gains Life Points by its effect. If you control "Spring of Rebirth", you gain Life Points even when a monster is returned to your opponent’s hand.
 *   You gain 500 Life Points each time a monster or monsters on the field are returned to their owner’s hand. So if "Penguin Soldier" returns two monsters at once, you only gain 500 Life Points.

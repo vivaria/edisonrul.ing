@@ -1,4 +1,4 @@
-# GUARD PENALTY
+# Guard Penalty
 
 *   You can only draw 1 card from “Guard Penalty’s” effect. You draw 1 card the first time the selected monster is changed to Defense Position. Drawing the 1 card cannot be chained to.
 *   “Guard Penalty’s” effect must resolve before the selected monster is changed to Defense Position. If the opponent chains “Enemy Controller” to change the selected monster’s position, you will not draw a card.

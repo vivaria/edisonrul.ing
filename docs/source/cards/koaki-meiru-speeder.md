@@ -1,4 +1,4 @@
-# KOA’KI MEIRU SPEEDER
+# Koa’Ki Meiru Speeder
 
 *   Revealing “Iron Core of Koa’ki Meiru” is a cost to activate this effect.
 *   You can activate this effect once for each “Iron Core of Koa’ki Meiru” you draw during the Draw Phase.

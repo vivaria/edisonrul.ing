@@ -1,4 +1,4 @@
-# CYBER ELTANIN
+# Cyber Eltanin
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by removing from play all face-up LIGHT Machine-Type monsters from your side of the field and your Graveyard. ① This card's ATK and DEF are equal to the number of monsters removed from play for its Special Summon x 500. ② When this card is Special Summoned, send all other face-up monsters on the field to the Graveyard.
 

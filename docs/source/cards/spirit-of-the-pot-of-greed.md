@@ -1,4 +1,4 @@
-# SPIRIT OF THE POT OF GREED
+# Spirit Of The Pot Of Greed
 
 *   "Spirit of the Pot of Greed"'s effect does not chain to "Pot of Greed"; instead, you activate it after "Pot of Greed" resolves.
 *   "Spirit of the Pot of Greed" must be face-up on the field to resolve its effect; if "Book of Moon" is chained to "Pot of Greed" or to the effect of "Spirit of the Pot of Greed", "Spirit of the Pot of Greed"'s effect is negated.

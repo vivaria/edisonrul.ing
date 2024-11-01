@@ -1,4 +1,4 @@
-# SYNCHRO CONTROL
+# Synchro Control
 
 *   Paying 1000 Life Points is a cost.
 *   This targets your opponent’s Synchro Monster.

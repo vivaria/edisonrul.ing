@@ -1,4 +1,4 @@
-# BARRIER STATUE OF THE DROUGHT
+# Barrier Statue Of The Drought
 
 > ① Neither player can Special Summon monsters, except EARTH monsters.
 

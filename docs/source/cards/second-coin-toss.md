@@ -1,4 +1,4 @@
-# SECOND COIN TOSS
+# Second Coin Toss
 
 *   The effect of this card only applies when you perform a coin toss, not when your opponent performs a coin toss.
 *   If an effect requires multiple coin flips, like "Barrel Dragon", you would redo all 3 coin flips.

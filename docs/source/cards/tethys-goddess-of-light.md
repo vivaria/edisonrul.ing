@@ -1,4 +1,4 @@
-# TETHYS, GODDESS OF LIGHT
+# Tethys, Goddess Of Light
 
 > ① When you draw a Fairy-Type monster(s), you can reveal 1 of those monsters to draw 1 more card.
 

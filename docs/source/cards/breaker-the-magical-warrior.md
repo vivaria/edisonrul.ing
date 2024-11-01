@@ -1,4 +1,4 @@
-# BREAKER THE MAGICAL WARRIOR
+# Breaker The Magical Warrior
 
 *   Placing a Spell Counter on "Breaker, the Magical Warrior" is a chain that begins after it is Summoned. If your opponent chains "Trap Hole" or "Ring of Destruction" to the placement of a Spell Counter on "Breaker, the Magical Warrior", "Trap Hole" / "Ring of Destruction" resolves before the Spell Counter is placed on "Breaker, the Magical Warrior", so you cannot chain "Breaker, the Magical Warrior"'s effect.
 *   "Breaker, the Magical Warrior"'s effect is Spell Speed 1 so you cannot chain it to the activation of a Spell Card.

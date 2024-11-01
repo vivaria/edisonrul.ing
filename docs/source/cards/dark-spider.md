@@ -1,3 +1,3 @@
-# DARK SPIDER
+# Dark Spider
 
 *   This effect targets.

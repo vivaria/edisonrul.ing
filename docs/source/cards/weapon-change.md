@@ -1,4 +1,4 @@
-# WEAPON CHANGE
+# Weapon Change
 
 *   "Weapon Change" applies to the current ATK & DEF.
 *   "Weapon Change"'s effect targets 1 monster. You select the monster when you activate "Weapon Change"'s effect.

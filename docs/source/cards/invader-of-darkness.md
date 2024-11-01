@@ -1,4 +1,4 @@
-# INVADER OF DARKNESS
+# Invader Of Darkness
 
 > ① While this card is face-up on the field, your opponent cannot activate Quick-Play Spell Cards.
 

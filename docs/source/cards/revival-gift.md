@@ -1,4 +1,4 @@
-# REVIVAL GIFT
+# Revival Gift
 
 *   This card targets 1 Tuner monster in your Graveyard.
 *   “Revival Gift” only negates the Tuner monster’s effects that activate on the field. If you Special Summon “Sinister Sprocket” and use it as a Synchro Material Monster, its effect will activate in the Graveyard.

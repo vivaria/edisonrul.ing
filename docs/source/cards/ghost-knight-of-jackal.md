@@ -1,4 +1,4 @@
-# GHOST KNIGHT OF JACKAL
+# Ghost Knight Of Jackal
 
 *   "Ghost Knight of Jackal"'s effect activates when you send a monster to the Graveyard.
 *   If your "Ghost Knight of Jackal" attacks a face-down "Jowls of Dark Demise", your opponent takes control of "Ghost Knight of Jackal" at the time that "Jowls of Dark Demise" is sent to the Graveyard, and "Ghost Knight of Jackal"'s effect disappears.

@@ -1,4 +1,4 @@
-# LIGHT AND DARKNESS DRAGON
+# Light And Darkness Dragon
 
 > Ⓒ This card cannot be Special Summoned. ① While this card is face-up on the field its Attribute is also treated as DARK. ② When a Spell or Trap Card is activated, or the effect of an Effect Monster is activated, that activation is negated and this card loses 500 ATK and DEF. ③ When this card is destroyed and sent to the Graveyard, select 1 monster in your Graveyard. Then destroy all cards you control, and Special Summon that monster.
 

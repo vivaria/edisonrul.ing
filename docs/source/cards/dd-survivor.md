@@ -1,4 +1,4 @@
-# D.D. SURVIVOR
+# D.D. Survivor
 
 > ① When this card is removed from play while face-up on your side of the field, you Special Summon it during the End Phase.
 

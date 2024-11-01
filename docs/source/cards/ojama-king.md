@@ -1,4 +1,4 @@
-# OJAMA KING
+# Ojama King
 
 *   You cannot select occupied Monster Card Zones with "Ojama King"’s effect. If your opponent has 5 monsters on the field, then "Ojama King"’s effect is not applied.
 *   "Ojama King"’s effect activates and you select up to 3 Monster Card Zones when "Ojama King" becomes face-up on the field.

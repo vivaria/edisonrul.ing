@@ -1,4 +1,4 @@
-# ARMED NINJA
+# Armed Ninja
 
 > FLIP: Destroy 1 Spell Card on the field. If the card is face-down, look at the card and destroy it if it is a Spell Card. If it is a Trap Card, return it to its original position.
 

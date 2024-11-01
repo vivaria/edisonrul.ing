@@ -1,4 +1,4 @@
-# GOYO GUARDIAN
+# Goyo Guardian
 
 > 1 Tuner + 1 or more non-Tuner monsters._
 _① When this card destroys an opponent’s monster by battle and sends it to the Graveyard, you can Special Summon that monster to your side of the field in face-up Defense Position.

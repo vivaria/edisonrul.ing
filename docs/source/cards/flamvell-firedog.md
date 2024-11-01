@@ -1,4 +1,4 @@
-# FLAMVELL FIREDOG
+# Flamvell Firedog
 
 > ① When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except "Flamvell Firedog".
 

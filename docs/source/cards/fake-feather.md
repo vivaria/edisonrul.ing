@@ -1,4 +1,4 @@
-# FAKE FEATHER
+# Fake Feather
 
 *   Sending a “Blackwing” monster to the Graveyard is a cost to activate this effect.
 *   This effect targets 1 Normal Trap Card.

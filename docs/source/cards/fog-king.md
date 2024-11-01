@@ -1,4 +1,4 @@
-# FOG KING
+# Fog King
 
 > You can Normal Summon this card with 1 Tribute, or without a Tribute. ① The ATK of this card is equal to the combined original ATK of the monsters Tributed to Summon it. ② Neither player can Tribute monsters
 

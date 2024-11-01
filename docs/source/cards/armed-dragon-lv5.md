@@ -1,4 +1,4 @@
-# ARMED DRAGON LV5
+# Armed Dragon LV5
 
 > ① By sending 1 Monster Card from your hand to the Graveyard, destroy 1 face-up monster on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster. ② During the End Phase of a turn that this card destroyed a monster by battle, by sending this card to the Graveyard, Special Summon 1 "Armed Dragon LV7" from your hand or Deck.
 

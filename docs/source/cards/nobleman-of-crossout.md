@@ -1,4 +1,4 @@
-# NOBLEMAN OF CROSSOUT
+# Nobleman Of Crossout
 
 > ① Destroy 1 face-down monster and remove it from play. If the monster is a Flip Effect Monster, both players must remove from play all monsters from their Decks with the same name as the destroyed monster.
 

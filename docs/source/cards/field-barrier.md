@@ -1,4 +1,4 @@
-# FIELD BARRIER
+# Field Barrier
 
 *   You cannot activate a card with an effect like “Mystical Space Typhoon,” targeting a Field Spell Card while this card is in play.
 *   If a mandatory effect is activated that would destroy a Field Spell Card while this card is in play, that Field Spell Card is not destroyed.

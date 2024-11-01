@@ -1,4 +1,4 @@
-# BLADE KNIGHT
+# Blade Knight
 
 *   If you control "Blade Knight" and a face-down monster on your side of the field, "Blade Knight"’s second effect is not applied because you control another monster (whether it is face-up or face-down is not important).
 *   If you have two "Blade Knights", then their second effects are not applied because for each one, you have another monster on the field besides the "Blade Knight".

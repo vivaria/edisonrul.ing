@@ -1,4 +1,4 @@
-# TEST TIGER
+# Test Tiger
 
 > ① If you control a "Gladiator Beast" monster, you can Special Summon this card. ② You can Tribute this card to return 1 "Gladiator Beast" monster you control to the Deck, and then Special Summon 1 "Gladiator Beast" from your Deck. The Special Summoned monster is treated as if it was Special Summoned by the effect of a "Gladiator Beast" monster.
 

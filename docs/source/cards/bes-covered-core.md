@@ -1,4 +1,4 @@
-# B.E.S. COVERED CORE
+# B.E.S. Covered Core
 
 > ① When this card is Normal Summoned, put 2 counters on it. ② This card cannot be destroyed by battle. ③ If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. ④ If this card battles without a counter, destroy it at the end of the Damage Step.
 

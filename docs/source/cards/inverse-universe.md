@@ -1,4 +1,4 @@
-# INVERSE UNIVERSE
+# Inverse Universe
 
 *   After “Inverse Universe” resolves, monsters whose ATK and DEF are calculated or modified because of their own individual effects have their ATK and DEF “frozen” at the switched values.
 *   Examples: The ATK and DEF of “Tragoedia” will not change even if the number of cards in your hand changes. The ATK and DEF of “Gren Maju Da Eiza” will not change. The ATK and DEF of “Uria, Lord of Searing Flames” will not change. The ATK of “Arcanite Magician” will not change, even if the number of Spell Counters does.

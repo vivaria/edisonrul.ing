@@ -1,4 +1,4 @@
-# GRAVITY BIND
+# Gravity Bind
 
 > ① Level 4 and higher monsters cannot attack.
 

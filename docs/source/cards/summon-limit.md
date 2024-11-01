@@ -1,4 +1,4 @@
-# SUMMON LIMIT
+# Summon Limit
 
 > Neither player can Summon more than two times per turn.
 

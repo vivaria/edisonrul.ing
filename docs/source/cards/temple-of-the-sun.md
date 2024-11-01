@@ -1,4 +1,4 @@
-# TEMPLE OF THE SUN
+# Temple Of The Sun
 
 *   If a monster Special Summoned from the Graveyard is removed from play temporarily by “Interdimensional Matter Transporter” and then returned later, it still gains the bonus from “Temple of the Sun.”
 *   If your opponent Special Summons a monster from the Graveyard and you take control of it, it will gain the bonus from “Temple of the Sun” while you control it.

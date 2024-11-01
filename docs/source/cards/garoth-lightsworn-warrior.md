@@ -1,4 +1,4 @@
-# GAROTH, LIGHTSWORN WARRIOR
+# Garoth, Lightsworn Warrior
 
 > ① Each time a card(s) is sent from your Deck to the Graveyard by the effect of a "Lightsworn" monster you control, except "Garoth, Lightsworn Warrior", send the top 2 cards of your Deck to the Graveyard. Then, draw 1 card for each "Lightsworn" monster sent to the Graveyard by this effect.
 

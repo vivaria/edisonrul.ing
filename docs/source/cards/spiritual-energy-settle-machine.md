@@ -1,4 +1,4 @@
-# SPIRITUAL ENERGY SETTLE MACHINE
+# Spiritual Energy Settle Machine
 
 *   When this card is active, Spirit Monsters on both sides of the field do not return to their owner’s hand during the End Phase of the turn they were Summoned.
 *   Discarding 1 card during your End Phase is a maintenance cost and must be paid each turn. You may decide to not discard a card, and destroy this card instead.

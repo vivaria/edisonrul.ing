@@ -1,4 +1,4 @@
-# SPELL CHRONICLE
+# Spell Chronicle
 
 *   Sending every card in your hand to the Graveyard is a cost to activate "Spell Chronicle". The 5 Spell or Trap Cards are removed from play when "Spell Chronicle" resolves.
 *   "Spell Chronicle" cannot be activated when you have a combined total of 4 or less Spell and Trap Cards remaining in your Deck.

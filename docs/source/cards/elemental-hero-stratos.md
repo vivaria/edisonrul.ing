@@ -1,4 +1,4 @@
-# ELEMENTAL HERO STRATOS
+# Elemental Hero Stratos
 
 > ① When this card is Normal or Special Summoned, you can select and activate 1 of these effects:
 Ⓐ Destroy Spell or Trap Cards on the field up to the number of "Elemental Hero", "Destiny Hero" and "Evil Hero" monsters you control (not counting this card).  

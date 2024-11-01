@@ -1,4 +1,4 @@
-# FIRE PRINCESS
+# Fire Princess
 
 *   If you have 1 "Fire Princess" and 2 "Solemn Wishes" on the field, "Fire Princess"’s effect deals 1000 damage to your opponent when you draw. If you have 1 "Fire Princess" and 2 "Marie the Fallen One" in your Graveyard, "Fire Princess"’s effect deals 1000 damage to your opponent during your Standby Phase.
 *   If you have 2 "Fire Princesses" and 1 "Solemn Wishes" on the field, your opponent takes 1000 damage when you draw a card (and takes 2000 damage if you had 2 "Solemn Wishes" on the field instead of 1).

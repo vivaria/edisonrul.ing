@@ -1,4 +1,4 @@
-# BRIONAC, DRAGON OF THE ICE BARRIER
+# Brionac, Dragon Of The Ice Barrier
 
 > ① You can discard and number of cards to the Graveyard to return the same number of cards from the field to the hand.
 

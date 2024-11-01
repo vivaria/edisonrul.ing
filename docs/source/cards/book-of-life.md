@@ -1,4 +1,4 @@
-# BOOK OF LIFE
+# Book Of Life
 
 > Special Summon 1 Zombie-Type monster from your Graveyard and remove from play 1 monster from your opponent's Graveyard.
 

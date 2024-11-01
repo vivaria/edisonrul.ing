@@ -1,4 +1,4 @@
-# METAPHYSICAL REGENERATION
+# Metaphysical Regeneration
 
 This card's name has been changed to “SUPERNATURAL REGENERATION".
 

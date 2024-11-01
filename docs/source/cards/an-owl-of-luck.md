@@ -1,4 +1,4 @@
-# AN OWL OF LUCK
+# An Owl Of Luck
 
 > FLIP: Select 1 Field Spell Card from your Deck and place it on top of your Deck. If "Necrovalley" is on the field, you can add the selected Field Spell Card to your hand instead.
 

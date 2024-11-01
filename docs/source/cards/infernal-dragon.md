@@ -1,4 +1,4 @@
-# INFERNAL DRAGON
+# Infernal Dragon
 
 *   If "Infernal Dragon" attacks, and is then flipped face-down, it will not be destroyed during the End Phase. Even if it is flipped face-up again during the same turn, it will not be destroyed.
 *   If "Infernal Dragon" attacks, and control of it is switched to the opponent that turn, it will still be destroyed during the End Phase.

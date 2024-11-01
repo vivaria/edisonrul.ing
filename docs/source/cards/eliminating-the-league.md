@@ -1,4 +1,4 @@
-# ELIMINATING THE LEAGUE
+# Eliminating The League
 
 *   Discarding a Spell Card is a cost to activate this card.
 *   This effect targets the opponent’s monster.

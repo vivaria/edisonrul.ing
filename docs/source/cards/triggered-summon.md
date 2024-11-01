@@ -1,4 +1,4 @@
-# TRIGGERED SUMMON
+# Triggered Summon
 
 *   You can choose not to Summon a monster when this card resolves.
 *   You can activate this card if you have no Level 4 or lower monster in your hand.

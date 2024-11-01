@@ -1,4 +1,4 @@
-# GORZ, THE EMISSARY OF DARKNESS
+# Gorz, The Emissary Of Darkness
 
 > ① When you take damage from a card your opponent controls while you control no cards, you can Special Summon this card from your hand. ② Then activate the appropriate effect based on the type of damage:
 (2A) Battle Damage: Special Summon 1 “Emissary of Darkness Token” (Fairy-Type/ LIGHT/ Level 7/ ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of battle damage you took.  

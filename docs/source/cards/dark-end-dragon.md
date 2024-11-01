@@ -1,4 +1,4 @@
-# DARK END DRAGON
+# Dark End Dragon
 
 > ① One per turn, you can have this card lose 500 ATK and DEF, and sent 1 monster your opponent controls to the Graveyard.
 

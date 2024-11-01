@@ -1,4 +1,4 @@
-# THE SIX SAMURAI - IROU
+# The Six Samurai - Irou
 
 > ① While you control another "Six Samurai" monster with a different name, if this card attacks a face-down Defense Position monster, destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 

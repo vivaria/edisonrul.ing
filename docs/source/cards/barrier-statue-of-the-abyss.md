@@ -1,4 +1,4 @@
-# BARRIER STATUE OF THE ABYSS
+# Barrier Statue Of The Abyss
 
 > ① Neither player can Special Summon monsters, except DARK monsters.
 

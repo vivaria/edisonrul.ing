@@ -1,4 +1,4 @@
-# REKINDLING
+# Rekindling
 
 > Special Summon from your Graveyard as many FIRE monsters as possible with 200 DEF. During the End Phase, remove from play all monsters that were Special Summoned by this effect.
 

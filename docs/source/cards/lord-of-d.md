@@ -1,4 +1,4 @@
-# LORD OF D.
+# Lord Of D.
 
 *   "Lord of D." cannot negate effects; he only prevents Dragon-Type monsters from being selected as targets of effects. Once a target has been selected, the effect of "Lord of D." is irrelevant.
 *   If your opponent activates "Ring of Destruction" targeting your "Lord of D." and you chain "D. Tribe" to change "Lord of D." to Dragon-Type, "Ring of Destruction" will still resolve and destroy "Lord of D." since he was selected as a target before he was changed into Dragon-Type. If your opponent activates "Ring of Destruction" targeting a Dragon-Type monster you control and you chain "Call of the Haunted" to Special Summon "Lord of D." from your Graveyard, your Dragon-Type monster is still destroyed for the same reason.

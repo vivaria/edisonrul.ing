@@ -1,4 +1,4 @@
-# SIX SAMURAI UNITED
+# Six Samurai United
 
 *   Placing a Bushido Counter onto "Six Samurai United" does not start a Chain.
 *   Sending "Six Samurai United" to the Graveyard is a cost to activate its effect.

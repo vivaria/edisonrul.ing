@@ -1,4 +1,4 @@
-# A HERO EMERGES
+# A Hero Emerges
 
 > You can only activate this card when your opponent declares an attack. Your opponent selects 1 random card from your hand. If it is a Monster Card, Special Summon it on your side of the field. If not, send it to the Graveyard.
 

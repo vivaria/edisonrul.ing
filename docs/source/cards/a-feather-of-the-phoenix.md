@@ -1,4 +1,4 @@
-# A FEATHER OF THE PHOENIX
+# A Feather Of The Phoenix
 
 > Discard 1 card. Select 1 card from your Graveyard and return it to the top of your Deck.
 

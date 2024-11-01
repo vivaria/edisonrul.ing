@@ -1,4 +1,4 @@
-# TIME PASSAGE
+# Time Passage
 
 *   This card targets 1 “Fortune Lady” monster you control.
 *   You cannot activate it during the Damage Step.

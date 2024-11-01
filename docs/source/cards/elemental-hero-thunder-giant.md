@@ -1,4 +1,4 @@
-# ELEMENTAL HERO THUNDER GIANT
+# Elemental Hero Thunder Giant
 
 *   The effect of “Elemental Hero Thunder Giant” targets a monster.
 *   Discarding a card for this effect is a cost.

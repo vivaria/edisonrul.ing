@@ -1,4 +1,4 @@
-# DEBRIS DRAGON
+# Debris Dragon
 
 > ① When this card is Normal Summoned, you can Special Summon 1 monster with 500 or less ATK from your Graveyard in Attack Position. That monster’s effect(s) is negated. Ⓒ This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Dragon-Type Synchro Monster. Ⓒ The other Synchro Material Monster(s) cannot be Level 4.
 

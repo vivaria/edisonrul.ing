@@ -1,4 +1,4 @@
-# DE-FUSION
+# De-Fusion
 
 *   Special Summoning the Fusion Material Monsters is an option. So you may use "De-Fusion" to return a Fusion Monster to its owner’s Extra Deck even if you have only 1 or none of the appropriate Fusion Material Monsters in your Graveyard.
 *   If you have only 1 of the Fusion Material Monsters in your Graveyard you cannot Special Summon it.

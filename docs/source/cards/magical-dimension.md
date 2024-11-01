@@ -1,4 +1,4 @@
-# MAGICAL DIMENSION
+# Magical Dimension
 
 *   Tributing a monster for “Magical Dimension” is not a cost; it’s part of the effect and happens when the effect resolves. If the effect of “Magical Dimension” is negated then you do not Tribute a monster.
 *   You don’t have to destroy a monster when using “Magical Dimension”; it’s optional. If you do choose to destroy a monster, then it’s resolved at the same time as the rest of “Magical Dimension’s” effect.

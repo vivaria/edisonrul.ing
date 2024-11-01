@@ -1,4 +1,4 @@
-# ABSOLUTE END
+# Absolute End
 
 > Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.
 

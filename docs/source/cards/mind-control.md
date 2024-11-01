@@ -1,4 +1,4 @@
-# MIND CONTROL
+# Mind Control
 
 > Take control of 1 monster your opponent controls until the End Phase. It cannot declare an attack or be Tributed.
 

@@ -1,4 +1,4 @@
-# CHAOS SORCERER
+# Chaos Sorcerer
 
 > This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by removing from play 1 LIGHT and 1 DARK monster in your Graveyard. ① Once per turn, during your Main Phase, you can remove from play 1 face-up monster on the field. Ⓒ If you activate this effect, this card cannot attack this turn.
 

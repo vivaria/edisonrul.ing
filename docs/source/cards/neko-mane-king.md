@@ -1,4 +1,4 @@
-# NEKO MANE KING
+# Neko Mane King
 
 > ① During your opponent's turn, when this card is sent to the Graveyard by the effect of your opponent's Spell, Trap, or Monster Card, your opponent's turn ends.
 

@@ -1,4 +1,4 @@
-# BLAST HELD BY A TRIBUTE
+# Blast Held By A Tribute
 
 *   When your opponent attacks with a monster that you Tribute Summoned, and your opponent took control of, you can activate "Blast Held by a Tribute".
 *   Monsters like "Tyrant Dragon" cannot negate the effect of "Blast Held by a Tribute".

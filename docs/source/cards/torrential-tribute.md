@@ -1,4 +1,4 @@
-# TORRENTIAL TRIBUTE
+# Torrential Tribute
 
 *   "Torrential Tribute" is activated after a monster is Summoned; it is not chained to the Summon. So you cannot activate "Torrential Tribute" when "Jinzo" is Summoned.
 *   "Torrential Tribute" can be activated after a monster is Summoned through another card’s effect, such as "Monster Reborn", "Scapegoat", "Cyber Jar" (if Flip Summoned), or "Call of the Haunted".

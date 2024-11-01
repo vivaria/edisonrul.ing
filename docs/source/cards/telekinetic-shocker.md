@@ -1,4 +1,4 @@
-# TELEKINETIC SHOCKER
+# Telekinetic Shocker
 
 *   Paying 500 Life Points is a cost.
 *   You pay 500 Life Points and destroy "Telekinetic Shocker" when a face-up Psychic-Type monster on the field would be destroyed, including a Psychic-Type monster your opponent controls. This effect does not use the Chain.

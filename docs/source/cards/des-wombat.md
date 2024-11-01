@@ -1,4 +1,4 @@
-# DES WOMBAT
+# Des Wombat
 
 *   “Des Wombat” even protects you against damage from your own card effects, like “Dark Snake Syndrome” or “Ring of Destruction”.
 *   “Des Wombat” even protects you against card effects where the damage is undecided at activation, like “Dice Jar”.

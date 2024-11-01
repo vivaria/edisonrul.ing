@@ -1,4 +1,4 @@
-# KOA'KI MEIRU DRAGO
+# Koa'Ki Meiru Drago
 
 > Ⓜ During each of your End Phases, destroy this card unless you send 1 “Iron Core of Koa’ki Meiru” from your hand to the Graveyard or reveal 1 Dragon-Type monster in your hand. ① LIGHT and DARK monsters cannot be Special Summoned.
 

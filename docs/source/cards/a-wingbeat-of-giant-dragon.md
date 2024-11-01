@@ -1,4 +1,4 @@
-# A WINGBEAT OF GIANT DRAGON
+# A Wingbeat Of Giant Dragon
 
 > Return 1 face-up Level 5 or higher Dragon-Type monster you control to the owner's hand and destroy all Spell and Trap Cards.
 

@@ -1,4 +1,4 @@
-# HELPOEMER
+# Helpoemer
 
 *   When you have multiple "Helpoemer" cards in your Graveyard, each with an activated effect, the effects are cumulative.
 *   If your opponent chooses not to conduct a Battle Phase, there is no timing for the end of the Battle Phase, so the effect of "Helpoemer" is not activated. The same is true if the Battle Phase is skipped due to a card effect.

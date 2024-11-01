@@ -1,4 +1,4 @@
-# RIVALRY OF WARLORDS
+# Rivalry Of Warlords
 
 > Each player sends monsters they control to the Graveyard so that they only control 1 Type of monster. Each player can only control 1 Type of monster.
 

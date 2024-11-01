@@ -1,4 +1,4 @@
-# SUN DRAGON INTI
+# Sun Dragon Inti
 
 *   Destroying the monster that destroyed this card does not target. Special Summoning “Moon Dragon Quilla” does target.
 *   The effect to Special Summon “Moon Dragon Quilla” activates even if “Sun Dragon Inti” is not in the Graveyard during the Standby Phase as long as there is a “Moon Dragon Quilla” in the Graveyard.

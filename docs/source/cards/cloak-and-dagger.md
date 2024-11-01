@@ -1,4 +1,4 @@
-# CLOAK AND DAGGER
+# Cloak And Dagger
 
 *   You declare a monster card name when “Cloak and Dagger” resolves.
 *   This card’s removal effect starts a Chain.

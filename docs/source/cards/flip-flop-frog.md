@@ -1,4 +1,4 @@
-# FLIP FLOP FROG
+# Flip Flop Frog
 
 > ① Once per turn, you can flip this card into face-down Defense Position. ② When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up "Frog" monsters you control, except "Frog the Jam".
 

@@ -1,4 +1,4 @@
-# DARK ARMED DRAGON
+# Dark Armed Dragon
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having exactly 3 DARK monsters in your Graveyard. ① You can remove from play 1 DARK monster from your Graveyard to destroy 1 card on the field.
 

@@ -1,4 +1,4 @@
-# ANCIENT GEAR
+# Ancient Gear
 
 > Ⓤ While you control a face-up "Ancient Gear", you can Special Summon this card from your hand in Attack Position.
 

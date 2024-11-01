@@ -1,4 +1,4 @@
-# STORMING WYNN
+# Storming Wynn
 
 *   This card’s effect is an Ignition Effect.
 *   Tributing a monster is a cost. You cannot Tribute a monster if you do not have a monster with the appropriate Attribute in your hand to Special Summon.

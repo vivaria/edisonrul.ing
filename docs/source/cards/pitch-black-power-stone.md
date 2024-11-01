@@ -1,4 +1,4 @@
-# PITCH-BLACK POWER STONE
+# Pitch-Black Power Stone
 
 *   You place the 3 Spell Counters on "Pitch-Black Power Stone" even if "Royal Decree" is active, so if your opponent chains "Royal Decree" to your "Pitch-Black Power Stone", or chains "Call of the Haunted" to Special Summon "Jinzo", you still get 3 Spell Counters on it.
 *   "Pitch-Black Power Stone"'s transfer effect targets.

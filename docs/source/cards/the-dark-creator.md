@@ -1,4 +1,4 @@
-# THE DARK CREATOR
+# The Dark Creator
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned, by having 5 or more DARK monsters in your Graveyard while you control no monsters. ① Once per turn, you can remove from play 1 DARK monster from your Graveyard to Special Summon 1 DARK monster from your Graveyard.
 

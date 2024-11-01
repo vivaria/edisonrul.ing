@@ -1,4 +1,4 @@
-# MORPHING JAR #2
+# Morphing Jar #2
 
 *   The cards are "picked up", not drawn.
 *   If a high level monster, Ritual Monster, or a "Special Summon only" monster is revealed, it is sent to the Graveyard but is counted towards the number of monsters that need to be "picked up".

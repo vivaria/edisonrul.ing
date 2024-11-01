@@ -1,4 +1,4 @@
-# MORAY OF GREED
+# Moray Of Greed
 
 > Return 2 WATER monsters from your hand to your Deck and draw 3 cards.
 

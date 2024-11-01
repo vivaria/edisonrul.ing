@@ -1,4 +1,4 @@
-# HEART OF THE UNDERDOG
+# Heart Of The Underdog
 
 *   Missing the Timing: Suppose you have 3 copies of “Heart of the Underdog” on the field, and draw a Normal Monster Card during your Draw Phase. All 3 copies of “Heart of the Underdog” immediately activate their effects, and because they activate simultaneously, they form a chain with Chain Links 1, 2, and 3. If you draw a Normal Monster card for Chain Link 3 or Chain Link 2, your copies of “Heart of the Underdog” do not activate again. This is because they are “when… you can” optional Trigger Effects, and you “miss the timing” because you drew the Normal Monster Card during a chain and not as Chain Link 1. However, if you draw a Normal Monster Card for Chain Link 1, all 3 copies of “Heart of the Underdog” will activate their effects again.
 *   “Heart of the Underdog” doesn’t only activate if you draw a Normal Monster Card for your standard draw. It will also activate its effect if you draw a Normal Monster Card with a card effect such as “Reload”, “Jar of Greed”, or “Heart of the Underdog”.

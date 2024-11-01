@@ -1,4 +1,4 @@
-# SOLEMN JUDGMENT
+# Solemn Judgment
 
 > Pay half of your Life Points. ① Negate an activation of a Spell / Trap Card / Normal Summon / Flip Summon / Special Summon and destroy the Spell Card, Trap Card, or Summoned monster.
 

@@ -1,4 +1,4 @@
-# AFTER GENOCIDE
+# After Genocide
 
 > This card can only be activated during Main Phase 1. All monsters on both sides of the field that have been involved in damage calculation are destroyed during the End Step of the turn.
 

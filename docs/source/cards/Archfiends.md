@@ -1,4 +1,4 @@
-# ARCHFIENDS
+# Archfiends
 
 The following rulings apply to "Vilepawn Archfiend", "Desrook Archfiend", "Shadowknight Archfiend", "Darkbishop Archfiend", "Infernalqueen Archfiend", "Terrorking Archfiend", and "Skull Archfiend of Lightning".
 

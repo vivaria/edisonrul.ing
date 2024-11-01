@@ -1,4 +1,4 @@
-# ROAR OF THE EARTHBOUND
+# Roar Of The Earthbound
 
 *   This effect starts a Chain. It targets the 1 opponent’s monster that has declared an attack.
 *   If you do not destroy the monster with this effect, you do not inflict damage to your opponent.

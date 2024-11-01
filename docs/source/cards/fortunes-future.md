@@ -1,4 +1,4 @@
-# FORTUNE’S FUTURE
+# Fortune’S Future
 
 *   This card targets 1 of your removed from play “Fortune Lady” monsters.
 *   If the target of this card is no longer removed from play when it resolves, you cannot draw 2 cards.

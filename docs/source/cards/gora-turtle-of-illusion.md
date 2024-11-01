@@ -1,4 +1,4 @@
-# GORA TURTLE OF ILLUSION
+# Gora Turtle Of Illusion
 
 *   When your opponent equips "Gora Turtle of Illusion" with an Equip Spell Card, the effect of the Equip Spell Card is negated but the card is not destroyed and remains equipped to "Gora Turtle of Illusion".
 *   If "Gora Turtle of Illusion" is equipped with "Snatch Steal", both effects of "Snatch Steal" are negated. But if "Skill Drain" is activated, then "Gora Turtle of Illusion"'s effect is negated, and "Snatch Steal"'s effects will resolve properly.

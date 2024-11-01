@@ -1,4 +1,4 @@
-# WOODLAND SPRITE
+# Woodland Sprite
 
 *   "Woodland Sprite" gives you the ability to send Equip Spell Cards equipped to it to the Graveyard. Sending them to the Graveyard for this specific purpose is the only way to activate the effect and inflict 500 points of damage to your opponent.
 *   This card’s effect can only be activated during your Main Phase, but may be activated more than once per turn.

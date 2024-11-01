@@ -1,4 +1,4 @@
-# ANTE
+# Ante
 
 > Each Player selects 1 card from his/her hand, then looks at the Level of the selected cards. The card with more Levels returns to the hand of the player who selected it. The player who selected the card with fewer Levels takes 1000 Life Points damage and sends the card to the Graveyard. If a non-Monster Card is selected, it is treated as Level 0. If they are the same Level, each player returns his/her card to his/her hand.
 

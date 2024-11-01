@@ -1,4 +1,4 @@
-# TIMIDITY
+# Timidity
 
 *   While the effect of "Timidity" is active, all effects of a card which would destroy a Set Spell or Trap Card are negated.
 *   While the effect of "Timidity" is active, you cannot destroy a face-down Monster Card equipped to "Relinquished".

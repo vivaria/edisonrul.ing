@@ -1,4 +1,4 @@
-# HUMAN-WAVE TACTICS
+# Human-Wave Tactics
 
 *   "Human-Wave Tactics" includes Tokens.
 *   If you have 2 "Human-Wave Tactics" then both effects are applied, so if 1 Level 2 or lower Normal Monster is destroyed in battle, then you Special Summon 2 monsters.

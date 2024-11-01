@@ -1,4 +1,4 @@
-# LIFE ABSORBING MACHINE
+# Life Absorbing Machine
 
 *   "The total Life Points you paid" is defined as the Life Points paid for costs (both activation costs and maintenance costs) of cards. It does not include damage or loss of Life Points. Damage is not included even if the damage was caused by an effect you control, such as if you activate "Ring of Destruction".
 *   "In your last turn" is defined as the period from the start of your previous turn’s Draw Phase to the end of that turn’s End Phase. Cost that you paid during your opponent’s turn that occurred between your last turn and the current turn are not included.

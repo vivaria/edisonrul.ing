@@ -1,4 +1,4 @@
-# FRAGRANCE STORM
+# Fragrance Storm
 
 *   "Fragrance Storm" targets 1 Plant-Type monster on the field. You can target any Plant-Type monster on the field.
 *   Destroying the targeted card and drawing 1 card are considered to happen at the same time. Revealing the drawn card, if it is a Plant-Type monster, happens after that.

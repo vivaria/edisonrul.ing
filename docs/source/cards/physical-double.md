@@ -1,4 +1,4 @@
-# PHYSICAL DOUBLE
+# Physical Double
 
 *   You cannot activate "Physical Double" during the Damage Step.
 *   If you activate "Physical Double" and your opponent chains "Ring of Destruction" to destroy his targeted monster, the effect of "Physical Double" disappears.

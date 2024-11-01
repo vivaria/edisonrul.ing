@@ -1,4 +1,4 @@
-# SALVAGE
+# Salvage
 
 > Add 2 WATER monsters in your Graveyard with an ATK of 1500 or less each to your hand.
 

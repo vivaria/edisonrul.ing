@@ -1,4 +1,4 @@
-# HYPER SYNCHRON
+# Hyper Synchron
 
 *   If “DNA Surgery” is making all monsters on the field into Dragons, and “Hyper Synchron” is used to Synchro Summon a monster that was not originally a Dragon, the effects of “Hyper Synchron” still activate. So the Synchro Monster gains 800 ATK and is removed during the End Phase.
 *   If the Synchro Monster is flipped face-down, the effects of “Hyper Synchron” are wiped, so the Synchro Monster will not gain 800 ATK or be removed from play.

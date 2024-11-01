@@ -1,4 +1,4 @@
-# ALIEN HUNTER
+# Alien Hunter
 
 > ① If this card destroys a monster with an A-Counter by battle, it can attack once again in a row.
 

@@ -1,4 +1,4 @@
-# THE END OF ANUBIS
+# The End Of Anubis
 
 *   "The End of Anubis" WILL negate the effects of "Night Assailant" (its second effect), "Aswan Apparition", "Nubian Guard", "Sangan", "Witch of the Black Forest" (even if Tributed to Tribute Summon "The End of Anubis"), "Mystic Tomato"/"Giant Rat"/etc., "Sinister Serpent", "Magician of Faith", "Dark Magician of Chaos"' spell retrieval effect, "Vampire Lord"'s ability to return from the Graveyard, "Dark Necrofear"'s ability to return from the Graveyard, and activation of "Call of the Haunted" or "Premature Burial".
 *   "The End of Anubis" WILL NOT negate the Special Summon of "Chaos Emperor Dragon - Envoy of the End", "Black Luster Soldier - Envoy of the Beginning", "Dark Necrofear", "Soul of Purity and Light", etc. (because these involve costs, not effects, and "The End of Anubis" cannot negate paying costs). "The End of Anubis" WILL NOT negate "Strike Ninja"'s effect because removing 2 DARK monsters from the Graveyard is a cost.

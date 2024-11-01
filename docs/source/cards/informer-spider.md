@@ -1,4 +1,4 @@
-# INFORMER SPIDER
+# Informer Spider
 
 *   This effect targets 1 Defense Position monster. This effect activates even if “Informer Spider” is destroyed during the Damage Step.
 *   The effect of “Informer Spider” does not activate if it is sent to the Graveyard as a cost to activate a card or effect.

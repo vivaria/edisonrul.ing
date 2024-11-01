@@ -1,4 +1,4 @@
-# BOOK OF MOON
+# Book Of Moon
 
 > Flip 1 face-up monster on the field into face-down Defense Position.
 

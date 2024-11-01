@@ -1,4 +1,4 @@
-# ATTACK REFLECTOR UNIT
+# Attack Reflector Unit
 
 > Tribute 1 "Cyber Dragon". Special Summon 1 "Cyber Barrier Dragon" from your hand or Deck.
 

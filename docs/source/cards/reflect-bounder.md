@@ -1,4 +1,4 @@
-# REFLECT BOUNDER
+# Reflect Bounder
 
 *   "Reflect Bounder" inflicts its effect damage, then damage calculation is applied normally, then "Reflect Bounder" is destroyed by its own effect.
 *   When an Attack Position "Reflect Bounder" is attacked, it is destroyed by its own effect even if the ATK of "Reflect Bounder" is lower than the ATK of the attacking monster.

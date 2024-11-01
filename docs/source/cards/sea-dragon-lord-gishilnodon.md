@@ -1,4 +1,4 @@
-# SEA DRAGON LORD GISHILNODON
+# Sea Dragon Lord Gishilnodon
 
 > ① When a face-up Level 3 or lower monster on the field is sent to the Graveyard, this card's ATK becomes 3000 until the End Phase of this turn.
 

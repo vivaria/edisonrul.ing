@@ -1,4 +1,4 @@
-# FOX FIRE
+# Fox Fire
 
 *   In order to activate its effect, "Fox Fire" must be face-up when the attack that destroyed it was declared (like "Atomic Firefly"). If a face-down "Fox Fire" is attacked, its effect is not applied even though it is face-up when destroyed.
 *   While "Skill Drain" is active, you can Tribute "Fox Fire" for a Tribute Summon.

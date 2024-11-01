@@ -1,4 +1,4 @@
-# XYZ FUSION MONSTERS
+# XYZ Fusion Monsters
 
 The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon Cannon", and "XZ-Tank Cannon".
 

@@ -1,4 +1,4 @@
-# GOBLIN ZOMBIE
+# Goblin Zombie
 
 > ① When this card inflicts Battle Damage to your opponent, send the top card of their Deck to the Graveyard. ② When this card is sent from the field to the Graveyard, add 1 Zombie-Type monster with 1200 or less DEF from your Deck to your hand.
 

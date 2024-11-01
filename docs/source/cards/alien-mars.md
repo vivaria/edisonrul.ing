@@ -1,4 +1,4 @@
-# ALIEN MARS
+# Alien Mars
 
 > ① The effects of Effect Monsters with A-Counters are negated, except for "Alien Mars".
 

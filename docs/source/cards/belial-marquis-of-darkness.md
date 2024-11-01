@@ -1,4 +1,4 @@
-# BELIAL - MARQUIS OF DARKNESS
+# Belial - Marquis Of Darkness
 
 > ① Your opponent cannot select any monster you control, except "Belial - Marquis of Darkness", as an attack target, or as a target of a Spell or Trap Card.
 

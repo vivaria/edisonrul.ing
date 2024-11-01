@@ -1,4 +1,4 @@
-# SASUKE SAMURAI
+# Sasuke Samurai
 
 *   If "Sasuke Samurai" attacks a face-down monster, apply its effect after entering the Damage Step, but before flipping up the face-down monster. The monster is not flipped. Flip Effects are not activated. Monsters like "Kisetai" and "Giant Axe Mummy" do not activate their effects.
 *   If "Sasuke Samurai" attacks a face-down monster, there is no damage calculation. "Sasuke Samurai" destroys the monster before damage calculation is reached.

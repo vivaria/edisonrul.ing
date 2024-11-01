@@ -1,4 +1,4 @@
-# JAM BREEDING MACHINE
+# Jam Breeding Machine
 
 *   You may Set monsters when you have this card active on your side of the field, but you cannot Flip Summon them.
 *   You may Summon a monster and then activate this card.

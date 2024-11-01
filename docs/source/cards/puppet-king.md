@@ -1,4 +1,4 @@
-# PUPPET KING
+# Puppet King
 
 *   Both effects of “Puppet King” are Trigger Effects. You can Special Summon it by its effect during either player’s turn.
 *   You cannot Special Summon “Puppet King” during the Damage Step with its effect. If “Puppet King” is Summoned by its own effect, and is then flipped face-down or leaves the field temporarily and returns, its effect resets.

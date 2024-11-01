@@ -1,4 +1,4 @@
-# MIRACLE FLIPPER
+# Miracle Flipper
 
 *   If "Miracle Flipper" is destroyed by a Spell or Trap Card while face-down, its effect to destroy 1 monster activates. This effect targets the monster to be destroyed.
 *   If you have a "Miracle Flipper" face-up on your side of the field, you cannot Special Summon another copy of "Miracle Flipper" with "Monster Reborn" or "The Shallow Grave".

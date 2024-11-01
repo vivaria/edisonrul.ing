@@ -1,4 +1,4 @@
-# DRILL WARRIOR
+# Drill Warrior
 
 > ① Once per turn, during your Main Phase, you can halve this card’s ATK (permanently). If you do, it can attack your opponent directly this turn. ② Once per turn, during your Main Phase, you can discard 1 card and remove this card from play. ③ During your next Standby Phase, Special Summon this card, if removed by this effect. Then, add 1 Monster Card from your Graveyard to your hand.
 

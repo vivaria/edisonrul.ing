@@ -1,4 +1,4 @@
-# ADVANCED RITUAL ART
+# Advanced Ritual Art
 
 > Select 1 Ritual Monster in your hand. Send Normal Monsters from your Deck to the Graveyard whose total Levels are equal to that Ritual Monster's. Ritual Summon a card with the name of the selected Ritual Monster from your hand.
 

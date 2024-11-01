@@ -1,4 +1,4 @@
-# MAGIC REFLECTOR
+# Magic Reflector
 
 *   You can put 2 or more counters on a Spell Card if you activate 2 or more "Magic Reflectors". When the Spell Card is destroyed, remove the counters on it 1-by-1.
 *   You can activate "Magic Reflector" and put a counter on a Monster Card equipped to "Relinquished", and if the equipped card would be destroyed, remove 1 counter instead.

@@ -1,4 +1,4 @@
-# SEAL OF WICKEDNESS
+# Seal Of Wickedness
 
 *   This effect targets 1 face-up card on the field. It targets that card continuously throughout the turn.
 *   Paying 500 Life Points is a cost, not an effect. It cannot be negated by “Royal Decree.”

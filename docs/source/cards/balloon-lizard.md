@@ -1,4 +1,4 @@
-# BALLOON LIZARD
+# Balloon Lizard
 
 > ① Put 1 counter on this card during each of your Standby Phases. ② When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters x 400 points.
 

@@ -1,3 +1,3 @@
-# UMBRAL SOUL
+# Umbral Soul
 
 *   This card’s effect will destroy “Elemental Mistress Doriado”.

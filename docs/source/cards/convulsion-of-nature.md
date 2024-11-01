@@ -1,4 +1,4 @@
-# CONVULSION OF NATURE
+# Convulsion Of Nature
 
 *   When this card’s effect is active, both Decks are flipped upside down, and now the face of the top card of the Deck is showing.
 *   If a card effect requires a player to shuffle their Deck, it is shuffled and cut face-down so the cards are not seen, and then placed face-up in the Deck Zone.

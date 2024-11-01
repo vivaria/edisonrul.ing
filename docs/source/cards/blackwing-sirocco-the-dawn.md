@@ -1,4 +1,4 @@
-# BLACKWING - SIROCCO THE DAWN
+# Blackwing - Sirocco The Dawn
 
 > Ⓤ If your opponent controls a monster and you control no monsters, you can Normal Summon or Set this card without Tributing. ① Once per turn, you can select 1 face-up "Blackwing" monster you control. It gains ATK equal to the total ATK of all face-up "Blackwing" monsters on the field except itself. Ⓒ Monsters other than the selected monster cannot attack the turn you activate this effect.
 

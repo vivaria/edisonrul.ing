@@ -1,4 +1,4 @@
-# DUMMY GOLEM
+# Dummy Golem
 
 *   If “Dummy Golem” is attacked, flipped, and destroyed by damage calculation, its effect is not applied because it is destroyed. So control does not switch.
 *   If an effect like “Ring of Destruction” is chained to the Flip Effect of “Dummy Golem”, destroying “Dummy Golem”, the effect of “Dummy Golem” disappears.

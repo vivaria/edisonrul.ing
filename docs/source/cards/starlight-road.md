@@ -1,4 +1,4 @@
-# STARLIGHT ROAD
+# Starlight Road
 
 > Activate only when an effect is activated that would destroy 2 or more cards you control. Negate the effect and destroy that card. Then, you can Special Summon 1 “Stardust Dragon” from your Extra Deck.
 

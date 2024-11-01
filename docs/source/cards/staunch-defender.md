@@ -1,4 +1,4 @@
-# STAUNCH DEFENDER
+# Staunch Defender
 
 *   This card only affects face-up Attack Position monsters on your opponent's side of the field that can attack.
 *   Activating the card causes a replay.

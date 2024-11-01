@@ -1,4 +1,4 @@
-# ALIEN GREY
+# Alien Grey
 
 > FLIP: Place 1 A-Counter on 1 face-up monster on your opponent's side of the field. (① If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) ② After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card.
 

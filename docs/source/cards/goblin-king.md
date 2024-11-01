@@ -1,4 +1,4 @@
-# GOBLIN KING
+# Goblin King
 
 *   If you have 2 "Goblin Kings", or a "Goblin King" equipped with "Raregold Armor" and another Fiend-Type monster, your opponent cannot attack.
 *   "Goblin King"'s second effect includes Fiend-Type monsters on your opponent's side of the field.

@@ -1,4 +1,4 @@
-# ANCIENT FAIRY DRAGON
+# Ancient Fairy Dragon
 
 > ① Once per turn, you can Special Summon 1 Level 4 or lower monster from your hand. Ⓒ You cannot conduct your Battle Phase the turn you activate this effect. ② Once per turn, you can destroy a Field Spell Card. If you do, gain 1000 Life Points, and you can add 1 Field Spell Card from your Deck to your hand.
 

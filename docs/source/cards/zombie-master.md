@@ -1,4 +1,4 @@
-# ZOMBIE MASTER
+# Zombie Master
 
 > ① Once per turn, you can send 1 Monster Card from your hand to the Graveyard to Special Summon 1 Level 4 or lower Zombie-Type Monster from either player's Graveyard.
 

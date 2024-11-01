@@ -1,4 +1,4 @@
-# THE AGENT OF JUDGMENT - SATURN
+# The Agent Of Judgment - Saturn
 
 *   Tributing "The Agent of Judgment - Saturn" is a cost.
 *   You cannot activate "The Agent of Judgment - Saturn"'s effect during Main Phase 2. You CAN activate "The Agent of Judgment - Saturn"'s effect during Main Phase 1 even if you have to skip your Battle Phase because of a card effect.

@@ -1,4 +1,4 @@
-# "DARK WORLD" monsters (“Beiige, Vanguard of Dark World”, “Broww, Huntsman of Dark World”, “Sillva, Warlord of Dark World” and “Goldd, Wu-Lord of Dark World”).
+# "Dark World" Monsters (“Beiige, Vanguard Of Dark World”, “Broww, Huntsman Of Dark World”, “Sillva, Warlord Of Dark World” And “Goldd, Wu-Lord Of Dark World”).
 
 > ① If this card is discarded from the hand to the Graveyard by a card effect, \[perform action 1\]. ① If this card is discarded from the hand to the Graveyard by an opponent’s card effect, \[perform action 2\].
 

@@ -1,4 +1,4 @@
-# PUPPET MASTER
+# Puppet Master
 
 > ① When this card is Tribute Summoned you can pay 2000 Life Points to Special Summon 2 Fiend-Type monsters from your Graveyard. They cannot attack this turn.
 

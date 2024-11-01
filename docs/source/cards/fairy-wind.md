@@ -1,4 +1,4 @@
-# FAIRY WIND
+# Fairy Wind
 
 *   Fairy Wind does not destroy itself. Both parts of the effect are performed at the same time.
 *   You can still activate “Fairy Wind” even if the only face-up Spell and Trap Cards on the field cannot be destroyed.

@@ -1,4 +1,4 @@
-# WITCH OF THE BLACK ROSE
+# Witch Of The Black Rose
 
 *   “This card cannot be Special Summoned” is not treated as an effect.
 *   If you have no cards in your Deck when you activate the effect of “Witch of the Black Rose,” you will lose the Duel.

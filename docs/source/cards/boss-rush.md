@@ -1,4 +1,4 @@
-# BOSS RUSH
+# Boss Rush
 
 *   You cannot activate “Boss Rush” if you have already Normal Summoned or Set a monster this turn.
 *   “Boss Rush” must be face-up on the field when the “B.E.S.” or “Big Core” monster is destroyed for you to use its effect. If the monster is destroyed, and then afterwards you activate “Boss Rush”, you do not get to Special Summon for that monster’s destruction.

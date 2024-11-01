@@ -1,4 +1,4 @@
-# THE SIX SAMURAI - NISASHI
+# The Six Samurai - Nisashi
 
 > ① While you control another "Six Samurai" monster with a different name, this card can attack twice during the same Battle Phase. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 

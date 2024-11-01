@@ -1,4 +1,4 @@
-# SIMORGH, BIRD OF ANCESTRY
+# Simorgh, Bird Of Ancestry
 
 *   Level 5-6 WIND monsters are Normal Summoned without Tributing while "Simorgh, Bird of Ancestry" is face-up. They are not treated as being Tribute Summoned.
 *   If you control 2 or more face-up "Simorgh, Bird of Ancestry", the number of Tributes required to Tribute Summon WIND monsters is still only reduced by 1.

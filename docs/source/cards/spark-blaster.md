@@ -1,4 +1,4 @@
-# SPARK BLASTER
+# Spark Blaster
 
 *   “Spark Blaster” targets.
 *   You can activate the effect of “Spark Blaster” multiple times in the same Main Phase. You can activate the effect of “Spark Blaster” during the same turn you played it from your hand.

@@ -1,4 +1,4 @@
-# AN UNFORTUNATE REPORT
+# An Unfortunate Report
 
 > Your opponent conducts their next Battle Phase twice.
 

@@ -1,3 +1,3 @@
-# LEVEL TUNING
+# Level Tuning
 
 *   Only face-up monsters you control when resolving "Level Tuning" are affected. Monsters Summoned afterwards will not have their Level reduced.

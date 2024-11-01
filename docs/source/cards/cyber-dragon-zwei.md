@@ -1,4 +1,4 @@
-# CYBER DRAGON ZWEI
+# Cyber Dragon Zwei
 
 *   Revealing a Spell Card is a cost.
 *   If you activate “Inferno Reckless Summon” when “Proto-Cyber Dragon” is Summoned while you have 1 “Cyber Dragon” in your Deck and 3 “Cyber Dragon Zwei” in your Graveyard and only 3 Monster Card Zones open, you choose which monsters you want to Special Summon. Any monster that you cannot Special Summon is sent to the Graveyard.

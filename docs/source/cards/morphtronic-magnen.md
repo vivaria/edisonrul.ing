@@ -1,4 +1,4 @@
-# MORPHTRONIC MAGNEN
+# Morphtronic Magnen
 
 *   If you control an Attack Position "Morphtronic Magnen" and another monster, when your opponent attacks the other monster and and effect is activated that changes "Morphtronic Magnen" into Defense Position, the other monster is still attacked because it has already been selected as an attack target.
 *   While "Skill Drain" is active, the Attack Position and Defense Position effects of "Morphtronic Magnen" cannot be activated, because the "While in Attack Position" and "While in Defense Position" effects are negated.

@@ -1,4 +1,4 @@
-# BLACK WHIRLWIND
+# Black Whirlwind
 
 > When a “Blackwing” monster is Normal Summoned to your side of the Field, you can add 1 “Blackwing” monster from your Deck to your hand that has less ATK than that monster.
 

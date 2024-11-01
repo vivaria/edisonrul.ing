@@ -1,4 +1,4 @@
-# OMEGA GOGGLES
+# Omega Goggles
 
 *   The effect to look at 1 random card in your opponent's hand is an Ignition Effect.
 *   If "Omega Goggles" is unequipped from the monster after using its effect, the monster can attack during the turn.

@@ -1,4 +1,4 @@
-# RARE METALMORPH
+# Rare Metalmorph
 
 > ① Select 1 face-up Machine-Type monster. It gains 500 ATK. One time only, negate the effect of a Spell Card that targets that monster. ② When the selected monster is removed from the field, destroy this card.
 

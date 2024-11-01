@@ -1,4 +1,4 @@
-# BAMBOO SCRAP
+# Bamboo Scrap
 
 > Tribute 1 Plant-Type monster. Special Summon 2 "Plant Tokens" (Plant-Type/EARTH/Level 1/ATK 800/DEF 500) to your opponent's side of the field in Defense Position.
 

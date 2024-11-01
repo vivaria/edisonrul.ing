@@ -1,4 +1,4 @@
-# ELEMENTAL HERO MARINER
+# Elemental Hero Mariner
 
 *   If you have a face-down Field Spell Card, but no face-down cards in your Spell & Trap Card Zones, you cannot attack directly with “Elemental Hero Mariner’s” effect.
 *   If you control “Relinquished” equipped with a face-down Monster Card, that card is face-down in your Spell & Trap Card Zone, so “Elemental Hero Mariner” can attack directly.

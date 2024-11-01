@@ -1,4 +1,4 @@
-# CLEAR VICE DRAGON
+# Clear Vice Dragon
 
 > ① You are unaffected by the effects of "Clear World". ② If this card attacks an opponent's monster, the ATK of this card becomes twice the ATK of the attack target, during damage calculation only. ③ If this card would be destroyed by an opponent's card effect, you can discard 1 card instead.
 

@@ -1,4 +1,4 @@
-# DOUBLE SPELL
+# Double Spell
 
 *   You select the card you are activating in your opponent's Graveyard when you activate "Double Spell". "Double Spell" can then be chained to after you announce your selection.
 *   The selected card itself CANNOT be chained to as you are in resolution of the chain at that point.

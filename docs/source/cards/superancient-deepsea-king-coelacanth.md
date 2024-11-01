@@ -1,4 +1,4 @@
-# SUPERANCIENT DEEPSEA KING COELACANTH
+# Superancient Deepsea King Coelacanth
 
 > ① Once per turn, you can discard 1 card to Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck. A monster Special Summoned by this effect cannot declare an attack and its effect(s) is negated while on the field. ② If this card is targeted by a Spell, Trap, or Effect Monster's effect, you can Tribute 1 other Fish-Type monster to negate the effect and destroy that card.
 

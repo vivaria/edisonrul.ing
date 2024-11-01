@@ -1,4 +1,4 @@
-# CLEAR WORLD
+# Clear World
 
 *   If you control a monster with an effect that treats it as having multiple Attributes, all the relevant effects of “Clear World” will apply to you.
 *   Even if “Field Barrier” is active, if you don’t pay the cost of “Clear World” during the End Phase it will be destroyed.

@@ -1,4 +1,4 @@
-# DOOMKAISER DRAGON
+# Doomkaiser Dragon
 
 > ① When this card is Special Summoned, you can select 1 Zombie-Type monster in your opponent's Graveyard and Special Summon it to your side of the field in Attack Position. Ⓒ Destroy it when this card is removed from the field.
 

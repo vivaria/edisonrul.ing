@@ -1,4 +1,4 @@
-# ARCANE BARRIER
+# Arcane Barrier
 
 > ① Each time a Spellcaster-Type monster(s) on the field is destroyed, place 1 Spell Counter on this card (max. 4). ② You can send this card and 1 face-up Spellcaster-Type monster you control to the Graveyard to draw 1 card for each Spell Counter on this card.
 

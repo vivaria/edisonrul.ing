@@ -1,4 +1,4 @@
-# GEARTOWN
+# Geartown
 
 > ① Both players can Tribute Summon "Ancient Gear" monsters with 1 less Tribute than required. ② When this card is destroyed and sent to the Graveyard, you can Special Summon 1 "Ancient Gear" monster from your hand, Deck, or Graveyard.
 

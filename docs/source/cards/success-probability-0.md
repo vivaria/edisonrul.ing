@@ -1,4 +1,4 @@
-# SUCCESS PROBABILITY 0%
+# Success Probability 0%
 
 > Send 2 random Fusion Monsters from your opponent's Fusion Deck to the Graveyard.
 

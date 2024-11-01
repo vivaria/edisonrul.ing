@@ -1,4 +1,4 @@
-# EMPEROR SEM
+# Emperor Sem
 
 *   If you activate the effect of “Emperor Sem,” you need to return a card from your Graveyard to the top of your Deck.
 *   Your opponent does not have to use its effect, but can do so if they wish.

@@ -1,4 +1,4 @@
-# BARRIER STATUE OF THE HEAVENS
+# Barrier Statue Of The Heavens
 
 > ① Neither player can Special Summon monsters, except LIGHT monsters.
 

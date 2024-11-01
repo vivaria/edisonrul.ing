@@ -1,4 +1,4 @@
-# ROYAL OPPRESSION
+# Royal Oppression
 
 > ① Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.
 

@@ -1,4 +1,4 @@
-# ARCANA CALL
+# Arcana Call
 
 > Select 1 "Arcana Force" monster you control. Remove from play 1 "Arcana Force" monster from either player's Graveyard. Until the End Phase, the selected monster's effect becomes the removed monster's effect for the same coin toss result.
 

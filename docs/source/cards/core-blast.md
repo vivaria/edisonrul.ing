@@ -1,4 +1,4 @@
-# CORE BLAST
+# Core Blast
 
 *   This effect does not target.
 *   You can destroy any cards your opponent controls, not just monsters.

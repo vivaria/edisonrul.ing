@@ -1,4 +1,4 @@
-# DRILLAGO
+# Drillago
 
 *   If there are Spell or Trap Cards, or face-down monsters, on your opponent's side of the field, "Drillago" cannot attack directly.
 *   If "Drillago" attacks directly, and your opponent activates an effect to reduce one of his face-up monsters to less than 1600 ATK, there is no longer a condition allowing "Drillago" to attack directly, and a replay occurs.

@@ -1,4 +1,4 @@
-# LEVEL EATER
+# Level Eater
 
 > ① If this card in in the Graveyard, you can activate its effect by selecting 1 face-up Level 5 or higher monster you control. Reduce that monster’s Level by 1. Special Summon this card from the Graveyard. This can cannot be Tributed except for a Tribute Summon.
 

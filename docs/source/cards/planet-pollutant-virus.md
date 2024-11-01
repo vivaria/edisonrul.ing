@@ -1,4 +1,4 @@
-# PLANET POLLUTANT VIRUS
+# Planet Pollutant Virus
 
 *   You can Tribute a face-down Alien to activate “Planet Pollutant Virus”.
 *   Placing A-Counters on monsters does not start a chain.

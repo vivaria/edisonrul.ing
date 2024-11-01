@@ -1,4 +1,4 @@
-# VWXYZ-DRAGON CATAPULT CANNON
+# VWXYZ-Dragon Catapult Cannon
 
 *   This card’s first effect is not optional. If the opponent has any cards on their side of the field, you must use this effect during your turn. This effect targets and can be chained to.
 *   If you select to remove a face-down Spell or Trap Card, and the opponent activates it in a chain, the card will still be removed from play after it resolves.

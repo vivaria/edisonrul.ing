@@ -1,4 +1,4 @@
-# AUTONOMOUS ACTION UNIT
+# Autonomous Action Unit
 
 > Pay 1500 Life Points. Select 1 Monster Card from your opponent's Graveyard. Special Summon it to your side of the field in Attack Position, and equip it with this card. ① When this card is removed from the field, destroy the equipped monster.
 

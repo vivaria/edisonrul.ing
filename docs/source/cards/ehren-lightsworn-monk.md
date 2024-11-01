@@ -1,4 +1,4 @@
-# EHREN, LIGHTSWORN MONK
+# Ehren, Lightsworn Monk
 
 > ① If this card attacks a Defense Position monster, return that monster to its owner’s Deck before damage calculation. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 

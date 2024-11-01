@@ -1,4 +1,4 @@
-# HERO MASK
+# Hero Mask
 
 *   Send 1 "Elemental Hero" monster from your Deck to the Graveyard when you resolve "Hero Mask".
 *   "Hero Mask" targets 1 face-up monster you control.

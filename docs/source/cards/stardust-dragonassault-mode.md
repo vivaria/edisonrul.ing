@@ -1,4 +1,4 @@
-# STARDUST DRAGON/ASSAULT MODE
+# Stardust Dragon/Assault Mode
 
 > This card cannot be Normal Summoned or Set. Ⓒ This card cannot be Special Summoned except with its own effect or with "Assault Mode Activate". ① You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card. ② If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase. ③ When this card on the field is destroyed, you can Special Summon 1 "Stardust Dragon" from your Graveyard.
 

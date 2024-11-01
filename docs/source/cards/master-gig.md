@@ -1,4 +1,4 @@
-# MASTER GIG
+# Master Gig
 
 *   Paying 1000 Life Points is a cost to activate “Master Gig’s” effect. This effect does not target.
 *   You determine the number of destroyed monsters based on the number of face-up Psychic monsters you control when this effect resolves.

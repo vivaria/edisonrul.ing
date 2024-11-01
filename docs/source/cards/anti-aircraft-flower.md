@@ -1,4 +1,4 @@
-# ANTI-AIRCRAFT FLOWER
+# Anti-Aircraft Flower
 
 > ① By tributing 1 Insect-Type monster on your side of the field, inflict 800 points of damage to your opponent's Life Points.
 

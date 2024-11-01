@@ -1,4 +1,4 @@
-# KURIBOH
+# Kuriboh
 
 *   "Kuriboh" does not target the attacking monster.
 *   "Kuriboh" only prevents Battle Damage to your Life Points; it will not prevent your monsters from being destroyed.

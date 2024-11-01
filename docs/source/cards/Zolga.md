@@ -1,4 +1,4 @@
-# ZOLGA
+# Zolga
 
 *   When your opponent Tribute Summons with your "Zolga" using "Soul Exchange", the controller of "Zolga" increases his Life Points.
 *   When your opponent takes your "Zolga" with "Change of Heart" and Tribute Summons with it, your opponent (the controller of "Zolga" when it was Tributed) increases his Life Points.

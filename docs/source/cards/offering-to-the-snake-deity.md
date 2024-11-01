@@ -1,4 +1,4 @@
-# OFFERING TO THE SNAKE DEITY
+# Offering To The Snake Deity
 
 *   "Offering to the Snake Deity" targets 1 Reptile-Type monster you control and 2 cards your opponent controls.
 *   If an effect chained to "Offering to the Snake Deity" removes 1 of the targeted cards from the field, "Offering to the Snake Deity"'s effect disappears.

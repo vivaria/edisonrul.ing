@@ -1,4 +1,4 @@
-# EVIL THORN
+# Evil Thorn
 
 *   Tributing “Evil Thorn” is a cost to activate its effect.
 *   If you activate the effect of “Evil Thorn,” inflicting damage is mandatory but Special Summoning is optional.

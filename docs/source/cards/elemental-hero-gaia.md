@@ -1,4 +1,4 @@
-# ELEMENTAL HERO GAIA
+# Elemental Hero Gaia
 
 > 1 "Elemental Hero" monster + 1 EARTH Monster
 Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① When this card is Fusion Summoned, select 1 face-up monster your opponent controls. Until the end of this turn, that monster's ATK is halved and this card gains the same amount of ATK.

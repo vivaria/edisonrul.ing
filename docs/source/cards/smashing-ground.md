@@ -1,4 +1,4 @@
-# SMASHING GROUND
+# Smashing Ground
 
 > Destroy the 1 face-up monster your opponent controls that has the highest DEF. (If it's a tie, you get to choose.)
 

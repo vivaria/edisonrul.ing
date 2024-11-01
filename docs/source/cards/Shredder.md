@@ -1,4 +1,4 @@
-# SHREDDER
+# Shredder
 
 *   Sending the Machine-Type monster to the Graveyard is a cost.
 *   This effect targets the monster you want to destroy.

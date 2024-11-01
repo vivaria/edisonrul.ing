@@ -1,4 +1,4 @@
-# DARK BRIBE
+# Dark Bribe
 
 > Negate the activation of an opponent's Spell or Trap Card, and destroy it. Your opponent draws 1 card.
 

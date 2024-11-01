@@ -1,4 +1,4 @@
-# THOUSAND ENERGY
+# Thousand Energy
 
 *   If you Summon a monster after the resolution of "Thousand Energy", it does not gain the +1000 ATK, but it is still destroyed during the End Phase because that effect is applied to all Level 2 Normal Monsters at that time.
 *   If you have "A Legendary Ocean" reducing Level 3's to Level 2, and the effect of "Thousand Energy" is applied, and then "A Legendary Ocean" is destroyed, the levels are returned to Level 3, the ATK/DEF bonus from "Thousand Energy" is lost, and those monsters are not destroyed during the End Phase.

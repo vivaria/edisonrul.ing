@@ -1,4 +1,4 @@
-# AMAZON ARCHER
+# Amazon Archer
 
 > ① Tribute 2 monsters on your side of the field to inflict 1200 points of damage to your opponent's Life Points.
 

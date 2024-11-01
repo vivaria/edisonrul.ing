@@ -1,4 +1,4 @@
-# SUPER REJUVENATION
+# Super Rejuvenation
 
 > Ⓛ During the End Phase of the turn this card is activated, draw 1 card from your Deck for each Dragon-Type monster discarded from your hand and/or Tributed during this turn.
 

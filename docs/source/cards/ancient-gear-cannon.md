@@ -1,4 +1,4 @@
-# ANCIENT GEAR CANNON
+# Ancient Gear Cannon
 
 > ① You can Tribute this card to inflict 500 damage to your opponent, and then neither player can activate Trap Cards during the Battle Phase of this turn.
 

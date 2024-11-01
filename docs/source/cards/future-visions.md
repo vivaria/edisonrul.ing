@@ -1,4 +1,4 @@
-# FUTURE VISIONS
+# Future Visions
 
 > ① When a monster is Normal Summoned, remove from play that monster. ② During the next Standby Phase of the controller who Summoned that monster, return it to the field in face-up Attack Position.
 

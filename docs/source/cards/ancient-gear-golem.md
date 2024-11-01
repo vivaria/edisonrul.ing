@@ -1,4 +1,4 @@
-# ANCIENT GEAR GOLEM
+# Ancient Gear Golem
 
 > Ⓒ This card cannot be Special Summoned. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
 

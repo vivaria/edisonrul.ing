@@ -1,4 +1,4 @@
-# RAGING FLAME SPRITE
+# Raging Flame Sprite
 
 *   The +1000 ATK lasts as long as "Raging Flame Sprite" remains face-up on the field. "Raging Flame Sprite" can continue to get +1000 ATK each time it successfully attacks directly (becoming ATK 1100, then ATK 2100, etc.).
 *   The effect of "Raging Flame Sprite" is a Continuous Effect that cannot be chained to.

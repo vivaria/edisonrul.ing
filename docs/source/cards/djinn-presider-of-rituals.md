@@ -1,4 +1,4 @@
-# DJINN PRESIDER OF RITUALS
+# Djinn Presider Of Rituals
 
 *   If “Neo-Spacian Dark Panther” copies the name and effect of this card and is used for a Ritual Summon, you will not be able to draw when the Ritual Monster destroys a monster by battle.
 *   The effect to draw when the Ritual Monster destroys a monster by battle is applied even if “Skill Drain” is active.

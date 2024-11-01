@@ -1,4 +1,4 @@
-# ELEPHANT STATUE OF DISASTER
+# Elephant Statue Of Disaster
 
 *   "Elephant Statue of Disaster" must be sent from the owner's hand to the owner's Graveyard in order for its effect to activate.
 *   "Elephant Statue of Disaster"'s effect can be activated during the Damage Step.

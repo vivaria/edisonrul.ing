@@ -1,4 +1,4 @@
-# GOZEN MATCH
+# Gozen Match
 
 > ① Each player sends monsters they control to the Graveyard until they each control monsters of only 1 Attribute. Each player cannot control monsters with different Attributes.
 

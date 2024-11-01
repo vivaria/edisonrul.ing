@@ -1,4 +1,4 @@
-# CURSE OF FIEND
+# Curse Of Fiend
 
 > Changes the battle positions of all Attack Position monsters on the field to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can activate this card only during your Standby Phase.
 

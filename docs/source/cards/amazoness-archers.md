@@ -1,4 +1,4 @@
-# AMAZONESS ARCHERS
+# Amazoness Archers
 
 > You can activate this card when your opponent declares an attack and if there is a monster(s) on your side of the field that includes "Amazoness" in its card name, or is named "Amazon Archer". All monsters on your opponent's side of the field are changed to face-up Attack Position (Flip Effects are not activated), and as long as they remain face-up on the field, their ATK(s) are decreased by 500 points. Your opponent must attack with all of his/her monsters.
 

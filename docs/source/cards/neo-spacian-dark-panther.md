@@ -1,4 +1,4 @@
-# NEO-SPACIAN DARK PANTHER
+# Neo-Spacian Dark Panther
 
 *   “Neo-Spacian Dark Panther’s” effect is only applied while it is face-up on the field. So if you target “Sangan” and then this card is sent to the Graveyard nothing will happen, because in the Graveyard it no longer copies “Sangan’s” effect.
 *   If “Neo-Spacian Dark Panther” is flipped face-down after using its effect, the effect is no longer applied. You could flip it face-up and activate its effect again in the same turn.

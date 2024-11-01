@@ -1,4 +1,4 @@
-# PHOENIX WING WIND BLAST
+# Phoenix Wing Wind Blast
 
 > Discard 1 card. Return 1 card your opponent controls to the top of the Deck.
 

@@ -1,4 +1,4 @@
-# FEAR FROM THE DARK
+# Fear From The Dark
 
 *   "Fear from the Dark" can be Normal Summoned.
 *   Only the owner of "Fear from the Dark" can use its effect, because it has to be sent from your hand to your Graveyard.

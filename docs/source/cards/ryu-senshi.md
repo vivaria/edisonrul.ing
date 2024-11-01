@@ -1,4 +1,4 @@
-# RYU SENSHI
+# Ryu Senshi
 
 *   This card’s effect that negates Spell Cards that target it is not optional.
 *   You can Special Summon this card from the Graveyard with "Monster Reborn" because its effect that negates Spell Cards is not active while it is in the Graveyard (but only if was properly Fusion Summoned originally).

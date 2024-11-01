@@ -1,4 +1,4 @@
-# ARMED DRAGON LV7
+# Armed Dragon LV7
 
 > Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "Armed Dragon LV5". ① By sending 1 Monster Card from your hand to the Graveyard, destroy all face-up monsters on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster.
 

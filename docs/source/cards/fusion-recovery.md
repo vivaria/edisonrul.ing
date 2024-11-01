@@ -1,4 +1,4 @@
-# FUSION RECOVERY
+# Fusion Recovery
 
 *   You can use “Fusion Recovery” to retrieve a Fusion Material Monster that was used with “Power Bond” or “Fusion Gate” or “Polymerization”.
 *   You can use “Fusion Recovery” to retrieve a fusion substitute monster like “King of the Swamp” or “Goddess with the Third Eye” as long as it was used in a Fusion Summon.

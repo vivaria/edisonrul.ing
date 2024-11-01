@@ -1,4 +1,4 @@
-# TRAGEDY
+# Tragedy
 
 *   You cannot activate "Tragedy" during the Damage Step.
 *   You can activate "Tragedy" after an Attack Position monster is changed to Defense Position by a card effect, such as "Enemy Controller" or "Stumbling".

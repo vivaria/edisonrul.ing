@@ -1,4 +1,4 @@
-# D.D. WARRIOR LADY
+# D.D. Warrior Lady
 
 > ① When this card battles your opponent’s monster, after damage calculation you can remove from play the opponent’s monster and this card.
 

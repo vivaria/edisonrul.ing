@@ -1,4 +1,4 @@
-# 3-HUMP LACOODA  
+# 3-Hump Lacooda
 
 > ① If there are 3 face-up "3-Hump Lacooda" cards on your side of the field, Tribute 2 of them to draw 3 cards.
 

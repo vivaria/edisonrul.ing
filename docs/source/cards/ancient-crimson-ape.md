@@ -1,4 +1,4 @@
-# ANCIENT CRIMSON APE
+# Ancient Crimson Ape
 
 > ① When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.
 

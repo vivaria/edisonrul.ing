@@ -1,4 +1,4 @@
-# TIME MACHINE
+# Time Machine
 
 *   "Time Machine" is activated at the end of the Damage Step, when monsters destroyed by battle are sent to the Graveyard.
 *   "Time Machine"'s effect does not target.

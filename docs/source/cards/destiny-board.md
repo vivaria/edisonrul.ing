@@ -1,4 +1,4 @@
-# DESTINY BOARD
+# Destiny Board
 
 *   The "proper order" in the text of "Destiny Board" means the order the Spirit Messages are placed on the field, not the order that they occupy your Spell and Trap Card Zones. So if you read your Zones from left to right as N-F-A-I-L, it is okay as long as they came on the field in the order of F-I-N-A-L.
 *   If you have two copies of "Destiny Board" on the field you may place two Spirit Messages from your hand or Deck onto the field but you cannot place the fifth one until one of your two "Destiny Boards" is removed from the field.

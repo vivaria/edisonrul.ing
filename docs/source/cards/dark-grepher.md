@@ -1,4 +1,4 @@
-# DARK GREPHER
+# Dark Grepher
 
 > Ⓢ You can discard 1 Level 5 or higher DARK monster to Special Summon this card from your hand. ① Once per turn, you can discard 1 DARK monster to send 1 DARK monster from your Deck to the Graveyard.
 

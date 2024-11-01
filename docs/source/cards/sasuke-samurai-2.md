@@ -1,4 +1,4 @@
-# SASUKE SAMURAI #2
+# Sasuke Samurai #2
 
 > ① Once per turn, during your Main Phase, you can pay 800 Life Points. If you do this, until the End Phase, Spell and Trap Cards cannot be activated.
 

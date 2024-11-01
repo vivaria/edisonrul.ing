@@ -1,4 +1,4 @@
-# YELLOW BABOON, ARCHER OF THE FOREST
+# Yellow Baboon, Archer Of The Forest
 
 > ① When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand.
   

@@ -1,4 +1,4 @@
-# FLASHBANG
+# Flashbang
 
 > Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn._
 

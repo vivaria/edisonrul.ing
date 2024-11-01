@@ -1,4 +1,4 @@
-# SKULL ZOMA
+# Skull Zoma
 
 *   When "Skull Zoma" is destroyed by battle, its effect activates when it is sent to the Graveyard at the end of the Damage Step. This effect still activates if it is removed from play instead, due to "Macro Cosmos", etc. This effect starts a Chain.
 *   When "Dark Ruler Ha Des" destroys "Skull Zoma" by battle, its effects are negated and it will not inflict damage.

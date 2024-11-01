@@ -1,4 +1,4 @@
-# SOUL-ABSORBING BONE TOWER
+# Soul-Absorbing Bone Tower
 
 *   If you have a "Soul-Absorbing Bone Tower" equipped with "Raregold Armor" and a Zombie-Type monster, your opponent cannot attack. Even if you have a Zombie-Type monster, "Gemini Elf", and a "Soul-Absorbing Bone Tower" equipped with "Raregold Armor", your opponent cannot attack.
 *   If you have another Zombie-Type monster and "Soul-Absorbing Bone Tower", your opponent cannot attack the "Soul-Absorbing Bone Tower", but if you equip the "Soul-Absorbing Bone Tower" with "Ring of Magnetism" your opponent can declare an attack but must attack the "Soul-Absorbing Bone Tower" equipped with the "Ring of Magnetism".

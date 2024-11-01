@@ -1,4 +1,4 @@
-# DARK SIMORGH
+# Dark Simorgh
 
 > ① While this card is face-up on the field its Attribute is also treated as WIND. ② You can remove from play 1 DARK monster and 1 WIND monster from your Graveyard to Special Summon this card from your hand. ③ You can remove from play 1 DARK monster and 1 WIND monster from your hand to Special Summon this card from your Graveyard. ④ Your opponent cannot Set any cards on the field.
 

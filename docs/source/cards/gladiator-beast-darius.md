@@ -1,4 +1,4 @@
-# GLADIATOR BEAST DARIUS
+# Gladiator Beast Darius
 
 > ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, you can select 1 "Gladiator Beast" monster from your Graveyard and Special Summon it. Ⓛ That monster's effect(s) is negated, and it is returned to your Deck when this card is removed from the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Darius"._
 

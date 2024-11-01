@@ -1,4 +1,4 @@
-# ANCIENT GEAR FIST
+# Ancient Gear Fist
 
 > Equip only to an "Ancient Gear" monster. Destroy any monster that battles with it, at the end of the Damage Step.
 

@@ -1,4 +1,4 @@
-# ZERO GARDNA
+# Zero Gardna
 
 *   Tributing "Zero Gardna" is a cost to activate the effect.
 *   You cannot activate this card during the Damage Step.

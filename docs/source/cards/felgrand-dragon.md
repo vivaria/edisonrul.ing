@@ -1,4 +1,4 @@
-# FELGRAND DRAGON
+# Felgrand Dragon
 
 *   If "Felgrand Dragon" is sent from the field to the Graveyard and afterwards it is removed from play (with "D.D. Crow", etc.), "Felgrand Dragon" cannot be Special Summoned with "Dimension Fusion" because "Felgrand Dragon" cannot be Special Summoned from the Removed Zone. If the “Felgrand Dragon” is returned to the Graveyard from the Removed Zone (with “Miracle Dig”, etc.), the “Felgrand Dragon” cannot be Special Summoned from the Graveyard because it was not sent from the field to the Graveyard.
 *   The ATK gained by "Felgrand Dragon" when it is Special Summoned disappears when "Felgrand Dragon" is removed from the field or flipped face-down.

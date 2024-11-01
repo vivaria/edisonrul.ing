@@ -1,4 +1,4 @@
-# LIFEFORCE HARMONIZER
+# Lifeforce Harmonizer
 
 > ① When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.
   

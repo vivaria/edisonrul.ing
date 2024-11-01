@@ -1,4 +1,4 @@
-# THE GRAVEYARD IN THE FOURTH DIMENSION
+# The Graveyard In The Fourth Dimension
 
 *   You select 2 monsters in your Graveyard when you activate "The Graveyard in the Fourth Dimension".
 *   This card targets 2 cards in the Graveyard.

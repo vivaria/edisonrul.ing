@@ -1,4 +1,4 @@
-# WHITE NIGHT DRAGON
+# White Night Dragon
 
 > ① Negate the activation of any Spell or Trap Card that targets this card, and destroy that card. ② When a face-up monster you control is selected as an attack target, you can send 1 Spell or Trap Card you control to the Graveyard to change the target to this card.
 

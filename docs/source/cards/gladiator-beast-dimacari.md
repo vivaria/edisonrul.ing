@@ -1,4 +1,4 @@
-# GLADIATOR BEAST DIMACARI
+# Gladiator Beast Dimacari
 
 > ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, it can attack twice during each Battle Phase. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Dimacari".
 

@@ -1,4 +1,4 @@
-# DISCORD
+# Discord
 
 *   Sending this card to the Graveyard during your 3rd End Phase after activation does not start a Chain.
 *   You can activate the effect of “Blackwing – Vayu the Emblem of Honor” while “Discord” is active to Special Summon a Synchro Monster because it is not a Synchro Summon.

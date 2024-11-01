@@ -1,4 +1,4 @@
-# GEMINI BOOSTER
+# Gemini Booster
 
 *   Both effects of this card target 1 face-up Gemini monster you control.
 *   The effect to treat a Gemini monster as an Effect Monster activates even if all Gemini monsters you control are being treated as Effect Monsters.

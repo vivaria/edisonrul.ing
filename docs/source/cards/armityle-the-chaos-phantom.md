@@ -1,4 +1,4 @@
-# ARMITYLE THE CHAOS PHANTOM
+# Armityle The Chaos Phantom
 
 > "Uria, Lord of Searing Flames" + "Hamon, Lord of Striking Thunder" + "Raviel, Lord of Phantasms"
 Ⓒ This card can only be Special Summoned from your Extra Deck by removing from play the above cards you control. (You do not use "Polymerization".) ① This card cannot be destroyed by battle. ② This card gains 10,000 ATK during your turn only.

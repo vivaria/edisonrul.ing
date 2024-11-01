@@ -1,4 +1,4 @@
-# ELECTRIC VIRUS
+# Electric Virus
 
 > ① By discarding this card from your hand to the Graveyard, take control of 1 face-up Machine or Dragon-Type monster your opponent controls until the end of this turn.
 

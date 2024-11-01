@@ -1,4 +1,4 @@
-# GROUND SPIDER
+# Ground Spider
 
 *   This effect does not target.
 *   If "[Ground Spider](https://yugioh.fandom.com/wiki/Ground_Spider)" is no longer on the field when its effect resolves, the monster will still be switched to Defense Position.

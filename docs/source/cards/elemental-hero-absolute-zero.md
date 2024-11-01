@@ -1,4 +1,4 @@
-# ELEMENTAL HERO ABSOLUTE ZERO
+# Elemental Hero Absolute Zero
 
 1 "Elemental Hero", "Destiny Hero", or "Evil Hero" monster + 1 WATER monster
 _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This card gains 500 ATK for each face-up WATER monster on the field, except "Elemental Hero Absolute Zero". ② When this card is removed from the field, destroy all monsters your opponent controls._

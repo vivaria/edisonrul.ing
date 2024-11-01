@@ -1,4 +1,4 @@
-# AMPHIBIOUS BUGROTH MK-3
+# Amphibious Bugroth Mk-3
 
 > ① While "Umi" is face-up on the field, this card can attack your opponent's Life Points directly.
 

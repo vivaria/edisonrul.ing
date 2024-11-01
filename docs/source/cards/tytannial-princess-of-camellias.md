@@ -1,4 +1,4 @@
-# TYTANNIAL, PRINCESS OF CAMELLIAS
+# Tytannial, Princess Of Camellias
 
 > ① You can Tribute 1 face-up Plant-Type monster you control to negate the activation of a Spell, Trap, or Effect Monster's effect that targets a card(s) on the field and destroy it.
 

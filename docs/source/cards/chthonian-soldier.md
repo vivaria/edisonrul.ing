@@ -1,4 +1,4 @@
-# CHTHONIAN SOLDIER
+# Chthonian Soldier
 
 *   The damage dealt by this card’s effect is Effect Damage, not Battle Damage.
 *   This card’s effect is a Trigger Effect. It activates in the Graveyard.

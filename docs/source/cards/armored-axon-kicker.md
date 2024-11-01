@@ -1,4 +1,4 @@
-# ARMORED AXON KICKER
+# Armored Axon Kicker
 
 > Ⓤ If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. ① If this card destroys an opponent's monster by battle, you take damage equal to half the destroyed monster's ATK. Then, you can Special Summon 1 monster from your Graveyard with ATK less than or equal to the damage you took.
 

@@ -1,4 +1,4 @@
-# WIDESPREAD DUD
+# Widespread Dud
 
 *   “Widespread Dud” targets the 2 face-up monsters. The effect to destroy the targeted monsters does not start a Chain.
 *   If “Enemy Controller” is Chained to “Widespread Dud” and shifts one of the targeted monsters to face-up Defense Position, “Widespread Dud” will still resolve normally.

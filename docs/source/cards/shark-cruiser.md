@@ -1,4 +1,4 @@
-# SHARK CRUISER
+# Shark Cruiser
 
 *   This effect is a Trigger effect.
 *   Even if this card is destroyed during the resolution of a Chain, you can activate its effect after the Chain finishes resolving. It does not “miss the timing.”

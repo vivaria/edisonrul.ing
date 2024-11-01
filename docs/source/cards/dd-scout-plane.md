@@ -1,4 +1,4 @@
-# D.D. SCOUT PLANE
+# D.D. Scout Plane
 
 *   "D. D. Scout Plane"'s effect can only activate once during the same End Phase, so if a combo of "Banisher of the Light" and "King Tiger Wanghu" is set up, "D. D. Scout Plane" will only be Special Summoned once.
 *   It is the OWNER of "D. D. Scout Plane" that Special Summons it. Even if your opponent controls your "D. D. Scout Plane", if it is removed from play, you get to Special Summon it.

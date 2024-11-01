@@ -1,4 +1,4 @@
-# CHANGING DESTINY
+# Changing Destiny
 
 *   This targets the opponent’s attacking monster.
 *   If you can’t change your opponent’s monster to Defense Position, you can’t apply the rest of the effect.

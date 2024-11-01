@@ -1,4 +1,4 @@
-# RAINBOW LIFE
+# Rainbow Life
 
 *   Discarding 1 card is a cost to activate "Rainbow LIfe".
 *   "Rainbow Life"'s effect is applied to Battle Damage and damage from effects.

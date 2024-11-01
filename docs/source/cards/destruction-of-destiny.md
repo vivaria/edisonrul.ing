@@ -1,4 +1,4 @@
-# DESTRUCTION OF DESTINY
+# Destruction Of Destiny
 
 *   Sending 3 cards from the top of your Deck to the Graveyard is part of the effect of “Destruction of Destiny”. It is not a cost.
 *   If “Macro Cosmos” is on the field the 3 cards will be removed from play, but you will still take damage for any Spell or Trap Cards.

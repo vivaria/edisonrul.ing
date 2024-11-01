@@ -1,4 +1,4 @@
-# SOUL ABSORPTION
+# Soul Absorption
 
 *   "Soul Absorption"'s effect is based on the number of cards, not on each "lump sum" of cards. So if 3 DARK monsters are removed from the Graveyard to Special Summon "Dark Necrofear", the controller of "Soul Absorption" gains 1500 Life Points.
 *   However, you receive the Life Points from "Soul Absorption" as a "lump sum", so in the case of "Dark Necrofear" you gain 1500 Life Points but your "Fire Princess" would only do 500 points of damage.

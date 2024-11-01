@@ -1,4 +1,4 @@
-# DOOMCALIBER KNIGHT
+# Doomcaliber Knight
 
 > Ⓒ This card cannot be Special Summoned. ① When an Effect Monster’s effect is activated, you must Tribute this card. Negate that effect’s activation, and destroy the monster.
 

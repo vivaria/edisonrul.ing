@@ -1,4 +1,4 @@
-# PLANT FOOD CHAIN
+# Plant Food Chain
 
 *   If the equipped monster is changed to another Type, this card will be destroyed.
 *   This card’s effect targets the Plant-Type monster to be Special Summoned.

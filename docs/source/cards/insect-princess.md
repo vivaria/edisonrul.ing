@@ -1,4 +1,4 @@
-# INSECT PRINCESS
+# Insect Princess
 
 *   While "Insect Princess" is on your side of the field, if you attack your opponent's face-down Insect-Type monster, it is changed to Attack Position after being flipped face-up (before damage calculation).
 *   While "Insect Princess" is on your side of the field, your opponent can change the Battle Position of his Insect-Type monsters once during his turn, but the Battle Position is immediately changed back to Attack Position.

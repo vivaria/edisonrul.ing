@@ -1,4 +1,4 @@
-# KOA’KI MEIRU POWERHAND
+# Koa’Ki Meiru Powerhand
 
 > During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa'ki Meiru" from your hand to the Graveyard or reveal 1 Normal Trap Card in your hand. If this card battles a LIGHT or DARK monster, any of that monster's effects that activate or apply on the field are negated during that Battle Phase, while this card remains on the field.
 

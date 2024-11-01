@@ -1,4 +1,4 @@
-# MAJESTIC RED DRAGON
+# Majestic Red Dragon
 
 *   The effect that negates a monster’s effect and increases “Majestic Red Dragon’s” ATK targets that monster.
 *   The effect that activates after damage calculation activates even if “Majestic Red Dragon” would be destroyed during damage calculation.

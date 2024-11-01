@@ -1,4 +1,4 @@
-# TYRANNO INFINITY
+# Tyranno Infinity
 
 *   The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.
 *   Remember that monsters removed from play go to the “removed zone” of the owner, even if controlled by the opponent, and even if they will return to the opponent’s side of the field later because of “Interdimensional Matter Transporter” or “Dimensionhole”.

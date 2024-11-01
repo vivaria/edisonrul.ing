@@ -1,4 +1,4 @@
-# MORPHTRONIC ACCELERATOR
+# Morphtronic Accelerator
 
 *   Returning 1 "Morphtronic" monster from your hand to the Deck is not a cost.
 *   "Morphtronic Accelerator" targets 1 card on the field.

@@ -1,4 +1,4 @@
-# BURST STREAM OF DESTRUCTION
+# Burst Stream Of Destruction
 
 *   If you activate "Burst Stream of Destruction", and the "Blue-Eyes White Dragon" is removed from the field with "Interdimensional Matter Transporter" or "Compulsory Evacuation Device", or flipped face-down with "Book of Moon", or destroyed by "Ring of Destruction", "Burst Stream of Destruction"'s effect still resolves.
 *   You can activate "Burst Stream of Destruction" when you cannot have a Battle Phase because of "Frozen Soul", "D. D. Border Line", "Soul Exchange", or "Great Long Nose".

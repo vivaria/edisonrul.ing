@@ -1,4 +1,4 @@
-# ALLY OF JUSTICE CATASTOR
+# Ally Of Justice Catastor
 
 > ① If this card attacks or is attacked by a non-DARK monster, destroy that monster at the start of the Damage Step (without damage calculation).
 

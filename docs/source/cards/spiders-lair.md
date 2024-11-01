@@ -1,4 +1,4 @@
-# SPIDER’S LAIR
+# Spider’S Lair
 
 *   This effect targets 1 face-up Insect-Type monster you control. It is targeted continuously.
 *   You can activate this effect targeting your Insect-Type monster during your Main Phase. It starts a Chain.

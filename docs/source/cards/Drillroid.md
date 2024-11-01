@@ -1,4 +1,4 @@
-# DRILLROID
+# Drillroid
 
 *   “Drillroid” can use its effect to destroy face-up and face-down Defense Position monsters that it attacks.
 *   Note that “Drillroid” does not say “without flipping the monster face-up”. The effect of “Drillroid” is applied after the monster is flipped face-up, but before damage calculation. If the Defense Position monster was face-down and has a Flip Effect, the Flip Effect will activate and resolve normally.

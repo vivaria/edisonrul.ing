@@ -1,4 +1,4 @@
-# NECROFACE
+# Necroface
 
 > ① When this card is Normal Summoned, shuffle all removed from play cards into their owner's Decks. This card gains 100 ATK for each of those cards. ② When this card is removed from play, both players remove from play the top 5 cards of their Deck.
 

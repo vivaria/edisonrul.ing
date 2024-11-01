@@ -1,4 +1,4 @@
-# LEGENDARY FIEND
+# Legendary Fiend
 
 *   When "Legendary Fiend" is removed from the field or flipped face-down, the ATK gain disappears.
 *   When control of "Legendary Fiend" shifts to another player, the ATK gain is still applied.

@@ -1,4 +1,4 @@
-# HERALD OF GREEN LIGHT
+# Herald Of Green Light
 
 > ① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an opponent's Spell Card and destroy it. This effect can be activated during either player's turn.
 

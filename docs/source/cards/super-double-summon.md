@@ -1,4 +1,4 @@
-# SUPER DOUBLE SUMMON
+# Super Double Summon
 
 *   The effect of returning the Gemini Monster to its owner’s hand during the End Phase does not begin a Chain.
 *   If the Gemini Monster Normal Summoned by “Super Double Summon” is flipped face-down or removed from the field, the effect to return it to its owner’s hand during the End Phase is not applied.

@@ -1,4 +1,4 @@
-# IRON CHAIN DRAGON
+# Iron Chain Dragon
 
 > ① You can remove from play all "Iron Chain" monsters from your Graveyard to have this card gain 200 ATK for each card removed, until the End Phase. ② When this card inflicts Battle Damage to your opponent, send the top 3 cards of your opponent's Deck to the Graveyard.
 

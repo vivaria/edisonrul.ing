@@ -1,4 +1,4 @@
-# POWER BOND
+# Power Bond
 
 *   The ATK bonus for “Power Bond” lasts as long as the Fusion Monster is face-up on the field. If it is flipped face-down or removed from the field, the ATK increase disappears.
 *   The ATK bonus for “Power Bond” is not a fixed number. It is a bonus equal to the original ATK. So if the original ATK changes, so does the bonus from “Power Bond”.

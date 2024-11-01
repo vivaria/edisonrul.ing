@@ -1,4 +1,4 @@
-# DEMISE, KING OF ARMAGEDDON
+# Demise, King Of Armageddon
 
 > Ⓒ This card can only be Ritual Summoned with the Ritual Spell Card, "End of the World". ① You can pay 2000 Life Points to destroy all cards on the field, except this card.
 

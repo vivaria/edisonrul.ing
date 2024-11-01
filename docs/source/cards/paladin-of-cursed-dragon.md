@@ -1,4 +1,4 @@
-# PALADIN OF CURSED DRAGON
+# Paladin Of Cursed Dragon
 
 > ① Once per turn, you can Special Summon 1 Level 4 or lower Zombie-Type monster that was destroyed by battle from your opponent's Graveyard to your side of the field.
 

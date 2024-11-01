@@ -1,4 +1,4 @@
-# WHITE MAGICIAN PIKERU
+# White Magician Pikeru
 
 *   Monster tokens and face-down monsters are included for "White Magician Pikeru"'s effect.
 *   Even if there are many monsters, "White Magician Pikeru" increases Life Points by 1 lump sum.

@@ -1,4 +1,4 @@
-# UNIFROG
+# Unifrog
 
 > ① This card can attack your opponent directly. ② When this card successfully attacks directly, if you control a "Frog" monster other than "Frog the Jam" or "Unifrog", you can destroy 1 Spell or Trap your opponent controls.
 

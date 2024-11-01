@@ -1,4 +1,4 @@
-# KAISER COLOSSEUM
+# Kaiser Colosseum
 
 > ① If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. Ⓒ The cards that are already on the field before this card's activation are unaffected by this effect.
 

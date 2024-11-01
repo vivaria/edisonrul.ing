@@ -1,4 +1,4 @@
-# REASONING
+# Reasoning
 
 *   Pick up cards until you pick up a monster that can be Normal Summoned.
 *   You can Special Summon a high-level monster like "Dark Magician" with "Reasoning", but not Special Summon-only monsters like "Gate Guardian", Ritual Monsters, etc.

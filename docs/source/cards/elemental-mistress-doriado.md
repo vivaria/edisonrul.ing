@@ -1,4 +1,4 @@
-# ELEMENTAL MISTRESS DORIADO
+# Elemental Mistress Doriado
 
 *   The effect of “Elemental Mistress Doriado” is a Continuous Effect, and it is only applied while she’s face-up on the field.
 *   You can activate “Fuh-Rin-Ka-Zan” if “Elemental Mistress Doriado” is face-up on the field (no other monsters are required).

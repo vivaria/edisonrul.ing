@@ -1,4 +1,4 @@
-# IRON CORE ARMOR
+# Iron Core Armor
 
 *   The effects of this card do not target.
 *   If you equip this card to your opponent’s monster and then attack that monster, your monster will lose ATK.

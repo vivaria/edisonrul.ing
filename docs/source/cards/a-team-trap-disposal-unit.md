@@ -1,4 +1,4 @@
-# A-TEAM: TRAP DISPOSAL UNIT
+# A-Team: Trap Disposal Unit
 
 > ① This effect can be used during either player's turn. When your opponent activates a Trap Card, Tribute this face-up card to negate the activation of the Trap Card and destroy it.
 

@@ -1,4 +1,4 @@
-# DOOM SHAMAN
+# Doom Shaman
 
 > ① This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:
 ● ② Once per turn, you can Special Summon 1 Fiend-Type monster from your hand or from either player's Graveyard. ③ When this card is removed from the field, destroy all Fiend-Type monsters Special Summoned by this effect.

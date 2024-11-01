@@ -1,4 +1,4 @@
-# RELINQUISHED
+# Relinquished
 
 > ① Once per turn, select 1 monster your opponent controls and equip it to this card (only 1 monster can be equipped to it at a time). ② This card's ATK and DEF become equal to the ATK and DEF of the monster equipped to this card. ③ If this card is destroyed by battle, the equipped monster is destroyed instead, and any battle damage you received from the battle is also inflicted to your opponent.
 

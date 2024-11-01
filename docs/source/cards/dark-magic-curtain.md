@@ -1,4 +1,4 @@
-# DARK MAGIC CURTAIN
+# Dark Magic Curtain
 
 *   Paying half of your Life Points is a cost to activate “Dark Magic Curtain”.
 *   If you Normal Summon, Flip Summon, or Special Summon a monster during a turn, you cannot activate “Dark Magic Curtain” during the same turn. For example, if you Normal Summon a monster during your Main Phase 1 you would not be able to activate “Dark Magic Curtain” during your Main Phase 2.

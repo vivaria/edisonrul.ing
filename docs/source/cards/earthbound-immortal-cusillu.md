@@ -1,4 +1,4 @@
-# EARTHBOUND IMMORTAL CUSILLU
+# Earthbound Immortal Cusillu
 
 *   Tributing 1 other monster you control is an effect, not a cost.
     *   If you Tribute “Lich Lord, King of the Underworld” for this effect, it will return to your hand.

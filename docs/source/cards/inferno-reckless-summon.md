@@ -1,4 +1,4 @@
-# INFERNO RECKLESS SUMMON
+# Inferno Reckless Summon
 
 *   "Inferno Reckless Summon" does not target. Your opponent chooses a monster on his/her side of the field when "Inferno Reckless Summon" resolves.
 *   "Inferno Reckless Summon" cannot be activated in the Damage Step.

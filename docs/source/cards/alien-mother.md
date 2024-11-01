@@ -1,4 +1,4 @@
-# ALIEN MOTHER
+# Alien Mother
 
 > ① If this card destroys a monster with an A-Counter by battle and sends it to the Graveyard, Special Summon the destroyed monster to your side of the field at the end of the Battle Phase. ② When this card is removed from the field, all monsters that were Special Summoned by this card's effect are destroyed.
 

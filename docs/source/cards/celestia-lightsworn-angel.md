@@ -1,4 +1,4 @@
-# CELESTIA, LIGHTSWORN ANGEL
+# Celestia, Lightsworn Angel
 
 > ① When you Tribute Summon this card by Tributing a "Lightsworn" monster, you can send the top 4 cards of your Deck to the Graveyard to destroy up to 2 cards your opponent controls.
 

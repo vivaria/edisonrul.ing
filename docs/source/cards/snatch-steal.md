@@ -1,4 +1,4 @@
-# SNATCH STEAL
+# Snatch Steal
 
 *   Your cannot select your opponent's face-down monster.
 *   If you equip your opponent's monster with "Snatch Steal", and later your opponent equips the same monster with "Snatch Steal", your opponent gains control of the monster.

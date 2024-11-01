@@ -1,4 +1,4 @@
-# EARTHBOUND IMMORTAL URU
+# Earthbound Immortal Uru
 
 *   Tributing 1 monster is a cost to activate this effect.
 *   This effect targets 1 face-up monster your opponent controls.

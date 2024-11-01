@@ -1,4 +1,4 @@
-# BANISHER OF THE LIGHT
+# Banisher Of The Light
 
 > ① As long as this card remains face-up on the field, any card sent to the Graveyard is removed from play.
 

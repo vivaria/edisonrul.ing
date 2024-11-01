@@ -1,4 +1,4 @@
-# EVIL HERO INFERNAL GAINER
+# Evil Hero Infernal Gainer
 
 *   The Fiend-Type monster selected for “Evil Hero Infernal Gainer’s” effect can attack twice during the Battle Phase as long as it remains face-up on the field.
 *   During your second Standby Phase after activating “Evil Hero Infernal Gainer’s” effect, if you have no available Monster Zone spaces when “Evil Hero Infernal Gainer’s” effect tries to Special Summon it onto your side of the field, the “Evil Hero Infernal Gainer” will be sent to the Graveyard.

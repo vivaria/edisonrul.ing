@@ -1,4 +1,4 @@
-# CYBER SHADOW GARDNA
+# Cyber Shadow Gardna
 
 *   A Field Spell Card or similar effect will adjust the ATK/DEF of “Cyber Shadow Gardna” accordingly after it copies the ATK & DEF of another monster.
 *   You cannot chain to the effect of “Cyber Shadow Gardna” that copies another monster’s ATK & DEF.

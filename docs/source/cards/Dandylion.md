@@ -1,4 +1,4 @@
-# DANDYLION
+# Dandylion
 
 > ① When this card is sent to the Graveyard, Special Summon 2 "Fluff Tokens" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. Ⓒ These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.
 

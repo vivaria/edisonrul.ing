@@ -1,4 +1,4 @@
-# QUEEN OF THORNS
+# Queen Of Thorns
 
 > ① Each player must pay 1000 Life Points to Normal or Special Summon a non-Plant-Type monster from their hand.
 

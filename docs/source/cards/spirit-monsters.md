@@ -1,4 +1,4 @@
-# SPIRIT MONSTERS
+# Spirit Monsters
 
 The following rules apply to all Spirit Monsters:
 

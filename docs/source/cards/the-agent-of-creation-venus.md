@@ -1,4 +1,4 @@
-# THE AGENT OF CREATION - VENUS
+# The Agent Of Creation - Venus
 
 *   You can activate "The Agent of Creation - Venus"' effect multiple times in the same turn.
 *   You get the "Mystical Shine Ball" when "The Agent of Creation - Venus"' effect resolves.

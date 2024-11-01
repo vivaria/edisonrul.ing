@@ -1,4 +1,4 @@
-# PRIMAL SEED
+# Primal Seed
 
 *   "Primal Seed" can add cards to your hand that were removed from play face-up ("Dimensionhole") or face-down ("Different Dimension Capsule").
 *   You target the 2 removed cards when you activate "Primal Seed".

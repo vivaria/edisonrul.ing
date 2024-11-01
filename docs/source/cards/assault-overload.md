@@ -1,4 +1,4 @@
-# ASSAULT OVERLOAD
+# Assault Overload
 
 > Tribute 1 "/Assault Mode" monster. Inflict damage to both players equal to its Level x 200.
 

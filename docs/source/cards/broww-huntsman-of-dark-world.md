@@ -1,4 +1,4 @@
-# BROWW, HUNTSMAN OF DARK WORLD
+# Broww, Huntsman Of Dark World
 
 Also see rulings for “Dark World Monsters”.
 

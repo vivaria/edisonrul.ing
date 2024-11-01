@@ -1,4 +1,4 @@
-# ASSAULT MERCENARY
+# Assault Mercenary
 
 > ① Once per turn, you can return 1 "Assault Mode Activate" from your hand or Graveyard to the Deck to destroy 1 Spell or Trap Card your opponent controls.
 

@@ -1,4 +1,4 @@
-# PREPARATION OF RITES
+# Preparation Of Rites
 
 > (1A) Add to your hand 1 Level 7 or lower Ritual Monster Card from your Deck. (1B) Then you can add to your hand 1 Ritual Spell Card from your Graveyard.
 

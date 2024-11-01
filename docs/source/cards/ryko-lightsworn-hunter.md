@@ -1,4 +1,4 @@
-# RYKO, LIGHTSWORN HUNTER
+# Ryko, Lightsworn Hunter
 
 > FLIP: Ⓐ You can destroy 1 card on the field. Ⓑ Send the top 3 cards of your Deck to the Graveyard.
 

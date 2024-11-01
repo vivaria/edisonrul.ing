@@ -1,4 +1,4 @@
-# SPIDER WEB
+# Spider Web
 
 *   The effects of this card do not start a Chain. They apply to both players’ monsters.
 *   If “Total Defense Shogun” attacks while in Defense Position, the effect of “Spider Web” is not applied.

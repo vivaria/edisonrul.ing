@@ -1,4 +1,4 @@
-# BANNER OF COURAGE
+# Banner Of Courage
 
 > ① During your Battle Phase, all monsters you control gain 200 ATK.
 

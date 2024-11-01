@@ -1,4 +1,4 @@
-# MIND MASTER
+# Mind Master
 
 *   Paying 800 Life Points and Tributing 1 other Psychic-Type monster is a cost.
 *   You can activate this effect multiple times during the same turn if you can continue to pay the cost.

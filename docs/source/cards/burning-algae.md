@@ -1,4 +1,4 @@
-# BURNING ALGAE
+# Burning Algae
 
 *   "Burning Algae"'s effect activates when sent to the Graveyard from the field, your hand, or your Deck.
 *   "Burning Algae"'s effect activates in the Graveyard, so when a face-down "Burning Algae" is sent to the Graveyard, or "Burning Algae" in your opponent's hand is sent to your Graveyard, the effect is activated.

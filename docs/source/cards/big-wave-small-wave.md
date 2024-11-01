@@ -1,4 +1,4 @@
-# BIG WAVE SMALL WAVE
+# Big Wave Small Wave
 
 *   You can Special Summon high-level WATER monsters with "Big Wave Small Wave", like "Levia-Dragon - Daedalus", "Suijin", or "Gogiga Gagagigo".
 *   You cannot use "Big Wave Small Wave" to Summon "Special Summon-only" WATER monsters like "Aqua Spirit" or "Fenrir".

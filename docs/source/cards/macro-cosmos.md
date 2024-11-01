@@ -1,4 +1,4 @@
-# MACRO COSMOS
+# Macro Cosmos
 
 > ① You can Special Summon 1 “Helios – The Primordial Sun” from your hand or Deck when you activate this card. ② While this card is on the field, any card sent to the Graveyard is removed from play instead.
 

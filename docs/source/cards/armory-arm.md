@@ -1,4 +1,4 @@
-# ARMORY ARM
+# Armory Arm
 
 > ① Once per turn, you can equip this card to a monster OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 1000 ATK. ③ When the equipped monster destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the destroyed monster’s ATK.
 

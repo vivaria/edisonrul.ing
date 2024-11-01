@@ -1,4 +1,4 @@
-# MALEVOLENT MECH - GOKU EN
+# Malevolent Mech - Goku En
 
 > Ⓤ You can Normal Summon this card without Tributing. ① If you do, this card is sent to the Graveyard during the End Phase if it is the only Zombie-Type monster on the field. When it is sent to the Graveyard by this effect, you take damage equal to its ATK.
 

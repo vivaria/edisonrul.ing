@@ -1,4 +1,4 @@
-# AUTOMATIC LASER
+# Automatic Laser
 
 > When your opponent Normal or Special Summons a monster(s) with 1000 or more ATK, reveal 1 "Iron Core of Koa'ki Meiru" in your hand to activate this card. Destroy that Summoned monster(s).
 

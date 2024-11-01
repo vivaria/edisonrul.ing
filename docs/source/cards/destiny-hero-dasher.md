@@ -1,4 +1,4 @@
-# DESTINY HERO - DASHER
+# Destiny Hero - Dasher
 
 > ① Once per turn, by Tributing 1 monster, this card gains 1000 ATK until the end of this turn. ② If this card attacks, it is changed to Defense Position at the end of the Battle Phase. ③ While this card is in the Graveyard, one time only, when you draw a Monster Card during your Draw Phase you can show it to your opponent and Special Summon it.
 

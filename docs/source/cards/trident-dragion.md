@@ -1,4 +1,4 @@
-# TRIDENT DRAGION
+# Trident Dragion
 
 *   The restriction against Special Summoning “Trident Dragion,” except by Synchro Summon, is not an ‘effect’.
 *   The effect of “Trident Dragion” that destroys cards is a Trigger Effect that targets.

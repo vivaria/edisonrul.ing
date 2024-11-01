@@ -1,4 +1,4 @@
-# KYCOO THE GHOST DESTROYER
+# Kycoo The Ghost Destroyer
 
 > ① When this card inflicts Battle Damage to your opponent, you can remove from play up to 2 Monster Cards from their Graveyard. ② Your opponent cannot remove from play cards from either player’s Graveyard.
 

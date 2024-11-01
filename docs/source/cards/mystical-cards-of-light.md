@@ -1,4 +1,4 @@
-# MYSTICAL CARDS OF LIGHT
+# Mystical Cards Of Light
 
 *   You select which Spell & Trap Card Zone to make unusable when you activate "Mystical Cards of Light".
 *   You cannot activate "Mystical Cards of Light" if you do not have a Spell & Trap Card Zone to make unusable.

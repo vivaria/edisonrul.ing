@@ -1,4 +1,4 @@
-# INVASION OF FLAMES
+# Invasion Of Flames
 
 *   The effect of this monster prevents the activation of Trap Cards that can be activated when a monster is Normal Summoned, such as "Trap Hole" and "Torrential Tribute".
 *   You can activate Trap Cards later in the turn.

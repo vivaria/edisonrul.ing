@@ -1,4 +1,4 @@
-# ABSORBING KID FROM THE SKY
+# Absorbing Kid From The Sky
 
 > ① When this card destroys a monster and sends it to the Graveyard as a result of battle, increase your Life Points by the Level of the destroyed monster x 300 points.
 

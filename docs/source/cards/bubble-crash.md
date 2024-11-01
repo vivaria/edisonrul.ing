@@ -1,4 +1,4 @@
-# BUBBLE CRASH
+# Bubble Crash
 
 *   This card can be activated when EITHER player has 6 cards or more combined in hand and on the field.
 *   All selected cards on both players’ side of the field are sent to their respective Graveyards simultaneously.

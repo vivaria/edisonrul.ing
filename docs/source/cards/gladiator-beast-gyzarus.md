@@ -1,4 +1,4 @@
-# GLADIATOR BEAST GYZARUS
+# Gladiator Beast Gyzarus
 
 > “Gladiator Beast Bestiari” + 1 Gladiator Beast monster_
 _Ⓢ This card can only be Special Summoned from your Fusion Deck by returning the above cards you control to the Deck. (You do not use “Polymerization”.) ① When this card is Special Summoned, you can destroy up to 2 cards on the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return this card to the Fusion Deck to Special Summon 2 “Gladiator Beast” monsters from your Deck, except “Gladiator Beast Bestiari”.

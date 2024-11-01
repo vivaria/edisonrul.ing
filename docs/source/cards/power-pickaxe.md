@@ -1,4 +1,4 @@
-# POWER PICKAXE
+# Power Pickaxe
 
 *   This effect targets the monster in your opponent’s Graveyard.
 *   Removing the monster is an effect, not a cost.

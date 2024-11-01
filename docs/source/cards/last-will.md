@@ -1,4 +1,4 @@
-# LAST WILL
+# Last Will
 
 *   You can activate “Last Will” before or after a monster is sent to the Graveyard, and still get the effect of “Last Will” to Special Summon a monster.
 *   You can choose the timing for when you Special Summon for the effect of “Last Will”. You can Special Summon the monster at any time during your turn, except during damage calculation. You do not have to Special Summon the monster at the point the first monster was sent to the Graveyard. If you activated “Last Will” after a monster was sent to the Graveyard, you do not have to Special Summon the monster when “Last Will” resolves.

@@ -1,4 +1,4 @@
-# URIA, LORD OF SEARING FLAMES
+# Uria, Lord Of Searing Flames
 
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by sending 3 face-up Trap Cards you control to the Graveyard. ① This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. ② Once per turn, you can destroy 1 Set Spell or Trap Card your opponent controls. (2C) Spell and Trap Cards cannot be activated in response to this effect's activation.
 

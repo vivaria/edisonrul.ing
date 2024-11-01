@@ -1,4 +1,4 @@
-# MATAZA THE ZAPPER
+# Mataza The Zapper
 
 *   You cannot use "Change of Heart" on a face-up "Mataza the Zapper".
 *   If you take control of a face-down "Mataza the Zapper" and flip it face-up, it stays on your side of the field and doesn't return to the original controller.

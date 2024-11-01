@@ -1,4 +1,4 @@
-# MYSTIC SWORDSMAN LV6
+# Mystic Swordsman LV6
 
 *   The Normal Summon (Tribute Summon) of this monster is the same as, and always considered, a Tribute Set. This card must be in face-down Defense Position when it is Normal Summoned (Tribute Summoned). If you Normal Summon (Tribute Summon) this monster, it is placed face-down on the field; you do not have to show your opponent what monster it is.
 *   If your "Mystic Swordsman LV6" destroys your own monster that is being controlled by your opponent, that monster is sent to the Graveyard. You cannot return it to the top of your opponent’s Deck or the top of your own Deck.

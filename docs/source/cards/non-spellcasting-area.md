@@ -1,4 +1,4 @@
-# NON-SPELLCASTING AREA
+# Non-Spellcasting Area
 
 *   While "Non-Spellcasting Area" is active, you cannot use face-up monsters on the field, except Effect Monsters, for "Polymerization" or Ritual Spell Cards.
 *   While "Non-Spellcasting Area" is active, no Spell Card, including "Raigeki" or Equip Spell Cards, can affect a monster, unless it is an Effect Monster.

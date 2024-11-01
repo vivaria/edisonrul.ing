@@ -1,4 +1,4 @@
-# INFERNAL INCINERATOR
+# Infernal Incinerator
 
 *   Discarding your hand is a cost to Normal Summon or Set this card. It will not activate the effect of a card like “Goldd, Wu-Lord of Dark World”.
 *   You must have at least 1 other card in your hand, besides “Infernal Incinerator”, to discard when your Normal Summon or Set “Infernal Incinerator”.

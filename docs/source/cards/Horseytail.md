@@ -1,4 +1,4 @@
-# HORSEYTAIL
+# Horseytail
 
 *   If "Horseytail" is declared with "Prohibition" after the "Horsetail Token" is Special Summoned, the discard effect is applied when "Horseytail Token" is destroyed.
 *   If a "Horseytail Token" is Special Summoned onto your side of the field by the effect of your opponent's "Horseytail", when it is destroyed by battle with a Plant-Type monster and you send a card from your hand to the Graveyard, if you send "Elephant Statue of Disaster" to the Graveyard, its effect does not activate.

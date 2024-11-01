@@ -1,4 +1,4 @@
-# NECROVALLEY
+# Necrovalley
 
 > ① Negate the effects of Spells, Traps, and Effect Monsters that target a card(s) in either player’s Graveyard. ② Cards in either player’s Graveyard cannot be removed from play. ③ All “Gravekeeper’s” monsters gain 500 ATK and DEF.
 

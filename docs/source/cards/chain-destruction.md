@@ -1,4 +1,4 @@
-# CHAIN DESTRUCTION
+# Chain Destruction
 
 *   You can activate "Chain Destruction" when you or your opponent Summons the monster.
 *   If you activate "Chain Destruction" when a Fusion Monster is Summoned, monsters in the Extra Deck with the same name as the Summoned monster are destroyed.

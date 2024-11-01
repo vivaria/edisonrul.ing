@@ -1,4 +1,4 @@
-# SECRET VILLAGE OF THE SPELLCASTERS
+# Secret Village Of The Spellcasters
 
 > ① If you control a Spellcaster-Type monster and your opponent does not, your opponent cannot activate Spell Cards. ② If you control no Spellcaster-Type monsters, you cannot activate Spell Cards.
 

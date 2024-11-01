@@ -1,4 +1,4 @@
-# CATOBLEPAS AND THE WITCH OF FATE
+# Catoblepas And The Witch Of Fate
 
 *   You cannot activate this effect during the Damage Step.
 *   Removing from play 1 monster with ? is a cost.

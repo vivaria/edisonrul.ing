@@ -1,4 +1,4 @@
-# TWIN-HEADED BEHEMOTH
+# Twin-Headed Behemoth
 
 *   The effect of this card is only activated when it is "destroyed". It will not activate if Tributed, discarded, or sent to the Graveyard.
 *   When "Twin-Headed Behemoth" is Special Summoned by its own effect you can activate "Card of Safe Return" and draw 1 card.

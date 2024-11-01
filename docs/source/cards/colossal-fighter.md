@@ -1,4 +1,4 @@
-# COLOSSAL FIGHTER
+# Colossal Fighter
 
 > ① This card gains 100 ATK for every Warrior-Type monster in any Graveyard. ② When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Warrior-Type monster from either player's Graveyard.
 

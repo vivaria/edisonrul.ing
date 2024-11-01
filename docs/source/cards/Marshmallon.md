@@ -1,4 +1,4 @@
-# MARSHMALLON
+# Marshmallon
 
 > ① The controller of a monster that attacks this face-down card takes 1000 damage after damage calculation. ② This card cannot be destroyed by battle. (Damage calculation is applied normally.)
 

@@ -1,4 +1,4 @@
-# ATOMIC FIREFLY
+# Atomic Firefly
 
 > ① When this face-up card on the field attacks or is attacked and it is destroyed as a result of battle, the player who destroyed it takes 1000 points of damage.
 

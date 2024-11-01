@@ -1,4 +1,4 @@
-# BARRIER STATUE OF THE TORRENT
+# Barrier Statue Of The Torrent
 
 > ① Neither player can Special Summon monsters, except WATER monsters.
 

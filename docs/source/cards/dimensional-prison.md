@@ -1,4 +1,4 @@
-# DIMENSIONAL PRISON
+# Dimensional Prison
 
 > Activate only when your opponent declares an attack. Remove from play the attacking monster.
 

@@ -1,4 +1,4 @@
-# BOOK OF TAIYOU
+# Book Of Taiyou
 
 > Flip 1 face-down monster on the field into face-up Attack Position.
 

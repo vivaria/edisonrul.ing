@@ -1,4 +1,4 @@
-# KIRYU
+# Kiryu
 
 > ① Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Dark Blade" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. ② While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 900 points, and you can Tribute this card to allow the equipped monster to attack your opponent's Life Points directly this turn. Ⓒ (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)
 
