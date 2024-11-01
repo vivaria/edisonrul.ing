@@ -1,0 +1,7 @@
+{%- for type, url in downloads %}
+{%- if type == 'epub' %}
+            <a href="{{ url }}" title="EPUB">
+              {% include '../_static/img/book.svg' %}
+            </a>
+{%- endif %}
+{%- endfor %}

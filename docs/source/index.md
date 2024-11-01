@@ -1,6 +1,6 @@
 # Yu-Gi-Oh! Edison Rulings
 
-This website contains the text of [Edisonformat.com](https://www.edisonformat.com/)'s [Individual Card Rulings](https://www.edisonformat.com/rulings), updated to make it easier to navigate. This website is easily searchable, and links to individual cards can be shared on Discord, DuelingBook, etc.
+This website contains the text of [Edisonformat.com](https://www.edisonformat.com/)'s [Individual Card Rulings](https://www.edisonformat.com/rulings), updated to make it easier to navigate. This website is easily searchable, and links to individual cards can be shared on Discord, DuelingBook, etc. You can also download a PDF or EPUB copy of this site using the button in the top-right for easy offline viewing (e.g. for judging events with spotty internet).
 
 If you come across any errors or missing details, please feel free to [open an issue](https://github.com/vivaria/edisonrul.ing/issues/new) on GitHub. Or, if you'd like, you can open a pull request with your proposed changes. Rulings are stored as easy-to-read Markdown, and each page contains a link at the bottom to edit the source, so let's come together as a community and create the best rulings site we can for Edison. :)
 

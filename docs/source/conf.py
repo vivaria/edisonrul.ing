@@ -8,6 +8,8 @@
 
 project = 'edisonrul.ing'
 author = 'vivaria'
+copyright = 'vivaria'
+version = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -34,6 +36,7 @@ myst_enable_extensions = [
 ]
 templates_path = ['_templates']
 exclude_patterns = []
+suppress_warnings = ['epub.unknown_project_files']
 
 
 
@@ -44,10 +47,16 @@ html_theme = 'insipid'
 html_theme_options = {
     'body_centered': False,
     'breadcrumbs': False,
-    'right_buttons': [
+    'left_buttons': [
+        'search-button.html',
         'fullscreen-button.html',
-        'repo-button.html'
-    ]
+    ],
+    'right_buttons': [
+        'pdf-button.html',
+        'epub-button.html',
+        'repo-button.html',
+    ],
+    'show_insipid': False,
 }
 html_sidebars = {
     '**': [
@@ -66,6 +75,10 @@ html_context = {
     'github_repo': 'edisonrul.ing',
     'conf_py_path': '/docs/source/',
     'commit': 'main',
+    'downloads': [
+        ('pdf', 'https://edisonrul.ing/_/downloads/en/latest/pdf/'),
+        ('epub', 'https://edisonrul.ing/_/downloads/en/latest/epub/'),
+    ],
 }
 html_last_updated_fmt = '%Y-%m-%d'
 html_show_copyright = False
