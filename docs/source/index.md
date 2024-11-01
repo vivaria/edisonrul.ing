@@ -1,8 +1,8 @@
-# edisonrul.ing
+# Edison Rulings
 
 ```{toctree}
 :maxdepth: 2
-:caption: Contents:
+:caption: Card rulings:
 
 rulings.md
 ```
