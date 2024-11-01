@@ -1,5 +1,5 @@
+# BELIAL - MARQUIS OF DARKNESS
 
-# BELIAL - MARQUIS OF DARKNESS  
 > ① Your opponent cannot select any monster you control, except "Belial - Marquis of Darkness", as an attack target, or as a target of a Spell or Trap Card.
 
 *   The ① Continuous Effect applies so long as "Belial - Marquis of Darkness" is face-up on the field.
@@ -12,5 +12,3 @@
     *   target your face-down Defense Position monsters with Spell / Trap Cards & Effects \[REF needed, errata'd in 2011\];
     *   attack your face-down Defense Position monsters \[REF needed, errata'd in 2011\].
 *   If you control "Evil HERO Malicious Fiend" & "Belial - Marquis of Darkness", and their effects are active, your opponent's monsters are changed to Attack Position and must attack "Evil HERO Malicious Fiend".
-
-  

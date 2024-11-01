@@ -1,4 +1,3 @@
-
 # HEART OF CLEAR WATER
 
 *   You may equip this card to a monster with ATK 1300 or greater, but it will be immediately destroyed.
@@ -8,5 +7,3 @@
 *   If you Special Summon a monster with "Premature Burial" or "Call of the Haunted" and then equip that monster with "Heart of Clear Water", the monster will not be destroyed if "Premature Burial" or "Call of the Haunted" is destroyed.
 *   A monster equipped with this card can still be destroyed by effects that do not target, such as the effects of "Fissure", "Dark Hole", "Smashing Ground", or "Torrential Tribute".
 *   A monster equipped with this card cannot be destroyed by a card that targets, but it may still be declared a target. So the opponent may activate "Nightmare Wheel" or "Snatch Steal" targeting your monster equipped with "Heart of Clear Water".
-
-  

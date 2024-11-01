@@ -1,4 +1,3 @@
-
 # SAVAGE COLOSSEUM
 
 *   The effect of gain Life Points and the effect to destroy monsters both start a Chain.
@@ -10,5 +9,3 @@
 *   The effect to destroy monsters activates every End Phase even if there aren’t any monsters that did not declare an attack.
 *   If a monster is Special Summoned during the End Phase after the effect of “Savage Colosseum” has activated and resolved, the effect of “Savage Colosseum” will not activate again during the same End Phase.
 *   The effect of “Savage Colosseum” is activated by its controller.
-
-  

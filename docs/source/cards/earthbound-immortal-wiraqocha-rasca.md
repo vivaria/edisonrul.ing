@@ -1,4 +1,3 @@
-
 # EARTHBOUND IMMORTAL WIRAQOCHA RASCA
 
 *   This effect targets 1-3 cards you control.
@@ -10,5 +9,3 @@
 *   If this card is turned face-down by a card that is chained to its effect, cards will still be returned to the Deck and your opponent will still discard, but this card will not gain any ATK.
 *   If your opponent has fewer cards in hand than the number of cards you return to the Deck when this effect resolves, all of their remaining cards are discarded and this card will gain ATK only for each card discarded.
 *   If your opponent has no cards in hand when you Normal Summon this card, you cannot activate its effect.
-
-  

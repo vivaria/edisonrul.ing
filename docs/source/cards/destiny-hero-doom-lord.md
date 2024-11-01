@@ -1,5 +1,5 @@
+# DESTINY HERO - DOOM LORD
 
-# DESTINY HERO - DOOM LORD  
 > ① Once per turn, if this card is in face-up Attack Position, you can remove from play 1 monster your opponent controls. Ⓒ If you use this effect, you cannot declare an attack this turn, and the removed monster will be returned to the opponent's side of the field in the same battle position during your second Standby Phase after activation.
 
 *   The ① Ignition Effect targets a monster.
@@ -12,5 +12,3 @@
     *   Returning the monster to play does not start a chain. The effect will resolve and the monster will return to play during your 2nd Standby Phase even if “Destiny Hero – Doom Lord” is not on the field.
     *   If your 2nd Standby Phase is skipped (by “Solomon’s Lawbook”), the monster will never return.
     *   You can activate this effect even if your Battle Phase skipped by a card effect like “Soul Exchange”.
-
-  

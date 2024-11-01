@@ -1,5 +1,5 @@
+# ALIEN KID
 
-# ALIEN KID  
 > ① Place 1 A-Counter on all monsters Special Summoned to your opponent's side of the field. ② (If a monster with an A-Counter battles an "Alien" monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.)
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
@@ -8,5 +8,3 @@
     *   If "Alien Kid" is face-up on the field when multiple monsters are Special Summoned simultaneously, then each Special Summoned monster gains one A-Counter.
 *   The ② Continuous Effect applies while this card is face-up on the field.
     *   If this card is not on the field, a monster with an A-Counter won't lose ATK when battling an "Alien".
-
-  

@@ -1,4 +1,3 @@
-
 # THUNDER NYAN NYAN
 
 *   You may Summon "Thunder Nyan Nyan" even if you have non-LIGHT monsters on the field, but she will be destroyed.
@@ -7,5 +6,3 @@
 *   You can Special Summon "Thunder Nyan Nyan" with the effect of "Cyber Jar" but if you Summon another non-LIGHT monster face-up she will be destroyed.
 *   "Thunder Nyan Nyan" can be destroyed by her own effect between steps in a chain. For example, the opponent targets your "Thunder Nyan Nyan" with "Snatch Steal". You chain "Call of the Haunted" to Special Summon "Dark Magician" from your Graveyard, a DARK monster. The chain resolves as follows: "Call of the Haunted" resolves, "Thunder Nyan Nyan" is destroyed because there is a DARK monster on the field, "Snatch Steal"’s effect disappears because the target is no longer on the field.
 *   If you have a face-up "Thunder Nyan Nyan" and your Set "Penguin Soldier" is attacked, when it is flipped face-up "Thunder Nyan Nyan" will be destroyed, before it can be targeted by the effect of "Penguin Soldier".
-
-  

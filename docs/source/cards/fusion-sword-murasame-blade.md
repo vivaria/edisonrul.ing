@@ -1,4 +1,3 @@
-
 # FUSION SWORD MURASAME BLADE
 
 *   If this card is face-down on the field, it can be destroyed by effects that destroy Spell Cards.
@@ -12,5 +11,3 @@
 *   This card can be returned to the owner’s hand by the effect of "Giant Trunade" or ‘Tornado Bird".
 *   If the monster this card is equipped to has its Type changed to anything but Warrior-Type, this card is destroyed.
 *   If the opponent chains "Mystical Space Typhoon" to the activation of this card, this card is destroyed before its effect can be applied.
-
-  

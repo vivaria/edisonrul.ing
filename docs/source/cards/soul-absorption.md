@@ -1,4 +1,3 @@
-
 # SOUL ABSORPTION
 
 *   "Soul Absorption"'s effect is based on the number of cards, not on each "lump sum" of cards. So if 3 DARK monsters are removed from the Graveyard to Special Summon "Dark Necrofear", the controller of "Soul Absorption" gains 1500 Life Points.
@@ -8,5 +7,3 @@
 *   If "Soul Absorption"'s effect activates in response to the Special Summon of a monster like "Dark Necrofear" or "Inferno", Soul Absorption's effect activates after the monster is Special Summoned.
 *   For "Chaosrider Gustapth", activate "Soul Absorption"'s effect after "Chaosrider Gustaph"'s effect resolves.
 *   Your "Soul Absorption"'s effect activates even when your opponent's cards are removed.
-
-  

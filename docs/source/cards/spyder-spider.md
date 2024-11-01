@@ -1,4 +1,3 @@
-
 # SPYDER SPIDER
 
 *   This is a Trigger Effect that targets 1 Level 4 or lower Insect-Type monster in your Graveyard.

@@ -1,4 +1,3 @@
-
 # ORDEAL OF A TRAVELER
 
 *   You can activate the effect of "Ordeal of a Traveler" each time your opponent attacks.
@@ -7,5 +6,3 @@
 *   You cannot activate "Ordeal of a Traveler"’s effect if you have no cards in your hand.
 *   When "Ordeal of a Traveler" & "Fairy Box" are both active, "Fairy Box" (mandatory) is step 1 of the chain, and "Ordeal of a Traveler" (optional) is step 2.
 *   When you activate "Ordeal of a Traveler"’s effect as a chain to "Magic Cylinder", since "Ordeal of a Traveler" resolves first, if your opponent guesses incorrectly then the attack does not resolve and the effect of "Magic Cylinder" disappears. If multiple copies of "Ordeal of a Traveler" are active, their effects are cumulative.
-
-  

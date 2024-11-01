@@ -1,4 +1,3 @@
-
 # CONSCRIPTION
 
 *   Both players get to see the card picked up for “Conscription”.
@@ -7,5 +6,3 @@
 *   If you pick up “Rare Metal Dragon” for “Conscription”, it is added to your opponent’s hand.
 *   If you cannot Summon because you activated “Scapegoat” or “Stray Lambs” that turn, you cannot activate “Conscription”.
 *   You can use “Royal Oppression" to negate the Special Summon of “Conscription”.
-
-  

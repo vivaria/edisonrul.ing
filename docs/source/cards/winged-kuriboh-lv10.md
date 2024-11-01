@@ -1,4 +1,3 @@
-
 # WINGED KURIBOH LV10
 
 *   “Winged Kuriboh LV10's” effect is a Quick Effect. You cannot activate this effect during the Damage Step.
@@ -9,5 +8,3 @@
 *   You may return “Winged Kuriboh LV10” from your Graveyard to your Deck with the effect of “The Graveyard in the Fourth Dimension”.
 *   If an opponent’s monster cannot be destroyed by the effect of “Winged Kuriboh LV10”, no damage is dealt for that monster’s ATK. For example, if “Master Monk” targeted by “Lone Wolf” is on the field, it is unaffected by monster effects, so it will not be destroyed and its 1900 original ATK points will not be inflicted to its controller.
 *   You can activate the effect of “Winged Kuriboh LV10” if “Skill Drain” is on the field, and its effect will resolve normally and not be negated, because it is no longer a face-up monster on the field.
-
-  

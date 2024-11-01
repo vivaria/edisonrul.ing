@@ -1,4 +1,3 @@
-
 # CRYSTAL BEAST EMERALD TORTOISE
 
 *   You choose whether or not to use the “Crystal Beast” effect at the time the destroyed monster would be sent to the Graveyard.
@@ -13,5 +12,3 @@
 *   If you control a "Crystal Beast" equipped with "Premature Burial" and have no open Spell & Trap Card Zones, when that "Crystal Beast" is destroyed "Premature Burial" is also destroyed and then you can choose to put that "Crystal Beast" into the now empty Zone.
 *   If "Dimensional Fissure" is active on the field when a "Crystal Beast" that was being treated as a Continuous Spell Card card is sent to the Graveyard, it will not be removed from play, because it was treated as a Spell and not a monster.
 *   You can use a "Crystal Beast" that is being treated as a Continuous Spell Card for the cost to Special Summon "Hamon, Lord of Striking Thunder" or "Anteatereatingant".
-
-  

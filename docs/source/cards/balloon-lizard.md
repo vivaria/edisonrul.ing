@@ -1,5 +1,5 @@
+# BALLOON LIZARD
 
-# BALLOON LIZARD  
 > ① Put 1 counter on this card during each of your Standby Phases. ② When this card is destroyed, inflict damage to the controller of the card that destroyed it equal to the number of counters x 400 points.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
@@ -9,5 +9,3 @@
 *   The ② Trigger Effect is mandatory, it activates & resolves in the Graveyard (or banished).
     *   If this card is destroyed by battle, this effect activates in Substep 7 - End of the Damage Step.
     *   You can use "Barrel Behind the Door" against "Balloon Lizard"'s effect.
-
-  

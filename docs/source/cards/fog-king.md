@@ -1,5 +1,5 @@
+# FOG KING
 
-# FOG KING  
 > You can Normal Summon this card with 1 Tribute, or without a Tribute. ① The ATK of this card is equal to the combined original ATK of the monsters Tributed to Summon it. ② Neither player can Tribute monsters
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
@@ -11,5 +11,3 @@
     *   Tributed Monsters whose Original ATK is "?" are treated as having 0 ATK.
 *   The ② Continuous Effect affects both players.
     *   Cards / effects CANNOT be activate if a Tribute is required as cost, or part of the effect is a Tribute (ex: "Share the Pain" or Ritual Spell Cards).
-
-  

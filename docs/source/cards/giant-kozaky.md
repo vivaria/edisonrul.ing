@@ -1,4 +1,3 @@
-
 # GIANT KOZAKY
 
 *   The first part of “Giant Kozaky” is a Continuous Effect that does not start a chain. The second part is a Trigger Effect that can be chained to.
@@ -10,5 +9,3 @@
 *   If “Giant Kozaky” is face-up on the field with “Kozaky”, and “Kozaky” is equipped to “Relinquished”, “Giant Kozaky” is not destroyed because a card called “Kozaky” is on the field.
 *   If “Giant Kozaky” is equipped to “Relinquished” as an Equip Spell Card, “Giant Kozaky” will not be destroyed by its effect because it’s not a monster (even if “Kozaky” is not on the field).
 *   If “Giant Kozaky” is equipped to “Relinquished” and is destroyed by “Mystical Space Typhoon” or the effect of “Relinquished”, the effect of “Giant Kozaky” will inflict damage to the controller.
-
-  

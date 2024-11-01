@@ -1,5 +1,5 @@
+# DESTINY HERO - PLASMA
 
-# DESTINY HERO - PLASMA  
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by Tributing 3 monsters you control. ① Once per turn, select your opponent's monster and equip it to this card (you can only equip 1 monster at a time to this card). ② This card gains equal to half of the ATK of the equipped monster. ③ While this card is face-up on the field, negate all the effect of face-up effect monster your opponent controls.
 
 *   The Ⓒ Condition cannot be negated.
@@ -15,5 +15,3 @@
     *   This effect can be negated by "Skill Drain", but not by "Divine Wrath" because it does not activate.
     *   This negates the effects of monsters that are face-up when their effects resolve.
     *   This does not negate the effect if themonster is flipped face-down / leaves the field.
-
-  

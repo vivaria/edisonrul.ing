@@ -1,5 +1,5 @@
+# PRIME MATERIAL DRAGON
 
-# PRIME MATERIAL DRAGON  
 > ① Any effect that would inflict damage to a player instead increases their Life Points by the same amount. ② When a card's effect to destroy a monster(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.
 
 *   The ① Continuous Effect does not start a chain. This effect applies to both players.
@@ -15,5 +15,3 @@
     *   would not destroy a monster right away (ex: "Magical Hats", "Limiter Removal").
     *   might not destroy a monster (ex: "Barrel Dragon", "Magical Dimension", "Acid Trap Hole").
     *   is Continuous (ex: "Kotodama") and does not start a chain.
-
-  

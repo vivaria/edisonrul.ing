@@ -1,5 +1,5 @@
-
 # MARK OF THE ROSE
+
 > Remove from play 1 Plant-Type monster from your Graveyard and equip this card to a monster your opponent controls. ① Gain control of the equipped monster. ②_ _During your End Phase, give control of the equipped monster to your opponent. ③_ _During your Standby Phase, gain control of the equipped monster.
 
 *   Removing 1 Plant-Type monster in your Graveyard from play is a cost.
@@ -14,5 +14,3 @@
     *   This effect is not present on contemporary errata of "Mark of the Rose".
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
-
-  

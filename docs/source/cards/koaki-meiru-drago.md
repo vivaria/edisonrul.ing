@@ -1,5 +1,5 @@
+# KOA'KI MEIRU DRAGO
 
-# KOA'KI MEIRU DRAGO  
 > Ⓜ During each of your End Phases, destroy this card unless you send 1 “Iron Core of Koa’ki Meiru” from your hand to the Graveyard or reveal 1 Dragon-Type monster in your hand. ① LIGHT and DARK monsters cannot be Special Summoned.
 
 *   The Ⓜ Maintenance Cost is not an effect. It cannot be negated.
@@ -11,5 +11,3 @@
     *   Cards / Effects that MIGHT Special Summon a LIGHT / DARK monster can be activated
         *   Ex: If "Reasoning" would Special Summon a LIGHT monster, it is sent to the Graveyard.
         *   Ex: "Return from the Different Dimension" cannot Special Summon LIGHT / DARK monsters.
-
-  

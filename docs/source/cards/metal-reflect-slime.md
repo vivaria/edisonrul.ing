@@ -1,4 +1,3 @@
-
 # METAL REFLECT SLIME
 
 *   You can select "Metal Reflect Slime" with "Last Turn" and it will not be sent to the Graveyard.
@@ -10,5 +9,3 @@
 *   When "Absorbing Kid from the Sky" destroys "Metal Reflect Slime" in battle, its effect does not activate because "Metal Reflect Slime" is a Trap Card in the Graveyard.
 *   When you activate "Call of the Earthbound" and chain "Metal Reflect Slime", a replay will occur when "Metal Reflect Slime" is Special Summoned. If the opponent decides to attack with the same monster, you will select its attack target.
 *   If "Metal Reflect Slime" becomes a Machine-Type Monster with "DNA Surgery", you can select it with "Machine Duplication" but you will not be able to Special Summon any cards because "Metal Reflect Slime" is a Trap Card while in your Deck.
-
-  

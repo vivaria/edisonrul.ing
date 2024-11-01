@@ -1,4 +1,3 @@
-
 # SKILLED WHITE MAGICIAN
 
 *   You place a Spell Counter on this card when the Spell Card resolves, so if "Magic Jammer" is used to negate the Spell Card's activation then you do not place a Spell Counter on this monster. But if "Imperial Order" is chained to the Spell Card, you still place a Spell Counter on this monster because the activation of the Spell Card was not negated. If the Spell Card was a Continuous, Equip, or Field Spell Card, and “Dust Tornado” is chained to its activation and destroys it before it resolves you still place a Spell Counter because the activation of the card was not negated.
@@ -13,5 +12,3 @@
 *   If there are no "Buster Blader" in your hand, Deck, and Graveyard, you cannot activate "Skilled White Magician"'s effect that Special Summons "Buster Blader".
 *   When "Skill Drain" is active, and you or your opponent activates a Spell Card, do not place Spell Counters on this monster. Any Spell Counters that are on this monster are removed when "Skill Drain" is activated.
 *   If a player controls the opponent's "Skilled White Magician" and Tribute it with 3 Spell Counters, the player who controlled and Tributed the "Skilled White Magician" is the player who Special Summons "Buster Blader" from the hand, Deck, or Graveyard.
-
-  

@@ -1,6 +1,6 @@
+# ENEMY CONTROLLER
 
-# ENEMY CONTROLLER  
-> Select and activate 1 of these effects:  
+> Select and activate 1 of these effects:
 ● ① Change the Battle Position of 1 face-up monster your opponent controls.  
 ● ② Tribute 1 monster. Select 1 face-up monster your opponent controls. Take control of it until the End Phase.
 
@@ -11,5 +11,3 @@
     *   Tributing a monster is a cost.
     *   The monster you gain control of is returned during the End Phase, even if it was flipped face-down (by "Book of Moon") or leaves the field (by "Interdimensional Matter Transporter").
     *   If you gain control of your opponent's "Judgment Dragon" during their turn, control is retored before the End Phase concludes (with the end of turn discard), and the turn player will be prompted to activate the mandatory trigger effect to send the top 4 cards of their Deck to the Graveyard. This also applies to other Lightsworn monster with a mandatory end phase trigger effect to send the top cards of the Deck to the Graveyard) \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
-
-  

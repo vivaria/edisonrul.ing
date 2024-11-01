@@ -1,4 +1,3 @@
-
 # NEO-SPACIAN DARK PANTHER
 
 *   “Neo-Spacian Dark Panther’s” effect is only applied while it is face-up on the field. So if you target “Sangan” and then this card is sent to the Graveyard nothing will happen, because in the Graveyard it no longer copies “Sangan’s” effect.
@@ -19,5 +18,3 @@
 *   If you target an “LV” monster, you could Tribute the “Neo-Spacian Dark Panther” to activate the Spell Card “Level Up!”. It will be in the Graveyard when “Level Up!” resolves, so it will no longer have the copied effect, so there is no monster name to reference and therefore the effect disappears.
 *   If you copy an Ignition or Trigger Effect, those effects can be chained to when they are activated, as normal.
 *   When “Neo-Spacian Dark Panther” is destroyed after copying the effects of a "Crystal Beast" monster, it cannot be placed into the Spell and Trap Card Zone.
-
-  

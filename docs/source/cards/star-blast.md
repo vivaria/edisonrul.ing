@@ -1,4 +1,3 @@
-
 # STAR BLAST
 
 *   “Star Blast” does not target.
@@ -13,5 +12,3 @@
 *   If you had an appropriate monster to use “Star Blast” on, paid the Life Points, but no longer have an appropriate monster when “Star Blast” resolves, its effect disappears.
 *   The maximum Life Points you can pay for “Star Blast” is based on the maximum Level of legal choices you have available at the time. You cannot over-pay.
 *   If “Majestic Mech – Ohka” has its Level reduced to 4 or lower with “Star Blast”, and it is Summoned without Tribute because it is now a Level 4 or lower monster, its effect to send itself to the Graveyard does not activate.
-
-  

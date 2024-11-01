@@ -1,4 +1,3 @@
-
 # DARK MAGICIAN OF CHAOS
 
 *   Missing the Timing: If “Dark Magician of Chaos” is Special Summoned in the middle of a chain (if it is not the last effect in the chain to resolve), the timing will not be correct for its Optional Trigger Effect, so you do NOT return a Spell Card from your Graveyard to your hand.
@@ -19,5 +18,3 @@
 *   When a face-down "Dark Magician of Chaos" is destroyed, it is NOT removed from play.
 *   If "Dark Magician of Chaos" is equipped to "Relinquished", and is destroyed, then "Dark Magician of Chaos" is removed from play. While "Dark Magician of Chaos" is equipped to "Relinquished", you cannot select "Dark Magician of Chaos" as a card to send to the Graveyard for the effect of "Emergency Provisions".
 *   While "Skill Drain" is active, the first and second effects of "Dark Magician of Chaos" are negated, but the 3rd effect is not negated.
-
-  

@@ -1,4 +1,3 @@
-
 # DUMMY GOLEM
 
 *   If “Dummy Golem” is attacked, flipped, and destroyed by damage calculation, its effect is not applied because it is destroyed. So control does not switch.
@@ -7,5 +6,3 @@
 *   If the opponent has “Blindly Loyal Goblin” and “Gemini Elf” on the field, and you activate the Flip Effect of “Dummy Golem”, the opponent cannot select “Blindly Loyal Goblin”. They must select “Gemini Elf”.
 *   If control of monsters switches with “Dummy Golem”, it stays switched as long as the cards remain on the field. (Like “Creature Swap”.)
 *   The effect of “Dummy Golem” will NOT resolve if any of the following is true: ① “Dummy Golem” is not on the field when the effect resolves; ② “Dummy Golem” has been destroyed before the effect resolves, such as by damage calculation; ③ there is no opponent’s monster when the effect resolves, such as if it was returned to the hand with “Compulsory Evacuation Device”.
-
-  

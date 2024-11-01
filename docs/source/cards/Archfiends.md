@@ -1,5 +1,5 @@
+# ARCHFIENDS
 
-# ARCHFIENDS  
 The following rulings apply to "Vilepawn Archfiend", "Desrook Archfiend", "Shadowknight Archfiend", "Darkbishop Archfiend", "Infernalqueen Archfiend", "Terrorking Archfiend", and "Skull Archfiend of Lightning".
 
 *   If you don't have enough Life Points to pay for an Archfiend, the Archfiend is destroyed and you don't pay the cost.
@@ -9,5 +9,3 @@ The following rulings apply to "Vilepawn Archfiend", "Desrook Archfiend", "Shado
 *   The effect of rolling a die for an Archfiend is a Trigger Effect.
 *   The effect of rolling a die for an Archfiend will be negated by "Skill Drain".
 *   You can roll a die for an Archfiend during the Damage Step.
-
-  

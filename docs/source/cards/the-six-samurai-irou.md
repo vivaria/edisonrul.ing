@@ -1,5 +1,5 @@
+# THE SIX SAMURAI - IROU
 
-# THE SIX SAMURAI - IROU  
 > ① While you control another "Six Samurai" monster with a different name, if this card attacks a face-down Defense Position monster, destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
@@ -16,5 +16,3 @@
         *   Example: If "Mirror Force" would destroy 2 of your "Six Samurai" monsters, you must destroy 2 Defense Position "Six Samurai" monsters to save those two
         *   Example: If "Mirror Force" would destroy all your face-up "Six Samurai" monsters, you cannot destroy any of them as substitutes.
     *   If you control 2 “Six Samurai” monsters, and 1 of them equipped with “Legendary Ebon Steed” would be destroyed, the effect of “Legendary Ebon Steed” must be used. You cannot choose to destroy another “Six Samurai” monster instead.
-
-  

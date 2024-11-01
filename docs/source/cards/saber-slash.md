@@ -1,5 +1,5 @@
+# SABER SLASH
 
-# SABER SLASH  
 > Destroy a number of face-up cards on the field equal to the number of face-up Attack Position "X-Saber" monsters you control.
 
 *   This effect does not target.
@@ -11,5 +11,3 @@
 *   VS. "Starlight Road": "Starlight Road" can only be activated if it is certain that a card/effect would destroy two+ cards you control. However, your opponent always has the option of destroying the face-up "X-Sabre" monster(s) that they control, so "Starlight Road" can NEVER be used \[[REF](https://www.pojo.biz/board/showthread.php?t=814158)\].
     *   VS. Your own "Starlight Road": If you control 3 "X-Saber" monsters and your opponent controls 1 face-up card, when you play "Saber Slash" it is certain that at least 2 of your "X-Saber" monsters will be destroyed, so you can activate "Starlight Road" in response to your own "Saber Slash" \[[REF](https://www.pojo.biz/board/showthread.php?t=814158)\].
 *   VS. "Stardust Dragon": "Sabre Slash" destroys a card(s) on the field, so Stardust can activate \[[REF](https://www.pojo.biz/board/showthread.php?t=814158)\].
-
-  

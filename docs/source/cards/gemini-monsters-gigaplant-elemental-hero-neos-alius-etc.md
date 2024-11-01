@@ -1,5 +1,5 @@
+# GEMINI Monsters ("Gigaplant", "Elemental Hero Neos Alius", etc.)
 
-# GEMINI Monsters ("Gigaplant", "Elemental Hero Neos Alius", etc.)  
 > This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: \[...\].
 
 *   Gemini Monsters are treated as Effect Monsters in the Deck, hand, when removed from play, and while their effects on the field are being negated.
@@ -20,5 +20,3 @@
     *   A Gemini Monster can gain its effects with "Super Double Summon", but they will be negated.
     *   If a Gemini Monster gained its effects, it retains them while they are negated.
     *   If a Gemini Monster hasn't gained its effects, treat it as an Effect Monster without effects.
-
-  

@@ -1,5 +1,5 @@
+# BOOK OF MOON
 
-# BOOK OF MOON  
 > Flip 1 face-up monster on the field into face-down Defense Position.
 
 *   This effect targets 1 face-up monster.
@@ -20,5 +20,3 @@
 *   You cannot flip a Monster Token face-down because Monster Tokens are always face-up.
 *   You cannot activate "Book of Moon" while "Light of Intervention" is active.
 *   This card cannot be activated during the Damage Step.
-
-  

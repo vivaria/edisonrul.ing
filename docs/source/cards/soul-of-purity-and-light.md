@@ -1,5 +1,5 @@
+# SOUL OF PURITY AND LIGHT
 
-# SOUL OF PURITY AND LIGHT  
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by removing from play 2 LIGHT monsters from your Graveyard. ① During your opponent's Battle Phase, monsters they control lose 300 ATK.
 
 *   The Ⓒ Summon Condition cannot be negated.
@@ -11,5 +11,3 @@
     *   This effect does not target.
     *   This effect only applies during your opponent's Battle Phase.
     *   This effect does not apply in the Main Phase (for "King Tiger Wanghu" or "Trap Hole")_._
-
-  

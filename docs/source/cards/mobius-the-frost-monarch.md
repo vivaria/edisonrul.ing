@@ -1,5 +1,5 @@
+# MOBIUS THE FROST MONARCH
 
-# MOBIUS THE FROST MONARCH  
 > ① When this card is Tribute Summoned, you can destroy up to 2 Spell or Trap Cards on the field.
 
 *   The ① Trigger Effect is OPTIONAL.
@@ -10,5 +10,3 @@
     *   if Mobius was Tribute Summoned as Chain Link 2+ by "Ultimate Offering".
     *   if Mobius was Normal Summoned by "Mausoleum of the Emperor".
     *   if Mobius was Normal Summoned while treated as a Level 4 by "Cost Down".
-
-  

@@ -1,4 +1,3 @@
-
 # LIFE ABSORBING MACHINE
 
 *   "The total Life Points you paid" is defined as the Life Points paid for costs (both activation costs and maintenance costs) of cards. It does not include damage or loss of Life Points. Damage is not included even if the damage was caused by an effect you control, such as if you activate "Ring of Destruction".
@@ -7,5 +6,3 @@
 *   "Life Absorbing Machine" does not have to be active at the time the Life Points were paid. If you pay a cost of 2000 Life Points during your turn, then activate "Life Absorbing Machine" during your opponent’s turn, the effect of "Life Absorbing Machine" will increase your Life Points by 1000 during your Standby Phase.
 *   Example: It is your turn. During your Standby Phase you pay 500 Life Points for your "Terrorking Archfiend". During your Main Phase 1 you activate "Life Absorbing Machine". Then you activate "Delinquent Duo" and pay 1000 Life Points for its cost. You Set "Seven Tools of the Bandit" and end your turn. During your opponent’s turn they activate "Reinforcements" and you chain "Seven Tools of the Bandit" to negate and destroy it. Your opponent ends their turn. During your Standby Phase the effect of "Life Absorbing Machine" increases your Life Points by 250 (half of "Terrorking Archfiend"’s cost) then again by 500 (half of "Delinquent Duo"’s cost).
 *   If you have two copies of "Life Absorbing Machine" on the field, their effects are cumulative.
-
-  

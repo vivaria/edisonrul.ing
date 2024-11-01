@@ -1,5 +1,5 @@
+# THE LIGHT - HEX-SEALED FUSION
 
-# THE LIGHT - HEX-SEALED FUSION  
 > ① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 LIGHT Fusion Monster from your Fusion Deck.
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
@@ -12,5 +12,3 @@
     *   Tributing this card and the legal Fusion Material Monster(s) on the field is a cost.
     *   This effect does not perform a Fusion Summon, so it can activate while "Non-Fusion Area" applies, but it cannot Special Summon “Dragon Master Knight” or "Rainbow Neos".
     *   The Fusion Monster Summoned by this effect cannot be Special Summoned from the Graveyard / removed from play, since it was not "properly" Fusion Summoned.
-
-  

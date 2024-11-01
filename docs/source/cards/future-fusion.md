@@ -1,5 +1,5 @@
+# FUTURE FUSION
 
-# FUTURE FUSION  
 > ① Send, from your Deck to the Graveyard, Fusion Material Monsters that are listed on a Fusion Monster Card, and select that 1 Fusion Monster from your Fusion Deck. Ⓛ Special Summon a Fusion Monster from your Fusion Deck with the same name as the selected Fusion Monster during your 2nd Standby Phase after this card's activation. (This Special Summon is treated as a Fusion Summon.) ② When this card is removed from the field, destroy that monster. ③ When the monster is destroyed, destroy this card.
 
 *   You CANNOT reveal a Fusion Monster whose Fusion Material list a Fusion or Synchro Monster.
@@ -23,5 +23,3 @@
     *   If the Fusion Monster is flipped face-down / leaves the field, thiis effect no longer applies to it.
 *   The ③ Continuous-like Effect destroys "Future Fusion" instantly without starting a chain.
     *   If the Fusion Monster leaves the field, but is not destroyed (by "Dark Core"), do not apply this effect.
-
-  

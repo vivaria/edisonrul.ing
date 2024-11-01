@@ -1,4 +1,3 @@
-
 # DRAMATIC RESCUE
 
 *   You can activate "Dramatic Rescue" when an Amazoness on your side of the field is targeted, such as with any Equip Spell Card, "Tribute to the Doomed", "Trap Hole", "Man-Eater Bug", "Relinquished", "Dark Cat with White Tail", "Amazoness Spellcaster", "Penguin Soldier" (even if it targets 2 monsters), "Change of Heart", "Ring of Destruction", "XYZ Dragon Cannon", etc. But not when cards like "Raigeki", "Dark Hole", "Mirror Force", "Fissure", "Creature Swap", "Guardian Sphinx", "Bottomless Trap Hole", "Adhesive Trap Hole", etc. are used.
@@ -10,5 +9,3 @@
 *   You can Special Summon high-level monsters with "Dramatic Rescue" but not "Special Summon-only" monsters.
 *   If you activate "Amazoness Spellcaster", and chain "Dramatic Rescue", "Amazoness Spellcaster"'s effect disappears.
 *   If your opponent activates "Snatch Steal" to take control of your Amazoness, and you chain "Dramatic Rescue", "Snatch Steal"'s effect disappears.
-
-  

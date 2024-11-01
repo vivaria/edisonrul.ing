@@ -1,5 +1,5 @@
+# FUTURE VISIONS
 
-# FUTURE VISIONS  
 > ① When a monster is Normal Summoned, remove from play that monster. ② During the next Standby Phase of the controller who Summoned that monster, return it to the field in face-up Attack Position.
 
 *   The ① mandatory Trigger-like Effect cannot miss the timing.
@@ -15,5 +15,3 @@
     *   The monster returns to the field. Effects that trigger when the monster is Summoned do not activate.
     *   The owner of a removed monster(s) decides which Monster Card Zone it is placed in when returned.
     *   If more than one monster is removed from play by the effect of "Future Visions", they are all returned to the field at the same time. If the player has fewer available Monster Card Zones than there are monsters that would be returned by this effect, that player chooses which monsters to return to the field and sends the remainder to the Graveyard.
-
-  

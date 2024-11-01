@@ -1,4 +1,3 @@
-
 # MORPHING JAR #2
 
 *   The cards are "picked up", not drawn.
@@ -8,5 +7,3 @@
 *   Monster Tokens on the field are removed from the field and are not counted towards the number of monsters returned to the Deck.
 *   If "Morphing Jar #2" is flipped by an attack and it is destroyed, it is not shuffled into its owner's Deck.
 *   If "Light of Intervention" is active, the Monster Cards are Special Summoned in face-up Defense Position.
-
-  

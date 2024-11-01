@@ -1,4 +1,3 @@
-
 # MONSTER GATE
 
 *   If you pick up a Spirit Monster, you cannot Special Summon it and it is sent to the Graveyard.
@@ -7,5 +6,3 @@
 *   Your opponent can chain "Royal Oppression"'s effect to negate "Monster Gate"'s effect.
 *   Cards picked up that cannot be Normal Summoned are considered "sent to the Graveyard", not "discarded".
 *   If you Special Summon "Dark Magician of Chaos" with "Monster Gate", the effect of "Dark Magician of Chaos" activates, but it activates after "Monster Gate" has fully resolved and sent other picked up cards to the Graveyard, so you can use "Dark Magician of Chaos"' effect to retrieve a Spell Card that was picked up and sent to the Graveyard by "Monster Gate" in the process of searching for the "Dark Magician of Chaos".
-
-  

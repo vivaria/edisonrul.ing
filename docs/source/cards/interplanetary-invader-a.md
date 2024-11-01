@@ -1,5 +1,5 @@
+# INTERPLANETARY INVADER 'A'
 
-# INTERPLANETARY INVADER 'A'  
 > ① Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.
 
 *   The ① Trigger Effect meets activates in Substep 7 - End of the Damage Step, then "starts another chain" in the End of the Battle Phase, this time taking control of every monster that battled it.
@@ -13,5 +13,3 @@
     *   Invader 'A' is returned to the Deck by "[Grave Protector](https://yugipedia.com/wiki/Grave_Protector)".
     *   a Level 4 or higher monster attacks Invader 'A' and "Gravity Bind" is activated.
     *   Invader 'A' is destroyed without applying damage calculation (ex: "[Sasuke Samurai #4](https://yugioh.fandom.com/wiki/Sasuke_Samurai_4)").
-
-  

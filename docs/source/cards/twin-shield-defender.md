@@ -1,4 +1,3 @@
-
 # TWIN-SHIELD DEFENDER
 
 *   "Twin-Shield Defender"'s effect targets 1 face-up monster your opponent controls.
@@ -9,5 +8,3 @@
 *   If "Shrink" or "Megamorph" is activated after "Twin-Shield Defender"'s effect resolves, "Twin-Shield Defender"'s effect disappears.
     *   Example 1: If "Sangan"'s ATK is halved by "Twin-Shield Defender" to 500 ATK and afterwards its original ATK is halved by "Shrink", it will have 500 ATK.
     *   Example 2: If "Sangan"'s ATK is halved by "Twin-Shield Defender" to 500 ATK and afterwards it is equipped with "Megamorph", it will have 500 ATK or 2000 ATK (depending on Life Points).
-
-  

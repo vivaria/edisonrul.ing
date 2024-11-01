@@ -1,4 +1,3 @@
-
 # FLYING FORTRESS SKY FIRE
 
 *   "Summon Reactor ・SK" can Special Summon “Flying Fortress SKY FIRE” from the Graveyard even if it had not been Special Summoned properly before, and even if it was sent directly to the Graveyard from the hand or Deck.
@@ -13,5 +12,3 @@
 *   If your opponent flips a card face-down, such as with “Book of Moon”, you can activate effect #2 of “Flying Fortress SKY FIRE” to destroy the Set card.
 *   The effects of “Flying Fortress SKY FIRE” that can be activated during the opponent’s turn cannot be activated during the Damage Step.
 *   If the opponent Summons a monster with an Ignition Effect, they can activate the effect, and then you choose whether or not to chain the Trigger Effect of “Flying Fortress SKY FIRE”.
-
-  

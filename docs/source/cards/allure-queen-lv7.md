@@ -1,5 +1,5 @@
+# ALLURE QUEEN LV7
 
-# ALLURE QUEEN LV7  
 > Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV5", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead.
 
 *   The ① Ignition Effect activates & resolves on the field.
@@ -11,5 +11,3 @@
 *   The ② Continuous Effect applies while this card is face-up on the field.
     *   Applying this effect does not start a Chain.
     *   The destroyed monster (that was equipped) is not considered to be destroyed by battle.
-
-  

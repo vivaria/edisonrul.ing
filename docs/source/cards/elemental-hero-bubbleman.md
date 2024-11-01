@@ -1,4 +1,3 @@
-
 # ELEMENTAL HERO BUBBLEMAN
 
 *   Missing the Timing: If “Elemental Hero Bubbleman” is Summoned by an effect in the middle of a chain, you will miss the timing and cannot draw the 2 cards.
@@ -7,5 +6,3 @@
 *   If “Elemental Hero Bubbleman” is destroyed and then Special Summoned by “Rope of Life” in the Damage Step, if there are no other cards on your side of the field, you can draw 2 cards for the effect of “Elemental Hero Bubbleman”.
 *   If you Special Summon “Elemental Hero Bubbleman” by the effect of your opponent’s “Last Turn”, you can draw the 2 cards.
 *   If your opponent chains to the effect of “Elemental Hero Bubbleman” with an effect that causes you to have cards in your hand (such as “Conscription”), then the effect of “Elemental Hero Bubbleman” disappears because you must still have no cards when resolving the effect.
-
-  

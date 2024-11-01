@@ -1,4 +1,3 @@
-
 # PATRICIAN OF DARKNESS
 
 *   For this card’s effect, the chosen attack target must still be legal. You cannot force a monster to attack directly if it normally cannot, or force a monster to attack a monster on its own side of the field.
@@ -8,5 +7,3 @@
 *   When you control "Patrician of Darkness" and a monster equipped with "Ring of Magnetism" you must chose the equipped monster as the attack target.
 *   Replays may occur as normal when this card is on the field. If, after the replay, "Patrician of Darkness" is still on the field and they choose to restart the attack, you will still choose the attack target with the effect of "Patrician of Darkness".
 *   If you control "Patrician of Darkness" and "Lord of D." you may still choose Dragon-Type monsters on your side of the field as attack targets.
-
-  

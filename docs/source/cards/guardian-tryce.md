@@ -1,4 +1,3 @@
-
 # GUARDIAN TRYCE
 
 *   If you Special Summon "Guardian Tryce", you don't get to activate his effect when he's destroyed, even if you Tribute Summoned him previously and are using "Monster Reborn" on him later.
@@ -8,5 +7,3 @@
 *   You can Special Summon a monster in your opponent's Graveyard if it was used to Tribute Summon "Guardian Tryce".
 *   If "Guardian Tryce" is an Equip Spell Card equipped to "Relinquished" or "Sword Hunter", and "Guardian Tryce" is destroyed and sent to the Graveyard, his effect activates.
 *   If "Guardian Tryce" is Set and is destroyed, his effect activates.
-
-  

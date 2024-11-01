@@ -1,5 +1,5 @@
+# ZOMBIE WORLD
 
-# ZOMBIE WORLD  
 > ① All monsters on the field and in any Graveyard become Zombie-Type monsters. ② Neither player can Tribute Summon monsters, except Zombie-Type monsters.
 
 *   The ① Continous-like Effect does not activate.
@@ -12,5 +12,3 @@
 *   VS. "[Rivalry of Warlords](https://yugipedia.com/wiki/Rivalry_of_Warlords)": You cannot Normal / Special Summon a non-Zombie-Type monster from your hand / Deck / Graveyard / removed from play while you control a face-up Zombie-Type monster.
 *   VS. "[DNA Surgery](https://yugioh.fandom.com/wiki/DNA_Surgery)": Whichever card resolved most recently applies its effect.
 *   VS. "[Solidarity](https://yugipedia.com/wiki/Solidarity)": The ATK gain applies if the original (printed) Type of monsters in your Graveyard match.
-
-  

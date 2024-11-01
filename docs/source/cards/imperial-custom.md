@@ -1,5 +1,5 @@
+# IMPERIAL CUSTOM
 
-# IMPERIAL CUSTOM  
 > ① Face-up Continuous Trap Cards cannot be destroyed, except "Imperial Custom". You can only control 1 "Imperial Custom".
 
 *   The ① Continuous-like Effect does not activate.
@@ -15,5 +15,3 @@
     *   be removed from play (by "Caius the Shadow Monarch").
     *   have their effects negated (by "Jinzo").
     *   have their activation (playing face-up) negated (by "Dark Bribe"). If the activation of a Continuous Trap Card is negated, it is sent to the Graveyard. It was never face-up on the field.
-
-  

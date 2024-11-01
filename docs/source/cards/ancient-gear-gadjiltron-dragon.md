@@ -1,5 +1,5 @@
+# ANCIENT GEAR GADJILTRON DRAGON
 
-# ANCIENT GEAR GADJILTRON DRAGON  
 > ① If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. ② If you Tribute Summon this card by Tributing any of the following monster(s), this card gets the appropriate effect(s): ● Green Gadget: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ● Red Gadget: If this card inflicts Battle Damage to your opponent, inflict 400 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 600 damage to your opponent.
 
 *   The ① Continuous Effect applies while this face-up monster is attacking.
@@ -20,5 +20,3 @@
 *   The ("Yellow Gadget") Trigger Effect is mandaatory.
     *   This effect activates & resolves on the field in Substep 7 - After Damage Calculation.
     *   This effect activates even if this card is flipped face-down / leaves the field.
-
-  

@@ -1,6 +1,6 @@
+# YELLOW BABOON, ARCHER OF THE FOREST
 
-# YELLOW BABOON, ARCHER OF THE FOREST  
-> ① When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand.  
+> ① When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand.
   
 
 *   The ① optional Trigger Effect activates & resolves in the hand.
@@ -12,5 +12,3 @@
     *   the Beast destroyed by battle leaves the field by an effect (like "Red Dragon Archfiend").
     *   the Beast destroyed by battle is removed from play (by "D.D. Warrior Lady").
     *   the Beast destroyed by battle is removed from play by "Macro Cosmos".
-
-  

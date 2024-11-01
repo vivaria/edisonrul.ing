@@ -1,4 +1,3 @@
-
 # CYBER BARRIER DRAGON
 
 *   Even if there are 2 or more “Cyber Barrier Dragon” on your side of the field in Attack Position, only the first attack is negated.
@@ -7,5 +6,3 @@
 *   If you activate “Attack Reflector Unit” to Tribute a monster and Summon “Cyber Barrier Dragon” during the Battle Step, a replay occurs. If your opponent continues to attack with the same monster, the attack has already been declared, so the effect of “Cyber Barrier Dragon” will not stop it. However, if your opponent attacks again after that, or chooses to attack with a different monster, “Cyber Barrier Dragon” will use its effect to negate that attack.
 *   If you Special Summon "Cyber Barrier Dragon" during the Battle Phase after your opponent has already made one attack, you must use its effect to negate the next attack they make that Battle Phase.
 *   If you activate “Attack Reflector Unit” to Tribute a monster and Summon “Cyber Barrier Dragon” during the Battle Step, a replay occurs. If your opponent continues to attack with the same monster, the attack has already been declared, so the effect of “Cyber Barrier Dragon” will not stop it. However, if your opponent attacks again after that, or chooses to attack with a different monster, “Cyber Barrier Dragon” will use its effect to negate that attack.
-
-  

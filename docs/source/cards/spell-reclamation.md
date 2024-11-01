@@ -1,4 +1,3 @@
-
 # SPELL RECLAMATION
 
 *   This effect does not target.
@@ -11,5 +10,3 @@
 *   This card can only be chained to the activation a Spell Card, and not when the effect of a Spell Card is activated (by "Destiny Hero - Diamond Dude", etc.)
 *   If "Spell Reclamation" is chained to a Spell Card's activation, and "Mystical Space Typhoon", etc. is chained to "Spell Reclamation" targeting the same Spell Card, that Spell Card will not return to its owner's hand because it is destroyed before "Spell Reclamation" resolves.
 *   If a Spell Card that has an effect that activates when it is sent to the Graveyard, like "Black Pendant" or "Lucky Iron Axe", is affected by "Spell Reclamation", that Spell Card's effect will activate, and it will be returned to its owner's hand before resolving the effect.
-
-  

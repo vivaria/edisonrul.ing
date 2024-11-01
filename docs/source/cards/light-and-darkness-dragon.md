@@ -1,5 +1,5 @@
-
 # LIGHT AND DARKNESS DRAGON
+
 > Ⓒ This card cannot be Special Summoned. ① While this card is face-up on the field its Attribute is also treated as DARK. ② When a Spell or Trap Card is activated, or the effect of an Effect Monster is activated, that activation is negated and this card loses 500 ATK and DEF. ③ When this card is destroyed and sent to the Graveyard, select 1 monster in your Graveyard. Then destroy all cards you control, and Special Summon that monster.
 
 *   The Ⓒ Condition cannot be negated.
@@ -27,5 +27,3 @@
 *   NOTE: This card received an erratum with [Problem-Solving Card Text](https://yugiohblog.konami.com/articles/?p=4514) in Astral Pack 2 (2013). The TCG rulings were updated, changing the ③ Trigger Effect so that both parts resolved simultaneously. In Edison Format, play with the same rules the OCG used and resolve this effect sequentially.
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
-
-  

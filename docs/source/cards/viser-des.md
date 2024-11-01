@@ -1,4 +1,3 @@
-
 # VISER DES
 
 *   “Viser Des” targets 1 monster your opponent controls.
@@ -9,5 +8,3 @@
 *   If “Viser Des” is destroyed by a card effect before your 3rd Standby Phase, your opponent’s monster will not be destroyed.
 *   You can target a face-down monster with the effect of “Viser Des.”
 *   If “Viser Des” or the targeted monster is removed from the field before your 3rd Standby Phase, even temporarily, all effects of “Viser Des” will stop being applied.
-
-  

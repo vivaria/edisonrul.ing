@@ -1,5 +1,5 @@
+# MACRO COSMOS
 
-# MACRO COSMOS  
 > ① You can Special Summon 1 “Helios – The Primordial Sun” from your hand or Deck when you activate this card. ② While this card is on the field, any card sent to the Graveyard is removed from play instead.
 
 *   The ① Effect is optional, you can activate this card without a Helios in the Deck.
@@ -13,5 +13,3 @@
         *   Examples: "Dark Grepher", "Foolish Burial", "Blaze Accelerator", and "Needlebug Nest".
     *   If a face-up "Archlord Kristya" would be sent from the field to the Graveyard (and removed from play), "Archlord Kristya’s" effect will still trigger and places it back on top of the Deck.
     *   If "Gravekeeper's Servant" is active, your opponent cannot declare an attack.
-
-  

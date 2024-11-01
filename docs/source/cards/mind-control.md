@@ -1,5 +1,5 @@
+# MIND CONTROL
 
-# MIND CONTROL  
 > Take control of 1 monster your opponent controls until the End Phase. It cannot declare an attack or be Tributed.
 
 *   This effect targets 1 (face-up / face-down) monster your opponent controls.  
@@ -14,5 +14,3 @@
 *   Returningcontrol of the monster in the End Phase does not start a chain, this occurs even if the monster was flipped face-up / face-down.  
     
 *   A card with an effect of "Control of this face-up card on the field cannot switch" cannot switch control while face-up under any circumstances. So, if a face-down Botanical Lion changes control due to Mind Control and is then flipped face-up, the lingering part of the effect of Mind Control will not apply during the End Phase and control of Botanical Lion will not return to the original owner.
-
-  

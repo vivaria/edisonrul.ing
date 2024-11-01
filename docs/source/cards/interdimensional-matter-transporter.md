@@ -1,5 +1,5 @@
+# INTERDIMENSIONAL MATTER TRANSPORTER
 
-# INTERDIMENSIONAL MATTER TRANSPORTER  
 > ① Select 1 face-up monster you control and remove it from play until the End Phase of this turn.
 
 *   The ① effect of this card targets a face-up monster you control.
@@ -11,5 +11,3 @@
     *   if it needs to change control in the End Phase (by "Brain Control), and changes control immediately.
     *   is no longer affected by other (lingering) effects (ex: "[Summoner of Illusions](https://yugioh.fandom.com/wiki/Summoner_of_Illusions)", "[Limiter Removal](https://yugioh.fandom.com/wiki/Limiter_Removal)").
     *   remembers it was Flip/Normal/Tribute/Special Summoned (ex: "[Temple of the Sun](https://yugioh.fandom.com/wiki/Temple_of_the_Sun)", [Spirit monsters](https://yugioh.fandom.com/wiki/Spirit_monster)).
-
-  

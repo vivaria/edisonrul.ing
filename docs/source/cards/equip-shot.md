@@ -1,4 +1,3 @@
-
 # EQUIP SHOT
 
 *   "Equip Shot" cannot be activated during the Damage Step or End Step.
@@ -10,5 +9,3 @@
 *   If you activate "Equip Shot" during your Battle Phase, your monster is the attacker. If you activate it during your opponent's Battle Phase, your opponent's monster is the attacker.
 *   If an effect is chained that switches the monster that would be the attacker into Defense Position, the selected Equip Card is still transferred but the battle is not conducted, unless the monster can attack while in Defense Position like "Total Defense Shogun".
 *   If one of the monsters affected by "Equip Shot" cannot attack, the Equip Card is still transferred.
-
-  

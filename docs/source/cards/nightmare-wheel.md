@@ -1,4 +1,3 @@
-
 # NIGHTMARE WHEEL
 
 *   You can target a face-down monster for "Nightmare Wheel".
@@ -10,5 +9,3 @@
 *   The effect of "Nightmare Wheel" will be negated by "Royal Decree", so you can attack or change the battle position of the monster. Also, if "Royal Decree" is active, and the monster is removed from the field, "Nightmare Wheel" remains on the field meaninglessly because its text that would destroy it is negated. If "Royal Decree" is later destroyed, the effects of "Nightmare Wheel" are not applied (such as the 500 damage) if there is no monster being targeted by "Nightmare Wheel".
 *   The effect of "Nightmare Wheel" is still applied if the targeted monster changes sides.
 *   If the monster targeted by "Nightmare Wheel" becomes equipped to "Relinquished", then "Nightmare Wheel" is destroyed.
-
-  

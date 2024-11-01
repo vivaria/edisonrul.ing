@@ -1,6 +1,6 @@
+# LIFEFORCE HARMONIZER
 
-# LIFEFORCE HARMONIZER  
-> ① When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.  
+> ① When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.
   
 
 *   The ① Quick Effect can be activated during either player’s turn.
@@ -11,5 +11,3 @@
     *   It cannot be used against the activation of “Wave-Motion Cannon” or the activation of the effect of “Wave-Motion Cannon” \[[REF](https://www.pojo.biz/board/showthread.php?t=845835)\].
     *   It cannot be used against “Thestalos the Firestorm Monarch” since you don’t know if damage will be inflicted.
     *   If you control “Des Wombat” and it is preventing you from taking damage, you cannot activate “Lifeforce Harmonizer”.
-
-  

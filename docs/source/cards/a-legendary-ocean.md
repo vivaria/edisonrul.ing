@@ -1,5 +1,5 @@
+# A LEGENDARY OCEAN
 
-# A LEGENDARY OCEAN  
 > Ⓒ This card's name is treated as "Umi". ① Reduce the Level of all WATER monsters in both players' hands and on the field by 1. ② All WATER monsters gain 200 ATK and DEF.
 
 *   The Ⓒ Condition cannot be negated, it applies in the Deck:
@@ -14,5 +14,3 @@
 *   The ② Continuous-like Effect applies while this card is face-up on the field.
     *   When "A Legendary Ocean" is active, "The Legendary Fisherman" on the field is unaffected by Spell Cards, so it does not receive the ATK/DEF bonus or have its Level reduced by 1. It still is treated as Level 4 in your hand, so you may Summon it without Tribute.
     *   "A Legendary Ocean" does not have the effect of "Umi" that increases/decreases the ATK and DEF of specific monster Types.
-
-  

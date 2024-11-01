@@ -1,4 +1,3 @@
-
 # INFERNO RECKLESS SUMMON
 
 *   "Inferno Reckless Summon" does not target. Your opponent chooses a monster on his/her side of the field when "Inferno Reckless Summon" resolves.
@@ -18,5 +17,3 @@
 *   If you activate "Inferno Reckless Summon" when you Special Summon "Proto-Cyber Dragon", you will Special Summon "Cyber Dragon" from your hand, Deck, and Graveyard.
 *   You can activate "Inferno Reckless Summon" when your opponent Special Summons a monster with 1500 or less ATK onto your side of the field.
 *   If either player does not Special Summon monsters so that they have 3 monsters with the same name in play after resolving "Inferno Reckless Summon", the opponent can check that player's hand and Deck to verify that they have Summoned all possible copies of the chosen monster. If that monster is Limited or Semi-Limited, and the maximum number of copies allowed per Deck are on that player's side of the field the field, in their Graveyard or in their Removed Zone, their opponent can not check their hand and Deck for additional copies.
-
-  

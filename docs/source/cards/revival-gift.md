@@ -1,4 +1,3 @@
-
 # REVIVAL GIFT
 
 *   This card targets 1 Tuner monster in your Graveyard.
@@ -6,5 +5,3 @@
 *   The Tuner monster and 2 “Gift Fiend Tokens” are considered to be Special Summoned at the same time.
 *   You cannot activate this card if your opponent has 1 or fewer empty Monster Card Zones.
 *   If the targeted Tuner monster is no longer in your Graveyard when “Revival Gift” resolves, you still Special Summon 2 “Gift Fiend Tokens” to your opponent’s side of the field.
-
-  

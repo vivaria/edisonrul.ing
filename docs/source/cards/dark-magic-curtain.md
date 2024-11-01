@@ -1,4 +1,3 @@
-
 # DARK MAGIC CURTAIN
 
 *   Paying half of your Life Points is a cost to activate “Dark Magic Curtain”.
@@ -10,5 +9,3 @@
 *   When you activate “Dark Magic Curtain”, you cannot chain cards like “Call of the Haunted” or “Ultimate Offering” because you cannot Normal Summon or Special Summon during the same turn. Also, you cannot activate cards like “Premature Burial” or “Monster Reborn” after activating “Dark Magic Curtain”.
 *   You do not have to pay any Life Points to activate “Dark Magic Curtain” while you have “Spell Economics” face-up on your side of the field.
 *   If you Chain “Serial Spell” to “Dark Magic Curtain”, the effect that prevents you from Normal Summoning, Flip Summoning, or Special Summoning for the remainder of the turn is still applied. When “Serial Spell” resolves it will Special Summon 1 “Dark Magician” from your Deck and it will apply the Summon-restriction, so when “Dark Magic Curtain’s” effect tries to resolve its effect will disappear because you cannot Special Summon a monster.
-
-  

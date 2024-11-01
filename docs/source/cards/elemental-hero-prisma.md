@@ -1,5 +1,5 @@
-
 # ELEMENTAL HERO PRISMA
+
 > ① Once per turn, you can reveal 1 Fusion Monster from your Fusion Deck and send 1 of the Fusion Material Monsters listed on that card from your Deck to the Graveyard. Until the End Phase, this card’s name is treated as the sent monster’s name.
 
 *   The ① Ignition Effect has no activation cost.

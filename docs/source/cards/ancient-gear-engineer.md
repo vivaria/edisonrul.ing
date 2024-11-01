@@ -1,5 +1,5 @@
+# ANCIENT GEAR ENGINEER
 
-# ANCIENT GEAR ENGINEER  
 > ① Negate the effect of any Trap Card that targets this card, and destroy that Trap Card. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of Damage Step. ③ When this card attacks, destroy 1 Spell or Trap Card on your opponent's side of the field at the end of the Damage Step.
 
 *   The ① Continuous Effect does not activate.
@@ -16,5 +16,3 @@
     *   This effect activates in Substep 7 - End of the Damage Step.
     *   This card must be face-up on the field to activate this effect.
     *   Do not activate this effect if this card is destroyed by battle / flipped face-down / leaves the field.
-
-  

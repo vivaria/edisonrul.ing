@@ -1,5 +1,5 @@
+# CAIUS THE SHADOW MONARCH
 
-# CAIUS THE SHADOW MONARCH  
 > ① When this card is Tribute Summoned, remove from play 1 card on the field. If it was a DARK Monster Card, inflict 1000 damage to your opponent.
 
 *   The ① mandatory Trigger Effect activates when Caius is successfully Tribute Summoned.
@@ -16,5 +16,3 @@
 *   You CAN Tribute Summon Caius while "Imperial iron Wall" is active.
     *   This effect STILL activates while "Imperial Iron Wall" is active (starting a chain). A target it declared, but no cards can be removed from play while "Imperial Iron Wall"'s effect applies.
 *   "[Monarch](https://yugipedia.com/wiki/Monarch)"'s Trigger Effects are Spell Speed 1 and activate at the time they are successfully Tribute Summoned. If the opponent wants to activate a card like "[Bottomless Trap Hole](https://yugipedia.com/wiki/Bottomless_Trap_Hole)", it will be placed onto the chain after the "[Monarch](https://yugipedia.com/wiki/Monarch)"'s effect. But "[Monarchs](https://yugipedia.com/wiki/Monarch)" don't need to remain on the field to resolve their effects, so destroying them with "[Bottomless Trap Hole](https://yugipedia.com/wiki/Bottomless_Trap_Hole)" will not negate their effect.
-
-  

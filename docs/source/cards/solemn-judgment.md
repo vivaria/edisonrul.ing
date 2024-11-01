@@ -1,5 +1,5 @@
+# SOLEMN JUDGMENT
 
-# SOLEMN JUDGMENT  
 > Pay half of your Life Points. ① Negate an activation of a Spell / Trap Card / Normal Summon / Flip Summon / Special Summon and destroy the Spell Card, Trap Card, or Summoned monster.
 
 *   Paying half your Life Points is a cost. If this results in a fraction, your Life Points are rounded up.
@@ -13,5 +13,3 @@
     *   DO NOT negate the Normal Summon from "Ultimate Offering" / "Mausoleum of the Emperor".
     *   DO NOT negate the Fusion Summon after "Polymerization" resolved.
     *   DO NOT negate the Synchro Summon after "Urgent Tuning" resolved.
-
-  

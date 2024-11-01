@@ -1,5 +1,5 @@
+# FREED THE MATCHLESS GENERAL
 
-# FREED THE MATCHLESS GENERAL  
 > ① Negate the effect of any Spell Card that targets this card and destroy it. ② You can add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand instead of conducting a normal draw in your Draw Phase.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
@@ -14,5 +14,3 @@
     *   If you have two copies of this card on the field, you can still only add 1 Warrior-Type monster to your hand by forfeiting your normal draw.
     *   If you control two copies of "Freed the Matchless General", you can only activate the effect of one.
     *   This card must be face-up on the field to activate and to resolve this effect.
-
-  

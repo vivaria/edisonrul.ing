@@ -1,6 +1,6 @@
+# ALIEN HYPNO
 
-# ALIEN HYPNO  
-> Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:_  
+> Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:_
 __● ① During your Main Phase, you can select 1 monster your opponent controls with an A-Counter(s), and take control of it while this card is on the field. ② During each of your End Phases, remove 1 A-Counter from each controlled monster. ③ If all A-Counters are removed from one of these monsters, destroy it._
 
 *   The Ⓤ Unclassified effect cannot be negated, even while in the Graveyard.
@@ -14,5 +14,3 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
     *   The effect of “Alien Hypno” that removes 1 A-Counter from the monsters controlled through its effect and the effect that destroys the controlled monsters when the last A-Counter is removed do not start a Chain.
 *   The ③ Continuous Effect applies while this card is face-up AND treated as an Effect Monster.
     *   This effect destroys the monster(s) without starting a Chain.
-
-  

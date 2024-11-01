@@ -1,4 +1,3 @@
-
 # EMERGENCY PROVISIONS
 
 *   Sending Spell and Trap Cards on your side of the field to the Graveyard is a cost for activating this card.
@@ -11,5 +10,3 @@
 *   If you send "Black Pendant" to the Graveyard for the cost of "Emergency Provisions" its effect does activate.
 *   While "Banisher of the Light" is face-up on the field, you cannot activate "Emergency Provisions" since it is impossible to send cards to the Graveyard.
 *   If you have "Imperial Order" active on your side of the field, you may send it to the Graveyard as part of the cost to activate "Emergency Provisions" and "Emergency Provisions" will not be negated.
-
-  

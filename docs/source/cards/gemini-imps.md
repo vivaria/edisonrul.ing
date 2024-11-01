@@ -1,4 +1,3 @@
-
 # GEMINI IMPS
 
 *   The effect of “Gemini Imps” can only be activated in immediate response to your opponent’s card effect that will cause you to discard card(s) from your hand.
@@ -11,5 +10,3 @@
 *   When your opponent activates “Mind Crush”, you can chain with the effect of “Gemini Imps”.
 *   If you activate “Pot of Greed” and your opponent chains “Null and Void”, it is not possible to chain “Gemini Imps”.
 *   If your opponent Tribute Summons “Thestalos the Firestorm Monarch”, you can chain with the effect of “Gemini Imps”. The effect of “Thestalos the Firestorm Monarch” would be negated and it would be destroyed, and then you would draw a card.
-
-  

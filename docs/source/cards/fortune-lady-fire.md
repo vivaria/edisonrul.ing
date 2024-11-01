@@ -1,4 +1,3 @@
-
 # FORTUNE LADY FIRE
 
 *   This effect targets 1 face-up monster your opponent controls.

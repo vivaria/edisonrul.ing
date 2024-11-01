@@ -1,5 +1,5 @@
+# MACHINA PEACEKEEPER
 
-# MACHINA PEACEKEEPER  
 > ① When this card on the field is destroyed and sent to the Graveyard, you can add 1 Union Monster from your Deck to your hand. (2A) Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR (2B) unequip it to Special Summon this card in face-up Attack Position. (Ⓒ A monster can only be equipped with 1 Union Monster at a time. ③ If the equipped monster would be destroyed, destroy this card instead.)
 
 *   This ① optional Trigger Effect CAN miss the timing.
@@ -22,5 +22,3 @@
     *   Apply this effect if the equipped monster would be destroyed by battle or card effect.  
     *   If an effect (ex: "Black Rose Dragon") would simultaneously destroy Peacekeeper and the equipped Machine-Type monster; destroy both cards, you CANNOT apply this effect \[[REF](https://www.pojo.biz/board/showpost.php?p=18956551&postcount=2)\].  
     *   This does not apply if the equipped monster would be removed from play, returned to the hand / Deck, or flipped face-down by a card effect.
-
-  

@@ -1,5 +1,5 @@
+# DARK RULER HA DES
 
-# DARK RULER HA DES  
 > Ⓒ This card cannot be Special Summoned from the Graveyard. ① Negate the effects of Effect Monsters destroyed by battle with Fiend-Type monsters you control.
 
 *   The Ⓒ Condition cannot be negated.
@@ -15,5 +15,3 @@
     *   Effects that activate in the Graveyard are negated; such as "Treeborn Frog", "Plaguespreader Zombie", "Sinister Serpent". The negation is reset if these cards are removed from the Graveyard.
     *   This effect does not affect monsters destroyed as substitutes such as "Six Samurai" monsters, or if "Relinquished" would be destroyed by battle while equipped with "Sangan".
 *   If your "Dark Ruler Ha Des" or other Fiend-Type monster destroys "Tyrant Dragon" as a result of battle, a Dragon-Type monster must still be Tributed when "Tyrant Dragon" is Special Summoned from the Graveyard. This is because Tributing a Dragon-Type monster is a condition on the Summoning of the card; it is not part of the effect. For the same reason, if a Spirit Monster is destroyed by a Fiend-Type monster when "Dark Ruler Ha Des" is on the field, it still cannot be Special Summoned from the Graveyard. Also if two "Dark Ruler Ha Des" destroy each other in battle, neither can be Special Summoned from the Graveyard.
-
-  

@@ -1,5 +1,5 @@
+# JINZO - RETURNER
 
-# JINZO - RETURNER  
 > ① This card can attack your opponent directly. ② When this card is sent to the Graveyard, you can Special Summon 1 "Jinzo" from your Graveyard. Destroy it during your End Phase.
 
 *   The ① Continuous Effect does not activate.
@@ -11,5 +11,3 @@
     *   Destroying "Jinzo" in the End Phase does not start a Chain.
     *   This effect will not activate if Returner is sent to the Graveyard as Chain Link 2+.
     *   This effect will not activate if Returner is sent to the Graveyard before the last thing to happen.
-
-  

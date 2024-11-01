@@ -1,5 +1,5 @@
+# ULTIMATE OFFERING
 
-# ULTIMATE OFFERING  
 > ①_ _You can pay 500 Life Points to Normal Summon or Set 1 extra monster. You can only activate this effect during your Main Phase or your opponent's Battle Phase.
 
 *   The ① Quick-like Effect activates & resolves on the field. This card must remain face-up to resolve.
@@ -11,5 +11,3 @@
     *   If this effect resolves as Chain Link 1, "Torrential Tribute" can activate \[[REF](https://www.pojo.biz/board/showthread.php?t=26817)\].
     *   This effect can be activated during your Main Phase or your opponent’s Battle Phase.
     *   If this card is face-up, you can activate this effect multiple times in the same Chain. If you cannot perform every Normal Summon / Set when resolving the chain: reveal your hand to verify.
-
-  

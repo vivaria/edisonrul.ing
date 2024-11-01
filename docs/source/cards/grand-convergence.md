@@ -1,4 +1,3 @@
-
 # GRAND CONVERGENCE
 
 *   Inflicting 300 damage and destroying all monsters on the field are both resolved at the same time.
@@ -6,5 +5,3 @@
 *   If an effect that destroys “Macro Cosmos” or removes it from the field is chained to “Grand Convergence”, the effects of “Grand Convergence” will still resolve because the activation conditions were correct when it was activated.
 *   “Barrel Behind the Door” can be chained to this card.
 *   If there is a monster on the field, you can chain “My Body as a Shield” to this card.
-
-  

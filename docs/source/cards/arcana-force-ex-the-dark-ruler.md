@@ -1,5 +1,5 @@
+# ARCANA FORCE EX - THE DARK RULER
 
-# ARCANA FORCE EX - THE DARK RULER  
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. ① When this card is Special Summoned, toss a coin: ● Heads: This card can attack twice during the same Battle Phase. If this card battles twice using this effect, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect. ● Tails: If this card is destroyed, destroy all cards on the field.
 
 *   The Ⓒ Condition cannot be negated.
@@ -13,5 +13,3 @@
     *   If your "Arcana Force EX - The Dark Ruler" is equipped with "Twin Swords of Flashing Light - Tryce" while its heads effect is applied, you will choose which effect to use when you attack twice. If you choose "Arcana Force EX - The Dark Ruler"'s heads effect, it will be changed to Defense Position at the end of the Battle Phase.
 *   The (TAILS) Continuous Effect does not start a Chain.
     *   If "Arcana Force EX - The Dark Ruler" is destroyed by battle, all other cards on the field are destroyed when "Arcana Force EX - The Dark Ruler" is sent to the Graveyard.
-
-  

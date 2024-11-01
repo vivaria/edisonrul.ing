@@ -1,5 +1,5 @@
+# REMOVE BRAINWASHING
 
-# REMOVE BRAINWASHING  
 > As long as this card remains face-up on the field, the control of all monsters on the field returns to the original owners.
 
 *   The Continuous-like Effect does not activate.
@@ -16,5 +16,3 @@
 *   VS. "[Black Garden](https://yugipedia.com/wiki/Black_Garden)": Player A Normal Summoned a monster, causing a "Rose Token" to be Special Summoned to Player B's field. Player A is the owner of that "Rose Token". "Remove Brainwashing" will cause Player A to gain control of that "Rose Token".
 *   VS. "[Vengeful Servant](https://yugipedia.com/wiki/Vengeful_Servant)": if the equipped monster changes control, it will immediately switch back before the effect of "Vengeful Servant" can activate. Afterwards, "Vengeful Servant" will activate once, and inflict damage to the equipped monster's current controller: its original owner.
 *   When your opponent activates "Autonomous Action Unit" and Special Summons your Synchro Monster to his field, if "Remove Brainwashing" is on the field, then the monster is still considered to have been Special Summoned to your opponent's field, even though it is now on your side of the field. Thus, you can activate the effect of "Shiny Black "C" to destroy the Synchro Monster, even though it is on your side of the field.
-
-  

@@ -1,4 +1,3 @@
-
 # VALKYRION THE MAGNA WARRIOR
 
 *   You can Tribute the three monsters required to Special Summon this card from your hand, the field, or any combination of the two.
@@ -7,5 +6,3 @@
 *   If you would have 2 or less vacant Monster Card Zones after you Tribute "Valkyrion the Magna Warrior" you cannot use its effect to Special Summon the Magnet Warriors.
 *   The opponent can activate "Bottomless Trap Hole" and "Beta the Magnet Warrior" and "Gamma the Magnet Warrior" will be destroyed.
 *   If you have "Card of Safe Return" active on the field when you Tribute "Valkyrion the Magna Warrior" to Special Summon the Magnet Warriors, you draw only 1 card.
-
-  

@@ -1,5 +1,5 @@
+# ADHESIVE EXPLOSIVE
 
-# ADHESIVE EXPLOSIVE  
 > ① If an opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. ② Destroy the equipped monster during the Standby Phase of your opponent's next turn.
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
@@ -9,5 +9,3 @@
     *   If this face-down card is attacked by “Horus the Black Flame Dragon LV6” or “Guardian Kay’est”, it will still be equipped to the attacker, but it will not destroy the equipped monster during the Standby Phase.
 *   The ② Continuous-like Effect applies on the field.
     *   This effect is treated as the effect of an Equip Spell Card.
-
-  

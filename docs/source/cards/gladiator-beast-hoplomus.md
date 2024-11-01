@@ -1,5 +1,5 @@
+# GLADIATOR BEAST HOPLOMUS
 
-# GLADIATOR BEAST HOPLOMUS  
 > ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, its original DEF is 2400. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Hoplomus".
 
 *   The ① Continuous Effect does not activate.
@@ -14,5 +14,3 @@
         *   They are not combined onto the same Chain.
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
-
-  

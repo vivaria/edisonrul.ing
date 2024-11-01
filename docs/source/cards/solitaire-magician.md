@@ -1,4 +1,3 @@
-
 # SOLITAIRE MAGICIAN
 
 *   This effect targets 2 monsters.
@@ -7,5 +6,3 @@
 *   You cannot choose to reduce the Level of a "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster whose Level is less than 3.
 *   If you activate this effect and the targeted "[Fortune Lady](https://yugioh.fandom.com/wiki/Fortune_Lady)" monster is flipped face-down by "[Book of Moon](https://yugioh.fandom.com/wiki/Book_of_Moon)", the effect of "[Solitaire Magician](https://yugioh.fandom.com/wiki/Solitaire_Magician)" will not apply. If the monster [targeted](https://yugioh.fandom.com/wiki/Target) to be destroyed is flipped face-down by "[Book of Moon](https://yugioh.fandom.com/wiki/Book_of_Moon)", the effect of "[Solitaire Magician](https://yugioh.fandom.com/wiki/Solitaire_Magician)" resolves normally.
 *   You must choose two different [targets](https://yugioh.fandom.com/wiki/Target) for this effect.
-
-  

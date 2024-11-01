@@ -1,4 +1,3 @@
-
 # SEAL OF WICKEDNESS
 
 *   This effect targets 1 face-up card on the field. It targets that card continuously throughout the turn.
@@ -7,5 +6,3 @@
 *   If “Seal of Wickedness” targets itself, it will be negated for 1 turn. You can flip “Seal of Wickedness” and activate its effect in the same Chain.
 *   If “Seal of Wickedness” is destroyed, removed from the field, or negated while it is negating a card, its effects will no longer be applied and the selected card will no longer be negated.
 *   The effect to negate a card starts a Chain in the Standby Phase. It is a mandatory effect.
-
-  

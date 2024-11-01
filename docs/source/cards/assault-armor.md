@@ -1,5 +1,5 @@
+# ASSAULT ARMOR
 
-# ASSAULT ARMOR  
 > Ⓒ Equip only to a Warrior-Type monster that is the only monster you control. ① It gains 300 ATK. ② During your Main Phase, you can send this equipped card to the Graveyard. If you do, the equipped monster can attack twice during the Battle Phase this turn.
 
 *   The Ⓒ Condition is not an effect, it can't be negated.
@@ -12,5 +12,3 @@
     *   Sending this card to the Graveyard is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
     *   This effect does not target.
     *   You can only send “Assault Armor” to the Graveyard to activate its effect during Main Phase 1.
-
-  

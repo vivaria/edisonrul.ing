@@ -1,4 +1,3 @@
-
 # MORALE BOOST
 
 *   If "Morale Boost" and other Equip Spell Cards are destroyed at the same time with "Harpie's Feather Duster" or "Heavy Storm", "Morale Boost" does not inflict any damage.
@@ -8,5 +7,3 @@
 *   "Morale Boost"'s effect includes when you equip an Equip Spell Card to your opponent's monsters, and when such cards are removed from the field.
 *   "Morale Boost"'s effect includes when you Summon "Guardian Elma" and resolve her effect.
 *   "Morale Boost"'s effect includes when "Tailor of the Fickle" is used.
-
-  

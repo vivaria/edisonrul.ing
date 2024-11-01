@@ -1,4 +1,3 @@
-
 # DEPTH AMULET
 
 *   Discarding a card and negating the attack are considered to happen simultaneously.
@@ -6,5 +5,3 @@
 *   You can only activate its effect when your opponent’s monster declares an attack.
 *   You can flip “Depth Amulet” and activate its effect in the same Chain Link.
 *   “Depth Amulet” targets the attacking monster.
-
-  

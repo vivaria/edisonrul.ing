@@ -1,6 +1,6 @@
+# GLADIATOR BEAST GAIODIAZ
 
-# GLADIATOR BEAST GAIODIAZ  
-> "Gladiator Beast Spartacus" + 1 "Gladiator Beast" monster  
+> "Gladiator Beast Spartacus" + 1 "Gladiator Beast" monster
 Ⓢ This card can only be Special Summoned from your Fusion Deck, by returning the above cards you control to the Deck. (You do not use "Polymerization".) ① When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Fusion Deck to Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Spartacus".
 
 *   The Ⓢ Special Summon Condition restricts how this card is Summoned from the Extra Deck.
@@ -22,5 +22,3 @@
         *   They are not combined onto the same Chain.
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
-
-  

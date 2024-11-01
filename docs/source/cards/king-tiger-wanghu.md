@@ -1,5 +1,5 @@
+# KING TIGER WANGHU
 
-# KING TIGER WANGHU  
 > ① Destroy all monsters with an ATK of 1400 or less that are Normal Summoned or Special Summoned.
 
 *   This ① mandatory Trigger Effect activates in the Summon response timing (like "Trap Hole").
@@ -11,5 +11,3 @@
 *   VS. Ignition Effect Priotity: Player A Normal Summons "Exiled Force". Whangu's Trigger Effect starts a chain immediately, "Exiled Force" is destroyed (it's effect can't activate as a Chain Link of 2+).
 *   VS. "Return from the Different Dimension": If a monster(s) with ATK 1400 or less is Special Summoned simultaneously with Wanghu, Wanghu's effect will trigger and start another Chain. If Wanghu itself has 1400 or less ATK when resolving its effect, it is also destroyed.
 *   VS. "Treeborn Frog": "Treeborn Frog" will be destroyed, but can Special Summon itself again. Doing so without purpose is considered stalling, a violation of Tournament Policy.
-
-  

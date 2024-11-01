@@ -1,5 +1,5 @@
+# SPELL CANCELLER
 
-# SPELL CANCELLER  
 > ① As long as this card remains face-up on the field, Spell Cards cannot be activated. ② The effects of all Spell Cards are also negated.
 
 *   The ① Continuous Effect applies on the field.
@@ -12,5 +12,3 @@
     *   Lingering Effects that have already been established (ex: "Limited Removal") are not negated.
     *   VS. Named / Spell Counters: Remove all Clock Counters from "Clock Tower Prison".
     *   VS. "Premature Burial": "Spell Canceller" is not destroyed by the effect of "Premature Burial".
-
-  

@@ -1,5 +1,5 @@
+# GRAVEKEEPER’S DESCENDANT
 
-# GRAVEKEEPER’S DESCENDANT  
 > ① You can Tribute 1 face-up "Gravekeeper"'s monster you control, except this card, to destroy 1 card your opponent controls.
 
 *   The ① Ignition Effect targets 1 card your opponent controls.
@@ -7,5 +7,3 @@
     *   The target is destroyed even if it flipped face-down (by "Book of Moon") or it is chained.
 *   Tributing a face-up "Gravekeeper"'s monster is a cost.
     *   If "Soul Exchange" targets your opponent's face-up "Gravekeeper"'s monster, you can Tribute it.
-
-  

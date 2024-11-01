@@ -1,4 +1,3 @@
-
 # FINAL ATTACK ORDERS
 
 *   While "Final Attack Orders" is active, if you attack a face-down Defense Position monster, the monster is changed to Attack Position, then damage calculation is applied with the monster in Attack Position.
@@ -7,5 +6,3 @@
 *   While "Final Attack Orders" is active, effects of "Goblin Attack Force", "Giant Orc", and "Dark Zebra" are resolved, but they are immediately changed back to Attack Position.
 *   While "Final Attack Orders" and "Light of Intervention" are active, you can Special Summon a monster in face-up Defense Position, but it is immediately changed to Attack Position.
 *   The effect of "Final Attack Orders" cannot be chained to.
-
-  

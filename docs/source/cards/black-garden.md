@@ -1,5 +1,5 @@
+# BLACK GARDEN
 
-# BLACK GARDEN  
 > ① When a monster is Normal or Special Summoned, except by the effect of “Black Garden”, halve its ATK and Special Summon 1 “Rose Token” (Plant-Type/DARK/Level 2/ATK 800/DEF 800) to its controller’s opponent’s side of the field, in Attack Position. ② You can destroy this card and all face-up Plant-Type monsters on the field and Special Summon 1 monster with ATK equal to the total ATK of those monsters from your Graveyard.
 
 *   The ① mandatory Trigger-like Effect CANNOT miss the timing.
@@ -27,5 +27,3 @@
     *   If the total ATK of all Plant-Type monsters (+ ATK modifiers) is not the same as the ATK of the target, the target is not Summoned (you still destroy "Black Garden" and all Plant-Type monsters).
 *   "Royal Oppression" CANNOT be activated when "Black Garden" is activated (played face-up).
     *   "Royal Oppression" (and its effect) can chain to either of "Black Garden"'s effects.
-
-  

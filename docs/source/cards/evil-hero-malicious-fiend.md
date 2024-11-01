@@ -1,6 +1,6 @@
+# EVIL HERO MALICIOUS FIEND
 
-# EVIL HERO MALICIOUS FIEND  
-> "Evil Hero Malicious Edge" + 1 Level 6 or higher Fiend-Type monster  
+> "Evil Hero Malicious Edge" + 1 Level 6 or higher Fiend-Type monster
 Ⓒ This monster cannot be Special Summoned except with "Dark Fusion". ① During your opponent's Battle Phase, all monsters they control are changed to face-up Attack Position, and each monster they control must attack this card.
 
 *   The Ⓒ Condition cannot be negated.
@@ -15,5 +15,3 @@
     *   If you control 2+ "Evil Hero Malicious Fiend", you decide which one your opponent attacks.
     *   Only monsters that are able to attack must attack "Evil Hero Malicious Fiend". If you have "Swords of Revealing Light" and "Evil Hero Malicious Fiend" on your side of the field, your opponent's monsters are unable to attack, so they cannot attack "Evil Hero Malicious Fiend". If you have "Gravity Bind" and "Evil Hero Malicious Fiend" on your side of the field, your opponent's monsters of Level 4 or higher are unable to attack, so they cannot attack "Evil Hero Malicious Fiend".
     *   VS. "Level Limit - Area B": your opponent's monsters are changed to Attack Position and must attack "Evil Hero Malicious Fiend". If "Level Limit - Area B" is being negated and during the Battle Phase its effect is reapplied, the opponent's Level 4 or higher monsters change to Defense Position and are unable to attack.
-
-  

@@ -1,4 +1,3 @@
-
 # INVERSE UNIVERSE
 
 *   After “Inverse Universe” resolves, monsters whose ATK and DEF are calculated or modified because of their own individual effects have their ATK and DEF “frozen” at the switched values.
@@ -9,5 +8,3 @@
 *   You can activate “Inverse Universe” during the Damage Step, but not during damage calculation. If the ATK of a monster is being changed by an Equip Spell and “Inverse Universe” is activated, the ATK and DEF switch, but the Equip Spell does not reapply its effect to the new ATK.
 *   When the Equip Spell is destroyed, the ATK and DEF of the monster do not change.
 *   New Equip Spells will modify the new ATK.
-
-  

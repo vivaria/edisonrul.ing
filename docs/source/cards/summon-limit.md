@@ -1,5 +1,5 @@
+# SUMMON LIMIT
 
-# SUMMON LIMIT  
 > Neither player can Summon more than two times per turn.
 
 *   The Continuous-like Effect does not activate.
@@ -9,5 +9,3 @@
     *   A negated Summon (ex: "Chaos Sorcerer") still counts towards the limit.
     *   An Effect (ex: "Debris Dragon") that is negated (by "Skill Drain") still counts towards the limit.
     *   An Effect (ex: "Instant Fusion") whose activation is negated (by "Dark Bribe") does not count towards the limit.
-
-  

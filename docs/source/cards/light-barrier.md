@@ -1,4 +1,3 @@
-
 # LIGHT BARRIER
 
 *   "Light Barrier"'s effect to flip a coin during the Standby Phase starts a Chain.
@@ -7,5 +6,3 @@
 *   "Light Barrier"'s effect to gain Life Points starts a Chain when the opponent's monster is sent to the Graveyard or Removed Zone at the end of the Damage Step.
 *   If your "Arcana Force" monster is also destroyed in the battle, "Light Barrier"'s effect still activates.
 *   Only the controller of "Light Barrier" activates its effects.
-
-  

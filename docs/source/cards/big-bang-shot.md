@@ -1,4 +1,3 @@
-
 # BIG BANG SHOT
 
 *   When the monster equipped with "Big Bang Shot" is destroyed, and "Big Bang Shot" is destroyed as a result of this, the equipped monster is not removed from play.
@@ -11,5 +10,3 @@
 *   If you equip your "Big Bang Shot" to your opponent's "Dark Magician", and "Dark Magician" attacks your "Giant Soldier of Stone", the opponent of the owner of the "Big Bang Shot" takes the damage (so your opponent, who attacked with "Dark Magician", takes 900 points of damage.)
 *   The battle damage caused when the equipped monster attacks a Defense Position monster is considered to come from the equipped monster, not from "Big Bang Shot". So a "Don Zaloog" equipped with "Big Bang Shot" could still make the opponent discard 1 card when attacking a face-down monster with low DEF.
 *   If you Special Summon a monster with "Premature Burial", and equip it with "Big Bang Shot", and "Heavy Storm" is activated, the effects of "Premature Burial" and "Big Bang Shot" form a chain, with the controller of the 2 cards determining the order in which they are placed on the chain, and the order in which they are resolved. If the controller chooses "Big Bang Shot" to be Step 2, then the monster will be removed from play. If the controller chooses "Premature Burial" to be Step 2, then the monster will be destroyed and sent to the Graveyard.
-
-  

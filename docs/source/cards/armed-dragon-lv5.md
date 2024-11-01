@@ -1,5 +1,5 @@
+# ARMED DRAGON LV5
 
-# ARMED DRAGON LV5  
 > ① By sending 1 Monster Card from your hand to the Graveyard, destroy 1 face-up monster on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster. ② During the End Phase of a turn that this card destroyed a monster by battle, by sending this card to the Graveyard, Special Summon 1 "Armed Dragon LV7" from your hand or Deck.
 
 *   The ① Ignition Effect activates & resolves on the field.
@@ -12,5 +12,3 @@
     *   Sending this face-up card to the Graveyard is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
     *   This effect can't activate if you don't have "Armed Dragon LV7" in your hand / Deck.
     *   If a level monster fulfills its condition to Special Summon the next-highest level (for example, if "Armed Dragon LV5" destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the Graveyard and then Special Summoned from the Graveyard, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.
-
-  

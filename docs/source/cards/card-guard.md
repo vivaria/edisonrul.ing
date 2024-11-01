@@ -1,5 +1,5 @@
+# CARD GUARD
 
-# CARD GUARD  
 > ① When this card is Normal or Special Summoned, place 1 "Guard Counter" on it. ② This card gains 300 ATK for each Guard Counter it has. ③ Once per turn, you can remove 1 "Guard Counter" from this card and place it on 1 other face-up card you control. Ⓒ If that card would be destroyed, remove the "Guard Counter" instead.
 
 *   The ① mandatory Trigger Effect will only place a "Guard Counter" on it if is still face-up.
@@ -15,5 +15,3 @@
     *   "Guard Counters" disappear if the monster is flipped face-down / leaves the field.
     *   This Conditino does not apply while "Card Guard" is holding the "Guard Counter" it generated.
         *   Two "Card Guards" can use their effects to switch "Guard Counters" such that they gain the protective Condition.
-
-  

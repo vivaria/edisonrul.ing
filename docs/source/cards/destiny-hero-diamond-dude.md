@@ -1,5 +1,5 @@
+# DESTINY HERO - DIAMOND DUDE
 
-# DESTINY HERO - DIAMOND DUDE  
 > ① Once per turn, you can reveal the top card of your Deck. If it is a Normal Spell Card, send it to the Graveyard and you can activate its effect during the Main Phase of your next turn. If the card is not a Normal Spell Card, place it on the bottom of your Deck.
 
 *   The ① Ignition Effect has no cost. The top card of the Deck is revealed as the effect resolves.
@@ -13,5 +13,3 @@
     *   Conditions are not applied (ex: the player may only activate one "Instant Fusion" per turn).
 *   VS. "[Gold Sarcophagus](https://yugipedia.com/wiki/Gold_Sarcophagus)":You can remove from play 1 card in your Deck, but it will not be added to your hand since "Gold Sarcophagus" itself was never activated (played face-up), only its effect.
 *   VS. "[Different Dimension Capsule](https://yugipedia.com/wiki/Different_Dimension_Capsule)": You can remove from play face-down 1 card in your Deck, but it will not be added to your hand since "Different Dimension Capsule" did not destroy itself by its own effect.
-
-  

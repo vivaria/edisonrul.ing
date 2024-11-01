@@ -1,5 +1,5 @@
+# GEARTOWN
 
-# GEARTOWN  
 > ① Both players can Tribute Summon "Ancient Gear" monsters with 1 less Tribute than required. ② When this card is destroyed and sent to the Graveyard, you can Special Summon 1 "Ancient Gear" monster from your hand, Deck, or Graveyard.
 
 *   The ① Continuous-like Effect applies to both players.
@@ -17,5 +17,3 @@
     *   if "Geartown" was destroyed by its controller activating a new Field Spell Card \[[REF](https://www.pojo.biz/board/showpost.php?p=19974049&postcount=3)\].
     *   if "Geartown" was destroyed as Chain Link 2+.
     *   if "Geartown" was destroyed as the first part of an effect that resolves sequentially. If "[Ancient Fairy Dragon](https://yugipedia.com/wiki/Ancient_Fairy_Dragon)" destroys "Geartown" and gains 1000 Life Points, then also adds a Field Spell from Deck to hand, "Geartown" cannot activate its effect because it has missed the timing.
-
-  

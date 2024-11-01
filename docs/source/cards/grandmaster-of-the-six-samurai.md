@@ -1,5 +1,5 @@
+# GRANDMASTER OF THE SIX SAMURAI
 
-# GRANDMASTER OF THE SIX SAMURAI  
 > Ⓤ You can only control 1 "Grandmaster of the Six Samurai" monster. Ⓢ While you control a face-up "Six Samurai" monster, you can Special Summon this card from your hand. ① When this card is destroyed by your opponent's card effect, add 1 "Six Samurai" monster from your Graveyard to your hand.
 
 *   Ⓤ is an Unclassified Effect.
@@ -14,5 +14,3 @@
 *   The ① Trigger Effect will NOT ACTIVATE if:
     *   your opponent uses your "Royal Oppression" to negate this card's built-in Special Summon.
     *   the Continuous Effect of your other "Six Samurai" destroyed Grandmaster as a substitute.
-
-  

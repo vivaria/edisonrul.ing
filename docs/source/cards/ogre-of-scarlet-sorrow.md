@@ -1,4 +1,3 @@
-
 # OGRE OF SCARLET SORROW
 
 *   This effect does not target.
@@ -8,5 +7,3 @@
 *   If “Skill Drain” is activated, the ATK/DEF of “Ogre of the Scarlet Sorrow” will become 0 and remain 0 even if “Skill Drain” is later destroyed.
 *   If the first monster that attacked directly is no longer on the field, you can still Summon “Ogre of the Scarlet Sorrow” when your opponent declares a second direct attack. When you do, the effect to determine the ATK/DEF will result in an ATK/DEF of 0.
 *   “Ogre of the Scarlet Sorrow” keeps its modified ATK/DEF as long as it remains face-up on the field.
-
-  

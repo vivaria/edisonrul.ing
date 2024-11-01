@@ -1,4 +1,3 @@
-
 # MAGIC REFLECTOR
 
 *   You can put 2 or more counters on a Spell Card if you activate 2 or more "Magic Reflectors". When the Spell Card is destroyed, remove the counters on it 1-by-1.
@@ -8,5 +7,3 @@
 *   If a Field Spell Card has a counter on it and a player activates a new Field Spell Card, the Field Spell Card with the counter is still destroyed.
 *   If "Swords of Revealing Light" has a counter on it, it is still destroyed at the end of the opponent’s third turn after it was activated.
 *   If you use "Magic Reflector" to place a counter on a Union Monster that is an Equip Card, and the Union Monster would be destroyed instead of the equipped monster, remove the "Magic Reflector" counter from the Union Monster instead, and the Union Monster is not destroyed.
-
-  

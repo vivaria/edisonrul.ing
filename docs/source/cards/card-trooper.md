@@ -1,5 +1,5 @@
+# CARD TROOPER
 
-# CARD TROOPER  
 > ① Once per turn, you can send up to 3 cards from the top of your Deck to the Graveyard. This card gains 500 ATK for each card sent to the Graveyard until the End Phase. ② When this card you control is destroyed and sent to the Graveyard, draw 1 card.The ② mandatory Trigger Effect only activates if "Card Trooper" is destroyed while on your side of the field.
 
 *   The ① Ignition Effect sends up to 3 cards from the top of your Deck to the Graveyard AS COST.
@@ -13,5 +13,3 @@
     *   This effect activates if "Card Trooper" is destroyed while face-down.
     *   This effect activates in the Graveyard and will be negated by "The End of Anubis".
     *   This effect DOES NOT activate if "Card Trooper" is destroyed while under your opponent's control.
-
-  

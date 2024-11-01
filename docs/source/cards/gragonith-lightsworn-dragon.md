@@ -1,5 +1,5 @@
+# GRAGONITH, LIGHTSWORN DRAGON
 
-# GRAGONITH, LIGHTSWORN DRAGON  
 > ① This card gains 300 ATK and DEF for each "Lightsworn" monster with a different name in your Graveyard. ② During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ③ During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
 
 *   The ① Continuous Effect does not start a chain.
@@ -16,5 +16,3 @@
     2.  Player A activates and resolves the "Lightsworn" monster's effect to send cards from the top of their Deck to the Graveyard. Then that "Lightsworn" monster is returned to Player B's control \[[REF](https://www.pojo.biz/board/showthread.php?t=653322)\].
 *   ③ VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
-
-  

@@ -1,5 +1,5 @@
+# DESTINY HERO - DASHER
 
-# DESTINY HERO - DASHER  
 > ① Once per turn, by Tributing 1 monster, this card gains 1000 ATK until the end of this turn. ② If this card attacks, it is changed to Defense Position at the end of the Battle Phase. ③ While this card is in the Graveyard, one time only, when you draw a Monster Card during your Draw Phase you can show it to your opponent and Special Summon it.
 
 *   The ① Ignition Effect Tributes 1 monster you control as cost.
@@ -14,5 +14,3 @@
     *   This effect can activate if the last thing to happen was a card being drawn by an effect (ex: "Reload", "Heard of the Underdog") during your Draw Phase.
     *   If you draw 2+ monsters simultaneously (by "Reload") while 2 copies of Dasher are in your Graveyard: you may activate both in a chain.
     *   VS. "Drastic Drop Off": Your turn player priority allows Dasher's effect to be Chain Link 1. However, your opponent can chain "Drastic Drop Off" to discard the Monster Card you drew.
-
-  

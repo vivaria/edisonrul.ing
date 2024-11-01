@@ -1,5 +1,5 @@
+# HERALD OF ORANGE LIGHT
 
-# HERALD OF ORANGE LIGHT  
 > ① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it. You can activate this effect during either player's turn.
 
 *   The ① Quick Effect can activate in the Damage Step, as it negates the activation of cards/effects.
@@ -9,5 +9,3 @@
     *   This effect cannot activate while "Macro Cosmos" is active.
     *   If this effect destroys a opponent's monster before the Damage Step, a replay occurs.
     *   If this effect destroys a opponent's monster during the Damage Step, no replay occurs.
-
-  

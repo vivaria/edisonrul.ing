@@ -1,6 +1,6 @@
+# CYBER VALLEY
 
-# CYBER VALLEY  
-> You can use 1 of the following 3 effects:_  
+> You can use 1 of the following 3 effects:_
 __① When this card is selected as an attack target by an opponent’s monster, you can remove this card from play to draw 1 card and end the Battle Phase._  
 _② You can remove from play this card and 1 face-up monster you control, then draw 2 cards._  
 _③ You can remove from play this card and 1 card from your hand, and place 1 card from your Graveyard on top of your Deck._
@@ -18,5 +18,3 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
     *   If "Cyber Valley" is flipped face-down (by "Book of Moon"): this effect will still resolve with full effect.
     *   If "Cyber Valley" leaves the field (by "Karma Cut"): do not remove from play 1 card in your hand, and do not add the target from your Graveyard to your hand.
 *   None of this card’s effects can be activated while "Imperial Iron Wall" is active.
-
-  

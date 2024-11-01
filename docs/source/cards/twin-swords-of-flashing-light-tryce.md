@@ -1,4 +1,3 @@
-
 # TWIN SWORDS OF FLASHING LIGHT - TRYCE
 
 *   Sending a card to the Graveyard is a cost.
@@ -9,5 +8,3 @@
 *   If "Twin Swords of Flashing Light - Tryce" is equipped to a monster affected by "Diffusion Wave Motion", it can only attack twice.
 *   If "Dark Blade" equipped with "Kiryu" is also equipped with "Twin Swords of Flashing Light - Tryce", and attacks twice, and "Kiryu" is then "detached" with "Combination Attack", "Dark Blade" can attack 1 more time (not 2 more times).
 *   If "Airknight Parshath" is equipped with "Twin Swords of Flashing Light - Tryce" and attacks twice, you can draw twice.
-
-  

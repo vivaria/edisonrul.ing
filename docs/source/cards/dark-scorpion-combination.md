@@ -1,4 +1,3 @@
-
 # DARK SCORPION COMBINATION
 
 *   When you use "Dark Scorpion Combination", each Dark Scorpion's card effects are also activated when they attack your opponent directly.
@@ -7,5 +6,3 @@
 *   When you activate "Dark Scorpion Combination", all the Dark Scorpion cards listed on the text must be face-up on the field.
 *   If your opponent has a monster equipped with "Ring of Magnetism", you must attack that monster if you attack, even if using "Dark Scorpion Combination".
 *   "Waboku" will prevent your Dark Scorpions from inflicting Battle Damage, even if you use "Dark Scorpion Combination".
-
-  

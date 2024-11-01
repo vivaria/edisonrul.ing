@@ -1,4 +1,3 @@
-
 # FORGOTTEN TEMPLE OF THE DEEP
 
 *   You can activate the effect to remove a monster from play on either player’s turn.
@@ -11,5 +10,3 @@
 *   If you remove 1 monster from play on your opponent’s turn and another during your turn, both will be Special Summoned during the End Phase. They are Special Summoned at the same time, so if you only have 1 open Monster Card Zone you choose 1 monster to Special Summon and the other goes to the Graveyard.
 *   The effect to Special Summon starts a Chain.
 *   If you control this card and “A Legendary Ocean” you can send either to the Graveyard to activate the effect of “Codarus.”
-
-  

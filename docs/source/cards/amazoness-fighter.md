@@ -1,5 +1,5 @@
+# AMAZONESS FIGHTER
 
-# AMAZONESS FIGHTER  
 > ① All Battle Damage to this card's controller that he/she takes from a battle involving this monster becomes 0.
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
@@ -8,5 +8,3 @@
 *   If "Dark Ruler Ha Des" attacks "Amazoness Fighter", the effect of "Amazoness Fighter" is still applied.
 *   When "Amazoness Fighter" battles "Amazoness Swordswoman", the damage to Life Points is zero.
 *   When a monster quipped with "Wicked-Breaking Flamberge - Baou" attacks "Amazoness Fighter" or "Amazoness Swordswoman", the effects of the Amazonesses are applied.
-
-  

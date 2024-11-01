@@ -1,4 +1,3 @@
-
 # JUDGMENT OF ANUBIS
 
 *   You can activate "Judgment of Anubis" when there are no monsters on your opponent's side of the field.
@@ -6,5 +5,3 @@
 *   You can activate "Judgment of Anubis" and select a Spell Card that destroys only a Spell Card (like "De-Spell") or only a Trap Card (like "Remove Trap") or could destroy both (like "Mystical Space Typhoon") or many (like "Heavy Storm").
 *   You can activate "Judgment of Anubis" and select a Spell Card that negates the activation of a card and destroys it, like "My Body as a Shield" or "Bait Doll".
 *   You cannot activate "Barrel Behind the Door" against "Judgment of Anubis" because when "Judgment of Anubis" is activated, it has not been confirmed that the damage-inflicting effect will happen.
-
-  

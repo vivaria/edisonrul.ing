@@ -1,5 +1,5 @@
+# GREAT SHOGUN SHIEN
 
-# GREAT SHOGUN SHIEN  
 > Ⓤ If you control 2 or more "Six Samurai" monsters, you can Special Summon this card from your hand. ① Your opponent can activate only 1 Spell/Trap Card each turn. ② If this card would be destroyed, you can destroy a "Six Samurai" monster you control instead.
 
 *   The Ⓤ Unclassified Effect works like a built-in Special Summon. This Summon does not start a chain.
@@ -21,5 +21,3 @@
     *   This effect cannot apply if the substitute “Six Samurai” is also being destroyed by the effect.
         *   Example: If "Mirror Force" would destroy all your "Six Samurai", you cannot substitute any.
 *   If you control 2 “Six Samurai” monsters, and 1 of them equipped with “Legendary Ebon Steed” would be destroyed, the effect of “Legendary Ebon Steed” must be used. You cannot choose to destroy another “Six Samurai” monster instead.
-
-  

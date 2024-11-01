@@ -1,5 +1,5 @@
+# BLACKWING - SHURA THE BLUE FLAME
 
-# BLACKWING - SHURA THE BLUE FLAME  
 > ① When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can Special Summon 1 "Blackwing" monster with 1500 or less ATK from your Deck. That monster's effect(s) is negated.
 
 *   The ① optional Trigger Effect activates at the start of Substep 7 - End of the Damage Step (when monsters destroyed by battle are sent to the Graveyard) of the Damage Step.
@@ -11,5 +11,3 @@
     *   Shura was removed from the field by a Flip Effect (ex: "Ryko, Lightsworn Hunter" or "Penguin Soldier").
 *   The Special Summoned monster's effect(s) is negated so long as it remains face-up on the field.
 *   "Torrential Tribute" and "Royal Oppression" CANNOT be activated at any point in the Damage Step.
-
-  

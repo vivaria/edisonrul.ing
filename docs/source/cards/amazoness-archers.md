@@ -1,5 +1,5 @@
+# AMAZONESS ARCHERS
 
-# AMAZONESS ARCHERS  
 > You can activate this card when your opponent declares an attack and if there is a monster(s) on your side of the field that includes "Amazoness" in its card name, or is named "Amazon Archer". All monsters on your opponent's side of the field are changed to face-up Attack Position (Flip Effects are not activated), and as long as they remain face-up on the field, their ATK(s) are decreased by 500 points. Your opponent must attack with all of his/her monsters.
 
 *   "These monsters" means all of your opponent's face-up monsters on the field at the time "Amazoness Archers" resolves, not just the monsters that were flipped by "Amazoness Archers"' effect.
@@ -12,5 +12,3 @@
 *   Monsters that have already attacked cannot attack again. If "The Dark Door" is active, your opponent still can only attack with 1 monster. Monsters which cannot attack still cannot attack (Toon Monsters the turn they are Summoned, "Ultimate Obedient Fiend" under the wrong conditions, etc.) If "Diffusion Wave-Motion" is in effect, only the monster affected by "Diffusion Wave-Motion" can attack. The ATK reduction of "Amazoness Archers" is still applied in these cases where monsters cannot attack.
 *   If you activate "Amazoness Archers" and chain "Magic Cylinder", "Magic Cylinder" does the full damage before the -500 ATK is applied; your opponent's other monsters must attack normally. If you chain "Amazoness Archers" to "Magic Cylinder", the ATK is reduced first and then "Magic Cylinder" does damage.
 *   If either player chains "Negate Attack" to "Amazoness Archers", the Battle Phase ends because of "Negate Attack"'s effect.
-
-  

@@ -1,4 +1,3 @@
-
 # MIRAGE OF NIGHTMARE
 
 *   If, after drawing during your opponent’s Standby Phase, your "Mirage of Nightmare" is destroyed before you have to discard, then you do not need to discard for its effect.
@@ -14,5 +13,3 @@
 *   If your Standby Phase is skipped because of "Solomon’s Lawbook", etc., do not discard for "Mirage of Nightmare".
 *   Drawing for "Mirage of Nightmare" is considered 1 draw no matter how many cards are drawn, so you only gain 500 Life Points if you have "Solemn Wishes".
 *   If you draw 3 cards for "Mirage of Nightmare", but only have 2 cards in your hand during your next Standby Phase, discard your entire hand (2 cards).
-
-  

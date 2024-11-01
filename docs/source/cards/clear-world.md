@@ -1,4 +1,3 @@
-
 # CLEAR WORLD
 
 *   If you control a monster with an effect that treats it as having multiple Attributes, all the relevant effects of “Clear World” will apply to you.
@@ -7,5 +6,3 @@
 *   If you control “Clear Vice Dragon” and any EARTH, FIRE, or WATER monsters, the effect of “Clear World” will still start a Chain but it will resolve without effect.
 *   The EARTH, FIRE, and WATER effects of “Clear World” each start their own Chain. You do not form a single Chain with all 3 effects.
 *   The LIGHT, DARK, and WIND effects of “Clear World” do not start a Chain.
-
-  

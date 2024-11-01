@@ -1,5 +1,5 @@
+# ARMORED AXON KICKER
 
-# ARMORED AXON KICKER  
 > Ⓤ If you control a face-up Psychic-Type monster, you can Normal Summon this card without Tributing. ① If this card destroys an opponent's monster by battle, you take damage equal to half the destroyed monster's ATK. Then, you can Special Summon 1 monster from your Graveyard with ATK less than or equal to the damage you took.
 
 *   The Ⓤ Unclassified Effect applies in the hand, it doesn't start a Chain.
@@ -11,5 +11,3 @@
     *   If you destroy a monster with 0 ATK, you take no damage and can't Special Summon a monster.
     *   This effect resolves sequentially: first you take damage, then you Special Summon 1 monster.
     *   The damage taken is half of the monster’s original (printed) ATK while in the Graveyard.
-
-  

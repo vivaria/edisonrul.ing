@@ -1,5 +1,5 @@
+# BRAIN CONTROL
 
-# BRAIN CONTROL  
 > Pay 800 LifePoints. Select 1 face-up monster your opponent controls. Take control of it until the End Phase.
 
 *   Paying 800 Life Points is a cost. This effect targets a face-up monster.
@@ -8,5 +8,3 @@
 *   A monster affected by "Brain Control" that is flipped face-down later (by "Book of Moon") in the turn is still returned during the End Phase.
 *   If you control your opponent’s monster with "Brain Control" and remove it from play with "Dimensionhole", during your following Standby Phase when the monster is returned to your side of the field it immediately returns to your opponent’s control.
 *   You cannot activate "Brain Control" if your Monster Card Zones are all occupied.
-
-  

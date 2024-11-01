@@ -1,4 +1,3 @@
-
 # ELEMENTAL HERO DIVINE NEOS
 
 *   Removing 1 "Neos", "Neo-Spacian", "Elemental Hero", "Destiny Hero", or "Evil Hero" monster in your Graveyard from play is a cost.
@@ -7,5 +6,3 @@
 *   "Neo-Spacian" monsters cannot be used as "Neos" Fusion Material Monsters.
 *   If you remove "Evil Hero Dark Gaia" to activate the effect of "Elemental Hero Divine Neos", the original ATK of "Elemental Hero Divine Neos'" does not change.
 *   If you return "Elemental Hero Divine Neos" to your Extra Deck by using "Contact Out", you cannot Special Summon the Fusion Material Monsters used to Fusion Summon it because the Fusion Material Monsters listed on "Elemental Hero Divine Neos" are not specificly named cards.
-
-  

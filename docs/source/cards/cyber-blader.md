@@ -1,4 +1,3 @@
-
 # CYBER BLADER
 
 *   “Cyber Blader” only has 1 of her 3 effects at any one time. For example, if the opponent has 3 monsters, only her third effect applies, not the first or second effects.
@@ -7,5 +6,3 @@
 *   The effect of “Cyber Blader” changes immediately when the number of monsters the opponent controls changes.
 *   Example 1: The opponent controls “Gemini Elf” and “Dark Magician”. The opponent attacks with their “Dark Magician”, attacking “Cyber Blader”, whose ATK is currently doubled. The opponent activates “Mystik Wok” and Tributes their “Gemini Elf” to gain 1900 Life Points. “Cyber Blader” now has 2100 ATK points, so it does not destroy “Dark Magician”, but since the opponent has only 1 monster now, “Cyber Blader” is not destroyed as a result of battle, either.
 *   Example 2: The opponent has 3 monsters on the field, 1 of them is “Exiled Force”. The opponent Tributes “Exiled Force” to activate its effect and destroy “Cyber Blader”. Now they only have 2 monsters on the field, so the effect of “Exiled Force” is not negated and “Cyber Blader” is destroyed.
-
-  

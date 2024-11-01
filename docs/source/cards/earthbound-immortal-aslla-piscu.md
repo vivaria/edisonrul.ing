@@ -1,4 +1,3 @@
-
 # EARTHBOUND IMMORTAL ASLLA PISCU
 
 *   If you control an Earthbound Immortal and no other monsters, your opponent cannot attack you, because they cannot select the Earthbound Immortal as an attack target. (Exception: they can attack with monsters that can attack directly, such as “Submarineroid.”)
@@ -11,5 +10,3 @@
 *   If a face-down “Earthbound Immortal Aslla piscu” is attacked while there is no Field Spell Card on the field, and the attacking monster destroys it by battle: Aslla piscu is destroyed by battle, it is not destroyed by its effect after that, and when Aslla piscu is sent to the Graveyard as a result of that battle, its effect will activate to destroy monsters and inflict damage.
 *   If “Earthbound Immortal Aslla piscu” is removed from the field face-down, its effect to destroy monsters and inflict damage does not activate.
 *   If “Earthbound Immortal Aslla piscu” is returned to the Deck from the field, its effect to destroy monsters and inflict damage does not activate.
-
-  

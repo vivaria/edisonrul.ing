@@ -1,4 +1,3 @@
-
 # TOTAL DEFENSE SHOGUN
 
 *   "Total Defense Shogun" does not permanently remain in Defense Position. After the turn that "Total Defense Shogun" is Summoned, you can change his battle position as normal. He can also have his battle position changed with card effects like "Stop Defense".
@@ -11,5 +10,3 @@
 *   If "Total Defense Shogun" attacks while in Attack Position, and is changed to Defense Position by "Windstorm of Etaqua", his attack resolves as normal because he can attack while in Defense Position.
 *   If "Total Defense Shogun" is a Dragon-Type because of "D. Tribe" or "DNA Surgery", and "Dragon Capture Jar" is in play, "Total Defense Shogun" can still attack.
 *   If you select "Total Defense Shogun" with "Dark Spirit of the Silent", "Total Defense Shogun" changes to Attack Position even though he could attack while in Defense Position.
-
-  

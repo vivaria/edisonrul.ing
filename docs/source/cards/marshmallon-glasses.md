@@ -1,4 +1,3 @@
-
 # MARSHMALLON GLASSES
 
 *   While you have “Marshmallon” and “Marshmallon Glasses” face-up on your side of the field, if you equip a monster, other than “Marshmallon”, on your side of the field with “Ring of Magnetism”, your opponent’s monsters must attack the monster equipped with “Ring of Magnetism” when they attack.
@@ -9,5 +8,3 @@
 *   While you have a face-up “Marshmallon”, “Marshmallon Glasses”, and another monster equipped with “Raregold Armor”, your opponent cannot attack with any of their monsters.
 *   “Marshmallon Glasses” can be activated while “Marshmallon” is face-down or not on the field.
 *   While you have “Marshmallon” and “Marshmallon Glasses” face-up on your side of the field, your opponent cannot attack directly with cards like “Goblin Black Ops” or “Inaba White Rabbit”. Your opponent must select “Marshmallon” when declaring their attack.
-
-  

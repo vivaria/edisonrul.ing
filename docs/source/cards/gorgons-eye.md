@@ -1,4 +1,3 @@
-
 # GORGON'S EYE
 
 *   "Gorgon’s Eye" cannot negate the effect of "Sangan", "Witch of the Black Forest", or "Sinister Serpent" because they activate in the Graveyard. If a Defense Position "Slate Warrior" is attacked and destroyed, the effect of "Slate Warrior" that lowers ATK and DEF is applied because it activates in the Graveyard.
@@ -9,5 +8,3 @@
 *   If a Defense Position monster has Spell Counters, like "Skilled White Magician" or "Royal Magical Library", the Spell Counters are removed if "Gorgon’s Eye" is activated.
 *   Monsters like "D.D. Warrior Lady" attacked while in Defense Position have their effects negated (because they are used before the monster is sent to the Graveyard).
 *   While "Gorgon’s Eye" is active, if "Relinquished" equipped with a monster is in Defense Position, the effect of "Relinquished" is negated, it can no longer be equipped with a monster, and the Monster Card equipped to "Relinquished" is destroyed and sent to the Graveyard.
-
-  

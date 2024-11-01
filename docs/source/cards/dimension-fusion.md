@@ -1,4 +1,3 @@
-
 # DIMENSION FUSION
 
 *   "Dimension Fusion" cannot Special Summon a "Special Summon-only" monster, like a Ritual Monster or "Chaos Emperor Dragon - Envoy of the End", unless it was properly summoned first.
@@ -9,5 +8,3 @@
 *   If you take control of your opponent's monster, and it is removed from play while on your side of the field with "Dimensionhole", when "Dimension Fusion" resolves the monster is Special Summoned to the player's side of the field who controlled the monster when it was removed.
 *   Dimension Fusion can Special Summon "Dark Ruler Ha Des" or "Helpoemer".
 *   You can activate "Bottomless Trap Hole" after monsters are Summoned with "Dimension Fusion"; "Bottomless Trap Hole" destroys the Summoned monsters on your opponent's side of the field, and your Summoned monsters are not destroyed.
-
-  

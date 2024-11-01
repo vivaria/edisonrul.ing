@@ -1,5 +1,5 @@
+# ULTIMATE ANCIENT GEAR GOLEM
 
-# ULTIMATE ANCIENT GEAR GOLEM  
 > Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step. ③ If this card is destroyed, you can Special Summon 1 "Ancient Gear Golem" from your Graveyard, ignoring the Summoning conditions.
 
 *   The Ⓒ Condition cannot be negated.
@@ -17,5 +17,3 @@
     *   If this card is destroyed in battle, this effect activates in Substep 7 - End of the Damage Step.
     *   If your opponent controls your this card when it is destroyed, you can still activate this effect.
     *   This "_If... you can..._" effect cannot miss the timing, even if it is destroyed as Chain Link 2+.
-
-  

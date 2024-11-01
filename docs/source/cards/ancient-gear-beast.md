@@ -1,5 +1,5 @@
+# ANCIENT GEAR BEAST
 
-# ANCIENT GEAR BEAST  
 > Ⓒ This card cannot be Special Summoned. ① The effects of your opponent's monsters that this card destroys by battle are negated. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
 
 *   The Ⓒ Condition cannot be negated.
@@ -18,5 +18,3 @@
     *   Continuous-like Effects of Spell / Trap Cards still apply.
     *   The effects of face-up Spell / Trap Cards can still activate (ex: “Ultimate Offering” or “Skull Lair”).
     *   Spell / Trap Cards cannot be activated (flipped face-up / played from the hand).
-
-  

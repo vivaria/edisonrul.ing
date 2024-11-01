@@ -1,6 +1,6 @@
+# GOYO GUARDIAN
 
-# GOYO GUARDIAN  
-> 1 Tuner + 1 or more non-Tuner monsters._  
+> 1 Tuner + 1 or more non-Tuner monsters._
 _① When this card destroys an opponent’s monster by battle and sends it to the Graveyard, you can Special Summon that monster to your side of the field in face-up Defense Position.
 
 *   The Synchro Material Monsters do not need to be EARTH monsters, contrary to recent Errata.
@@ -12,5 +12,3 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
     *   Goyo battled a monster with equal ATK and both were destroyed.
     *   Goyo is removed from the field by the effect of "D.D. Warrior Lady".
     *   Goyo is removed from the field by a Flip Effect (ex: "Ryko, Lightsworn Hunter" or "Penguin Soldier").
-
-  

@@ -1,6 +1,6 @@
+# OVERWHELM
 
-# OVERWHELM  
-> Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.  
+> Activate only while you control a face-up Level 7 or higher monster that was Tribute Summoned. Negate the activation of a Trap Card or Effect Monster's effect and destroy that card.
   
 
 *   You must control a face-up Level 7(+) monster that was Tribute Summoned to activate this card.
@@ -10,5 +10,3 @@
     *   This card cannot negate the activated effect of "Skill Successor" in the Graveyard.
 *   This effect negates the activation of an activated Effect Monster's effect in any location.
     *   If this card negates the activated effect of "Elemental Hero Absolute Zero" in the Extra Deck, it destroys it in the Extra Deck and sends it to the Graveyard.
-
-  

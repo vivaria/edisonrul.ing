@@ -1,5 +1,5 @@
+# HAND DESTRUCTION
 
-# HAND DESTRUCTION  
 > Each player sends 2 cards from their hand to the Graveyard and draws 2 cards.
 
 *   Sending 2 cards from the hand to the Graveyard is NOT a cost.
@@ -13,5 +13,3 @@
     *   if either player has fewer than 2 cards remaining in their Deck.
     *   while "Protector of the Sanctuary" is face-up on the field.
     *   if activating (playing it face-up) it would cause you to have fewer than 2 cards in your hand.
-
-  

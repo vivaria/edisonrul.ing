@@ -1,4 +1,3 @@
-
 # WOLF IN SHEEP’S CLOTHING
 
 *   You activate this card after damage calculation.
@@ -9,5 +8,3 @@
 *   If an effect is Chained that removes the card you revealed from your hand, the effect to Special Summon will not be resolved.
 *   You cannot activate “Wolf in Sheep’s Clothing” if you don’t have a monster in your Deck of the same name as a Level 1 monster in your hand.
 *   The card you reveal is revealed until “Wolf in Sheep’s Clothing” is completely resolved.
-
-  

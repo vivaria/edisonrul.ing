@@ -1,4 +1,3 @@
-
 # TORAPART
 
 *   The restriction on using “Torapart” as a Synchro Material Monster is not an ‘effect’.
@@ -11,5 +10,3 @@
 *   If a Synchro Monster that was Summoned with “Torapart” is flipped face-down or leaves the field, the effect of “Torapart” is no longer available, and the opponent can activate Trap Cards when that Synchro Monster attacks.
 *   If “Skill Drain” is active while you use “Torapart” to Synchro Summon a monster, “Torapart” is now no longer on the field, so the effect of “Torapart” will be applied. So the opponent cannot activate Trap Cards when that Synchro Monster attacks. This is because the restriction on activating Trap Cards is an effect of “Torapart,” not an effect of the Synchro Monster.
 *   If “Torapart’s” effects are being negated by “Forbidden Chalice,” the same rule applies – Trap Cards cannot be activated when the Synchro Monster attacks.
-
-  

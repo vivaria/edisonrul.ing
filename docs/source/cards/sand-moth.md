@@ -1,4 +1,3 @@
-
 # SAND MOTH
 
 *   If a face-down “Sand Moth” is attacked by “Mystic Swordsman LV2” or “Sasuke Samurai” its effect will activate. But if it is attacked by “Drillroid” it will not activate since it will be face-up when it is destroyed by the effect of “Drillroid”.
@@ -8,5 +7,3 @@
 *   After “Sand Moth” is Special Summoned by its own effect, if you equip it with “Megamorph” you will either halve or double its new (2000) original ATK.
 *   After “Sand Moth” is Special Summoned by its own effect, if you activate “Shield & Sword” it will have 1000 ATK / 2000 DEF for that turn.
 *   Even if “Skill Drain” is active when “Sand Moth” is Special Summoned by its own effect, its ATK and DEF will remained switched. (2000 ATK / 1000 DEF).
-
-  

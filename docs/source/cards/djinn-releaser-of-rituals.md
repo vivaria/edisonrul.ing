@@ -1,5 +1,5 @@
+# DJINN RELEASER OF RITUALS
 
-# DJINN RELEASER OF RITUALS  
 > ① When you Ritual Summon a Ritual Monster, you can remove from play this card from your Graveyard as 1 of the monsters required for the Ritual Summon. ② While the monster Ritual Summoned using this card is face-up on the field, your opponent cannot Special Summon.
 
 *   The ① Unclassified Effect cannot be negated.
@@ -19,5 +19,3 @@
     *   This is not treated as an additional effect of the Ritual Monster.
     *   This imparted effect disappears if the Ritual Monster is removed from the field / flipped face-down.
     *   VS. "Brain Control": Whoever Summoned the Ritual Monster with Djinn may still Special Summon.
-
-  

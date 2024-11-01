@@ -1,5 +1,5 @@
+# KING OF THE SWAMP
 
-# KING OF THE SWAMP  
 > ① You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s). ② Discard this card from your hand to the Graveyard to add a "Polymerization" from your Deck to your hand. The Deck is then shuffled.
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
@@ -14,5 +14,3 @@
     *   This effect cannot activate if you have no copy of "Polymerization" in your Deck.
     *   This effect cannot activate if "Prohibition" declares "King of the Swamp".
     *   This effect cannot activate if you use "King of the Swamp" as Fusion Material from your hand.
-
-  

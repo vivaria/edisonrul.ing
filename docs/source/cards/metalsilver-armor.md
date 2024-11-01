@@ -1,4 +1,3 @@
-
 # METALSILVER ARMOR
 
 *   Your opponent cannot activate "Monster Reborn" and other cards that target while you have a monster equipped with "Metalsilver Armor". Your opponent can activate "Raigeki", "Mirror Force", and other cards that do not target.
@@ -8,5 +7,3 @@
 *   When you have a monster equipped with "Metalsilver Armor", your opponent CAN activate the effect of "Nimble Momonga" or "Giant Germ" because their effects do not target 1 card.
 *   When you have a monster equipped with "Metalsilver Armor", your opponent CAN activate "Reinforcement of the Army".
 *   When you have a monster equipped with "Metalsilver Armor", your opponent CAN activate the effect of "The Thing in the Crater" because it Special Summons a monster from your HAND.
-
-  

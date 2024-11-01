@@ -1,4 +1,3 @@
-
 # LAST TURN
 
 *   “Last Turn” is a very special Trap Card with very special and unusual rules. The most important thing to understand about “Last Turn” is that not all of its effects are applied when the Trap Card resolves. When “Last Turn” (the Trap Card itself) resolves, the activating player selects 1 monster on their side of the field, and all other cards on the field and in both players’ hands are sent to the Graveyard. That is all that happens when “Last Turn” resolves. After that, the turn player Special Summons 1 monster from their Deck. After that, a special Battle Phase occurs. Then, during the End Phase, the victory check of “Last Turn” is applied. “Last Turn” sets up several effects that resolve later in the turn long after the Trap Card itself has resolved. Several other cards do this too, like “Last Will” and “Change of Heart”.
@@ -42,5 +41,3 @@
 *   You can activate “Wall of Revealing Light” (paying its cost) and chain “Last Turn”.
 *   If “Pyramid of Light”, “Andro Sphinx”, and “Sphinx Teleia” are all sent to the Graveyard by “Last Turn”, “Theinen the Great Sphinx” is not Special Summoned because the effect of “Pyramid of Light” activates its effect, but then looks for “Andro Sphinx” and “Sphinx Teleia” and does not find them on the field, so it cannot destroy them with its effect.
 *   If the battle for “Last Turn” is conducted and the defending monster was “Wall of Illusion”, but it is destroyed, the attacking monster is returned to the turn player’s hand. The turn player can then Normal Summon the monster in the Main Phase (unless it has passed).
-
-  

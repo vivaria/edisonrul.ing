@@ -1,4 +1,3 @@
-
 # MIRROR WALL
 
 *   If "Mirror Wall" is already face-up on the field when a monster declares an attack, "Mirror Wall" reduces the ATK of the attacking monster by half when the attack is declared.
@@ -9,5 +8,3 @@
 *   You can activate "Mirror Wall" during the Damage Step before damage calculation.
 *   The effect of "Mirror Wall" does not target.
 *   "Reverse Trap" will have no effect on "Mirror Wall".
-
-  

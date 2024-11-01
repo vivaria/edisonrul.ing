@@ -1,4 +1,3 @@
-
 # VENNOMINAGA THE DEITY OF POISONOUS SNAKES
 
 *   Removing from play 1 Reptile-Type monster in your Graveyard to Special Summon this card is a cost.
@@ -10,5 +9,3 @@
 *   You can Tribute your opponent's Vennominaga to Summon "Lava Golem".
 *   If this card is destroyed by battle with "Dark Ruler Ha Des", "Dark Ruler Ha Des'" effect negates this card's effect in the Graveyard, and it cannot be Special Summoned.
 *   Please note the spelling of this card’s name. It is not a “Venom” monster.
-
-  

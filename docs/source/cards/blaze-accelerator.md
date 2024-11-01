@@ -1,5 +1,5 @@
+# BLAZE ACCELERATOR
 
-# BLAZE ACCELERATOR  
 > ① You can send 1 Pyro-Type monster with 500 or less ATK from your hand to the Graveyard to destroy 1 monster your opponent controls, Ⓒ but you cannot declare an attack during this turn if you do.
 
 *   The ① Ignition-like Effect targets.
@@ -14,5 +14,3 @@
     *   This applies even if the ① effect failed to destroy the target.
     *   This applies even if a card/effect is chained to the ① effect that destroys "Blaze Accelerator".
     *   This applies to monster unaffected by Spell Cards / Effects (ex: "Horus the Black Flame Dragon LV6").
-
-  

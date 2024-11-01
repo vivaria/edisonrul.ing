@@ -1,5 +1,5 @@
+# COLOSSAL FIGHTER
 
-# COLOSSAL FIGHTER  
 > ① This card gains 100 ATK for every Warrior-Type monster in any Graveyard. ② When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Warrior-Type monster from either player's Graveyard.
 
 *   The ① Continuous Effect re-calculates as the total of Warrior-Type monsters in the Graveyards changes.
@@ -13,5 +13,3 @@
     *   "Colossal Fighter" was removed from play After Damage Calculation by "D.D. Warrior Lady’s" effect.
     *   "Colossal Fighter" was destroyed After Damage Calculation by the Flip Effect of "Man-Eater Bug".
     *   A Defense Position "Colossal Fighter" was shuffled into the Deck by "Ehren, Lightsworn Monk".
-
-  

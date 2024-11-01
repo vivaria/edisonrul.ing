@@ -1,5 +1,5 @@
-
 # SOUL EXCHANGE
+
 > ① Select 1 monster your opponent controls. This turn you can Tribute that monster as if you controlled it. Ⓒ You cannot conduct your Battle Phase the turn you activate this card.
 
 *   The ① effect of this card targets an opponent's (face-up / face-down) monster.
@@ -17,5 +17,3 @@
 *   You cannot use “Soul Exchange” for “Polymerization” because “Polymerization” does not use Tribute.
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of the DTP1 (2008) [erratum of Soul Exchange](https://yugipedia.com/wiki/Card_Errata:Soul_Exchange) are essential to authentic Edison Format play, as the text was not corrected to the initial effect until BP01 (2012).
-
-  

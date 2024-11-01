@@ -1,5 +1,5 @@
+# GREEN BABOON, DEFENDER OF THE FOREST
 
-# GREEN BABOON, DEFENDER OF THE FOREST  
 > ① When a Beast-Type monster you control is destroyed and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card from your hand or the Graveyard._
 
 *   The ① optional "_When... you can..." Trigger Effect can miss the timing.
@@ -14,5 +14,3 @@
     *   if the last thing to happen when resolving an effect was not the destruction of the Beast-Type.
     *   if your only Green Baboon on the field was destroyed and sent to the Graveyard. It must be in the hand / Graveyard when your Beast-Type monster was destroyed.
     *   if your only Green Baboon and another Beast-Type are destroyed simultaneously (by "Lightning Vortex"). It must be in the hand / Graveyard when your Beast-Type was destroyed.
-
-  

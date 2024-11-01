@@ -1,5 +1,5 @@
+# FORBIDDEN CHALICE
 
-# FORBIDDEN CHALICE  
 > One face-up monster on the field gains 400 ATK, but its effect is negated until the End Phase.
 
 *   This effect targets a face-up monster on the field.
@@ -11,5 +11,3 @@
     *   VS. "Beast King Barbaros”: its ATK becomes 3400, then 3000 ATK after the End Phase.
 *   This card can be used in the Damage Step, but not during/after Substep 4 - Damage Calculation \[[REF](https://yugipedia.com/wiki/Card_Rulings:Forbidden_Chalice)\].
 *   This effect expires during the End Phase like any other effect. Normal rules of priority apply, and the turn player must resolve effects first in the case where both players pass priority to activate/resolve the first (lingering) effect; whereby the turn player MUST activate/resolve the first effect, then the non-turn player.
-
-  

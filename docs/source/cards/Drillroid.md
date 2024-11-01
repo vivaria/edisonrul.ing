@@ -1,4 +1,3 @@
-
 # DRILLROID
 
 *   “Drillroid” can use its effect to destroy face-up and face-down Defense Position monsters that it attacks.
@@ -9,5 +8,3 @@
 *   If “Drillroid” attacks a Defense Position “D.D. Warrior Lady”, the effect of “D.D. Warrior Lady” does not activate, because she has been destroyed by the effect of “Drillroid” by the time her effect would normally activate.
 *   If “Drillroid” attacks a face-down Defense Position monster while “Final Attack Orders” is active, the monster is not destroyed because it flips face-up and immediately shifts to Attack Position.
 *   “Nightmare Penguin” will activate its effect if attacked by “Drillroid” while face-down. (Just like a Flip Effect.)
-
-  

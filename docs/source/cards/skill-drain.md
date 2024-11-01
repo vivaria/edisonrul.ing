@@ -1,5 +1,5 @@
+# SKILL DRAIN
 
-# SKILL DRAIN  
 > Pay 1000 Life Points. ① The effects of all face-up Effect Monsters are negated.
 
 *   The ① Continuous-like Effect does not activate.
@@ -11,5 +11,3 @@
     *   Conditions (which are not effects) and Lingering Effects are not negated.
     *   Spell Counters cannot be held by Monsters (ex: "Skilled Dark Magician"), remove all Spell Counters.
 *   VS. "Jinzo": Whichever card was face-up first applies its effect.
-
-  

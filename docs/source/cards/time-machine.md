@@ -1,4 +1,3 @@
-
 # TIME MACHINE
 
 *   "Time Machine" is activated at the end of the Damage Step, when monsters destroyed by battle are sent to the Graveyard.
@@ -18,5 +17,3 @@
 *   When your "Makyura the Destructor" is destroyed by battle and sent to the Graveyard, you can activate "Time Machine" from your hand.
 *   If a Fusion Monster that was Special Summoned from the Extra Deck by "Metamorphosis" is destroyed by battle and sent to the Graveyard, "Time Machine" cannot be activated because the Fusion Monster was not properly Special Summoned and cannot be Special Summoned from the Graveyard.
 *   If your "Sealmaster Meisei" is destroyed by battle and sent to the Graveyard while you control "Talisman of Trap Sealing", you can activate "Time Machine" because "Talisman of Trap Sealing" is destroyed when "Sealmaster Mesei" is removed from the field.
-
-  

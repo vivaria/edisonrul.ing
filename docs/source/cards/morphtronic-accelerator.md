@@ -1,4 +1,3 @@
-
 # MORPHTRONIC ACCELERATOR
 
 *   Returning 1 "Morphtronic" monster from your hand to the Deck is not a cost.
@@ -8,5 +7,3 @@
 *   If you do not have any cards remaining in your Deck, you cannot activate "Morphtronic Accelerator".
 *   If you cannot destroy the targeted card, you must still return 1 "Morphtronic" card from your hand to the Deck, but you do not draw 1 card.
 *   If you do not have a “Morphtronic” monster in your hand when "Morphtronic Accelerator" resolves, "Morphtronic Accelerator"'s effect disappears.
-
-  

@@ -1,4 +1,3 @@
-
 # DESTINY BOARD
 
 *   The "proper order" in the text of "Destiny Board" means the order the Spirit Messages are placed on the field, not the order that they occupy your Spell and Trap Card Zones. So if you read your Zones from left to right as N-F-A-I-L, it is okay as long as they came on the field in the order of F-I-N-A-L.
@@ -10,5 +9,3 @@
 *   "Cold Wave" will prevent the effect of "Destiny Board" to bring a Spirit Message to the field for the turn "Cold Wave" is activated.
 *   The placing of a Spirit Message on the field by the effect of "Destiny Board" cannot be negated with "Magic Jammer", "Magic Drain", "Solemn Judgment", etc.
 *   If you have a Spirit Message in your hand you cannot activate it, they can only be placed on the field by the effect of "Destiny Board" during your opponent’s End Phase.
-
-  

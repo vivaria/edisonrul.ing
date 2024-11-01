@@ -1,4 +1,3 @@
-
 # LORD OF D.
 
 *   "Lord of D." cannot negate effects; he only prevents Dragon-Type monsters from being selected as targets of effects. Once a target has been selected, the effect of "Lord of D." is irrelevant.
@@ -6,5 +5,3 @@
 *   If you have "Lord of D." on the field, and activate "Premature Burial" to Special Summon a Dragon-Type monster from your Graveyard, that is okay, but if your opponent later destroys "Premature Burial" your Dragon-Type monster is also destroyed because "Premature Burial" is NOT selecting your Dragon-Type as a target.
 *   While you have "Lord of D." on the field you cannot equip your Dragon-Type monsters with Equip Spell Cards, but if you already have a Dragon-Type monster equipped with an Equip Spell Card when you Summon "Lord of D.", the Equip Spell card is not destroyed or negated, because "Lord of D." only prevents Dragon-Type monsters from being selected as a target.
 *   "Lord of D." will NOT stop "Dark Hole", "Mirror Force", "Raigeki", "Fissure", "Smashing Ground", "Hammer Shot", or "Amazoness Archers", nor will he protect your Dragon-Type monsters from their effects, since these cards affect the whole field and do not select targets.
-
-  

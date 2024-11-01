@@ -1,4 +1,3 @@
-
 # DARK PALADIN
 
 *   "Dark Paladin" cannot be Special Summoned, EXCEPT by Fusion Summon. So you cannot Special Summon "Dark Paladin" using "Monster Reborn", etc., even if he was properly Summoned before. You cannot Special Summon "Dark Paladin" using "Magical Scientist", etc.
@@ -9,5 +8,3 @@
 *   If you activate "Dark Paladin"'s Spell-negating effect, and your opponent chains "Ring of Destruction" to destroy "Dark Paladin", the Spell Card is still negated even though "Dark Paladin" is destroyed.
 *   If you activate "Dark Paladin"'s Spell-negating effect, and your opponent chains "Book of Moon" to flip "Dark Paladin" face-down, the Spell Card is still negated even though "Dark Paladin" is face-down.
 *   "Dark Paladin"'s +500 ATK effect is a Continuous Effect. While "Skill Drain" is active, the effects of "Dark Paladin" are negated.
-
-  

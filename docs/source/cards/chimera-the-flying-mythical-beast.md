@@ -1,4 +1,3 @@
-
 # CHIMERA THE FLYING MYTHICAL BEAST
 
 *   If “Chimera the Flying Mythical Beast” is destroyed by “Cyber Jar” you will miss the timing to activate its effect.
@@ -7,5 +6,3 @@
 *   If “Chimera the Flying Mythical Beast” is destroyed while equipped to “Relinquished” you can activate its effect.
 *   You can activate the effect if “Chimera the Flying Mythical Beast” is destroyed by a card effect or by battle.
 *   If your opponent controls your “Chimera the Flying Mythical Beast” and it is destroyed, you get to activate the effect.
-
-  

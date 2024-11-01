@@ -1,4 +1,3 @@
-
 # REPTILIANNE GORGON
 
 *   This is a Trigger Effect that activates following damage calculation

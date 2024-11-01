@@ -1,4 +1,3 @@
-
 # GRAVE PROTECTOR
 
 *   "Grave Protector"'s effect is not applied to itself when it is destroyed as a result of battle.
@@ -10,5 +9,3 @@
 *   If "Grave Protector" is on the field, the effect of "Slate Warrior" that reduces the ATK and DEF of the monster that destroys "Slate Warrior" is still applied, even though "Slate Warrior" is shuffled back into the Deck instead of being sent to the Graveyard. The timing of "Slate Warrior’s" effect is still at the end of the Damage Step (when monsters are normally sent to the Graveyard after battle).
 *   If "Grave Protector" is on the field when a monster like "Black Luster Soldier - Envoy of the Beginning" or "Great Dezard" (with an effect based on when they destroy a monster in battle) battles and destroys a monster, then the "Great Dezard", etc., still gets the reward for destroying the monster even though the destroyed monster was shuffled into the Deck instead of being sent to the Graveyard.
 *   If "Grave Protector" is on the field, a monster destroyed by "Sword Hunter" is shuffled into the Deck instead of becoming an Equip Spell Card.
-
-  

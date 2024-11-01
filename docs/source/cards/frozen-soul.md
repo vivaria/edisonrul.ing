@@ -1,5 +1,5 @@
+# FROZEN SOUL
 
-# FROZEN SOUL  
 > You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.
 
 *   If you activate "Frozen Soul", and your opponent skips his next Battle Phase somehow, his Battle Phase of the next turn is skipped with "Frozen Soul" \[[REF](https://www.pojo.biz/board/showpost.php?p=5706059&postcount=6)\].
@@ -9,5 +9,3 @@
 *   VS. "Thunder of Ruler": If "Thunder of Ruler" and "Frozen Soul" both resolve before your opponent entered the Battle Phase, then they can't conduct this first Battle Phase (due to "Thunder of Ruler"), and "Frozen Soul"'s effect lingers until a future turn when your opponent conducts the Battle Phase \[[REF](https://www.pojo.biz/board/showthread.php?t=1053373)\].
 *   While "Frozen Soul" applies, you cannot activate "Last Turn" as it involves conducting a Battle Phase.
 *   When you activate "Frozen Soul", and effects are chained that result in the Life Point difference being less than 2000, "Frozen Soul"'s effect still resolves.
-
-  

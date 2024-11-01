@@ -1,5 +1,5 @@
+# PHANTOM OF CHAOS
 
-# PHANTOM OF CHAOS  
 > ① Any Battle Damage this monster inflicts to your opponent becomes 0. ② Once per turn, you can remove from play 1 Effect Monster in your Graveyard. Until the End Phase, this card's name is treated as that monster's name, and it gains that monster's effect(s) and ATK.
 
 *   The ① Continuous Effect applies so long as this card is face-up on the field.
@@ -14,5 +14,3 @@
     *   VS. "Relinquished": If "Phantom of Chaos" copies the name, ATK, and effects of "Relinquished" and equips an opponent's monster, the equipped monster is destroyed during the End Phase \[[REF](https://www.pojo.biz/board/showthread.php?t=501711&page=2)\].
     *   VS. "Prohibition": if a card is named, and later "Phantom of Chaos" copied its name, ATK, and effects, then it cannot attack, change its Battle Position, etc.
     *   VS. "Skill Drain": If you use "Phantom of Chaos'" effect to copy the name, ATK, and effect(s) of a DARK monster and afterwards "Skill Drain" is activated, the copied effect(s) are negated, but the copied name and ATK are not negated. If you activate "Phantom of Chaos'" effect and "Skill Drain" is chained, the target is not removed from play, and the effect resolves negated.
-
-  

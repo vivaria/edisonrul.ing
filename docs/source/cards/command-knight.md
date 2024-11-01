@@ -1,4 +1,3 @@
-
 # COMMAND KNIGHT
 
 *   If you control a "Command Knight" equipped with "Ring of Magnetism", and another monster, your opponent can and must select "Command Knight" as an attack target if he chooses to attack.
@@ -13,5 +12,3 @@
 *   If "Command Knight" is Normal Summoned, Flip summoned, or Special Summoned, its ATK is at least 1600 so your opponent can activate "Bottomless Trap Hole".
 *   If "King Tiger Wanghu" is on the field face-up, and "Command Knight" is Summoned, the effect of "Command Knight" is applied immediately because it is a Continuous Effect, so first change "Command Knight"’s ATK to 1600. After that, "King Tiger Wanghu"’s effect cannot activate because "Command Knight"’s ATK is not 1400 or lower.
 *   If "Physical Double" creates a Mirage Token of a Warrior-Type monster while "Command Knight" is on the field, take the current ATK (including "Command Knight" Bonus), then apply all bonuses again if appropriate. So a Mirage Token of a 1600 ATK Warrior-Type monster would be ATK 2000 (it copies the 1600 ATK and then gains "Command Knight"’s +400 ATK bonus).
-
-  

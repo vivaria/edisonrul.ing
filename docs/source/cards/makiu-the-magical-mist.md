@@ -1,6 +1,3 @@
-
 # MAKIU, THE MAGICAL MIST
 
 *   “Makiu, the Magical Mist” targets the selected “Summoned Skull” or Thunder-Type monster. The destruction effect of “Makiu, the Magical Mist” does not target, so it will not destroy “Abyssal Kingshark”, etc. You cannot select a face-down monster because you cannot check its ATK. You cannot activate “Makiu, the Magical Mist” during Main Phase 2. You can activate “Makiu, the Magical Mist” and “Soul Exchange” during the same turn. Likewise, you can activate more than 1 copy of “Makiu, the Magical Mist” and/or “Soul Exchange” during the same turn. You can also activate “Makiu, the Magical Mist” if your Battle Phase will be skipped because of “Great Long Nose”, etc.
-
-  

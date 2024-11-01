@@ -1,4 +1,3 @@
-
 # MAGICAL DIMENSION
 
 *   Tributing a monster for “Magical Dimension” is not a cost; it’s part of the effect and happens when the effect resolves. If the effect of “Magical Dimension” is negated then you do not Tribute a monster.
@@ -12,5 +11,3 @@
 *   You can Tribute a monster that was targeted by “Soul Exchange” for “Magical Dimension”.
 *   You cannot chain “My Body as a Shield” to “Magical Dimension”, since destroying a monster on the field is optional.
 *   If you Summon a monster like “Skilled Dark Magician” and the opponent activates “Bottomless Trap Hole”, you can chain “Magical Dimension” to Tribute “Skilled Dark Magician” and Special Summon another Spellcaster from your hand. This new monster will NOT be destroyed by “Bottomless Trap Hole”.
-
-  

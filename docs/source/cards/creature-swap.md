@@ -1,4 +1,3 @@
-
 # CREATURE SWAP
 
 *   "Creature Swap" does not target. The monsters are chosen when its effect resolves, not when "Creature Swap" is activated.
@@ -11,5 +10,3 @@
 *   A player may select a monster Special Summoned by "Call of the Haunted" or "Premature Burial". If the "Call of the Haunted" or "Premature Burial", still on the opponent’s side of the field, is destroyed, the monster targeted by those cards is destroyed also.
 *   A player may select a monster that is equipped with "Snatch Steal". The original owner of the creature, who now controls the creature again, will still gain 1000 Life Points each turn from the opponent’s "Snatch Steal" card as long as it remains on the field.
 *   A player may activate "Change of Heart" to gain control of an opponent’s monster, and then activate "Creature Swap" and select that monster to return to the opponent. At the end of the turn, the monster targeted by "Change of Heart" does not switch sides again since it is already on the owner’s side of the field.
-
-  

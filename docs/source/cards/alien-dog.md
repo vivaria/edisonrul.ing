@@ -1,5 +1,5 @@
+# ALIEN DOG
 
-# ALIEN DOG  
 > ① When you Normal Summon an "Alien" monster, you can Special Summon this card from your hand. ② When you do, place 2 A-Counters on face-up monster(s) your opponent controls.
 
 *   The ① optional Trigger Effect activates & resolves in the hand.
@@ -11,5 +11,3 @@
     *   This effect activates after the Chain in which the ① effect resolved.
     *   You may place both A-Counters on a single monster, or one on each of two monsters.
     *   The effects of “Alien Dog” do not target. You select the monster(s) when the effect resolves.
-
-  

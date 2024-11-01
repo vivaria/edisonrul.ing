@@ -1,5 +1,5 @@
-
 # DESTINY END DRAGOON
+
 > Ⓒ A Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. ① Once per turn, you can destroy 1 monster your opponent controls and inflict damage to your opponent equal to its ATK. If you activate this effect you cannot conduct your Battle Phase this turn. ② During your Standby Phase, if this card is in your Graveyard you can remove from play 1 "Destiny Hero" card from your Graveyard to Special Summon this card.
 
 *   The Ⓒ Condition cannot be negated.
@@ -18,5 +18,3 @@
     *   If this effect (or its activation) is negated by "Royal Oppression" (or "Divine Wrath"), this effect can be activated again during the same Standby Phase \[[REF](https://web.archive.org/web/20091001204158/http://www.yu-judges.com/cat359_p5.htm)\].
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
-
-  

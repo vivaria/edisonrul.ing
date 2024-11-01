@@ -1,4 +1,3 @@
-
 # MOSAIC MANTICORE
 
 *   "Mosaic Manticor"'s effect is a Trigger Effect that activates during the Standby Phase of your next turn.
@@ -17,5 +16,3 @@
 *   If a monster Special Summoned by the effect of "Mosaic Manticore" is flipped face-down, after it is flipped face-up it can attack and its effects are not negated.
 *   If "Skill Drain" is activated after the monsters Tributed to Tribute Summon "Mosaic Manticore" are Special Summoned by its effect, the monsters still cannot attack and their effects are negated.
 *   If you Special Summon "Exiled Force" with "Mosaic Manticore"'s effect, you can activate the effect of "Exiled Force", but its effect is negated.
-
-  

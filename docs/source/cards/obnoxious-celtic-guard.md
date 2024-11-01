@@ -1,4 +1,3 @@
-
 # OBNOXIOUS CELTIC GUARD
 
 *   "Obnoxious Celtic Guard" and "Celtic Guardian" are considered 2 separate monsters so you can have 3 of each in your Deck.
@@ -7,5 +6,3 @@
 *   "Obnoxious Celtic Guard" isn’t destroyed by damage calculation but can be destroyed by monster effects like "Ryu Kokki".
 *   If "Obnoxious Celtic Guard" is attacked by "Dark Ruler Ha Des", or another monster that negates a card’s effect after it destroys it, "Obnoxious Celtic Guard" is not destroyed (so its effect is not negated).
 *   "Obnoxious Celtic Guard"’s effect works for a battle caused by "Last Turn", so if it battles a monster with ATK 1900 or higher, neither is destroyed and the Duel is a draw.
-
-  

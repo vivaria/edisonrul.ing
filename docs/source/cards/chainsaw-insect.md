@@ -1,4 +1,3 @@
-
 # CHAINSAW INSECT
 
 *   This card’s effect is a Trigger Effect that activates at the end of the Damage Step.
@@ -7,5 +6,3 @@
 *   If your face-down “Chainsaw Insect” is attacked, its effect will still activate.
 *   If your Defense Position “Chainsaw Insect” is attacked by “Drillroid”, damage calculation is not conducted, so “Chainsaw Insect” did not “battle” and its effect will not activate.
 *   If “Skill Drain” is active, your opponent will not get to draw, unless “Chainsaw Insect” is destroyed in the battle, then its effect will activate in the Graveyard and your opponent will draw 1 card.
-
-  

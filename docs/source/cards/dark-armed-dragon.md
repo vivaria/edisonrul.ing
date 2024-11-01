@@ -1,5 +1,5 @@
+# DARK ARMED DRAGON
 
-# DARK ARMED DRAGON  
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having exactly 3 DARK monsters in your Graveyard. ① You can remove from play 1 DARK monster from your Graveyard to destroy 1 card on the field.
 
 *   The Ⓒ Condition cannot be negated.
@@ -9,5 +9,3 @@
 *   The ① Ignition Effect can be activated multiple times in a single turn.
     *   Removing from play 1 DARK monster is a cost.
     *   This effect targets 1 card on the field at activation.
-
-  

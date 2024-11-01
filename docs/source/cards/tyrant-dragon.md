@@ -1,4 +1,3 @@
-
 # TYRANT DRAGON
 
 *   The first sentence of this card’s text means that after you complete an attack with "Tyrant Dragon", if there is still a monster on the opponent’s side of the field, "Tyrant Dragon" can immediately attack again. You cannot attack with another monster in between, and then attack a second time with "Tyrant Dragon." If there are no monsters on your opponent’s side of the field after "Tyrant Dragon"’s first attack, "Tyrant Dragon" does not gain a second attack.
@@ -14,5 +13,3 @@
 *   You Tribute a Dragon-Type monster when the effect that Special Summons "Tyrant Dragon" resolves, not when it activates. So if you activate "Monster Reborn" and target "Tyrant Dragon" and your opponent chains "Imperial Order" and negates "Monster Reborn" you do not Tribute a Dragon-Type monster. Likewise, if you control 1 Dragon-Type monster on the field, and activate "Monster Reborn", and your opponent chains "Ring of Destruction" to destroy your only Dragon-Type monster, you are unable to Tribute a Dragon-Type monster when "Monster Reborn" resolves and its effect disappears.
 *   You may Tribute a face-down Dragon-Type monster when you Special Summon "Tyrant Dragon".
 *   Even if "Tyrant Dragon" was destroyed by "Dark Balter the Terrible" or some other monster that negated the effect of "Tyrant Dragon", you must still Tribute a Dragon-Type monster if you Special Summon it because this is a condition, not an effect.
-
-  

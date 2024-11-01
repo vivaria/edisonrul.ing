@@ -1,4 +1,3 @@
-
 # OVERDOOM LINE
 
 *   The ATK boost of “Overdoom Line” starts a Chain, but does not target.
@@ -8,5 +7,3 @@
 *   If a monster receives the ATK boost from “Overdoom Line” but is flipped face-down, it loses the boost, even if flipped face-up again while “Overdoom Line” is still on the field.
 *   You cannot activate “Overdoom Line” during the Damage Step.
 *   While “Imperial Custom” is active, “Overdoom Line” cannot destroy itself, so it will remain on the field. Its effect will also remain.
-
-  

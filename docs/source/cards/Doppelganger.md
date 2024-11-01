@@ -1,4 +1,3 @@
-
 # DOPPELGANGER
 
 *   “Doppelganger’s” effect starts a Chain after the effect that inflicted damage resolves.
@@ -8,5 +7,3 @@
 *   If “Cannon Soldier”, etc. is Tributed as a cost to activate its own effect to inflict damage, “Doppelganger’s” effect will still activate.
 *   If you take damage from multiple monsters’ Continuous Effects at the same time, like “Rapid-Fire Magician”, “Doppelganger’s” effect only activates once, and inflicts damage equal to the damage from only 1 of those monster’s Continuous Effects.
 *   You can activate (flip face-up) “Doppelganger”, and activate its effect as part of the same Chain Link, after a monster’s effect that inflicts damage to you resolves.
-
-  

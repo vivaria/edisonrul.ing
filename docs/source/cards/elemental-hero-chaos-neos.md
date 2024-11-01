@@ -1,4 +1,3 @@
-
 # ELEMENTAL HERO CHAOS NEOS
 
 *   Monsters Set by the effect of “Elemental Hero Chaos Neos” are Set in Defense Position.
@@ -7,5 +6,3 @@
 *   You can activate the coin toss effect of “Elemental Hero Chaos Neos” even while there are no monsters on your opponent’s side of the field.
 *   If you activate the coin toss effect of “Elemental Hero Chaos Neos” and get 2 Heads, if “Elemental Hero Chaos Neos” is flipped face-down or removed from the field the effects of all face-up monsters on your opponent’s side of the field will still be negated.
 *   The effect of returning “Elemental Hero Chaos Neos” to the Extra Deck and Setting all face-up monsters on the field are one effect. If “Elemental Hero Chaos Neos” is not returned to the Extra Deck (because of “Neo Space”, etc.) face-up monsters on the field will not be Set.
-
-  

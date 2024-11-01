@@ -1,4 +1,3 @@
-
 # DARK NECROFEAR
 
 *   You only remove the 3 Fiend-Type monsters in your Graveyard from play when you Special Summon "Dark Necrofear" from your hand. If you successfully Special Summon it using this method, and then wish to use "Monster Reborn" to Special Summon it from the Graveyard, you do not have to remove 3 more Fiend-Type monsters from the Graveyard.
@@ -11,5 +10,3 @@
 *   "Tailor of the Fickle" or "Collected Power" can be used to move "Dark Necrofear" from one monster to another after it is an Equip Spell Card. "Fairy’s Hand Mirror" or "Shift" cannot be used when "Dark Necrofear" first becomes an Equip Spell Card and is equipped to your opponent’s monster.
 *   If it is destroyed by your opponent’s "Harpie’s Feather Duster", "Dust Tornado", etc. while it is an Equip Spell Card, "Dark Necrofear" will NOT return during the End Phase since it was NOT destroyed while a Monster Card.
 *   If your "Dark Necrofear" is destroyed on your opponent’s side of the field, by either player’s card effect, it will not activate during the End Phase. It must be on your side of the field and sent to your Graveyard when it is destroyed for its effect to activate.
-
-  

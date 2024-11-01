@@ -1,4 +1,3 @@
-
 # MORPHTRONIC CELFON
 
 *   "Royal Oppression" can be chained to the Attack Position effect of "Morphtronic Celfon".
@@ -8,5 +7,3 @@
 *   If you cannot Special Summon a monster (due to "Scapegoat", etc.), you cannot activate "Morphtronic Celfon"'s Attack Position effect. If you activate "Morphtronic Celfon"'s Attack Position effect and an effect is chained that prevents you from Special Summoning monster(s), you will still roll a die and reveal cards from the top of your Deck equal to the result, but the Level 4 or lower "Morphtronic" monster that would be Special Summoned is destroyed instead.
 *   You cannot activate "Morphtronic Celfon"'s Attack Position effect if you have no cards left in your Deck. If you have at least 1 card left in your Deck, you can activate the Attack Position effect. In this case, if you roll a 2 or higher, you will still reveal the 1 card left in your Deck.
 *   You do not show your opponent the cards you look at with “Morphtronic Celfon’s” Defense Position effect.
-
-  

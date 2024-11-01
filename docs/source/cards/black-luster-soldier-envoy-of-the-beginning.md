@@ -1,4 +1,3 @@
-
 # BLACK LUSTER SOLDIER - ENVOY OF THE BEGINNING
 
 *   "Black Luster Soldier - Envoy of the Beginning" is treated as a different card from "Black Luster Soldier". So you can have 3 copies of "Black Luster Soldier - Envoy of the Beginning" and 3 copies of "Black Luster Soldier" in your Deck & Side Deck combined.
@@ -12,5 +11,3 @@
 *   If "Black Luster Soldier - Envoy of the Beginning" attacks and destroys your opponent's monster, then attacks a second time and destroys another monster, it does not get to attack any more that turn.
 *   Even if you equip him with "Twin Swords of Flashing Light - Tryce", "Black Luster Soldier - Envoy of the Beginning" only gets a maximum of 2 attacks.
 *   When "Black Luster Soldier - Envoy of the Beginning" conducts a second attack using his second effect, his effect activates during the first attack's Damage Step, and the attack is declared in the next Battle Step. The second attack must come consecutively after the first attack; other monsters' attacks cannot come in-between.
-
-  

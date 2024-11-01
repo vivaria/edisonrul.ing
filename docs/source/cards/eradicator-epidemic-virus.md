@@ -1,5 +1,5 @@
+# ERADICATOR EPIDEMIC VIRUS
 
-# ERADICATOR EPIDEMIC VIRUS  
 > Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Cards. ① Check all Spell and Trap Cards on your opponent's side of the field, your opponent's hand, and all cards they draw (until the end of your opponent's 3rd turn after this card's activation), and destroy all cards of the chosen type.
 
 *   This card's cost Tributes a DARK monster with 2500 or more ATK.
@@ -22,5 +22,3 @@
     *   You CAN activate "Starlight Road" if at least two face-up Spell / Trap Cards (whichever declared) would be destroyed.
     *   You CANNOT activate "Starlight Road" if your two Spell / Trap Cards (whichever declared) that would be destroyed are face-down.
     *   You CANNOT activate "Starlight Road" if you have 1 face-up Spell Card and 1 face-up Trap card (even if there are others face-down) because "Eradicator Epidemic Virus" will only attempt to destroy cards of the declared type (Spell or Trap).
-
-  

@@ -1,4 +1,3 @@
-
 # CROSS COUNTER
 
 *   You activate "Cross Counter" before damage calculation but after flipping the attacked monster face-up. The "Cross Counter" card is sent to the Graveyard after resolving its effect and destroying the attacking monster.
@@ -7,5 +6,3 @@
 *   "Cross Counter" is not an effect that targets.
 *   The effect of "Cross Counter" that destroys a monster does not start a chain.
 *   If your "Stone Statue of the Aztecs" is defending and you activate "Cross Counter" the Battle Damage your opponent takes is only doubled once (by either the effect of "Cross Counter" or "Stone Statue of the Aztecs").
-
-  

@@ -1,4 +1,3 @@
-
 # DIMENSIONAL INVERSION
 
 *   If multiple monsters you control are being removed from play simultaneously, you can still activate “Dimensional Inversion”. Select 1 of those monsters to be Special Summoned.
@@ -8,5 +7,3 @@
 *   You can activate “Dimensional Inversion” even when a monster is removed from play temporarily. For example, if your monster is controlled by your opponent, and your opponent uses “Interdimensional Matter Transporter” on it, you can activate “Dimensional Inversion”.
 *   If a card is removed from play with “Lightforce Sword” or “Different Dimension Capsule”, you cannot activate “Dimensional Inversion” because you cannot verify the card is a monster.
 *   You cannot activate "Dimensional Inversion" during the Damage Step.
-
-  

@@ -1,4 +1,3 @@
-
 # MAJESTIC STAR DRAGON
 
 *   If you negate the effects of a monster with “Majestic Star Dragon” you can only activate 1 of the monster’s effects 1 time.
@@ -23,5 +22,3 @@
 *   You can Tribute “Majestic Star Dragon” to negate an opponent’s card even if they control no cards to be destroyed.
 *   You can use “Stardust Dragon” as a Synchro Material Monster for “Majestic Star Dragon” even if it’s being treated as a Tuner.
 *   You can Summon “Majestic Star Dragon” if “Majestic Dragon” is being treated as a non-Tuner and “Stardust Dragon” is being treated as a Tuner.
-
-  

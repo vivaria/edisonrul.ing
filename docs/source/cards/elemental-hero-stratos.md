@@ -1,6 +1,6 @@
+# ELEMENTAL HERO STRATOS
 
-# ELEMENTAL HERO STRATOS  
-> ① When this card is Normal or Special Summoned, you can select and activate 1 of these effects:  
+> ① When this card is Normal or Special Summoned, you can select and activate 1 of these effects:
 Ⓐ Destroy Spell or Trap Cards on the field up to the number of "Elemental Hero", "Destiny Hero" and "Evil Hero" monsters you control (not counting this card).  
 Ⓑ Select and add 1 "Elemental Hero", "Destiny Hero" or "Evil Hero" from your Deck to your hand.
 
@@ -13,5 +13,3 @@
     *   This effect does not count "Hero Kid" towards your face up HERO monsters.
 *   The Ⓑ effect CANNOT be activated while "Thunder King Rai-Oh" is face-up on the field.
     *   This effect cannot add "Hero Kid".
-
-  

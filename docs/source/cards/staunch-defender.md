@@ -1,4 +1,3 @@
-
 # STAUNCH DEFENDER
 
 *   This card only affects face-up Attack Position monsters on your opponent's side of the field that can attack.
@@ -12,5 +11,3 @@
 *   When you select "Spirit Reaper" or "The Reaper on the Nightmare" as the target of "Staunch Defender", resolve the chain, and after the effect of "Staunch Defender" resolves, the selected monster is destroyed. A replay will occur, but the opponent can no longer attack because the selected monster is gone.
 *   If two "Staunch Defenders" are activated during the same turn, the last one to resolve will be the one that applies.
 *   If "Absolute End" and "Staunch Defender" are both activated during the same turn, the last one to resolve will be the one that applies.
-
-  

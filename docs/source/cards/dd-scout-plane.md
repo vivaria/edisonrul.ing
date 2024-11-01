@@ -1,4 +1,3 @@
-
 # D.D. SCOUT PLANE
 
 *   "D. D. Scout Plane"'s effect can only activate once during the same End Phase, so if a combo of "Banisher of the Light" and "King Tiger Wanghu" is set up, "D. D. Scout Plane" will only be Special Summoned once.
@@ -13,5 +12,3 @@
 *   If "D. D. Scout Plane" is removed from play and then returned to the Graveyard with "Miracle Dig" the same turn, its effect is reset and it remains in the Graveyard and is not Special Summoned.
 *   If "Prohibition" was used and "D. D. Scout Plane" is prohibited, "D. D. Scout Plane" cannot be Special Summoned and remains removed from play.
 *   If "D. D. Scout Plane" is removed from play with "Different Dimension Gate", "D. D. Scout Plane"'s effect activates and "D. D. Scout Plane" is Special Summoned. If "Different Dimension Gate" is later destroyed, the other removed monster is returned to the field at that time.
-
-  

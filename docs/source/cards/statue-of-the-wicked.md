@@ -1,4 +1,3 @@
-
 # STATUE OF THE WICKED
 
 *   This card is only activated if sent from the field to the Graveyard. There is no way to activate this card while it is Set on the field.
@@ -7,5 +6,3 @@
 *   If "Banisher of the Light" is in play, then "Statue of the Wicked" does not activate its effect when destroyed, because it is not sent to the Graveyard.
 *   "Statue of the Wicked" activates its effect even if you destroy your own "Statue of the Wicked".
 *   You can Tribute a "Wicked Token".
-
-  

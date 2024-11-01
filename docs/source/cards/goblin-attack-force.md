@@ -1,4 +1,3 @@
-
 # GOBLIN ATTACK FORCE
 
 *   If "Goblin Attack Force"'s attack is negated, it is not shifted to Defense Position at the end of the Battle Phase.
@@ -9,5 +8,3 @@
 *   Turn 3: You cannot manually change "Goblin Attack Force" to Attack Position.
 *   Turn 4: If your opponent takes control of "Goblin Attack Force", they can manually change it to Attack Position.
 *   Turn 5: If you still control "Goblin Attack Force", you can manually change "Goblin Attack Force" to Attack Position.
-
-  

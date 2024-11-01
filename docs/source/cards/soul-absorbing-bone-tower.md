@@ -1,4 +1,3 @@
-
 # SOUL-ABSORBING BONE TOWER
 
 *   If you have a "Soul-Absorbing Bone Tower" equipped with "Raregold Armor" and a Zombie-Type monster, your opponent cannot attack. Even if you have a Zombie-Type monster, "Gemini Elf", and a "Soul-Absorbing Bone Tower" equipped with "Raregold Armor", your opponent cannot attack.
@@ -14,5 +13,3 @@
 *   If you have "Soul-Absorbing Bone Tower" in play and "The Kick Man" is Special Summoned, "Soul-Absorbing Bone Tower"'s effect is Step 1 of a chain and "The Kick Man"'s effect is Step 2.
 *   If you have "Soul-Absorbing Bone Tower" and "Card of Safe Return", and a Zombie-Type monster is Special Summoned, "Soul-Absorbing Bone Tower" is Step 1 of the chain and "Card of Safe Return" is Step 2.
 *   You can chain to "Soul-Absorbing Bone Tower"'s effect that sends 2 cards to the Graveyard.
-
-  

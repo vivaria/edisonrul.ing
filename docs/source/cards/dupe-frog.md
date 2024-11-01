@@ -1,5 +1,5 @@
+# DUPE FROG
 
-# DUPE FROG  
 > ① This card's name is treated as "Des Frog" while it is face-up on the field. ② Your opponent cannot select another monster as an attack target. ③ When this card is sent from the field to the Graveyard, you can add 1 "Frog" monster except "Dupe Frog" or "Frog the Jam" from your Deck or Graveyard to your hand.
 
 *   The ① Continuous Effect causes "Dupe Frog" to be counted towards the effect of "Des Croaking".
@@ -13,5 +13,3 @@
     *   This effect will NOT activate if "Dupe Frog" was sent to the Graveyard as Chain Link 2(+).
     *   This effect WILL activate if "Dupe Frog" is destroyed by Battle and sent to the Graveyard.
     *   This effect WILL activate if "Dupe Frog" is sent to the Graveyard as the last part of Chain Link 1.
-
-  

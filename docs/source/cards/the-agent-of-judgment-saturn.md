@@ -1,4 +1,3 @@
-
 # THE AGENT OF JUDGMENT - SATURN
 
 *   Tributing "The Agent of Judgment - Saturn" is a cost.
@@ -9,5 +8,3 @@
 *   If "The Sanctuary in the Sky" is not on the field, you can Tribute "The Agent of Judgment - Saturn" and activate the effect, but the effect is not applied and disappears.
 *   If an effect is chained to "The Agent of Judgment - Saturn"'s effect that would increase your opponent's Life Points, so that your opponent's Life Points are higher than yours when its effect resolves, then "The Agent of Judgment - Saturn"'s effect disappears because your Life Points need to be higher than your opponent's when the effect resolves.
 *   Damage is calculated and inflicted when the effect resolves, so calculate the exact damage when resolving the effect, including any chained effects that altered the Life Points since activation; if the Life Points have changed since activation, the damage inflicted changes accordingly.
-
-  

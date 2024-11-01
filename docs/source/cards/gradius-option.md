@@ -1,4 +1,3 @@
-
 # GRADIUS' OPTION
 
 *   The ATK/DEF of "Gradius’ Option" is the same as the current ATK/DEF of the selected "Gradius", not the original ATK/DEF. So if you equip "Axe of Despair" to "Gradius", the ATK of "Gradius’ Option" will also increase by 1000 points.
@@ -9,5 +8,3 @@
 *   If you pick up "Gradius’ Option" by the effect of "Cyber Jar" you cannot Special Summon it, even if "Gradius" is also in the 5 cards you picked up. It is placed in your hand instead.
 *   If you pick up "Gradius’ Option" by the effect of "Morphing Jar #2" you cannot Special Summon it, and it is sent to the Graveyard.
 *   ”Shrink” has no effect on “Gradius’ Option”.
-
-  

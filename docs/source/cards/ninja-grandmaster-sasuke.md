@@ -1,4 +1,3 @@
-
 # NINJA GRANDMASTER SASUKE
 
 *   "Ninja Grandmaster Sasuke"’s effect activates at the beginning of the Damage Step, before the monster is flipped face-up. So if "Ninja Grandmaster Sasuke" attacks a face-down Defense Position monster, "Ninja Grandmaster Sasuke" will not destroy it with his effect because it is not flipped face-up until after "Ninja Grandmaster Sasuke"’s effect would activate.
@@ -6,5 +5,3 @@
 *   If "Ninja Grandmaster Sasuke" attacks a face-up Defense Position "D. D. Warrior Lady", "D. D. Warrior Lady" is destroyed by the effect of "Ninja Grandmaster Sasuke" and "D. D. Warrior Lady"’s effect is not activated.
 *   If "Ninja Grandmaster Sasuke" attacks a face-up Defense Position monster, and you flip it face-down during the Battle Step with "Book of Moon", the monster is face-down at the start of the Damage Step so "Ninja Grandmaster Sasuke" will not destroy it with his effect.
 *   If "Ninja Grandmaster Sasuke" attacks a face-down Defense Position monster, and "Ceasefire" is activated during the Battle Step, the monster is face-up at the start of the Damage Step so it will be destroyed by "Ninja Grandmaster Sasuke"’s effect.
-
-  

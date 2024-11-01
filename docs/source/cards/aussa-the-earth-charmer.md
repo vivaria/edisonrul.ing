@@ -1,5 +1,5 @@
+# AUSSA THE EARTH CHARMER
 
-# AUSSA THE EARTH CHARMER  
 > FLIP: Take control of 1 EARTH monster on your opponent's side of the field, for as long as this card remains face-up on the field.
 
 *   The FLIP Effect is mandatory, it activates & resolves on the field.
@@ -12,5 +12,3 @@
     *   If a “Charmer” is removed from play with “Interdimensional Matter Transporter”, its effect is not re-applied when it’s back on the field.
     *   If “DNA Transplant” changes a monster’s Attribute so that it can be taken by a “Charmer”, and then “DNA Transplant” is destroyed so that the monster’s Attribute no longer corresponds to the effect of the “Charmer”, the controller of the “Charmer” loses control of the monster.
     *   If the turn player controls a “Charmer” and a monster controlled by its effect, and activates “Assault on GHQ” and targets the controlled monster, and the opponent chains an effect to destroy the “Charmer”, the controlled monster returns to the opponent’s control, but is still destroyed by the effect of “Assault on GHQ”.
-
-  

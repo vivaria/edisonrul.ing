@@ -1,4 +1,3 @@
-
 # NEO-SPACIAN GLOW MOSS
 
 *   This effect activates when the attack is declared. It is a Trigger Effect and can be chained to. The act of drawing and revealing a card is resolved when the Trigger Effect resolves. If a face-down “Neo-Spacian Glow Moss” is attacked, its effect does not activate.
@@ -8,5 +7,3 @@
 *   If “Neo-Spacian Glow Moss” is attacking, and a Trap Card is drawn and revealed for its effect, it changes to Defense Position and is no longer considered an attacking monster, so damage calculation is not performed.
 *   If a monster attacks a face-down “Ancient Lamp”, and “Ancient Lamp” re-directs the attack to “Neo-Spacian Glow Moss”, the effect of “Neo-Spacian Glow Moss” will not activate, because the effect of “Ancient Lamp” causes it to miss the timing.
 *   This effect does not target.
-
-  

@@ -1,5 +1,5 @@
+# JAIN, LIGHTSWORN PALADIN
 
-# JAIN, LIGHTSWORN PALADIN  
 > ① If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
 
 *   The ① Continuous Effect starts to apply in Substep 1 - Start of the Damage Step.
@@ -16,5 +16,3 @@
     2.  Player A activates and resolves the "Lightsworn" monster's effect to send cards from the top of their Deck to the Graveyard. Then that "Lightsworn" monster is returned to Player B's control \[[REF](https://www.pojo.biz/board/showthread.php?t=653322)\].
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
-
-  

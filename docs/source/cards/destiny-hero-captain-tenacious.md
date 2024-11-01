@@ -1,4 +1,3 @@
-
 # DESTINY HERO - CAPTAIN TENACIOUS
 
 *   This effect does not activate when your “Destiny Hero” monster is destroyed. This effect activates during your Standby Phase, so “Destiny Hero - Captain Tenacious” must be face-up on your side of the field at that time to Special Summon the “Destiny Hero” monster.
@@ -7,5 +6,3 @@
 *   If “Skill Drain” is active during the Standby Phase when this effect resolves, this effect will be negated, even if “Skill Drain” was activated after your “Destiny Hero” monster was destroyed.
 *   “Divine Wrath” can be chained to “Destiny Hero – Captain Tenacious’s” effect when it activates during your Standby Phase.
 *   Each “Destiny Hero – Captain Tenacious” can Special Summon 1 monster during your Standby Phase, so if you have 2 “Destiny Hero – Captain Tenacious” face-up on the field and 2 “Destiny Hero” monsters in your Graveyard that were destroyed as a result of battle since your last Standby Phase, you can activate and resolve their effects one at a time.
-
-  

@@ -1,4 +1,3 @@
-
 # NULL AND VOID
 
 *   You can only chain "Null and Void" to an effect that draws cards and does nothing else. You can chain "Null and Void" to the activation of "Pot of Greed" or "Jar of Greed". You can chain "Null and Void" to the activation of the effect of cards like "Airknight Parshath".
@@ -9,5 +8,3 @@
 *   You can chain "Null and Void" to "Reckless Greed". Since you cannot draw by the effect of "Reckless Greed", the effect of skipping 2 Draw Phases is NOT applied.
 *   You can chain "Null and Void" to the effect of "Royal Magical Library".
 *   You cannot chain "Null and Void" to the effect of "Appropriate" because the effect of "Appropriate" cannot be chained to.
-
-  

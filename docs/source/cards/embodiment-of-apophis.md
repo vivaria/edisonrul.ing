@@ -1,4 +1,3 @@
-
 # EMBODIMENT OF APOPHIS
 
 *   Once “Embodiment of Apophis” has been activated, it takes up 1 Monster Card Zone and 1 Spell & Trap Card Zone. The physical location of “Embodiment of Apophis” should be on the Monster Card Zones, however.
@@ -32,5 +31,3 @@
 *   If you control “Theban Nightmare” and “Embodiment of Apophis”, you control a Trap Card so the effect of “Theban Nightmare” cannot be applied.
 *   If you change “Embodiment of Apophis” to Machine-Type and use “Limiter Removal”, then “Jinzo” is Summoned later that turn and “Embodiment of Apophis” switches back to a Trap Card, “Embodiment of Apophis” is not destroyed in the End Phase by “Limiter Removal”.
 *   If you use “Dimensionhole” or “Interdimensional Matter Transporter” against “Embodiment of Apophis”, it returns to the field as a Trap Card and is destroyed immediately. If “Dimensionhole” was used, you cannot use the Monster Card Zone while “Embodiment of Apophis” is removed from play, but you can use the Spell & Trap Card Zone it was occupying.
-
-  

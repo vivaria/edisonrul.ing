@@ -1,4 +1,3 @@
-
 # SPIDER WEB
 
 *   The effects of this card do not start a Chain. They apply to both players’ monsters.
@@ -7,5 +6,3 @@
 *   If “Spider Web” is negated by “Seal of Wickedness,” monsters affected by “Spider Web” can change their Battle Positions.
 *   If “Seal of Wickedness” is destroyed, monsters affected by “Spider Web” will not be able to change Battle Positions.
 *   If “Spider Web” is removed from the field, monsters affected by it can change Battle Positions.
-
-  

@@ -1,5 +1,5 @@
+# MAGICAL HATS
 
-# MAGICAL HATS  
 > Activate only during your opponent's Battle Phase. ① Select 2 non-Monster Cards from your Deck and 1 monster you control. Shuffle those 3 cards and Set them on the field in face-down Defense Position. ⒸThe 2 cards selected from your Deck are treated as monsters (ATK 0/DEF 0) and are destroyed at the end of the Battle Phase.
 
 *   This card cannot be activated unless you can Special Summon both cards. You cannot activate this card while a "Barrier Statue" monster restricts you to Summoning monsters of a specific Attribute.
@@ -14,5 +14,3 @@
 *   The Ⓒ Condition does not start a chain.
     *   This can cause Trigger-like Effects (ex: "Geartown", "Dark Coffin") to activate when destroyed.
     *   A card removed from play by "Interdimensional Matter Transporter" is destroyed when it is returns.
-
-  

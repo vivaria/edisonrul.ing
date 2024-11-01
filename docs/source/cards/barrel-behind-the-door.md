@@ -1,5 +1,5 @@
+# BARREL BEHIND THE DOOR
 
-# BARREL BEHIND THE DOOR  
 > Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.
 
 *   This card can only be Chained to an activated effect that inflicts damage to YOUR Life Points.
@@ -12,5 +12,3 @@
 *   This card can't be Chained to a Continuous Spell / Trap Card, an Equip Spell Card, or a Field Spell Card.
     *   Example: "Magical Thorn", "Dark Snake Syndrome", "Wave-Motion Cannon", or "Black Pendant".
 *   This card can't be Chained to Continuous Effects (ex: "Fire Princess") since they don't activate.
-
-  

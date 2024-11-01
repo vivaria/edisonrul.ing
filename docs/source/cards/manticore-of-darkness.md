@@ -1,4 +1,3 @@
-
 # MANTICORE OF DARKNESS
 
 *   "Manticore of Darkness"' effect can be activated during the End Phase when it was sent to the Graveyard from the field, hand, or your Deck that same turn.
@@ -9,5 +8,3 @@
 *   Sending monsters to the Graveyard for "Manticore of Darkness"' effect is a cost.
 *   You can't send a Monster Token to the Graveyard for "Manticore of Darkness"' effect because Monster Tokens are taken off the field instead of going to the Graveyard.
 *   The owner of "Manticore of Darkness" gets the effect, so if your opponent controls your "Manticore of Darkness" and it's sent to the Graveyard, you get to activate the effect.
-
-  

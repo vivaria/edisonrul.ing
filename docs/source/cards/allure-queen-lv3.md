@@ -1,5 +1,5 @@
+# ALLURE QUEEN LV3
 
-# ALLURE QUEEN LV3  
 > ① Once per turn, during your Main Phase, you can select 1 Level 3 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) ② If this card would be destroyed by battle, the equipped monster is destroyed instead. ③ During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 "Allure Queen LV5" from your hand or Deck.
 
 *   The ① Ignition Effect activates & resolves on the field.
@@ -12,5 +12,3 @@
 *   The ③ mandatory Trigger Effect activates & resolves on the field.
     *   Sending this card to the Graveyard is a cost.
     *   This effect cannot be activate while "Macro Cosmos" is in play.
-
-  

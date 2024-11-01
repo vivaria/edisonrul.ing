@@ -1,5 +1,5 @@
+# GLADIATOR BEAST EQUESTE
 
-# GLADIATOR BEAST EQUESTE  
 > ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, add 1 "Gladiator Beast" card from your Graveyard to your hand. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Equeste".
 
 *   The ① mandatory Trigger Effect cannot miss the timing.
@@ -14,5 +14,3 @@
         *   They are not combined onto the same Chain.
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
-
-  

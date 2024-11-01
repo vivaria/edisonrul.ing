@@ -1,5 +1,5 @@
+# ARCANA KNIGHT JOKER
 
-# ARCANA KNIGHT JOKER  
 > Ⓒ A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. ① Once per turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or Effect Monster's effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card).
 
 *   The Ⓒ Condition cannot be negated.
@@ -11,5 +11,3 @@
     *   Discarding a card is a cost. This effect can be activated while "Macro Cosmos" is active.
     *   You can activate this effect during the Damage Step.
     *   This effect can't negate the effects of “Call of the Haunted” that destroys “Arcana Knight Joker” when it is destroyed.
-
-  

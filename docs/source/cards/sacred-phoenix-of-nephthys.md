@@ -1,4 +1,3 @@
-
 # SACRED PHOENIX OF NEPHTHYS
 
 *   You can activate "Divine Wrath" when "Sacred Phoenix of Nephthys" is Special Summoned by its own effect. Because this effect activates in the Graveyard, and is being negated while "Sacred Phoenix of Nepthys" is in the Graveyard, "Sacred Phoenix of Nepthys" is never Special Summoned (so the card is never moved from the Graveyard) and is never destroyed. Because it is not destroyed, its effect to Special Summon itself does not activate again.
@@ -13,5 +12,3 @@
 *   If "Sacred Phoenix of Nephthys" is destroyed while it is not a Monster Card, such as when it is equipped to "Relinquished" or "Sword Hunter", its effect does not activate and it is not Special Summoned
 *   You can chain to the effect of "Sacred Phoenix of Nephthys" that destroys all Spell and Trap Cards.
 *   If "Sacred Phoenix of Nephthys" is Special Summoned by its effect during the Standby Phase, and "Card of Safe Return" is on the field, "Sacred Phoenix of Nephthys" is Step 1 of the chain and "Card of Safe Return" is Step 2, so "Card of Safe Return" resolves first and you draw a card before "Card of Safe Return" is destroyed.
-
-  

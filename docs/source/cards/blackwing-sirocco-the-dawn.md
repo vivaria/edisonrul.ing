@@ -1,5 +1,5 @@
+# BLACKWING - SIROCCO THE DAWN
 
-# BLACKWING - SIROCCO THE DAWN  
 > Ⓤ If your opponent controls a monster and you control no monsters, you can Normal Summon or Set this card without Tributing. ① Once per turn, you can select 1 face-up "Blackwing" monster you control. It gains ATK equal to the total ATK of all face-up "Blackwing" monsters on the field except itself. Ⓒ Monsters other than the selected monster cannot attack the turn you activate this effect.
 
 *   The Ⓤ Unclassified Effect allows this monsster to be Normal Summoned / Set without Tribute.
@@ -14,5 +14,3 @@
     *   If the activation of the effect of “Blackwing – Sirocco the Dawn” is negated, then your other monsters may attack this turn.
     *   If you have 2 copies of “Blackwing – Sirocco the Dawn” and target 2 different monsters with them, neither of those monsters can attack this turn.
     *   If “Skill Drain” is activated after the effect of “Blackwing – Sirocco the Dawn” resolves, then the effect is not negated. The ATK boost remains, and the other monsters cannot attack this turn.
-
-  

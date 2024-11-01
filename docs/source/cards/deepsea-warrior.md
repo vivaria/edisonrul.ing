@@ -1,4 +1,3 @@
-
 # DEEPSEA WARRIOR
 
 *   If you take control of your opponent's face-down "Deepsea Warrior" with "Change of Heart" while "Umi" is face-up on the field, when it is flipped face-up it is immediately returned to your opponent.
@@ -9,5 +8,3 @@
 *   If your opponent controls a monster equipped with "Ring of Magnetism" and another monster, you can attack the other monster with "Deepsea Warrior" if "Umi" is face-up on the field.
 *   If your opponent has "The Dark Door" face-up on their side of the field, you can attack with one of your monsters and then attack with "Deepsea Warrior" if "Umi" is face-up on the field.
 *   If you control your opponent's "Deepsea Warrior" with "Snatch Steal" and "Umi" is activated, "Deepsea Warrior" returns to your opponent. During your opponent's Standby Phases they will still gain 1000 Life Points.
-
-  

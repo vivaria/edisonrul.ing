@@ -1,4 +1,3 @@
-
 # CHAOS COMMAND MAGICIAN
 
 *   "Chaos Command Magician" must be face-up to negate a monster effect; if face-down then "Chaos Command Magician" will not negate any effects.
@@ -8,5 +7,3 @@
 *   If "Chaos Command Magician" is targeted by "Dark Necrofear", that effect selects 1 target so the effect of "Dark Necrofear" is negated and it is not equipped to "Chaos Command Magician".
 *   When "Chaos Command Magician" battles "D. D. Warrior Lady", her effect is NOT negated because it does not target.
 *   You can activate the effect of "Metallizing Parasite - Lunatite" and target "Chaos Command Magician", but "Chaos Command Magician" will negate the effect and "Metallizing Parasite - Lunatite" will remain on the field as a monster.
-
-  

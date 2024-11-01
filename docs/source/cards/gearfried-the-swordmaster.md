@@ -1,4 +1,3 @@
-
 # GEARFRIED THE SWORDMASTER
 
 *   If you Tribute 1 “Gearfried the Iron Knight” to activate “Release Restraint”, then chain “Serial Spell”, you can Special Summon 2 “Gearfried the Swordmaster” cards from your Deck.
@@ -9,5 +8,3 @@
 *   The effect of “Gearfried the Swordmaster” can activate even in the Damage Step. For example, if “Brain Jacker” is attacked by “Gearfried the Swordmaster”, and “Waboku” was activated earlier in the turn, “Brain Jacker” will equip to “Gearfried the Swordmaster” and the effect will activate. In this case, the effect of “Gearfried the Swordmaster” will activate after the effect of “Brain Jacker” resolves, and the controller of “Brain Jacker” will select which monster to destroy.
 *   This is a targeting effect that targets 1 monster.
 *   The effect of “Gearfried the Swordmaster” will activate even if a Trap Card is equipped to him (such as “Metalmorph” or “Blast with Chain”).
-
-  

@@ -1,4 +1,3 @@
-
 # DIFFERENT DIMENSION GATE
 
 *   You select the monsters when you activate "Different Dimension Gate".
@@ -15,5 +14,3 @@
 *   When a Fusion Monster that was Special Summoned with "Summoner of Illusions" or "Magical Scientist" is removed from play with "Different Dimension Gate", it is not destroyed or returned to the Extra Deck when it returns to the field, and it no longer has "Magical Scientist’s” restriction that prevents it from attacking your opponent's Life Points directly.
 *   When you select "Guardian Kay'est" or "The Legendary Fisherman" as a target of "Different Dimension" gate, only the other monster is removed and returns to the field when "Different Dimension Gate" is destroyed.
 *   You can only use "Different Dimension Gate’s” effect when it is activated, even though it is a Continuous Spell Card.
-
-  

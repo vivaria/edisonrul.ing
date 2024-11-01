@@ -1,4 +1,3 @@
-
 # PHARAOH'S TREASURE
 
 *   You cannot select the "Pharaoh’s Treasure" you just drew and sent to the Graveyard as the card to place in your hand.
@@ -16,5 +15,3 @@
 *   If you draw a face-up "Pharaoh’s Treasure" with "Graceful Charity", you miss the timing for the effect of "Pharaoh’s Treasure" and the effect disappears. "Pharaoh’s Treasure" is simply added to your hand. In order to apply the effect of "Pharaoh’s Treasure", the very last action must have been to draw. You CAN apply Pharaoh’s Treasure’s effect if it is drawn while face-up due to "Pot of Greed", "Fiber Jar", etc.
 *   If "Pharaoh's Treasure" is drawn from your Deck (face-up) while "Banisher of the Light" is in play, "Pharaoh's Treasure" is removed from play and its effect does not activate.
 *   You select the card in your Graveyard that you wish to add to your hand when "Pharaoh's Treasure" is drawn and activates it effect, so your opponent can chain AFTER you have announced which card you wish to retrieve.
-
-  

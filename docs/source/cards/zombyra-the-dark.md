@@ -1,4 +1,3 @@
-
 # ZOMBYRA THE DARK
 
 *   If this monster is flipped face-down its effect is reset (its ATK will again be 2100).

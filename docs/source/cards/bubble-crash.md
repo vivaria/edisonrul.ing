@@ -1,4 +1,3 @@
-
 # BUBBLE CRASH
 
 *   This card can be activated when EITHER player has 6 cards or more combined in hand and on the field.
@@ -9,5 +8,3 @@
 *   If you select "Toon World" to be sent to the Graveyard, your Toon Monsters are not destroyed because "Toon World" was not destroyed.
 *   If you send "Call of the Haunted" to the Graveyard, the monster Special Summoned by its effect is destroyed.
 *   If "Witch of the Black Forest" or "Sangan" is sent to the Graveyard, their effects do activate.
-
-  

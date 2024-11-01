@@ -1,4 +1,3 @@
-
 # BERSERK GORILLA
 
 *   If a face-down "Berserk Gorilla" is attacked and flipped face-up, it's destroyed after damage calculation.
@@ -9,5 +8,3 @@
 *   If you control "Berserk Gorilla" and another monster, "Berserk Gorilla" doesn't have to be the first monster you attack with, you can attack with other monsters first, as long as you do attack with "Berserk Gorilla".
 *   If "The Dark Door" is active and you control "Berserk Gorilla" and another monster, you can choose for your other monster to be the 1 monster that attacks.
 *   If you control “Berserk Gorilla” you must enter your Battle Phase, even if “Gravity Bind” is active on the field, preventing it from attacking.
-
-  

@@ -1,5 +1,5 @@
+# INSTANT FUSION
 
-# INSTANT FUSION  
 > ① Pay 1000 Life Points. Special Summon 1 Level 5 or lower Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) ① It cannot attack, and is destroyed during the End Phase. Ⓒ Only 1 "Instant Fusion" can be activated per turn.
 
 *   Paying 1000 Life Points is a cost.
@@ -18,5 +18,3 @@
     *   If "Instant Fusion"'s activation is negated by "Dark Bribe", you can activate another copy.
     *   If "Instant Fusion"'s effect is negated by "Royal Oppression", you cannot activate another copy.
     *   If “Destiny Hero - Diamond Dude” reveals “Instant Fusion”, in your next turn you can activate(play face-up) “Instant Fusion” as well as the effect of "Instant Fusion" (revealed by Diamond Dude).
-
-  

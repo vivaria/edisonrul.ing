@@ -1,4 +1,3 @@
-
 # DIMENSION FORTRESS WEAPON
 
 *   Costs cannot be paid while “Dimension Fortress Weapon” is on the field, if the cost is to send cards from the Deck to the Graveyard. So “Card Trooper” and “Celestia, Lightsworn Angel” cannot activate their effects.
@@ -15,5 +14,3 @@
 *   If “Magical Merchant” is flipped face-up while “Dimension Fortress Weapon” is on the field, its effect is not applied.
 *   If “Chain Destruction” is activated while “Dimension Fortress Weapon” is on the field, copies of the monster in the player’s hand are destroyed, but not copies in their Deck.
 *   If “Spell Vanishing” is activated while “Dimension Fortress Weapon” is on the field, check the opponent’s hand and Deck, and send copies of the Spell Card in their hand to the Graveyard, but not the copies from their Deck.
-
-  

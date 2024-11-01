@@ -1,5 +1,5 @@
+# AT ONE WITH THE SWORD
 
-# AT ONE WITH THE SWORD  
 > Activate while the only monster you control is 1 face-up "X-Saber" monster. Equip this card to that monster. ① It gains 800 ATK. ② If it destroys your opponent's monster by battle, draw 1 card.
 
 *   This effect targets the 1 face-up “X-Saber” monster when activated.
@@ -10,5 +10,3 @@
     *   This is treated as the effect of a Trap Card, not an Equip Spell Card.
     *   This effect activates in Substep 7 - End of the Damage Step.
     *   This card must be face-up on the field to activate & resolve this effect.
-
-  

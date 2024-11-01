@@ -1,4 +1,3 @@
-
 # INFERNO FIRE BLAST
 
 *   No copies of "Red-Eyes B. Dragon" can attack if you activate "Inferno Fire Blast".
@@ -8,5 +7,3 @@
 *   If "Imperial Order" is chained to "Inferno Fire Blast", the effect of "Inferno Fire Blast" is negated but "Red-Eyes B. Dragon" cannot attack. However, if "Magic Jammer" negates the activation of "Inferno Fire Blast", your "Red-Eyes B. Dragon" can attack.
 *   If you activate "Inferno Fire Blast" while "Non-Spellcasting Area" is active, the effect of "Inferno Fire Blast" disappears.
 *   If you only have 1 "Red-Eyes B. Dragon" on the field, you can activate multiple copies of "Inferno Fire Blast" designating that same "Red-Eyes B. Dragon".
-
-  

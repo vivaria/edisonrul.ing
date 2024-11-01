@@ -1,4 +1,3 @@
-
 # TWIN-HEADED BEHEMOTH
 
 *   The effect of this card is only activated when it is "destroyed". It will not activate if Tributed, discarded, or sent to the Graveyard.
@@ -13,5 +12,3 @@
 *   If "Twin-Headed Behemoth" would be Special Summoned by its own effect, but your Monster Card Zones are full, or the effect of "Scapegoat" prevents you from Summoning, it still considered that its effect was activated, and you cannot use it again in the current Duel.
 *   You may still Special Summon "Twin-Headed Behemoth" with the effect of "Monster Reborn", etc. after its effect has been used once.
 *   If you activate "Monster Reborn" to Special Summon "Twin-Headed Behemoth" in the turn it was destroyed, its effect has not yet been used, and it will activate the next time it is destroyed.
-
-  

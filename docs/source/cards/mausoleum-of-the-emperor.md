@@ -1,5 +1,5 @@
+# MAUSOLEUM OF THE EMPEROR
 
-# MAUSOLEUM OF THE EMPEROR  
 > ① Both players can Normal Summon or Set monsters without Tributing, by paying 1000 Life Points x the number of monsters needed for the Tribute Summon.
 
 *   The ① Ignition-like Effect activates & resolves on the field.
@@ -12,5 +12,3 @@
     *   The Normal Summon can be responded to with "Torrential Tribute".
     *   You cannot use the effect of "Spell Economics" to activate this effect without paying Life Points.
     *   This effect cannot be used when resolving the effect of “Ultimate Offering”, because you cannot activate “Mausoleum of the Emperor’s” effect during the resolution of “Ultimate Offering’s” effect.
-
-  

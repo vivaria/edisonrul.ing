@@ -1,4 +1,3 @@
-
 # MAJU GARZETT
 
 *   You can't search for "Maju Garzett" with "Sangan" or "Mystic Tomato".
@@ -8,5 +7,3 @@
 *   If "Maju Garzett" battles "Cat's Ear Tribe", its original ATK is changed to 200 for the battle, then after the battle its ATK is reset to 0.
 *   When you Tribute Monster Tokens to Tribute Summon "Maju Garzett", the sum of their ATK's will be the ATK of "Maju Garzett".
 *   When you Tribute Summon "Maju Garzett", your opponent can use "Trap Hole" or "Bottomless Trap Hole" if appropriate.
-
-  

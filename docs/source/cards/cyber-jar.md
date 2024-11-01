@@ -1,4 +1,3 @@
-
 # CYBER JAR
 
 *   Spirit Monsters, Toon Monsters, Ritual Monsters, etc. are sent to your hand as they cannot be Special Summoned or must be Special Summoned is a specific way.
@@ -7,5 +6,3 @@
 *   If you attacked your opponent’s face-down "Cyber Jar", after its effect resolves you can then attack with any monsters you Special Summoned in Attack Position before you enter your Main Phase 2.
 *   "Torrential Tribute" can be used on monsters Summoned by "Cyber Jar" but not if "Cyber Jar" was flipped face-up in the Damage Step, since "Torrential Tribute" cannot be activated during the Damage Step.
 *   If a player has less than 5 cards in their Deck, they do not lose (since you are picking-up cards, not drawing), they pick up however many cards they have and continue with "Cyber Jar"’s effect.
-
-  

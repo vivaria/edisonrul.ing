@@ -1,4 +1,3 @@
-
 # LONE WOLF
 
 *   If you activate “Lone Wolf” targeting an appropriate monster, and later you Summon another monster, the effect of “Lone Wolf” is still applied.
@@ -11,5 +10,3 @@
 *   If you have “Monk Fighter” targeted by “Lone Wolf”, the following are examples of monster effects that will NOT be negated because they are not applied to a monster: “Airknight Parshath” (damage is inflicted and a card is drawn), “Fiber Jar” (“Monk Fighter” is shuffled into the Deck), “Maju Garzett” (the ATK of “Maju Garzett” does not become 0), “Susa Soldier” (the damage to Life Points is still halved), “Dark Magician Girl” (her ATK is still increased by her effect), “Stone Statue of the Aztecs” (Battle Damage to your Life Points is doubled), “Amazoness Fighter” (opponent’s Battle Damage to their Life Points is still zero), “Amazoness Swords Woman” (Battle Damage is still redirected), and “Reflect Bounder” (you still take effect damage to your Life Points).
 *   “Archfiend of Gilfer” and “Dark Necrofear” in the Graveyard can activate their effects and target “Monk Fighter” targeted by “Lone Wolf”. This is because they activate as Monster Cards, equip to the target monster, become treated as Equip Spell Cards, and THEN apply their effects (by which point they are now treated as Equip Spell Cards).
 *   The effect of “Lone Wolf” will be negated by Jinzo even if targeting “Monk Fighter”.
-
-  

@@ -1,4 +1,3 @@
-
 # THE END OF ANUBIS
 
 *   "The End of Anubis" WILL negate the effects of "Night Assailant" (its second effect), "Aswan Apparition", "Nubian Guard", "Sangan", "Witch of the Black Forest" (even if Tributed to Tribute Summon "The End of Anubis"), "Mystic Tomato"/"Giant Rat"/etc., "Sinister Serpent", "Magician of Faith", "Dark Magician of Chaos"' spell retrieval effect, "Vampire Lord"'s ability to return from the Graveyard, "Dark Necrofear"'s ability to return from the Graveyard, and activation of "Call of the Haunted" or "Premature Burial".
@@ -8,5 +7,3 @@
 *   "The End of Anubis" negates the Special Summon effect of "Premature Burial" & "Call of the Haunted", but does not negate the effect that destroys the monster when "Premature Burial"/"Call of the Haunted" is destroyed.
 *   While "The End of Anubis" is on the field, if you Special Summon "Gilasaurus", your opponent can't Special Summon.If "The End of Anubis" is face-up on the field when a flipped "Spear Cretin" is sent to the Graveyard, then "Spear Cretin"'s effect does not activate. But if "The End of Anubis" was merely on the field when "Spear Cretin" was flipped, but is NOT on the field when "Spear Cretin" is sent to the Graveyard, then "Spear Cretin"'s effect DOES activate when sent to the Graveyard because "The End of Anubis" is no longer on the field to negate it.
 *   When "Night Assailant" is discarded to activate the effect of "Tribe-Infecting Virus", and Fiend is named, the effect of "Night Assailant" is activated after "Tribe-Infecting Virus" resolves because "The End of Anubis" is no longer on the field.You cannot send "Desrook Archfiend" to the Graveyard for its effect while "The End of Anubis" is on the field, because the effect of "Desrook Archfiend" targets the destroyed "Terrorking Archfiend" in the Graveyard.
-
-  

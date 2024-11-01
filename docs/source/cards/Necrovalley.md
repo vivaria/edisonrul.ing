@@ -1,5 +1,5 @@
-
 # NECROVALLEY
+
 > ① Negate the effects of Spells, Traps, and Effect Monsters that target a card(s) in either player’s Graveyard. ② Cards in either player’s Graveyard cannot be removed from play. ③ All “Gravekeeper’s” monsters gain 500 ATK and DEF.
 
 *   The ① Continuous-like Effect NEGATES:
@@ -15,5 +15,3 @@
 *   Cards in the Graveyard can have their Type / Attribute changed by card effects that do not target.
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
-
-  

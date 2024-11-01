@@ -1,5 +1,5 @@
+# AMAZONESS TIGER
 
-# AMAZONESS TIGER  
 > ① You can only have 1 "Amazoness Tiger" on your side of the field. ② Increase the ATK of this card by 400 points for each monster on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer". ③ As long as this card remains face-up on the field, your opponent cannot attack another monster that includes "Amazoness" in its name, or is named "Amazon Archer".
 
 *   The ① Unclassified Effect applies while this card is face-up on the field (like a Continuous Effect).
@@ -14,5 +14,3 @@
 *   The ② Continuous Effect applies while this card is face-up on the field.
     *   When you have "Amazoness Tiger" and another Amazoness equipped with "Raregold Armor", your opponent cannot attack.
     *   When you have "Amazoness Tiger" and another Amazoness equipped with "Ring of Magnetism", the Amazoness equipped with "Ring of Magnetism" can and must be the target of the attack.
-
-  

@@ -1,5 +1,5 @@
+# LAVA GOLEM
 
-# LAVA GOLEM  
 > This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned to your opponent's side of the field by Tributing 2 monsters they control. Ⓒ You cannot Normal Summon or Set the turn you Special Summon this card. ① Take 1000 points of damage during each of your Standby Phases.
 
 *   The Ⓢ Special Summon does not start a chain.
@@ -16,5 +16,3 @@
     *   You can't Special Summon "Lava Golem" if your Normal Summon was negated by "Solemn Judgment".
 *   The ① mandatory Trigger Effect activates during the Standby Phase of this card's controller.
     *   This effect deals damage even if this card is flipped face-down / leaves the field / changes control.
-
-  

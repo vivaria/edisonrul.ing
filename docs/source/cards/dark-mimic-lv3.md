@@ -1,4 +1,3 @@
-
 # DARK MIMIC LV3
 
 *   If you take control of your opponent’s "Dark Mimic LV1" with "Snatch Steal", you can send it to the Graveyard during your Standby Phase to Special Summon your "Dark Mimic LV3".
@@ -8,5 +7,3 @@
 *   If "Dark Mimic LV3" is Special Summoned by the effect of "Dark Mimic LV1" and the opponent Summons "Tsukuyomi" to flip "Dark Mimic LV3" face-down and then attacks it, you will only draw 1 card because its effect was reset when it was flipped face-down.
 *   The activation timing of "Dark Mimic LV3"’s effect when it is sent to the Graveyard (as a result of battle).
 *   If your opponent takes control of your "Dark Mimic LV3" and it is sent to the Graveyard as a result of battle, the owner draws a card because its effect activates in the Graveyard.
-
-  

@@ -1,4 +1,3 @@
-
 # CYBERNETIC MAGICIAN
 
 *   The effect of “Cybernetic Magician” is an Ignition Effect that targets a monster.
@@ -6,5 +5,3 @@
 *   If a monster is getting an ATK adjustment because of a Field Spell Card, and you use the effect of “Cybernetic Magician” on it, then its ATK becomes 2000 and is not adjusted by the Field Spell Card until the effect of “Cybernetic Magician” expires. (However, if a new Field Spell Card is activated that changes the ATK, it will adjust it from the new 2000 ATK level.)
 *   You cannot target a monster with “Cybernetic Magician” if its ATK is already 2000 (like “Vampire Lord”). This includes monsters that have 2000 ATK because of the effect of “Cybernetic Magician”.
 *   If you target a “Raging Flame Sprite” that currently has 3100 ATK with the effect of “Cybernetic Magician”, at the end of the turn its ATK will return to 3100 points, not 100.
-
-  

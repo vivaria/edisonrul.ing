@@ -1,4 +1,3 @@
-
 # POWER PICKAXE
 
 *   This effect targets the monster in your opponent’s Graveyard.
@@ -10,5 +9,3 @@
     *   It will not regain it even if “Power Pickaxe” stops being negated.
 *   If “Power Pickaxe” is destroyed, the previously equipped monster loses the 500 ATK.
 *   Monsters removed by this effect remain removed from play even after the End Phase.
-
-  

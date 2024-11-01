@@ -1,4 +1,3 @@
-
 # SPIRIT OF THE PHARAOH
 
 *   "Spirit of the Pharaoh" cannot be Normal Summoned or Set, and cannot be Special Summoned EXCEPT by the effect of "The First Sarcophagus". So "Spirit of the Pharaoh" cannot be Special Summoned with "Monster Reborn", etc., even if Special Summoned properly first.
@@ -10,5 +9,3 @@
 *   If you have "Stumbling" on the field and "Spirit of the Pharaoh" is Special Summoned, his effect can be activated but it is a chain with "Stumbling" as Step 1 and "Spirit of the Pharaoh" as Step 2.
 *   If a Zombie-Type monster had its Level reduced by "Cost Down", that reduction no longer applies when it is in the Graveyard.
 *   If you activate "Spirit of the Pharaoh"'s effect and "Enemy Controller" is chained, and control of "Spirit of the Pharaoh" switches, the effect is still controlled by the activator of "Spirit of the Pharoah"'s effect.
-
-  

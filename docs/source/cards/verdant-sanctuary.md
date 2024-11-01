@@ -1,5 +1,5 @@
+# VERDANT SANCTUARY
 
-# VERDANT SANCTUARY  
 > ① When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.
 
 *   The ① optional Trigger-like Effect can be activated during the Damage Step.
@@ -10,5 +10,3 @@
     *   a face-down Insect-Type monster is attacked and destroyed by battle.
     *   an Insect-Type monster is destroyed while equipped to "Relinquished".
     *   a non-Insect-Type monster is destroyed while treated as an Insect-Type by "DNA Surgery".
-
-  

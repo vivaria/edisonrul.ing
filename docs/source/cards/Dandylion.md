@@ -1,5 +1,5 @@
+# DANDYLION
 
-# DANDYLION  
 > ① When this card is sent to the Graveyard, Special Summon 2 "Fluff Tokens" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. Ⓒ These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.
 
 *   The ① mandatory Trigger Effect always activates, even if you cannot Special Summon monsters.
@@ -12,5 +12,3 @@
     *   Example 4: "Dandylion" is discarded as cost for "Raigeki Break" (Chain Link 1) and is returned to the Deck by "The Transmigration Prophecy" (Chain Link 2).
 *   The Ⓒ Condition only applies the turn the "Fluff Tokens" were Special Summoned.
     *   You cannot Tribute Set a monster the turn these Tokens were Special Summoned.
-
-  

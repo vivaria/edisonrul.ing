@@ -1,4 +1,3 @@
-
 # DARK NEPHTHYS
 
 *   "Dark Nephthys'" first effect is an Ignition Effect. Removing DARK monsters from play is a cost.
@@ -6,5 +5,3 @@
 *   "Dark Nephthys" effect to Special Summon itself starts a Chain.
 *   The owner of "Dark Nephthys" Special Summons it, even if their opponent activated its first effect.
 *   "Dark Nephthys'" third effect activates whenever it is Special Summoned, including by another card's effect. It is not optional.
-
-  

@@ -1,4 +1,3 @@
-
 # SCAPEGOAT
 
 *   You can only activate "Scapegoat" if you have 4 or more vacant Monster Card Zones.
@@ -10,5 +9,3 @@
 *   You can Set a monster in the same turn you activate "Scapegoat".
 *   If you control 2 monsters and your opponent activates "Change of Heart" to gain control of one and you later activate "Scapegoat" your monster will be destroyed during the End Phase if all 5 of your Monster Card Zones are still occupied.
 *   If you activate "Monster Reborn" and your opponent chains "Imperial Order" you can chain "Scapegoat" and "Royal Decree" but only "Scapegoat" will resolve since "Scapegoat" will prevent any Special Summons, and therefore "Monster Reborn" cannot resolve.
-
-  

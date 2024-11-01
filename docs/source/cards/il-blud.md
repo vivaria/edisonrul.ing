@@ -1,6 +1,6 @@
+# Il Blud
 
-# Il Blud  
-> Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:  
+> Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:
 ● ① Once per turn, you can Special Summon 1 Zombie-Type monster from your hand or from either player's Graveyard. ② When this card is removed from the field, destroy all Zombie-Type monsters Special Summoned by this effect.
 
 *   The Ⓤ unclassified effect does not apply while "Il Blud" is in the Deck. It cannot be negated.
@@ -16,5 +16,3 @@
 *   The ② Continuous Effect does not start a chain.
     *   If "Il Blud" leaves the field while resolving a Chain, destroy all Zombie-Type monsters it Special Summoned before resolving the next effect in the chain.
     *   If "Il Blud" leaves the field while its effect is negated by "Skill Drain", etc., monsters Special Summoned by its effect will not be destroyed.
-
-  

@@ -1,4 +1,3 @@
-
 # INSECT QUEEN
 
 *   Insect Monster Tokens are placed during the End Phase for each monster "Insect Queen" destroyed that turn (1 for 1).
@@ -8,5 +7,3 @@
 *   No Insect Monster Token is Special Summoned if it is impossible (due to "Jam Breeding Machine", etc.).
 *   If you want to use "Royal Oppression" to negate the Special Summon of an Insect Monster Token, you chain it to the activation of "Insect Queen"’s effect during the End Phase.
 *   If you Tribute "Pinch Hopper" to attack with Insect Queen, you can activate "Pinch Hopper"’s effect.
-
-  

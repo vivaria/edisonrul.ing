@@ -1,4 +1,3 @@
-
 # VICIOUS CLAW
 
 *   "Vicious Claw" is returned to its owner's hand at the end of the Damage Step when the equipped monster would have been sent to the Graveyard.
@@ -10,5 +9,3 @@
 *   During the turn "Vicious Claw" is returned to your hand, if your opponent adds the returned "Vicious Claw" to their hand with "Exchange", they can use it during the same turn.
 *   If your opponent adds your "Vicious Claw" to their hand and equips it to their monster, when their equipped monster would be destroyed in battle "Vicious Claw" will return to your hand, but your opponent will resolve its effects.
 *   When "Goblin Out of the Frying Pan" is chained to "Vicious Claw", when "Vicious Claw" is returned to its owner's hand it cannot be activated for the remainder of the turn.
-
-  

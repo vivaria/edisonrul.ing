@@ -1,4 +1,3 @@
-
 # SKULL ZOMA
 
 *   When "Skull Zoma" is destroyed by battle, its effect activates when it is sent to the Graveyard at the end of the Damage Step. This effect still activates if it is removed from play instead, due to "Macro Cosmos", etc. This effect starts a Chain.
@@ -16,5 +15,3 @@
 *   When "Black Luster Soldier - Envoy of the Beginning" destroys "Skull Zoma" by battle, it can activate its effect to attack once again.
 *   When "Skull Zoma" is equipped to "Relinquished" by its effect, it is only treated as an Equip Spell Card, not a Trap Card or Monster Card.
 *   While "Skull Zoma" is treated as an Effect Monster Card, it can be targeted with "Generation Shift" or "Next to Be Lost".
-
-  

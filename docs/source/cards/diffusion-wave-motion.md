@@ -1,4 +1,3 @@
-
 # DIFFUSION WAVE-MOTION
 
 *   You cannot activate "Diffusion Wave-Motion" during Main Phase 2, or if you cannot conduct your Battle Phase this turn (if you activated "Soul Exchange", etc.), or if there are no monsters on your opponent's side of the field, or if your opponent has "Swords of Revealing Light", or if your opponent controls 2 "Marauding Captains" (or appropriate monsters with "Raregold Armor", etc.).
@@ -17,5 +16,3 @@
 *   You can activate "Injection Fairy Lily"'s effect when she is attacked by a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" because her effect is applied during damage calculation.
 *   When a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" attacks "Spirit Reaper" or "Kisetai", it cannot destroy "Spirit Reaper" or "Kisetai" (so "Kisetai"'s effect is not negated).
 *   A Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" will negate: the Flip Effects of a monster it destroys as a result of battle, or the effects of "Giant Rat", "Sangan", "Dark Necrofear", "Sinister Serpent", "D. D. Warrior Lady", "Wall of Illusion", "Helpoemer", "Marie the Fallen One", etc.
-
-  

@@ -1,5 +1,5 @@
+# AMPLIFIER
 
-# AMPLIFIER  
 > Equip only to "Jinzo". While this card is equipped, the equipped monster's effect does not negate the effects of its controller's Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated.
 
 *   Note that "Amplifier"'s activation and effect cannot be negated. This is written on the card.
@@ -11,5 +11,3 @@
 *   If the controller of "Jinzo" with "Amplifier" has activated the effects of "Regulation of Tribe", "Spatial Collapse", "Robbin' Goblin", "Robbin' Zombie", "Curse of Darkness", etc., their effects are not negated, but if the opponent activates them, they ARE negated.
 *   If your "Amplifier" is switched from your "Jinzo" to your opponent's "Jinzo" with "Tailor of the Fickle", then your Jinzo is not destroyed.
 *   You cannot activate a card that would cause an infinite loop because its effect cannot resolve completely. Example #1: You activate "Snatch Steal" targeting your opponent's "Jinzo". You then equip "Jinzo" with "Amplifier". You cannot activate "Imperial Order" because it cannot resolve completely (it would negate "Snatch Steal", returning "Jinzo" to your opponent, which would negate "Imperial Order" so "Snatch Steal" would re-activate). If you activate "Imperial Order" by mistake in such a situation, flip it face-down again. Example #2: you control "Jinzo" equipped with "Amplifier" and "Skill Drain". Your opponent cannot activate "Royal Decree".
-
-  

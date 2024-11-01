@@ -1,4 +1,3 @@
-
 # REPTILIANNE SCYLLA
 
 *   This is a Trigger Effect. It does not target.

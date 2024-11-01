@@ -1,4 +1,3 @@
-
 # CLOAK AND DAGGER
 
 *   You declare a monster card name when “Cloak and Dagger” resolves.
@@ -12,5 +11,3 @@
 *   If multiple copies of the declared monster are Summoned by effects on different Links of the same Chain, only the first one Summoned (the one Summoned at the highest Chain Link) will be removed from play. For example, if 2 copies of “Goldd, Wu-Lord of Dark World” are discarded at the same time, only 1 is removed from play.
 *   If your opponent already controls a copy of the declared monster, then Summons another copy, only the newly Summoned monster will be removed from play.
 *   If you Special Summon the monster declared by “Cloak and Dagger”, you can Chain “Inferno Reckless Summon” to the effect of “Cloak and Dagger”. Only the first monster Summoned (the one that triggered the effect of “Cloak and Dagger”) will be removed from play.
-
-  

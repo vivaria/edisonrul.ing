@@ -1,5 +1,5 @@
+# GRAVE OF THE SUPER ANCIENT ORGANISM
 
-# GRAVE OF THE SUPER ANCIENT ORGANISM  
 > All face-up Level 6 or higher Special Summoned monsters on the field cannot declare an attack or activate their effects.
 
 *   Even mandatory effects cannot activate while “Grave of the Super Ancient Organism” is active.
@@ -7,5 +7,3 @@
 *   If a monster’s Level is lowered below 6, it is no longer affected.
 *   Level 6+ Monsters Special Summoned before this card resolves are affected.
 *   If a monster's effect was activated, and this card was chained, that effect still resolves.
-
-  

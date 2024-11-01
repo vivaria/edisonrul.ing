@@ -1,4 +1,3 @@
-
 # SKULL CONDUCTOR
 
 *   You destroy this card during the End Step of the Battle Phase.
@@ -10,5 +9,3 @@
 *   If “Skull Conductor” is face-down it won’t be destroyed at the end of the Battle Phase.
 *   You can Special Summon one monster with 2000 ATK or one monster with 2000 ATK and one monster with 0 ATK if you want.
 *   You look at the printed ATK of the monsters you want to Special Summon.
-
-  

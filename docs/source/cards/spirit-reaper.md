@@ -1,5 +1,5 @@
+# SPIRIT REAPER
 
-# SPIRIT REAPER  
 > ① This card cannot be destroyed by battle. ② Destroy this card when it is targeted by the effect of a Spell, Trap, or Effect Monster. ③ If this card successfully attacks directly, your opponent randomly discards 1 card.
 
 *   The ① Continuous Effects applies while this monster is face-up on the field.
@@ -12,5 +12,3 @@
 *   The ③ mandatory Trigger Effect activates in Substep 5 - After Damage Calculation.
     *   This effect will not trigger if 0 points of damage are dealt (due to "Waboku").
     *   The card discarded is at random, your opponent does not select which card is discarded.
-
-  

@@ -1,4 +1,3 @@
-
 # OJAMA COUNTRY
 
 *   “Ojamuscle” is considered to be an “Ojama” card, so you can send it from your hand to the Graveyard for the cost of the first effect. If you control “Ojamuscle” and it is a monster (for example, with “Magical Hats”), it is considered an “Ojama” monster for the second effect.
@@ -9,5 +8,3 @@
 *   If "Curse of Anubis" is activated while the effect of "Ojama Country" is already in effect, the switched original DEF (which used to be its original ATK) will be 0. If "Ojama Country” is activated while "Curse of Anubis" is already in effect, the 0
 *   original DEF (from the effect of "Curse of Anubis") will be its original ATK, so the ATK will be 0.
 *   Example: If “Ojama Country” is already active, and “Curse of Anubis” is activated, “Sangan” would have ATK 600 / DEF 0. While "Curse of Anubis" is already active, and "Ojama Country" is activated. Sangan would have ATK 0 / DEF 1000.
-
-  

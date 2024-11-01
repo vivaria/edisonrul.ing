@@ -1,5 +1,5 @@
+# ASURA PRIEST
 
-# ASURA PRIEST  
 > Ⓒ This card cannot be Special Summoned. ① This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. ② This card can attack all monsters your opponent controls once each. This monster cannot attack directly if it has already attacked a monster.
 
 *   The Ⓒ Condition is not an effect, it cannot be negated.
@@ -14,5 +14,3 @@
     *   If “Asura Priest” attacks a monster and your opponent activates “Magic Cylinder” to negate the attack, “Asura Priest” can attack that same monster again.
     *   Your opponent's "Patrician of Darkness" can re-direct all of your “Asura Priest” attacks to their “Spirit Reaper”.
     *   When "Asura Priest" attacks your opponent’s only monster, if the monster is removed from the field in the battle step, a replay occurs. Since Asura Priest never battled with a monster it can attack directly.
-
-  

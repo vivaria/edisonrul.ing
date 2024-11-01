@@ -1,4 +1,3 @@
-
 # PREVENTION STAR
 
 *   “Prevention Star” targets the equipped monster and the opponent’s selected monster.
@@ -8,5 +7,3 @@
 *   The effect of “Prevention Star” starts a chain (when “Prevention Star” is sent to the Graveyard).
 *   If you Summon “Gilford the Legend” while “Level Limit – Area B” is active, you can equip “Gilford the Legend” with “Prevention Star”, but “Prevention Star” will not target an opponent’s monster and its effect will not activate if sent to the Graveyard.
 *   You can move “Prevention Star” with a card like “Tailor of the Fickle”, but the opponent’s monster that was targeted by “Prevention Star” remains targeted; you do not choose a new monster.
-
-  

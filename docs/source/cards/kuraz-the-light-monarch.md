@@ -1,5 +1,5 @@
+# KURAZ THE LIGHT MONARCH
 
-# KURAZ THE LIGHT MONARCH  
 > ① When this card is Normal or Special Summoned, you can destroy up to 2 cards on the field. For each card destroyed, that card's controller draws 1 card. ② This card cannot attack during the turn it is Normal or Special Summoned._
 
 *   This ① optional "_When... you can..." Trigger Effect can miss the timing.
@@ -12,5 +12,3 @@
     *   If 2 of your cards were destroyed, you choose to draw 2 cards or 0 cards, you cannot draw 1 card.
 *   The ② Continuous Effect does not activate.
     *   This effect does not apply if Kuraz' effects are negated.
-
-  

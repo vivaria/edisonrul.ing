@@ -1,5 +1,5 @@
+# ANCIENT GEAR GOLEM
 
-# ANCIENT GEAR GOLEM  
 > Ⓒ This card cannot be Special Summoned. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
 
 *   The Ⓒ Condition cannot be negated.
@@ -14,5 +14,3 @@
     *   Continuous-like Effects of Spell / Trap Cards still apply.
     *   The effects of face-up Spell / Trap Cards can still activate (ex: “Ultimate Offering” or “Skull Lair”).
     *   Spell / Trap Cards cannot be activated (flipped face-up / played from the hand).
-
-  

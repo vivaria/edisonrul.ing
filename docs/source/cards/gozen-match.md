@@ -1,5 +1,5 @@
+# GOZEN MATCH
 
-# GOZEN MATCH  
 > ① Each player sends monsters they control to the Graveyard until they each control monsters of only 1 Attribute. Each player cannot control monsters with different Attributes.
 
 *   The ① Continuous-like Effect applies immediately after this Trap Card’s activation resolves: both players look at the face-up monsters they control and each choose 1 Attribute to keep and send their face-up monsters that aren’t that Attribute to the Graveyard.
@@ -19,5 +19,3 @@
 *   VS. "Gladiator Beasts": Your Glad Beasts can tag out (return to your Deck) as long as there is another Gladiator Beast in your Deck of the correct Attribute that you COULD Summon. However, if you have no face-up monsters when the effect resolves, you can Summon a Glad Beast of any Attribute.
 *   VS. "Lonefire Blossom": you cannot activate "Lonefire Blossom"'s effect unless you have a FIRE Plant-Type monster in your Deck. If you Tribute your only face-up monster (Lonefire) for this effect, you can Special Summon a non-FIRE Plant-Type monster (ex: "Dandylion", "Tytannial, Princess of Camellias").
 *   VS. Uria, Lord of Searing Flames: You cannot Special Summon Uria by sending Gozen + 2 face-up Continuous Traps to the Graveyard unless you control no face-up monsters non-FIRE monsters.
-
-  

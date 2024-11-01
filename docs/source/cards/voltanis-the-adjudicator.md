@@ -1,4 +1,3 @@
-
 # VOLTANIS THE ADJUDICATOR
 
 *   "Voltanis the Adjudicator"'s Special Summon effect starts a Chain. After "Voltanis the Adjudicator" is Special Summoned, its effect starts another new Chain if activated.
@@ -15,5 +14,3 @@
 *   "Voltanis the Adjudicator"'s effect can be activated when you activate "Goblin Out of the Frying Pan" or "Malfunction" to negate your opponent's Spell or Trap Card.
 *   "Royal Oppression" can be used to negate “Voltanis the Adjudicator's” effect to Special Summon itself.
 *   If you activate "Magic Jammer", etc. and discard "Night Assailant" for its activation cost, the effects of "Night Assailant" and “Voltanis the Adjudicator” will start a new Chain after the Chain that included your "Magic Jammer" resolves. "Night Assailant"'s effect will be Chain Link 1 and “Voltanis the Adjudicator's” will be Chain Link 2.
-
-  

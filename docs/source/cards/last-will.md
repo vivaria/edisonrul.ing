@@ -1,4 +1,3 @@
-
 # LAST WILL
 
 *   You can activate “Last Will” before or after a monster is sent to the Graveyard, and still get the effect of “Last Will” to Special Summon a monster.
@@ -16,5 +15,3 @@
 *   If your monster is sent to your Graveyard by battle, you resolve "Last Will’s" effect during that same Battle Phase (but not during the Damage Step). If it’s your turn, then your newly Summoned monster can attack before Main Phase 2.
 *   If "Imperial Order" is activated after "Last Will" has resolved, it will not negate "Last Will"'s effect.
 *   You can Special Summon a 1500 ATK monster that will have higher than 1500 ATK after being Summoned, such as a Fiend with 1500 original ATK while "Yami" is on the field (its ATK once Summoned will be 1700). You can Special Summon "Muka Muka" even if you have 6 cards in your hand and "Muka Muka"'s ATK, once Summoned, will be higher than 1500.
-
-  

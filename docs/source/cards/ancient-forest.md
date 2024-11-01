@@ -1,5 +1,5 @@
+# ANCIENT FOREST
 
-# ANCIENT FOREST  
 > ① When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. ② If a monster attacks, destroy it at the end of that turn's Battle Phase.
 
 *   The ① Continuous-like Effect applies when “Ancient Forest” resolves.
@@ -13,5 +13,3 @@
     *   If a monster attacks and is flipped face-down by “Book of Moon” it will still be destroyed. The effect of “Ancient Forest” will only destroy a monster during the turn it attacked.
     *   If a monster attacks and is removed from the field or ceases to be a monster before the end of the Battle Phase, it will not be destroyed.
     *   If a monster attacks while “Ancient Forest” is being negated, but before the end of the Battle Phase the effect negating “Ancient Forest” disappears, the monster that attacked will be destroyed.
-
-  

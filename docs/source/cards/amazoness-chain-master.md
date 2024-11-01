@@ -1,5 +1,5 @@
+# AMAZONESS CHAIN MASTER
 
-# AMAZONESS CHAIN MASTER  
 > ① When this card is destroyed by battle and sent to the Graveyard, you can pay 1500 Life Points to look at your opponent's hand, select 1 Monster Card in it, and add that card to your hand.
 
 *   The ① optional Trigger Effect activates & resolves in the Graveyard.
@@ -9,5 +9,3 @@
     *   If you have your opponent’s monster that you acquired with “Amazoness Chain Master”, and your opponent activates “Disturbance Strategy”, the monster returns to the owner’s Deck. However, you draw the same number of cards that you had in your hand, including 1 card for the monster you acquired with “Amazoness Chain Master”.
     *   If you acquired your opponent’s monster with “Amazoness Chain Master”, and “Remove Brainwashing” is activated, the monster returns to the original owner if it is on the field. However, if it’s still in your hand then it is not returned.
     *   If you acquire your opponent’s monster with “Amazoness Chain Master” and your opponent uses “Lightforce Sword” on it, it returns to your hand (not the owner’s hand) after the effect of “Lightforce Sword” expires.
-
-  

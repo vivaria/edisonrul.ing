@@ -1,5 +1,5 @@
+# DRILL WARRIOR
 
-# DRILL WARRIOR  
 > ① Once per turn, during your Main Phase, you can halve this card’s ATK (permanently). If you do, it can attack your opponent directly this turn. ② Once per turn, during your Main Phase, you can discard 1 card and remove this card from play. ③ During your next Standby Phase, Special Summon this card, if removed by this effect. Then, add 1 Monster Card from your Graveyard to your hand.
 
 *   The ① Ignition Effect does not target this card.
@@ -25,5 +25,3 @@
     *   If this effect resolves while your Monster Card Zones are all occupied, the banished "Drill Warrior" is sent to the Graveyard, and you do not add a monster from the Graveyard to your hand \[[REF](https://www.pojo.biz/board/showthread.php?t=900049)\].
     *   If this effect is negated (by "Royal Oppression"), "Drill Warrior" remains removed from play and cannot activate this effect again \[[REF1](https://www.pojo.biz/board/showthread.php?t=832275), [REF2](https://www.pojo.biz/board/showthread.php?t=656779)\].
     *   VS. "Torrential Tribute": If "Drill Warrior" adds a monster from the Graveyard to the hand, then "Torrential Tribute" cannot activate. "Torrential Tribute" can activate if a monster cannot be added.
-
-  

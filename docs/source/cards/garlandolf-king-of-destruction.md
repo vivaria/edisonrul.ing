@@ -1,4 +1,3 @@
-
 # GARLANDOLF, KING OF DESTRUCTION
 
 *   If “Garlandolf, King of Destruction” is not face-up on the field when its effect resolves, no monsters will be destroyed.
@@ -6,5 +5,3 @@
 *   If “Skill Drain” is later activated, “Garlandolf, King of Destruction” will lose any ATK gained from its own effect and will not regain it if “Skill Drain” is destroyed.
 *   Destroying the monsters and increasing the ATK of “Garlandolf, King of Destruction” occur simultaneously.
 *   If “Apocatequil” is destroyed by this effect, you can activate its effect.
-
-  

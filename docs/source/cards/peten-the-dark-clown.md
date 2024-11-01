@@ -1,4 +1,3 @@
-
 # PETEN THE DARK CLOWN
 
 *   Missing the Timing: “Peten the Dark Clown” is a “when… you can” optional Trigger Effect. This means that “Peten” being sent to the Graveyard has to be the very last thing that happened in order to activate its effect.
@@ -9,5 +8,3 @@
 *   If “Peten the Dark Clown” is discarded as a cost for “Tribe-Infecting Virus” or “Raigeki Break”, the last thing that happened was that those effects resolved, so the effect of “Peten” does not activate.
 *   If “Peten the Dark Clown” is discarded because of “Morphing Jar” or “Card Destruction”, the last thing that happened was that both players drew cards. So the effect of “Peten” does not activate.
 *   If “Peten the Dark Clown” is sent to the Graveyard as a result of battle, or by “Painful Choice”, the last thing that happened WAS that “Peten” was sent to the Graveyard, so his effect will activate.
-
-  

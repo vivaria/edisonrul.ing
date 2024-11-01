@@ -1,5 +1,5 @@
+# MACHINE ASSEMBLY LINE
 
-# MACHINE ASSEMBLY LINE  
 > ① All face-up Machine-Type monsters on the field gain 200 ATK. ② Each time a Machine-Type monster(s) on the field is destroyed, place 2 Junk Counters on this card. ③ You can send this card to the Graveyard to select and Special Summon 1 Machine-Type monster from your Graveyard, whose Level is less than or equal to the number of Junk Counters on this card.
 
 *   The ① Continuous-like Effect applies to face-up Machine-Type monsters on BOTH sides of the field.
@@ -11,5 +11,3 @@
 *   The ③ Ignition-like Effect activates & resolves on the field.
     *   Sending this card to the Graveyard is a cost to activate the effect to Special Summon.
     *   This effect targets a Machine-Type monster at activation.
-
-  

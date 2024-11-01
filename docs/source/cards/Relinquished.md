@@ -1,5 +1,5 @@
+# RELINQUISHED
 
-# RELINQUISHED  
 > ① Once per turn, select 1 monster your opponent controls and equip it to this card (only 1 monster can be equipped to it at a time). ② This card's ATK and DEF become equal to the ATK and DEF of the monster equipped to this card. ③ If this card is destroyed by battle, the equipped monster is destroyed instead, and any battle damage you received from the battle is also inflicted to your opponent.
 
 *   The ① Ignition Effect targets a (face-up / face-down) monster your opponent controls.
@@ -21,6 +21,3 @@
     *   It applies in Substep 5 - After Damage Calculation before any chain is built.
     *   This can occur when “Relinquished” battles another Attack Position Monster, or when it attacks a Defense Position monster with DEF higher than its current ATK.
     *   The equipped monster is not treated as being 'destroyed by battle'.
-
-  
-  

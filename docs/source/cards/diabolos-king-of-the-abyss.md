@@ -1,4 +1,3 @@
-
 # DIABOLOS, KING OF THE ABYSS
 
 *   If this card is Normal Summoned face-down, the monsters Tributed must still be DARK.
@@ -8,5 +7,3 @@
 *   This card's effect to look at the top card of your opponent's Deck starts a Chain, before their normal draw in the Draw Phase.
 *   Only the controller of "Diabolos, King of the Abyss" can look at the top card of the opponent's Deck with this effect. The opponent does not get to see the card.
 *   This card's effect to look at the top card of the opponent's Deck can only be activated 1 time during the Draw Phase.
-
-  

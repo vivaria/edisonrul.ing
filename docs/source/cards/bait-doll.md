@@ -1,5 +1,5 @@
+# BAIT DOLL
 
-# BAIT DOLL  
 > Force the activation of 1 face-down Trap Card. If the timing of the activation of the Trap Card is incorrect, negate the effect and destroy it. If it is not a Trap Card, it is returned to its original position. After this card is activated, it is placed into the Deck (not the Graveyard). Then shuffle the Deck.
 
 *   You cannot activate this card if you cannot return cards to the Deck (by "G.B. Hunter").
@@ -12,5 +12,3 @@
 *   If "Jinzo" is face-up on the field and the effect of "Bait Doll" forces the activation of a Normal or Counter Trap Card, that Trap Card’s effect is negated and the Trap Card is destroyed. If a Continuous Trap Card is forced to activate by the effect of "Bait Doll" it will remain face-up on the field meaninglessly until "Jinzo" is destroyed.
 *   If "Chain Burst" is active on the field and you use "Bait Doll" to activate the opponent's Trap Card, and its timing is correct, the opponent takes the 1000 points of damage.
 *   When "Bait Doll" is activated, "Fake Trap" cannot be activated because there is no guarantee that "Bait Doll" will destroy a Trap Card.
-
-  

@@ -1,5 +1,5 @@
+# GLADIATOR BEAST SECUTOR
 
-# GLADIATOR BEAST SECUTOR  
 > ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, at the end of any Battle Phase, if this card attacks or was attacked, Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Secutor".
 
 *   The ① mandatory Trigger Effect activates if this card has engaged in Substep 4 - Damage Calculation.
@@ -14,5 +14,3 @@
     *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   They are not combined onto the same Chain.
 *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
-
-  

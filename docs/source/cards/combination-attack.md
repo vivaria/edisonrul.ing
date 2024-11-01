@@ -1,4 +1,3 @@
-
 # COMBINATION ATTACK
 
 *   This card targets.
@@ -8,5 +7,3 @@
 *   You can attack with a Union Monster, use "Formation Union" to equip it to a monster, attack with the equipped monster, activate "Combination Attack" to detach the Union Monster, and attack again with the previously-equipped monster and with the Union Monster.
 *   If "Dark Blade", equipped with "Kiryu" and "Twin Swords of Flashing Light - Tryce", attacks twice using "Twin Swords of Flashing Light - Tryce"'s effect, then you use "Combination Attack" to detach "Kiryu" from "Dark Blade", both monsters can attack again once each. "Dark Blade" cannot attack another 2 times because it has already attacked twice.
 *   If the player who would control the Union Monster already has 5 monsters on the field, "Combination Attack" cannot be activated.
-
-  

@@ -1,5 +1,5 @@
+# URIA, LORD OF SEARING FLAMES
 
-# URIA, LORD OF SEARING FLAMES  
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by sending 3 face-up Trap Cards you control to the Graveyard. ① This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. ② Once per turn, you can destroy 1 Set Spell or Trap Card your opponent controls. (2C) Spell and Trap Cards cannot be activated in response to this effect's activation.
 
 *   The Ⓒ Condition cannot be negated.
@@ -12,5 +12,3 @@
     *   This effect targets 1 Set Spell / Trap Card your opponent controls.
 *   The (2C) Condition applies when the ② effect activates, starting a chain.
     *   Your opponent cannot chain "Divine Wrath" to the ② effect.
-
-  

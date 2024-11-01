@@ -1,5 +1,5 @@
+# "DARK WORLD" monsters (“Beiige, Vanguard of Dark World”, “Broww, Huntsman of Dark World”, “Sillva, Warlord of Dark World” and “Goldd, Wu-Lord of Dark World”).
 
-# "DARK WORLD" monsters (“Beiige, Vanguard of Dark World”, “Broww, Huntsman of Dark World”, “Sillva, Warlord of Dark World” and “Goldd, Wu-Lord of Dark World”).  
 > ① If this card is discarded from the hand to the Graveyard by a card effect, \[perform action 1\]. ① If this card is discarded from the hand to the Graveyard by an opponent’s card effect, \[perform action 2\].
 
 *   These effects will not miss timing, they are mandatory effects.
@@ -14,5 +14,3 @@
 *   The ① Trigger Effect of a "Dark World" monster discarded by your card effect produces a single Chain Link which would \[perform action 1\].
 *   If the ① Trigger Effect is activated when discarded by the effect of an opponent’s card, both parts of the effect resolves in a single chain link.
     *   If “Divine Wrath” is chained to these effects, it will negate both parts.
-
-  

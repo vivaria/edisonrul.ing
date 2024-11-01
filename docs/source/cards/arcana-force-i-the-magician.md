@@ -1,5 +1,5 @@
+# ARCANA FORCE I - THE MAGICIAN
 
-# ARCANA FORCE I - THE MAGICIAN  
 > ① When this card is Summoned, toss a coin: ● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn. ● Tails: When a Spell Card is activated, your opponent gains 500 Life Points.
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
@@ -10,5 +10,3 @@
     *   If "Arcana Force I - The Magician" is affected by a Spell Card that changes its ATK, like “Shrink” or “Rush Recklessly,” first the Spell Card’s effect is applied, then “Arcana Force I – The Magician’s” effect is applied, changing its current ATK to twice its original ATK, or 2200.
 *   The (TAILS) Continuous Effect applies while this card is face-up on the field.
     *   Your opponent gains 500 Life Points when an activated Spell resolves. This does not start a Chain.
-
-  

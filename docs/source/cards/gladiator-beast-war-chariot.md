@@ -1,5 +1,5 @@
+# GLADIATOR BEAST WAR CHARIOT
 
-# GLADIATOR BEAST WAR CHARIOT  
 > Activate only if you control a "Gladiator Beast" monster. Negate the activation of an Effect Monster's effect, and destroy it.
 
 *   This effect does not target.
@@ -9,5 +9,3 @@
 *   You must control a face-up "Gladiator Beast" monster to activate this effect.
 *   If this effect destroys an opponent's monster BEFORE concluding Substep 4 - Damage Calculation, your "Gladiator Beast" that battled that monster cannot tag out during the End of the Battle Phase.
 *   If this effect destroys an opponent's monster AFTER concluding Substep 4 - Damage Calculation, your "Gladiator Beast" that battled that monster can tag out during the End of the Battle Phase.
-
-  

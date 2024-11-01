@@ -1,4 +1,3 @@
-
 # SERIAL SPELL
 
 *   "Serial Spell" must be chained to the activation of your Normal Spell Card. Nothing can be chained in-between by yourself or your opponent. If your opponent chains to your Normal Spell Card, you cannot chain "Serial Spell" to that Normal Spell Card. Because of this, it is impossible to chain 2 copies of "Serial Spell" to the same Normal Spell Card.
@@ -16,5 +15,3 @@
 *   If you chain "Serial Spell" to "Dragged Down into the Grave", the player who activated "Serial Spell" has no cards in hand, so the effect of "Dragged Down into the Grave" is impossible to resolve, and the effect disappears.
 *   If you chain "Serial Spell" to "Metamorphosis", there is no effect because you did not Tribute a monster for a cost, so "Serial Spell" has no point of reference and cannot resolve.
 *   If you chain "Serial Spell" to "Monster Gate" resolve the effect of "Monster Gate" twice (once for "Serial Spell" and once for "Monster Gate") even though you only pay the cost once (for "Monster Gate").
-
-  

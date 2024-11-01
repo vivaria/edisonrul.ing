@@ -1,4 +1,3 @@
-
 # SPATIAL COLLAPSE
 
 *   If "Spatial Collapse" is activated, and an effect is chained so that a player has more than 5 cards on the field after "Spatial Collapse" resolves, the controller selects cards to send to the Graveyard to make the number 5.
@@ -8,5 +7,3 @@
 *   When you have 4 cards on your side of the field while "Spatial Collapse" is active, you cannot activate "Change of Heart".
 *   When "Cyber Jar" is activated while "Spatial Collapse" is active, if the number of cards exceeds 5, each player selects cards to send to the Graveyard to make the number 5.
 *   When you have 4 cards on the field and you activate "Remove Brainwashing", you select cards to destroy to make the number of cards you control 5.
-
-  

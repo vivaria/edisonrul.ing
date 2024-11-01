@@ -1,4 +1,3 @@
-
 # SWORDS OF CONCEALING LIGHT
 
 *   If your second Standby Phase after activation of “Swords of Concealing Light” is skipped with “Solomon’s Lawbook”, etc., then “Swords of Concealing Light” is not destroyed and remains active on the field until removed from the field by another effect.
@@ -7,5 +6,3 @@
 *   While “Swords of Concealing Light” is active, monsters can still have their battle positions changed with card effects like “Enemy Controller” and “Bite Shoes”.
 *   The effect of “Swords of Concealing Light” that destroys itself in the Standby Phase does not start a chain.
 *   Since there’s no such thing as a face-down Monster Token, Monster Tokens are simply changed to Defense Position when the effect of “Swords of Concealing Light” is applied.
-
-  

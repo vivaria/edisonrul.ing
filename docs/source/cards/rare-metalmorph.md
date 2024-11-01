@@ -1,5 +1,5 @@
+# RARE METALMORPH
 
-# RARE METALMORPH  
 > ① Select 1 face-up Machine-Type monster. It gains 500 ATK. One time only, negate the effect of a Spell Card that targets that monster. ② When the selected monster is removed from the field, destroy this card.
 
 *   The ① Continuous-like Effect applies on the field.
@@ -11,5 +11,3 @@
 *   The ② Continuous-like Effect applies on the field. This does not start a Chain.
     *   This effect applies if the target is destroyed / removed from play / returned to the hand or Deck.
     *   This effect can be negated by "Royal Decree".
-
-  
