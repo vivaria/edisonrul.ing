@@ -1,4 +1,4 @@
-# Kozaky'S Self-Destruct Button
+# Kozaky's Self-Destruct Button
 
 *   You cannot activate “Kozaky’s Self-Destruct Button” because it has no activation effect.
 *   If “Bait Doll” targets “Kozaky’s Self-Destruct Button”, nothing happens because the timing is inappropriate. However, “Kozaky’s Self-Destruct Button” is then destroyed by “Bait Doll”.

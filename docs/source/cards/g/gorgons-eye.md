@@ -1,4 +1,4 @@
-# Gorgon'S Eye
+# Gorgon's Eye
 
 *   "Gorgon’s Eye" cannot negate the effect of "Sangan", "Witch of the Black Forest", or "Sinister Serpent" because they activate in the Graveyard. If a Defense Position "Slate Warrior" is attacked and destroyed, the effect of "Slate Warrior" that lowers ATK and DEF is applied because it activates in the Graveyard.
 *   "Gorgon’s Eye"’s effect will include monsters in Defense Position that are Summoned after "Gorgon’s Eye" resolves.

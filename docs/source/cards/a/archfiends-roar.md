@@ -1,4 +1,4 @@
-# Archfiend'S Roar
+# Archfiend's Roar
 
 > Pay 500 Life Points to activate this card. Special Summon 1 Archfiend Monster Card from your Graveyard. This monster cannot be Tributed under any conditions and is destroyed during the End Phase of this turn.
 

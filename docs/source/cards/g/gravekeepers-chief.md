@@ -1,4 +1,4 @@
-# Gravekeeper'S Chief
+# Gravekeeper's Chief
 
 *   You can use the effect of "Gravekeeper’s Chief" to Special Summon the same monster you Tributed to Summon "Gravekeeper’s Chief".
 *   If you Set, Flip Summon, or Special Summon "Gravekeeper’s Chief", its Special Summoning effect is not activated.

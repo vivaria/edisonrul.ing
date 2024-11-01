@@ -1,4 +1,4 @@
-# Gladiator Beast'S Respite
+# Gladiator Beast's Respite
 
 *   The “Gladiator Beast” cards returned to the Deck are returned when the effect of “Gladitor Beast’s Respite” is resolved. It is not a cost.
 *   You can return any card with “Gladiator Beast” in its card name to your Deck when resolving the effect of “Gladiator Beast’s Respite”, such as “Gladiator Beast’s Battle Halberd” or “Gladiator Beast’s Battle Manica”.

@@ -1,4 +1,4 @@
-# Wild Nature'S Release
+# Wild Nature's Release
 
 *   When you increase the ATK of a monster with "Wild Nature's Release", then apply another modifier, the new modifier is applied to the current ATK points.
 *   If "Ojama Yellow" is equipped with "Axe of Despair" (1000 ATK, 1000 DEF), if "Wild Nature's Release" is activated then it increases "Ojama Yellow" to 2000 ATK, 1000 DEF. If "Axe of Despair" is then destroyed, "Ojama Yellow" remains 2000 ATK, 1000 DEF.

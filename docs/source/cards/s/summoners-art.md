@@ -1,3 +1,3 @@
-# Summoner'S Art
+# Summoner's Art
 
 *   You cannot activate this card if you have no Level 5 or higher Normal Monsters in your Deck.

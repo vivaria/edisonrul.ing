@@ -1,4 +1,4 @@
-# Gravekeeper'S Assailant
+# Gravekeeper's Assailant
 
 > ① If "Necrovalley" is on the field when this card declares an attack, you can change the battle position of 1 face-up monster your opponent controls.
 

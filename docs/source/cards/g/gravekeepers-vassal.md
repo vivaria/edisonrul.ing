@@ -1,4 +1,4 @@
-# Gravekeeper'S Vassal
+# Gravekeeper's Vassal
 
 *   The damage that is inflicted to your opponent’s Life Points as a result of battle with "Gravekeeper’s Vassal" attack is treated as effect damage instead, not Battle Damage. So your opponent cannot use "Kuriboh" or "Waboku" to prevent the damage, for example.
 *   A monster destroyed by "Gravekeeper’s Vassal" in battle is still treated as "destroyed as a result of battle" (for "Mystic Tomato", "Nimble Momonga", etc.).

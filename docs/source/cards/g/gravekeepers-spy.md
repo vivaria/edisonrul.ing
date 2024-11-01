@@ -1,4 +1,4 @@
-# Gravekeeper'S Spy
+# Gravekeeper's Spy
 
 > FLIP: Special Summon 1 "Gravekeeper"'s monster with 1500 or less ATK from your Deck.
 

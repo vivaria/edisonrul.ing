@@ -1,4 +1,4 @@
-# Shien'S Spy
+# Shien's Spy
 
 *   If you use “Shien’s Spy” on “Silent Swordsman LV5”, it returns to your control during the End Phase as normal.
 *   If you chain “Book of Moon” to “Shien’s Spy” to flip the target face-down, the monster still switches to the opponent and returns in the End Phase as normal.

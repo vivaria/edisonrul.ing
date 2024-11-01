@@ -1,4 +1,4 @@
-# Rod Of The Mind'S Eye
+# Rod Of The Mind's Eye
 
 *   The damage caused by "Rod of the Mind's Eye" is Battle Damage, so it can be reduced to zero with "Waboku" or "Kuriboh".
 *   When you equip "Rod of the Mind's Eye" to "Susa Soldier" or "Shadowknight Archfiend", the Battle Damage is 1000 points.
