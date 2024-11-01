@@ -1,3 +1,4 @@
 myst-parser
 sphinx
-sphinx-rtd-theme
+insipid-sphinx-theme
+sphinx-last-updated-by-git

@@ -1,0 +1,11 @@
+div.sphinxsidebar div.sphinxsidebarwrapper h3 a {
+    display: none;
+}
+
+p.insipid-icon {
+    margin-bottom: 0;
+}
+
+readthedocs-flyout {
+    display: none;
+}
