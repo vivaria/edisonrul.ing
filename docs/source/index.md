@@ -36,4 +36,5 @@ cards/w
 cards/x
 cards/y
 cards/z
+cards/misc
 ```
