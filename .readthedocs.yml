@@ -9,9 +9,8 @@ build:
   tools:
     python: "3.12"
 
-# TODO: Setup Python+Sphinx
-# sphinx:
-#   configuration: docs/conf.py
-# python:
-#    install:
-#    - requirements: docs/requirements.txt
+sphinx:
+  configuration: docs/source/conf.py
+python:
+   install:
+   - requirements: requirements.txt
