@@ -1,14 +1,14 @@
 slug,card_name,id,num_copies,url_ering,valid_ering,url_efnet,scraped
 3-hump-lacooda,3-Hump Lacooda,86988864,3,https://edisonrul.ing/cards/0-9/3-hump-lacooda.html,True,https://edisonformat.net/card?name=3-Hump%20Lacooda,True
 4-starred-ladybug-of-doom,4-Starred Ladybug of Doom,83994646,3,https://edisonrul.ing/cards/0-9/4-starred-ladybug-of-doom.html,False,https://edisonformat.net/card?name=4-Starred%20Ladybug%20of%20Doom,True
-7,7,67048711,3,https://edisonrul.ing/cards/0-9/7.html,True,https://edisonformat.net/card?name=7,False
+7,7,67048711,3,https://edisonrul.ing/cards/0-9/7.html,True,https://edisonformat.net/card?name=7,True
 7-colored-fish,7 Colored Fish,23771716,3,https://edisonrul.ing/cards/0-9/7-colored-fish.html,False,https://edisonformat.net/card?name=7%20Colored%20Fish,True
 7-completed,7 Completed,86198326,3,https://edisonrul.ing/cards/0-9/7-completed.html,False,https://edisonformat.net/card?name=7%20Completed,True
 8-claws-scorpion,8-Claws Scorpion,14261867,3,https://edisonrul.ing/cards/0-9/8-claws-scorpion.html,True,https://edisonformat.net/card?name=8-Claws%20Scorpion,True
 a-cat-of-ill-omen,A Cat of Ill Omen,24140059,3,https://edisonrul.ing/cards/a/a-cat-of-ill-omen.html,True,https://edisonformat.net/card?name=A%20Cat%20of%20Ill%20Omen,True
-a-cell-breeding-device,"""A"" Cell Breeding Device",34541863,3,https://edisonrul.ing/cards/a/a-cell-breeding-device.html,True,"https://edisonformat.net/card?name=""A""%20Cell%20Breeding%20Device",True
-a-cell-incubator,"""A"" Cell Incubator",64163367,3,https://edisonrul.ing/cards/a/a-cell-incubator.html,True,"https://edisonformat.net/card?name=""A""%20Cell%20Incubator",True
-a-cell-scatter-burst,"""A"" Cell Scatter Burst",73262676,3,https://edisonrul.ing/cards/a/a-cell-scatter-burst.html,True,"https://edisonformat.net/card?name=""A""%20Cell%20Scatter%20Burst",True
+a-cell-breeding-device,"""A"" Cell Breeding Device",34541863,3,https://edisonrul.ing/cards/a/a-cell-breeding-device.html,True,https://edisonformat.net/card?name=A%20Cell%20Breeding%20Device,True
+a-cell-incubator,"""A"" Cell Incubator",64163367,3,https://edisonrul.ing/cards/a/a-cell-incubator.html,True,https://edisonformat.net/card?name=A%20Cell%20Incubator,True
+a-cell-scatter-burst,"""A"" Cell Scatter Burst",73262676,3,https://edisonrul.ing/cards/a/a-cell-scatter-burst.html,True,https://edisonformat.net/card?name=A%20Cell%20Scatter%20Burst,True
 a-deal-with-dark-ruler,A Deal with Dark Ruler,6850209,3,https://edisonrul.ing/cards/a/a-deal-with-dark-ruler.html,True,https://edisonformat.net/card?name=A%20Deal%20with%20Dark%20Ruler,True
 a-feather-of-the-phoenix,A Feather of the Phoenix,49140998,3,https://edisonrul.ing/cards/a/a-feather-of-the-phoenix.html,True,https://edisonformat.net/card?name=A%20Feather%20of%20the%20Phoenix,True
 a-feint-plan,A Feint Plan,68170903,3,https://edisonrul.ing/cards/a/a-feint-plan.html,True,https://edisonformat.net/card?name=A%20Feint%20Plan,True
@@ -158,7 +158,7 @@ arcane-apprentice,Arcane Apprentice,40048324,3,https://edisonrul.ing/cards/a/arc
 arcane-archer-of-the-forest,Arcane Archer of the Forest,55001420,3,https://edisonrul.ing/cards/a/arcane-archer-of-the-forest.html,True,https://edisonformat.net/card?name=Arcane%20Archer%20of%20the%20Forest,True
 arcane-barrier,Arcane Barrier,17896384,3,https://edisonrul.ing/cards/a/arcane-barrier.html,True,https://edisonformat.net/card?name=Arcane%20Barrier,True
 arcanite-magician,Arcanite Magician,31924889,3,https://edisonrul.ing/cards/a/arcanite-magician.html,True,https://edisonformat.net/card?name=Arcanite%20Magician,True
-arcanite-magicianassault-mode,Arcanite Magician/Assault Mode,14553285,3,https://edisonrul.ing/cards/a/arcanite-magicianassault-mode.html,False,https://edisonformat.net/card?name=Arcanite%20Magician/Assault%20Mode,False
+arcanite-magicianassault-mode,Arcanite Magician/Assault Mode,14553285,3,https://edisonrul.ing/cards/a/arcanite-magicianassault-mode.html,False,https://edisonformat.net/card?name=Arcanite%20Magician%20Assault%20Mode,True
 archfiend-general,Archfiend General,48675364,3,https://edisonrul.ing/cards/a/archfiend-general.html,True,https://edisonformat.net/card?name=Archfiend%20General,True
 archfiend-marmot-of-nefariousness,Archfiend Marmot of Nefariousness,75889523,3,https://edisonrul.ing/cards/a/archfiend-marmot-of-nefariousness.html,False,https://edisonformat.net/card?name=Archfiend%20Marmot%20of%20Nefariousness,True
 archfiend-of-gilfer,Archfiend of Gilfer,50287060,3,https://edisonrul.ing/cards/a/archfiend-of-gilfer.html,False,https://edisonformat.net/card?name=Archfiend%20of%20Gilfer,True
@@ -329,7 +329,7 @@ black-potan,Black Potan,76218643,3,https://edisonrul.ing/cards/b/black-potan.htm
 black-ptera,Black Ptera,90654356,3,https://edisonrul.ing/cards/b/black-ptera.html,False,https://edisonformat.net/card?name=Black%20Ptera,True
 black-rose-dragon,Black Rose Dragon,73580471,1,https://edisonrul.ing/cards/b/black-rose-dragon.html,True,https://edisonformat.net/card?name=Black%20Rose%20Dragon,True
 black-salvo,Black Salvo,88671720,3,https://edisonrul.ing/cards/b/black-salvo.html,True,https://edisonformat.net/card?name=Black%20Salvo,True
-black-skull-dragon,Black Skull Dragon,11901678,3,https://edisonrul.ing/cards/b/black-skull-dragon.html,False,https://edisonformat.net/card?name=Black%20Skull%20Dragon,False
+black-skull-dragon,Black Skull Dragon,11901678,3,https://edisonrul.ing/cards/b/black-skull-dragon.html,False,https://edisonformat.net/card?name=B.%20Skull%20Dragon%20(Archfiend),True
 black-stego,Black Stego,79409334,3,https://edisonrul.ing/cards/b/black-stego.html,False,https://edisonformat.net/card?name=Black%20Stego,True
 black-tyranno,Black Tyranno,38670435,3,https://edisonrul.ing/cards/b/black-tyranno.html,True,https://edisonformat.net/card?name=Black%20Tyranno,True
 black-veloci,Black Veloci,52319752,3,https://edisonrul.ing/cards/b/black-veloci.html,False,https://edisonformat.net/card?name=Black%20Veloci,True
@@ -529,7 +529,7 @@ chthonian-emperor-dragon,Chthonian Emperor Dragon,95888876,3,https://edisonrul.i
 chthonian-polymer,Chthonian Polymer,72287557,3,https://edisonrul.ing/cards/c/chthonian-polymer.html,True,https://edisonformat.net/card?name=Chthonian%20Polymer,True
 chthonian-soldier,Chthonian Soldier,50916353,3,https://edisonrul.ing/cards/c/chthonian-soldier.html,True,https://edisonformat.net/card?name=Chthonian%20Soldier,True
 chu-ske-the-mouse-fighter,Chu-Ske the Mouse Fighter,8508055,3,https://edisonrul.ing/cards/c/chu-ske-the-mouse-fighter.html,False,https://edisonformat.net/card?name=Chu-Ske%20the%20Mouse%20Fighter,True
-cipher-soldier,Cipher Soldier,79853073,3,https://edisonrul.ing/cards/c/cipher-soldier.html,False,https://edisonformat.net/card?name=Cipher%20Soldier,False
+cipher-soldier,Cipher Soldier,79853073,3,https://edisonrul.ing/cards/c/cipher-soldier.html,False,https://edisonformat.net/card?name=Kinetic%20Soldier%20(Cipher%20Soldier),True
 claw-reacher,Claw Reacher,41218256,3,https://edisonrul.ing/cards/c/claw-reacher.html,False,https://edisonformat.net/card?name=Claw%20Reacher,True
 clay-charge,Clay Charge,22479888,3,https://edisonrul.ing/cards/c/clay-charge.html,False,https://edisonformat.net/card?name=Clay%20Charge,True
 clear-vice-dragon,Clear Vice Dragon,97811903,3,https://edisonrul.ing/cards/c/clear-vice-dragon.html,True,https://edisonformat.net/card?name=Clear%20Vice%20Dragon,True
@@ -565,7 +565,7 @@ cold-enchanter,Cold Enchanter,24661486,3,https://edisonrul.ing/cards/c/cold-ench
 cold-wave,Cold Wave,60682203,1,https://edisonrul.ing/cards/c/cold-wave.html,True,https://edisonformat.net/card?name=Cold%20Wave,True
 collected-power,Collected Power,7565547,3,https://edisonrul.ing/cards/c/collected-power.html,True,https://edisonformat.net/card?name=Collected%20Power,True
 colossal-fighter,Colossal Fighter,23693634,3,https://edisonrul.ing/cards/c/colossal-fighter.html,True,https://edisonformat.net/card?name=Colossal%20Fighter,True
-colossal-fighterassault-mode,Colossal Fighter/Assault Mode,38898779,3,https://edisonrul.ing/cards/c/colossal-fighterassault-mode.html,False,https://edisonformat.net/card?name=Colossal%20Fighter/Assault%20Mode,False
+colossal-fighterassault-mode,Colossal Fighter/Assault Mode,38898779,3,https://edisonrul.ing/cards/c/colossal-fighterassault-mode.html,False,https://edisonformat.net/card?name=Colossal%20Fighter%20Assault%20Mode,True
 colosseum-cage-of-the-gladiator-beasts,Colosseum - Cage of the Gladiator Beasts,52518793,3,https://edisonrul.ing/cards/c/colosseum-cage-of-the-gladiator-beasts.html,True,https://edisonformat.net/card?name=Colosseum%20-%20Cage%20of%20the%20Gladiator%20Beasts,True
 combination-attack,Combination Attack,8964854,3,https://edisonrul.ing/cards/c/combination-attack.html,True,https://edisonformat.net/card?name=Combination%20Attack,True
 combo-fighter,Combo Fighter,8806072,3,https://edisonrul.ing/cards/c/combo-fighter.html,True,https://edisonformat.net/card?name=Combo%20Fighter,True
@@ -597,7 +597,7 @@ core-compression,Core Compression,13997673,3,https://edisonrul.ing/cards/c/core-
 core-reinforcement,Core Reinforcement,8057630,3,https://edisonrul.ing/cards/c/core-reinforcement.html,True,https://edisonformat.net/card?name=Core%20Reinforcement,True
 core-transport-unit,Core Transport Unit,30770156,3,https://edisonrul.ing/cards/c/core-transport-unit.html,False,https://edisonformat.net/card?name=Core%20Transport%20Unit,True
 corroding-shark,Corroding Shark,34290067,3,https://edisonrul.ing/cards/c/corroding-shark.html,False,https://edisonformat.net/card?name=Corroding%20Shark,True
-corruption-cell-a,"Corruption Cell ""A""",2561846,3,https://edisonrul.ing/cards/c/corruption-cell-a.html,True,"https://edisonformat.net/card?name=Corruption%20Cell%20""A""",True
+corruption-cell-a,"Corruption Cell ""A""",2561846,3,https://edisonrul.ing/cards/c/corruption-cell-a.html,True,https://edisonformat.net/card?name=Corruption%20Cell%20A,True
 cosmic-fortress-golgar,Cosmic Fortress Gol'gar,68319538,3,https://edisonrul.ing/cards/c/cosmic-fortress-golgar.html,True,https://edisonformat.net/card?name=Cosmic%20Fortress%20Gol'gar,True
 cosmic-horror-gangiel,Cosmic Horror Gangi'el,51192573,3,https://edisonrul.ing/cards/c/cosmic-horror-gangiel.html,True,https://edisonformat.net/card?name=Cosmic%20Horror%20Gangi'el,True
 cosmo-queen,Cosmo Queen,38999506,3,https://edisonrul.ing/cards/c/cosmo-queen.html,False,https://edisonformat.net/card?name=Cosmo%20Queen,True
@@ -901,7 +901,7 @@ destruction-ring,Destruction Ring,21219755,3,https://edisonrul.ing/cards/d/destr
 destructive-draw,Destructive Draw,77859858,3,https://edisonrul.ing/cards/d/destructive-draw.html,True,https://edisonformat.net/card?name=Destructive%20Draw,True
 destructotron,Destructotron,11232355,3,https://edisonrul.ing/cards/d/destructotron.html,True,https://edisonformat.net/card?name=Destructotron,True
 detonate,Detonate,89086566,3,https://edisonrul.ing/cards/d/detonate.html,False,https://edisonformat.net/card?name=Detonate,True
-detonator-circle-a,"Detonator Circle ""A""",20985997,3,https://edisonrul.ing/cards/d/detonator-circle-a.html,False,"https://edisonformat.net/card?name=Detonator%20Circle%20""A""",True
+detonator-circle-a,"Detonator Circle ""A""",20985997,3,https://edisonrul.ing/cards/d/detonator-circle-a.html,False,https://edisonformat.net/card?name=Detonator%20Circle%20A,True
 dharc-the-dark-charmer,Dharc the Dark Charmer,19327348,3,https://edisonrul.ing/cards/d/dharc-the-dark-charmer.html,False,https://edisonformat.net/card?name=Dharc%20the%20Dark%20Charmer,True
 dharma-cannon,Dharma Cannon,96967123,3,https://edisonrul.ing/cards/d/dharma-cannon.html,False,https://edisonformat.net/card?name=Dharma%20Cannon,True
 diabolos-king-of-the-abyss,"Diabolos, King of the Abyss",29424328,3,https://edisonrul.ing/cards/d/diabolos-king-of-the-abyss.html,True,"https://edisonformat.net/card?name=Diabolos,%20King%20of%20the%20Abyss",True
@@ -963,7 +963,7 @@ doom-dozer,Doom Dozer,76039636,3,https://edisonrul.ing/cards/d/doom-dozer.html,F
 doom-shaman,Doom Shaman,94944637,3,https://edisonrul.ing/cards/d/doom-shaman.html,True,https://edisonformat.net/card?name=Doom%20Shaman,True
 doomcaliber-knight,Doomcaliber Knight,78700060,3,https://edisonrul.ing/cards/d/doomcaliber-knight.html,True,https://edisonformat.net/card?name=Doomcaliber%20Knight,True
 doomkaiser-dragon,Doomkaiser Dragon,6021033,3,https://edisonrul.ing/cards/d/doomkaiser-dragon.html,True,https://edisonformat.net/card?name=Doomkaiser%20Dragon,True
-doomkaiser-dragonassault-mode,Doomkaiser Dragon/Assault Mode,1764972,3,https://edisonrul.ing/cards/d/doomkaiser-dragonassault-mode.html,True,https://edisonformat.net/card?name=Doomkaiser%20Dragon/Assault%20Mode,False
+doomkaiser-dragonassault-mode,Doomkaiser Dragon/Assault Mode,1764972,3,https://edisonrul.ing/cards/d/doomkaiser-dragonassault-mode.html,True,https://edisonformat.net/card?name=Doomkaiser%20Dragon%20Assault%20Mode,True
 doomsday-horror,Doomsday Horror,64379430,3,https://edisonrul.ing/cards/d/doomsday-horror.html,True,https://edisonformat.net/card?name=Doomsday%20Horror,True
 doppelganger,Doppelganger,66395299,3,https://edisonrul.ing/cards/d/doppelganger.html,True,https://edisonformat.net/card?name=Doppelganger,True
 dora-of-fate,Dora of Fate,67464807,3,https://edisonrul.ing/cards/d/dora-of-fate.html,True,https://edisonformat.net/card?name=Dora%20of%20Fate,True
@@ -1679,7 +1679,7 @@ hyosube,Hyosube,2118022,3,https://edisonrul.ing/cards/h/hyosube.html,False,https
 hyozanryu,Hyozanryu,62397231,3,https://edisonrul.ing/cards/h/hyozanryu.html,False,https://edisonformat.net/card?name=Hyozanryu,True
 hyper-hammerhead,Hyper Hammerhead,2671330,3,https://edisonrul.ing/cards/h/hyper-hammerhead.html,True,https://edisonformat.net/card?name=Hyper%20Hammerhead,True
 hyper-psychic-blaster,Hyper Psychic Blaster,95526884,3,https://edisonrul.ing/cards/h/hyper-psychic-blaster.html,True,https://edisonformat.net/card?name=Hyper%20Psychic%20Blaster,True
-hyper-psychic-blasterassault-mode,Hyper Psychic Blaster/Assault Mode,37169670,3,https://edisonrul.ing/cards/h/hyper-psychic-blasterassault-mode.html,False,https://edisonformat.net/card?name=Hyper%20Psychic%20Blaster/Assault%20Mode,False
+hyper-psychic-blasterassault-mode,Hyper Psychic Blaster/Assault Mode,37169670,3,https://edisonrul.ing/cards/h/hyper-psychic-blasterassault-mode.html,False,https://edisonformat.net/card?name=Hyper%20Psychic%20Blaster%20Assault%20Mode,True
 hyper-synchron,Hyper Synchron,40348946,3,https://edisonrul.ing/cards/h/hyper-synchron.html,True,https://edisonformat.net/card?name=Hyper%20Synchron,True
 hysteric-fairy,Hysteric Fairy,21297224,3,https://edisonrul.ing/cards/h/hysteric-fairy.html,True,https://edisonformat.net/card?name=Hysteric%20Fairy,True
 hysteric-party,Hysteric Party,77778835,3,https://edisonrul.ing/cards/h/hysteric-party.html,False,https://edisonformat.net/card?name=Hysteric%20Party,True
@@ -1734,7 +1734,7 @@ instant-neo-space,Instant Neo Space,11913700,3,https://edisonrul.ing/cards/i/ins
 intercept,Intercept,59695933,3,https://edisonrul.ing/cards/i/intercept.html,True,https://edisonformat.net/card?name=Intercept,True
 interdimensional-matter-transporter,Interdimensional Matter Transporter,36261276,3,https://edisonrul.ing/cards/i/interdimensional-matter-transporter.html,True,https://edisonformat.net/card?name=Interdimensional%20Matter%20Transporter,True
 interdimensional-warp,Interdimensional Warp,57384901,3,https://edisonrul.ing/cards/i/interdimensional-warp.html,True,https://edisonformat.net/card?name=Interdimensional%20Warp,True
-interplanetary-invader-a,"Interplanetary Invader ""A""",14729426,3,https://edisonrul.ing/cards/i/interplanetary-invader-a.html,True,"https://edisonformat.net/card?name=Interplanetary%20Invader%20""A""",True
+interplanetary-invader-a,"Interplanetary Invader ""A""",14729426,3,https://edisonrul.ing/cards/i/interplanetary-invader-a.html,True,https://edisonformat.net/card?name=Interplanetary%20Invader%20A,True
 introduction-to-gallantry,Introduction to Gallantry,69091732,3,https://edisonrul.ing/cards/i/introduction-to-gallantry.html,True,https://edisonformat.net/card?name=Introduction%20to%20Gallantry,True
 invader-of-darkness,Invader of Darkness,56647086,3,https://edisonrul.ing/cards/i/invader-of-darkness.html,True,https://edisonformat.net/card?name=Invader%20of%20Darkness,True
 invader-of-the-throne,Invader of the Throne,3056267,3,https://edisonrul.ing/cards/i/invader-of-the-throne.html,False,https://edisonformat.net/card?name=Invader%20of%20the%20Throne,True
@@ -2259,7 +2259,6 @@ mystic-swordsman-lv2,Mystic Swordsman LV2,47507260,3,https://edisonrul.ing/cards
 mystic-swordsman-lv4,Mystic Swordsman LV4,74591968,3,https://edisonrul.ing/cards/m/mystic-swordsman-lv4.html,True,https://edisonformat.net/card?name=Mystic%20Swordsman%20LV4,True
 mystic-swordsman-lv6,Mystic Swordsman LV6,60482781,3,https://edisonrul.ing/cards/m/mystic-swordsman-lv6.html,True,https://edisonformat.net/card?name=Mystic%20Swordsman%20LV6,True
 mystic-tomato,Mystic Tomato,83011278,3,https://edisonrul.ing/cards/m/mystic-tomato.html,True,https://edisonformat.net/card?name=Mystic%20Tomato,False
-mystic-tomato-eyal282,"Mystic Tomato, eyal282.",83011277,3,https://edisonrul.ing/cards/m/mystic-tomato-eyal282.html,False,"https://edisonformat.net/card?name=Mystic%20Tomato,%20eyal282.",False
 mystical-cards-of-light,Mystical Cards of Light,48356796,3,https://edisonrul.ing/cards/m/mystical-cards-of-light.html,True,https://edisonformat.net/card?name=Mystical%20Cards%20of%20Light,True
 mystical-elf,Mystical Elf,15025844,3,https://edisonrul.ing/cards/m/mystical-elf.html,False,https://edisonformat.net/card?name=Mystical%20Elf,True
 mystical-knight-of-jackal,Mystical Knight of Jackal,98745000,3,https://edisonrul.ing/cards/m/mystical-knight-of-jackal.html,True,https://edisonformat.net/card?name=Mystical%20Knight%20of%20Jackal,True
@@ -2391,7 +2390,7 @@ order-to-charge,Order to Charge,78986941,3,https://edisonrul.ing/cards/o/order-t
 order-to-smash,Order to Smash,39019325,3,https://edisonrul.ing/cards/o/order-to-smash.html,True,https://edisonformat.net/card?name=Order%20to%20Smash,True
 oscillo-hero,Oscillo Hero,82065276,3,https://edisonrul.ing/cards/o/oscillo-hero.html,False,https://edisonformat.net/card?name=Oscillo%20Hero,True
 oshaleon,Oshaleon,71519605,3,https://edisonrul.ing/cards/o/oshaleon.html,False,https://edisonformat.net/card?name=Oshaleon,True
-otherworld-the-a-zone,"Otherworld - The ""A"" Zone",60946968,3,https://edisonrul.ing/cards/o/otherworld-the-a-zone.html,False,"https://edisonformat.net/card?name=Otherworld%20-%20The%20""A""%20Zone",True
+otherworld-the-a-zone,"Otherworld - The ""A"" Zone",60946968,3,https://edisonrul.ing/cards/o/otherworld-the-a-zone.html,False,https://edisonformat.net/card?name=Otherworld%20-%20The%20A%20Zone,True
 otohime,Otohime,39751094,3,https://edisonrul.ing/cards/o/otohime.html,False,https://edisonformat.net/card?name=Otohime,True
 outstanding-dog-marron,Outstanding Dog Marron,11548522,3,https://edisonrul.ing/cards/o/outstanding-dog-marron.html,True,https://edisonformat.net/card?name=Outstanding%20Dog%20Marron,True
 over-destiny,Over Destiny,72204747,3,https://edisonrul.ing/cards/o/over-destiny.html,True,https://edisonformat.net/card?name=Over%20Destiny,True
@@ -2608,7 +2607,7 @@ recycle,Recycle,96316857,3,https://edisonrul.ing/cards/r/recycle.html,True,https
 recycling-batteries,Recycling Batteries,99995595,3,https://edisonrul.ing/cards/r/recycling-batteries.html,True,https://edisonformat.net/card?name=Recycling%20Batteries,True
 red-archery-girl,Red Archery Girl,65570596,3,https://edisonrul.ing/cards/r/red-archery-girl.html,False,https://edisonformat.net/card?name=Red%20Archery%20Girl,True
 red-dragon-archfiend,Red Dragon Archfiend,70902743,3,https://edisonrul.ing/cards/r/red-dragon-archfiend.html,True,https://edisonformat.net/card?name=Red%20Dragon%20Archfiend,True
-red-dragon-archfiendassault-mode,Red Dragon Archfiend/Assault Mode,77336644,3,https://edisonrul.ing/cards/r/red-dragon-archfiendassault-mode.html,True,https://edisonformat.net/card?name=Red%20Dragon%20Archfiend/Assault%20Mode,False
+red-dragon-archfiendassault-mode,Red Dragon Archfiend/Assault Mode,77336644,3,https://edisonrul.ing/cards/r/red-dragon-archfiendassault-mode.html,True,https://edisonformat.net/card?name=Red%20Dragon%20Archfiend%20Assault%20Mode,True
 red-eyes-black-dragon,Red-Eyes Black Dragon,74677422,3,https://edisonrul.ing/cards/r/red-eyes-black-dragon.html,False,https://edisonformat.net/card?name=Red-Eyes%20Black%20Dragon,True
 red-eyes-black-metal-dragon,Red-Eyes Black Metal Dragon,64335805,3,https://edisonrul.ing/cards/r/red-eyes-black-metal-dragon.html,True,https://edisonformat.net/card?name=Red-Eyes%20Black%20Metal%20Dragon,True
 red-eyes-darkness-dragon,Red-Eyes Darkness Dragon,96561011,3,https://edisonrul.ing/cards/r/red-eyes-darkness-dragon.html,False,https://edisonformat.net/card?name=Red-Eyes%20Darkness%20Dragon,True
@@ -2830,7 +2829,6 @@ shapesnatch,Shapesnatch,4035199,3,https://edisonrul.ing/cards/s/shapesnatch.html
 share-the-pain,Share the Pain,56830749,3,https://edisonrul.ing/cards/s/share-the-pain.html,True,https://edisonformat.net/card?name=Share%20the%20Pain,True
 shark-cruiser,Shark Cruiser,20358953,3,https://edisonrul.ing/cards/s/shark-cruiser.html,True,https://edisonformat.net/card?name=Shark%20Cruiser,True
 shattered-axe,Shattered Axe,12117532,3,https://edisonrul.ing/cards/s/shattered-axe.html,False,https://edisonformat.net/card?name=Shattered%20Axe,True
-sheep-token,Sheep Token,73915052,3,https://edisonrul.ing/cards/s/sheep-token.html,False,https://edisonformat.net/card?name=Sheep%20Token,False
 shiba-warrior-taro,Shiba-Warrior Taro,27416701,3,https://edisonrul.ing/cards/s/shiba-warrior-taro.html,False,https://edisonformat.net/card?name=Shiba-Warrior%20Taro,True
 shield-crush,Shield Crush,30683373,3,https://edisonrul.ing/cards/s/shield-crush.html,True,https://edisonformat.net/card?name=Shield%20Crush,True
 shield-spear,Shield Spear,3244563,3,https://edisonrul.ing/cards/s/shield-spear.html,False,https://edisonformat.net/card?name=Shield%20Spear,True
@@ -2850,7 +2848,7 @@ shining-abyss,Shining Abyss,87303357,3,https://edisonrul.ing/cards/s/shining-aby
 shining-angel,Shining Angel,95956346,3,https://edisonrul.ing/cards/s/shining-angel.html,True,https://edisonformat.net/card?name=Shining%20Angel,True
 shining-friendship,Shining Friendship,82085619,3,https://edisonrul.ing/cards/s/shining-friendship.html,False,https://edisonformat.net/card?name=Shining%20Friendship,True
 shining-silver-force,Shining Silver Force,89563150,3,https://edisonrul.ing/cards/s/shining-silver-force.html,True,https://edisonformat.net/card?name=Shining%20Silver%20Force,True
-shiny-black-c,"Shiny Black ""C""",94081496,3,https://edisonrul.ing/cards/s/shiny-black-c.html,True,"https://edisonformat.net/card?name=Shiny%20Black%20""C""",True
+shiny-black-c,"Shiny Black ""C""",94081496,3,https://edisonrul.ing/cards/s/shiny-black-c.html,True,https://edisonformat.net/card?name=Shiny%20Black%20C,True
 shire-lightsworn-spirit,"Shire, Lightsworn Spirit",2420921,3,https://edisonrul.ing/cards/s/shire-lightsworn-spirit.html,True,"https://edisonformat.net/card?name=Shire,%20Lightsworn%20Spirit",True
 shooting-star-bow-ceal,Shooting Star Bow - Ceal,95638658,3,https://edisonrul.ing/cards/s/shooting-star-bow-ceal.html,True,https://edisonformat.net/card?name=Shooting%20Star%20Bow%20-%20Ceal,True
 short-circuit,Short Circuit,75967082,3,https://edisonrul.ing/cards/s/short-circuit.html,True,https://edisonformat.net/card?name=Short%20Circuit,True
@@ -3000,10 +2998,10 @@ spirit-burner,Spirit Burner,50418970,3,https://edisonrul.ing/cards/s/spirit-burn
 spirit-caller,Spirit Caller,48659020,3,https://edisonrul.ing/cards/s/spirit-caller.html,False,https://edisonformat.net/card?name=Spirit%20Caller,True
 spirit-elimination,Spirit Elimination,69832741,3,https://edisonrul.ing/cards/s/spirit-elimination.html,True,https://edisonformat.net/card?name=Spirit%20Elimination,True
 spirit-force,Spirit Force,16674846,3,https://edisonrul.ing/cards/s/spirit-force.html,True,https://edisonformat.net/card?name=Spirit%20Force,True
-spirit-message-a,"Spirit Message ""A""",94772232,3,https://edisonrul.ing/cards/s/spirit-message-a.html,False,"https://edisonformat.net/card?name=Spirit%20Message%20""A""",True
-spirit-message-i,"Spirit Message ""I""",31893528,3,https://edisonrul.ing/cards/s/spirit-message-i.html,False,"https://edisonformat.net/card?name=Spirit%20Message%20""I""",True
-spirit-message-l,"Spirit Message ""L""",30170981,3,https://edisonrul.ing/cards/s/spirit-message-l.html,False,"https://edisonformat.net/card?name=Spirit%20Message%20""L""",True
-spirit-message-n,"Spirit Message ""N""",67287533,3,https://edisonrul.ing/cards/s/spirit-message-n.html,False,"https://edisonformat.net/card?name=Spirit%20Message%20""N""",True
+spirit-message-a,"Spirit Message ""A""",94772232,3,https://edisonrul.ing/cards/s/spirit-message-a.html,False,https://edisonformat.net/card?name=Spirit%20Message%20A,True
+spirit-message-i,"Spirit Message ""I""",31893528,3,https://edisonrul.ing/cards/s/spirit-message-i.html,False,https://edisonformat.net/card?name=Spirit%20Message%20I,True
+spirit-message-l,"Spirit Message ""L""",30170981,3,https://edisonrul.ing/cards/s/spirit-message-l.html,False,https://edisonformat.net/card?name=Spirit%20Message%20L,True
+spirit-message-n,"Spirit Message ""N""",67287533,3,https://edisonrul.ing/cards/s/spirit-message-n.html,False,https://edisonformat.net/card?name=Spirit%20Message%20N,True
 spirit-of-flames,Spirit of Flames,13522325,3,https://edisonrul.ing/cards/s/spirit-of-flames.html,False,https://edisonformat.net/card?name=Spirit%20of%20Flames,True
 spirit-of-the-books,Spirit of the Books,14037717,3,https://edisonrul.ing/cards/s/spirit-of-the-books.html,False,https://edisonformat.net/card?name=Spirit%20of%20the%20Books,True
 spirit-of-the-breeze,Spirit of the Breeze,53530069,3,https://edisonrul.ing/cards/s/spirit-of-the-breeze.html,False,https://edisonformat.net/card?name=Spirit%20of%20the%20Breeze,True
@@ -3029,7 +3027,7 @@ stamping-destruction,Stamping Destruction,81385346,3,https://edisonrul.ing/cards
 star-blast,Star Blast,67196946,3,https://edisonrul.ing/cards/s/star-blast.html,True,https://edisonformat.net/card?name=Star%20Blast,True
 star-boy,Star Boy,8201910,3,https://edisonrul.ing/cards/s/star-boy.html,False,https://edisonformat.net/card?name=Star%20Boy,True
 stardust-dragon,Stardust Dragon,44508094,3,https://edisonrul.ing/cards/s/stardust-dragon.html,True,https://edisonformat.net/card?name=Stardust%20Dragon,True
-stardust-dragonassault-mode,Stardust Dragon/Assault Mode,61257789,3,https://edisonrul.ing/cards/s/stardust-dragonassault-mode.html,True,https://edisonformat.net/card?name=Stardust%20Dragon/Assault%20Mode,False
+stardust-dragonassault-mode,Stardust Dragon/Assault Mode,61257789,3,https://edisonrul.ing/cards/s/stardust-dragonassault-mode.html,True,https://edisonformat.net/card?name=Stardust%20Dragon%20Assault%20Mode,True
 stardust-xiaolong,Stardust Xiaolong,68543408,3,https://edisonrul.ing/cards/s/stardust-xiaolong.html,True,https://edisonformat.net/card?name=Stardust%20Xiaolong,True
 starlight-road,Starlight Road,58120309,3,https://edisonrul.ing/cards/s/starlight-road.html,True,https://edisonformat.net/card?name=Starlight%20Road,True
 statue-of-the-wicked,Statue of the Wicked,65810489,3,https://edisonrul.ing/cards/s/statue-of-the-wicked.html,True,https://edisonformat.net/card?name=Statue%20of%20the%20Wicked,True
@@ -3460,7 +3458,6 @@ venom-snake,Venom Snake,73899015,3,https://edisonrul.ing/cards/v/venom-snake.htm
 venom-swamp,Venom Swamp,54306223,3,https://edisonrul.ing/cards/v/venom-swamp.html,True,https://edisonformat.net/card?name=Venom%20Swamp,True
 verdant-sanctuary,Verdant Sanctuary,80402389,3,https://edisonrul.ing/cards/v/verdant-sanctuary.html,True,https://edisonformat.net/card?name=Verdant%20Sanctuary,True
 versago-the-destroyer,Versago the Destroyer,50259460,3,https://edisonrul.ing/cards/v/versago-the-destroyer.html,True,https://edisonformat.net/card?name=Versago%20the%20Destroyer,True
-vice-dragon,Vice Dragon,54343893,3,https://edisonrul.ing/cards/v/vice-dragon.html,False,https://edisonformat.net/card?name=Vice%20Dragon,False
 vicious-claw,Vicious Claw,75524092,3,https://edisonrul.ing/cards/v/vicious-claw.html,True,https://edisonformat.net/card?name=Vicious%20Claw,True
 victoria,Victoria,75162696,3,https://edisonrul.ing/cards/v/victoria.html,True,https://edisonformat.net/card?name=Victoria,True
 victory-viper-xx03,Victory Viper XX03,93130021,3,https://edisonrul.ing/cards/v/victory-viper-xx03.html,True,https://edisonformat.net/card?name=Victory%20Viper%20XX03,True

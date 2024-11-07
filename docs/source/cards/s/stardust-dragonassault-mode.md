@@ -20,3 +20,16 @@
     *   Even if "[Red Dragon Archfiend/Assault Mode](https://yugipedia.com/wiki/Red_Dragon_Archfiend/Assault_Mode)" etc. is destroyed and banished, you can Special Summon "Red Dragon Archfiend" etc. from your Graveyard (this ruling also applies to "Stardust Dragon/Assault Mode").
     *   Even if a "[Red Dragon Archfiend/Assault Mode](https://yugipedia.com/wiki/Red_Dragon_Archfiend/Assault_Mode)" etc. in the Spell & Trap Zone that is treated as an Equip Card is destroyed, you can Special Summon "Red Dragon Archfiend" etc. from your Graveyard (this ruling also applies to "Stardust Dragon/Assault Mode").
     *   If a "[Red Dragon Archfiend/Assault Mode](https://yugipedia.com/wiki/Red_Dragon_Archfiend/Assault_Mode)" Special Summoned by "[Assault Revival](https://yugipedia.com/wiki/Assault_Revival)" is destroyed and banished, since its effect that activates when it leaves the field is not negated, you can Special Summon "Red Dragon Archfiend" (this ruling applies to "Stardust Dragon/Assault Mode").
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Stardust%20Dragon%20Assault%20Mode
+
+### Edison-Accurate PSCT
+
+> No rulings available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            
