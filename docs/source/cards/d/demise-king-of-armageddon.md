@@ -28,5 +28,5 @@ Source: https://edisonformat.net/card?name=Demise,%20King%20of%20Armageddon
 
 ### Card Rulings
 
-● If "Book of Moon" is chained to the ① effect, this card does not destroy itself.
+*   If "Book of Moon" is chained to the ① effect, this card does not destroy itself.
             

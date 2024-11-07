@@ -26,6 +26,6 @@ Source: https://edisonformat.net/card?name=Charge%20of%20the%20Light%20Brigade
 
 ### Card Rulings
 
-● You can't activate this card unless you have at least 4 cards in your Deck.
-● You can't activate this card unless there is at least 1 level 4 or lower "Lightsworn" monster in your Deck. If the last possible search is sent to the GY as part of this card's cost, all 3 cards remain in the GY, and no card is searched.
+*   You can't activate this card unless you have at least 4 cards in your Deck.
+*   You can't activate this card unless there is at least 1 level 4 or lower "Lightsworn" monster in your Deck. If the last possible search is sent to the GY as part of this card's cost, all 3 cards remain in the GY, and no card is searched.
             

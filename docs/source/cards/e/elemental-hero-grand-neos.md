@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Grand%20Neos
 
 ### Card Rulings
 
-●This card’s effect that returns a monster to the hand is an Ignition Effect.
-●This effect targets 1 monster your opponent controls.
+*   This card’s effect that returns a monster to the hand is an Ignition Effect.
+*   This effect targets 1 monster your opponent controls.
             

@@ -29,6 +29,6 @@ Source: https://edisonformat.net/card?name=Queen%20of%20Thorns
 
 ### Card Rulings
 
-● If you Tribute Summon using this card as tribute, you must still pay 1000 LP.
-● When resolving a card effect which summons from the hand, pay 1000 LP as it resolves.
+*   If you Tribute Summon using this card as tribute, you must still pay 1000 LP.
+*   When resolving a card effect which summons from the hand, pay 1000 LP as it resolves.
             

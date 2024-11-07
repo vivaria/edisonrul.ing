@@ -37,14 +37,14 @@ Source: https://edisonformat.net/card?name=Geartown
 
 ### Card Rulings
 
-● You can't Tribute Set using the ① effect.
+*   You can't Tribute Set using the ① effect.
 
-● In Edison, there can only ever be 1 face-up Field Spell on the field.
-● If you control this, and you activate another Field Spell:
+*   In Edison, there can only ever be 1 face-up Field Spell on the field.
+*   If you control this, and you activate another Field Spell:
 This card is destroyed, and its ② misses its timing.
-● If you control this, and your opponent activates another Field Spell:
+*   If you control this, and your opponent activates another Field Spell:
 This card is destroyed, and its ② activates (it does not miss its timing).
-● If you Set another Field Spell while this card is in the Field Spell Zone (face-up or face-down), this card is destroyed, and its ② effect can be activated.
+*   If you Set another Field Spell while this card is in the Field Spell Zone (face-up or face-down), this card is destroyed, and its ② effect can be activated.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
             

@@ -34,5 +34,5 @@ Source: https://edisonformat.net/card?name=Blaze%20Accelerator
 
 ### Card Rulings
 
-● You can't activate this card's effect in the same chain in which the card itself is activated in.
+*   You can't activate this card's effect in the same chain in which the card itself is activated in.
             

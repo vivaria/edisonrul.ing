@@ -40,6 +40,6 @@ Source: https://edisonformat.net/card?name=Lumina,%20Lightsworn%20Summoner
 
 ### Card Rulings
 
-● You can only activate the ① effect if you already have a "Lightsworn" monster in your GY. However, when choosing a target, you can choose to target the card you discarded, instead.
-● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+*   You can only activate the ① effect if you already have a "Lightsworn" monster in your GY. However, when choosing a target, you can choose to target the card you discarded, instead.
+*   If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
             

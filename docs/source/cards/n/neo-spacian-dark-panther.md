@@ -40,28 +40,28 @@ Source: https://edisonformat.net/card?name=Neo-Spacian%20Dark%20Panther
 ### Card Rulings
 
 If this card copies a:
-● "Crystal Beast" monsters:
+*   "Crystal Beast" monsters:
 If this card is destroyed, it can't be put in the S/T zone.
-● "Cyber Harpie Lady":
+*   "Cyber Harpie Lady":
 This card's name becomes "Harpie Lady".
-● Gemini Monster:
+*   Gemini Monster:
 It doesn't become a Gemini. You can Normal Summon it to gain the Gemini effect.
-● "Junk Synchron":
+*   "Junk Synchron":
 It doesn't become a Tuner. You still need at least 1 Tuner to Summon "Junk Warrior".
-● "LV" monsters:
+*   "LV" monsters:
 You can tribute this card for "Level Up!", but you won't Special Summon anything.
-● "Proto Cyber Dragon":
+*   "Proto Cyber Dragon":
 You can use this card as "Cyber Dragon" for "Chimeratech Fortress Dragon".
-● "Phantom of Chaos":
+*   "Phantom of Chaos":
 You can banish a monster from your GY. This card will gain the banished monster's ATK/name.
-● "Sangan":
+*   "Sangan":
 This card's effect only applies on the field. You don't search if it's sent to the GY.
-● Spell Counter monsters:
+*   Spell Counter monsters:
 You can put Spell Counters on this card. They're removed when this effect stops applying.
-● "Strike Ninja":
+*   "Strike Ninja":
 You can banish this card, but it will never return to the field.
-● "Victory Viper XX03":
+*   "Victory Viper XX03":
 Option Tokens will be destroyed in the End Phase, when this effect stops applying.
-● Another "Neo-Spacian Dark Panther":
+*   Another "Neo-Spacian Dark Panther":
 You can target this, but you can't use the effect to copy an effect again.
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Rampaging%20Rhynos
 
 ### Card Rulings
 
-●“Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.
-●If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.
+*   “Rampaging Rhynos” can't move into a Monster Card Zone targeted by “Ground Collapse”.
+*   If you activate the effect of a face-up “Rampaging Rhynos”, and “Book of Moon” is chained to this effect, the face-down “Rampaging Rhynos” will still move.
             

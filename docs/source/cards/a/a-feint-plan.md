@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=A%20Feint%20Plan
 ### Card Rulings
 
 A player can't attack face-down monsters during this turn.
-●If A Feint Plan is activated and you control only face-down monsters, your opponent can't attack any of your monsters and they can't attack your Life Points directly either.
-●If you activate A Feint Plan after your opponent declares an attack against one of your face-down monsters, that attack resolves as normal, but they can't attack other face-down monsters for the remainder of the turn. (This is because A Feint Plan prevents declaring an attack against a face-down monster, and the attack has already been declared by the time A Feint Plan resolves during the Battle Step.)
+*   If A Feint Plan is activated and you control only face-down monsters, your opponent can't attack any of your monsters and they can't attack your Life Points directly either.
+*   If you activate A Feint Plan after your opponent declares an attack against one of your face-down monsters, that attack resolves as normal, but they can't attack other face-down monsters for the remainder of the turn. (This is because A Feint Plan prevents declaring an attack against a face-down monster, and the attack has already been declared by the time A Feint Plan resolves during the Battle Step.)
             

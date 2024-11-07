@@ -29,7 +29,7 @@ Source: https://edisonformat.net/card?name=D.D.%20Survivor
 
 ### Card Rulings
 
-● If this Set card is attacked (while “Dimensional Fissure” is on the field), its effect won't activate in the End Phase. It needs to be face-up when targeted for the attack.
-● If the activation or effect is negated, it does not activate again in the same End Phase.
-● If this card is banished during the End Phase, it returns to the field during the next turn's End Phase.
+*   If this Set card is attacked (while “Dimensional Fissure” is on the field), its effect won't activate in the End Phase. It needs to be face-up when targeted for the attack.
+*   If the activation or effect is negated, it does not activate again in the same End Phase.
+*   If this card is banished during the End Phase, it returns to the field during the next turn's End Phase.
             

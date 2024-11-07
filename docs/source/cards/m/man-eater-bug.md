@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Man-Eater%20Bug
 
 ### Card Rulings
 
-●If Man-Eater Bug is the only monster on the field when it is flipped, it destroys itself.
+*   If Man-Eater Bug is the only monster on the field when it is flipped, it destroys itself.
             

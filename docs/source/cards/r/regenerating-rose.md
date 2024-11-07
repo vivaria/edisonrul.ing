@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Regenerating%20Rose
 
 ### Card Rulings
 
-● This effect can't be activated if you have 1 or fewer empty Monster Zones.
+*   This effect can't be activated if you have 1 or fewer empty Monster Zones.
             

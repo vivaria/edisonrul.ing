@@ -29,22 +29,22 @@ Source: https://edisonformat.net/card?name=Shrink
 
 ### Card Rulings
 
-● VS "Card Trooper"/"Exarion Universe" (ATK/DEF increase/decrease applying only to itself):
+*   VS "Card Trooper"/"Exarion Universe" (ATK/DEF increase/decrease applying only to itself):
 Half it's original ATK, then reapply the ATK/DEF increase/decrease from it's effect.
 (The Upper Deck Entertainment ruling does not apply to Edison Format)
 
-● VS "Blackwing - Sirocco the Dawn"/"Rush Recklessly" (ATK/DEF increase/decrease, can apply to other cards):
+*   VS "Blackwing - Sirocco the Dawn"/"Rush Recklessly" (ATK/DEF increase/decrease, can apply to other cards):
 Half the original ATK, then reapply the ATK/DEF increase/decrease from the effect.
 
-● VS "Tragoedia" (0 original ATK, gains ATK):
+*   VS "Tragoedia" (0 original ATK, gains ATK):
 Shrink has no effect (0 is halved to 0, then it immediately regains its ATK for each card in hand).
 
-● VS "Chimeratech Fortress Dragon" (ATK is set once it is summoned):
+*   VS "Chimeratech Fortress Dragon" (ATK is set once it is summoned):
 Chimeratech's ATK becomes 0 permanently.
 
-● VS "Gren Maju Da Eiza" (original ATK becomes a value):
+*   VS "Gren Maju Da Eiza" (original ATK becomes a value):
 Halve its ATK. If the number of banished cards changes, it becomes halved based off of that new value.
 
-● VS Equip Spell Cards:
+*   VS Equip Spell Cards:
 Halve the original ATK, then apply any changes from the Equip Spell Cards.
             

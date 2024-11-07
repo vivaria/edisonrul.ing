@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Snake%20Deity's%20Command
 
 ### Card Rulings
 
-●Showing 1 “Venom” monster in your hand is a cost to activate this card.
+*   Showing 1 “Venom” monster in your hand is a cost to activate this card.
             

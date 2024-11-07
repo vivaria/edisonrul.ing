@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Lady%20Ninja%20Yae
 
 ### Card Rulings
 
-●Discarding 1 WIND monster is a cost.
+*   Discarding 1 WIND monster is a cost.
             

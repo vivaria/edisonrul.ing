@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Berserk%20Dragon
 
 ### Card Rulings
 
-●Berserk Dragon Cannot be Normal Summoned or Set, and Cannot be Special Summoned EXCEPT by the effect of A Deal with Dark Ruler. So Berserk Dragon Cannot be Special Summoned with Monster Reborn, etc., even if Special Summoned properly first.
-●If Berserk Dragon is removed from play with Interdimension Matter Transporter, you can't try to resolve Berserk Dragon's effect before it returns to play; you must return it to play first and then it loses 500 ATK.
-●While Skill Drain is active, Berserk Dragon's effects are negated. But Berserk Dragon's effect doesn't count turns, so if Skill Drain was active for 4 turns, and is then destroyed, don't reduce Berserk Dragon's ATK for those 4 turns.
+*   Berserk Dragon Cannot be Normal Summoned or Set, and Cannot be Special Summoned EXCEPT by the effect of A Deal with Dark Ruler. So Berserk Dragon Cannot be Special Summoned with Monster Reborn, etc., even if Special Summoned properly first.
+*   If Berserk Dragon is removed from play with Interdimension Matter Transporter, you can't try to resolve Berserk Dragon's effect before it returns to play; you must return it to play first and then it loses 500 ATK.
+*   While Skill Drain is active, Berserk Dragon's effects are negated. But Berserk Dragon's effect doesn't count turns, so if Skill Drain was active for 4 turns, and is then destroyed, don't reduce Berserk Dragon's ATK for those 4 turns.
             

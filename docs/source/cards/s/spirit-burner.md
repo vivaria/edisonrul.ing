@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Spirit%20Burner
 
 ### Card Rulings
 
-●Each effect of this card starts a Chain.
+*   Each effect of this card starts a Chain.
             

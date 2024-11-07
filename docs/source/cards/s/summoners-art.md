@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Summoner's%20Art
 
 ### Card Rulings
 
-●You can't activate this card if you have no Level 5 or higher Normal Monsters in your Deck.
+*   You can't activate this card if you have no Level 5 or higher Normal Monsters in your Deck.
             

@@ -29,12 +29,12 @@ Source: https://edisonformat.net/card?name=Preparation%20of%20Rites
 
 ### Card Rulings
 
-●You can activate this card even if there are no Ritual Spell Cards in your GY.
-●This effect resolves sequentially (do 1A, then 1B).
-●The (1A) effect to add 1 Level 7 or lower Ritual Monster Card is mandatory.
-●If this is the last thing to happen, Drastic Drop Off CAN be activated.
-●The (1B) effect is optional. If used, it is the last thing to happen.
-●You don't declare your intent to use this portion of the effect.
-●This does not target a Ritual Spell Card in the GY. It is not negated by Necrovalley.
-●If this is the last thing to happen, Drastic Drop Off can't be activated.
+*   You can activate this card even if there are no Ritual Spell Cards in your GY.
+*   This effect resolves sequentially (do 1A, then 1B).
+*   The (1A) effect to add 1 Level 7 or lower Ritual Monster Card is mandatory.
+*   If this is the last thing to happen, Drastic Drop Off CAN be activated.
+*   The (1B) effect is optional. If used, it is the last thing to happen.
+*   You don't declare your intent to use this portion of the effect.
+*   This does not target a Ritual Spell Card in the GY. It is not negated by Necrovalley.
+*   If this is the last thing to happen, Drastic Drop Off can't be activated.
             

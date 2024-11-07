@@ -25,6 +25,6 @@ Source: https://edisonformat.net/card?name=Skyscraper
 
 ### Card Rulings
 
-● This effect can apply either before or after the 1 manual Chain in Damage Calculation.
+*   This effect can apply either before or after the 1 manual Chain in Damage Calculation.
 (it applies as soon as possible, but only once per battle).
             

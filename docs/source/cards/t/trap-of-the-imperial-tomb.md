@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Trap%20of%20the%20Imperial%20Tomb
 
 ### Card Rulings
 
-●This card targets the 2 cards to be destroyed.
-●You can't activate this card during the Damage Step.
+*   This card targets the 2 cards to be destroyed.
+*   You can't activate this card during the Damage Step.
             

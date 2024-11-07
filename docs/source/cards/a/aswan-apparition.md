@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Aswan%20Apparition
 
 ### Card Rulings
 
-●The Trigger Effect is optional, it activates & resolves on the field.
-●This effect activates in Substep 5 - After Damage Calculation.
-●This effect targets a card in the GY, it will be negated by Necrovalley.
+*   The Trigger Effect is optional, it activates & resolves on the field.
+*   This effect activates in Substep 5 - After Damage Calculation.
+*   This effect targets a card in the GY, it will be negated by Necrovalley.
             

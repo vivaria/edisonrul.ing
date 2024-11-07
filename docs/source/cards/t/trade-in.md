@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Trade-In
 ### Card Rulings
 
 Discard 1 Level 8 monster. Draw 2 cards.
-●Discarding a Level 8 monster is a cost.
-●This card can be activated while Macro Cosmos / Dimensional Fissure apply their effects.
+*   Discarding a Level 8 monster is a cost.
+*   This card can be activated while Macro Cosmos / Dimensional Fissure apply their effects.
             

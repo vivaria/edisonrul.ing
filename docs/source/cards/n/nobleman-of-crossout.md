@@ -27,13 +27,13 @@ Source: https://edisonformat.net/card?name=Nobleman%20of%20Crossout
 
 ### Card Rulings
 
-● The card targets 1 set monster on the field.
+*   The card targets 1 set monster on the field.
 
-● If the target is not face-down when this effect resolves, it is not destroyed. Neither player reveals their deck or banishes cards.
+*   If the target is not face-down when this effect resolves, it is not destroyed. Neither player reveals their deck or banishes cards.
 
-● If the target is destroyed, and it was a Flip Monster, both players must briefly reveal their decks to verify that all copies of that monster have been banished, unless all legal copies are accounted for.
+*   If the target is destroyed, and it was a Flip Monster, both players must briefly reveal their decks to verify that all copies of that monster have been banished, unless all legal copies are accounted for.
 - When playing on an online manual simulator (e.g. "Dueling Book"), neither player reveals their deck to avoid foul play.
 
-●vs. "Imperial Iron Wall": This card cannot be activated while the effect of "Imperial Iron Wall" is applying.
+*   vs. "Imperial Iron Wall": This card cannot be activated while the effect of "Imperial Iron Wall" is applying.
 - if "Imperial Iron Wall" is chained to this card, the target is still destroyed but neither player reveals their deck or banishes cards.
             

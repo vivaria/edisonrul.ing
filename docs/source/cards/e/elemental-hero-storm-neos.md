@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Storm%20Neos
 
 ### Card Rulings
 
-●Elemental Hero Storm Neos' effect that destroys Spell and Trap Cards is an Ignition Effect.
+*   Elemental Hero Storm Neos' effect that destroys Spell and Trap Cards is an Ignition Effect.
             

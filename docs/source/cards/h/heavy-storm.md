@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Heavy%20Storm
 
 ### Card Rulings
 
-● This card does not destroy itself (it's still sent to the GY when the chain resolves).
+*   This card does not destroy itself (it's still sent to the GY when the chain resolves).
             

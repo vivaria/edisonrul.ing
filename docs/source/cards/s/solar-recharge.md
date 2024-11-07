@@ -25,5 +25,5 @@ Source: https://edisonformat.net/card?name=Solar%20Recharge
 
 ### Card Rulings
 
-● You cannot activate this card if you have 3 or fewer cards remaining in your Deck.
+*   You cannot activate this card if you have 3 or fewer cards remaining in your Deck.
             

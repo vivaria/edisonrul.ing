@@ -33,6 +33,6 @@ Source: https://edisonformat.net/card?name=Mind%20Control
 
 ### Card Rulings
 
-● Even if the monster is flipped face-down, this card will take control of it, and control will return in the End Phase.
-● Even if the monster is flipped face-down, it still can't be tributed nor declare an attack.
+*   Even if the monster is flipped face-down, this card will take control of it, and control will return in the End Phase.
+*   Even if the monster is flipped face-down, it still can't be tributed nor declare an attack.
             

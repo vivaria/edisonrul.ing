@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Meteor%20Flare
 
 ### Card Rulings
 
-●Sending 2 cards from your hand to the GY is a cost.
-●If your opponent’s Life Points drop to 3000 or lower before this effect resolves you will still inflict 2000 damage to them.
-●The effect of “Meteor Flare” that activates in your GY is Spell Speed 2.
+*   Sending 2 cards from your hand to the GY is a cost.
+*   If your opponent’s Life Points drop to 3000 or lower before this effect resolves you will still inflict 2000 damage to them.
+*   The effect of “Meteor Flare” that activates in your GY is Spell Speed 2.
             

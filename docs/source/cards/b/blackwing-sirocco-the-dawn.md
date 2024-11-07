@@ -35,7 +35,7 @@ Source: https://edisonformat.net/card?name=Blackwing%20-%20Sirocco%20the%20Dawn
 
 ### Card Rulings
 
-● The ① stops applying in the End Phase of the turn it was activated.
-● The target gains ATK equal to the ATK of all Blackwings on the field - including your opponent's.
-● If the target is set, and then flipped face-up, it doesn't gain any ATK, and you can't attack with it.
+*   The ① stops applying in the End Phase of the turn it was activated.
+*   The target gains ATK equal to the ATK of all Blackwings on the field - including your opponent's.
+*   If the target is set, and then flipped face-up, it doesn't gain any ATK, and you can't attack with it.
             

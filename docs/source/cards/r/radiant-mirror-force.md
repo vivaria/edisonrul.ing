@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Radiant%20Mirror%20Force
 
 ### Card Rulings
 
-●If the number of Attack Position monsters becomes 2 or less due to an effect chained to this card, all Attack Position monsters your opponent controls are still destroyed when this card resolves.
+*   If the number of Attack Position monsters becomes 2 or less due to an effect chained to this card, all Attack Position monsters your opponent controls are still destroyed when this card resolves.
             

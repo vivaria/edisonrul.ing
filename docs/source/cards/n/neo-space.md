@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Neo%20Space
 
 ### Card Rulings
 
-●If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior-Type monster, “UFOroid Fighter” won't be affected by “Neo Space” because “Elemental Hero Neos” is not listed by name on the card.
+*   If “UFOroid Fighter” is Fusion Summoned with “Elemental Hero Neos” being used as the 1 Warrior-Type monster, “UFOroid Fighter” won't be affected by “Neo Space” because “Elemental Hero Neos” is not listed by name on the card.
             

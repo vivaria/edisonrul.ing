@@ -27,9 +27,9 @@ Source: https://edisonformat.net/card?name=Theinen%20the%20Great%20Sphinx
 
 ### Card Rulings
 
-● The only way you can Special Summon this card is via its trigger effect.
+*   The only way you can Special Summon this card is via its trigger effect.
 Even if it was initially summoned that way, you still can't summon it with card effects.
-● The effect to summon this card is a Trigger effect. It can activate while in the hand/Deck.
+*   The effect to summon this card is a Trigger effect. It can activate while in the hand/Deck.
 You can't activate the effects of 2 or more of this card's effect in the same Chain, so you can only Summon 1 "Thenien the Great Sphinx" at a time.
-● Both of this card's effects are optional, and both can can miss their timing.
+*   Both of this card's effects are optional, and both can can miss their timing.
             

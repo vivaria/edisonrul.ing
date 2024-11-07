@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Soul%20of%20Fire
 
 ### Card Rulings
 
-●“Your opponent draws 1 card” is not a cost to activate this card. It is part of the effect.
-●You can't activate Soul of Fire if there are no Pyro-Type Monsters remaining in your Deck.
+*   “Your opponent draws 1 card” is not a cost to activate this card. It is part of the effect.
+*   You can't activate Soul of Fire if there are no Pyro-Type Monsters remaining in your Deck.
             

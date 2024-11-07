@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Firestorm%20Prominence
 
 ### Card Rulings
 
-●This card’s effect will destroy “Elemental Mistress Doriado”.
+*   This card’s effect will destroy “Elemental Mistress Doriado”.
             

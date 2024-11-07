@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Golden%20Bamboo%20Sword
 
 ### Card Rulings
 
-●If every Bamboo Sword Equip Card you control is removed from field after you activate Golden Bamboo Sword, you will still draw 2 cards.
+*   If every Bamboo Sword Equip Card you control is removed from field after you activate Golden Bamboo Sword, you will still draw 2 cards.
             

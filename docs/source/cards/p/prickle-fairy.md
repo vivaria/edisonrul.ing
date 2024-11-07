@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Prickle%20Fairy
 
 ### Card Rulings
 
-●If Prickle Fairy is changed to an Insect-Type monster with DNA Surgery, your opponent can't attack.
+*   If Prickle Fairy is changed to an Insect-Type monster with DNA Surgery, your opponent can't attack.
             

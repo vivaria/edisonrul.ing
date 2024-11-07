@@ -29,12 +29,12 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Wildheart
 ### Card Rulings
 
 This card is unaffected by:
-● Battle Mania
-● Skill Drain, but only if Skill Drain was activated while this card's effect was already applying.
-● The "banish it during the End Phase" effect of "Return from the Different Dimension".
+*   Battle Mania
+*   Skill Drain, but only if Skill Drain was activated while this card's effect was already applying.
+*   The "banish it during the End Phase" effect of "Return from the Different Dimension".
 
 This card is affected by:
-● This card can be used to pay a cost of, and can still be targeted by, Trap Cards.
-● If "Waboku" is activated, this does not inflict any Battle Damage and monsters can't be destroyed by battle.
-● If "Threatening Roar" is activated, you can't declare an attack with this card.
+*   This card can be used to pay a cost of, and can still be targeted by, Trap Cards.
+*   If "Waboku" is activated, this does not inflict any Battle Damage and monsters can't be destroyed by battle.
+*   If "Threatening Roar" is activated, you can't declare an attack with this card.
             

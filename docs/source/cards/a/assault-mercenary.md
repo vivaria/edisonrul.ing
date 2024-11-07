@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Assault%20Mercenary
 
 ### Card Rulings
 
-●The Ignition Effect activates & resolves on the field.
-●Returning the “Assault Mode Activate” to the Deck is a cost.
-●This effect targets the Spell or Trap Card you wish to destroy.
-●If you return “Assault Mode Activate” from your hand to the Deck, reveal it to your opponent. 
+*   The Ignition Effect activates & resolves on the field.
+*   Returning the “Assault Mode Activate” to the Deck is a cost.
+*   This effect targets the Spell or Trap Card you wish to destroy.
+*   If you return “Assault Mode Activate” from your hand to the Deck, reveal it to your opponent.
             

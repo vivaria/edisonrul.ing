@@ -46,5 +46,5 @@ Source: https://edisonformat.net/card?name=Deck%20Devastation%20Virus
 
 ### Card Rulings
 
-● Monsters with ? ATK are treated as having 0 attack while face-down on the field or in the hand for this card, and will be destroyed by this effect.
+*   Monsters with ? ATK are treated as having 0 attack while face-down on the field or in the hand for this card, and will be destroyed by this effect.
             

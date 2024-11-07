@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Dark%20Tinker
 
 ### Card Rulings
 
-●The Trigger Effect is mandatory.
-●This effect only activates when it is sent from your side of the field to your GY.
-●This effect does not activate if “Dark Tinker” is sent to your GY under your opponent's control.
+*   The Trigger Effect is mandatory.
+*   This effect only activates when it is sent from your side of the field to your GY.
+*   This effect does not activate if “Dark Tinker” is sent to your GY under your opponent's control.
             

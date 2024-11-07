@@ -25,5 +25,5 @@ Source: https://edisonformat.net/card?name=All-Out%20Attacks
 
 ### Card Rulings
 
-● This card's effect can't be activated in the same Chain Link as the card itself being activated.
+*   This card's effect can't be activated in the same Chain Link as the card itself being activated.
             

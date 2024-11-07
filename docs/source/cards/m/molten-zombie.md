@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Molten%20Zombie
 
 ### Card Rulings
 
-●If you Special Summon Molten Zombie face-down with The Shallow Grave, etc., its effect does not activate.
-●When you Special Summon Molten Zombie and you have Card of Safe Return, either effect can be Step 1 of the chain; your choice.
+*   If you Special Summon Molten Zombie face-down with The Shallow Grave, etc., its effect does not activate.
+*   When you Special Summon Molten Zombie and you have Card of Safe Return, either effect can be Step 1 of the chain; your choice.
             

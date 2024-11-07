@@ -33,6 +33,6 @@ Source: https://edisonformat.net/card?name=Honest
 
 ### Card Rulings
 
-● This effect can be activated at any point in the Damage Step, up to and including Substep 4 "During Damage Calculation".
-● If you say "Damage Step?", and activate this effect, you have activated it at the Start of the Damage Step (or the earliest legal substep), not During Damage Calculation.
+*   This effect can be activated at any point in the Damage Step, up to and including Substep 4 "During Damage Calculation".
+*   If you say "Damage Step?", and activate this effect, you have activated it at the Start of the Damage Step (or the earliest legal substep), not During Damage Calculation.
             

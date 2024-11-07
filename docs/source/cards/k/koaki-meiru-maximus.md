@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Koa'ki%20Meiru%20Maximus
 
 ### Card Rulings
 
-● The Ⓜ in this card's text is a maintenance cost. It is not an effect, does not activate, and can't be negated.
-● As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
+*   The Ⓜ in this card's text is a maintenance cost. It is not an effect, does not activate, and can't be negated.
+*   As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
 you can Summon it from the GY with card effects.
             

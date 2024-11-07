@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=The%20Beginning%20of%20the%20End
 
 ### Card Rulings
 
-●Removing from play 5 DARK monsters from your GY is a cost to activate this card.
+*   Removing from play 5 DARK monsters from your GY is a cost to activate this card.
             

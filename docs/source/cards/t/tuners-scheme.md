@@ -24,5 +24,5 @@ Source: https://edisonformat.net/card?name=Tuner's%20Scheme
 
 ### Card Rulings
 
-● If 'Starlight Road' is activated at chain link 2 or higher, this card can't be activated when Stardust Dragon is Special Summoned.
+*   If 'Starlight Road' is activated at chain link 2 or higher, this card can't be activated when Stardust Dragon is Special Summoned.
             

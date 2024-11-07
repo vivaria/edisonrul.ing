@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Grinder%20Golem
 
 ### Card Rulings
 
-●You can't Special Summon Grinder Golem if you don't have 2 open Monster Zone Spaces for the Grinder Tokens.
-●If your opponent negates the Special Summon of Grinder Golem, the Grinder Tokens remain on your side of the field and you can't Normal Summon or Set that turn.
-●If you Special Summon Grinder Golem while King Tiger Wanghu is face-up on the field, its effect activates to destroy the Grinder Tokens after Grinder Golem is Special Summoned.
+*   You can't Special Summon Grinder Golem if you don't have 2 open Monster Zone Spaces for the Grinder Tokens.
+*   If your opponent negates the Special Summon of Grinder Golem, the Grinder Tokens remain on your side of the field and you can't Normal Summon or Set that turn.
+*   If you Special Summon Grinder Golem while King Tiger Wanghu is face-up on the field, its effect activates to destroy the Grinder Tokens after Grinder Golem is Special Summoned.
             

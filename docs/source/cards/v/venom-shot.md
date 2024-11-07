@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Venom%20Shot
 
 ### Card Rulings
 
-●You can't activate this card if there are no Reptile-Type monsters in your Deck.
+*   You can't activate this card if there are no Reptile-Type monsters in your Deck.
             

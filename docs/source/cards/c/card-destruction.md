@@ -24,9 +24,9 @@ Source: https://edisonformat.net/card?name=Card%20Destruction
 ### Card Rulings
 
 You can't activate this card if:
-● Both players have 0 cards in their hands.
-● The number of cards in your Deck is less than the number of cards in your hand (excluding this card).
+*   Both players have 0 cards in their hands.
+*   The number of cards in your Deck is less than the number of cards in your hand (excluding this card).
 You can activate this card if:
-● Either player has 0 cards in their hand (but not both).
-● The number of cards in your opponent's Deck is less than the number of cards in their hand.
+*   Either player has 0 cards in their hand (but not both).
+*   The number of cards in your opponent's Deck is less than the number of cards in their hand.
             

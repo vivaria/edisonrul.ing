@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Judgment%20of%20Thunder
 
 ### Card Rulings
 
-●Judgment of Thunder can't be activated in the Damage Step.
-●Judgment of Thunder targets 1 card your opponent controls.
+*   Judgment of Thunder can't be activated in the Damage Step.
+*   Judgment of Thunder targets 1 card your opponent controls.
             

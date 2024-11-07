@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Medium%20Piece%20Golem
 
 ### Card Rulings
 
-●If Medium Piece Golem is Special Summoned during the Damage Step, you can activate its effect.
+*   If Medium Piece Golem is Special Summoned during the Damage Step, you can activate its effect.
             

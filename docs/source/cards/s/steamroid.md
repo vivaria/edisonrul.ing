@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Steamroid
 
 ### Card Rulings
 
-●The effect of “Steamroid” is a Continuous Effect that can't be chained to.
+*   The effect of “Steamroid” is a Continuous Effect that can't be chained to.
             

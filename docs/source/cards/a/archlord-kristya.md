@@ -36,16 +36,16 @@ Source: https://edisonformat.net/card?name=Archlord%20Kristya
 ### Card Rulings
 
 This card is returned to the top of the Deck if:
-● It would be sent to the GY while "Macro Cosmos" is applying.
-● It would be sent from the Spell/Trap Zone to the GY.
+*   It would be sent to the GY while "Macro Cosmos" is applying.
+*   It would be sent from the Spell/Trap Zone to the GY.
 
 This card is NOT returned to the top of the Deck if:
-● It is destroyed and banished by "Bottomless Trap Hole".
-● Its Summon is negated by "Solemn Judgment" or "Thunder King Rai-Oh".
-● It would be sent from the field to the GY while "Skill Drain" is applying.
-● It would be sent from the field to the GY while "Grave Protector" is applying.
-● It would be sent from the field to the GY while "G.B. Hunter" is applying.
-● It would be sent from the field to the GY while face-down (unless it was destroyed by battle).
+*   It is destroyed and banished by "Bottomless Trap Hole".
+*   Its Summon is negated by "Solemn Judgment" or "Thunder King Rai-Oh".
+*   It would be sent from the field to the GY while "Skill Drain" is applying.
+*   It would be sent from the field to the GY while "Grave Protector" is applying.
+*   It would be sent from the field to the GY while "G.B. Hunter" is applying.
+*   It would be sent from the field to the GY while face-down (unless it was destroyed by battle).
 
-●If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
+*   If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
             

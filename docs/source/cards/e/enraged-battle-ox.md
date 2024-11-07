@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Enraged%20Battle%20Ox
 
 ### Card Rulings
 
-●For Enraged Battle Ox's effect to activate, the attacked monster must be in Defense Position during damage calculation. So if Final Attack Orders is active, Enraged Battle Ox's effect won't be applied.
+*   For Enraged Battle Ox's effect to activate, the attacked monster must be in Defense Position during damage calculation. So if Final Attack Orders is active, Enraged Battle Ox's effect won't be applied.
             

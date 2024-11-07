@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Newdoria
 
 ### Card Rulings
 
-●This effect targets 1 monster.
-●You can destroy a face-down monster with Newdoria.
+*   This effect targets 1 monster.
+*   You can destroy a face-down monster with Newdoria.
             

@@ -23,17 +23,17 @@ Source: https://edisonformat.net/card?name=Chain%20Material
 
 ### Card Rulings
 
-● You do not have to apply this effect when Fusion Summoning during the turn it was activated.
+*   You do not have to apply this effect when Fusion Summoning during the turn it was activated.
 
-● You can't apply this effect effect when resolving Instant Fusion or Future Fusion.
+*   You can't apply this effect effect when resolving Instant Fusion or Future Fusion.
 
-● You can apply this effect when resolving Super Polymerization, but you can only banish cards that you control.
+*   You can apply this effect when resolving Super Polymerization, but you can only banish cards that you control.
 
-● This effect can be applied for every Fusion Summon performed during the turn it is activated.
+*   This effect can be applied for every Fusion Summon performed during the turn it is activated.
 
-●You cannot choose to banish 1 Fusion Material while sending the other Fusion Material Monsters to the GY.
+*   You cannot choose to banish 1 Fusion Material while sending the other Fusion Material Monsters to the GY.
 
-● If this card's effect is negated, you still cannot attack this turn. If this card's activation is negated, you may attack this turn.
+*   If this card's effect is negated, you still cannot attack this turn. If this card's activation is negated, you may attack this turn.
 
-● If "Trap Stun" or "Royal Decree" is activated after this card has successfully resolved, you may still apply this effect. Any monster(s) summoned with this effect are still destroyed in the End Phase.
+*   If "Trap Stun" or "Royal Decree" is activated after this card has successfully resolved, you may still apply this effect. Any monster(s) summoned with this effect are still destroyed in the End Phase.
             

@@ -29,5 +29,5 @@ Source: https://edisonformat.net/card?name=Debris%20Dragon
 
 ### Card Rulings
 
-● The Ⓒs in this card’s text are conditions, not effects. They can't be negated.
+*   The Ⓒs in this card’s text are conditions, not effects. They can't be negated.
             

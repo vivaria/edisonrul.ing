@@ -28,5 +28,5 @@ Source: https://edisonformat.net/card?name=Hyper%20Psychic%20Blaster
 
 ### Card Rulings
 
-● If the opponent's monster is no longer on the field (if it was destroyed by battle, or if it was a token), use its original DEF.
+*   If the opponent's monster is no longer on the field (if it was destroyed by battle, or if it was a token), use its original DEF.
             

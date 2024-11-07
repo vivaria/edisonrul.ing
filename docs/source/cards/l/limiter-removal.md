@@ -27,6 +27,6 @@ Source: https://edisonformat.net/card?name=Limiter%20Removal
 
 ### Card Rulings
 
-● The monsters affected by this card are only the monsters you control when this effect resolves, even if they were not on field at activation.
-● Any monsters later flipped face-down are not destroyed in the End Phase.
+*   The monsters affected by this card are only the monsters you control when this effect resolves, even if they were not on field at activation.
+*   Any monsters later flipped face-down are not destroyed in the End Phase.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Twin-Sword%20Marauder
 
 ### Card Rulings
 
-●If the attacked monster was originally in Attack Position, but is changed to Defense Position before damage calculation, the effect of “Twin-Sword Marauder” will activate.
+*   If the attacked monster was originally in Attack Position, but is changed to Defense Position before damage calculation, the effect of “Twin-Sword Marauder” will activate.
             

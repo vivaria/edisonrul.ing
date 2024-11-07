@@ -38,5 +38,5 @@ Source: https://edisonformat.net/card?name=Gragonith,%20Lightsworn%20Dragon
 
 ### Card Rulings
 
-● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+*   If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
             

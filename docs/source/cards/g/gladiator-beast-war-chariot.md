@@ -29,5 +29,5 @@ Source: https://edisonformat.net/card?name=Gladiator%20Beast%20War%20Chariot
 
 ### Card Rulings
 
-● This card is a Counter Trap, so it can be used in the Damage Step, even during Damage Calculation.
+*   This card is a Counter Trap, so it can be used in the Damage Step, even during Damage Calculation.
             

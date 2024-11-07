@@ -33,7 +33,7 @@ Source: https://edisonformat.net/card?name=Savage%20Colosseum
 ### Card Rulings
 
 If an attacking monster is removed from the field before the end of the Damage Step, the ① does not activate.
-● The effect to destroy monsters activates every End Phase even if there aren’t any monsters on the field. It only activates once each End Phase.
-● If an attack is negated (eg, by XX-Saber Fulhelmknight or Negate Attack), that monster did not declare an attack and will be destroyed by the ③.
-● If an attack is stopped but not negated (eg, Gravity Bind was activated in response to the attack), that monster did declare an attack and won't be destroyed by the ③.
+*   The effect to destroy monsters activates every End Phase even if there aren’t any monsters on the field. It only activates once each End Phase.
+*   If an attack is negated (eg, by XX-Saber Fulhelmknight or Negate Attack), that monster did not declare an attack and will be destroyed by the ③.
+*   If an attack is stopped but not negated (eg, Gravity Bind was activated in response to the attack), that monster did declare an attack and won't be destroyed by the ③.
             

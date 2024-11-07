@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Cyber%20Archfiend
 
 ### Card Rulings
 
-●If this card is face-down during the End Phase, it is not destroyed by its effect.
-●If you have multiple “Cyber Archfiends” on the field during the Draw Phase, their effects form a chain.
+*   If this card is face-down during the End Phase, it is not destroyed by its effect.
+*   If you have multiple “Cyber Archfiends” on the field during the Draw Phase, their effects form a chain.
             

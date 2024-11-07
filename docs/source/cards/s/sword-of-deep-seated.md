@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Sword%20of%20Deep-Seated
 
 ### Card Rulings
 
-●Sword of Deep-Seated's second effect is a Trigger Effect.
-●If your Sangan equipped with your Sword of Deep-Seated is sent to the GY, the effect of Sangan and Sword of Deep-Seated form a Chain. You decide their order on the Chain.
-●If Sword of Deep-Seated is sent to the GY while resolving Reasoning, its effect starts a new Chain after you finish resolving Reasoning.
+*   Sword of Deep-Seated's second effect is a Trigger Effect.
+*   If your Sangan equipped with your Sword of Deep-Seated is sent to the GY, the effect of Sangan and Sword of Deep-Seated form a Chain. You decide their order on the Chain.
+*   If Sword of Deep-Seated is sent to the GY while resolving Reasoning, its effect starts a new Chain after you finish resolving Reasoning.
             

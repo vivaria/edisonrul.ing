@@ -32,16 +32,16 @@ Source: https://edisonformat.net/card?name=Evil%20HERO%20Infernal%20Prodigy
 
 ### Card Rulings
 
-● This card's Summon does not start a chain, so "Thunder King Rai-Oh" can negate it.
+*   This card's Summon does not start a chain, so "Thunder King Rai-Oh" can negate it.
 
 The ② won't activate if:
-● The Tribute Summon was negated (eg by Solemn Judgment).
-● Prodigy was Tributed to Tribute Set a HERO monster.
-● Prodigy is not in the GY or Banished during the End Phase.
-● Prodigy was Tributed this turn, and is banished, but was then returned to the GY.
+*   The Tribute Summon was negated (eg by Solemn Judgment).
+*   Prodigy was Tributed to Tribute Set a HERO monster.
+*   Prodigy is not in the GY or Banished during the End Phase.
+*   Prodigy was Tributed this turn, and is banished, but was then returned to the GY.
 
 The ② will activate even if:
-● Prodigy was Tributed and sent to the GY, and was then banished from the GY.
-● Prodigy was Tributed while "Macro Cosmos" was applying.
-● The Tribute Summoned monster left the field before the EP.
+*   Prodigy was Tributed and sent to the GY, and was then banished from the GY.
+*   Prodigy was Tributed while "Macro Cosmos" was applying.
+*   The Tribute Summoned monster left the field before the EP.
             

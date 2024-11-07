@@ -21,11 +21,11 @@ Source: https://edisonformat.net/card?name=Allure%20of%20Darkness
 
 ### Card Rulings
 
-● Banishing/Sending is not a choice.
+*   Banishing/Sending is not a choice.
 If you have a DARK in hand, you must banish it.
 If you don't, you must send your entire hand to the GY.
-● If "Imperial Iron Wall" is chained to this card:
+*   If "Imperial Iron Wall" is chained to this card:
 If you have a DARK in hand, you must reveal it, but is isn't banished.
 If you don't, you must send your entire hand to the GY.
-● You can't activate this card if "Imperial Iron Wall" is applying.
+*   You can't activate this card if "Imperial Iron Wall" is applying.
             

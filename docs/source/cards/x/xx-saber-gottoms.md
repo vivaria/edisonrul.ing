@@ -27,7 +27,7 @@ Source: https://edisonformat.net/card?name=XX-Saber%20Gottoms
 
 ### Card Rulings
 
-● This card’s Synchro Material Requirements are “1 Tuner + 1 or more EARTH monsters”.
+*   This card’s Synchro Material Requirements are “1 Tuner + 1 or more EARTH monsters”.
 (You can use Tuners as “1 or more EARTH monsters”, since it doesn’t specify “Non-Tuner monsters”).
-● XX-Saber monsters are also “X-Saber” monsters.
+*   XX-Saber monsters are also “X-Saber” monsters.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Interdimensional%20Warp
 
 ### Card Rulings
 
-●“Interdimensional Warp” targets the monster you control and your opponent’s monster with A-Counter(s).
+*   “Interdimensional Warp” targets the monster you control and your opponent’s monster with A-Counter(s).
             

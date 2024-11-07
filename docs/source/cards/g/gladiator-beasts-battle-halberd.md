@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Gladiator%20Beast's%20Battle%20Halber
 
 ### Card Rulings
 
-●The effect of “Gladiator Beast’s Battle Halberd” that destroys 1 Spell or Trap Card at the end of the Damage Step begins a Chain.
+*   The effect of “Gladiator Beast’s Battle Halberd” that destroys 1 Spell or Trap Card at the end of the Damage Step begins a Chain.
             

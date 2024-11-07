@@ -28,11 +28,11 @@ Source: https://edisonformat.net/card?name=Attack%20of%20the%20Cornered%20Rat
 
 ### Card Rulings
 
-●The Quick Effect activates & resolves on the field.
-●This effect targets the opponent’s monster.
-●Paying Life Points is a cost.
-●You can activate “Attack of the Cornered Rat” (and/or its effect) during damage calculation, or at any point in the Damage Step prior to damage calculation.
-●You can only activate this effect once during the same Damage Step. You can't over-pay for “Attack of the Cornered Rat.”
-●You can't flip “Attack of the Cornered Rat” face-up during the Damage Step unless you would also activate its effect at the same time (by paying Life Points).
-●If “Attack of the Cornered Rat” is removed from the field before the End Phase, the ATK reduction remains until the End Phase, as normal.
+*   The Quick Effect activates & resolves on the field.
+*   This effect targets the opponent’s monster.
+*   Paying Life Points is a cost.
+*   You can activate “Attack of the Cornered Rat” (and/or its effect) during damage calculation, or at any point in the Damage Step prior to damage calculation.
+*   You can only activate this effect once during the same Damage Step. You can't over-pay for “Attack of the Cornered Rat.”
+*   You can't flip “Attack of the Cornered Rat” face-up during the Damage Step unless you would also activate its effect at the same time (by paying Life Points).
+*   If “Attack of the Cornered Rat” is removed from the field before the End Phase, the ATK reduction remains until the End Phase, as normal.
             

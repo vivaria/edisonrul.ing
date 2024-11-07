@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Magical%20Merchant
 
 ### Card Rulings
 
-●If you pick up your entire Deck and there were no Spell/Trap Cards, the rest of the cards are shuffled back into the Deck.
+*   If you pick up your entire Deck and there were no Spell/Trap Cards, the rest of the cards are shuffled back into the Deck.
 If "Thunder King Rai-Oh" is applying, all the revealed cards, including the Spell/Trap, are sent to the GY.
             

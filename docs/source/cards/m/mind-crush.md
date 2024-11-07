@@ -29,11 +29,11 @@ Source: https://edisonformat.net/card?name=Mind%20Crush
 
 ### Card Rulings
 
-● You can't activate this card if you don't have a card in your own hand.
+*   You can't activate this card if you don't have a card in your own hand.
 
 Historically, at SJC Edison, the following rulings applied:
-● If your opponent discarded at least 1 card, they don't reveal their hand.
-● If they did not discard anything, they must reveal their hand (even if they declared a limited card which is in their GY).
+*   If your opponent discarded at least 1 card, they don't reveal their hand.
+*   If they did not discard anything, they must reveal their hand (even if they declared a limited card which is in their GY).
 Please note that not all Edison Format Tournaments use Edison Format rulings.
 Ask your Head Judge if they are using the historically accurate ruling.
             

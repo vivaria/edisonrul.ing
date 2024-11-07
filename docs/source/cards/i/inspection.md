@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Inspection
 
 ### Card Rulings
 
-●Inspection's effect can be activated multiple times during the same Standby Phase.
+*   Inspection's effect can be activated multiple times during the same Standby Phase.
             

@@ -26,6 +26,6 @@ Source: https://edisonformat.net/card?name=Lonefire%20Blossom
 
 ### Card Rulings
 
-● If this card tributes itself, it won't be negated by "Skill Drain".
-● When this card is Summoned during its controller's turn, its effect can be activated with ignition priority.
+*   If this card tributes itself, it won't be negated by "Skill Drain".
+*   When this card is Summoned during its controller's turn, its effect can be activated with ignition priority.
             

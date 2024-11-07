@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Gale%20Dogra
 
 ### Card Rulings
 
-●You can't Special Summon a monster sent from the Extra Deck to your GY with cards like “Monster Reborn,” “The Shallow Grave,” or “Call of the Haunted.
+*   You can't Special Summon a monster sent from the Extra Deck to your GY with cards like “Monster Reborn,” “The Shallow Grave,” or “Call of the Haunted.
             

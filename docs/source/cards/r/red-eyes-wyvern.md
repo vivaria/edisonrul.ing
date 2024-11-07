@@ -30,8 +30,8 @@ Source: https://edisonformat.net/card?name=Red-Eyes%20Wyvern
 
 ### Card Rulings
 
-● This effect targets the "Red-Eyes" monster in your GY.
-● "Normal Summon/Set" refers to Monster Cards, not Setting Spell/Trap Cards.
-● If you discard this card due to hand size, its effect can't be activated that same End Phase.
-● If your Normal Summon was negated by "Solemn Judgment", this card's effect can't be activated in the End Phase.
+*   This effect targets the "Red-Eyes" monster in your GY.
+*   "Normal Summon/Set" refers to Monster Cards, not Setting Spell/Trap Cards.
+*   If you discard this card due to hand size, its effect can't be activated that same End Phase.
+*   If your Normal Summon was negated by "Solemn Judgment", this card's effect can't be activated in the End Phase.
             

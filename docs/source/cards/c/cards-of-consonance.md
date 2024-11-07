@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cards%20of%20Consonance
 
 ### Card Rulings
 
-●Discarding is a cost to activate “Cards of Consonance.”
+*   Discarding is a cost to activate “Cards of Consonance.”
             

@@ -29,6 +29,6 @@ Source: https://edisonformat.net/card?name=8-Claws%20Scorpion
 
 ### Card Rulings
 
-● This card's ① effect can only be used once per turn.
+*   This card's ① effect can only be used once per turn.
 (It "remembers" if it used this effect even after being Set).
             

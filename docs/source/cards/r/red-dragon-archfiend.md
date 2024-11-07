@@ -32,6 +32,6 @@ Source: https://edisonformat.net/card?name=Red%20Dragon%20Archfiend
 
 ### Card Rulings
 
-● The ① effect activates before Flips, or effects like “D.D. Warrior” or Giant Rat” can activate.
+*   The ① effect activates before Flips, or effects like “D.D. Warrior” or Giant Rat” can activate.
 (A Flip Effect monster's effect will activate on a new chain after it is destroyed. The others listed here don’t.)
             

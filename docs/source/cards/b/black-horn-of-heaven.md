@@ -25,10 +25,10 @@ Source: https://edisonformat.net/card?name=Black%20Horn%20of%20Heaven
 
 This card can only negate the Summon of a monster while there is no ongoing chain.
 It can negate:
-● A Synchro/Xyz Summon
-● The Special Summon of "Cyber Dragon" or "Machina Fortress" by its own procedure.
+*   A Synchro/Xyz Summon
+*   The Special Summon of "Cyber Dragon" or "Machina Fortress" by its own procedure.
 
 It can't negate:
-● The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.
-● "Immediately after you do" effects, even if that effect was CL1.
+*   The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.
+*   "Immediately after you do" effects, even if that effect was CL1.
             

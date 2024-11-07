@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Blast%20Juggler
 
 ### Card Rulings
 
-●Blast Juggler targets 2 face-up monsters with 1000 or less ATK.
-●Blast Juggler's effect can't be activated if there is only 1 face-up monster (excluding Blast Juggler) with 1000 or less ATK.
+*   Blast Juggler targets 2 face-up monsters with 1000 or less ATK.
+*   Blast Juggler's effect can't be activated if there is only 1 face-up monster (excluding Blast Juggler) with 1000 or less ATK.
             

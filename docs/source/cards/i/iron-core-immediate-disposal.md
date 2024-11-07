@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Iron%20Core%20Immediate%20Disposal
 
 ### Card Rulings
 
-● You can't activate this card unless there is an "Iron Core of Koa’ki Meiru" in your Deck.
+*   You can't activate this card unless there is an "Iron Core of Koa’ki Meiru" in your Deck.
             

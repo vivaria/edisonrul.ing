@@ -32,10 +32,10 @@ Source: https://edisonformat.net/card?name=Koa'ki%20Meiru%20Drago
 
 ### Card Rulings
 
-● While the ① is applying, "Future Fusion" can't be activated unless a non-LIGHT/DARK is revealed from the Extra Deck.
-● While the ① is applying, "Future Fusion" can't Special Summon a LIGHT-DARK monster during the second Standby Phase. In this case, the Fusion Monster will never be Special Summoned (it won't "try again" the next Standby Phase).
-● The Ⓜ is a Maintenance Cost. It does not activate, and can't be negated.
-● If Iron Core can't be sent to the GY (EG if "Macro Cosmos" is applying), and no Dragon can be revealed, this card is destroyed.
-● If "Mind on Air" is applying, you can't reveal a Dragon, so you must send an Iron Core to the GY or else destroy this card.
-● If this card is destroyed by battle, its effect stops applying in Substep 6 (“Tragoedia” can't be activated)
+*   While the ① is applying, "Future Fusion" can't be activated unless a non-LIGHT/DARK is revealed from the Extra Deck.
+*   While the ① is applying, "Future Fusion" can't Special Summon a LIGHT-DARK monster during the second Standby Phase. In this case, the Fusion Monster will never be Special Summoned (it won't "try again" the next Standby Phase).
+*   The Ⓜ is a Maintenance Cost. It does not activate, and can't be negated.
+*   If Iron Core can't be sent to the GY (EG if "Macro Cosmos" is applying), and no Dragon can be revealed, this card is destroyed.
+*   If "Mind on Air" is applying, you can't reveal a Dragon, so you must send an Iron Core to the GY or else destroy this card.
+*   If this card is destroyed by battle, its effect stops applying in Substep 6 (“Tragoedia” can't be activated)
             

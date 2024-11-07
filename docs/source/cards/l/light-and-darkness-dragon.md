@@ -50,9 +50,9 @@ Source: https://edisonformat.net/card?name=Light%20and%20Darkness%20Dragon
 
 ### Card Rulings
 
-● For the mandatory ③ effect to resolve, this card must be able to both negate the activation and also lose exactly 500 ATK and 500 DEF. If you can’t do either, you do neither.
-● Vs Spirit Monsters, Lyla, Treeborn Frog, Vayu, etc:
+*   For the mandatory ③ effect to resolve, this card must be able to both negate the activation and also lose exactly 500 ATK and 500 DEF. If you can’t do either, you do neither.
+*   Vs Spirit Monsters, Lyla, Treeborn Frog, Vayu, etc:
 These trigger effects will be negated by this card’s ③ effect, and can then trigger again.
 (This can “loop” until Light and Darkness Dragon can’t lose any more ATK/DEF.)
-● Summoning a monster with the ④ happens after cards are destroyed.
+*   Summoning a monster with the ④ happens after cards are destroyed.
             

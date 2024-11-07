@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Coffin%20Seller
 
 ### Card Rulings
 
-●Coffin Seller applies its effect when monster●If multiple monsters are sent to the GY at the same time (due to Dark Hole, etc.) then inflict 300 damage only because it is considered as 1 time.
-●Multiple copies of Coffin Seller are cumulative.
+*   Coffin Seller applies its effect when monster●If multiple monsters are sent to the GY at the same time (due to Dark Hole, etc.) then inflict 300 damage only because it is considered as 1 time.
+*   Multiple copies of Coffin Seller are cumulative.
             

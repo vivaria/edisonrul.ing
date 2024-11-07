@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Recycle
 
 ### Card Rulings
 
-●If you meet the condition enough times, you can activate Recycle as many times as you want in the same Standby Phase.
-●You can't activate Recycle if you have no non-Monster Cards in your GY.
+*   If you meet the condition enough times, you can activate Recycle as many times as you want in the same Standby Phase.
+*   You can't activate Recycle if you have no non-Monster Cards in your GY.
             

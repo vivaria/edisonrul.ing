@@ -28,7 +28,7 @@ Source: https://edisonformat.net/card?name=D.D.%20Warrior%20Lady
 
 ### Card Rulings
 
-● If this card battles a Flip monster, the Flip effect will chain to this card's effect. The flip effect will always be Chain Link 1.
-● If either monster is not banished for some reason, the other monster is still banished.
-● "After Damage Calculation" happens after battle damage is inflicted, but before monsters are sent to the GY.
+*   If this card battles a Flip monster, the Flip effect will chain to this card's effect. The flip effect will always be Chain Link 1.
+*   If either monster is not banished for some reason, the other monster is still banished.
+*   "After Damage Calculation" happens after battle damage is inflicted, but before monsters are sent to the GY.
             

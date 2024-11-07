@@ -29,9 +29,9 @@ Source: https://edisonformat.net/card?name=Cosmic%20Fortress%20Gol'gar
 
 ### Card Rulings
 
-● If 3 cards are returned, you can:
+*   If 3 cards are returned, you can:
 place 1 Counter on 3 different monsters, or
 place 1 Counter on 1 monster and 2 Counters on a different monster, or
 place all 3 on 1 monster.
-● If a card is not returned to the hand (maybe it was destroyed), no counter is placed for that card.
+*   If a card is not returned to the hand (maybe it was destroyed), no counter is placed for that card.
             

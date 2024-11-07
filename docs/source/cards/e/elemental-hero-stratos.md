@@ -32,11 +32,11 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Stratos
 
 ### Card Rulings
 
-● When you activate this effect, you must declare which effect you are using.
-● You can't choose the destroy effect if you control no other HERO monsters.
+*   When you activate this effect, you must declare which effect you are using.
+*   You can't choose the destroy effect if you control no other HERO monsters.
 
 If you choose the destroy effect:
-● You can choose to destroy 0 cards when resolving this effect (yes this is weird).
-● Starlight Road can't be chained.
-● Stardust Dragon's effect can't be chained.
+*   You can choose to destroy 0 cards when resolving this effect (yes this is weird).
+*   Starlight Road can't be chained.
+*   Stardust Dragon's effect can't be chained.
             

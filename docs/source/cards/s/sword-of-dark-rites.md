@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Sword%20of%20Dark%20Rites
 
 ### Card Rulings
 
-●This card's effect to return itself to the hand starts a Chain.
+*   This card's effect to return itself to the hand starts a Chain.
             

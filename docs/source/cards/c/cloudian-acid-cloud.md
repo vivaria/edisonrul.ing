@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cloudian%20-%20Acid%20Cloud
 
 ### Card Rulings
 
-●If “Cloudian – Acid Cloud” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.
+*   If “Cloudian – Acid Cloud” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.
             

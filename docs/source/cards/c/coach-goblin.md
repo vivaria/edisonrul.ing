@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Coach%20Goblin
 
 ### Card Rulings
 
-●You have to show your opponent the card that you return to the bottom of your Deck.
+*   You have to show your opponent the card that you return to the bottom of your Deck.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Royal%20Firestorm%20Guards
 
 ### Card Rulings
 
-● If one target is not shuffled, the other 3 are also not, and no cards are drawn.
+*   If one target is not shuffled, the other 3 are also not, and no cards are drawn.
             

@@ -29,6 +29,6 @@ Source: https://edisonformat.net/card?name=Ryko,%20Lightsworn%20Hunter
 
 ### Card Rulings
 
-● You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you don't destroy a card on the field.
-● This effect targets.
+*   You always send the top 3 cards of your Deck (or all, if less than 3) to the GY, even if you don't destroy a card on the field.
+*   This effect targets.
             

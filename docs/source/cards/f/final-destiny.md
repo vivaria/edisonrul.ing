@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Final%20Destiny
 
 ### Card Rulings
 
-●Discarding 5 cards from your hand is a cost. You can't activate this card if you have less than 5 cards in your hand.
+*   Discarding 5 cards from your hand is a cost. You can't activate this card if you have less than 5 cards in your hand.
             

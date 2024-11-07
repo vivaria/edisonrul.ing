@@ -30,7 +30,7 @@ Source: https://edisonformat.net/card?name=Yellow%20Baboon,%20Archer%20of%20the%
 
 ### Card Rulings
 
-● You can only activate 1 Trigger Effect in your hand per chain.
+*   You can only activate 1 Trigger Effect in your hand per chain.
 (You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).
-● If the destroyed monster was not sent to the GY, this effect can't be activated.
+*   If the destroyed monster was not sent to the GY, this effect can't be activated.
             

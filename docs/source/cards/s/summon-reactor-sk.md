@@ -28,8 +28,8 @@ Source: https://edisonformat.net/card?name=Summon%20Reactor%20SK
 
 ### Card Rulings
 
-● The ① and ② are Trigger Effects.
-● The ② targets the attacking monster.
-● If the activation of the ① is negated, the ② cannot be activated that turn.
-● If this card is Summoned at the same time as another monster, the ① cannot be activated.
+*   The ① and ② are Trigger Effects.
+*   The ② targets the attacking monster.
+*   If the activation of the ① is negated, the ② cannot be activated that turn.
+*   If this card is Summoned at the same time as another monster, the ① cannot be activated.
             

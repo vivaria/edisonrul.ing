@@ -31,7 +31,7 @@ Source: https://edisonformat.net/card?name=Thunder%20King%20Rai-Oh
 
 ### Card Rulings
 
-● The ② effect can only negate the Summon of a monster while there is no ongoing chain.
+*   The ② effect can only negate the Summon of a monster while there is no ongoing chain.
 (It can negate a Synchro Summon, or the Special Summon of Cyber Dragon by its own procedure.
 It can't negate the Summon of a monster being Summoned by a card effect, such as by “Call of the Haunted”).
 It can't negate the Summon of a monster being Summoned by a lingering effect, like “Future Fusion”).

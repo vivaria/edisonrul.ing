@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Psi-Curse
 
 ### Card Rulings
 
-●“Psi-Curse” targets your opponent’s attacking monster. Destroying the monster and inflicting damage occur at the same time.
+*   “Psi-Curse” targets your opponent’s attacking monster. Destroying the monster and inflicting damage occur at the same time.
             

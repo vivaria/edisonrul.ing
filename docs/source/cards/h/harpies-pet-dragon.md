@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Harpie's%20Pet%20Dragon
 
 ### Card Rulings
 
-●You count Harpie Lady cards on both sides of the field when increasing this card’s ATK and DEF.
+*   You count Harpie Lady cards on both sides of the field when increasing this card’s ATK and DEF.
             

@@ -34,13 +34,13 @@ Source: https://edisonformat.net/card?name=Battle%20Fader
 ### Card Rulings
 
 On Activating the effect:
-● You can't activate this effect during a Replay. You can only activate it on an initial Attack declaration.
-● It this effect is negated, it remains in the hand, and the Battle Phase doesn't end.
-● This effect can be negated by "Royal Oppression", in which case it will be destroyed.
-● You can only activate 1 trigger effect in your hand per chain, so you can only activate 1 "Battle Fader" per chain.
+*   You can't activate this effect during a Replay. You can only activate it on an initial Attack declaration.
+*   It this effect is negated, it remains in the hand, and the Battle Phase doesn't end.
+*   This effect can be negated by "Royal Oppression", in which case it will be destroyed.
+*   You can only activate 1 trigger effect in your hand per chain, so you can only activate 1 "Battle Fader" per chain.
 
 On Banishing this card:
-● Once Summoned, it can't be sent to the GY as a cost (but it can be tributed, used as material, etc)
-● Vs "Interdimensional Matter Transporter": This card won't return to the field.
-● Vs "Caius the Shadow Monarch": If this card is banished this way, no damage is dealt.
+*   Once Summoned, it can't be sent to the GY as a cost (but it can be tributed, used as material, etc)
+*   Vs "Interdimensional Matter Transporter": This card won't return to the field.
+*   Vs "Caius the Shadow Monarch": If this card is banished this way, no damage is dealt.
             

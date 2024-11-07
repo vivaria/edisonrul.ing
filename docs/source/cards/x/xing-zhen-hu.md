@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Xing%20Zhen%20Hu
 
 ### Card Rulings
 
-●You can chain one of the 2 Spell or Trap Cards on the field to the activation of Xing Zhen Hu. However, the remaining one won't be able to be activated after Xing Zhen Hu resolves.
-●If neither of the targeted Spell or Trap Cards is on the field when Xing Zhen Hu resolves, then Xing Zhen Hu remains on the field meaninglessly.
+*   You can chain one of the 2 Spell or Trap Cards on the field to the activation of Xing Zhen Hu. However, the remaining one won't be able to be activated after Xing Zhen Hu resolves.
+*   If neither of the targeted Spell or Trap Cards is on the field when Xing Zhen Hu resolves, then Xing Zhen Hu remains on the field meaninglessly.
             

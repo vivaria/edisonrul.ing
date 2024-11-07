@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Fortune%20Lady%20Water
 
 ### Card Rulings
 
-●The effect to draw cards can activate during the Damage Step.
-●If you Special Summon Fortune Lady Water with Magical Dimension and then destroy the only other Fortune Lady monster you control, you can't activate the effect of Fortune Lady Water.
+*   The effect to draw cards can activate during the Damage Step.
+*   If you Special Summon Fortune Lady Water with Magical Dimension and then destroy the only other Fortune Lady monster you control, you can't activate the effect of Fortune Lady Water.
             

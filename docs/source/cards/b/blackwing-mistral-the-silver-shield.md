@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Blackwing%20-%20Mistral%20the%20Silve
 
 ### Card Rulings
 
-●This is a Trigger Effect that activates when this card is destroyed and sent to the GY.
-●Reducing the Battle Damage to 0 does not start a Chain.
+*   This is a Trigger Effect that activates when this card is destroyed and sent to the GY.
+*   Reducing the Battle Damage to 0 does not start a Chain.
             

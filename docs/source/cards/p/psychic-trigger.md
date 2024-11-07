@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Psychic%20Trigger
 
 ### Card Rulings
 
-●This card targets 2 Psychic-Type monsters in your GY.
-●If one or both of the targeted cards are not in your GY when “Psychic Trigger” resolves, its effect disappears.
+*   This card targets 2 Psychic-Type monsters in your GY.
+*   If one or both of the targeted cards are not in your GY when “Psychic Trigger” resolves, its effect disappears.
             

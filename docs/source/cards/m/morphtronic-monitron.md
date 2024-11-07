@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Morphtronic%20Monitron
 
 ### Card Rulings
 
-●This effect starts a Chain when a “Morphtronic” monster is Summoned.
-●You can't activate this card (flip it face-up), or activate its effect, during the Damage Step.
+*   This effect starts a Chain when a “Morphtronic” monster is Summoned.
+*   You can't activate this card (flip it face-up), or activate its effect, during the Damage Step.
             

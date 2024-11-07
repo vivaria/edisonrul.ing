@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Tree%20Otter
 
 ### Card Rulings
 
-●“Tree Otter’s” effect targets the monster that gets the ATK increase.
+*   “Tree Otter’s” effect targets the monster that gets the ATK increase.
             

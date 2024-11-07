@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Recycling%20Batteries
 
 ### Card Rulings
 
-●Recycling Batteries targets 2 Thunder-Type monsters in your GY.
+*   Recycling Batteries targets 2 Thunder-Type monsters in your GY.
             

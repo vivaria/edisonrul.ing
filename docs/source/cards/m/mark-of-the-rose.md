@@ -37,9 +37,9 @@ Source: https://edisonformat.net/card?name=Mark%20of%20the%20Rose
 ### Card Rulings
 
 The Ⓒ:
-● Banishing a card from the GY is a cost to activate this card.
+*   Banishing a card from the GY is a cost to activate this card.
 
 The ② and ③:
-● These effects are activated Trigger Effects.
-● While Cold Wave is applying, control is not changed.
+*   These effects are activated Trigger Effects.
+*   While Cold Wave is applying, control is not changed.
             

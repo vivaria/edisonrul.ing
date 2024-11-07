@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Sinister%20Seeds
 
 ### Card Rulings
 
-●Sinister Seeds can be activated when the monster destroyed by battle is sent to the GY.
-●Sinister Seeds can't be activated if you won't have enough open Monster Card Zones for every Sinister Seed Token that would be Special Summoned. You can't activate Sinister Seeds when you receive 3000 or more battle damage.
-●You can't activate Sinister Seeds if you don't receive at least 500 points of Battle Damage.
+*   Sinister Seeds can be activated when the monster destroyed by battle is sent to the GY.
+*   Sinister Seeds can't be activated if you won't have enough open Monster Card Zones for every Sinister Seed Token that would be Special Summoned. You can't activate Sinister Seeds when you receive 3000 or more battle damage.
+*   You can't activate Sinister Seeds if you don't receive at least 500 points of Battle Damage.
             

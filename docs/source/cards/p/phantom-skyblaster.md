@@ -29,12 +29,12 @@ Source: https://edisonformat.net/card?name=Phantom%20Skyblaster
 
 ### Card Rulings
 
-●The optional Trigger Effect must Special Summon at least 1 Skyblaster Token.
-●If you control no monsters when this effect resolves, no Tokens are Special Summoned.
-●The optional Trigger Effect activates & resolves on the field.
-●This effect only inflicts damage for your face-up Skyblaster monsters.
-●Skyblaster monsters Summoned later in the turn also can't attack.
-●If this effect is activated, your Skyblaster monsters can't attack this turn.
-●If this effect is negated (by Skill Drain), your Skyblaster monsters can't attack this turn.
-●If the activation of this effect is negated (by Divine Wrath), your Skyblaster monsters can attack this turn.
+*   The optional Trigger Effect must Special Summon at least 1 Skyblaster Token.
+*   If you control no monsters when this effect resolves, no Tokens are Special Summoned.
+*   The optional Trigger Effect activates & resolves on the field.
+*   This effect only inflicts damage for your face-up Skyblaster monsters.
+*   Skyblaster monsters Summoned later in the turn also can't attack.
+*   If this effect is activated, your Skyblaster monsters can't attack this turn.
+*   If this effect is negated (by Skill Drain), your Skyblaster monsters can't attack this turn.
+*   If the activation of this effect is negated (by Divine Wrath), your Skyblaster monsters can attack this turn.
             

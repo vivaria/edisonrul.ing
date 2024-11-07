@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Invader%20of%20Darkness
 
 ### Card Rulings
 
-●The Continuous Effect applies while this card is face-upon the field.
-●Your opponent can't activate (play face-up) Quick-Play Spells.
-●The effects of Quick-Play Spell Cards that were activated earlier in the Chain are not negated.
+*   The Continuous Effect applies while this card is face-upon the field.
+*   Your opponent can't activate (play face-up) Quick-Play Spells.
+*   The effects of Quick-Play Spell Cards that were activated earlier in the Chain are not negated.
             

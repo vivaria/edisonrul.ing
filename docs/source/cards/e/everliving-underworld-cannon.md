@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Everliving%20Underworld%20Cannon
 
 ### Card Rulings
 
-●Everliving Underworld Cannon's effect is a Trigger Effect.
-●Everliving Underworld Cannon's effect always activates the first time a Zombie-Type monster is Special Summoned onto your side of the field during each turn.
+*   Everliving Underworld Cannon's effect is a Trigger Effect.
+*   Everliving Underworld Cannon's effect always activates the first time a Zombie-Type monster is Special Summoned onto your side of the field during each turn.
             

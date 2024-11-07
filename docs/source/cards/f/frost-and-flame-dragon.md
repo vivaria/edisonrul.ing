@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Frost%20and%20Flame%20Dragon
 
 ### Card Rulings
 
-●This card’s effect to destroy 1 monster on the field targets.
+*   This card’s effect to destroy 1 monster on the field targets.
             

@@ -22,6 +22,6 @@ Source: https://edisonformat.net/card?name=Summoner%20Monk
 
 ### Card Rulings
 
-● The ① is a continuous effect. It can be negated.
-● The ② is a mandatory effect. When this card is summoned, the ② must trigger, and you don't retain Ignition Priority (you must wait until it has resolved before you can activate the ③).
+*   The ① is a continuous effect. It can be negated.
+*   The ② is a mandatory effect. When this card is summoned, the ② must trigger, and you don't retain Ignition Priority (you must wait until it has resolved before you can activate the ③).
             

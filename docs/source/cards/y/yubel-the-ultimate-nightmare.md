@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Yubel%20-%20The%20Ultimate%20Nightmar
 
 ### Card Rulings
 
-●When Yubel - The Ultimate Nightmare battles with a monster that can't be destroyed by its effect, like Vennominaga, the Deity of Poisonous Snakes, Yubel - The Ultimate Nightmare's effect still inflicts damage but won't destroy the monster.
-●When Yubel - The Ultimate Nightmare destroys a monster in battle, its effect still inflicts damage but the effect to destroy the monster it battled with disappears.
+*   When Yubel - The Ultimate Nightmare battles with a monster that can't be destroyed by its effect, like Vennominaga, the Deity of Poisonous Snakes, Yubel - The Ultimate Nightmare's effect still inflicts damage but won't destroy the monster.
+*   When Yubel - The Ultimate Nightmare destroys a monster in battle, its effect still inflicts damage but the effect to destroy the monster it battled with disappears.
             

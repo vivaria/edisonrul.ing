@@ -40,18 +40,18 @@ Source: https://edisonformat.net/card?name=Dark%20Simorgh
 
 ### Card Rulings
 
-● You can Normal Summon "Dark Simorgh".
+*   You can Normal Summon "Dark Simorgh".
 
-● ① and ② are Ignition Effects. This summon cannot be negated by "Solemn Judgment". Banishing a DARK and a WIND is a cost to activate both effects.
+*   ① and ② are Ignition Effects. This summon cannot be negated by "Solemn Judgment". Banishing a DARK and a WIND is a cost to activate both effects.
 
-● ③ and ④ are Continuous Effects. They only apply only while "Dark Simorgh" is face-up.
+*   ③ and ④ are Continuous Effects. They only apply only while "Dark Simorgh" is face-up.
 
 About the ③ effect:
-● Your opponent cannot Set cards by manual player action (e.g. placing a Spell/Trap face-down) or by card effect (e.g. "Super-Nimble Mega Hamster", "Book of Moon").
-● If your opponent activates “Scrap-Iron Scarecrow”, the attack will be negated, but “Scrap-Iron Scarecrow” will go to the GY because it can't be Set.
-● If “Call of the Haunted” is Chained to the activation of “The Shallow Grave” and “Dark Simorgh” is Special Summoned as a result, the controller of “Dark Simorgh” will Special Summon a monster with “The Shallow Grave” but the opponent will not.
+*   Your opponent cannot Set cards by manual player action (e.g. placing a Spell/Trap face-down) or by card effect (e.g. "Super-Nimble Mega Hamster", "Book of Moon").
+*   If your opponent activates “Scrap-Iron Scarecrow”, the attack will be negated, but “Scrap-Iron Scarecrow” will go to the GY because it can't be Set.
+*   If “Call of the Haunted” is Chained to the activation of “The Shallow Grave” and “Dark Simorgh” is Special Summoned as a result, the controller of “Dark Simorgh” will Special Summon a monster with “The Shallow Grave” but the opponent will not.
 
 About the ④ effect:
-● "Ally of Justice Catastor" will destroy "Dark Simorgh", as it is also treated as WIND.
-● "Dark Simorgh" to be sent to the GY while the effect "Gozen Match" applies.
+*   "Ally of Justice Catastor" will destroy "Dark Simorgh", as it is also treated as WIND.
+*   "Dark Simorgh" to be sent to the GY while the effect "Gozen Match" applies.
             

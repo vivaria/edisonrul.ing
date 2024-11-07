@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Spell%20Shield%20Type-8
 
 ### Card Rulings
 
-●Discarding a Spell Card for Spell Shield Type-8 is a cost.
+*   Discarding a Spell Card for Spell Shield Type-8 is a cost.
             

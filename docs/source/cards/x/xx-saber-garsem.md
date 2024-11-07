@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=XX-Saber%20Garsem
 
 ### Card Rulings
 
-●This effect activates even if destroyed by a card effect during the Damage Step.
+*   This effect activates even if destroyed by a card effect during the Damage Step.
             

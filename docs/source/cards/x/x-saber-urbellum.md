@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=X-Saber%20Urbellum
 
 ### Card Rulings
 
-● "Gorz the Emissary of Darkness" can be chained to this effect. Gorz will resolve first, and after that, the card to discard is chosen (even if this results in them having less than 4 cards in hand).
+*   "Gorz the Emissary of Darkness" can be chained to this effect. Gorz will resolve first, and after that, the card to discard is chosen (even if this results in them having less than 4 cards in hand).
             

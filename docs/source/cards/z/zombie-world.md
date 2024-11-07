@@ -32,5 +32,5 @@ Source: https://edisonformat.net/card?name=Zombie%20World
 
 ### Card Rulings
 
-● Players can still Tribute Set non-Zombies while this effect is applying.
+*   Players can still Tribute Set non-Zombies while this effect is applying.
             

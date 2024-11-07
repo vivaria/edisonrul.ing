@@ -32,5 +32,5 @@ Source: https://edisonformat.net/card?name=White%20Night%20Dragon
 
 ### Card Rulings
 
-● The ① effect is mandatory.
+*   The ① effect is mandatory.
             

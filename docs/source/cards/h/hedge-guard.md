@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Hedge%20Guard
 
 ### Card Rulings
 
-●Sending “Hedge Guard” to the GY is a cost. This effect does not target.
+*   Sending “Hedge Guard” to the GY is a cost. This effect does not target.
             

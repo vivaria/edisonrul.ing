@@ -23,8 +23,8 @@ Source: https://edisonformat.net/card?name=Crystal%20Seer
 
 ### Card Rulings
 
-●If there are less than 2 cards in your deck when this effect resolves, nothing happens.
-●If 'Thunder King Rai-Oh' is applying, this effect still activates. 1 of the cards is sent to the GY and 1 of the cards is returned to the bottom of the Deck.
-●The cards aren't revealed to your opponent
+*   If there are less than 2 cards in your deck when this effect resolves, nothing happens.
+*   If 'Thunder King Rai-Oh' is applying, this effect still activates. 1 of the cards is sent to the GY and 1 of the cards is returned to the bottom of the Deck.
+*   The cards aren't revealed to your opponent
 (on Duelingbook, this can be resolved by drawing 2 cards, then placing 1 of the drawn cards on the bottom).
             

@@ -39,25 +39,25 @@ Source: https://edisonformat.net/card?name=Gozen%20Match
 
 ### Card Rulings
 
-● As soon as this starts applying (when it initially starts resolving, or applies again after being negated), players send monsters to the gy.
-● After that, if you have monsters with the wrong Attribute, they are destroyed by game mechanics.
+*   As soon as this starts applying (when it initially starts resolving, or applies again after being negated), players send monsters to the gy.
+*   After that, if you have monsters with the wrong Attribute, they are destroyed by game mechanics.
 
 While you control a face-up monster, you can:
-● Tribute Summon a monster using your only face-up monster, even if it has the wrong Attribute.
+*   Tribute Summon a monster using your only face-up monster, even if it has the wrong Attribute.
 (EG: Your only face-up monster is "Treeborn Frog". You can Tribute it for "Caius the Shadow Monarch").
-● Take control of an opponent's monster with EG "Brain Control", even if it has the wrong Attribute.
+*   Take control of an opponent's monster with EG "Brain Control", even if it has the wrong Attribute.
 (If it has the wrong Attribute, it's immediately sent to the GY).
-● Summon/Set monsters face-down, even if they have the wrong original Attribute.
-● If you control no monsters, you can Summon multiple monsters with different Attributes at the same time.
+*   Summon/Set monsters face-down, even if they have the wrong original Attribute.
+*   If you control no monsters, you can Summon multiple monsters with different Attributes at the same time.
 (After they're summoned, send monsters you control to the GY so that you only control 1 Attribute).
 
 While you control a face-up monster, you can't:
-● Ritual/Fusion/Synchro Summon a monster with the wrong Attribute, even if you would use the monsters you control as tribute/material.
+*   Ritual/Fusion/Synchro Summon a monster with the wrong Attribute, even if you would use the monsters you control as tribute/material.
 (EG, you can't use 2 Sea-Serpents to Synchro Summon a Psychic).
-● Flip/Normal/Special Summon a monster with the wrong Attribute.
+*   Flip/Normal/Special Summon a monster with the wrong Attribute.
 
 If a Set Monster is attacked:
-● It's not sent to the GY until After Damage Calculation.
-● Its Flip Effect will activate, but it is not "destroyed by battle"
+*   It's not sent to the GY until After Damage Calculation.
+*   Its Flip Effect will activate, but it is not "destroyed by battle"
 (EG, Shura and Mystic Tomato won't trigger, since nothing was destroyed by battle).
             

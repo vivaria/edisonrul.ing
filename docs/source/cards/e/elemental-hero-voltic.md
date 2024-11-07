@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Voltic
 
 ### Card Rulings
 
-●The optional Trigger Effect activates in Substep 5 - After Damage Calculation.
-●This effect targets the Elemental Hero you intend to Special Summon.
-●You can't Special Summon monsters with Conditions like Elemental Hero Mudballman. 
-●This effect does not activate if you inflict 0 Battle Damage (by Waboku).
+*   The optional Trigger Effect activates in Substep 5 - After Damage Calculation.
+*   This effect targets the Elemental Hero you intend to Special Summon.
+*   You can't Special Summon monsters with Conditions like Elemental Hero Mudballman.
+*   This effect does not activate if you inflict 0 Battle Damage (by Waboku).
             

@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Neo-Spacian%20Grand%20Mole
 
 ### Card Rulings
 
-● The start of the Damage Step is before monsters are flipped face-up.
-● If this Set card is attacked, its effect can't be activated.
-● If one of those monsters does not return to the hand, the other also does not return.
+*   The start of the Damage Step is before monsters are flipped face-up.
+*   If this Set card is attacked, its effect can't be activated.
+*   If one of those monsters does not return to the hand, the other also does not return.
             

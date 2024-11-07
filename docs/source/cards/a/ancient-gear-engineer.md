@@ -38,15 +38,15 @@ Source: https://edisonformat.net/card?name=Ancient%20Gear%20Engineer
 ### Card Rulings
 
 About the ① effect:
-● It is a Continuous Effect, it cannot apply while this card is face-down (e.g. if "Book of Moon" is chained to the Trap)
+*   It is a Continuous Effect, it cannot apply while this card is face-down (e.g. if "Book of Moon" is chained to the Trap)
 
 About the ② effect:
-● It is a Continuous Effect, it applies from attack declaration until the Damage Step ends.
-● Spell/Trap effects may still be activated (e.g. the effect of an already activated "Ultimate Offerring"/"Royal Oppression" or the GY effect of "Skill Successor"), the Continuous Effect of Traps will also continue to apply.
-● After the Damage Step ends, it returns to the Battle Step. Then, the turn player retains priority to declare an attack, there is not a window for the opponent to activate a Spell/Trap inbetween two consecutive "Ancient Gear" attacks.
-● If this card is destroyed by battle, this effect stops applying at the start of substep 6 of the Damage Step.
+*   It is a Continuous Effect, it applies from attack declaration until the Damage Step ends.
+*   Spell/Trap effects may still be activated (e.g. the effect of an already activated "Ultimate Offerring"/"Royal Oppression" or the GY effect of "Skill Successor"), the Continuous Effect of Traps will also continue to apply.
+*   After the Damage Step ends, it returns to the Battle Step. Then, the turn player retains priority to declare an attack, there is not a window for the opponent to activate a Spell/Trap inbetween two consecutive "Ancient Gear" attacks.
+*   If this card is destroyed by battle, this effect stops applying at the start of substep 6 of the Damage Step.
 
 About the ③ effect:
-● This mandatory Trigger Effect starts a chain and targets a Spell/Trap your opponent controls.
-● This card must remain face-up on the field to activate this effect, it will not activate if this card is destroyed by battle.
+*   This mandatory Trigger Effect starts a chain and targets a Spell/Trap your opponent controls.
+*   This card must remain face-up on the field to activate this effect, it will not activate if this card is destroyed by battle.
             

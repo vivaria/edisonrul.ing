@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Nanobreaker
 
 ### Card Rulings
 
-●This card’s effect is a Trigger Effect that starts a chain.
+*   This card’s effect is a Trigger Effect that starts a chain.
             

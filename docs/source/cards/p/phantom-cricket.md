@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Phantom%20Cricket
 
 ### Card Rulings
 
-●This card’s effect targets 1 face-down monster.
-●If the targeted monster is flipped face-up by an effect chained to this card’s effect, it won't be returned to the top of its owner’s Deck.
+*   This card’s effect targets 1 face-down monster.
+*   If the targeted monster is flipped face-up by an effect chained to this card’s effect, it won't be returned to the top of its owner’s Deck.
             

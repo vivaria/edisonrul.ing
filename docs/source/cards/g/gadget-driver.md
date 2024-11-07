@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Gadget%20Driver
 
 ### Card Rulings
 
-●Sending Gadget Driver from your hand to the GY is a cost.
-●Gadget Driver's effect targets face-up Morphtronic monster●Gadget Driver's effect can't be activated during the Damage Step.
+*   Sending Gadget Driver from your hand to the GY is a cost.
+*   Gadget Driver's effect targets face-up Morphtronic monster●Gadget Driver's effect can't be activated during the Damage Step.
             

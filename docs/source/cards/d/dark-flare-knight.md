@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Dark%20Flare%20Knight
 
 ### Card Rulings
 
-●The damage referred to by Dark Flare Knight is Battle Damage.
+*   The damage referred to by Dark Flare Knight is Battle Damage.
             

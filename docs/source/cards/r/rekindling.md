@@ -25,6 +25,6 @@ Source: https://edisonformat.net/card?name=Rekindling
 
 ### Card Rulings
 
-● You must summon as many monsters as possible.
-● If one of those monsters is flipped face-down, it's not banished in the End Phase.
+*   You must summon as many monsters as possible.
+*   If one of those monsters is flipped face-down, it's not banished in the End Phase.
             

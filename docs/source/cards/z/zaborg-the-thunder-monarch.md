@@ -25,5 +25,5 @@ Source: https://edisonformat.net/card?name=Zaborg%20the%20Thunder%20Monarch
 
 ### Card Rulings
 
-● This effect is mandatory.
+*   This effect is mandatory.
             

@@ -38,5 +38,5 @@ Source: https://edisonformat.net/card?name=Instant%20Fusion
 
 ### Card Rulings
 
-● If that monster becomes flipped face-down, the effects "Its effects are negated, also it is destroyed during each End Phase" are no longer applied to it.
+*   If that monster becomes flipped face-down, the effects "Its effects are negated, also it is destroyed during each End Phase" are no longer applied to it.
             

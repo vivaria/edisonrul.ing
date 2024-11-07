@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Goka,%20the%20Pyre%20of%20Malice
 
 ### Card Rulings
 
-●Goka, the Pyre of Malice's first effect targets 1 FIRE monster you control.
-●Tributing 1 FIRE monster is a cost to activate Goka, the Pyre of Malice's third effect.
-●If you don't have an open Monster Card Zone during your Standby Phase, Goka, the Pyre of Malice's second effect still activates, but its effect disappears when it resolves.
+*   Goka, the Pyre of Malice's first effect targets 1 FIRE monster you control.
+*   Tributing 1 FIRE monster is a cost to activate Goka, the Pyre of Malice's third effect.
+*   If you don't have an open Monster Card Zone during your Standby Phase, Goka, the Pyre of Malice's second effect still activates, but its effect disappears when it resolves.
             

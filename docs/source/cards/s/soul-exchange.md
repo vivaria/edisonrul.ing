@@ -37,13 +37,13 @@ Source: https://edisonformat.net/card?name=Soul%20Exchange
 
 ### Card Rulings
 
-● Even if that monster becomes flipped face-down, you can still tribute it.
-● You are not forced to tribute that monster. You can tribute other monsters instead.
-● Face-down monsters don't have Types nor Attributes.
+*   Even if that monster becomes flipped face-down, you can still tribute it.
+*   You are not forced to tribute that monster. You can tribute other monsters instead.
+*   Face-down monsters don't have Types nor Attributes.
 You can't tribute an opponent's face-down monster for a Ritual Summon, not for "Icarus Attack".
 
-● If this card's activation is negated, you can still conduct your Battle Phase.
-● If this card's effect is negated, you can't conduct your Battle Phase.
-● You can use this card to tribute an opponent's face-up Plant for "Lonefire Blossom".
-● You can't use this card to tribute an opponent's monster for your "Exiled Force".
+*   If this card's activation is negated, you can still conduct your Battle Phase.
+*   If this card's effect is negated, you can't conduct your Battle Phase.
+*   You can use this card to tribute an opponent's face-up Plant for "Lonefire Blossom".
+*   You can't use this card to tribute an opponent's monster for your "Exiled Force".
             

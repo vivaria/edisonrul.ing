@@ -27,10 +27,10 @@ Source: https://edisonformat.net/card?name=Arcana%20Force%20XVIII%20-%20The%20Mo
 
 ### Card Rulings
 
-●The Trigger Effect is mandatory, it activates & resolves on the field.
-●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card won't forget which effect is gained while face-up.
-●The (HEADS) Trigger Effect is optional, it activates & resolves on the field.
-●The (TAILS) Trigger Effect is mandatory, it activates & resolves on the field.
-●This effect targets 1 monster you control.
-●Monsters given to your opponent with Arcana Force XVIII - The Moon's tails effect will remain on your opponent's side of the field when Arcana Force XVIII - The Moon is removed from the field or flipped face-down.
+*   The Trigger Effect is mandatory, it activates & resolves on the field.
+*   When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card won't forget which effect is gained while face-up.
+*   The (HEADS) Trigger Effect is optional, it activates & resolves on the field.
+*   The (TAILS) Trigger Effect is mandatory, it activates & resolves on the field.
+*   This effect targets 1 monster you control.
+*   Monsters given to your opponent with Arcana Force XVIII - The Moon's tails effect will remain on your opponent's side of the field when Arcana Force XVIII - The Moon is removed from the field or flipped face-down.
             

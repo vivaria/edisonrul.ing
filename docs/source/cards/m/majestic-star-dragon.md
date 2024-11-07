@@ -48,15 +48,15 @@ Source: https://edisonformat.net/card?name=Majestic%20Star%20Dragon
 ### Card Rulings
 
 The ① effect:
-● You can activate this effect even if your opponent controls no cards.
+*   You can activate this effect even if your opponent controls no cards.
 The ② effect:
-● You can't negate the effects of a monster which already has its effects negated.
-● You can only activate 1 of the target's effects as this card's effect
+*   You can't negate the effects of a monster which already has its effects negated.
+*   You can only activate 1 of the target's effects as this card's effect
 (If targeting "Phantom of Chaos", you can "copy" another effect, but not activate that "copied" effect).
-● If negating a Gemini Monster's effect, that monster becomes an Effect Monster
+*   If negating a Gemini Monster's effect, that monster becomes an Effect Monster
 (regardless of whether it gained its effects or not) (You can't Normal Summon Majestic Star Dragon).
-● If you negate a "Gladiator Beast" monster's effect, you can't shuffle this card into the Main Deck,
+*   If you negate a "Gladiator Beast" monster's effect, you can't shuffle this card into the Main Deck,
 but you can shuffle it into the Extra deck (doing so is only legal if you are a Highly Based Duelist (HBD)).
 The ③ effect:
-● Even if there is no "Stardust Dragon" in your GY, the effect to return this card to the Extra Deck will still activate, and this card will still return to the Extra Deck.
+*   Even if there is no "Stardust Dragon" in your GY, the effect to return this card to the Extra Deck will still activate, and this card will still return to the Extra Deck.
             

@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Alien%20Mother
 
 ### Card Rulings
 
-●This effect continuously targets that monster●If this card becomes set, it no longer targets those monsters.
-● If 'Skill Drain' is applying, those monsters aren't destroyed when it leaves the field.
+*   This effect continuously targets that monster●If this card becomes set, it no longer targets those monsters.
+*   If 'Skill Drain' is applying, those monsters aren't destroyed when it leaves the field.
             

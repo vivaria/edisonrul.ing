@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Electric%20Snake
 
 ### Card Rulings
 
-●If the summoning of Electric Snake is negated by Solemn Judgment, etc. its effect is not activated, as it is not considered to have gone directly from your hand to the GY.
+*   If the summoning of Electric Snake is negated by Solemn Judgment, etc. its effect is not activated, as it is not considered to have gone directly from your hand to the GY.
             

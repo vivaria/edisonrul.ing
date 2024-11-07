@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Charm%20of%20Shabti
 
 ### Card Rulings
 
-● Since this is a Quick Effect, you can use it during Damage Calculation.
+*   Since this is a Quick Effect, you can use it during Damage Calculation.
             

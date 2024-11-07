@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Memory%20Crusher
 
 ### Card Rulings
 
-●“Memory Crusher’s” effect activates when battle damage is inflicted.
+*   “Memory Crusher’s” effect activates when battle damage is inflicted.
             

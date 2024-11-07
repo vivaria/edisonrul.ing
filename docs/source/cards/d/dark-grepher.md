@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Dark%20Grepher
 
 ### Card Rulings
 
-● When you Summon a monster, you can activate any Ignition Effect using your Ignition Priority.
+*   When you Summon a monster, you can activate any Ignition Effect using your Ignition Priority.
 This means that you can Summon this card by discarding "Destiny HERO - Malicious", then activate that Malicious' effect in your GY immediately, before "D.D. Crow" can be chained to it.
             

@@ -26,5 +26,5 @@ Source: https://edisonformat.net/card?name=Magic%20Cylinder
 
 ### Card Rulings
 
-● If that monster isn't face-up when this resolves, no damage is dealt.
+*   If that monster isn't face-up when this resolves, no damage is dealt.
             

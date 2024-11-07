@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Treeborn%20Frog
 
 ### Card Rulings
 
-● You can't activate this card’s effect if you control a Treeborn Frog in the Spell/Trap Zone.
-● If this card’s effect/activation is negated, it can activate again in the same Phase.
+*   You can't activate this card’s effect if you control a Treeborn Frog in the Spell/Trap Zone.
+*   If this card’s effect/activation is negated, it can activate again in the same Phase.
             

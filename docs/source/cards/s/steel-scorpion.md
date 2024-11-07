@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Steel%20Scorpion
 
 ### Card Rulings
 
-●If the affected monster is removed from the field or flipped face-down, it is not destroyed during the End Phase.
+*   If the affected monster is removed from the field or flipped face-down, it is not destroyed during the End Phase.
             

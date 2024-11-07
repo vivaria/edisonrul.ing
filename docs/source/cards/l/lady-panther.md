@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Lady%20Panther
 
 ### Card Rulings
 
-●Lady Panther's effect can be activated before or after your monster(s) are destroyed in battle, similar to Last Will.
+*   Lady Panther's effect can be activated before or after your monster(s) are destroyed in battle, similar to Last Will.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cyclon%20Laser
 
 ### Card Rulings
 
-●The effect of this card only applies to the Gradius that it is equipped to.
+*   The effect of this card only applies to the Gradius that it is equipped to.
             

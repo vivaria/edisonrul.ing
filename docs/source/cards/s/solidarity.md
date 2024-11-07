@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Solidarity
 
 ### Card Rulings
 
-● If there is a Machine in your GY, and you control a Zombie and a Machine, only the Machine gains the ATK.
-● If there are no monsters in your GY, no ATK is gained.
+*   If there is a Machine in your GY, and you control a Zombie and a Machine, only the Machine gains the ATK.
+*   If there are no monsters in your GY, no ATK is gained.
             

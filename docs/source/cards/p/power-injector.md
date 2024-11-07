@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Power%20Injector
 
 ### Card Rulings
 
-●Paying 600 Life Points is a cost.
-●Only Psychic-Type monsters face-up on the field when Power Injector's effect resolves are affected.
+*   Paying 600 Life Points is a cost.
+*   Only Psychic-Type monsters face-up on the field when Power Injector's effect resolves are affected.
             

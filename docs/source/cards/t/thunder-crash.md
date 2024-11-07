@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Thunder%20Crash
 
 ### Card Rulings
 
-●The damage inflicted by Thunder Crash is inflicted all at once as 1 lump sum.
+*   The damage inflicted by Thunder Crash is inflicted all at once as 1 lump sum.
             

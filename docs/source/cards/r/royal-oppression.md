@@ -33,11 +33,11 @@ Source: https://edisonformat.net/card?name=Royal%20Oppression
 
 ### Card Rulings
 
-● You can't activate this card, nor activate its effect, in the Damage Step.
+*   You can't activate this card, nor activate its effect, in the Damage Step.
 (You can't use it to negate Tragoedia, Giant Rat, etc)
-● You can use it against cards that could special summon, even if they might not.
+*   You can use it against cards that could special summon, even if they might not.
 (This means that you can use it to negate Macro Cosmos or Starlight Road)
-● You can activate this card’s effect the moment it is activated (flipped face-up).
+*   You can activate this card’s effect the moment it is activated (flipped face-up).
 However, until it has finished resolving, it’s effect can’t be activated again that chain.
 (For example, if this card is activated (flipped face-up), and the opponent chains “Call of the Haunted” to the activation, this same card’s effect can’t be used to negate that Call of the Haunted, as this card has not finished resolving)
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Izanagi
 
 ### Card Rulings
 
-●Izanagi's effect is not applied if it is face-down during the End Phase.
+*   Izanagi's effect is not applied if it is face-down during the End Phase.
             

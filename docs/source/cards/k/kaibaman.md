@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Kaibaman
 
 ### Card Rulings
 
-●Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect.
+*   Ignition Effects on monsters can't be activated while the Effect Monster is face-down. So this face-down monster can't be Tributed for its own effect.
             

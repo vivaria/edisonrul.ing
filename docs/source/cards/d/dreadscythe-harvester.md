@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Dreadscythe%20Harvester
 
 ### Card Rulings
 
-●“Dreadscythe Harvester’s” effect is an Ignition Effect. Tributing 1 Insect-Type monster is a cost to activate this effect.
+*   “Dreadscythe Harvester’s” effect is an Ignition Effect. Tributing 1 Insect-Type monster is a cost to activate this effect.
             

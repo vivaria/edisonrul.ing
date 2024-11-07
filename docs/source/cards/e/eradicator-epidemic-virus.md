@@ -42,22 +42,22 @@ Source: https://edisonformat.net/card?name=Eradicator%20Epidemic%20Virus
 ### Card Rulings
 
 Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Cards. ●This card's cost Tributes a DARK monster with 2500 or more ATK.
-●Face-down DARK monsters can be Tributed (like a Set Fusilier Dragon, the Dual-Mode Beast).
-●An opponent's face-down monster targeted by Soul Exchange can't be Tributed.
-●You must choose Spell Cards or Trap Cards when you activate this card.
-●The Effect applies destroys all cards simultaneously.
-●Any card treated as a Spell Card (by Relinquished, a Set Toy Magician) will be destroyed.
-●If you declare Trap and your opponent's only face-down card is Fake Trap, the can't activate it.
-●Resolving the Lingering Effect does not start a Chain.
-●You only check the cards on the field and in the hand when Eradicator Epidemic Virus is resolved.
-●Only cards drawn are checked until the end of your opponent's third End Phase.
-●If you draw a Spell / Trap Card●If you draw a Spell / Trap Card(s) by card effect (ex: Morphing Jar), resolve that effect first, then destroy any Spell / Trap Cards (whichever declared) drawn.
-●If Eradicator Epidemic Virus is activated on your turn, the first turn lasts until the end of your opponent’s next turn.
-●The Lingering Effect of Eradicator Epidemic Virus DOES NOT DESTROY:
-●cards added to the hand (by King of the Swamp).
-●cards you receive from your opponent (by Exchange).
-●VS. Starlight Road: 
-●You CAN activate Starlight Road if at least two face-up Spell / Trap Cards (whichever declared) would be destroyed.
-●You can't activate Starlight Road if your two Spell / Trap Cards (whichever declared) that would be destroyed are face-down.
-●You can't activate Starlight Road if you have 1 face-up Spell Card and 1 face-up Trap card (even if there are others face-down) because Eradicator Epidemic Virus will only attempt to destroy cards of the declared type (Spell or Trap).
+*   Face-down DARK monsters can be Tributed (like a Set Fusilier Dragon, the Dual-Mode Beast).
+*   An opponent's face-down monster targeted by Soul Exchange can't be Tributed.
+*   You must choose Spell Cards or Trap Cards when you activate this card.
+*   The Effect applies destroys all cards simultaneously.
+*   Any card treated as a Spell Card (by Relinquished, a Set Toy Magician) will be destroyed.
+*   If you declare Trap and your opponent's only face-down card is Fake Trap, the can't activate it.
+*   Resolving the Lingering Effect does not start a Chain.
+*   You only check the cards on the field and in the hand when Eradicator Epidemic Virus is resolved.
+*   Only cards drawn are checked until the end of your opponent's third End Phase.
+*   If you draw a Spell / Trap Card●If you draw a Spell / Trap Card(s) by card effect (ex: Morphing Jar), resolve that effect first, then destroy any Spell / Trap Cards (whichever declared) drawn.
+*   If Eradicator Epidemic Virus is activated on your turn, the first turn lasts until the end of your opponent’s next turn.
+*   The Lingering Effect of Eradicator Epidemic Virus DOES NOT DESTROY:
+*   cards added to the hand (by King of the Swamp).
+*   cards you receive from your opponent (by Exchange).
+*   VS. Starlight Road:
+*   You CAN activate Starlight Road if at least two face-up Spell / Trap Cards (whichever declared) would be destroyed.
+*   You can't activate Starlight Road if your two Spell / Trap Cards (whichever declared) that would be destroyed are face-down.
+*   You can't activate Starlight Road if you have 1 face-up Spell Card and 1 face-up Trap card (even if there are others face-down) because Eradicator Epidemic Virus will only attempt to destroy cards of the declared type (Spell or Trap).
             

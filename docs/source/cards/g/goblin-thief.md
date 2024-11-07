@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Goblin%20Thief
 
 ### Card Rulings
 
-●You can chain Barrel Behind the Door to Goblin Thief.
+*   You can chain Barrel Behind the Door to Goblin Thief.
             

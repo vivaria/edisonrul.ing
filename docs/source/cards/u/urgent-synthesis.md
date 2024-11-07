@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Urgent%20Synthesis
 
 ### Card Rulings
 
-●Returning 1 “Iron Core of Koa’ki Meiru” to the Deck is a cost to activate “Urgent Synthesis.” The effect does not target. You can't activate “Urgent Synthesis” while “Transmigration Break” is active, as you can't pay the cost to return “Iron Core of Koa’ki Meiru” to the Deck.
+*   Returning 1 “Iron Core of Koa’ki Meiru” to the Deck is a cost to activate “Urgent Synthesis.” The effect does not target. You can't activate “Urgent Synthesis” while “Transmigration Break” is active, as you can't pay the cost to return “Iron Core of Koa’ki Meiru” to the Deck.
             

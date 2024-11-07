@@ -35,7 +35,7 @@ Source: https://edisonformat.net/card?name=Totem%20Dragon
 
 ### Card Rulings
 
-● You can use this card as 2 Tributes for a Tribute Set of a Dragon.
-● The ② effect is not "once per turn". It it is negated by "Royal Oppression", it can be activated again in a new chain.
-● If this card becomes flipped face-down or equipped to a monster, "banish it if it leaves the field" is no longer applied to it.
+*   You can use this card as 2 Tributes for a Tribute Set of a Dragon.
+*   The ② effect is not "once per turn". It it is negated by "Royal Oppression", it can be activated again in a new chain.
+*   If this card becomes flipped face-down or equipped to a monster, "banish it if it leaves the field" is no longer applied to it.
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Hero%20Medal
 
 ### Card Rulings
 
-●This card activates in the GY.
-●Shuffling this card into the Deck is part of the effect, not a cost.
+*   This card activates in the GY.
+*   Shuffling this card into the Deck is part of the effect, not a cost.
             

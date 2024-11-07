@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Helping%20Robo%20for%20Combat
 
 ### Card Rulings
 
-●When Helping Robo For Combat destroys a monster in battle, you resolve the effect of Helping Robo for Combat before the destroyed monster is sent to the GY.
+*   When Helping Robo For Combat destroys a monster in battle, you resolve the effect of Helping Robo for Combat before the destroyed monster is sent to the GY.
             

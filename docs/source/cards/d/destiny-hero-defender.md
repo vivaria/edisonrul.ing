@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Defender
 
 ### Card Rulings
 
-●Destiny Hero - Defender's effect is a Trigger Effect.
-●If an effect is chained that flips Destiny Hero - Defender face-down or removes it from the field, its effect disappears.
+*   Destiny Hero - Defender's effect is a Trigger Effect.
+*   If an effect is chained that flips Destiny Hero - Defender face-down or removes it from the field, its effect disappears.
             

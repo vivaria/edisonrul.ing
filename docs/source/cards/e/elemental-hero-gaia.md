@@ -30,6 +30,6 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Gaia
 
 ### Card Rulings
 
-● This card can only be Special Summoned by Fusion Summon. It can't be summoned by card effects.
-● This card's effect applies until the End Phase (and not for the entire turn).
+*   This card can only be Special Summoned by Fusion Summon. It can't be summoned by card effects.
+*   This card's effect applies until the End Phase (and not for the entire turn).
             

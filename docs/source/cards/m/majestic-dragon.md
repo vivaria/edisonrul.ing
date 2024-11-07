@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Majestic%20Dragon
 
 ### Card Rulings
 
-●This card can't be used as a Synchro Material Monster, except for the Synchro Summon of a Majestic monster.
-●The text of this card is not an effect. It can't be negated by “Skill Drain.”
+*   This card can't be used as a Synchro Material Monster, except for the Synchro Summon of a Majestic monster.
+*   The text of this card is not an effect. It can't be negated by “Skill Drain.”
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Ancient%20Gear
 
 ### Card Rulings
 
-●The Unclassified Effect applies in the hand.
-●Special Summoning this card does not start a chain.
+*   The Unclassified Effect applies in the hand.
+*   Special Summoning this card does not start a chain.
             

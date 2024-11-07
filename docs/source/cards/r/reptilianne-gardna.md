@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Reptilianne%20Gardna
 
 ### Card Rulings
 
-●This effect activates even during the Damage Step.
+*   This effect activates even during the Damage Step.
             

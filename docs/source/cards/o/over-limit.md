@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Over%20Limit
 
 ### Card Rulings
 
-●“Over Limit” can't be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.
-●If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it Cannot be Special Summoned with “Over Limit”.
+*   “Over Limit” can't be activated if there are no Normal Monsters with 1000 or less ATK in the GY that were destroyed in battle during the turn.
+*   If a Normal Monster with 1000 or less ATK that was destroyed in battle is removed from the GY and later in the same turn it is returned to the GY by other means (Tributed, etc.), it Cannot be Special Summoned with “Over Limit”.
             

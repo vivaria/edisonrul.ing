@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Fear%20Monger
 
 ### Card Rulings
 
-●This card's effect targets 1 Destiny Hero monster in your GY, when it activates during your Standby Phase.
+*   This card's effect targets 1 Destiny Hero monster in your GY, when it activates during your Standby Phase.
             

@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Rush%20Recklessly
 
 ### Card Rulings
 
-● This effect applies for the entire turn (and not just until the End Phase).
+*   This effect applies for the entire turn (and not just until the End Phase).
             

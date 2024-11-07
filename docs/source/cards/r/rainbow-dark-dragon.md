@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Rainbow%20Dark%20Dragon
 
 ### Card Rulings
 
-●Rainbow Dark Dragon's effect to increase its ATK is an Ignition Effect.
-●Removing from play all other DARK monsters you control and in your GY is a cost.
+*   Rainbow Dark Dragon's effect to increase its ATK is an Ignition Effect.
+*   Removing from play all other DARK monsters you control and in your GY is a cost.
             

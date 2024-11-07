@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Ray%20of%20Hope
 
 ### Card Rulings
 
-●You can't activate Ray of Hope if you don't have 2 LIGHT monsters in your GY.
+*   You can't activate Ray of Hope if you don't have 2 LIGHT monsters in your GY.
             

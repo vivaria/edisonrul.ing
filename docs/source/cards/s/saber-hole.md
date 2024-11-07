@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=Saber%20Hole
 
 ### Card Rulings
 
-● This card can only be used to negate the summon of a Monster(s) while there is no ongoing chain. It can negate Summons like that of "Cyber Dragon", but not monsters summoned by "Call of the Haunted".
+*   This card can only be used to negate the summon of a Monster(s) while there is no ongoing chain. It can negate Summons like that of "Cyber Dragon", but not monsters summoned by "Call of the Haunted".
             

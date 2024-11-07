@@ -37,7 +37,7 @@ Source: https://edisonformat.net/card?name=Gorz%20the%20Emissary%20of%20Darkness
 
 ### Card Rulings
 
-● If "Caius the Shadow Monarch" banishes a DARK you control, while you control no other cards, you can Summon this card.
-● You can only activate 1 trigger effect in your hand that special summons itself per chain,
+*   If "Caius the Shadow Monarch" banishes a DARK you control, while you control no other cards, you can Summon this card.
+*   You can only activate 1 trigger effect in your hand that special summons itself per chain,
 so you can't summon this card and "Tragoedia" in the same chain.
             

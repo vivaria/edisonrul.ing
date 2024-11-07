@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Ritual%20Buster
 
 ### Card Rulings
 
-●Effects of Continuous Spell and Trap Cards that don't use the Chain remain active. For example, “Gravity Bind” or “Burden of the Mighty” will continue to apply their effects even if “Ritual Buster” is being applied as well.
+*   Effects of Continuous Spell and Trap Cards that don't use the Chain remain active. For example, “Gravity Bind” or “Burden of the Mighty” will continue to apply their effects even if “Ritual Buster” is being applied as well.
             

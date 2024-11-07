@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Gladiator's%20Return
 
 ### Card Rulings
 
-●If 1 or more of the “Gladiator Beast” monsters selected by “Gladiator’s Return” are removed from the GY before “Gladiator’s Return” is resolved, the effect of “Gladiator’s Return” disappears.
+*   If 1 or more of the “Gladiator Beast” monsters selected by “Gladiator’s Return” are removed from the GY before “Gladiator’s Return” is resolved, the effect of “Gladiator’s Return” disappears.
             

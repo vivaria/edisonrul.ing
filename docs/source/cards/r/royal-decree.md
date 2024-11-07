@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Royal%20Decree
 
 ### Card Rulings
 
-● Trap Effects don't leave the field even if the physical card leaves the field. For example:
+*   Trap Effects don't leave the field even if the physical card leaves the field. For example:
 If "Jar of Greed" is activated, and "Mystical Space Typhoon" is chained, targeting that Jar of Greed,
 while this card's effect is applying, "Jar of Greed" is still negated, even though the card is in the GY.
             

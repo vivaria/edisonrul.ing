@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Anti-Fusion%20Device
 ### Card Rulings
 
 Destroy 1 face-up Fusion Monster on the field.
-●This effect targets.
+*   This effect targets.
             

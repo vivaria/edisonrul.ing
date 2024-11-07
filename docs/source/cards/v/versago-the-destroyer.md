@@ -27,10 +27,10 @@ Source: https://edisonformat.net/card?name=Versago%20the%20Destroyer
 
 ### Card Rulings
 
-●The Unclassified Effect is not an Ignition, Trigger, Quick, or Continuous Effect. It does not activate.
-●This effect does not target.
-●Using Versago the Destroyer as a Fusion Material does not start a Chain Link.
-●This effect does not apply while Versago the Destroyer is in the Deck or removed from play.
-●This card can't be sent to the GY to when Special Summoning Chimeratech Fortress Dragon or XYZ-Dragon Cannon.
-●If Versago the Destroyer is named by Prohibition, you can't use its effect
+*   The Unclassified Effect is not an Ignition, Trigger, Quick, or Continuous Effect. It does not activate.
+*   This effect does not target.
+*   Using Versago the Destroyer as a Fusion Material does not start a Chain Link.
+*   This effect does not apply while Versago the Destroyer is in the Deck or removed from play.
+*   This card can't be sent to the GY to when Special Summoning Chimeratech Fortress Dragon or XYZ-Dragon Cannon.
+*   If Versago the Destroyer is named by Prohibition, you can't use its effect
             

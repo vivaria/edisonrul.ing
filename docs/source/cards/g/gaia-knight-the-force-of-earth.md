@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Gaia%20Knight,%20the%20Force%20of%20E
 
 ### Card Rulings
 
-● This card is neither an Effect Monster nor a Normal Monster. It's a "Non-Effect Monster".
+*   This card is neither an Effect Monster nor a Normal Monster. It's a "Non-Effect Monster".
             

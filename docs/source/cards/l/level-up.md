@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Level%20Up
 
 ### Card Rulings
 
-●Sending a monster to the GY is a cost for Level Up!
+*   Sending a monster to the GY is a cost for Level Up!
             

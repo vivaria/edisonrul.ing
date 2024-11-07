@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Throwstone%20Unit
 
 ### Card Rulings
 
-●Use the current ATK and DEF of Throwstone Unit and the targeted monster.
-●You can Tribute Throwstone Unit for its own effect.
+*   Use the current ATK and DEF of Throwstone Unit and the targeted monster.
+*   You can Tribute Throwstone Unit for its own effect.
             

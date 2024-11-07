@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Gren,%20Tactician%20of%20Dark%20World
 
 ### Card Rulings
 
-●This is a Trigger Effect. This effect targets.
+*   This is a Trigger Effect. This effect targets.
             

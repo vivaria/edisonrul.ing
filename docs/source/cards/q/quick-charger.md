@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Quick%20Charger
 
 ### Card Rulings
 
-●If an effect is chained that removes 1 of the 2 targeted Batteryman monsters from your GY, the remaining Batteryman monster is added to your hand.
+*   If an effect is chained that removes 1 of the 2 targeted Batteryman monsters from your GY, the remaining Batteryman monster is added to your hand.
             

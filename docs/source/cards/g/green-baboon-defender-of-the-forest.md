@@ -34,7 +34,7 @@ Source: https://edisonformat.net/card?name=Green%20Baboon,%20Defender%20of%20the
 
 ### Card Rulings
 
-● You can only activate 1 Trigger Effect in your hand per chain.
+*   You can only activate 1 Trigger Effect in your hand per chain.
 (You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand/GY).
-● This card's effect can't be activated in the Damage Step, so it can't be activated when a Beast is destroyed by battle.
+*   This card's effect can't be activated in the Damage Step, so it can't be activated when a Beast is destroyed by battle.
             

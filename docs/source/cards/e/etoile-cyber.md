@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Etoile%20Cyber
 
 ### Card Rulings
 
-●This card’s effect is a Continuous Effect that can't be chained to.
+*   This card’s effect is a Continuous Effect that can't be chained to.
             

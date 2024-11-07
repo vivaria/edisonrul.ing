@@ -20,7 +20,7 @@ Source: https://edisonformat.net/card?name=D.D.%20Crow
 
 ### Card Rulings
 
-● You can't discard this card to the GY if "Dimensional Fissure" is applying.
-● If this card targets "Necro Gardna" during your turn, "Necro Gardna" can be chained to this effect.
-● The Summon of "Machina Fortress" does not use the Chain. This card can't be chained to it.
+*   You can't discard this card to the GY if "Dimensional Fissure" is applying.
+*   If this card targets "Necro Gardna" during your turn, "Necro Gardna" can be chained to this effect.
+*   The Summon of "Machina Fortress" does not use the Chain. This card can't be chained to it.
             

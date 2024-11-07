@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Bowganian
 
 ### Card Rulings
 
-●You can use Barrel Behind the Door against Bowganian's effect.
-●Bowganian's effect is a Trigger Effect.
+*   You can use Barrel Behind the Door against Bowganian's effect.
+*   Bowganian's effect is a Trigger Effect.
             

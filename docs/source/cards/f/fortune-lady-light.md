@@ -31,6 +31,6 @@ Source: https://edisonformat.net/card?name=Fortune%20Lady%20Light
 ### Card Rulings
 
 The ③:
-●Will trigger even if Fortune Lady Light left the field while face-down.
-●Will trigger even if this card returns to the hand (even if it was face-down, in which case you must reveal it to activate the effect).
+*   Will trigger even if Fortune Lady Light left the field while face-down.
+*   Will trigger even if this card returns to the hand (even if it was face-down, in which case you must reveal it to activate the effect).
             

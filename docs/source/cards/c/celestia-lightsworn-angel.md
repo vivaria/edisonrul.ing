@@ -29,7 +29,7 @@ Source: https://edisonformat.net/card?name=Celestia,%20Lightsworn%20Angel
 
 ### Card Rulings
 
-● If you choose to activate this effect, you must target at least 1 card on the field.
-● Sending cards is a cost, not an effect.
+*   If you choose to activate this effect, you must target at least 1 card on the field.
+*   Sending cards is a cost, not an effect.
 If this card's summon is successful, you'll send cards and declare targets. Afterwards, "Pulling the Rug" may be chained.
             

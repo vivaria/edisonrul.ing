@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Swing%20of%20Memories
 
 ### Card Rulings
 
-●If the Normal Monster Special Summoned by “Swing of Memories” is flipped face-down, it won't be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it won't be destroyed during the End Phase.
-●If the Normal Monster Special Summoned by “Swing of Memories” is removed from play with “Interdimensional Matter Transporter”, it won't be destroyed during the End Phase even after it is returned to the field.
+*   If the Normal Monster Special Summoned by “Swing of Memories” is flipped face-down, it won't be destroyed during the End Phase. Even if the Normal Monster is flipped face-up during the same turn, it won't be destroyed during the End Phase.
+*   If the Normal Monster Special Summoned by “Swing of Memories” is removed from play with “Interdimensional Matter Transporter”, it won't be destroyed during the End Phase even after it is returned to the field.
             

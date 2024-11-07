@@ -24,5 +24,5 @@ Source: https://edisonformat.net/card?name=Alien%20Ammonite
 
 ### Card Rulings
 
-●No rulings currently avaiable.
+*   No rulings currently avaiable.
             

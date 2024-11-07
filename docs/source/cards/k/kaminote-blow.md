@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Kaminote%20Blow
 
 ### Card Rulings
 
-●The effect of “Kaminote Blow” that destroys monsters at the end of the Damage Step is not part of a chain.
+*   The effect of “Kaminote Blow” that destroys monsters at the end of the Damage Step is not part of a chain.
             

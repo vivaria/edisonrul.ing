@@ -33,18 +33,18 @@ Source: https://edisonformat.net/card?name=Starlight%20Road
 ### Card Rulings
 
 How chains work:
-● When a card/effect is activated, the activator's opponent is the first to be able to add to the chain. If they decline, the activator can then add to the chain.
-● Road must be chained directly to the card/effect that would destroy 2+ cards you control. If Torrential Tribute is CL1, and Jar of Greed is CL2, Starlight Road cannot be CL3.
-● If you activate "Heavy Storm", and your opponent doesn't chain anything to Storm, and 2+ of your cards (excluding Storm itself) would be destroyed, you can chain this card.
+*   When a card/effect is activated, the activator's opponent is the first to be able to add to the chain. If they decline, the activator can then add to the chain.
+*   Road must be chained directly to the card/effect that would destroy 2+ cards you control. If Torrential Tribute is CL1, and Jar of Greed is CL2, Starlight Road cannot be CL3.
+*   If you activate "Heavy Storm", and your opponent doesn't chain anything to Storm, and 2+ of your cards (excluding Storm itself) would be destroyed, you can chain this card.
 
 Vs effects that might not destroy 2+ cards:
-● You can only activate Road if it is certain that 2+ cards you control would be destroyed.
-● Road can never be chained to the effect of "Elemental HERO Stratos".
-● Road can never be chained to the effect of "Saber Slash" (unless your opponent controls no face-up cards and you control at least 2 "X-Saber" monsters).
-● This can be activated even if the cards that would be destroyed are unaffected by card effects. If you control 2 “Tenkabito Shien”, and “Torrential Tribute” is activated, you can still activate this card.
+*   You can only activate Road if it is certain that 2+ cards you control would be destroyed.
+*   Road can never be chained to the effect of "Elemental HERO Stratos".
+*   Road can never be chained to the effect of "Saber Slash" (unless your opponent controls no face-up cards and you control at least 2 "X-Saber" monsters).
+*   This can be activated even if the cards that would be destroyed are unaffected by card effects. If you control 2 “Tenkabito Shien”, and “Torrential Tribute” is activated, you can still activate this card.
 
 On Summoning Stardust Dragon:
-● If the effect is not negated or the card is not destroyed, you can't Summon Stardust.
-● Cards which are in the Deck, GY, or Banished, can't be destroyed. If "Heavy Storm" is activated, and Road is chained, and "Twister" is chained, targeting Storm, Storm's effect will be negated by Road, but Stardust won't be Summoned (Storm wasn't destroyed by Road).
-● This card does not Synchro Summon. If Stardust Dragon summoned this way is later sent to the GY/banished, it can’t be Summoned again by any means.
+*   If the effect is not negated or the card is not destroyed, you can't Summon Stardust.
+*   Cards which are in the Deck, GY, or Banished, can't be destroyed. If "Heavy Storm" is activated, and Road is chained, and "Twister" is chained, targeting Storm, Storm's effect will be negated by Road, but Stardust won't be Summoned (Storm wasn't destroyed by Road).
+*   This card does not Synchro Summon. If Stardust Dragon summoned this way is later sent to the GY/banished, it can’t be Summoned again by any means.
             

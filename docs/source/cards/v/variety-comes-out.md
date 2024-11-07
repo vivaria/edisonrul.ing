@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Variety%20Comes%20Out
 
 ### Card Rulings
 
-●Returning the Synchro Monster to the Extra Deck is a cost.
-●You target the Tuner monster●If the Level of the Synchro Monster you returned was being modified, you refer to the modified Level in choosing targets.
+*   Returning the Synchro Monster to the Extra Deck is a cost.
+*   You target the Tuner monster●If the Level of the Synchro Monster you returned was being modified, you refer to the modified Level in choosing targets.
             

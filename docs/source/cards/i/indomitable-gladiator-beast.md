@@ -21,5 +21,5 @@ Source: https://edisonformat.net/card?name=Indomitable%20Gladiator%20Beast
 
 ### Card Rulings
 
-● The GY effect is Spell Speed 1.
+*   The GY effect is Spell Speed 1.
             

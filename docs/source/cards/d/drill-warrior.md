@@ -51,17 +51,17 @@ Source: https://edisonformat.net/card?name=Drill%20Warrior
 ### Card Rulings
 
 The ①:
-● ATK remains halved until Drill leaves the field or is flipped face-down.
+*   ATK remains halved until Drill leaves the field or is flipped face-down.
 
-● The ②:
-● Discarding is part of the effect, not a cost.
-● If "Book of Moon" is chained, you still discard 1 card, and this card is still banished.
-● If "Raigeki Break" is chained, you still discard 1 card, but this card is not banished.
-● A discarded "Peten the Dark Clown" will not miss its timing. You can read more about that here: https://edisonformat.net/rules/compendium/conjunctions
+*   The ②:
+*   Discarding is part of the effect, not a cost.
+*   If "Book of Moon" is chained, you still discard 1 card, and this card is still banished.
+*   If "Raigeki Break" is chained, you still discard 1 card, but this card is not banished.
+*   A discarded "Peten the Dark Clown" will not miss its timing. You can read more about that here: https://edisonformat.net/rules/compendium/conjunctions
 
 The ③:
-● This card is always Summoned to its owner's field (even if it was banished from the other player's field).
-● If you control 5 monsters, Drill is sent to GY instead of being Summoned (no card is added to the hand).
-● If you add a monster to your hand, “add 1 monster” happens after “Special Summon this card”, so cards like Torrential Tribute will have incorrect activation timing.
+*   This card is always Summoned to its owner's field (even if it was banished from the other player's field).
+*   If you control 5 monsters, Drill is sent to GY instead of being Summoned (no card is added to the hand).
+*   If you add a monster to your hand, “add 1 monster” happens after “Special Summon this card”, so cards like Torrential Tribute will have incorrect activation timing.
 Read more about that here: https://edisonformat.net/rules/compendium/missing-the-timing
             

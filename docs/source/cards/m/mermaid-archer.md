@@ -28,5 +28,5 @@ Source: https://edisonformat.net/card?name=Mermaid%20Archer
 
 ### Card Rulings
 
-● If both this card and its equipped monster would be destroyed at the same time, you can't use the ③ effect to prevent its destruction.
+*   If both this card and its equipped monster would be destroyed at the same time, you can't use the ③ effect to prevent its destruction.
             

@@ -41,8 +41,8 @@ Source: https://edisonformat.net/card?name=Van'Dalgyon%20the%20Dark%20Dragon%20L
 
 ### Card Rulings
 
-● You can only activate 1 Trigger Effect in your hand per chain.
+*   You can only activate 1 Trigger Effect in your hand per chain.
 (You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).
-● The ① effect does not trigger when a Spell/Trap Effect is negated; it only triggers when the Spell/Trap itself is negated.
+*   The ① effect does not trigger when a Spell/Trap Effect is negated; it only triggers when the Spell/Trap itself is negated.
 (Activating a Spell/Trap Card from your hand is a Card Activation. Activating the effect of a Spell/Trap which is already face-up on the field is an Effect Activation).
             

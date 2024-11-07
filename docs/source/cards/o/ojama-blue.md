@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Ojama%20Blue
 
 ### Card Rulings
 
-●You can’t activate the effect of “Ojama Blue” unless you have 2 “Ojama” cards in your Deck.
+*   You can’t activate the effect of “Ojama Blue” unless you have 2 “Ojama” cards in your Deck.
             

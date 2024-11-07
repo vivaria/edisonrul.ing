@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Ojama%20Knight
 
 ### Card Rulings
 
-●You can use Ojama Tokens as Fusion Material Monsters when you Summon this card.
-●If Ojama Knight is destroyed while Centrifugal Field is in play, you can't Special Summon any monsters.
+*   You can use Ojama Tokens as Fusion Material Monsters when you Summon this card.
+*   If Ojama Knight is destroyed while Centrifugal Field is in play, you can't Special Summon any monsters.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Soul%20Reversal
 
 ### Card Rulings
 
-●Soul Reversal's effect targets.
+*   Soul Reversal's effect targets.
             

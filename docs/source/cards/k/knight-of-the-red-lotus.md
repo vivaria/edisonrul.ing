@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Knight%20of%20the%20Red%20Lotus
 
 ### Card Rulings
 
-●You can Normal Summon this monster. The effect to Special Summon targets.
+*   You can Normal Summon this monster. The effect to Special Summon targets.
             

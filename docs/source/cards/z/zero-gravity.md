@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Zero%20Gravity
 
 ### Card Rulings
 
-●Zero Gravity won't flip a card face-down.
+*   Zero Gravity won't flip a card face-down.
             

@@ -20,6 +20,6 @@ Source: https://edisonformat.net/card?name=Spiritual%20Water%20Art%20-%20Aoi
 
 ### Card Rulings
 
-● Online, you may write down the cards in your opponent's hand.
+*   Online, you may write down the cards in your opponent's hand.
 In real-life tournaments, you may never take any notes.
             

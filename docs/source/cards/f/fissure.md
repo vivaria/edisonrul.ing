@@ -24,5 +24,5 @@ Source: https://edisonformat.net/card?name=Fissure
 
 ### Card Rulings
 
-● The monster to destroy is chosen as this card resolves.
+*   The monster to destroy is chosen as this card resolves.
             

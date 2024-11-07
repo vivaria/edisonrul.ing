@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Upstart%20Goblin
 
 ### Card Rulings
 
-● If "Infernity Archfiend" is drawn by this effect, it misses its timing.
+*   If "Infernity Archfiend" is drawn by this effect, it misses its timing.
             

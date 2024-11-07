@@ -32,6 +32,6 @@ Source: https://edisonformat.net/card?name=Cyber%20Phoenix
 
 ### Card Rulings
 
-● If this Set card was destroyed by battle, you can't activate the ② effect.
+*   If this Set card was destroyed by battle, you can't activate the ② effect.
 It must be face-up when targeted for the attack.
             

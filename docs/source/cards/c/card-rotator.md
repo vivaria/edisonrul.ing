@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Card%20Rotator
 
 ### Card Rulings
 
-●Sending 1 card from your hand to the GY is a cost.
-●The Flip Effects of Flip Effect Monsters that are flipped face-up by Card Rotator will activate after Card Rotator resolves.
+*   Sending 1 card from your hand to the GY is a cost.
+*   The Flip Effects of Flip Effect Monsters that are flipped face-up by Card Rotator will activate after Card Rotator resolves.
             

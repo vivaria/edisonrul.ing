@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Mind%20Over%20Matter
 
 ### Card Rulings
 
-●You can Tribute a face-down Psychic-Type monster you control.
+*   You can Tribute a face-down Psychic-Type monster you control.
             

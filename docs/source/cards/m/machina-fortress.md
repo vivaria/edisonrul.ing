@@ -34,6 +34,6 @@ Source: https://edisonformat.net/card?name=Machina%20Fortress
 
 ### Card Rulings
 
-● This card can discard itself as part of the cost for its Ⓢ.
-● If the effect targeting this card resolves negated, the ② effect still applies.
+*   This card can discard itself as part of the cost for its Ⓢ.
+*   If the effect targeting this card resolves negated, the ② effect still applies.
             

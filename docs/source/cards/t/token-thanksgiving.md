@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Token%20Thanksgiving
 
 ### Card Rulings
 
-●Token Thanksgiving will destroy a Monster Token equipped to Relinquished.
+*   Token Thanksgiving will destroy a Monster Token equipped to Relinquished.
             

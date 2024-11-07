@@ -42,22 +42,22 @@ Source: https://edisonformat.net/card?name=Tragoedia
 ### Card Rulings
 
 The ① Effect:
-● This effect activates in Substep 5.
-●If "X-Saber Airbellum" inflicted direct damage, you can activate this as chain link 2 (before a random card is chosen).
-● You can only activate 1 trigger effect in your hand per chain, so you can't activate the ① in the same chain as your "Gorz the Emissary of Darkness".
+*   This effect activates in Substep 5.
+*   If "X-Saber Airbellum" inflicted direct damage, you can activate this as chain link 2 (before a random card is chosen).
+*   You can only activate 1 trigger effect in your hand per chain, so you can't activate the ① in the same chain as your "Gorz the Emissary of Darkness".
 
 The ② Effect:
-● Vs "Limit Reverse" and "Sangan":
+*   Vs "Limit Reverse" and "Sangan":
 This card's ATK is ? while in Deck/GY/Banished, so these cards cannot Summon/Search it.
-● Vs "Shrink":
+*   Vs "Shrink":
 This effect halves the original ATK (0) to 0. It immediately regains ATK for each card in hand.
-● Vs "Blackwing - Gale the Whirlwind" and "Black Garden":
+*   Vs "Blackwing - Gale the Whirlwind" and "Black Garden":
 These effects make the current ATK "become" halved.
 The ATK remains halved and won't change even if number of cards in hand does.
 
 The ③ Effect:
-● If that target isn't face-up at resolution, control is not changed.
+*   If that target isn't face-up at resolution, control is not changed.
 
 The ④ Effect:
-● If that target leaves the GY, this card's level is not changed.
+*   If that target leaves the GY, this card's level is not changed.
             

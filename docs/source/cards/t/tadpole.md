@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=T.A.D.P.O.L.E.
 
 ### Card Rulings
 
-●If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.
+*   If you choose to activate the effect of “T.A.D.P.O.L.E.”, it can be chained to. If you activate the effect, you must add “T.A.D.P.O.L.E.(s)” to your hand.
             

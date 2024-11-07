@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Neo-Spacian%20Air%20Hummingbird
 
 ### Card Rulings
 
-●This is an Ignition Effect.
+*   This is an Ignition Effect.
             

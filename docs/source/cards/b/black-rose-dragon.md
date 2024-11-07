@@ -31,5 +31,5 @@ Source: https://edisonformat.net/card?name=Black%20Rose%20Dragon
 
 ### Card Rulings
 
-● If Synchro Summoned using "Dandylion", This ① effect can only be activated as Chain Link 2 (the tokens will be summoned after all cards are destroyed).
+*   If Synchro Summoned using "Dandylion", This ① effect can only be activated as Chain Link 2 (the tokens will be summoned after all cards are destroyed).
             

@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=Blue%20Thunder%20T-45
 
 ### Card Rulings
 
-● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.
+*   This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.
             

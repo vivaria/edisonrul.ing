@@ -28,7 +28,7 @@ Source: https://edisonformat.net/card?name=Iron%20Chain%20Dragon
 
 ### Card Rulings
 
-● Banishing monsters is part of the effect, not a cost. It happens when the ① resolves.
-● If there are no "Iron Chain" monsters in your GY, you cannot activate the ①.
-●The ② is mandatory.
+*   Banishing monsters is part of the effect, not a cost. It happens when the ① resolves.
+*   If there are no "Iron Chain" monsters in your GY, you cannot activate the ①.
+*   The ② is mandatory.
             

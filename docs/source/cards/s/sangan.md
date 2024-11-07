@@ -28,7 +28,7 @@ Source: https://edisonformat.net/card?name=Sangan
 
 ### Card Rulings
 
-● This card’s effect can be activated multiple times per turn. You may use the effects of cards searched this way the same turn that you searched them.
+*   This card’s effect can be activated multiple times per turn. You may use the effects of cards searched this way the same turn that you searched them.
 
-● Mandatory effects such as these cannot miss their activation timing.
+*   Mandatory effects such as these cannot miss their activation timing.
             

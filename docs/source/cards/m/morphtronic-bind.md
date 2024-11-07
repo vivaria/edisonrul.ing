@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Morphtronic%20Bind
 
 ### Card Rulings
 
-●If you activate “Morphtronic Bind” after an attack is already declared, the attack resolves as normal.
+*   If you activate “Morphtronic Bind” after an attack is already declared, the attack resolves as normal.
             

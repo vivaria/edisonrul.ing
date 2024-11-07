@@ -30,5 +30,5 @@ Source: https://edisonformat.net/card?name=Nitro%20Warrior
 
 ### Card Rulings
 
-● Attack Declaration still happens for this card's second attack with its ② effect.
+*   Attack Declaration still happens for this card's second attack with its ② effect.
             

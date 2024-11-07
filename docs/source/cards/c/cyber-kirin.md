@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cyber%20Kirin
 
 ### Card Rulings
 
-●“Cyber Kirin’s” effect is an Ignition Effect, so you can only activate it during your own Main Phases.
+*   “Cyber Kirin’s” effect is an Ignition Effect, so you can only activate it during your own Main Phases.
             

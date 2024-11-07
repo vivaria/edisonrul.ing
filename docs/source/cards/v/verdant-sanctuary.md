@@ -30,8 +30,8 @@ Source: https://edisonformat.net/card?name=Verdant%20Sanctuary
 
 ### Card Rulings
 
-● If a Set insect is attacked, this effect won't activate.
+*   If a Set insect is attacked, this effect won't activate.
 (It needs to be face-up when targeted for the attack).
-● If 2 insects are destroyed at the same time, this effect triggers twice.
-● You search equal to the original Level of the Insect in the GY, not its level on the field.
+*   If 2 insects are destroyed at the same time, this effect triggers twice.
+*   You search equal to the original Level of the Insect in the GY, not its level on the field.
             

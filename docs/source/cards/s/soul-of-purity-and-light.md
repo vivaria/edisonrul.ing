@@ -32,5 +32,5 @@ Source: https://edisonformat.net/card?name=Soul%20of%20Purity%20and%20Light
 
 ### Card Rulings
 
-● If this card was initially Special Summoned by its own procedure (and the Summon wasn't negated), it can later be summoned by card effects.
+*   If this card was initially Special Summoned by its own procedure (and the Summon wasn't negated), it can later be summoned by card effects.
             

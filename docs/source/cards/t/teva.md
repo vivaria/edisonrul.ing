@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Teva
 
 ### Card Rulings
 
-●This effect starts a chain. 'Pulling the Rug' can be chained to it.
+*   This effect starts a chain. 'Pulling the Rug' can be chained to it.
             

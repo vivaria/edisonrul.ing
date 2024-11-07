@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Fortune%20Lady%20Dark
 
 ### Card Rulings
 
-●This effect targets the Fortune Lady monster in your GY.
-●If a Fortune Lady monster you control battles another monster and both are destroyed, you can't activate the effect of Fortune Lady Dark.
-●If Fortune Lady Dark is not face-up when a Fortune Lady monster you control destroys an opponent's monster by battle and sends it to the GY, you can't activate this effect.
-●If the Fortune Lady monster that destroys an opponent's monster by battle is not face-up when the monster is sent to the GY, you can't activate this effect.
+*   This effect targets the Fortune Lady monster in your GY.
+*   If a Fortune Lady monster you control battles another monster and both are destroyed, you can't activate the effect of Fortune Lady Dark.
+*   If Fortune Lady Dark is not face-up when a Fortune Lady monster you control destroys an opponent's monster by battle and sends it to the GY, you can't activate this effect.
+*   If the Fortune Lady monster that destroys an opponent's monster by battle is not face-up when the monster is sent to the GY, you can't activate this effect.
             

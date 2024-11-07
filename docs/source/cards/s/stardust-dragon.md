@@ -39,6 +39,6 @@ Source: https://edisonformat.net/card?name=Stardust%20Dragon
 
 ### Card Rulings
 
-● The ① effect can only negate Cards/Effects which would 100% destroy a card
-● If the activation or effect of the ② effect is negated, it can't activate again.
+*   The ① effect can only negate Cards/Effects which would 100% destroy a card
+*   If the activation or effect of the ② effect is negated, it can't activate again.
             

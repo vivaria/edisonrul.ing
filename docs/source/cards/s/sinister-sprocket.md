@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Sinister%20Sprocket
 
 ### Card Rulings
 
-●When Sinister Sprocket is used as a Synchro Material Monster, if the Synchro Monster becomes a DARK monster when it is Synchro Summoned (due to DNA Transplant, etc.), you can activate Sinister Sprocket's effect.
+*   When Sinister Sprocket is used as a Synchro Material Monster, if the Synchro Monster becomes a DARK monster when it is Synchro Summoned (due to DNA Transplant, etc.), you can activate Sinister Sprocket's effect.
             

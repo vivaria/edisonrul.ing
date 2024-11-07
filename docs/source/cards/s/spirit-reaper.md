@@ -34,9 +34,9 @@ Source: https://edisonformat.net/card?name=Spirit%20Reaper
 
 ### Card Rulings
 
-● This must be face-up after the targeting card resolves in order to be destroyed.
+*   This must be face-up after the targeting card resolves in order to be destroyed.
 (If the targeting card’s activation is negated, this card is not destroyed).
 (If the targeting card’s effect is negated, this card is still destroyed).
-● This card will be destroyed by its ② effect even if targeted by a continuous effect.
+*   This card will be destroyed by its ② effect even if targeted by a continuous effect.
 (Such as an Equip Spell Card, or by “Call of the Haunted”).
             

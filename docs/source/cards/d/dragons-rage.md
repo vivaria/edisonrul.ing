@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Dragon's%20Rage
 
 ### Card Rulings
 
-●If you attack with Spear Dragon or a Dragon-Type monster equipped with Fairy Meteor Crush, the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of Dragon’s Rage won't inflict the damage again.
+*   If you attack with Spear Dragon or a Dragon-Type monster equipped with Fairy Meteor Crush, the difference between your monster’s ATK and the attacked monster’s DEF will only be inflicted as Battle Damage once. The effect of Dragon’s Rage won't inflict the damage again.
             

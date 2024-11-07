@@ -30,7 +30,7 @@ Source: https://edisonformat.net/card?name=Cross%20Porter
 
 ### Card Rulings
 
-● If this card is sent to the GY to activate its ① effect, its ② effect will have incorrect timing.
+*   If this card is sent to the GY to activate its ① effect, its ② effect will have incorrect timing.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
             

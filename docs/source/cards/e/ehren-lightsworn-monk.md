@@ -43,6 +43,6 @@ Source: https://edisonformat.net/card?name=Ehren,%20Lightsworn%20Monk
 
 ### Card Rulings
 
-● If this card attacks a Set monster, that monster is flipped face-up, shuffled into the Deck, and after Damage Calculation its Flip Effect (if any) is activated. However, that Flip Monster’s effect is treated as being activated on the field (and can be negated by Light-Imprisoning Mirror).
-● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+*   If this card attacks a Set monster, that monster is flipped face-up, shuffled into the Deck, and after Damage Calculation its Flip Effect (if any) is activated. However, that Flip Monster’s effect is treated as being activated on the field (and can be negated by Light-Imprisoning Mirror).
+*   If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
             

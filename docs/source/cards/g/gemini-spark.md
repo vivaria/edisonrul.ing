@@ -28,9 +28,9 @@ Source: https://edisonformat.net/card?name=Gemini%20Spark
 
 ### Card Rulings
 
-● If this card was activated as Chain Link 1, it can't cause anything to miss its timing.
-● If this card was activated as Chain Link 2, targeting "Dupe Frog", Dupe Frog will miss its timing.
+*   If this card was activated as Chain Link 1, it can't cause anything to miss its timing.
+*   If this card was activated as Chain Link 2, targeting "Dupe Frog", Dupe Frog will miss its timing.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing.
-● If a Spell/Trap was targeted, and was chained, it's still destroyed, and you still draw (activated cards only leave the field once the entire chain has resolved).
+*   If a Spell/Trap was targeted, and was chained, it's still destroyed, and you still draw (activated cards only leave the field once the entire chain has resolved).
             

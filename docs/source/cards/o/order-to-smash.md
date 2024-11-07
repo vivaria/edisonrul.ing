@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Order%20to%20Smash
 
 ### Card Rulings
 
-●You Tribute when you resolve Order to Smash's effect.
-●You select the Spell/Trap Card when you resolve Order to Smash's effect.
+*   You Tribute when you resolve Order to Smash's effect.
+*   You select the Spell/Trap Card when you resolve Order to Smash's effect.
             

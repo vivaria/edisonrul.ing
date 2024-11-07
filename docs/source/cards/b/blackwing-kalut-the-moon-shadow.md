@@ -26,5 +26,5 @@ Source: https://edisonformat.net/card?name=Blackwing%20-%20Kalut%20the%20Moon%20
 
 ### Card Rulings
 
-● This effect can be activated at any time in the Damage Step, even During Damage Calculation.
+*   This effect can be activated at any time in the Damage Step, even During Damage Calculation.
             

@@ -36,7 +36,7 @@ Source: https://edisonformat.net/card?name=Prime%20Material%20Dragon
 
 ### Card Rulings
 
-● If this card and "Bad Reaction to Simochi" are both applying, any effect that gains LP will gain LP, and any effect which inflicts damage will inflict damage.
-● The ② effect can be activated during the Damage Step, as it negates activations.
-● The ② effect can't be chained to effects which are not guaranteed to destroy a monster● The ② effect can't be chained to a "Royal Oppression" which is negating the summon of a monster not already on the field, such as the summon of "Cyber Dragon".
+*   If this card and "Bad Reaction to Simochi" are both applying, any effect that gains LP will gain LP, and any effect which inflicts damage will inflict damage.
+*   The ② effect can be activated during the Damage Step, as it negates activations.
+*   The ② effect can't be chained to effects which are not guaranteed to destroy a monster● The ② effect can't be chained to a "Royal Oppression" which is negating the summon of a monster not already on the field, such as the summon of "Cyber Dragon".
             

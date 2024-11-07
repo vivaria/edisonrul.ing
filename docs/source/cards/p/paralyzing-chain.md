@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Paralyzing%20Chain
 
 ### Card Rulings
 
-●Paralyzing Chain's effect is a Trigger Effect.
+*   Paralyzing Chain's effect is a Trigger Effect.
             

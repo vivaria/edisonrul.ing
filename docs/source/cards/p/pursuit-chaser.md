@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Pursuit%20Chaser
 
 ### Card Rulings
 
-●If Pursuit Chaser is in Defense Position when it is destroyed by battle, its effect does not activate.
+*   If Pursuit Chaser is in Defense Position when it is destroyed by battle, its effect does not activate.
             

@@ -26,5 +26,5 @@ Source: https://edisonformat.net/card?name=System%20Down
 
 ### Card Rulings
 
-● Those cards are banished, not destroyed.
+*   Those cards are banished, not destroyed.
             

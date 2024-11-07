@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Foolish%20Burial
 
 ### Card Rulings
 
-● If you activate this card while "Macro Cosmos" is applying, that monster ins banished, instead.
+*   If you activate this card while "Macro Cosmos" is applying, that monster ins banished, instead.
             

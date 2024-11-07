@@ -35,10 +35,10 @@ Source: https://edisonformat.net/card?name=King%20of%20the%20Swamp
 
 ### Card Rulings
 
-● The ① effect doesn't apply while in the Deck.
+*   The ① effect doesn't apply while in the Deck.
 You can use this card in the Deck as Fusion Material as the WATER for "Elemental HERO Absolute Zero",
 but you can't use this card in the Deck as Fusion Material as the "Cyber Dragon" for "Chimeratech Overdragon".
-● You can't use the ① effect as a Specific Material for "Contact Fusion" like "Gladiator Beast Gyzarus".
-● You can onlt use the ① effect for a listed card name, like "Cyber Dragon".
+*   You can't use the ① effect as a Specific Material for "Contact Fusion" like "Gladiator Beast Gyzarus".
+*   You can onlt use the ① effect for a listed card name, like "Cyber Dragon".
 You can't use it for a generic name, like "1 "HERO" Monster".
             

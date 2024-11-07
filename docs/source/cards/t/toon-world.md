@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Toon%20World
 
 ### Card Rulings
 
-●The 1000 Life Points needs to only be paid once when this card is activated. Paying 1000 Life Points is a cost.
+*   The 1000 Life Points needs to only be paid once when this card is activated. Paying 1000 Life Points is a cost.
             

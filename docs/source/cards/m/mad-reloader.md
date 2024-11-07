@@ -22,10 +22,10 @@ Source: https://edisonformat.net/card?name=Mad%20Reloader
 
 ### Card Rulings
 
-● This effect is mandatory (Unless an effect says "you can", it is a mandatory effect).
-● If you can't send exactly 2 cards, you send none.
-● If you don't send exactly 2 cards, you draw none.
-● Sending and drawing is simultaneous. It doesn't cause anything to miss timing.
+*   This effect is mandatory (Unless an effect says "you can", it is a mandatory effect).
+*   If you can't send exactly 2 cards, you send none.
+*   If you don't send exactly 2 cards, you draw none.
+*   Sending and drawing is simultaneous. It doesn't cause anything to miss timing.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
             

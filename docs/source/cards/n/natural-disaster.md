@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Natural%20Disaster
 
 ### Card Rulings
 
-●The effect of “Natural Disaster” that inflicts damage to your opponent’s Life Points begins a Chain.
+*   The effect of “Natural Disaster” that inflicts damage to your opponent’s Life Points begins a Chain.
             

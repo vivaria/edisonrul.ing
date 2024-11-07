@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Vanquishing%20Light
 
 ### Card Rulings
 
-● This card can't be used to negate monsters summoned via card effects. It must be used to negate "inherent" summons, such as Synchro Symmons, the Summon of "Machina Fortress", or "Cyber Dragon".
+*   This card can't be used to negate monsters summoned via card effects. It must be used to negate "inherent" summons, such as Synchro Symmons, the Summon of "Machina Fortress", or "Cyber Dragon".
             

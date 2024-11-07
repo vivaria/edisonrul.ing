@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Fortune%20Lady%20Earth
 
 ### Card Rulings
 
-●If the Level of Fortune Lady Earth is reduced by an effect like Miniaturize, the effect to inflict damage won't activate when Fortune Lady Earth's Level returns to normal.
+*   If the Level of Fortune Lady Earth is reduced by an effect like Miniaturize, the effect to inflict damage won't activate when Fortune Lady Earth's Level returns to normal.
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Psychic%20Overload
 
 ### Card Rulings
 
-●Psychic Overload targets 3 Psychic-Type monsters in your GY.
-●If an effect is chained that removes 1 or more of the targeted monsters from the GY, the effect of Psychic Overload disappears.
+*   Psychic Overload targets 3 Psychic-Type monsters in your GY.
+*   If an effect is chained that removes 1 or more of the targeted monsters from the GY, the effect of Psychic Overload disappears.
             

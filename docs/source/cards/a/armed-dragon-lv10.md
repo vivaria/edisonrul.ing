@@ -28,10 +28,10 @@ Source: https://edisonformat.net/card?name=Armed%20Dragon%20LV1
 
 ### Card Rulings
 
-●The Condition can't be negated.
-●The Unclassified Effect applies in the hand (this Special Summon doesn't start a Chain).
-●You can't Special Summon Armed Dragon LV10 with Level Up! because Armed Dragon LV7 doesn't mention Armed Dragon LV7 in its card text.
-●Cannot be Special Summoned from the GY / banished, even if it was properly Summoned.
-●Sending 1 Monster Card from your hand is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.
-●Face-down monsters are not destroyed.
+*   The Condition can't be negated.
+*   The Unclassified Effect applies in the hand (this Special Summon doesn't start a Chain).
+*   You can't Special Summon Armed Dragon LV10 with Level Up! because Armed Dragon LV7 doesn't mention Armed Dragon LV7 in its card text.
+*   Cannot be Special Summoned from the GY / banished, even if it was properly Summoned.
+*   Sending 1 Monster Card from your hand is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.
+*   Face-down monsters are not destroyed.
             

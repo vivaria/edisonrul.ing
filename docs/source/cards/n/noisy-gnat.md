@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Noisy%20Gnat
 
 ### Card Rulings
 
-●Noisy Gnat's effect is an Ignition Effect. Sending Noisy Gnat to the GY is a cost.
-●Noisy Gnat's effect targets 1 face-up monster.
+*   Noisy Gnat's effect is an Ignition Effect. Sending Noisy Gnat to the GY is a cost.
+*   Noisy Gnat's effect targets 1 face-up monster.
             

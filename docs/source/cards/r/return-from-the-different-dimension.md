@@ -26,5 +26,5 @@ Source: https://edisonformat.net/card?name=Return%20from%20the%20Different%20Dim
 
 ### Card Rulings
 
-● Monsters flipped face-down by this effect are not banished.
+*   Monsters flipped face-down by this effect are not banished.
             

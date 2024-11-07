@@ -27,7 +27,7 @@ Source: https://edisonformat.net/card?name=Poison%20Draw%20Frog
 
 ### Card Rulings
 
-● If this card is tributed for the effect of "Substitoad", it will miss its timing.
+*   If this card is tributed for the effect of "Substitoad", it will miss its timing.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
             

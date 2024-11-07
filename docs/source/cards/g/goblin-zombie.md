@@ -30,8 +30,8 @@ Source: https://edisonformat.net/card?name=Goblin%20Zombie
 
 ### Card Rulings
 
-● Both of these effects are mandatory.
-● If this card is used as Synchro Material for "Brionac, Dragon of the Ice Barrier",
+*   Both of these effects are mandatory.
+*   If this card is used as Synchro Material for "Brionac, Dragon of the Ice Barrier",
 this card's ② effect must trigger. Because of this, you don't retain Ignition Priority,
 and can't activate Brionac's effect until Goblin Zombie has finished resolving.
             

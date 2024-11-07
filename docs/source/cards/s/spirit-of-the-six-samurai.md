@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Spirit%20of%20the%20Six%20Samurai
 ### Card Rulings
 
 These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
-●The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.
-●If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.
-●If both Spirit of the Six Samurai and the equipped Six Samurai monster are destroyed by the same effect, the Spirit of the Six Samurai's effect is not applied.
+*   The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the GY.
+*   If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.
+*   If both Spirit of the Six Samurai and the equipped Six Samurai monster are destroyed by the same effect, the Spirit of the Six Samurai's effect is not applied.
             

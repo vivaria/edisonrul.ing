@@ -32,8 +32,8 @@ Source: https://edisonformat.net/card?name=Quickdraw%20Synchron
 
 ### Card Rulings
 
-● The ① effect is an ignition effect. It activates, and can be chained to.
-● Sending a card to the GY is part of the ① effect. It happens when this effect resolves.
+*   The ① effect is an ignition effect. It activates, and can be chained to.
+*   Sending a card to the GY is part of the ① effect. It happens when this effect resolves.
 If you can't send, you can't Summon. If you can't Summon, you don't send.
 (If the effect is negated, you don't send a card from your hand to the GY)
             

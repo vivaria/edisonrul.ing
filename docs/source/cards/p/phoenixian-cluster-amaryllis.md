@@ -33,7 +33,7 @@ Source: https://edisonformat.net/card?name=Phoenixian%20Cluster%20Amaryllis
 
 ### Card Rulings
 
-● The ③ effect is not "once per turn", so if it is negated by "Royal Oppression", it can be activated again in the same End Phase.
+*   The ③ effect is not "once per turn", so if it is negated by "Royal Oppression", it can be activated again in the same End Phase.
 (Banishing a plant is a cost, so even if it is negated this way, the plant remains banished).
-● The ① is not an activated effect. It happens at the start of Substep 5, before chains are built.
+*   The ① is not an activated effect. It happens at the start of Substep 5, before chains are built.
             

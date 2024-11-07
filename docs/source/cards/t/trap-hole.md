@@ -24,5 +24,5 @@ Source: https://edisonformat.net/card?name=Trap%20Hole
 
 ### Card Rulings
 
-● If that target has less than 1000 ATK when the effect resolves, it is not destroyed.
+*   If that target has less than 1000 ATK when the effect resolves, it is not destroyed.
             

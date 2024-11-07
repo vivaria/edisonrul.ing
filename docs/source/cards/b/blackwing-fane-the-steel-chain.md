@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Blackwing%20-%20Fane%20the%20Steel%20
 
 ### Card Rulings
 
-●This effect targets the Attack Position monster.
+*   This effect targets the Attack Position monster.
             

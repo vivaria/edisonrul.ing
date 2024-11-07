@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Red%20Ogre
 
 ### Card Rulings
 
-●Sending card●Red Ogre's effect targets card(s) on the field.
+*   Sending card●Red Ogre's effect targets card(s) on the field.
             

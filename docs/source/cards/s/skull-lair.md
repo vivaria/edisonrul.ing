@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Skull%20Lair
 
 ### Card Rulings
 
-●Removing Monster Cards in your GY from play is a cost to activate Skull Lair's Ignition effect.
-●You can't destroy a face-down monster because its Level can't be determined.
+*   Removing Monster Cards in your GY from play is a cost to activate Skull Lair's Ignition effect.
+*   You can't destroy a face-down monster because its Level can't be determined.
             

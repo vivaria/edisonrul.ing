@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Magical%20Explosion
 
 ### Card Rulings
 
-● Count the number of Spells at this card's resolution.
+*   Count the number of Spells at this card's resolution.
             

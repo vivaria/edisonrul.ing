@@ -30,8 +30,8 @@ Source: https://edisonformat.net/card?name=Saber%20Slash
 
 ### Card Rulings
 
-● This card does not target. The cards to be destroyed are chosen at resolution.
-● "Stardust Dragon" can always be chained to this card.
-● Your opponent can never chain "Starlight Road" to this card.
+*   This card does not target. The cards to be destroyed are chosen at resolution.
+*   "Stardust Dragon" can always be chained to this card.
+*   Your opponent can never chain "Starlight Road" to this card.
 You can chain "Starlight Road" to this card if you control 2 or more face-up attack position "X-Saber" monsters while your opponent controls no face-up cards
             

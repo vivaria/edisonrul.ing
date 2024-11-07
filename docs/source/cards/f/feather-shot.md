@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Feather%20Shot
 
 ### Card Rulings
 
-●This card targets 1 face-up “Elemental Hero Avian”.
-●You can activate 2 copies of “Feather Shot” and target the same “Elemental Hero Avian”, but the second one won't increase the number of times it can attack. If you select 2 different “Elemental Hero Avians” then neither one can attack.
-●If you Summon a monster after “Feather Shot” has resolved, that monster can't attack.
-●You can't activate “Feather Shot” during a turn where “Absolute End” has been activated. If “Feather Shot” has already resolved, “Absolute End” can't be activated. If “Absolute End” is chained to “Feather Shot”, then the selected “Elemental Hero Avian” can't attack.
+*   This card targets 1 face-up “Elemental Hero Avian”.
+*   You can activate 2 copies of “Feather Shot” and target the same “Elemental Hero Avian”, but the second one won't increase the number of times it can attack. If you select 2 different “Elemental Hero Avians” then neither one can attack.
+*   If you Summon a monster after “Feather Shot” has resolved, that monster can't attack.
+*   You can't activate “Feather Shot” during a turn where “Absolute End” has been activated. If “Feather Shot” has already resolved, “Absolute End” can't be activated. If “Absolute End” is chained to “Feather Shot”, then the selected “Elemental Hero Avian” can't attack.
             

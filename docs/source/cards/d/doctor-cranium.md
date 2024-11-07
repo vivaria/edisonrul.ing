@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Doctor%20Cranium
 
 ### Card Rulings
 
-●Paying 800 Life Points is a cost.
+*   Paying 800 Life Points is a cost.
             

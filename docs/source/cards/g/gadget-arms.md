@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Gadget%20Arms
 
 ### Card Rulings
 
-●“Gadget Arms” targets 1 “Morphtronic” Spell or Trap Card in your GY.
+*   “Gadget Arms” targets 1 “Morphtronic” Spell or Trap Card in your GY.
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=The%20Flute%20of%20Summoning%20Dragon
 
 ### Card Rulings
 
-●You can activate The Flute of Summoning Dragon if your opponent controls a face-up Lord of D. and you don't.
-●You must Special Summon at least 1 Dragon-Type monster or you can't activate this card.
+*   You can activate The Flute of Summoning Dragon if your opponent controls a face-up Lord of D. and you don't.
+*   You must Special Summon at least 1 Dragon-Type monster or you can't activate this card.
             

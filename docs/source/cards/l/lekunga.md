@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Lekunga
 
 ### Card Rulings
 
-●You can't activate Lekunga's effect if you don't have a vacant Monster Card Zone on your side of the field.
+*   You can't activate Lekunga's effect if you don't have a vacant Monster Card Zone on your side of the field.
             

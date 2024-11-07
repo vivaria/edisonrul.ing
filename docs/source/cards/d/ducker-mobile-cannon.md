@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=DUCKER%20Mobile%20Cannon
 
 ### Card Rulings
 
-●DUCKER Mobile Cannon's effect targets 1 Level 4 monster in your GY.
+*   DUCKER Mobile Cannon's effect targets 1 Level 4 monster in your GY.
             

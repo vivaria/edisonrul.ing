@@ -40,6 +40,6 @@ Source: https://edisonformat.net/card?name=Aurkus,%20Lightsworn%20Druid
 
 ### Card Rulings
 
-● This effect prevents monsters "everywhere" from being targeted, including monsters in the GY.
-● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+*   This effect prevents monsters "everywhere" from being targeted, including monsters in the GY.
+*   If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
             

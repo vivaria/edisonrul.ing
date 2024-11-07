@@ -30,8 +30,8 @@ Source: https://edisonformat.net/card?name=Cold%20Wave
 
 ### Card Rulings
 
-● While this effect is applying, effects of already face-up Spells/Traps also can’t be activated.
+*   While this effect is applying, effects of already face-up Spells/Traps also can’t be activated.
 (However, continuous Spell/Trap effects will still apply).
-●This means that if this effect is applying, the effect of Royal Oppression can’t be activated.
-●This also means that effects like that of Armory arm can't be activated, as it is being treated as a Spell Card.
+*   This means that if this effect is applying, the effect of Royal Oppression can’t be activated.
+*   This also means that effects like that of Armory arm can't be activated, as it is being treated as a Spell Card.
             

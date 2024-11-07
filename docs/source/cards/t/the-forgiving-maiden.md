@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=The%20Forgiving%20Maiden
 
 ### Card Rulings
 
-●The Forgiving Maiden's effect can be activated before or after your monster(s) are destroyed in battle, similar to Last Will.
+*   The Forgiving Maiden's effect can be activated before or after your monster(s) are destroyed in battle, similar to Last Will.
             

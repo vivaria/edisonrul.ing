@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Mystical%20Space%20Typhoon
 
 ### Card Rulings
 
-● This card can never target itself.
+*   This card can never target itself.
             

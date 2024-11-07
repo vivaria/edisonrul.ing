@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Riryoku%20Field
 
 ### Card Rulings
 
-●This card can't be used against Monster Reborn or Premature Burial since they don't target a monster on the field.
-●This card can't be used against Fissure, Smashing Ground, or Dark Hole because these cards don't target.
+*   This card can't be used against Monster Reborn or Premature Burial since they don't target a monster on the field.
+*   This card can't be used against Fissure, Smashing Ground, or Dark Hole because these cards don't target.
             

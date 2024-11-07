@@ -22,6 +22,6 @@ Source: https://edisonformat.net/card?name=X-Saber%20Galahad
 
 ### Card Rulings
 
-● The ① and ② effects are continuous, they do not start a chain.
-● The ③ effect can activate on a replayed attack.
+*   The ① and ② effects are continuous, they do not start a chain.
+*   The ③ effect can activate on a replayed attack.
             

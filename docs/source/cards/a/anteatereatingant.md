@@ -36,8 +36,8 @@ Source: https://edisonformat.net/card?name=Anteatereatingant
 
 ### Card Rulings
 
-● If you already can't attack, you can't activate this effect.
+*   If you already can't attack, you can't activate this effect.
 This means that you can't activate this effect on the fist turn, and you can't activate it if this effect has already been activate this turn.
-● The only way you can Special Summon this card is via its own procedure.
+*   The only way you can Special Summon this card is via its own procedure.
 Even if it was initially summoned that way, you still can't summon it with card effects.
             

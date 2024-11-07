@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Numinous%20Healer
 
 ### Card Rulings
 
-●You can't activate Numinous Healer when you pay a cost. You can only activate it when you receive Battle Damage or damage from an effect.
+*   You can't activate Numinous Healer when you pay a cost. You can only activate it when you receive Battle Damage or damage from an effect.
             

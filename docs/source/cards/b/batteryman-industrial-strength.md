@@ -26,8 +26,8 @@ Source: https://edisonformat.net/card?name=Batteryman%20Industrial%20Strength
 
 ### Card Rulings
 
-● The only way you can Special Summon this card is via its own procedure.
+*   The only way you can Special Summon this card is via its own procedure.
 Even if it was initially summoned that way, you still can't summon it with card effects.
-● If one target leaves the field before this resolves, the other is still destroyed.
-● This effect must target exactly 2 cards. It can't target only 1 card.
+*   If one target leaves the field before this resolves, the other is still destroyed.
+*   This effect must target exactly 2 cards. It can't target only 1 card.
             

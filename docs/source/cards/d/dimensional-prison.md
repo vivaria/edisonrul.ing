@@ -30,6 +30,6 @@ Source: https://edisonformat.net/card?name=Dimensional%20Prison
 
 ### Card Rulings
 
-● If that target's battle position is changed (or if the attack is negated), it is no longer an attacking monster, and is not banished when this resolves.
-● If that target becomes affected by "Fiendish Chain", it is still an attacking monster until the chain resolves, and IS still banished.
+*   If that target's battle position is changed (or if the attack is negated), it is no longer an attacking monster, and is not banished when this resolves.
+*   If that target becomes affected by "Fiendish Chain", it is still an attacking monster until the chain resolves, and IS still banished.
             

@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Royal%20Swamp%20Eel
 
 ### Card Rulings
 
-● The Ⓒ is a condition. It can't be negated.
+*   The Ⓒ is a condition. It can't be negated.
             

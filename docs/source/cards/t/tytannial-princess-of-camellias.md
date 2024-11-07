@@ -27,10 +27,10 @@ Source: https://edisonformat.net/card?name=Tytannial,%20Princess%20of%20Camellia
 
 ### Card Rulings
 
-●The Quick Effect activates & resolves on the field.
-●Tributing 1 face-up Plant-Type monster (even itself) you control is a cost.
-●This effect negates the activation of a Card / Effect, even in the Damage Step.
-●This effect negates the activated effect Spell / Trap Cards (ex: Blaze Accelerator).
-●This effect can't activate if a Card / Effect does not target (ex: Black Rose Dragon).
-●During the Damage Step, Tytannial, Princess of Camellias can Tribute a Plant-Type monster that is attacking or being attacked to activate its effect. If the Plant-Type monster that is attacking or being attacked is Tributed before damage calculation, damage calculation does not occur. If the Plant-Type monster is destroyed by the battle, it can't be Tributed to activate Tytannial, Princess of Camellias' effect.
+*   The Quick Effect activates & resolves on the field.
+*   Tributing 1 face-up Plant-Type monster (even itself) you control is a cost.
+*   This effect negates the activation of a Card / Effect, even in the Damage Step.
+*   This effect negates the activated effect Spell / Trap Cards (ex: Blaze Accelerator).
+*   This effect can't activate if a Card / Effect does not target (ex: Black Rose Dragon).
+*   During the Damage Step, Tytannial, Princess of Camellias can Tribute a Plant-Type monster that is attacking or being attacked to activate its effect. If the Plant-Type monster that is attacking or being attacked is Tributed before damage calculation, damage calculation does not occur. If the Plant-Type monster is destroyed by the battle, it can't be Tributed to activate Tytannial, Princess of Camellias' effect.
             

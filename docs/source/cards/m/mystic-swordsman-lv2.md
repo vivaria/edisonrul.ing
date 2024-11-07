@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Mystic%20Swordsman%20LV
 
 ### Card Rulings
 
-●The start of the Damage Step is before monsters are flipped face-up.
-●If this card destroys a Set monster with its effect, this card's ② can't be activated.
+*   The start of the Damage Step is before monsters are flipped face-up.
+*   If this card destroys a Set monster with its effect, this card's ② can't be activated.
             

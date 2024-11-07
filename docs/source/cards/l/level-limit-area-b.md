@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Level%20Limit%20-%20Area%20B
 
 ### Card Rulings
 
-● Monsters can still be Summoned in Attack Position.
-● Monsters can still change their Battle Positions. They just switch back to Defense immediately.
-● If "Caius the Shadow Monarch" is Summoned, it's changed to Defense Position immediately.
+*   Monsters can still be Summoned in Attack Position.
+*   Monsters can still change their Battle Positions. They just switch back to Defense immediately.
+*   If "Caius the Shadow Monarch" is Summoned, it's changed to Defense Position immediately.
 After Caius' effect resolves, even if it banished this card, Caius will remain in Defense Position.
             

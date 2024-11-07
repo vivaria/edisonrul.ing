@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Spider%20Egg
 
 ### Card Rulings
 
-●This card does not target.
-●If you don't have enough open Monster Card Zones to Special Summon the “Spider Tokens” in, you can't activate “Spider Egg.”
-●If you don't have enough Monster Card Zones when “Spider Egg” resolves, the attack is not negated and no “Spider Tokens” are Summoned.
+*   This card does not target.
+*   If you don't have enough open Monster Card Zones to Special Summon the “Spider Tokens” in, you can't activate “Spider Egg.”
+*   If you don't have enough Monster Card Zones when “Spider Egg” resolves, the attack is not negated and no “Spider Tokens” are Summoned.
             

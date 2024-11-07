@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Defense%20Draw
 
 ### Card Rulings
 
-●You can't activate Defense Draw if you won't receive Battle Damage from the attack.
-●You can't activate Defense Draw if there are no cards left in your Deck.
-●You can't activate Defense Draw while your opponent controls a face-up Protector of the Sanctuary.
+*   You can't activate Defense Draw if you won't receive Battle Damage from the attack.
+*   You can't activate Defense Draw if there are no cards left in your Deck.
+*   You can't activate Defense Draw while your opponent controls a face-up Protector of the Sanctuary.
             

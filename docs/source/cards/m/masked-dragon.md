@@ -21,6 +21,6 @@ Source: https://edisonformat.net/card?name=Masked%20Dragon
 
 ### Card Rulings
 
-● This effect activates in the Damage Step, so it can never be negated by "Royal Oppression".
+*   This effect activates in the Damage Step, so it can never be negated by "Royal Oppression".
 Cards like "Bottomless Trap Hole" and "Torrential Tribute" can never be used in response to this Summon.
             

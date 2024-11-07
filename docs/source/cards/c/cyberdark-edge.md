@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cyberdark%20Edge
 
 ### Card Rulings
 
-●The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.
+*   The last effect of this card (“…the equipped monster is destroyed instead”) happens at the end of the Damage Step, at the time that this monster would normally be sent to the GY.
             

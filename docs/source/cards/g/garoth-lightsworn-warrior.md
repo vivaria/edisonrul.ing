@@ -27,9 +27,9 @@ Source: https://edisonformat.net/card?name=Garoth,%20Lightsworn%20Warrior
 
 ### Card Rulings
 
-● This card triggers as a result of another Lightsworn's effect sending cards to the GY. It happens on a new chain.
+*   This card triggers as a result of another Lightsworn's effect sending cards to the GY. It happens on a new chain.
 EG, If you control 2 copies of Lyla and this card:
 You'll mill 3 for Lyla. On a new chain, you'll mill (and draw) for Garoth.
 Then, on another new chain, you'll mill 3 for the other Lyla, then mill (and draw) for Garoth again.
-● Since Celestia, Lightworn Angel's effect to send cards to the GY is a cost, not an effect, Garoth's effect won't trigger because of it.
+*   Since Celestia, Lightworn Angel's effect to send cards to the GY is a cost, not an effect, Garoth's effect won't trigger because of it.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Release%20from%20Stone
 
 ### Card Rulings
 
-●You can select a Rock-Type monster that is removed from play by “Gold Sarcophagus”.
+*   You can select a Rock-Type monster that is removed from play by “Gold Sarcophagus”.
             

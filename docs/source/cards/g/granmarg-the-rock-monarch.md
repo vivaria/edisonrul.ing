@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Granmarg%20the%20Rock%20Monarch
 
 ### Card Rulings
 
-● If this effect targets a Set Spell/Trap, and that card is chained to this effect, it is not destroyed.
+*   If this effect targets a Set Spell/Trap, and that card is chained to this effect, it is not destroyed.
             

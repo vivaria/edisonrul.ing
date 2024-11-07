@@ -22,7 +22,7 @@ Source: https://edisonformat.net/card?name=Fiend%20Comedian
 
 ### Card Rulings
 
-● You toss the coin when this card resolves.
-● If you call it wrong, cards are sent from the top of the deck to the GY.
-● You can't activate this card if you have fewer cards in your Deck than the number of cards in your opponent's GY. However, when resolving the effect which requires sending cards to the GY, if you have fewer cards in your Deck than your opponent has cards in their GY, your entire Deck is sent to the GY.
+*   You toss the coin when this card resolves.
+*   If you call it wrong, cards are sent from the top of the deck to the GY.
+*   You can't activate this card if you have fewer cards in your Deck than the number of cards in your opponent's GY. However, when resolving the effect which requires sending cards to the GY, if you have fewer cards in your Deck than your opponent has cards in their GY, your entire Deck is sent to the GY.
             

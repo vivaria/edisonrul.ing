@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Morphtronic%20Clocken
 
 ### Card Rulings
 
-●Morphtronic Clocken's Defense Position effect to inflict damage can't be activated if it does not have any Morph Counters.
-●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Radion can't be activated, because the While in Attack Position and While in Defense Position effects are negated.
-●If you activate Morphtronic Clocken's effect to gain a Morph Counter and an effect is chained that changes it to Attack Position, it still gains a Morph Counter.
+*   Morphtronic Clocken's Defense Position effect to inflict damage can't be activated if it does not have any Morph Counters.
+*   While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Radion can't be activated, because the While in Attack Position and While in Defense Position effects are negated.
+*   If you activate Morphtronic Clocken's effect to gain a Morph Counter and an effect is chained that changes it to Attack Position, it still gains a Morph Counter.
             

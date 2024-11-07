@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Divine%20Dragon%20Aquabizarre
 
 ### Card Rulings
 
-●Tributing 1 WATER monster is a cost to activate this effect. This effect targets 1 Continuous or Field Spell Card in your GY.
+*   Tributing 1 WATER monster is a cost to activate this effect. This effect targets 1 Continuous or Field Spell Card in your GY.
             

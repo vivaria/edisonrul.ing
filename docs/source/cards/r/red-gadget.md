@@ -20,7 +20,7 @@ Source: https://edisonformat.net/card?name=Red%20Gadget
 
 ### Card Rulings
 
-● If this card is Summoned as chain link 2 or higher, its effect misses its timing, and can't activate.
+*   If this card is Summoned as chain link 2 or higher, its effect misses its timing, and can't activate.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
             

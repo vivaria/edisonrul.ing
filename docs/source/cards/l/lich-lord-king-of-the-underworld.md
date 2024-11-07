@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Lich%20Lord,%20King%20of%20the%20Unde
 
 ### Card Rulings
 
-●This card's effect will be activated if it is Tributed from the hand for a Ritual Spell Card.
-●See Diabolos, King of the Abyss for Tribute Summon rulings.
+*   This card's effect will be activated if it is Tributed from the hand for a Ritual Spell Card.
+*   See Diabolos, King of the Abyss for Tribute Summon rulings.
             

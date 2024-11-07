@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Beast%20King%20Barbaros
 
 ### Card Rulings
 
-● If this card, summoned without Tributing, becomes flipped face-down or has its effects negated, its ATK returns to 3000.
+*   If this card, summoned without Tributing, becomes flipped face-down or has its effects negated, its ATK returns to 3000.
             

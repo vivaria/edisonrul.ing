@@ -25,6 +25,6 @@ Source: https://edisonformat.net/card?name=Victory%20Viper%20XX03
 
 ### Card Rulings
 
-● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.
-● If this card's ATK/DEF/etc change, the token's also change. If this card leaves the field or is flipped face-down, the token is removed from the field (but not "destroyed").
+*   This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.
+*   If this card's ATK/DEF/etc change, the token's also change. If this card leaves the field or is flipped face-down, the token is removed from the field (but not "destroyed").
             

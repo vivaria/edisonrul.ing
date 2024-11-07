@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Harpie%20Queen
 
 ### Card Rulings
 
-●If Skill Drain is active on the field, while Harpie Queen is on the field its name won't be treated as Harpie Lady.
-●If “Prohibition” is activated choosing “Harpie Lady”, “Harpie Queen” won't have its name treated as “Harpie Lady” and can still attack and change its battle position.
+*   If Skill Drain is active on the field, while Harpie Queen is on the field its name won't be treated as Harpie Lady.
+*   If “Prohibition” is activated choosing “Harpie Lady”, “Harpie Queen” won't have its name treated as “Harpie Lady” and can still attack and change its battle position.
             

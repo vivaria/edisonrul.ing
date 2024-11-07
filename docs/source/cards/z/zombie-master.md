@@ -30,7 +30,7 @@ Source: https://edisonformat.net/card?name=Zombie%20Master
 
 ### Card Rulings
 
-● You can't activate this effect unless there is a level 4 or lower Zombie in either GY.
+*   You can't activate this effect unless there is a level 4 or lower Zombie in either GY.
 When this effect resolves, you can target the discarded card if it is a level 4 or lower Zombie.
-● If that target isn't a Zombie when this effect resolves, it isn't summoned.
+*   If that target isn't a Zombie when this effect resolves, it isn't summoned.
             

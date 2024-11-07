@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Magic%20Planter
 
 ### Card Rulings
 
-●You can send a Trap Monster like “Embodiment of Apophis” to the GY to pay the cost for “Magic Planter.”
-●You can't send “Macro Cosmos” to the GY to pay the cost of “Magic Planter,” since “Macro Cosmos” is preventing you from sending cards to the GY as costs.
+*   You can send a Trap Monster like “Embodiment of Apophis” to the GY to pay the cost for “Magic Planter.”
+*   You can't send “Macro Cosmos” to the GY to pay the cost of “Magic Planter,” since “Macro Cosmos” is preventing you from sending cards to the GY as costs.
             

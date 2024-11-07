@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Pyramid%20Energy
 
 ### Card Rulings
 
-●You can activate Pyramid Energy during the Damage Step.
-●The effect of Pyramid Energy is not applied to monsters summoned after Pyramid Energy’s resolution.
+*   You can activate Pyramid Energy during the Damage Step.
+*   The effect of Pyramid Energy is not applied to monsters summoned after Pyramid Energy’s resolution.
             

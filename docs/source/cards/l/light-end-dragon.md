@@ -32,6 +32,6 @@ Source: https://edisonformat.net/card?name=Light%20End%20Dragon
 
 ### Card Rulings
 
-● If this card can't lose 500 ATK and 500 DEF, the other monster doesn't lose any ATK/DEF.
-● This card's ATK/DEF loss is permanent (until this card is flipped face-down or leaves the field).
+*   If this card can't lose 500 ATK and 500 DEF, the other monster doesn't lose any ATK/DEF.
+*   This card's ATK/DEF loss is permanent (until this card is flipped face-down or leaves the field).
             

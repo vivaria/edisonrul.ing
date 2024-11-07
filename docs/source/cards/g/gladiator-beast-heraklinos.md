@@ -33,6 +33,6 @@ Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Heraklinos
 
 ### Card Rulings
 
-● If this card was originally Special Summoned by its own procedure, it can still later be Summoned by card effects.
-● If when resolving the ① effect this card is not face-up on the field, it will resolve successfully (due to TCG vs OCG ruling differences at the time).
+*   If this card was originally Special Summoned by its own procedure, it can still later be Summoned by card effects.
+*   If when resolving the ① effect this card is not face-up on the field, it will resolve successfully (due to TCG vs OCG ruling differences at the time).
             

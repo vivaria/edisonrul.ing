@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Raging%20Cloudian
 
 ### Card Rulings
 
-●The Cloudian monster Special Summoned with Raging Cloudian can't be targeted by Book of Moon.
+*   The Cloudian monster Special Summoned with Raging Cloudian can't be targeted by Book of Moon.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Great%20Maju%20Garzett
 
 ### Card Rulings
 
-●When you use a monster with an original ATK of ? then Great Maju Garzett's ATK is zero.
+*   When you use a monster with an original ATK of ? then Great Maju Garzett's ATK is zero.
             

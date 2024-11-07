@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Gryphon%20Wing
 
 ### Card Rulings
 
-●You can chain Fake Trap to Gryphon Wing.
+*   You can chain Fake Trap to Gryphon Wing.
             

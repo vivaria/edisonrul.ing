@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Terrible%20Deal
 
 ### Card Rulings
 
-●This card must be chained directly to the activation of one of your opponent’s Spell Cards. You can't activate this card if there is already another card or effect on the Chain to your opponent’s Spell Card activation.
-●You can't activate this card if your opponent has no cards in their hand.
+*   This card must be chained directly to the activation of one of your opponent’s Spell Cards. You can't activate this card if there is already another card or effect on the Chain to your opponent’s Spell Card activation.
+*   You can't activate this card if your opponent has no cards in their hand.
             

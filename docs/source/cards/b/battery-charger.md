@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Battery%20Charger
 
 ### Card Rulings
 
-●You can't activate Batteryman Charger's effect if you don't have any eligble Batteryman monsters remaining in your hand/Deck.
+*   You can't activate Batteryman Charger's effect if you don't have any eligble Batteryman monsters remaining in your hand/Deck.
             

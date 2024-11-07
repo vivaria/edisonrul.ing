@@ -29,6 +29,6 @@ Source: https://edisonformat.net/card?name=Red-Eyes%20Darkness%20Metal%20Dragon
 
 ### Card Rulings
 
-● You can Special Summon multiple copies of this card per turn (this is an erratum).
-● You can activate the effects of multiple copies of this card per turn (this is an erratum).
+*   You can Special Summon multiple copies of this card per turn (this is an erratum).
+*   You can activate the effects of multiple copies of this card per turn (this is an erratum).
             

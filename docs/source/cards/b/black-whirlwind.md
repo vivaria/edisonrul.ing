@@ -28,8 +28,8 @@ Source: https://edisonformat.net/card?name=Black%20Whirlwind
 
 ### Card Rulings
 
-● If that monster isn’t face-up on the field when this effect resolves, no card is searched.
-● If you control this card, and have a "Blackwing" monster in your Deck with less than 1300 ATK:
+*   If that monster isn’t face-up on the field when this effect resolves, no card is searched.
+*   If you control this card, and have a "Blackwing" monster in your Deck with less than 1300 ATK:
 When you Summon "Blackwing - Blizzard the Far North", both its effect and "Black Whirlwind" will trigger. Since they are both optional effects, you can order them in any way you like.
 If you order them as: Blizzard Chain Link 1, Whirlwind Chain Link 2, then your opponent can only respond to the newest chain link - Black Whirlwind's effect.
 This means that cards like "Royal Oppression" and "Pulling the Rug" can't be activated at this time - Those cards can't be chained to Black Whirlwind's effect.

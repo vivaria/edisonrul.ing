@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Pikeru's%20Circle%20of%20Enchantment
 
 ### Card Rulings
 
-●This effect lasts until the end of the End Phase.
+*   This effect lasts until the end of the End Phase.
             

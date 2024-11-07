@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Trap%20of%20Board%20Eraser
 
 ### Card Rulings
 
-●You can't activate this card when your opponent does not have a hand.
-●For other rulings, see Barrel Behind the Door.
+*   You can't activate this card when your opponent does not have a hand.
+*   For other rulings, see Barrel Behind the Door.
             

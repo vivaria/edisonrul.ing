@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Dark%20Illusion
 
 ### Card Rulings
 
-● This card cannot negate the activations of Spell/Trap effects, such as "Blaze Accelerator"'s effect, since it only states "When a Spell/Trap Card is activated". It has to negate the initial activation (putting the card on the field).
+*   This card cannot negate the activations of Spell/Trap effects, such as "Blaze Accelerator"'s effect, since it only states "When a Spell/Trap Card is activated". It has to negate the initial activation (putting the card on the field).
             

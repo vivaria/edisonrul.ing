@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Mind%20Protector
 
 ### Card Rulings
 
-●Paying 500 Life Points is a maintenance cost.
+*   Paying 500 Life Points is a maintenance cost.
             

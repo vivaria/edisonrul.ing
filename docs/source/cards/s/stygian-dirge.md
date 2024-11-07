@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Stygian%20Dirge
 
 ### Card Rulings
 
-●Multiple copies of “Stygian Dirge” accumulate their effects.
+*   Multiple copies of “Stygian Dirge” accumulate their effects.
             

@@ -21,6 +21,6 @@ Source: https://edisonformat.net/card?name=Alien%20Skull
 
 ### Card Rulings
 
-●While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.
-● All of the Ⓤ is one single unclassified effect. Tributing a monster is a cost for this effect. This effect does not start a chain.
+*   While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.
+*   All of the Ⓤ is one single unclassified effect. Tributing a monster is a cost for this effect. This effect does not start a chain.
             

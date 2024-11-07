@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Icarus%20Attack
 
 ### Card Rulings
 
-● You can tribute a face-down Winged Beast to activate this card.
-● You must target exactly 2 cards, and this card can't target itself.
+*   You can tribute a face-down Winged Beast to activate this card.
+*   You must target exactly 2 cards, and this card can't target itself.
             

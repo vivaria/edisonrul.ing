@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Psychic%20Rejuvenation
 
 ### Card Rulings
 
-●Count the number of face-up Psychic-Type monsters when Psychic Rejuvenation resolves.
+*   Count the number of face-up Psychic-Type monsters when Psychic Rejuvenation resolves.
             

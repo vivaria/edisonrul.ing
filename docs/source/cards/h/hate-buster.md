@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Hate%20Buster
 
 ### Card Rulings
 
-●Hate Buster targets the attacking monster and the Fiend-Type Monster being attacked.
-●If your Fiend-Type Monster isn't destroyed by Hate Buster, you don't inflict damage to your opponent's Life Points.
-●Hate Buster inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster (Embodiment of Apophis, etc.) no damage will be inflicted.
+*   Hate Buster targets the attacking monster and the Fiend-Type Monster being attacked.
+*   If your Fiend-Type Monster isn't destroyed by Hate Buster, you don't inflict damage to your opponent's Life Points.
+*   Hate Buster inflicts damage equal to the original ATK of the destroyed monster after it is sent to the GY or removed zone. If you destroy a Monster Token or a Trap Card that is treated as a monster (Embodiment of Apophis, etc.) no damage will be inflicted.
             

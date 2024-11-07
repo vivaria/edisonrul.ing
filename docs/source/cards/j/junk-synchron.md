@@ -27,8 +27,8 @@ Source: https://edisonformat.net/card?name=Junk%20Synchron
 ### Card Rulings
 
 If you activate the effect of a monster summoned this way:
-● Any costs will be paid as usual.
-● However, the effect will resolve negated, as the effect was activated on the field, where its effects were being negated.
+*   Any costs will be paid as usual.
+*   However, the effect will resolve negated, as the effect was activated on the field, where its effects were being negated.
 EG: ＂Substitoad＂ summoned this way tributes itself. Its effect is negated, since its effect was activated on the field.
 
 If a monster summoned this way becomes flipped face-down or leaves the field, its effects are no longer negated, starting from the moment it leaves the field.

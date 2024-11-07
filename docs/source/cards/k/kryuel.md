@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Kryuel
 
 ### Card Rulings
 
-●If Second Coin Toss is active, and Kryuel is sent to the GY as a result of battle, you can re-do the coin toss.
+*   If Second Coin Toss is active, and Kryuel is sent to the GY as a result of battle, you can re-do the coin toss.
             

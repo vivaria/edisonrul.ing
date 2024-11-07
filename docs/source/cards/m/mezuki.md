@@ -26,5 +26,5 @@ Source: https://edisonformat.net/card?name=Mezuki
 
 ### Card Rulings
 
-● If that target isn't a Zombie when this effect resolves, it isn't summoned.
+*   If that target isn't a Zombie when this effect resolves, it isn't summoned.
             

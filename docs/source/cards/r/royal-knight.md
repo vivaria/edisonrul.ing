@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Royal%20Knight
 
 ### Card Rulings
 
-●For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect won't activate if it battles a monster with equal ATK and they are both destroyed.
+*   For its effect to activate, “Royal Knight” must be on the field when the monster it destroyed is sent to the GY. Its effect won't activate if it battles a monster with equal ATK and they are both destroyed.
             

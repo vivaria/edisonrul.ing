@@ -31,17 +31,17 @@ Source: https://edisonformat.net/card?name=Dimensional%20Fissure
 ### Card Rulings
 
 While the ① is applying, players cannot:
-● Pay costs by sending a monster(s) to the GY
+*   Pay costs by sending a monster(s) to the GY
 (Brionac's effect cannot be activated by discarding a monster).
-● Pay costs by sending an unknown card(s) to the GY
+*   Pay costs by sending an unknown card(s) to the GY
 (Jowgen, Card Trooper, Celestia, Hidden Armory cannot be activated, as they send to the GY to pay a cost).
 
 While the ① is applying, players can:
-● Discard monster cards.
+*   Discard monster cards.
 (Swap Frog can discard a monster to summon itself, as it does not specify "to the GY").
-● Send cards to the GY by card effect
+*   Send cards to the GY by card effect
 (Foolish burial can be activated. The sent monster is banished)
 (Ryko's effect can be activated, as it sends to the GY as an effect. Any monsters sent this way are banished).
-● Tribute, Fusion, Ritual, Synchro Summon
+*   Tribute, Fusion, Ritual, Synchro Summon
 (Materials/Tributes are banished instead).
             

@@ -22,6 +22,6 @@ Source: https://edisonformat.net/card?name=Great%20Moth
 
 ### Card Rulings
 
-● As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
+*   As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
 you can Summon it from the GY with card effects.
             

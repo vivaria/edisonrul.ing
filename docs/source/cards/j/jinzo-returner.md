@@ -30,13 +30,13 @@ Source: https://edisonformat.net/card?name=Jinzo%20-%20Returner
 
 ### Card Rulings
 
-●The Continuous Effect does not activate.
-●If this effect is negated in the Damage Step, no replay occurs.
-●If this effect is negated when the attack is declared, a replay occurs since this card can't attack directly.
-●The optional When... you can...Trigger Effect can miss the timing.
-●If the Special Summoned Jinzo is flipped face-down, it is not destroyed in the End Phase.
-●If Future Fusion sends (multiple) Jinzo and (multiple) Jinzo - Returner to the GY at the same time, you can activate the effect of (all) Jinzo – Returner in a new Chain.
-●Destroying Jinzo in the End Phase does not start a Chain.
-●This effect won't activate if Returner is sent to the  GY as Chain Link 2+.
-●This effect won't activate if Returner is sent to the GY before the last thing to happen.
+*   The Continuous Effect does not activate.
+*   If this effect is negated in the Damage Step, no replay occurs.
+*   If this effect is negated when the attack is declared, a replay occurs since this card can't attack directly.
+*   The optional When... you can...Trigger Effect can miss the timing.
+*   If the Special Summoned Jinzo is flipped face-down, it is not destroyed in the End Phase.
+*   If Future Fusion sends (multiple) Jinzo and (multiple) Jinzo - Returner to the GY at the same time, you can activate the effect of (all) Jinzo – Returner in a new Chain.
+*   Destroying Jinzo in the End Phase does not start a Chain.
+*   This effect won't activate if Returner is sent to the  GY as Chain Link 2+.
+*   This effect won't activate if Returner is sent to the GY before the last thing to happen.
             

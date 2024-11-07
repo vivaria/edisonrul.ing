@@ -30,11 +30,11 @@ Source: https://edisonformat.net/card?name=At%20One%20With%20the%20Sword
 ### Card Rulings
 
 Activate while the only monster you control is 1 face-up X-Saber monster. Equip this card to that monster. ●This effect targets the 1 face-up “X-Saber” monster when activated.
-●You can use “Tailor of the Fickle” to equip “At One With the Sword” to a different face-up monster.
-●The Continuous Effect applies while this card is face-up on the field.
-●This is treated as the effect of a Trap Card, not an Equip Spell Card.
-●The Trigger Effect is mandatory, it activates & resolves on the field.
-●This is treated as the effect of a Trap Card, not an Equip Spell Card.
-●This effect activates in Substep 7 - End of the Damage Step.
-●This card must be face-up on the field to activate & resolve this effect.
+*   You can use “Tailor of the Fickle” to equip “At One With the Sword” to a different face-up monster.
+*   The Continuous Effect applies while this card is face-up on the field.
+*   This is treated as the effect of a Trap Card, not an Equip Spell Card.
+*   The Trigger Effect is mandatory, it activates & resolves on the field.
+*   This is treated as the effect of a Trap Card, not an Equip Spell Card.
+*   This effect activates in Substep 7 - End of the Damage Step.
+*   This card must be face-up on the field to activate & resolve this effect.
             

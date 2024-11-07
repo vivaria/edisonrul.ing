@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Diskblade%20Rider
 
 ### Card Rulings
 
-●Removing 1 Normal Trap Card from play is not a cost. Diskblade Rider's effect targets 1 Normal Trap Card in your GY.
+*   Removing 1 Normal Trap Card from play is not a cost. Diskblade Rider's effect targets 1 Normal Trap Card in your GY.
             

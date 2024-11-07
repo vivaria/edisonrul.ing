@@ -36,18 +36,18 @@ Source: https://edisonformat.net/card?name=Ultimate%20Ancient%20Gear%20Golem
 
 ### Card Rulings
 
-●The Condition can't be negated.
-●This card Cannot be Special Summoned from the GY / removed from play.
-●This card  Cannot be Special Summoned by Summoner of Illusions.
-●Inflicting piercing Battle Damage does not start a chain.
-●The Continuous Effect starts to apply at the Start of the Battle Step - Attack Declaration.
-●This effect applies until the end of Substep 7 - End of the Damage Step.
-●This effect stops applying if “Ancient Gear Golem” attacks and is destroyed by battle (in Substep 4 - Damage Calculation) or by an effect during the Damage Step.
-●Face-down Spell / Trap Cards can't be activated (flipped face-up or played from the hand).
-●Continuous Effects of Spell / Trap Cards still apply.
-●The effects of face-up Spell / Trap Cards can still activate (ex: “Ultimate Offering” or “Skull Lair”).
-●The optional Trigger Effect activates & resolves in the GY / removed from play.
-●If this card is destroyed in battle, this effect activates in Substep 7 - End of the Damage Step.
-●If your opponent controls your this card when it is destroyed, you can still activate this effect.
-●This If... you can... effect can't miss the timing, even if it is destroyed as Chain Link 2+.
+*   The Condition can't be negated.
+*   This card Cannot be Special Summoned from the GY / removed from play.
+*   This card  Cannot be Special Summoned by Summoner of Illusions.
+*   Inflicting piercing Battle Damage does not start a chain.
+*   The Continuous Effect starts to apply at the Start of the Battle Step - Attack Declaration.
+*   This effect applies until the end of Substep 7 - End of the Damage Step.
+*   This effect stops applying if “Ancient Gear Golem” attacks and is destroyed by battle (in Substep 4 - Damage Calculation) or by an effect during the Damage Step.
+*   Face-down Spell / Trap Cards can't be activated (flipped face-up or played from the hand).
+*   Continuous Effects of Spell / Trap Cards still apply.
+*   The effects of face-up Spell / Trap Cards can still activate (ex: “Ultimate Offering” or “Skull Lair”).
+*   The optional Trigger Effect activates & resolves in the GY / removed from play.
+*   If this card is destroyed in battle, this effect activates in Substep 7 - End of the Damage Step.
+*   If your opponent controls your this card when it is destroyed, you can still activate this effect.
+*   This If... you can... effect can't miss the timing, even if it is destroyed as Chain Link 2+.
             

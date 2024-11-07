@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Book%20of%20Taiyou
 ### Card Rulings
 
 Flip 1 face-down monster on the field into Attack Position.
-●This effect targets 1 face-down monster on the field.
-●This effect DOES NOT perform a Flip Summon (a manual player action).
-●Flip Effect will still activate.
+*   This effect targets 1 face-down monster on the field.
+*   This effect DOES NOT perform a Flip Summon (a manual player action).
+*   Flip Effect will still activate.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Wildedge
 
 ### Card Rulings
 
-●This monster can't attack the opponent directly after attacking a monster(s).
+*   This monster can't attack the opponent directly after attacking a monster(s).
             

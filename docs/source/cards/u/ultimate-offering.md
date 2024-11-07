@@ -30,6 +30,6 @@ Source: https://edisonformat.net/card?name=Ultimate%20Offering
 
 ### Card Rulings
 
-● The summon does not happen "immediately after this effect resolves". It can't be negated by "Solemn Judgment".
-● You can chain this effect to itself, even if you only have 1 monster in hand.
+*   The summon does not happen "immediately after this effect resolves". It can't be negated by "Solemn Judgment".
+*   You can chain this effect to itself, even if you only have 1 monster in hand.
             

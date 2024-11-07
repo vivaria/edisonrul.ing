@@ -29,8 +29,8 @@ Source: https://edisonformat.net/card?name=Dark%20Valkyria
 
 These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
 About the ① effect:
-● While "Dark Valkyria" is considered an Effect Monster, you can place Spell Counters onto it with other card effects, like "Crusader of Endymion" and "Apprentice Magician".
-● If "Dark Valkyria" is treated as an Effect Monster due to the effect of "Supervise" or "Superalloy Beast Raptinus" and has a Spell Counter when that "Superalloy Beast Raptinus" or "Supervise" is removed from the field, the Spell Counter is removed because "Dark Valkyria" is changed to a Normal Monster. If "Dark Valkyria" becomes an Effect Monster again afterwards, its effect can be used once more.
+*   While "Dark Valkyria" is considered an Effect Monster, you can place Spell Counters onto it with other card effects, like "Crusader of Endymion" and "Apprentice Magician".
+*   If "Dark Valkyria" is treated as an Effect Monster due to the effect of "Supervise" or "Superalloy Beast Raptinus" and has a Spell Counter when that "Superalloy Beast Raptinus" or "Supervise" is removed from the field, the Spell Counter is removed because "Dark Valkyria" is changed to a Normal Monster. If "Dark Valkyria" becomes an Effect Monster again afterwards, its effect can be used once more.
 About the ② effect:
-● If "Dark Valkyria"'s ATK stat is frozen (e.g. by the effect of "Blackwing - Gale the Whirlwind" or "Black Garden") while it is considered an Effect Monster, it’s ATK will not increase for each Spell Counter on this card.
+*   If "Dark Valkyria"'s ATK stat is frozen (e.g. by the effect of "Blackwing - Gale the Whirlwind" or "Black Garden") while it is considered an Effect Monster, it’s ATK will not increase for each Spell Counter on this card.
             

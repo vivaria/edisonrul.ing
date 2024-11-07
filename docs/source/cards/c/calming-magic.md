@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Calming%20Magic
 
 ### Card Rulings
 
-●While “Calming Magic” is active, if an effect like “Giant Germ” triggers, you inflict damage but don't Special Summon.
+*   While “Calming Magic” is active, if an effect like “Giant Germ” triggers, you inflict damage but don't Special Summon.
             

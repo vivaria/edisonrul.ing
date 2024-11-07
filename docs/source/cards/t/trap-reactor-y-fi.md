@@ -22,6 +22,6 @@ Source: https://edisonformat.net/card?name=Trap%20Reactor%20Y%20FI
 
 ### Card Rulings
 
-●This effect chains to that card's activation.
-●This does not negate the effect of that Trap Card (but if a Continuous or Equip card is destroyed this way, its effects won't resolve).
+*   This effect chains to that card's activation.
+*   This does not negate the effect of that Trap Card (but if a Continuous or Equip card is destroyed this way, its effects won't resolve).
             

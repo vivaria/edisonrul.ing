@@ -40,13 +40,13 @@ Source: https://edisonformat.net/card?name=Relinquished
 
 ### Card Rulings
 
-● If this card is flipped face-down/leaves the field before its effect to equip resolves, the target is sent to the GY.
-● If you already have 5 cards in your S/T zone, you can't activate the effect to equip.
-● If "Sangan" is sent to the GY while equipped to this card, its effect will activate.
-● You can't target "Blindly Loyal Goblin" with this effect.
-● If Relinquised's effects become negated, the equipped monster is sent to the GY, and its ATK becomes 0.
-● While the effect of "Timidity" is active, you can't destroy a Set Monster Card equipped to this.
-●Equipped Token monsters have 0 ATK/DEF, and are destroyed by Token Thanksgiving.
+*   If this card is flipped face-down/leaves the field before its effect to equip resolves, the target is sent to the GY.
+*   If you already have 5 cards in your S/T zone, you can't activate the effect to equip.
+*   If "Sangan" is sent to the GY while equipped to this card, its effect will activate.
+*   You can't target "Blindly Loyal Goblin" with this effect.
+*   If Relinquised's effects become negated, the equipped monster is sent to the GY, and its ATK becomes 0.
+*   While the effect of "Timidity" is active, you can't destroy a Set Monster Card equipped to this.
+*   Equipped Token monsters have 0 ATK/DEF, and are destroyed by Token Thanksgiving.
 
-● Damage is only inflicted if the the destruction is prevented.
+*   Damage is only inflicted if the the destruction is prevented.
             

@@ -28,8 +28,8 @@ Source: https://edisonformat.net/card?name=Pulling%20the%20Rug
 ### Card Rulings
 
 This card can only negate trigger effects which specifically activate when a monster is Normal Summoned.
-● It can negate the effects of cards like "Caius the Shadow Monarch", "Armageddon Knight" (if it was Normal Summoned), or "Dark Verger".
-● It can't negate Ignition effects, even if activated with ignition Priority.
+*   It can negate the effects of cards like "Caius the Shadow Monarch", "Armageddon Knight" (if it was Normal Summoned), or "Dark Verger".
+*   It can't negate Ignition effects, even if activated with ignition Priority.
 It can never negate the effect of "Substitoad", "Dark Grepher", nor "D.D. Crow".
-● It can't negate an effect which activated because a monster was Special Summoned, even if that monster's effect states "if this card is Normal/Special Summoned".
+*   It can't negate an effect which activated because a monster was Special Summoned, even if that monster's effect states "if this card is Normal/Special Summoned".
             

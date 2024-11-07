@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Kid%20Guard
 
 ### Card Rulings
 
-●This card must be activated when the opponent's monster declares an attack.
+*   This card must be activated when the opponent's monster declares an attack.
             

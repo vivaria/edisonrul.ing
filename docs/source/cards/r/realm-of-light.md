@@ -25,5 +25,5 @@ Source: https://edisonformat.net/card?name=Realm%20of%20Light
 
 ### Card Rulings
 
-● None of these effects activate.
+*   None of these effects activate.
             

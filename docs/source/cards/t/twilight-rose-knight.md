@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Twilight%20Rose%20Knight
 
 ### Card Rulings
 
-●This effect does not target.
+*   This effect does not target.
             

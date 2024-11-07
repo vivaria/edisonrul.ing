@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Gigantes
 
 ### Card Rulings
 
-● If this card was initially summoned by its Ⓢ procedure, it can later be summoned by a card effect.
+*   If this card was initially summoned by its Ⓢ procedure, it can later be summoned by a card effect.
             

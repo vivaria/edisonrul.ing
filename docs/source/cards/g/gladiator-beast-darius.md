@@ -50,10 +50,10 @@ Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Darius
 
 The ① and ② Effects:
 
-● If Darius isn't face-up on the field before the ① resolves:
+*   If Darius isn't face-up on the field before the ① resolves:
 The Summoned monster is no longer targeted by Darius.
 (its effects aren't negated, and it isn't shuffled if Darius leaves the field).
 Exception: If Darius is banished by "Bottomless Trap Hole", its effects remain negated.
-● If the Target, or Darius, is flipped face-down, Darius stops targeting it.
+*   If the Target, or Darius, is flipped face-down, Darius stops targeting it.
 (its effects aren't negated, and it isn't shuffled if Darius leaves the field).
             

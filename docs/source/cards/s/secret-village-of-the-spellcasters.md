@@ -29,12 +29,12 @@ Source: https://edisonformat.net/card?name=Secret%20Village%20of%20the%20Spellca
 
 ### Card Rulings
 
-●The Continuous Effect does not activate.
-●This effect applies if you have a face-up Spellcaster-Type monster and your opponent does not.
-●Your opponent can still Set Spell Cards face-down, but they can't be activated (played face-up).
-●Your opponent can stil activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).
-●The Continuous Effect does not activate.
-●This effect applies if you don't control a face-up Spellcaster-Type monster.
-●You can still Set Spell Cards face-down, but they can't be activated (played face-up).
-●You can still activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).
+*   The Continuous Effect does not activate.
+*   This effect applies if you have a face-up Spellcaster-Type monster and your opponent does not.
+*   Your opponent can still Set Spell Cards face-down, but they can't be activated (played face-up).
+*   Your opponent can stil activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).
+*   The Continuous Effect does not activate.
+*   This effect applies if you don't control a face-up Spellcaster-Type monster.
+*   You can still Set Spell Cards face-down, but they can't be activated (played face-up).
+*   You can still activate the effects of Spell Cards (ex: Magical Blast, Call of the Mummy).
             

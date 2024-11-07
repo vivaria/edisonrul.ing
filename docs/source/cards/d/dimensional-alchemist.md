@@ -31,5 +31,5 @@ Source: https://edisonformat.net/card?name=Dimensional%20Alchemist
 
 ### Card Rulings
 
-● If you Normal Summon this card and want to activate its effect, you should clarify whether or not you are using the effect with Ignition Priority.
+*   If you Normal Summon this card and want to activate its effect, you should clarify whether or not you are using the effect with Ignition Priority.
             

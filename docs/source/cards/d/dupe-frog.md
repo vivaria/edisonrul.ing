@@ -34,8 +34,8 @@ Source: https://edisonformat.net/card?name=Dupe%20Frog
 
 ### Card Rulings
 
-● If you control 2 or more "Dupe Frog", your opponent can't attack any monsters (however, this doesn't prevent them from attacking directly with cards like "Drill Warrior").
-● If this card is tributed for the effect of "Substitoad", it will miss its timing.
+*   If you control 2 or more "Dupe Frog", your opponent can't attack any monsters (however, this doesn't prevent them from attacking directly with cards like "Drill Warrior").
+*   If this card is tributed for the effect of "Substitoad", it will miss its timing.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
             

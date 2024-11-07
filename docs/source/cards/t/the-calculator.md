@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=The%20Calculator
 
 ### Card Rulings
 
-●The ATK determined by The Calculator's effect is not treated as its original ATK.
+*   The ATK determined by The Calculator's effect is not treated as its original ATK.
             

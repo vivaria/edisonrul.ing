@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Anti-Spell
 ### Card Rulings
 
 Remove 2 Spell Counters on your side of the field to negate the activation of a Spell Card and destroy it.
-●Removing 2 Spell Counters is a cost.
+*   Removing 2 Spell Counters is a cost.
             

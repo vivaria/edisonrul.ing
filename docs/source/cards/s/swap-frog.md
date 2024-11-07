@@ -38,19 +38,19 @@ Source: https://edisonformat.net/card?name=Swap%20Frog
 ### Card Rulings
 
 The Ⓢ:
-● Discarding 1 WATER monster for this card’s Ⓢ is a cost.
-● This does not start a chain.
+*   Discarding 1 WATER monster for this card’s Ⓢ is a cost.
+*   This does not start a chain.
 
 The ①:
-● You can send a monster you control to the GY, so if you activate this effect and then realize that you have nothing in your Deck to send, you must send an appropriate monster you control to the GY.
+*   You can send a monster you control to the GY, so if you activate this effect and then realize that you have nothing in your Deck to send, you must send an appropriate monster you control to the GY.
 
 The ②:
-● Returning a monster to the hand is a cost, so you cannot return a Fusion/Synchro Monster.
-● If Swap leaves the field, and is Summoned again that same turn, it can be activated again.
-● Even if it resolves more than once, you can't gain more than 1 additional Summon this way (but the cost of returning a monster is still paid).
-● You can return an opponent's monster to the hand. If you do, it returns to its owner's hand.
+*   Returning a monster to the hand is a cost, so you cannot return a Fusion/Synchro Monster.
+*   If Swap leaves the field, and is Summoned again that same turn, it can be activated again.
+*   Even if it resolves more than once, you can't gain more than 1 additional Summon this way (but the cost of returning a monster is still paid).
+*   You can return an opponent's monster to the hand. If you do, it returns to its owner's hand.
 
 The Frog Summon:
-●You may use the additional Summon before your normal Normal Summon.
-●Summons are not Sets. You can't Set a Frog with your Extra Summon.
+*   You may use the additional Summon before your normal Normal Summon.
+*   Summons are not Sets. You can't Set a Frog with your Extra Summon.
             

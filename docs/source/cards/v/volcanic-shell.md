@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=Volcanic%20Shell
 
 ### Card Rulings
 
-● If this card leaves the GY before this effect finishes resolving, no card is searched.
+*   If this card leaves the GY before this effect finishes resolving, no card is searched.
             

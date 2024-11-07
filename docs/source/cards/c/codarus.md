@@ -26,5 +26,5 @@ Source: https://edisonformat.net/card?name=Codarus
 
 ### Card Rulings
 
-● If one target leaves is no longer correct (eg it was flipped face-down) before this effect resolves, the other is still sent to the GY.
+*   If one target leaves is no longer correct (eg it was flipped face-down) before this effect resolves, the other is still sent to the GY.
             

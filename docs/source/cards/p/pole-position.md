@@ -30,15 +30,15 @@ Source: https://edisonformat.net/card?name=Pole%20Position
 ### Card Rulings
 
 The ① effect:
-● Players cannot perform actions that would cause an "Infinite Loop".
-● EG: I control a monster with 1500 ATK. You control a monster with 1000 ATK. Equipping "Axe of Despair" to your Monster is an illegal action:
+*   Players cannot perform actions that would cause an "Infinite Loop".
+*   EG: I control a monster with 1500 ATK. You control a monster with 1000 ATK. Equipping "Axe of Despair" to your Monster is an illegal action:
 - Its ATK would become the highest on the field.
 - That would make it unaffected by Spell Effects.
 - That would make its ATK no longer the highest, so Axe would apply again.
 - This "loop" would repeat indefinitely.
 
 The ② effect:
-● This is a continuous effect (it does not start a chain).
-● It applies on the field, so it can be negated by "Royal Decree" and "Jinzo".
-● It will not apply if Pole Position left the field while face-down or before the card itself has resolved.
+*   This is a continuous effect (it does not start a chain).
+*   It applies on the field, so it can be negated by "Royal Decree" and "Jinzo".
+*   It will not apply if Pole Position left the field while face-down or before the card itself has resolved.
             

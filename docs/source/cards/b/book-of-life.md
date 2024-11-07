@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Book%20of%20Life
 
 ### Card Rulings
 
-● If either leaves the GY before this card resolves, the other target is still summoned/banished.
-● If that target isn't a Zombie when this effect resolves, it isn't summoned.
+*   If either leaves the GY before this card resolves, the other target is still summoned/banished.
+*   If that target isn't a Zombie when this effect resolves, it isn't summoned.
             

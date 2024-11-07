@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Night's%20End%20Sorcerer
 
 ### Card Rulings
 
-●Night's End Sorcerer's effect can be activated when it is Special Summoned during the Damage Step.
-●Night's End Sorcerer's effect can't be activated when it is Special Summoned face-down (with The Shallow Grave, etc.).
+*   Night's End Sorcerer's effect can be activated when it is Special Summoned during the Damage Step.
+*   Night's End Sorcerer's effect can't be activated when it is Special Summoned face-down (with The Shallow Grave, etc.).
             

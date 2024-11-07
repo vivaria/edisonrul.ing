@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Ritual%20of%20Grace
 
 ### Card Rulings
 
-●The GY effect of this card targets 1 Ritual Monster you control.
-●Removing this card from the GY is a cost.
-●You can only activate this effect during your Main Phase.
+*   The GY effect of this card targets 1 Ritual Monster you control.
+*   Removing this card from the GY is a cost.
+*   You can only activate this effect during your Main Phase.
             

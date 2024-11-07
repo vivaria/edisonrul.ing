@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Demise%20of%20the%20Land
 
 ### Card Rulings
 
-●The activated Field Spell Card does not start a Chain.
+*   The activated Field Spell Card does not start a Chain.
             

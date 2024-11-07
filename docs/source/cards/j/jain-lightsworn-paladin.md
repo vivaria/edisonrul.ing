@@ -37,5 +37,5 @@ Source: https://edisonformat.net/card?name=Jain,%20Lightsworn%20Paladin
 
 ### Card Rulings
 
-● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+*   If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
             

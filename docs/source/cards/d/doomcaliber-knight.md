@@ -42,9 +42,9 @@ Source: https://edisonformat.net/card?name=Doomcaliber%20Knight
 
 ### Card Rulings
 
-● This effect is Mandatory. It can (and must) activate in any Step and any Phase,
+*   This effect is Mandatory. It can (and must) activate in any Step and any Phase,
 including Damage Calculation, and even in response to a effect triggered by an End Phase discard.
-● If 2 "Doomcaliber Knight" are on the field, when a monster effect is activated,
+*   If 2 "Doomcaliber Knight" are on the field, when a monster effect is activated,
 both are tributedm, and both "try" to negate that monster effect.
 however, only the one with a Chain Link directly adjacent to that monster effect in the Chain
 (the first to activate) will actually negate that Monster Effect.

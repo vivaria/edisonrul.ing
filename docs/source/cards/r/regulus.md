@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Regulus
 
 ### Card Rulings
 
-● This is an Ignition effect that targets 1 Field Spell Card in your GY.
+*   This is an Ignition effect that targets 1 Field Spell Card in your GY.
             

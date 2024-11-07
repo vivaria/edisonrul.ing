@@ -31,6 +31,6 @@ Source: https://edisonformat.net/card?name=Necro%20Gardna
 
 ### Card Rulings
 
-● You can activate this effect at any time, except during the Damage Step, Main Phase 2, or the End Phase.
-● If you activate this in response to an Attack, or during the Battle Step when a monster is attacking, that current attack is negated.
+*   You can activate this effect at any time, except during the Damage Step, Main Phase 2, or the End Phase.
+*   If you activate this in response to an Attack, or during the Battle Step when a monster is attacking, that current attack is negated.
             

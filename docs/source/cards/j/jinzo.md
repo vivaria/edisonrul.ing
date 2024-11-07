@@ -23,11 +23,11 @@ Source: https://edisonformat.net/card?name=Jinzo
 
 ### Card Rulings
 
-●The Continuous Effect applies while Jinzo is face-up on the field as a monster.
-●This card's Flip / Normal Summon can be negated by Solemn Judgment / Horn of Heaven.
-●Trap Cards can't be activated (played face-up).
-●The effects of face-up Trap Cards (ex: Royal Oppression) can't be activated.
-●The Continuous Effect does not activate.
-●Negate the effect●The effects of Trap Cards which have already resolved are not negated.
-●A face-down Jinzo does not apply its effects, it is flipped and destroyed by Acid Trap Hole.
+*   The Continuous Effect applies while Jinzo is face-up on the field as a monster.
+*   This card's Flip / Normal Summon can be negated by Solemn Judgment / Horn of Heaven.
+*   Trap Cards can't be activated (played face-up).
+*   The effects of face-up Trap Cards (ex: Royal Oppression) can't be activated.
+*   The Continuous Effect does not activate.
+*   Negate the effect●The effects of Trap Cards which have already resolved are not negated.
+*   A face-down Jinzo does not apply its effects, it is flipped and destroyed by Acid Trap Hole.
             

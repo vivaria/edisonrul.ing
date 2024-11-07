@@ -25,6 +25,6 @@ Source: https://edisonformat.net/card?name=Smoke%20Grenade%20of%20the%20Thief
 
 ### Card Rulings
 
-● If the equipped monster is destroyed by battle, this effect does not activate.
-● If the equipped monster is destroyed at the same time as this card, this effect does activate.
+*   If the equipped monster is destroyed by battle, this effect does not activate.
+*   If the equipped monster is destroyed at the same time as this card, this effect does activate.
             

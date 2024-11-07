@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Photon%20Generator%20Unit
 
 ### Card Rulings
 
-●“Photon Generator Unit” does not select a target.
+*   “Photon Generator Unit” does not select a target.
             

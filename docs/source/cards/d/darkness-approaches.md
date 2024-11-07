@@ -26,8 +26,8 @@ Source: https://edisonformat.net/card?name=Darkness%20Approaches
 
 ### Card Rulings
 
-● If you target an Attack Position monster, it is flipped into face-down Attack Position.
-● You can Flip Summon a Set Attack Position monster into Attack Position.
-● If a Set Attack Position monster is attacked, it is flipped into Attack Position.
-● A Set Attack Position monster can't attack.
+*   If you target an Attack Position monster, it is flipped into face-down Attack Position.
+*   You can Flip Summon a Set Attack Position monster into Attack Position.
+*   If a Set Attack Position monster is attacked, it is flipped into Attack Position.
+*   A Set Attack Position monster can't attack.
             

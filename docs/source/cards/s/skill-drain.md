@@ -31,6 +31,6 @@ Source: https://edisonformat.net/card?name=Skill%20Drain
 
 ### Card Rulings
 
-● This only negates the effects of monsters while they remain face-up on the field.
+*   This only negates the effects of monsters while they remain face-up on the field.
 If a monster activates its effect on the field, but isn't face-up on the field when that effect resolves (EG, Lonefire Blossom tributing itself), that effect is not negated.
             

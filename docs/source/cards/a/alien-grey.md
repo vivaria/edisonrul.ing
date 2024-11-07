@@ -29,5 +29,5 @@ Source: https://edisonformat.net/card?name=Alien%20Grey
 
 ### Card Rulings
 
-●While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.
+*   While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.
             

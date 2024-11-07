@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Multiply
 
 ### Card Rulings
 
-●You can't activate “Multiply” during the Damage Step.
+*   You can't activate “Multiply” during the Damage Step.
             

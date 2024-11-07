@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Earthbound%20Whirlwind
 
 ### Card Rulings
 
-●Even if there is no “Earthbound Immortal” on your side of the field when “Earthbound Whirlwind” resolves, its effect will still be applied.
+*   Even if there is no “Earthbound Immortal” on your side of the field when “Earthbound Whirlwind” resolves, its effect will still be applied.
             

@@ -29,6 +29,6 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Captain%20Gold
 
 ### Card Rulings
 
-● The ② effect applies immediately, as soon as "Skyscraper" is not face-up on the field (this could be during a chain).
-● If this card is attacked while face-down, and "Skyscraper" is not face-up on the field, this card is only destroyed after Damage Calculation.
+*   The ② effect applies immediately, as soon as "Skyscraper" is not face-up on the field (this could be during a chain).
+*   If this card is attacked while face-down, and "Skyscraper" is not face-up on the field, this card is only destroyed after Damage Calculation.
             

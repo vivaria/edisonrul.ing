@@ -27,10 +27,10 @@ Source: https://edisonformat.net/card?name=Dragon%20Ice
 
 ### Card Rulings
 
-●The optional Trigger Effect can't be activated in the Damage Step.
-●This is similar to Green Baboon, Defender of the Forest's, whose rulings were updated.
-●This effect does not target.
-●Discarding 1 card is a cost. Dragon Ice itself can be discarded as cost, and then Special Summon from your GY.
-●The Unclassified effect applies while Dragon Ice is face-up. This effect can't be negated.
-●You can Special Summon multiple copies of Dragon Ice by Return from the Different Dimension. However, excess copies will be destroyed by game mechanic before you proceed to resolve the next link in the chain (or enter an open gamestate).
+*   The optional Trigger Effect can't be activated in the Damage Step.
+*   This is similar to Green Baboon, Defender of the Forest's, whose rulings were updated.
+*   This effect does not target.
+*   Discarding 1 card is a cost. Dragon Ice itself can be discarded as cost, and then Special Summon from your GY.
+*   The Unclassified effect applies while Dragon Ice is face-up. This effect can't be negated.
+*   You can Special Summon multiple copies of Dragon Ice by Return from the Different Dimension. However, excess copies will be destroyed by game mechanic before you proceed to resolve the next link in the chain (or enter an open gamestate).
             

@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Limit%20Impulse
 
 ### Card Rulings
 
-●Sending 2 cards from your hand to the GY is a cost.
-●If you don't have enough available Monster Card Zones when this card resolves, you won’t Special Summon any “Soul Tokens.”
-●You can't activate this card during the Damage Step.
+*   Sending 2 cards from your hand to the GY is a cost.
+*   If you don't have enough available Monster Card Zones when this card resolves, you won’t Special Summon any “Soul Tokens.”
+*   You can't activate this card during the Damage Step.
             

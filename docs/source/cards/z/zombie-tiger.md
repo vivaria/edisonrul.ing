@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Zombie%20Tiger
 ### Card Rulings
 
 These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
-●When a monster equipped with Zombie Tiger destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.
+*   When a monster equipped with Zombie Tiger destroys another monster, the discard effect is applied before the destroyed monster is sent to the GY.
             

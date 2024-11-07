@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=A%20Man%20with%20Wdjat
 
 ### Card Rulings
 
-●If you Set A Man with Wdjat, its effect is not activated.
-●Any effects of the card you look at are not activated when you look at them with A Man with Wdjat (such as a Flip Effect, or if it is a Trap Card, etc.).
+*   If you Set A Man with Wdjat, its effect is not activated.
+*   Any effects of the card you look at are not activated when you look at them with A Man with Wdjat (such as a Flip Effect, or if it is a Trap Card, etc.).
             

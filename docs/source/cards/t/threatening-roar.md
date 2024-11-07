@@ -23,7 +23,7 @@ Source: https://edisonformat.net/card?name=Threatening%20Roar
 
 ### Card Rulings
 
-● If you activate this in response to the declaration of an attack, that attack continues as normal.
-● You can activate this card in the Start Step of the Battle Phase, before attacks are declared.
-● You can't activate this card during your turn on in your opponent's Main Phase 2 or End Phase.
+*   If you activate this in response to the declaration of an attack, that attack continues as normal.
+*   You can activate this card in the Start Step of the Battle Phase, before attacks are declared.
+*   You can't activate this card during your turn on in your opponent's Main Phase 2 or End Phase.
             

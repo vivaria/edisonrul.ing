@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=Strike%20Ninja
 
 ### Card Rulings
 
-● You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).
+*   You may activate the effects of multiple “Strike Ninja” in the same turn (but only one per copy).
             

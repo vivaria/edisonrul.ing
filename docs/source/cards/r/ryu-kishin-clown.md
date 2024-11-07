@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Ryu-Kishin%20Clown
 
 ### Card Rulings
 
-●If Ryu-Kishin Clown is Special Summoned face-down, its effect does not activate.
+*   If Ryu-Kishin Clown is Special Summoned face-down, its effect does not activate.
             

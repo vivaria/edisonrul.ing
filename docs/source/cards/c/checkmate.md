@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Checkmate
 
 ### Card Rulings
 
-●Checkmate targets 1 Terrorking Archfiend on your side of the field as a target when it is activated.
+*   Checkmate targets 1 Terrorking Archfiend on your side of the field as a target when it is activated.
             

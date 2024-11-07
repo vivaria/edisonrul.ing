@@ -26,7 +26,7 @@ Source: https://edisonformat.net/card?name=Blackwing%20-%20Gale%20the%20Whirlwin
 
 ### Card Rulings
 
-● If this effect affects "Tragoedia", Tragoedia's ATK will "freeze" at whatever value it becomes, even if the number of cards in hand changes.
-● If this effect halves the effect of a monster whose ATK is already being modified, for example by "Rush Recklessly" or "Axe of Despair", those effects are no longer applied to that monster.
+*   If this effect affects "Tragoedia", Tragoedia's ATK will "freeze" at whatever value it becomes, even if the number of cards in hand changes.
+*   If this effect halves the effect of a monster whose ATK is already being modified, for example by "Rush Recklessly" or "Axe of Despair", those effects are no longer applied to that monster.
 For example, if a monster with 2000 ATK is equipped by "Axe of Despair", and then has its ATK halved by Gale, its ATK will become 1500, and will remain at 1500 even if Axe leaves the field or becomes negated.
             

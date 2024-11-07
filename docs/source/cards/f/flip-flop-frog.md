@@ -30,8 +30,8 @@ Source: https://edisonformat.net/card?name=Flip%20Flop%20Frog
 
 ### Card Rulings
 
-● This card's ① effect can only be used once per turn.
+*   This card's ① effect can only be used once per turn.
 (It "remembers" if it used this effect even after being Set).
-● If this Set card is attacked, it's still on the field when its effect resolves, so it counts itself towards the number of monsters to return to the hand.
-● This effect doesn't target (PSCT from this bot will always state when an effect targets).
+*   If this Set card is attacked, it's still on the field when its effect resolves, so it counts itself towards the number of monsters to return to the hand.
+*   This effect doesn't target (PSCT from this bot will always state when an effect targets).
             

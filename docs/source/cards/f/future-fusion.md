@@ -45,7 +45,7 @@ Source: https://edisonformat.net/card?name=Future%20Fusion
 
 ### Card Rulings
 
-● If you can't Special Summon, you can't activate this card.
-● This card’s Special Summon can't be negated by “Thunder King Rai-Oh” or “Horn of Heaven”.
-● You can chain “Royal Oppression” to this card’s activation. (but not when the Monster is Fusion Summoned).
+*   If you can't Special Summon, you can't activate this card.
+*   This card’s Special Summon can't be negated by “Thunder King Rai-Oh” or “Horn of Heaven”.
+*   You can chain “Royal Oppression” to this card’s activation. (but not when the Monster is Fusion Summoned).
             

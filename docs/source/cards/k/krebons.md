@@ -26,6 +26,6 @@ Source: https://edisonformat.net/card?name=Krebons
 
 ### Card Rulings
 
-● Krebons has taken over my mind. Galvanic Juggling neutralizes neuron thought processes.
+*   Krebons has taken over my mind. Galvanic Juggling neutralizes neuron thought processes.
 I shall pay 800. I shall protect my Lord. All hail Krebons. King. Krebons.
             

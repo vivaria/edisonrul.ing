@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Cloudian%20-%20Turbulence
 
 ### Card Rulings
 
-●If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.
-●You can't activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” is not in your Deck or in either player’s GY.
-●If you activate “Cloudian – Turbulence’s” effect and an effect is chained that removes all 3 copies of “Cloudian – Smoke Ball” from play, you don't have to show your Deck to your opponent to verify because all 3 copies of “Cloudian – Smoke Ball” are accounted for.
+*   If “Cloudian – Turbulence” is attacked while in face-down Defense Position and it is flipped face-up by the attack, it is destroyed by its effect after damage calculation.
+*   You can't activate the effect of “Cloudian – Turbulence” that Special Summons “Cloudian – Smoke Ball” if “Cloudian – Smoke Ball” is not in your Deck or in either player’s GY.
+*   If you activate “Cloudian – Turbulence’s” effect and an effect is chained that removes all 3 copies of “Cloudian – Smoke Ball” from play, you don't have to show your Deck to your opponent to verify because all 3 copies of “Cloudian – Smoke Ball” are accounted for.
             

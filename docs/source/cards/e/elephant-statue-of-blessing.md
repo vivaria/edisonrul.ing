@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Elephant%20Statue%20of%20Blessing
 
 ### Card Rulings
 
-●Elephant Statue of Blessing must be sent from the owner's hand to the owner's GY in order for its effect to activate.
-●Elephant Statue of Blessing's effect can be activated during the Damage Step.
-●Elephant Statue of Blessing's effect activates when sent from the hand to the GY by the effect of Last Turn or Chaos Emperor Dragon - Envoy of the End.
+*   Elephant Statue of Blessing must be sent from the owner's hand to the owner's GY in order for its effect to activate.
+*   Elephant Statue of Blessing's effect can be activated during the Damage Step.
+*   Elephant Statue of Blessing's effect activates when sent from the hand to the GY by the effect of Last Turn or Chaos Emperor Dragon - Envoy of the End.
             

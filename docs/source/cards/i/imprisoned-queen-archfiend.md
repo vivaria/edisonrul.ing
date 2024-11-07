@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Imprisoned%20Queen%20Archfiend
 
 ### Card Rulings
 
-●Paying 1000 Life Points during your Standby Phase is a maintenance cost.
-●If your Life Points are 1000 or less during your Standby Phase, you can't pay for Imprisoned Queen Archfiend so it is destroyed.
+*   Paying 1000 Life Points during your Standby Phase is a maintenance cost.
+*   If your Life Points are 1000 or less during your Standby Phase, you can't pay for Imprisoned Queen Archfiend so it is destroyed.
             

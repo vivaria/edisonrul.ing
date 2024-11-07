@@ -32,7 +32,7 @@ Source: https://edisonformat.net/card?name=Majestic%20Red%20Dragon
 ### Card Rulings
 
 The ③ effect:
-● You can't negate the effects of a monster which already has its effects negated.
+*   You can't negate the effects of a monster which already has its effects negated.
 The ④ effect:
-● Even if there is no "Red Dragon Archfiend" in your GY, this card will still return to the Extra Deck.
+*   Even if there is no "Red Dragon Archfiend" in your GY, this card will still return to the Extra Deck.
             

@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Ancient%20Crimson%20Ape
 
 ### Card Rulings
 
-●The mandatory Trigger Effect activates & resolves on the field.
-●If “Ancient Crimson Ape” is destroyed and sent to the GY, its effect does not activate.
-●If you control your opponent’s monster and it is destroyed and sent to the GY, the effect of “Ancient Crimson Ape” activates.
+*   The mandatory Trigger Effect activates & resolves on the field.
+*   If “Ancient Crimson Ape” is destroyed and sent to the GY, its effect does not activate.
+*   If you control your opponent’s monster and it is destroyed and sent to the GY, the effect of “Ancient Crimson Ape” activates.
             

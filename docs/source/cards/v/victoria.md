@@ -26,9 +26,9 @@ Source: https://edisonformat.net/card?name=Victoria
 
 ### Card Rulings
 
-●The Ignition Effect activates & resolves on the field.
-●This effect targets 1 Dragon-Type monster in your opponent’s GY.
-●This effect is negated by Necrovalley.
-●The Continuous Effect applies while this card is face-up on the field.
-●If you control two copies of Victoria, your opponent can't attack your Fairy-Type monsters.
+*   The Ignition Effect activates & resolves on the field.
+*   This effect targets 1 Dragon-Type monster in your opponent’s GY.
+*   This effect is negated by Necrovalley.
+*   The Continuous Effect applies while this card is face-up on the field.
+*   If you control two copies of Victoria, your opponent can't attack your Fairy-Type monsters.
             

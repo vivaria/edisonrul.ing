@@ -29,11 +29,11 @@ Source: https://edisonformat.net/card?name=Gaap%20the%20Divine%20Soldier
 
 ### Card Rulings
 
-●The Continuous Effect applies while Gaap is face-up on the field.
-●Set monsters changed to Attack Position by this effect are not treated as being Flip Summoned.
-●Torrential Tribute can't be activated.
-●Both Players can Set monsters, but they are immediately changed to Attack Position.
-●Cards / Effects that Special Summon face-down / Set monsters can be activated, but those monsters are immediately changed to Attack Position.
-●The Ignition Effect can only be activated during the Main Phase.
-●Revealing a Fiend-Type monster●You can choose how many Fiend-Type monsters you reveal.
+*   The Continuous Effect applies while Gaap is face-up on the field.
+*   Set monsters changed to Attack Position by this effect are not treated as being Flip Summoned.
+*   Torrential Tribute can't be activated.
+*   Both Players can Set monsters, but they are immediately changed to Attack Position.
+*   Cards / Effects that Special Summon face-down / Set monsters can be activated, but those monsters are immediately changed to Attack Position.
+*   The Ignition Effect can only be activated during the Main Phase.
+*   Revealing a Fiend-Type monster●You can choose how many Fiend-Type monsters you reveal.
             

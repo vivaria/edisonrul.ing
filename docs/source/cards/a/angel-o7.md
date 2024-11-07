@@ -30,11 +30,11 @@ Source: https://edisonformat.net/card?name=Angel%20O7
 ### Card Rulings
 
 When this card is Tribute Summoned, it gains the following effect: ● The effects of Effect Monsters can't be activated.
-●This card must be Tribute Summoned, not Normal Summoned by Mausoleum of the Emperor.
-●The effect is lost if this card is flipped face-down and later Flip Summoned.
-●The effect stays if this card is flipped face-down and later flipped face-up (by card effect).
-●The effect stays if this card is temporarily banished (by Interdimensional Matter Transporter).
-●The Continuous Effect applies while this Tribute Summoned card is face-up on the field.
-●This effect does not prevent a monster's Continuous Effects from being applied.
-●This effect prevents ALL Monster Card Effects from ACTIVATING in any Zone, even your own.
+*   This card must be Tribute Summoned, not Normal Summoned by Mausoleum of the Emperor.
+*   The effect is lost if this card is flipped face-down and later Flip Summoned.
+*   The effect stays if this card is flipped face-down and later flipped face-up (by card effect).
+*   The effect stays if this card is temporarily banished (by Interdimensional Matter Transporter).
+*   The Continuous Effect applies while this Tribute Summoned card is face-up on the field.
+*   This effect does not prevent a monster's Continuous Effects from being applied.
+*   This effect prevents ALL Monster Card Effects from ACTIVATING in any Zone, even your own.
             

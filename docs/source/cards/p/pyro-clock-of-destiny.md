@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Pyro%20Clock%20of%20Destiny
 
 ### Card Rulings
 
-●You can use Pyro Clock of Destiny to advance the turn count by 1 for these cards: “Deck Devastation Virus”, Swords of Revealing Light, Lightforce Sword, or Final Countdown.
+*   You can use Pyro Clock of Destiny to advance the turn count by 1 for these cards: “Deck Devastation Virus”, Swords of Revealing Light, Lightforce Sword, or Final Countdown.
             

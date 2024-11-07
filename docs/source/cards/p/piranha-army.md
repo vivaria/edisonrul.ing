@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Piranha%20Army
 
 ### Card Rulings
 
-●The Battle Damage doubled by Piranha Army's effect is still considered Battle Damage (not effect damage).
+*   The Battle Damage doubled by Piranha Army's effect is still considered Battle Damage (not effect damage).
             

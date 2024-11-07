@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cyber%20End%20Dragon
 
 ### Card Rulings
 
-●You can Special Summon “Cyber End Dragon” with “Cyber-Stein” or “Metamorphosis”.
+*   You can Special Summon “Cyber End Dragon” with “Cyber-Stein” or “Metamorphosis”.
             

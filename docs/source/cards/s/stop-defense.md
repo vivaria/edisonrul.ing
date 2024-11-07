@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Stop%20Defense
 
 ### Card Rulings
 
-●Using Stop Defense on a face-down monster does not constitute a Flip Summon, so Trap Hole could not be used.
+*   Using Stop Defense on a face-down monster does not constitute a Flip Summon, so Trap Hole could not be used.
             

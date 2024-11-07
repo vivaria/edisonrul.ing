@@ -31,6 +31,6 @@ Source: https://edisonformat.net/card?name=Sky%20Scourge%20Norleras
 
 ### Card Rulings
 
-● The only way you can Special Summon this card is via its own procedure.
+*   The only way you can Special Summon this card is via its own procedure.
 Even if it was initially summoned that way, you still can't summon it with card effects.
             

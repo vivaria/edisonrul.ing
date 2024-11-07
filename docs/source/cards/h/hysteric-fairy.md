@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Hysteric%20Fairy
 
 ### Card Rulings
 
-●Tributing 2 monsters is a cost. Hysteric Fairy can be Tributed to pay its cost.
+*   Tributing 2 monsters is a cost. Hysteric Fairy can be Tributed to pay its cost.
             

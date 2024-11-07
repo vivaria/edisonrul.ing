@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Grasschopper
 ### Card Rulings
 
 These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
-●While “Grasschopper’s” effect is active, if “Grasschopper” attacks a monster and your opponent activates “Magic Cylinder” to negate the attack, “Grasschopper” can attack that same monster again.
+*   While “Grasschopper’s” effect is active, if “Grasschopper” attacks a monster and your opponent activates “Magic Cylinder” to negate the attack, “Grasschopper” can attack that same monster again.
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Shutendoji
 
 ### Card Rulings
 
-●The effect to return a monster to the top of your Deck targets 1 removed from play Zombie-Type monster.
-●Removing from play 2 Zombie-Type monsters in your GY is a cost.
+*   The effect to return a monster to the top of your Deck targets 1 removed from play Zombie-Type monster.
+*   Removing from play 2 Zombie-Type monsters in your GY is a cost.
             

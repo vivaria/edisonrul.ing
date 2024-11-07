@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Genetic%20Woman
 
 ### Card Rulings
 
-●Paying 1000 Life Points is a cost. This effect targets.
+*   Paying 1000 Life Points is a cost. This effect targets.
             

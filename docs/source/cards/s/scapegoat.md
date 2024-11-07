@@ -32,6 +32,6 @@ Source: https://edisonformat.net/card?name=Scapegoat
 
 ### Card Rulings
 
-● If this card's Activation is negated, you can still summon other monsters that turn.
+*   If this card's Activation is negated, you can still summon other monsters that turn.
 If this card's effect is negated, you can't.
             

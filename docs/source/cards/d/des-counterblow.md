@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Des%20Counterblow
 
 ### Card Rulings
 
-●Des Counterblow's effect does NOT target.
-●The monster is destroyed after damage calculation.
+*   Des Counterblow's effect does NOT target.
+*   The monster is destroyed after damage calculation.
             

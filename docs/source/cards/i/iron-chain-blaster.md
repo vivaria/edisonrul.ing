@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Iron%20Chain%20Blaster
 
 ### Card Rulings
 
-●Sending 1 Iron Chain monster you control to the GY is a cost. You can only send a face-up Iron Chain monster.
-●Iron Chain Blaster can send itself to the GY to activate its effect.
+*   Sending 1 Iron Chain monster you control to the GY is a cost. You can only send a face-up Iron Chain monster.
+*   Iron Chain Blaster can send itself to the GY to activate its effect.
             

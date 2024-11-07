@@ -28,13 +28,13 @@ Source: https://edisonformat.net/card?name=Shiny%20Black%20C
 
 ### Card Rulings
 
-● This Quick Effect activates in your GY, banishes this card for cost and targets the Special Summoned Synchro Monster.
+*   This Quick Effect activates in your GY, banishes this card for cost and targets the Special Summoned Synchro Monster.
 
-● It cannot be activated during the Damage Step (e.g. vs "Colossal Fighter").
+*   It cannot be activated during the Damage Step (e.g. vs "Colossal Fighter").
 
-● If the summoned Synchro Monster is face-down when this effect resolves, it is not destroyed (e.g. vs "Book of Moon").
+*   If the summoned Synchro Monster is face-down when this effect resolves, it is not destroyed (e.g. vs "Book of Moon").
 
-● You cannot activate this effect if two or more Synchro Monsters are special summoned to your opponent's field simultaneously.
+*   You cannot activate this effect if two or more Synchro Monsters are special summoned to your opponent's field simultaneously.
 
-● When a Synchro Monster is Special Summoned to your opponent's field while this card is in your hand, it you discard this card for cost (e.g. for "Raigeki Break"), you can then chain the effect of this card.
+*   When a Synchro Monster is Special Summoned to your opponent's field while this card is in your hand, it you discard this card for cost (e.g. for "Raigeki Break"), you can then chain the effect of this card.
             

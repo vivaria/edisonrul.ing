@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Dark%20Room%20of%20Nightmare
 
 ### Card Rulings
 
-●A cost is not damage so this card’s effect does not apply against Chain Energy, or costs for Imperial Order, etc.
+*   A cost is not damage so this card’s effect does not apply against Chain Energy, or costs for Imperial Order, etc.
             

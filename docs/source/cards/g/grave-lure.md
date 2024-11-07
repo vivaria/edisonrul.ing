@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Grave%20Lure
 
 ### Card Rulings
 
-●If your Deck is already face-up because of “Convulsion of Nature”, then the card from “Grave Lure” is turned face-down.
+*   If your Deck is already face-up because of “Convulsion of Nature”, then the card from “Grave Lure” is turned face-down.
             

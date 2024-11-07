@@ -28,7 +28,7 @@ Source: https://edisonformat.net/card?name=Monster%20Gate
 
 ### Card Rulings
 
-● You can't activate this card if you have no monsters that can be Normal Summoned/Set in your Deck.
-● You can't activate this card while "Vanity's Fiend" is applying.
-● If you reveal a card that can't be Summoned because EG "Power Filter" is applying, send all cards to the GY.
+*   You can't activate this card if you have no monsters that can be Normal Summoned/Set in your Deck.
+*   You can't activate this card while "Vanity's Fiend" is applying.
+*   If you reveal a card that can't be Summoned because EG "Power Filter" is applying, send all cards to the GY.
             

@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Consecrated%20Light
 
 ### Card Rulings
 
-● You can Tribute this card to Tribute Summon a DARK monster.
-● You can't use this card as Synchro Material for a DARK monster.
-● While this card is on the field, you can Summon "Light and Darkness Dragon", but it can't attack.
+*   You can Tribute this card to Tribute Summon a DARK monster.
+*   You can't use this card as Synchro Material for a DARK monster.
+*   While this card is on the field, you can Summon "Light and Darkness Dragon", but it can't attack.
             

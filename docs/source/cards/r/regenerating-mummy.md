@@ -26,7 +26,7 @@ Source: https://edisonformat.net/card?name=Regenerating%20Mummy
 
 ### Card Rulings
 
-● Regenerating Mummy's effect will activate when sent to the GY by the effect of Morphing Jar or Card Destruction.
-●Regenerating Mummy's effect will activate during the Damage Step because of Spirit Reaper or Don Zaloog.
-●Regenerating Mummy's effect will activate when destroyed and sent to the GY because of Chain Destruction.
+*   Regenerating Mummy's effect will activate when sent to the GY by the effect of Morphing Jar or Card Destruction.
+*   Regenerating Mummy's effect will activate during the Damage Step because of Spirit Reaper or Don Zaloog.
+*   Regenerating Mummy's effect will activate when destroyed and sent to the GY because of Chain Destruction.
             

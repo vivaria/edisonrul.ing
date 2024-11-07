@@ -42,9 +42,9 @@ Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Gyzarus
 
 ### Card Rulings
 
-● “Battling” requires this card to be involved in Damage Calculation
+*   “Battling” requires this card to be involved in Damage Calculation
 (If this card's attack is negated, the ② effect can't activate).
-● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase,
+*   If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase,
 they don’t go on the same Chain (they each activate, one after another, each on their own Chain).
-● If this card was originally Special Summoned by its own procedure, it can still later be Summoned by card effects.
+*   If this card was originally Special Summoned by its own procedure, it can still later be Summoned by card effects.
             

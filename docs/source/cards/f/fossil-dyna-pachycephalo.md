@@ -27,6 +27,6 @@ Source: https://edisonformat.net/card?name=Fossil%20Dyna%20Pachycephalo
 
 ### Card Rulings
 
-●If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
-● The ① will destroy Special Summoned monsters that were flipped face-down (eg by Book of Moon), even if they were Flip Summoned after, or banished temporarily (eg by Interdimensional Matter Transporter).
+*   If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
+*   The ① will destroy Special Summoned monsters that were flipped face-down (eg by Book of Moon), even if they were Flip Summoned after, or banished temporarily (eg by Interdimensional Matter Transporter).
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Rainbow%20Neos
 
 ### Card Rulings
 
-●All three of Rainbow Neos' effects are Ignition Effects.
+*   All three of Rainbow Neos' effects are Ignition Effects.
             

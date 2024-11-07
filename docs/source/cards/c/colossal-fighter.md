@@ -34,5 +34,5 @@ Source: https://edisonformat.net/card?name=Colossal%20Fighter
 
 ### Card Rulings
 
-● This card can target itself in the GY.
+*   This card can target itself in the GY.
             

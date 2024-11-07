@@ -32,14 +32,14 @@ Source: https://edisonformat.net/card?name=Arcana%20Force%20EX%20-%20The%20Dark%
 
 ### Card Rulings
 
-●The Condition can't be negated.
-●The Unclassified Effect applies in the hand (this Special Summon does not start a Chain).
-●Sending 3 monsters you control to the GY is a cost. You can't send Monster Tokens or a face-up Battle Fader (Special Summoned by its effect) to the GY.
-●You can't Special Summon this card from the GY / banished, even if properly Summoned.
-●You can't Special Summon this card from the hand / Deck by another effect.
-●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card won't forget which effect is gained while face-up.
-●The (HEADS) Continuous Effect applies while this card is face-up on the field.
-●If your Arcana Force EX - The Dark Ruler is equipped with Twin Swords of Flashing Light - Tryce while its heads effect is applied, you will choose which effect to use when you attack twice. If you choose Arcana Force EX - The Dark Ruler's heads effect, it will be changed to Defense Position at the end of the Battle Phase.
-●The (TAILS) Continuous Effect does not start a Chain.
-●If Arcana Force EX - The Dark Ruler is destroyed by battle, all other cards on the field are destroyed when Arcana Force EX - The Dark Ruler is sent to the GY.
+*   The Condition can't be negated.
+*   The Unclassified Effect applies in the hand (this Special Summon does not start a Chain).
+*   Sending 3 monsters you control to the GY is a cost. You can't send Monster Tokens or a face-up Battle Fader (Special Summoned by its effect) to the GY.
+*   You can't Special Summon this card from the GY / banished, even if properly Summoned.
+*   You can't Special Summon this card from the hand / Deck by another effect.
+*   When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card won't forget which effect is gained while face-up.
+*   The (HEADS) Continuous Effect applies while this card is face-up on the field.
+*   If your Arcana Force EX - The Dark Ruler is equipped with Twin Swords of Flashing Light - Tryce while its heads effect is applied, you will choose which effect to use when you attack twice. If you choose Arcana Force EX - The Dark Ruler's heads effect, it will be changed to Defense Position at the end of the Battle Phase.
+*   The (TAILS) Continuous Effect does not start a Chain.
+*   If Arcana Force EX - The Dark Ruler is destroyed by battle, all other cards on the field are destroyed when Arcana Force EX - The Dark Ruler is sent to the GY.
             

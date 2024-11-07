@@ -54,13 +54,13 @@ Source: https://edisonformat.net/card?name=Prohibition
 ### Card Rulings
 
 “Used” means that that card can’t:
-● Be Activated from hand
-● Be Set from hand.
-● Be Summoned from hand nor Extra Deck.
-● Activate/Apply its effects.
-● Be used as Material for a Fusion/Synchro Summon.
-● Change its Battle Position
-● Declare an Attack.
+*   Be Activated from hand
+*   Be Set from hand.
+*   Be Summoned from hand nor Extra Deck.
+*   Activate/Apply its effects.
+*   Be used as Material for a Fusion/Synchro Summon.
+*   Change its Battle Position
+*   Declare an Attack.
 
 For more information: https://edisonformat.net/rules/compendium/prohibition
             

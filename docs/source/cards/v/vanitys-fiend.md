@@ -27,6 +27,6 @@ Source: https://edisonformat.net/card?name=Vanity's%20Fiend
 
 ### Card Rulings
 
-● While this effect is applying, "Future Fusion" cannot be activated, nor can it Summon a Monster during the 2nd Standby Phase.
-●If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
+*   While this effect is applying, "Future Fusion" cannot be activated, nor can it Summon a Monster during the 2nd Standby Phase.
+*   If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
             

@@ -27,6 +27,6 @@ Source: https://edisonformat.net/card?name=Lord%20British%20Space%20Fighter
 
 ### Card Rulings
 
-● This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.
-●“It can attack again in a row” means that this card can keep attacking until its condition to attack again is no longer fulfilled. It can make a second, third, fourth, etc attack this way.
+*   This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.
+*   “It can attack again in a row” means that this card can keep attacking until its condition to attack again is no longer fulfilled. It can make a second, third, fourth, etc attack this way.
             

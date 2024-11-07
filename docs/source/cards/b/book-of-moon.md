@@ -40,19 +40,19 @@ Source: https://edisonformat.net/card?name=Book%20of%20Moon
 ### Card Rulings
 
 Flipping a monster face-down will remove most "Lingering Effects" from it (except "change control" effects), EG:
-● ATK changes from "Shrink", Gale, or "Card Trooper".
-● The "Negate its effects" part of "Debris Dragon" or Vayu
-● "But banish it if leaves the field" effects of "Plaguespreader Zombie" or "Battle Fader".
+*   ATK changes from "Shrink", Gale, or "Card Trooper".
+*   The "Negate its effects" part of "Debris Dragon" or Vayu
+*   "But banish it if leaves the field" effects of "Plaguespreader Zombie" or "Battle Fader".
 
 Flipping a monster face-down will sometimes cause a monster to "forget" things, EG:
-● The fact that it was Summoned by a "Gladiator Beast"
-● Whether or not it has used its "Once Per Turn" effect (except effects like "Des Lacooda"'s)
-● Wheter or not it has been Gemini or Flip Summoned.
+*   The fact that it was Summoned by a "Gladiator Beast"
+*   Whether or not it has used its "Once Per Turn" effect (except effects like "Des Lacooda"'s)
+*   Wheter or not it has been Gemini or Flip Summoned.
 When a card specifies "that target", and "that target" is "1 face-up monster", Setting it can save it. EG:
-● Karma Cut: "target 1 face-up monster your opponent controls; banish that target".
+*   Karma Cut: "target 1 face-up monster your opponent controls; banish that target".
 Since "that target" is "1 face-up monster", if it's flipped face-down by this card, it is NOT banished.
-● Caius the Shadow Monarch: "Target 1 card on the field; banish that target"
+*   Caius the Shadow Monarch: "Target 1 card on the field; banish that target"
 Since "that target" is "1 card on the field", if it's flipped face-down by this card, it IS banished.
-● Paleozoic Dinomischus: Target 1 face-up card on the field; ...banish it."
+*   Paleozoic Dinomischus: Target 1 face-up card on the field; ...banish it."
 Since this card banishes "it", it IS banished (this card is not legal in Edison, but is a good example).
             

@@ -37,23 +37,23 @@ Source: https://edisonformat.net/card?name=Rivalry%20of%20Warlords
 ### Card Rulings
 
 While you control a face-up monster, you can:
-● Tribute Summon a monster using your only face-up monster, even if it has the wrong Type.
+*   Tribute Summon a monster using your only face-up monster, even if it has the wrong Type.
 (EG: Your only face-up monster is "Treeborn Frog". You can Tribute it for "Caius the Shadow Monarch").
-● Take control of an opponent's monster with EG "Brain Control", even if it has the wrong Type.
+*   Take control of an opponent's monster with EG "Brain Control", even if it has the wrong Type.
 (If it has the wrong Type, it's immediately sent to the GY).
-● Summon/Set monsters face-down, even if they have the wrong original Type.
-● If you control no monsters, you can Summon multiple monsters with different Types with EG "Rekindling".
+*   Summon/Set monsters face-down, even if they have the wrong original Type.
+*   If you control no monsters, you can Summon multiple monsters with different Types with EG "Rekindling".
 (After they're summoned, send monsters you control to the GY so that you only control 1 Type).
 
 While you control a face-up monster, you can't:
-● Ritual/Fusion/Synchro Summon a monster with the wrong Type, even if you would use the monsters you control as tribute/material.
+*   Ritual/Fusion/Synchro Summon a monster with the wrong Type, even if you would use the monsters you control as tribute/material.
 (EG, you can't use 2 Sea-Serpents to Synchro Summon a Psychic).
-● Flip/Normal/Special Summon a monster with the wrong Type.
-● Summon "Lava Golem" (unless all monsters your opponent controls are Fiends).
-● Summon "Uria, Lord of Searing Flames" (unless you control no monsters, or only Pyros).
+*   Flip/Normal/Special Summon a monster with the wrong Type.
+*   Summon "Lava Golem" (unless all monsters your opponent controls are Fiends).
+*   Summon "Uria, Lord of Searing Flames" (unless you control no monsters, or only Pyros).
 
 If a Set Monster is attacked:
-● It's not sent to the GY until After Damage Calculation.
-● Its Flip Effect will activate, but it is not "destroyed by battle"
+*   It's not sent to the GY until After Damage Calculation.
+*   Its Flip Effect will activate, but it is not "destroyed by battle"
 (EG, Shura and Mystic Tomato won't trigger, since nothing was destroyed by battle).
             

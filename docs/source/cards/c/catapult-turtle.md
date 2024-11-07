@@ -25,5 +25,5 @@ Source: https://edisonformat.net/card?name=Catapult%20Turtle
 
 ### Card Rulings
 
-● You can use this effect multiple times per turn.
+*   You can use this effect multiple times per turn.
             

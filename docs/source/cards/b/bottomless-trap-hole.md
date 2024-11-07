@@ -32,11 +32,11 @@ Source: https://edisonformat.net/card?name=Bottomless%20Trap%20Hole
 
 ### Card Rulings
 
-● If the monster doesn't have 1500 or more ATK when this effect resolves, it is not destroyed, and it is nor banished.
-● Since this effect destroys, "Stardust Dragon"'s effect can be chained to it.
-● Although the monster is destroyed, it is never actually sent to the GY. It is banished directly from the field.
+*   If the monster doesn't have 1500 or more ATK when this effect resolves, it is not destroyed, and it is nor banished.
+*   Since this effect destroys, "Stardust Dragon"'s effect can be chained to it.
+*   Although the monster is destroyed, it is never actually sent to the GY. It is banished directly from the field.
 
-● Like most Trap cards, this card can miss the timing.
+*   Like most Trap cards, this card can miss the timing.
 For example, if "Jar of Greed" was activated,
 and "Call of the Haunted" is chained to it,
 this card can't be activated when that monster was Summoned,

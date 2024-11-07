@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Archfiend's%20Oath
 
 ### Card Rulings
 
-●The Ignition Effect activates & resolves on the field.
-●Paying 500 Life Points is a cost. Declare 1 card name at activation.
-●You can activate Archfiend's Oath while Convulsion of Nature is active.
-●If you have multiple copies of Archfiend's Oath, you can use all of them.
+*   The Ignition Effect activates & resolves on the field.
+*   Paying 500 Life Points is a cost. Declare 1 card name at activation.
+*   You can activate Archfiend's Oath while Convulsion of Nature is active.
+*   If you have multiple copies of Archfiend's Oath, you can use all of them.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Trial%20of%20the%20Princesses
 
 ### Card Rulings
 
-●You can't activate the effect of “Trial of the Princesses” to Special Summon during your opponent’s turn.
+*   You can't activate the effect of “Trial of the Princesses” to Special Summon during your opponent’s turn.
             

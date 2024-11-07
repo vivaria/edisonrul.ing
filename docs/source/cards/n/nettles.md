@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Nettles
 
 ### Card Rulings
 
-●Nettles' effect does not target.
-●If Nettles is attacked while face-down, its effect can't be applied when it is destroyed by battle.
-●If Nettles is attacked by Drillroid while in face-down Defense Position, Nettle's effect can't be applied.
+*   Nettles' effect does not target.
+*   If Nettles is attacked while face-down, its effect can't be applied when it is destroyed by battle.
+*   If Nettles is attacked by Drillroid while in face-down Defense Position, Nettle's effect can't be applied.
             

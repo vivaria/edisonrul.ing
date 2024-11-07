@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Minefield%20Eruption
 
 ### Card Rulings
 
-●If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”●The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.
+*   If you activate “Minefield Eruption”, you inflict damage, then send your “Mine Golem”●The number of “Mine Golem” cards is considered when “Minefield Eruption” resolves, not when it is activated.
             

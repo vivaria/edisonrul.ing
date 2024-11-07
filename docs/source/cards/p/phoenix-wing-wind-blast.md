@@ -25,5 +25,5 @@ Source: https://edisonformat.net/card?name=Phoenix%20Wing%20Wind%20Blast
 
 ### Card Rulings
 
-● If this card is chained to the effect of "Ryko, Lightsworn Hunter", targeting each other, return Ryko to the top of the Deck, then destroy this card, then send the top 3 cards of the Deck to the GY (the first of which will be Ryko).
+*   If this card is chained to the effect of "Ryko, Lightsworn Hunter", targeting each other, return Ryko to the top of the Deck, then destroy this card, then send the top 3 cards of the Deck to the GY (the first of which will be Ryko).
             

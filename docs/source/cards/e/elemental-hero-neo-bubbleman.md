@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Neo%20Bubbleman
 
 ### Card Rulings
 
-● Good luck summoning this guy! :)
+*   Good luck summoning this guy! :)
             

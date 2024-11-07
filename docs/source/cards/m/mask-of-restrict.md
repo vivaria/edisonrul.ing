@@ -26,6 +26,6 @@ Source: https://edisonformat.net/card?name=Mask%20of%20Restrict
 
 ### Card Rulings
 
-● This card stops Tribute Summoning, Tributing to activate a card or effect, Tributing to Ritual Summon a Ritual Monster, etc.
-● Sending Materials to the GY to Synchro/Fusion Summon is not "tributing", so this card does not prevent Synchro/Tribute Summons.
+*   This card stops Tribute Summoning, Tributing to activate a card or effect, Tributing to Ritual Summon a Ritual Monster, etc.
+*   Sending Materials to the GY to Synchro/Fusion Summon is not "tributing", so this card does not prevent Synchro/Tribute Summons.
             

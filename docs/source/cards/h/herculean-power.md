@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Herculean%20Power
 
 ### Card Rulings
 
-●The effect to Special Summon starts a Chain. If you control a monster when this effect resolves or your opponent controls no monsters when this effect resolves, you won't Special Summon a monster.
+*   The effect to Special Summon starts a Chain. If you control a monster when this effect resolves or your opponent controls no monsters when this effect resolves, you won't Special Summon a monster.
             

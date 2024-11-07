@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Pandaborg
 
 ### Card Rulings
 
-●Paying 800 Life Points is a cost. If you have no open Monster Card Zones when this effect resolves, you can't Special Summon a monster from your Deck and your opponent can't check your Deck.
+*   Paying 800 Life Points is a cost. If you have no open Monster Card Zones when this effect resolves, you can't Special Summon a monster from your Deck and your opponent can't check your Deck.
             

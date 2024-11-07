@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Reinforce%20Truth
 
 ### Card Rulings
 
-● This card can be activated during your opponent’s turn.
+*   This card can be activated during your opponent’s turn.
 
-● If this card's activation is negated (eg by "Solemn Judgment"), you can still conduct your Battle Phase.
-● If this card's effect is negated (eg by "Trap Stun"), you cannot conduct your Battle Phase.
+*   If this card's activation is negated (eg by "Solemn Judgment"), you can still conduct your Battle Phase.
+*   If this card's effect is negated (eg by "Trap Stun"), you cannot conduct your Battle Phase.
             

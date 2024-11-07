@@ -32,5 +32,5 @@ Source: https://edisonformat.net/card?name=Creature%20Swap
 
 ### Card Rulings
 
-● Unless both monsters can change control, neither changes control.
+*   Unless both monsters can change control, neither changes control.
             

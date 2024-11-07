@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Power%20Filter
 
 ### Card Rulings
 
-●Even if a monster's ATK would become more than 1000 after it is Special Summoned, you can't Special Summon it while Power Filter is active.
-●Monsters with 1000 or less ATK Cannot be Special Summoned face-down with The Shallow Grave, etc.
-●Monsters with ? ATK can be Special Summoned.
+*   Even if a monster's ATK would become more than 1000 after it is Special Summoned, you can't Special Summon it while Power Filter is active.
+*   Monsters with 1000 or less ATK Cannot be Special Summoned face-down with The Shallow Grave, etc.
+*   Monsters with ? ATK can be Special Summoned.
             

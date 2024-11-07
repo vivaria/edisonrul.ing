@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Trident%20Dragion
 
 ### Card Rulings
 
-● If 1 of the targets leaves the field before this effect resolves, the other is still destroyed, and this card gains 1 additional attack.
-● If this card's effect is negated after it has already resolved, this card can still attack an additional number of times.
+*   If 1 of the targets leaves the field before this effect resolves, the other is still destroyed, and this card gains 1 additional attack.
+*   If this card's effect is negated after it has already resolved, this card can still attack an additional number of times.
             

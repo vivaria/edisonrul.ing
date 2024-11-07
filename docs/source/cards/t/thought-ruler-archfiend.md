@@ -32,6 +32,6 @@ Source: https://edisonformat.net/card?name=Thought%20Ruler%20Archfiend
 
 ### Card Rulings
 
-● The ② effect can only negate cards, not effects. It can also only negate cards which target exactly 1 Psychic (and no other cards).
-● The ② effect can negate cards which target Psychics anywhere, even in either GY.
+*   The ② effect can only negate cards, not effects. It can also only negate cards which target exactly 1 Psychic (and no other cards).
+*   The ② effect can negate cards which target Psychics anywhere, even in either GY.
             

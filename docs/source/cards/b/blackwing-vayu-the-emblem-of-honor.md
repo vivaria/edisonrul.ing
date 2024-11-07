@@ -30,8 +30,8 @@ Source: https://edisonformat.net/card?name=Blackwing%20-%20Vayu%20the%20Emblem%2
 
 ### Card Rulings
 
-● This card’s ① effect is an effect, so it can be negated by effects (for example, by Shura).
-● If “Royal Oppression” is chained to this card’s ② effect, this card is not banished, since the effect to banish both monsters is negated. This effect can then activate again that same turn.
-● The monsters summoned this way are not Synchro Summoned monsters.
+*   This card’s ① effect is an effect, so it can be negated by effects (for example, by Shura).
+*   If “Royal Oppression” is chained to this card’s ② effect, this card is not banished, since the effect to banish both monsters is negated. This effect can then activate again that same turn.
+*   The monsters summoned this way are not Synchro Summoned monsters.
 This means that they can't be summoned by card effects if later sent to the GY/Banished (Goyo Guardian can't Summon a monster summoned this way).
             

@@ -36,6 +36,6 @@ Source: https://edisonformat.net/card?name=Chaos%20Sorcerer
 
 ### Card Rulings
 
-● If you take control of this card with a card effect, either player can activate a Fast Effect (like a Trap Card) before you get to activate this card's ①.
-● If that target is flipped face-down before this effect resolves, it is not banished.
+*   If you take control of this card with a card effect, either player can activate a Fast Effect (like a Trap Card) before you get to activate this card's ①.
+*   If that target is flipped face-down before this effect resolves, it is not banished.
             

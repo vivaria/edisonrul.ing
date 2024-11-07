@@ -36,16 +36,16 @@ Source: https://edisonformat.net/card?name=Grandmaster%20of%20the%20Six%20Samura
 ### Card Rulings
 
 About the Ⓤ effect:
-● It an unclassified effect. It applies to all copies of "Grandmaster of the Six Samurai" in your deck/hand/GY and on your field. If two or more copies of this card are on your field at the same time, they are destroyed by game mechanics so that you only control one.
-● You can control more than one copy of this card while their effects remain negated (e.g. vs "Skill Drain" if both were summoned simultaneously by "Double-Edged Sword Technique" or if one copy was Flip Summoned while you control another). You cannot Special Summon a second copy from your hand.
+*   It an unclassified effect. It applies to all copies of "Grandmaster of the Six Samurai" in your deck/hand/GY and on your field. If two or more copies of this card are on your field at the same time, they are destroyed by game mechanics so that you only control one.
+*   You can control more than one copy of this card while their effects remain negated (e.g. vs "Skill Drain" if both were summoned simultaneously by "Double-Edged Sword Technique" or if one copy was Flip Summoned while you control another). You cannot Special Summon a second copy from your hand.
 
 About the Ⓢ effect:
-● It does not start a chain. The summon can be negated by "Thunder King Rai-Oh", "Solemn Judgment" etc.
+*   It does not start a chain. The summon can be negated by "Thunder King Rai-Oh", "Solemn Judgment" etc.
 
 About the ① effect:
-● If this card is in the GY when this effect activates, it can target itself.
-● It will activate if this card is destroyed while in your hand or deck.
-● It will activate if the summon of this card is negated and it is destroyed by your opponent's "Royal Oppression" or "Solemn Judgment" etc.
-● It will not activate if the summon of this card is negated and it is destroyed by your "Royal Oppression".
-● It will not activate if this card is "destroyed instead" by the effect of your "Six Samurai" monsters.
+*   If this card is in the GY when this effect activates, it can target itself.
+*   It will activate if this card is destroyed while in your hand or deck.
+*   It will activate if the summon of this card is negated and it is destroyed by your opponent's "Royal Oppression" or "Solemn Judgment" etc.
+*   It will not activate if the summon of this card is negated and it is destroyed by your "Royal Oppression".
+*   It will not activate if this card is "destroyed instead" by the effect of your "Six Samurai" monsters.
             

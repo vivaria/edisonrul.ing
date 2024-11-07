@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Poison%20Fangs
 
 ### Card Rulings
 
-●You can't activate Barrel Behind the Door against the damage caused by Poison Fangs, since it is a Continuous Spell Card.
+*   You can't activate Barrel Behind the Door against the damage caused by Poison Fangs, since it is a Continuous Spell Card.
             

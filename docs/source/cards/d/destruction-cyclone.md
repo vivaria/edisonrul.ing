@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Destruction%20Cyclone
 
 ### Card Rulings
 
-●This card’s effect will destroy “Elemental Mistress Doriado”.
+*   This card’s effect will destroy “Elemental Mistress Doriado”.
             

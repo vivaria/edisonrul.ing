@@ -27,9 +27,9 @@ Source: https://edisonformat.net/card?name=Overdrive%20Teleporter
 
 ### Card Rulings
 
-●The Summoning Condition is not an effect. It can't be negated.
-●Paying 2000 Life Points is a cost.
-●This effect Special Summons 2 monsters simultaneously. You can't Summon only 1.
-●If this effect's activation is negated, it still can't be activated while it is still face-up.
-●You MUST have 2(+) Level 3 Psychic-Type monsters in your Deck to activate this effect.
+*   The Summoning Condition is not an effect. It can't be negated.
+*   Paying 2000 Life Points is a cost.
+*   This effect Special Summons 2 monsters simultaneously. You can't Summon only 1.
+*   If this effect's activation is negated, it still can't be activated while it is still face-up.
+*   You MUST have 2(+) Level 3 Psychic-Type monsters in your Deck to activate this effect.
             

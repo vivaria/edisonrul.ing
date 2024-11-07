@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Nubian%20Guard
 
 ### Card Rulings
 
-●Nubian Guard's effect is resolved after damage calculation.
-●Nubian Guard's effect does target a monster in the GY, so the effect will be negated if The End of Anubis is face-up on the field.
+*   Nubian Guard's effect is resolved after damage calculation.
+*   Nubian Guard's effect does target a monster in the GY, so the effect will be negated if The End of Anubis is face-up on the field.
             

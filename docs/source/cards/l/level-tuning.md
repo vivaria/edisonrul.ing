@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Level%20Tuning
 
 ### Card Rulings
 
-●Only face-up monsters you control when resolving Level Tuning are affected. Monsters Summoned afterwards won't have their Level reduced.
+*   Only face-up monsters you control when resolving Level Tuning are affected. Monsters Summoned afterwards won't have their Level reduced.
             

@@ -36,8 +36,8 @@ Source: https://edisonformat.net/card?name=Flying%20Fortress%20SKY%20FIRE
 
 ### Card Rulings
 
-●The ② is a Quick Effect.
-● If monsters are Summoned and cards are Set at the same time, you can only choose to destroy monsters or Set cards with the ②.
-● If a card is Set with "Book of Moon", you can destroy it with the ②.
-● The ② can't be activated during the Damage Step, so you can't activate it if a monster is Summoned by the effect of "Giant Rat".
+*   The ② is a Quick Effect.
+*   If monsters are Summoned and cards are Set at the same time, you can only choose to destroy monsters or Set cards with the ②.
+*   If a card is Set with "Book of Moon", you can destroy it with the ②.
+*   The ② can't be activated during the Damage Step, so you can't activate it if a monster is Summoned by the effect of "Giant Rat".
             

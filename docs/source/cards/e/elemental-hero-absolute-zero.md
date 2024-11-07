@@ -34,10 +34,10 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Absolute%20Zero
 
 ### Card Rulings
 
-● The ② effect will trigger even if it is returned to the Extra Deck or banished.
-● "Starlight Road" can be chained to the ② effect as long as you control at least 2 monsters.
+*   The ② effect will trigger even if it is returned to the Extra Deck or banished.
+*   "Starlight Road" can be chained to the ② effect as long as you control at least 2 monsters.
 (However, Stardust will only be summoned if this effect is being activated while in the Extra Deck).
-● The ② effect won't trigger if it was face-down when removed from the field.
+*   The ② effect won't trigger if it was face-down when removed from the field.
 (If it was attacked while face-down, it is flipped face-up, and does activate when destroyed by battle).
-● If this card is tributed to Tribute Summon a monster with a Trigger effect (i.e. any Monarch), the ② effect must be Chain Link 1.
+*   If this card is tributed to Tribute Summon a monster with a Trigger effect (i.e. any Monarch), the ② effect must be Chain Link 1.
             

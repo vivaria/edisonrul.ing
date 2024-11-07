@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Call%20of%20the%20Reaper
 
 ### Card Rulings
 
-●You can't activate this card during the Damage Step. It targets either “Supay” or “Fire Ant Ascator.”
+*   You can't activate this card during the Damage Step. It targets either “Supay” or “Fire Ant Ascator.”
             

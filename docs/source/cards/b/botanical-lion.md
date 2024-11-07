@@ -29,5 +29,5 @@ Source: https://edisonformat.net/card?name=Botanical%20Lion
 
 ### Card Rulings
 
-● While this card's ② effect is applying, it can't be equipped to an opponent's "Relinquished", as that involves changing control of it.
+*   While this card's ② effect is applying, it can't be equipped to an opponent's "Relinquished", as that involves changing control of it.
             

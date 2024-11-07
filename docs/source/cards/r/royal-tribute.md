@@ -24,10 +24,10 @@ Source: https://edisonformat.net/card?name=Royal%20Tribute
 
 ### Card Rulings
 
-● Necrovalley only needs to be on the field when this card is activated.
+*   Necrovalley only needs to be on the field when this card is activated.
 
 Historically, at SJC Edison, the following ruling applied:
-● Both players must reveal their hands when this card resolves.
+*   Both players must reveal their hands when this card resolves.
 Please note that not all Edison Format Tournaments use Edison Format rulings.
 Ask your Head Judge if they are using the historically accurate ruling.
             

@@ -37,5 +37,5 @@ Source: https://edisonformat.net/card?name=Judgment%20Dragon
 
 ### Card Rulings
 
-● If “Book of Moon” is chained to this card’s ① effect, this card doesn’t destroy itself.
+*   If “Book of Moon” is chained to this card’s ① effect, this card doesn’t destroy itself.
             

@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=Volcanic%20Queen
 
 ### Card Rulings
 
-●You choose whether to tribute or inflict damage with the ③ when it resolves, not when it activates.
+*   You choose whether to tribute or inflict damage with the ③ when it resolves, not when it activates.
             

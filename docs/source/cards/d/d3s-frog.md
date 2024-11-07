@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=D.3.S.%20Frog
 
 ### Card Rulings
 
-● You can Fusion Summon this card with a "Dupe Frog" being treated as "Des Frog", but not with "King of the Swamp".
+*   You can Fusion Summon this card with a "Dupe Frog" being treated as "Des Frog", but not with "King of the Swamp".
             

@@ -23,7 +23,7 @@ Source: https://edisonformat.net/card?name=Blackwing%20-%20Blizzard%20the%20Far%
 
 ### Card Rulings
 
-● If you control "Black Whirlwind", and have a "Blackwing" monster in your Deck with less than 1300 ATK:
+*   If you control "Black Whirlwind", and have a "Blackwing" monster in your Deck with less than 1300 ATK:
 When you Summon this card, both its effect and "Black Whirlwind" will trigger. Since they are both optional effects, you can order them in any way you like.
 If you order them as: Blizzard Chain Link 1, Whirlwind Chain Link 2, then your opponent can only respond to the newest chain link - Black Whirlwind's effect.
 This means that cards like "Royal Oppression" and "Pulling the Rug" can't be activated at this time - Those cards can't be chained to Black Whirlwind's effect.

@@ -26,9 +26,9 @@ Source: https://edisonformat.net/card?name=Skyscraper%202%20-%20Hero%20City
 
 ### Card Rulings
 
-●You can Special Summon an “Elemental Hero” monster that was destroyed by battle on a previous turn.
-●Activating this card’s effect starts a Chain.
-●This effect targets the monster to be Special Summoned.
-●If an “Elemental Hero” monster is destroyed by battle and removed from play, then returned to your GY by the effect of “Burial from the Different Dimension”, etc., you can't Special Summon it with “Skyscraper 2 – Hero City”.
-●Only the controller of “Skyscraper 2 – Hero City” can activate its effect.
+*   You can Special Summon an “Elemental Hero” monster that was destroyed by battle on a previous turn.
+*   Activating this card’s effect starts a Chain.
+*   This effect targets the monster to be Special Summoned.
+*   If an “Elemental Hero” monster is destroyed by battle and removed from play, then returned to your GY by the effect of “Burial from the Different Dimension”, etc., you can't Special Summon it with “Skyscraper 2 – Hero City”.
+*   Only the controller of “Skyscraper 2 – Hero City” can activate its effect.
             

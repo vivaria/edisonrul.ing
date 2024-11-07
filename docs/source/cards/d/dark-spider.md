@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Dark%20Spider
 
 ### Card Rulings
 
-●This effect targets.
+*   This effect targets.
             

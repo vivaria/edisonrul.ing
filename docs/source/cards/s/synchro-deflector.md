@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Synchro%20Deflector
 
 ### Card Rulings
 
-●Synchro Deflector targets your opponent's monster that will be destroyed.
+*   Synchro Deflector targets your opponent's monster that will be destroyed.
             

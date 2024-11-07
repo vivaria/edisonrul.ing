@@ -28,11 +28,11 @@ Source: https://edisonformat.net/card?name=Arcane%20Barrier
 
 ### Card Rulings
 
-●The Continuous Effect applies while this card is face-up on the field.
-●Placing Spell Counters on “Arcane Barrier” does not start a chain.
-●If 2+ Spellcasters are destroyed at once, you only place 1 Spell Counter on this card.
-●This card does not gain Spell Counters when face-down Spellcasters are destroyed, because a face-down monster is destroyed before you can confirm its Type.
-●Spell Counters can only be placed on cards that have an effect that allows Spell Counters to be placed on them. If that card's effect is negated (by Spell Canceller), Spell Counters can't be placed on it and any Spell Counters already on it are removed.
-●The Ignition Effect activates & resolves on the field.
-●Sending “Arcane Barrier” and a Spellcaster to the GY is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.
+*   The Continuous Effect applies while this card is face-up on the field.
+*   Placing Spell Counters on “Arcane Barrier” does not start a chain.
+*   If 2+ Spellcasters are destroyed at once, you only place 1 Spell Counter on this card.
+*   This card does not gain Spell Counters when face-down Spellcasters are destroyed, because a face-down monster is destroyed before you can confirm its Type.
+*   Spell Counters can only be placed on cards that have an effect that allows Spell Counters to be placed on them. If that card's effect is negated (by Spell Canceller), Spell Counters can't be placed on it and any Spell Counters already on it are removed.
+*   The Ignition Effect activates & resolves on the field.
+*   Sending “Arcane Barrier” and a Spellcaster to the GY is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.
             

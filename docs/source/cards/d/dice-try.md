@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Dice%20Try
 
 ### Card Rulings
 
-●Dice Try! can't be chained to the Ignition effects of Continuous Spell or Trap Cards.
+*   Dice Try! can't be chained to the Ignition effects of Continuous Spell or Trap Cards.
             

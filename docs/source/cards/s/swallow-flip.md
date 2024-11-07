@@ -27,8 +27,8 @@ Source: https://edisonformat.net/card?name=Swallow%20Flip
 ### Card Rulings
 
 This card can only negate trigger effects which specifically activate when a monster is Special Summoned.
-● It can negate the effects of cards like "Swap Frog", "Armageddon Knight", or "King Tiger Wanghu" (for all 3 examples, this card can only be activated when a monster is Special Summoned).
-● It can't negate Ignition effects, even if activated with ignition Priority.
+*   It can negate the effects of cards like "Swap Frog", "Armageddon Knight", or "King Tiger Wanghu" (for all 3 examples, this card can only be activated when a monster is Special Summoned).
+*   It can't negate Ignition effects, even if activated with ignition Priority.
 It can never negate the effect of "Substitoad", "Dark Grepher", nor "D.D. Crow".
-● It can't negate an effect which activated because a monster was Normal Summoned, even if that monster's effect states "if this card is Normal/Special Summoned".
+*   It can't negate an effect which activated because a monster was Normal Summoned, even if that monster's effect states "if this card is Normal/Special Summoned".
             

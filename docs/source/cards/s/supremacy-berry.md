@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Supremacy%20Berry
 
 ### Card Rulings
 
-●You can't activate “Supremacy Berry” when both players’ Life Points are the same. If “Supremacy Berry” is sent to the GY with “Destiny Hero – Diamond Dude,” nothing happens, since “Supremacy Berry” was not ‘activated’.
+*   You can't activate “Supremacy Berry” when both players’ Life Points are the same. If “Supremacy Berry” is sent to the GY with “Destiny Hero – Diamond Dude,” nothing happens, since “Supremacy Berry” was not ‘activated’.
             

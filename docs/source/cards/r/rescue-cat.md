@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=Rescue%20Cat
 
 ### Card Rulings
 
-● If a monster summoned this way is later flipped face-down, it isn’t destroyed.
+*   If a monster summoned this way is later flipped face-down, it isn’t destroyed.
             

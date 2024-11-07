@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Miracle%20Restoring
 
 ### Card Rulings
 
-●Removing 2 Spell Counters is a cost.
+*   Removing 2 Spell Counters is a cost.
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Draining%20Shield
 
 ### Card Rulings
 
-●You activate Draining Shield when the monster controlled by your opponent declares an attack.
-●You gain Life Points for Draining Shield equal to the attacking monster's current ATK.
+*   You activate Draining Shield when the monster controlled by your opponent declares an attack.
+*   You gain Life Points for Draining Shield equal to the attacking monster's current ATK.
             

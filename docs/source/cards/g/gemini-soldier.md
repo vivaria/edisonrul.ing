@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Gemini%20Soldier
 
 These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
 About the ② effect:
-● It can activate multiple times per turn if "Gemini Soldier" battles multiple times.
-● It activates and resolves in Substep 5 - After Damage Calculation, before effects of cards like "Ryko, Lightsworn Hunter" and "D.D. Warrior Lady" activate in Substep 6.
-● It can activate if "Gemini Soldier" is destroyed by battle.
-● It can activate if "Gemini Soldier" attacks directly or if no battle damage is dealt.
+*   It can activate multiple times per turn if "Gemini Soldier" battles multiple times.
+*   It activates and resolves in Substep 5 - After Damage Calculation, before effects of cards like "Ryko, Lightsworn Hunter" and "D.D. Warrior Lady" activate in Substep 6.
+*   It can activate if "Gemini Soldier" is destroyed by battle.
+*   It can activate if "Gemini Soldier" attacks directly or if no battle damage is dealt.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Kahkki,%20Guerilla%20of%20Dark%20Worl
 
 ### Card Rulings
 
-●This is a Trigger Effect. This effect targets.
+*   This is a Trigger Effect. This effect targets.
             

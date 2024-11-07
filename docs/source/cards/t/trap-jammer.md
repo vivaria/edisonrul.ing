@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Trap%20Jammer
 
 ### Card Rulings
 
-●You can activate Trap Jammer during the Damage Step.
+*   You can activate Trap Jammer during the Damage Step.
             

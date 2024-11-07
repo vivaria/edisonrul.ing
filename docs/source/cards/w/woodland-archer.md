@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Woodland%20Archer
 
 ### Card Rulings
 
-● The only way you can Special Summon this card is via its own procedure.
+*   The only way you can Special Summon this card is via its own procedure.
 Even if it was initially summoned that way, you still can't summon it with card effects.
-● Only cards with yellow borders are "Normal Monsters". "Gaia Knight, the Force of Earth" and "Kamionwizard" are not normal monsters.
+*   Only cards with yellow borders are "Normal Monsters". "Gaia Knight, the Force of Earth" and "Kamionwizard" are not normal monsters.
             

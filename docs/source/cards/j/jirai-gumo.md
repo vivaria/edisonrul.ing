@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Jirai%20Gumo
 
 ### Card Rulings
 
-●If a replay occurs when Jirai Gumo attacks and you decide to continue attacking with Jirai Gumo, you don't flip the coin again.
-●If your opponent has Toll, you must pay the cost for Toll before flipping the coin for Jirai Gumo
+*   If a replay occurs when Jirai Gumo attacks and you decide to continue attacking with Jirai Gumo, you don't flip the coin again.
+*   If your opponent has Toll, you must pay the cost for Toll before flipping the coin for Jirai Gumo
             

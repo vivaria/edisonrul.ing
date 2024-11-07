@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Telekinetic%20Power%20Well
 
 ### Card Rulings
 
-●“Telekinetic Power Well” targets 1 or more Psychic monsters in your GY. If an effect is chained that removes some of those monsters from play, the remaining monsters are still Summoned. You only take damage based on the monsters that are actually Summoned.
+*   “Telekinetic Power Well” targets 1 or more Psychic monsters in your GY. If an effect is chained that removes some of those monsters from play, the remaining monsters are still Summoned. You only take damage based on the monsters that are actually Summoned.
             

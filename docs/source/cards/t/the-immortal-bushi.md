@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=The%20Immortal%20Bushi
 
 ### Card Rulings
 
-●The Immortal Bushi's second effect is an Ignition Effect you activate during your Standby Phase.
-●If an effect chained to The Immortal Bushi's effect places a monster●If an effect chained to The Immortal Bushi's effect removes The Immortal Bushi from play, its effect disappears.
+*   The Immortal Bushi's second effect is an Ignition Effect you activate during your Standby Phase.
+*   If an effect chained to The Immortal Bushi's effect places a monster●If an effect chained to The Immortal Bushi's effect removes The Immortal Bushi from play, its effect disappears.
             

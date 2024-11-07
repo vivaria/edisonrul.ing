@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Beast%20of%20the%20Pharaoh
 
 ### Card Rulings
 
-●Beast of the Pharaoh's effect targets 1 Level 4 or lower Zombie-Type monster in your GY.
+*   Beast of the Pharaoh's effect targets 1 Level 4 or lower Zombie-Type monster in your GY.
             

@@ -21,5 +21,5 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Neos%20Alius
 ### Card Rulings
 
 These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
-●Prohibition rulings (often related to this card) are here: https://edisonformat.net/rules/compendium/prohibition
+*   Prohibition rulings (often related to this card) are here: https://edisonformat.net/rules/compendium/prohibition
             

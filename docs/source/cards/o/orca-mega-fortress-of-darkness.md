@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Orca%20Mega-Fortress%20of%20Darkness
 
 ### Card Rulings
 
-●You can Tribute a face-down Torpedo Fish or Cannonball Spear Shellfish to activate Orca Mega-Fortress of Darkness' effect.
+*   You can Tribute a face-down Torpedo Fish or Cannonball Spear Shellfish to activate Orca Mega-Fortress of Darkness' effect.
             

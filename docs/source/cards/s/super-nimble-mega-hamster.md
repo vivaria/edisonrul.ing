@@ -21,8 +21,8 @@ Source: https://edisonformat.net/card?name=Super-Nimble%20Mega%20Hamster
 ### Card Rulings
 
 FLIP effects are mandatory to activate.
-● This effect will activate even if there are no Beasts in your Deck.
-● This effect will activate even if you can't Special Summon.
+*   This effect will activate even if there are no Beasts in your Deck.
+*   This effect will activate even if you can't Special Summon.
 
 You choose whether or not to Summon a monster when the effect resolves.
             

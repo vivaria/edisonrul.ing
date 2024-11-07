@@ -25,6 +25,6 @@ Source: https://edisonformat.net/card?name=Spell%20Reactor%20RE
 
 ### Card Rulings
 
-●This effect chains to that card's activation.
-●This does not negate the effect of that Spell Card (but if a Continuous, Field, or Equip card is destroyed this way, its effects won't resolve).
+*   This effect chains to that card's activation.
+*   This does not negate the effect of that Spell Card (but if a Continuous, Field, or Equip card is destroyed this way, its effects won't resolve).
             

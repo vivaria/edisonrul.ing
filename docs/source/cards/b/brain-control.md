@@ -27,6 +27,6 @@ Source: https://edisonformat.net/card?name=Brain%20Control
 
 ### Card Rulings
 
-● If that target isn't face-up in your opponent's control when this resolves, control of it does not change.
-● If that monster is later flipped face-down, control still returns during the End Phase.
+*   If that target isn't face-up in your opponent's control when this resolves, control of it does not change.
+*   If that monster is later flipped face-down, control still returns during the End Phase.
             

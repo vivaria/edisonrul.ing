@@ -35,12 +35,12 @@ Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Secutor
 
 ### Card Rulings
 
-● "Battling" requires this card to be involved in Damage Calculation
+*   "Battling" requires this card to be involved in Damage Calculation
 (If this card's attack is negated, the ② effect can't activate).
-● If multiple "Gladiator Beast" effects are activated at the end of the Battle Phase,
+*   If multiple "Gladiator Beast" effects are activated at the end of the Battle Phase,
 they don’t go on the same Chain (they each activate, one after another, each on their own Chain).
-● If the activation of this effect is negated (e.g. by "Light and Darkness Dragon"), the activation condition "if the card battled" is reset, so it will not activate again.
-● This effect will activate and resolve even if you do not have two free monster zones. If you have one free monster zone you can choose one "Gladiator Beast" monster to summon and the other will be destroyed by game mechanics. If you have no free monster zones they are both destroyed.
-● If this card has it’s effects negated, it is still considered to be summoned by the effect of a "Gladiator Beast" monster.
-● If this card is flipped face-down, it is no longer considered to be summoned by the effect of a "Gladiator Beast" monster.
+*   If the activation of this effect is negated (e.g. by "Light and Darkness Dragon"), the activation condition "if the card battled" is reset, so it will not activate again.
+*   This effect will activate and resolve even if you do not have two free monster zones. If you have one free monster zone you can choose one "Gladiator Beast" monster to summon and the other will be destroyed by game mechanics. If you have no free monster zones they are both destroyed.
+*   If this card has it’s effects negated, it is still considered to be summoned by the effect of a "Gladiator Beast" monster.
+*   If this card is flipped face-down, it is no longer considered to be summoned by the effect of a "Gladiator Beast" monster.
             

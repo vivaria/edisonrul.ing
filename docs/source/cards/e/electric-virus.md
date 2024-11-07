@@ -28,11 +28,11 @@ Source: https://edisonformat.net/card?name=Electric%20Virus
 
 ### Card Rulings
 
-●The Ignition Effect activates and resolves from your hand.
-●Discarding this card is a cost.
-●This effect targets.
-●If the target is flipped face-down, control of the target won't switch.
-●If the target is not a Machine or Dragon-Type (by “DNA Surgery”), the target does not switch control.
-●If “DNA Surgery” is activated later after this effect has resolved, it has no effect.
-●(Control does not instantly change back. Control changes back as normal at the end of the turn.)
+*   The Ignition Effect activates and resolves from your hand.
+*   Discarding this card is a cost.
+*   This effect targets.
+*   If the target is flipped face-down, control of the target won't switch.
+*   If the target is not a Machine or Dragon-Type (by “DNA Surgery”), the target does not switch control.
+*   If “DNA Surgery” is activated later after this effect has resolved, it has no effect.
+*   (Control does not instantly change back. Control changes back as normal at the end of the turn.)
             

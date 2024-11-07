@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Don%20Turtle
 
 ### Card Rulings
 
-●When you activate Don Turtle's effect and Special Summon multiple Don Turtles, they are Special Summoned simultaneously.
+*   When you activate Don Turtle's effect and Special Summon multiple Don Turtles, they are Special Summoned simultaneously.
             

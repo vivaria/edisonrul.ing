@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Chaosrider%20Gustaph
 
 ### Card Rulings
 
-●You can only activate Chaosrider Gustaph's effect during your Main Phase 1 or 2.
-●Chaosrider Gustaph's effect does not target.
+*   You can only activate Chaosrider Gustaph's effect during your Main Phase 1 or 2.
+*   Chaosrider Gustaph's effect does not target.
             

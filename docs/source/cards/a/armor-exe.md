@@ -28,5 +28,5 @@ Source: https://edisonformat.net/card?name=Armor%20Exe
 
 ### Card Rulings
 
-● This card's name is pronounced "Egg-Zay". Is it NOT ".exe", "ecks-y", or any alternative.
+*   This card's name is pronounced "Egg-Zay". Is it NOT ".exe", "ecks-y", or any alternative.
             

@@ -31,7 +31,7 @@ Source: https://edisonformat.net/card?name=Mausoleum%20of%20the%20Emperor
 
 ### Card Rulings
 
-● This effect starts a chain.
-● The monster summoned this way is not Tribute Summoned.
-● This Summon can't be negated by "Solemn Judgment" or "Horn of Heaven".
+*   This effect starts a chain.
+*   The monster summoned this way is not Tribute Summoned.
+*   This Summon can't be negated by "Solemn Judgment" or "Horn of Heaven".
             

@@ -22,6 +22,6 @@ Source: https://edisonformat.net/card?name=Ocean%20Dragon%20Lord%20-%20Neo-Daeda
 
 ### Card Rulings
 
-● The only way you can Special Summon this card is via its own procedure.
+*   The only way you can Special Summon this card is via its own procedure.
 Even if it was initially summoned that way, you still can't summon it with card effects.
             

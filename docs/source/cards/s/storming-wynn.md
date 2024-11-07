@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Storming%20Wynn
 
 ### Card Rulings
 
-●This card’s effect is an Ignition Effect.
-●Tributing a monster is a cost. You can't Tribute a monster if you don't have a monster with the appropriate Attribute in your hand to Special Summon.
-●If this card is flipped face-down, any monsters Special Summoned by her effect won't be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect won't be destroyed.
-●If a monster Special Summoned by this card’s effect is flipped face-down, it won't be destroyed when this card is destroyed.
+*   This card’s effect is an Ignition Effect.
+*   Tributing a monster is a cost. You can't Tribute a monster if you don't have a monster with the appropriate Attribute in your hand to Special Summon.
+*   If this card is flipped face-down, any monsters Special Summoned by her effect won't be destroyed. If this card is destroyed while she is face-down, any monsters Special Summoned by her effect won't be destroyed.
+*   If a monster Special Summoned by this card’s effect is flipped face-down, it won't be destroyed when this card is destroyed.
             

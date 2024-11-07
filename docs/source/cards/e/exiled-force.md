@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Exiled%20Force
 
 ### Card Rulings
 
-●You can't activate the effect of Exiled Force if it is the only monster on the field.
+*   You can't activate the effect of Exiled Force if it is the only monster on the field.
             

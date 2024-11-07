@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Gottoms'%20Emergency%20Call
 
 ### Card Rulings
 
-● This effect targets 2 "X-Saber" monsters in either GY, it special summons both to your field.
-● If either target is not in the GY when this card resolves, the other target is not Summoned.
-●If your opponent controls the only face-up “X-Saber” monster on the field, you can still activate this card.
-●You can target 1 “X-Saber” monster in your GY and 1 in your opponent’s GY.
+*   This effect targets 2 "X-Saber" monsters in either GY, it special summons both to your field.
+*   If either target is not in the GY when this card resolves, the other target is not Summoned.
+*   If your opponent controls the only face-up “X-Saber” monster on the field, you can still activate this card.
+*   You can target 1 “X-Saber” monster in your GY and 1 in your opponent’s GY.
             

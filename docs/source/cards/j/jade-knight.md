@@ -33,5 +33,5 @@ Source: https://edisonformat.net/card?name=Jade%20Knight
 
 ### Card Rulings
 
-● If this Set card was destroyed by battle, you can't activate the ② effect. It must be face-up when targeted for the attack. This ruling also applies to “Cyber Phoenix”.
+*   If this Set card was destroyed by battle, you can't activate the ② effect. It must be face-up when targeted for the attack. This ruling also applies to “Cyber Phoenix”.
             

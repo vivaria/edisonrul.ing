@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Banner%20of%20Courage
 
 ### Card Rulings
 
-●Multiple copies of this card are cumulative.
+*   Multiple copies of this card are cumulative.
             

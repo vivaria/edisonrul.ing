@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Full%20Salvo
 
 ### Card Rulings
 
-●The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.
-●If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects don't activate because it was not “discarded”.
+*   The cards sent to the GY after the activation of “Full Salvo” are sent to the GY by the effect of “Full Salvo”. They are not a cost. So they are sent when “Full Salvo” resolves, not when it is activated.
+*   If you send a “Dark World” monster to the GY for the effect of “Full Salvo”, its effects don't activate because it was not “discarded”.
             

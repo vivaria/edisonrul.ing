@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Judgment%20of%20the%20Desert
 
 ### Card Rulings
 
-●You can still change the Battle Positions of monsters with card effects; Judgment of the Desert only prevents manual changes.
+*   You can still change the Battle Positions of monsters with card effects; Judgment of the Desert only prevents manual changes.
             

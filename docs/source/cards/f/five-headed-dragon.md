@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Five-Headed%20Dragon
 
 ### Card Rulings
 
-● This card can only be Special Summoned by Fusion Summon. It can't be summoned by "Red-Eyes Darkness Metal Dragon".
+*   This card can only be Special Summoned by Fusion Summon. It can't be summoned by "Red-Eyes Darkness Metal Dragon".
             

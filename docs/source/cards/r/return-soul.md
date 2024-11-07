@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Return%20Soul
 
 ### Card Rulings
 
-●This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.
-●If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck●A monster destroyed in the hand/Deck can be chosen as a target for this card.
+*   This card targets up to 3 cards in either player's GY. You may choose 2 from one player's GY, and 1 from the other's.
+*   If one or more of the targeted cards are removed from the GY by an effect Chained to this card, the remaining targets will still be returned to the Deck●A monster destroyed in the hand/Deck can be chosen as a target for this card.
             

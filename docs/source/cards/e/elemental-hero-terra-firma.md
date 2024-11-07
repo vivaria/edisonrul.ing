@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Terra%20Firma
 
 ### Card Rulings
 
-● The ATK gain is equal to the ATK the tributed monster had on the field, not its original ATK.
+*   The ATK gain is equal to the ATK the tributed monster had on the field, not its original ATK.
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Fire%20Ant%20Ascator
 
 ### Card Rulings
 
-●Sending the Special Summoned monster to the GY does not start a Chain.
-●The effect to Special Summon targets the monster you want to Special Summon.
+*   Sending the Special Summoned monster to the GY does not start a Chain.
+*   The effect to Special Summon targets the monster you want to Special Summon.
             

@@ -22,6 +22,6 @@ Source: https://edisonformat.net/card?name=Black%20Salvo
 
 ### Card Rulings
 
-●If you Summon "Cannon Soldier", and use Cannon Soldier's effect, tributing itself, the effect is negated.
-● You can target a level 4 DARK Machine Normal Monster with this effect.
+*   If you Summon "Cannon Soldier", and use Cannon Soldier's effect, tributing itself, the effect is negated.
+*   You can target a level 4 DARK Machine Normal Monster with this effect.
             

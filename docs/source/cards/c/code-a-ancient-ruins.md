@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Code%20A%20Ancient%20Ruins
 
 ### Card Rulings
 
-● If a Set “Alien” monster is destroyed by battle, you don't place A-Counters on this card.
+*   If a Set “Alien” monster is destroyed by battle, you don't place A-Counters on this card.
 (It needs to be face-up at attack declaration).
             

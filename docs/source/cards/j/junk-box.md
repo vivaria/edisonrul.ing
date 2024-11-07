@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Junk%20Box
 
 ### Card Rulings
 
-●If the “Morphtronic” monster Special Summoned by “Junk Box” is flipped face-down or leaves the field, don't destroy it during the End Phase.
+*   If the “Morphtronic” monster Special Summoned by “Junk Box” is flipped face-down or leaves the field, don't destroy it during the End Phase.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Enervating%20Mist
 
 ### Card Rulings
 
-●If Enervating Mist and Infinite Cards are both active, whichever effect resolved last is dominant.
+*   If Enervating Mist and Infinite Cards are both active, whichever effect resolved last is dominant.
             

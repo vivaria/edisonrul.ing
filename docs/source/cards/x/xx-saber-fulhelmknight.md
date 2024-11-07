@@ -32,8 +32,8 @@ Source: https://edisonformat.net/card?name=XX-Saber%20Fulhelmknight
 
 ### Card Rulings
 
-● The ② effect will trigger even if the destroyed monster was not sent to the GY.
-● Cards stating “If this card destroys a monster by battle:”, without “and sends it to the GY”,
+*   The ② effect will trigger even if the destroyed monster was not sent to the GY.
+*   Cards stating “If this card destroys a monster by battle:”, without “and sends it to the GY”,
 will trigger even if they are destroyed by an effect after Damage Calculation.
 (For example, this card’s ② effect will activate even if it is destroyed attacking a set Ryko).
             

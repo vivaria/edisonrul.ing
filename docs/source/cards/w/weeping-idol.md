@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Weeping%20Idol
 
 ### Card Rulings
 
-●This is an Ignition Effect that activates in the hand. Removing from play 1 Tuner monster in your GY is a cost.
+*   This is an Ignition Effect that activates in the hand. Removing from play 1 Tuner monster in your GY is a cost.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Battle%20Tuned
 
 ### Card Rulings
 
-●Battle Tuned targets 1 Tuner monster in your GY.
+*   Battle Tuned targets 1 Tuner monster in your GY.
             

@@ -30,6 +30,6 @@ Source: https://edisonformat.net/card?name=Dark%20Armed%20Dragon
 
 ### Card Rulings
 
-● The only way you can Special Summon this card is via its own procedure.
-● Like all ignition effects, the ① can be activated before "Bottomless Trap Hole" can be used. Bottomless can then be chained to the ①.
+*   The only way you can Special Summon this card is via its own procedure.
+*   Like all ignition effects, the ① can be activated before "Bottomless Trap Hole" can be used. Bottomless can then be chained to the ①.
             

@@ -30,6 +30,6 @@ Source: https://edisonformat.net/card?name=Necroface
 
 ### Card Rulings
 
-● If either player has less than 5 cards in the Deck, all of them are banished.
-● The ③ effect can activate even if this card is in the Deck (for example, if it shuffled itself).
+*   If either player has less than 5 cards in the Deck, all of them are banished.
+*   The ③ effect can activate even if this card is in the Deck (for example, if it shuffled itself).
             

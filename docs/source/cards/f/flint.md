@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Flint
 
 ### Card Rulings
 
-●The effect of Flint that equips it to a new monster is an effect that targets. This effect also can be chained to.
+*   The effect of Flint that equips it to a new monster is an effect that targets. This effect also can be chained to.
             

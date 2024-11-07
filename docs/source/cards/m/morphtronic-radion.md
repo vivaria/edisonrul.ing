@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Morphtronic%20Radion
 
 ### Card Rulings
 
-●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Radion can't be activated, because the While in Attack Position and While in Defense Position effects are negated.
+*   While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Radion can't be activated, because the While in Attack Position and While in Defense Position effects are negated.
             

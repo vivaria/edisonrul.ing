@@ -25,8 +25,8 @@ Source: https://edisonformat.net/card?name=Core%20Blast
 
 ### Card Rulings
 
-●This effect does not target.
-●You can destroy any cards your opponent controls, not just monsters.
-●If you don't control a face-up “Koa’ki Meiru” monster when the effect of “Core Blast” resolves, you can still destroy your opponent’s cards.
-●You can activate the effect of “Core Blast” in the same Chain that you flip the card face-up.
+*   This effect does not target.
+*   You can destroy any cards your opponent controls, not just monsters.
+*   If you don't control a face-up “Koa’ki Meiru” monster when the effect of “Core Blast” resolves, you can still destroy your opponent’s cards.
+*   You can activate the effect of “Core Blast” in the same Chain that you flip the card face-up.
             

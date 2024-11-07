@@ -30,6 +30,6 @@ Source: https://edisonformat.net/card?name=XX-Saber%20Faultroll
 
 ### Card Rulings
 
-● This card can only be Special Summoned by its own procedure.
+*   This card can only be Special Summoned by its own procedure.
 It Cannot be Special Summoned by card effects.
             

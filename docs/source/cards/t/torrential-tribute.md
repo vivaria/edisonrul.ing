@@ -26,7 +26,7 @@ Source: https://edisonformat.net/card?name=Torrential%20Tribute
 
 ### Card Rulings
 
-● Like most Trap cards, this card can miss the timing.
+*   Like most Trap cards, this card can miss the timing.
 For example, if "Jar of Greed" was activated,
 and "Call of the Haunted" is chained to it,
 this card can't be activated when that monster was Summoned,

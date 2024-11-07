@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Disarmament
 
 ### Card Rulings
 
-● Disarmament won't destroy face-down Equip Spell Cards.
+*   Disarmament won't destroy face-down Equip Spell Cards.
             

@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Graverobber
 
 ### Card Rulings
 
-●The selected Spell Card is added to your hand. If you don't activate the selected Spell Card, it is returned to its owner's GY during the End Phase.
-●If you select an Equip Spell Card, Field Spell Card, or Continuous Spell Card and you activate it, it is not sent to the GY during the End Phase.
-●If you Set the selected Spell Card and don't activate it, you don't receive damage and it is returned to its owner's GY during the End Phase.
+*   The selected Spell Card is added to your hand. If you don't activate the selected Spell Card, it is returned to its owner's GY during the End Phase.
+*   If you select an Equip Spell Card, Field Spell Card, or Continuous Spell Card and you activate it, it is not sent to the GY during the End Phase.
+*   If you Set the selected Spell Card and don't activate it, you don't receive damage and it is returned to its owner's GY during the End Phase.
             

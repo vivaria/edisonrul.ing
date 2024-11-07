@@ -27,6 +27,6 @@ Source: https://edisonformat.net/card?name=Pot%20of%20Avarice
 
 ### Card Rulings
 
-● Unless all are shuffled, none are shuffled, in which case no cards are drawn.
-● If there are less than 2 cards in your Deck, you cannot activate this card (even if resolving it would return cards to your Maindeck).
+*   Unless all are shuffled, none are shuffled, in which case no cards are drawn.
+*   If there are less than 2 cards in your Deck, you cannot activate this card (even if resolving it would return cards to your Maindeck).
             

@@ -34,12 +34,12 @@ Source: https://edisonformat.net/card?name=Macro%20Cosmos
 ### Card Rulings
 
 While the ① is applying, players cannot:
-● Pay costs by sending a card(s) to the GY (Brionac's and Card Trooper's effects cannot be activated).
+*   Pay costs by sending a card(s) to the GY (Brionac's and Card Trooper's effects cannot be activated).
 
 While the ① is applying, players can:
-● Discard monster cards. (Swap Frog can discard a monster to summon itself, as it does not specify" to the GY")
-● Send cards to the GY by card effect (Foolish burial can be activated. The sent monster is banished). (Ryko's effect can be activated, as it sends to the GY as an effect. All cards sent this way are banished).
-● Tribute, Fusion, Ritual, Synchro Summon (Materials/Tributes are banished instead).
+*   Discard monster cards. (Swap Frog can discard a monster to summon itself, as it does not specify" to the GY")
+*   Send cards to the GY by card effect (Foolish burial can be activated. The sent monster is banished). (Ryko's effect can be activated, as it sends to the GY as an effect. All cards sent this way are banished).
+*   Tribute, Fusion, Ritual, Synchro Summon (Materials/Tributes are banished instead).
 
-●This card's activation can be negated by "Royal Oppression", even if you do not have a copy of Helios in your Deck.
+*   This card's activation can be negated by "Royal Oppression", even if you do not have a copy of Helios in your Deck.
             

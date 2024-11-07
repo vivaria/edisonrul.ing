@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Crystal%20Pair
 
 ### Card Rulings
 
-●If you can't place a Crystal Beast monster into your Spell and Trap Card Zone, the effect to prevent Battle Damage is not applied.
-●You can't activate Crystal Pair if you don't have any open Spell or Trap Card Zone spaces.
+*   If you can't place a Crystal Beast monster into your Spell and Trap Card Zone, the effect to prevent Battle Damage is not applied.
+*   You can't activate Crystal Pair if you don't have any open Spell or Trap Card Zone spaces.
             

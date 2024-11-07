@@ -24,5 +24,5 @@ Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Malicious
 
 ### Card Rulings
 
-● When any monster is Summoned during its controller's turn, this card's effect can be activated with ignition priority.
+*   When any monster is Summoned during its controller's turn, this card's effect can be activated with ignition priority.
             

@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Volcanic%20Recharge
 
 ### Card Rulings
 
-●This card targets up to 3 cards in the GY.
-●If 1 or more of the targeted cards is removed from the GY by an effect Chained to “Volcanic Recharge”, the other targets will still be returned to your Deck when “Volcanic Recharge” resolves.
+*   This card targets up to 3 cards in the GY.
+*   If 1 or more of the targeted cards is removed from the GY by an effect Chained to “Volcanic Recharge”, the other targets will still be returned to your Deck when “Volcanic Recharge” resolves.
             

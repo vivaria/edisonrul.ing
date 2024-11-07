@@ -25,6 +25,6 @@ Source: https://edisonformat.net/card?name=Blackwing%20-%20Elphin%20the%20Raven
 
 ### Card Rulings
 
-● If you target a face-down Defense Position monster, it is flipped into Attack Position.
+*   If you target a face-down Defense Position monster, it is flipped into Attack Position.
 If you flip a Flip monster this way, its Flip Effect can activate.
             

@@ -24,5 +24,5 @@ Source: https://edisonformat.net/card?name=Jowgen%20the%20Spiritualist
 
 ### Card Rulings
 
-●If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
+*   If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
             

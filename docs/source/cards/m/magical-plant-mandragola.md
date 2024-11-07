@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Magical%20Plant%20Mandragola
 
 ### Card Rulings
 
-●"Each face-up card" includes your opponent's cards.
+*   "Each face-up card" includes your opponent's cards.
             

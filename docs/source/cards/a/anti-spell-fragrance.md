@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Anti-Spell%20Fragrance
 ### Card Rulings
 
 Both players must Set Spell Cards before activating them, and can't activate them until their next turn.
-●The use in this card's text means activate. So you may discard Spell Cards from your hand for the cost of other cards.
+*   The use in this card's text means activate. So you may discard Spell Cards from your hand for the cost of other cards.
             

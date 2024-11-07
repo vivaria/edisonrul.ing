@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Shadowpriestess%20of%20Ohm
 
 ### Card Rulings
 
-●Shadowpriestess of Ohm's effect is an Ignition Effect.
-●Tributing 1 face-up DARK monster is a cost.
+*   Shadowpriestess of Ohm's effect is an Ignition Effect.
+*   Tributing 1 face-up DARK monster is a cost.
             

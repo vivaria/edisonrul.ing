@@ -28,7 +28,7 @@ Source: https://edisonformat.net/card?name=Dimensional%20Inversion
 
 ### Card Rulings
 
-● You can activate this card if a monster(s) is banished by your opponent's "Macro Cosmos". If both players control "Macro Cosmos", the turn player's Macro is the one that banished the monster.
-● This card's activation can have incorrect timing.
-● You cannot target a Trap Monster with this card.
+*   You can activate this card if a monster(s) is banished by your opponent's "Macro Cosmos". If both players control "Macro Cosmos", the turn player's Macro is the one that banished the monster.
+*   This card's activation can have incorrect timing.
+*   You cannot target a Trap Monster with this card.
             

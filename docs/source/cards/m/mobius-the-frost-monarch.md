@@ -29,5 +29,5 @@ Source: https://edisonformat.net/card?name=Mobius%20the%20Frost%20Monarch
 
 ### Card Rulings
 
-● If one target leaves the field before this effect resolves, the other is still destroyed.
+*   If one target leaves the field before this effect resolves, the other is still destroyed.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Vehicroid%20Connection%20Zone
 
 ### Card Rulings
 
-●If the Special Summoned “Vehicroid” monster is flipped face-down then the effect of “Vehicroid Connection Zone” is no longer applied.
+*   If the Special Summoned “Vehicroid” monster is flipped face-down then the effect of “Vehicroid Connection Zone” is no longer applied.
             

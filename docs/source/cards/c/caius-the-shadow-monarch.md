@@ -35,6 +35,6 @@ Source: https://edisonformat.net/card?name=Caius%20the%20Shadow%20Monarch
 
 ### Card Rulings
 
-● If your opponent has no cards on the field after taking 1000 damage from this effect, they can activate the effect of "Gorz the Emissary of Darkness".
-● No damage is inflicted if the banished monster was a Token, Trap Monster, or was not originally DARK.
+*   If your opponent has no cards on the field after taking 1000 damage from this effect, they can activate the effect of "Gorz the Emissary of Darkness".
+*   No damage is inflicted if the banished monster was a Token, Trap Monster, or was not originally DARK.
             

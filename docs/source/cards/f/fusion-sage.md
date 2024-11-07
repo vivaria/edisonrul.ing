@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Fusion%20Sage
 
 ### Card Rulings
 
-●You can't activate Fusion Sage if you don't have any copies of Polymerization in your Deck.
+*   You can't activate Fusion Sage if you don't have any copies of Polymerization in your Deck.
             

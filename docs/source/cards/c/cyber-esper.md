@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cyber%20Esper
 
 ### Card Rulings
 
-●You can use this effect during the Damage Step.
+*   You can use this effect during the Damage Step.
             

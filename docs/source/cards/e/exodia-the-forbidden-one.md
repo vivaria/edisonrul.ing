@@ -26,9 +26,9 @@ Source: https://edisonformat.net/card?name=Exodia%20the%20Forbidden%20One
 
 ### Card Rulings
 
-● This isn't an effect; it's a condition. It just happens as soon as you have all 5 pieces in hand.
-● The victory "check" happens in between chain links, but not while resolving effects.
+*   This isn't an effect; it's a condition. It just happens as soon as you have all 5 pieces in hand.
+*   The victory "check" happens in between chain links, but not while resolving effects.
 EG: If you draw the last piece with "Graveful Charity", you must discard first.
 EG: If you activate 2 "Reckless Greed", and draw the last piece with the 1st, you win before the 2nd resolves.
-● If both players draw all 5 pieces at the same time, everbody wins! It's a draw.
+*   If both players draw all 5 pieces at the same time, everbody wins! It's a draw.
             

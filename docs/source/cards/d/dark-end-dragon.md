@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Dark%20End%20Dragon
 
 ### Card Rulings
 
-● Even if the target is no longer on the field, this card still loses 500 ATK/DEF.
-● If this card does not lose 500 ATK/DEF, that target is not sent to the GY.
+*   Even if the target is no longer on the field, this card still loses 500 ATK/DEF.
+*   If this card does not lose 500 ATK/DEF, that target is not sent to the GY.
             

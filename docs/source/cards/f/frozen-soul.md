@@ -29,11 +29,11 @@ Source: https://edisonformat.net/card?name=Frozen%20Soul
 ### Card Rulings
 
 You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.
-●If you activate Frozen Soul, and your opponent skips his next Battle Phase somehow, his Battle Phase of the next turn is skipped with Frozen Soul.
-●Skipping a Phase is not the same as Conducting a Phase. You can only Skip your Battle Phase if you attempt to Conduct it (declare you are entering the Battle Phase so it will be skipped), since the Battle Phase is optional. The player is responsible for attempting to conduct their Battle Phase.
-●If Frozen Soul resolves in your opponent's Standby Phase, and they don't enter the Battle Phase, this effect lingers until a turn where your opponent enters the Battle Phase (and is skipped).
-●If multiple copies of Frozen Soul resolve, all their lingering effects disappear together when your opponent enters the Battle Phase (which is skipped). Like Reckless Greed, the effect of Frozen Soul does not stack with itself.
-●VS. Thunder of Ruler: If Thunder of Ruler and Frozen Soul both resolve before your opponent entered the Battle Phase, then they can't conduct this first Battle Phase (due to Thunder of Ruler), and Frozen Soul's effect lingers until a future turn when your opponent conducts the Battle Phase.
-●While Frozen Soul applies, you can't activate Last Turn as it involves conducting a Battle Phase.
-●When you activate Frozen Soul, and effects are chained that result in the Life Point difference being less than 2000, Frozen Soul's effect still resolves.
+*   If you activate Frozen Soul, and your opponent skips his next Battle Phase somehow, his Battle Phase of the next turn is skipped with Frozen Soul.
+*   Skipping a Phase is not the same as Conducting a Phase. You can only Skip your Battle Phase if you attempt to Conduct it (declare you are entering the Battle Phase so it will be skipped), since the Battle Phase is optional. The player is responsible for attempting to conduct their Battle Phase.
+*   If Frozen Soul resolves in your opponent's Standby Phase, and they don't enter the Battle Phase, this effect lingers until a turn where your opponent enters the Battle Phase (and is skipped).
+*   If multiple copies of Frozen Soul resolve, all their lingering effects disappear together when your opponent enters the Battle Phase (which is skipped). Like Reckless Greed, the effect of Frozen Soul does not stack with itself.
+*   VS. Thunder of Ruler: If Thunder of Ruler and Frozen Soul both resolve before your opponent entered the Battle Phase, then they can't conduct this first Battle Phase (due to Thunder of Ruler), and Frozen Soul's effect lingers until a future turn when your opponent conducts the Battle Phase.
+*   While Frozen Soul applies, you can't activate Last Turn as it involves conducting a Battle Phase.
+*   When you activate Frozen Soul, and effects are chained that result in the Life Point difference being less than 2000, Frozen Soul's effect still resolves.
             

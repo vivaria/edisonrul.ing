@@ -32,5 +32,5 @@ Source: https://edisonformat.net/card?name=Alien%20Overlord
 
 ### Card Rulings
 
-●While you control 2 different monsters with the same ② effect, a battling monster with 1 A-Counter will lose 600 ATK/DEF.
+*   While you control 2 different monsters with the same ② effect, a battling monster with 1 A-Counter will lose 600 ATK/DEF.
             

@@ -39,9 +39,9 @@ Source: https://edisonformat.net/card?name=Armory%20Arm
 
 ### Card Rulings
 
-● The ③ effect will trigger even if that monster is no longer in the GY when it resolves.
-● You can equip this card to an opponent's monster. If you do, and that opponent's monster destroys your monster by battle, your opponent takes the damage (Arm is still your card, in your Spell/Trap Zone).
-● If control of the equipped monster is changed, this card does not change control.
-● The damage dealt it equal to the atk of the monster on the field.
+*   The ③ effect will trigger even if that monster is no longer in the GY when it resolves.
+*   You can equip this card to an opponent's monster. If you do, and that opponent's monster destroys your monster by battle, your opponent takes the damage (Arm is still your card, in your Spell/Trap Zone).
+*   If control of the equipped monster is changed, this card does not change control.
+*   The damage dealt it equal to the atk of the monster on the field.
 If "Tragoedia" is destroyed, damage will be dealt equal to its atk on the field.
             

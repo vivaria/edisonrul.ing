@@ -30,10 +30,10 @@ Source: https://edisonformat.net/card?name=My%20Body%20as%20a%20Shield
 
 ### Card Rulings
 
-● This card can't be activated during the Damage Step.
-● This card can negate either the Activation or Effect of cards.
+*   This card can't be activated during the Damage Step.
+*   This card can negate either the Activation or Effect of cards.
 
 Vs "Deck Devastation Virus:
-● You can chain this card, but only if there you control a face-up monster with 1500 or less ATK.
-● You can't chain this if the monster(s) that would be destroyed are face-down/in-hand.
+*   You can chain this card, but only if there you control a face-up monster with 1500 or less ATK.
+*   You can't chain this if the monster(s) that would be destroyed are face-down/in-hand.
             

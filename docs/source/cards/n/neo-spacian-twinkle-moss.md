@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Neo-Spacian%20Twinkle%20Moss
 
 ### Card Rulings
 
-●Neo-Spacian Twinkle Moss' effect is a Trigger Effect. It starts a Chain when the attack is declared.
+*   Neo-Spacian Twinkle Moss' effect is a Trigger Effect. It starts a Chain when the attack is declared.
             

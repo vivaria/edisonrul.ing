@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Frontline%20Base
 
 ### Card Rulings
 
-●If you have multiple Frontline Bases, you can Special Summon 1 Union Monster for each.
+*   If you have multiple Frontline Bases, you can Special Summon 1 Union Monster for each.
             

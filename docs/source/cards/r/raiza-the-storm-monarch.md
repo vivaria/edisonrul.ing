@@ -26,5 +26,5 @@ Source: https://edisonformat.net/card?name=Raiza%20the%20Storm%20Monarch
 
 ### Card Rulings
 
-● This effect is mandatory.
+*   This effect is mandatory.
             

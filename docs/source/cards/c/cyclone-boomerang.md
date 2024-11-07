@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cyclone%20Boomerang
 
 ### Card Rulings
 
-●When a monster equipped with “Cyclone Boomerang” is destroyed by a card effect, its effect starts a chain. “Barrel Behind the Door” can be activated in response.
+*   When a monster equipped with “Cyclone Boomerang” is destroyed by a card effect, its effect starts a chain. “Barrel Behind the Door” can be activated in response.
             

@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=XX-Saber%20Hyunlei
 
 ### Card Rulings
 
-● If one target leaves the field, the rest are still destroyed.
+*   If one target leaves the field, the rest are still destroyed.
             

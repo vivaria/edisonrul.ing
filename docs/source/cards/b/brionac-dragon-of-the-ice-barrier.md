@@ -27,6 +27,6 @@ Source: https://edisonformat.net/card?name=Brionac,%20Dragon%20of%20the%20Ice%20
 
 ### Card Rulings
 
-● You can target cards on either field, and can use this effect multiple times per turn.● This effect targets (all Mika PSCT from this bot will tell you if an effect targets).
-● Brionac’s effect is an ignition Effect. If Synchro Summoned using “Goblin Zombie”, Goblin’s effect (a mandatory trigger effect) must be activated, in which case you can't use Brionac’s effect with ignition Priority.
+*   You can target cards on either field, and can use this effect multiple times per turn.● This effect targets (all Mika PSCT from this bot will tell you if an effect targets).
+*   Brionac’s effect is an ignition Effect. If Synchro Summoned using “Goblin Zombie”, Goblin’s effect (a mandatory trigger effect) must be activated, in which case you can't use Brionac’s effect with ignition Priority.
             

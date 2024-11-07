@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Lucky%20Iron%20Axe
 
 ### Card Rulings
 
-●This card’s second effect activates in the GY, and starts a Chain.
-●This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.
+*   This card’s second effect activates in the GY, and starts a Chain.
+*   This effect will activate if “Lucky Iron Axe” is destroyed by a card chained to its activation.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Reckoned%20Power
 
 ### Card Rulings
 
-●Revealing “Iron Core of Koa’ki Meiru” is a cost to activate this card.
+*   Revealing “Iron Core of Koa’ki Meiru” is a cost to activate this card.
             

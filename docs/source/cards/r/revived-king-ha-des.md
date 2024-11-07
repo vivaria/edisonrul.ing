@@ -33,5 +33,5 @@ Source: https://edisonformat.net/card?name=Revived%20King%20Ha%20Des
 
 ### Card Rulings
 
-● This negation is permanent, until the destroyed monster leaves the GY.
+*   This negation is permanent, until the destroyed monster leaves the GY.
             

@@ -26,10 +26,10 @@ Source: https://edisonformat.net/card?name=Dimension%20Wall
 
 ### Card Rulings
 
-● This card can only be activated in response to an Attack Declaration.
-● The effect is applied during Damage Calculation.
-● The damage is Battle Damage, not Effect Damage.
-● If "Waboku" has already been activated this turn, you can't activate this card.
+*   This card can only be activated in response to an Attack Declaration.
+*   The effect is applied during Damage Calculation.
+*   The damage is Battle Damage, not Effect Damage.
+*   If "Waboku" has already been activated this turn, you can't activate this card.
 However, if "Waboku" is activated in response to an attack, you can chain this card.
-● If "Unifrog" attacks, and this card is activated, "Unifrog"'s effect won't activate.
+*   If "Unifrog" attacks, and this card is activated, "Unifrog"'s effect won't activate.
             

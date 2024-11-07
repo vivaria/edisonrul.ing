@@ -35,10 +35,10 @@ Source: https://edisonformat.net/card?name=Chimeratech%20Fortress%20Dragon
 
 ### Card Rulings
 
-● Since this card can't be used as Fusion Material,
+*   Since this card can't be used as Fusion Material,
 you can't Summon Chimeratech Fortress Dragon using another copy of it as material.
-● You can always use face-down monsters you control as Fusion Material
+*   You can always use face-down monsters you control as Fusion Material
 (but not ones your opponent controls).
-● You can't use Tokens as Material for this card.
-● If this card's effect is negated, its ATK becomes 0 (permanently)
+*   You can't use Tokens as Material for this card.
+*   If this card's effect is negated, its ATK becomes 0 (permanently)
             

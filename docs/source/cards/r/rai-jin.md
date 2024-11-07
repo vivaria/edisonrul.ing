@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Rai-Jin
 
 ### Card Rulings
 
-●If Rai-Jin is face-up on your side of the field and you don't have any LIGHT Monsters in your GY, Rai-Jin's ATK is 0.
+*   If Rai-Jin is face-up on your side of the field and you don't have any LIGHT Monsters in your GY, Rai-Jin's ATK is 0.
             

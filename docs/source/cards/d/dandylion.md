@@ -32,8 +32,8 @@ Source: https://edisonformat.net/card?name=Dandylion
 
 ### Card Rulings
 
-● You cannot use Fluff Tokens for a Tribute Set.
-● You can't declare the name of a token with “Prohibition”.
-● Summoning 2 Tokens means that you must Summon 2 Tokens. You cannot choose to Summon 1 nor 3. Summoning 4 would be right out.
-●In this format, If this card is discarded for “Monster Reincarnation”, and then added back to the hand by the same “Monster Reincarnation”, its effect activates in the hand.
+*   You cannot use Fluff Tokens for a Tribute Set.
+*   You can't declare the name of a token with “Prohibition”.
+*   Summoning 2 Tokens means that you must Summon 2 Tokens. You cannot choose to Summon 1 nor 3. Summoning 4 would be right out.
+*   In this format, If this card is discarded for “Monster Reincarnation”, and then added back to the hand by the same “Monster Reincarnation”, its effect activates in the hand.
             

@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Morphtronic%20Datatron
 
 ### Card Rulings
 
-●While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Datatron can't be activated, because the While in Attack Position and While in Defense Position effects are negated.
-●Morphtronic Datatron can be Tributed to activate its Attack Position effect.
-●If Morphtronic Datatron activates its Attack Position effect, and an effect is chained that changes it to Defense Position, its effect still resolves.
+*   While Skill Drain is active, the Attack Position and Defense Position effects of Morphtronic Datatron can't be activated, because the While in Attack Position and While in Defense Position effects are negated.
+*   Morphtronic Datatron can be Tributed to activate its Attack Position effect.
+*   If Morphtronic Datatron activates its Attack Position effect, and an effect is chained that changes it to Defense Position, its effect still resolves.
             

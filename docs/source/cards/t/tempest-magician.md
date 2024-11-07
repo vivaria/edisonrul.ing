@@ -23,7 +23,7 @@ Source: https://edisonformat.net/card?name=Tempest%20Magician
 
 ### Card Rulings
 
-● If 3 cards are sent, you can:
+*   If 3 cards are sent, you can:
 place 1 Counter on 3 different monsters, or
 place 1 Counter on 1 monster and 2 Counters on a different monster, or
 place all 3 on 1 monster.

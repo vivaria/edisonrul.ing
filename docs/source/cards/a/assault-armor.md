@@ -31,13 +31,13 @@ Source: https://edisonformat.net/card?name=Assault%20Armor
 
 ### Card Rulings
 
-●The Condition is not an effect, it can't be negated.
-●If “Assault Armor” is equipped to your monster, then after that you Summon another monster, “Assault Armor” remains on the field.
-●The requirement that you control no other monsters only applies to equipping “Assault Armor”. If an effect is chained to “Assault Armor” that makes the target no longer a Warrior, then “Assault Armor” can't be equipped to it, and is destroyed.
-●If the equipped monster’s type changes after “Assault Armor” is already equipped to it, “Assault Armor” remains equipped to that monster.
-●Equip Spell Cards continuously target the equipped monster.
-●The Ignition Effect activates & resolves on the field.
-●Sending this card to the GY is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.
-●This effect does not target.
-●You can only send “Assault Armor” to the GY to activate its effect during Main Phase 1.
+*   The Condition is not an effect, it can't be negated.
+*   If “Assault Armor” is equipped to your monster, then after that you Summon another monster, “Assault Armor” remains on the field.
+*   The requirement that you control no other monsters only applies to equipping “Assault Armor”. If an effect is chained to “Assault Armor” that makes the target no longer a Warrior, then “Assault Armor” can't be equipped to it, and is destroyed.
+*   If the equipped monster’s type changes after “Assault Armor” is already equipped to it, “Assault Armor” remains equipped to that monster.
+*   Equip Spell Cards continuously target the equipped monster.
+*   The Ignition Effect activates & resolves on the field.
+*   Sending this card to the GY is a cost. This effect can't activate while Macro Cosmos is active, since you can't pay the cost.
+*   This effect does not target.
+*   You can only send “Assault Armor” to the GY to activate its effect during Main Phase 1.
             

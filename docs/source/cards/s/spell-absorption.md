@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Spell%20Absorption
 
 ### Card Rulings
 
-●The effect of “Spell Absorption” is applied when the Spell Card is activated. You can't chain to this effect. The effect is applied immediately. For example, when activating “Tribute to the Doomed” while “Spell Absorption” is on the field: ●If the activation of a Spell Card is negated by “Magic Jammer”, etc., then you won't gain Life Points for “Spell Absorption”.
-●A Spell Card used from the GY by the effect of “Double Spell” is not considered “activated”, so you will only gain Life Points for “Spell Absorption” for “Double Spell” itself, not for the card used from the GY.
-●When you activate “Spell Absorption”, you don't gain Life Points for activating “Spell Absorption” itself.
+*   The effect of “Spell Absorption” is applied when the Spell Card is activated. You can't chain to this effect. The effect is applied immediately. For example, when activating “Tribute to the Doomed” while “Spell Absorption” is on the field: ●If the activation of a Spell Card is negated by “Magic Jammer”, etc., then you won't gain Life Points for “Spell Absorption”.
+*   A Spell Card used from the GY by the effect of “Double Spell” is not considered “activated”, so you will only gain Life Points for “Spell Absorption” for “Double Spell” itself, not for the card used from the GY.
+*   When you activate “Spell Absorption”, you don't gain Life Points for activating “Spell Absorption” itself.
             

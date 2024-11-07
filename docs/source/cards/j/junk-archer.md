@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Junk%20Archer
 
 ### Card Rulings
 
-● The target returns in the same Battle Position. If it is face-down, it is banished face-down, and returns face-down.
-● If your opponent controls 5 monsters when the monster would return, it is instead sent to GY.
+*   The target returns in the same Battle Position. If it is face-down, it is banished face-down, and returns face-down.
+*   If your opponent controls 5 monsters when the monster would return, it is instead sent to GY.
             

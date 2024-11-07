@@ -24,5 +24,5 @@ Source: https://edisonformat.net/card?name=Cyber%20Dragon
 
 ### Card Rulings
 
-● This card's Summon does not start a chain, so "Thunder King Rai-Oh" can negate it.
+*   This card's Summon does not start a chain, so "Thunder King Rai-Oh" can negate it.
             

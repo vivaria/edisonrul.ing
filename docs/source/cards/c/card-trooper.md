@@ -33,8 +33,8 @@ Source: https://edisonformat.net/card?name=Card%20Trooper
 
 ### Card Rulings
 
-● Sending to the GY is a cost.
+*   Sending to the GY is a cost.
 If "Dimensional Fissure" is applying, you can't activate the ① effect, even if you know that the top card of your Deck is not a Monster.
-● After the ① effect resolves, if this card later has its effect negated, the ATK increase is negated.
-● If this card in your Spell/Trap Zone is destroyed, the ② effect still activates.
+*   After the ① effect resolves, if this card later has its effect negated, the ATK increase is negated.
+*   If this card in your Spell/Trap Zone is destroyed, the ② effect still activates.
             

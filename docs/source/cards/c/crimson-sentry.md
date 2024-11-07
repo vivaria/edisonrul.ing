@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Crimson%20Sentry
 
 ### Card Rulings
 
-●Crimson Sentry's effect can be activated before or after your monster(s) are destroyed in battle, similar to Last Will.
+*   Crimson Sentry's effect can be activated before or after your monster(s) are destroyed in battle, similar to Last Will.
             

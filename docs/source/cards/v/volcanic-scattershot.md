@@ -30,5 +30,5 @@ Source: https://edisonformat.net/card?name=Volcanic%20Scattershot
 
 ### Card Rulings
 
-● If this card is sent from your hand to the GY by "Blaze Accelerator"'s effect, its effect to inflict 500 damage doesn't activate (Yes, this is really weird).
+*   If this card is sent from your hand to the GY by "Blaze Accelerator"'s effect, its effect to inflict 500 damage doesn't activate (Yes, this is really weird).
             

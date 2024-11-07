@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Inferno%20Tempest
 
 ### Card Rulings
 
-●If you attack Blue-Eyes White Dragon with Ojama Green or some other 0 ATK monster, you can activate Inferno Tempest after damage calculation. Then Ojama Green is sent to the GY after Inferno Tempest resolves.
+*   If you attack Blue-Eyes White Dragon with Ojama Green or some other 0 ATK monster, you can activate Inferno Tempest after damage calculation. Then Ojama Green is sent to the GY after Inferno Tempest resolves.
             

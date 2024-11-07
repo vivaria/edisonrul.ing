@@ -20,7 +20,7 @@ Source: https://edisonformat.net/card?name=Accumulated%20Fortune
 
 ### Card Rulings
 
-● You can activate 2 "Accumulated Fortune" in the same Chain, but not 3.
+*   You can activate 2 "Accumulated Fortune" in the same Chain, but not 3.
 The first time, there is no "Accumulated Fortune" in that Chain.
 The second time, there is only 1 "Accumulated Fortune" in that Chain.
 The third time, there are multiple cards with the same name in the Chain.

@@ -34,15 +34,15 @@ Source: https://edisonformat.net/card?name=Ancient%20Forest
 ### Card Rulings
 
 About the ① effect:
-● It only applies once, when this card resolves. It will not affect monsters summoned afterward.
-● Flip effects will not activate.
+*   It only applies once, when this card resolves. It will not affect monsters summoned afterward.
+*   Flip effects will not activate.
 Effects that trigger upon the card being flipped face-up will activate (e.g. "Snowman Eater" / "Fossil Dyna Pachycephalo").
 
 About the ② effect:
-● It does not target.
-● It activates in the End Step of the battle phase, the same timing as the tag out effect of "Gladiator Beast" monsters. The controller of multiple phase-dependent trigger effects can decide the order they want to activate them.
-● "My Body as a Shield" and the effect of "Stardust Dragon" can be chained to this effect.
+*   It does not target.
+*   It activates in the End Step of the battle phase, the same timing as the tag out effect of "Gladiator Beast" monsters. The controller of multiple phase-dependent trigger effects can decide the order they want to activate them.
+*   "My Body as a Shield" and the effect of "Stardust Dragon" can be chained to this effect.
 "Starlight Road" can be chained to this effect if 2 or more monsters you control would be destroyed.
-● If a monster's attack was negated (e.g. by "XX-Saber Fulhelmknight", "Magic Cylinder" or "Scrap-Iron Scarecrow"), it will not be destroyed by this effect.
-● If a monster's attack is stopped (e.g. by "Book of Moon", "Enemy Controller", "Battle Fader" or "Cyber Valley"), it will be destroyed by this effect (even if it is face-down).
+*   If a monster's attack was negated (e.g. by "XX-Saber Fulhelmknight", "Magic Cylinder" or "Scrap-Iron Scarecrow"), it will not be destroyed by this effect.
+*   If a monster's attack is stopped (e.g. by "Book of Moon", "Enemy Controller", "Battle Fader" or "Cyber Valley"), it will be destroyed by this effect (even if it is face-down).
             

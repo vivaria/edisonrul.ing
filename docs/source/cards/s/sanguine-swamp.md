@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Sanguine%20Swamp
 
 ### Card Rulings
 
-●The,, and Continuous Effects don't start a Chain.
-●If you activate Sanguine Swamp while you control face-down Spell or Trap Card(s), it is destroyed after it resolves.
+*   The,, and Continuous Effects don't start a Chain.
+*   If you activate Sanguine Swamp while you control face-down Spell or Trap Card(s), it is destroyed after it resolves.
             

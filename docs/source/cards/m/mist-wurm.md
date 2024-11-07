@@ -25,5 +25,5 @@ Source: https://edisonformat.net/card?name=Mist%20Wurm
 
 ### Card Rulings
 
-● This effect is mandatory, and must target at least 1 card.
+*   This effect is mandatory, and must target at least 1 card.
             

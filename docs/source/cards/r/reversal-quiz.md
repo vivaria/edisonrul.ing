@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Reversal%20Quiz
 
 ### Card Rulings
 
-●Sending all cards in the hand and on the field to the GY is a cost. If there are no cards in your hand or on the field you can't activate this card. You must have a card either in your hand or on the field to activate this card.
+*   Sending all cards in the hand and on the field to the GY is a cost. If there are no cards in your hand or on the field you can't activate this card. You must have a card either in your hand or on the field to activate this card.
             

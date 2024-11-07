@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Labyrinth%20of%20Nightmare
 
 ### Card Rulings
 
-●This will activate the effect of Dream Clown.
+*   This will activate the effect of Dream Clown.
             

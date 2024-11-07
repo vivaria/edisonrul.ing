@@ -27,7 +27,7 @@ Source: https://edisonformat.net/card?name=Hero%20Blast
 
 ### Card Rulings
 
-● You can activate this card even if your opponent controls no monsters.
-● If no card is returned to the hand, no monster is destroyed.
-● "Stardust Dragon"'s effect can be chained to this, but only if there is a monster on the field that would be destroyed.
+*   You can activate this card even if your opponent controls no monsters.
+*   If no card is returned to the hand, no monster is destroyed.
+*   "Stardust Dragon"'s effect can be chained to this, but only if there is a monster on the field that would be destroyed.
             

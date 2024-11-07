@@ -24,8 +24,8 @@ Source: https://edisonformat.net/card?name=Light-Imprisoning%20Mirror
 
 ### Card Rulings
 
-● This doesn't stop monster effects from activating.
+*   This doesn't stop monster effects from activating.
 It just negates any effect which does activate (on the field/GY).
-● Even if the Physical card is no longer on the field/GY, the effect is still negated.
+*   Even if the Physical card is no longer on the field/GY, the effect is still negated.
 Even if the monster is face-down when it's effect resolves, the effect is still negated.
             

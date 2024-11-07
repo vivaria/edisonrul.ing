@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=White%20Potan
 
 ### Card Rulings
 
-●If “White Potan” becomes a Tuner, it can't be destroyed by battle.
-●If a monster being treated as a Tuner is destroyed by battle and sent to the GY, it is not considered a Tuner in the GY, and the effect of “White Potan” to inflict damage won't activate.
+*   If “White Potan” becomes a Tuner, it can't be destroyed by battle.
+*   If a monster being treated as a Tuner is destroyed by battle and sent to the GY, it is not considered a Tuner in the GY, and the effect of “White Potan” to inflict damage won't activate.
             

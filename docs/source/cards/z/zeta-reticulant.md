@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Zeta%20Reticulant
 
 ### Card Rulings
 
-● This card's Summon does not start a chain, so "Thunder King Rai-Oh" can negate it.
-● If "D.D. Crow" is chained to the ②, the Token is still Summoned.
+*   This card's Summon does not start a chain, so "Thunder King Rai-Oh" can negate it.
+*   If "D.D. Crow" is chained to the ②, the Token is still Summoned.
             

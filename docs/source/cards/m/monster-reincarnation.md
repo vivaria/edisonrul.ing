@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Monster%20Reincarnation
 ### Card Rulings
 
 Discard 1 card. Add 1 Monster Card from your GY to your hand.
-●This effect targets a card in the GY. It is negated by Necrovalley.
-●You discard a card for cost.
-●If you discard Night Assailant, Makyura the Destructor, or Dandylion their effects activate (in the GY), starting a new chain, even if you retrieve the same card.
+*   This effect targets a card in the GY. It is negated by Necrovalley.
+*   You discard a card for cost.
+*   If you discard Night Assailant, Makyura the Destructor, or Dandylion their effects activate (in the GY), starting a new chain, even if you retrieve the same card.
             

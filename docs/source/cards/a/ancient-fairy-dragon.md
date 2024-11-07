@@ -42,8 +42,8 @@ Source: https://edisonformat.net/card?name=Ancient%20Fairy%20Dragon
 And if you do" effects are simultaneous. "Then" effects are sequential.
 Simultaneous effects don't cause cards to miss their timing.
 Sequential effects can cause cards to miss their timing.
-● If "Geartown" is destroyed, and no Field Spell is searched, you CAN activate Geartown's effect.
-● If "Geartown" is destroyed, and a Field Spell is searched, you CAN'T activate Geartown's effect.
+*   If "Geartown" is destroyed, and no Field Spell is searched, you CAN activate Geartown's effect.
+*   If "Geartown" is destroyed, and a Field Spell is searched, you CAN'T activate Geartown's effect.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
             

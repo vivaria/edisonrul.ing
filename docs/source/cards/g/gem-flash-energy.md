@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Gem%20Flash%20Energy
 
 ### Card Rulings
 
-●This card’s effect is activated during your Standby Phase, and starts a Chain.
+*   This card’s effect is activated during your Standby Phase, and starts a Chain.
             

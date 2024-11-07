@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Thousand%20Knives
 
 ### Card Rulings
 
-●The required card only needs to be face-up on the field. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.
+*   The required card only needs to be face-up on the field. It does not need to be a Monster Card, so if “Dark Magician” is equipped to your “Relinquished”, you can activate “Thousand Knives”.
             

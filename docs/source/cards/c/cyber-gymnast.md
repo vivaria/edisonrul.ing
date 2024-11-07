@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Cyber%20Gymnast
 
 ### Card Rulings
 
-●This effect targets 1 Attack Position monster. If an effect is chained to change the target to anything other than Attack Position, then the targeting conditions are no longer correct and it won't be destroyed.
+*   This effect targets 1 Attack Position monster. If an effect is chained to change the target to anything other than Attack Position, then the targeting conditions are no longer correct and it won't be destroyed.
             

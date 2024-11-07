@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Toon%20Table%20of%20Contents
 
 ### Card Rulings
 
-●You can't activate Toon Table of Contents if you don't have any Toon Cards, or Manga Ryu-Ran, in your Deck.
+*   You can't activate Toon Table of Contents if you don't have any Toon Cards, or Manga Ryu-Ran, in your Deck.
             

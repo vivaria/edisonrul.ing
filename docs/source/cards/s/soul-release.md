@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Soul%20Release
 
 ### Card Rulings
 
-● If one target leaves the GY before this resolves, the others are still banished.
+*   If one target leaves the GY before this resolves, the others are still banished.
             

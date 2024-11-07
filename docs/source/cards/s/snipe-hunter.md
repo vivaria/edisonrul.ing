@@ -25,5 +25,5 @@ Source: https://edisonformat.net/card?name=Snipe%20Hunter
 
 ### Card Rulings
 
-● "Stardust Dragon" can't be chained to this effect.
+*   "Stardust Dragon" can't be chained to this effect.
             

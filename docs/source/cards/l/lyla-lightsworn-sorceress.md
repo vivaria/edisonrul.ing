@@ -40,15 +40,15 @@ Source: https://edisonformat.net/card?name=Lyla,%20Lightsworn%20Sorceress
 ### Card Rulings
 
 About the ① effect:
-● Like all "and if you do" effects, the first part (changing this card to defense) must happen in order for the second part (destroying that target) to happen.
+*   Like all "and if you do" effects, the first part (changing this card to defense) must happen in order for the second part (destroying that target) to happen.
 You can read more about conjunctions here: https://edisonformat.net/rules/compendium/conjunctions.
 
-● If an effect is chained to this effect that switches this card to Defense Position, the effect will not be applied so this card's battle position may still be changed (e.g. vs "Book of Moon" or "Enemy Controler").
+*   If an effect is chained to this effect that switches this card to Defense Position, the effect will not be applied so this card's battle position may still be changed (e.g. vs "Book of Moon" or "Enemy Controler").
 
-● If this card is switched to Defense Position by this effect, but cannot destroy the targeted Spell/Trap (e.g. if it no longer exists on the field), this card's battle position still cannot be changed until the end of your next turn.
+*   If this card is switched to Defense Position by this effect, but cannot destroy the targeted Spell/Trap (e.g. if it no longer exists on the field), this card's battle position still cannot be changed until the end of your next turn.
 
-● "this card's battle position can't be changed until the end of your next turn" affects Lyla, not her Controller. If you take control of a Lyla with this effect applied, she still can't change her Battle Position.
+*   "this card's battle position can't be changed until the end of your next turn" affects Lyla, not her Controller. If you take control of a Lyla with this effect applied, she still can't change her Battle Position.
 
 About the ② effect:
-● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+*   If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
             

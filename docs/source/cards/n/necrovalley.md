@@ -36,6 +36,6 @@ Source: https://edisonformat.net/card?name=Necrovalley
 
 ### Card Rulings
 
-● Effects of cards like “Red-Eyes Darkness Metal Dragon”, “Goyo Guardian”, and “Treeborn Frog” are not negated by this card’s ③ effect, as they don't target.
-● "Question", "Fiber Jar", "Penguin Knight", and "Agido" are negated by this card’s ③ effect, even though they don't target (yes, this is weird).
+*   Effects of cards like “Red-Eyes Darkness Metal Dragon”, “Goyo Guardian”, and “Treeborn Frog” are not negated by this card’s ③ effect, as they don't target.
+*   "Question", "Fiber Jar", "Penguin Knight", and "Agido" are negated by this card’s ③ effect, even though they don't target (yes, this is weird).
             

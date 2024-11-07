@@ -28,9 +28,9 @@ Source: https://edisonformat.net/card?name=Herald%20of%20Orange%20Light
 
 ### Card Rulings
 
-●This effect activates & resolves in the hand.
-●This effect can negate any activated monster effect - It doesn't matter where the monster effect is being activated. It is not restricted to only monster effects that your opponent controls.
-●This effect cannot be activated while "Macro Cosmos" / "Dimensional Fissure" is applying.
-●If this effect destroys a opponent's monster during the Damage Step, no replay occurs.
-●By negating the activation of the previous card in the Chain, that Link is removed when the Chain resolves. The last thing to happen is this effect resolving, negating and destroying the other card.
+*   This effect activates & resolves in the hand.
+*   This effect can negate any activated monster effect - It doesn't matter where the monster effect is being activated. It is not restricted to only monster effects that your opponent controls.
+*   This effect cannot be activated while "Macro Cosmos" / "Dimensional Fissure" is applying.
+*   If this effect destroys a opponent's monster during the Damage Step, no replay occurs.
+*   By negating the activation of the previous card in the Chain, that Link is removed when the Chain resolves. The last thing to happen is this effect resolving, negating and destroying the other card.
             

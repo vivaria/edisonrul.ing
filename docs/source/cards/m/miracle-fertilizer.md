@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Miracle%20Fertilizer
 
 ### Card Rulings
 
-●Miracle Fertilizer targets the monster●If you Special Summon a monster with Miracle Fertilizer, and later in the same turn Miracle Fertilizer is removed from the field, you still can't Normal Summon or Set a monster that turn.
-●If you Special Summon 2 or more monsters with Miracle Fertilizer, when any of the Special Summoned monsters is removed from the field, Miracle Fertilizer is destroyed.
-●If you activate the effect of Miracle Fertilizer and an effect is chained that removes the targeted Plant-Type monster from play, you can still Normal Summon or Set during that turn.
+*   Miracle Fertilizer targets the monster●If you Special Summon a monster with Miracle Fertilizer, and later in the same turn Miracle Fertilizer is removed from the field, you still can't Normal Summon or Set a monster that turn.
+*   If you Special Summon 2 or more monsters with Miracle Fertilizer, when any of the Special Summoned monsters is removed from the field, Miracle Fertilizer is destroyed.
+*   If you activate the effect of Miracle Fertilizer and an effect is chained that removes the targeted Plant-Type monster from play, you can still Normal Summon or Set during that turn.
             

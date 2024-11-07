@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Salvage
 
 ### Card Rulings
 
-● If one target leaves the GY before this resolves, the other is still returned to the hand.
+*   If one target leaves the GY before this resolves, the other is still returned to the hand.
             

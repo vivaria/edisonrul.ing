@@ -24,17 +24,17 @@ Source: https://edisonformat.net/card?name=Reptilianne%20Naga
 
 ### Card Rulings
 
-● The ① effect is a Continuous Effect.
+*   The ① effect is a Continuous Effect.
 
 About the ② effect:
-● It is a mandatory Trigger Effect.
-● it will activate (in the GY/Banishment) even if this card is destroyed during the Damage Step, due to TCG ruling differences (e.g. vs "Skill Drain").
-● In Edison format, if two 0 ATK monsters battle, they will be destroyed.
-● If the ATK of "Tragoedia" is set to 0 by this effect, it will remain 0 even if the number of cards in hand changes.
-● If the activation of this effect is negated (e.g. by "Light and Darkness Dragon"), it will not activate again during that End Step.
+*   It is a mandatory Trigger Effect.
+*   it will activate (in the GY/Banishment) even if this card is destroyed during the Damage Step, due to TCG ruling differences (e.g. vs "Skill Drain").
+*   In Edison format, if two 0 ATK monsters battle, they will be destroyed.
+*   If the ATK of "Tragoedia" is set to 0 by this effect, it will remain 0 even if the number of cards in hand changes.
+*   If the activation of this effect is negated (e.g. by "Light and Darkness Dragon"), it will not activate again during that End Step.
 
 About the ③ effect:
-● It is a mandatory Trigger Effect.
-● It will not activate if this card is not in face-up Defense Position.
-● If the activation of this effect is negated (e.g. by "Light and Darkness Dragon"), it will continue to activate until it can resolve.
+*   It is a mandatory Trigger Effect.
+*   It will not activate if this card is not in face-up Defense Position.
+*   If the activation of this effect is negated (e.g. by "Light and Darkness Dragon"), it will continue to activate until it can resolve.
             

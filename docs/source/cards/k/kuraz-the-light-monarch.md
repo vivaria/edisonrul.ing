@@ -33,7 +33,7 @@ Source: https://edisonformat.net/card?name=Kuraz%20the%20Light%20Monarch
 
 ### Card Rulings
 
-● Destroying and drawing are simultaneous.
+*   Destroying and drawing are simultaneous.
 This does not cause anything to miss its timing.
-● If 1 target is no longer on the field when this resolves, the other is still destroyed.
+*   If 1 target is no longer on the field when this resolves, the other is still destroyed.
             

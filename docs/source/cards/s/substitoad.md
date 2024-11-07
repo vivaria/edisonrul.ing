@@ -29,7 +29,7 @@ Source: https://edisonformat.net/card?name=Substitoad
 
 ### Card Rulings
 
-● Like all ignition effects, this card's effect can be activated whenever you summon a monster. When you summon Substitoad, you can activate its effect using your ignition priority. When the "frog" monster is summoned, Substitoad's effect can be activated again, using your ignition priority.
-●The ② applies to both players' "frog" monsters. If "Treeborn Frog" attacks an Attack Position Substitoad, the Treeborn Frog is not destroyed by battle, but Substitoad is.
-●Tributing a monster is a cost. If you Tribute "Dupe Frog", Dupe's effect can't be activated.
+*   Like all ignition effects, this card's effect can be activated whenever you summon a monster. When you summon Substitoad, you can activate its effect using your ignition priority. When the "frog" monster is summoned, Substitoad's effect can be activated again, using your ignition priority.
+*   The ② applies to both players' "frog" monsters. If "Treeborn Frog" attacks an Attack Position Substitoad, the Treeborn Frog is not destroyed by battle, but Substitoad is.
+*   Tributing a monster is a cost. If you Tribute "Dupe Frog", Dupe's effect can't be activated.
             

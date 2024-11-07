@@ -20,5 +20,5 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Woodsman
 
 ### Card Rulings
 
-● This card can only search "Polymerization". It can't search "Super Polymerization".
+*   This card can only search "Polymerization". It can't search "Super Polymerization".
             

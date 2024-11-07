@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Berfomet
 
 ### Card Rulings
 
-●If “Berfomet” is not face-up on the field when its effect resolves, you still add “Gazelle the King of Mythical Beasts” to your hand.
+*   If “Berfomet” is not face-up on the field when its effect resolves, you still add “Gazelle the King of Mythical Beasts” to your hand.
             

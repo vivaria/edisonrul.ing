@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Dread%20Servant
 
 ### Card Rulings
 
-●Destiny Hero - Dread Servant's second effect targets 1 Spell or Trap Card you control.
+*   Destiny Hero - Dread Servant's second effect targets 1 Spell or Trap Card you control.
             

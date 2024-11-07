@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Rose%20Fairy
 
 ### Card Rulings
 
-●This effect can't be activated during the Damage Step. 
+*   This effect can't be activated during the Damage Step.
             

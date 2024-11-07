@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Demotion
 
 ### Card Rulings
 
-●A monster's Level can't go below 1. You can equip 2 Demotions to a monster to reduce its Level by 4.
+*   A monster's Level can't go below 1. You can equip 2 Demotions to a monster to reduce its Level by 4.
             

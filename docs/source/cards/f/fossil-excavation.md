@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Fossil%20Excavation
 
 ### Card Rulings
 
-●You can't activate Fossil Excavation if you don't have any Dinosaur-Type monsters in your GY, even if you would discard one to activate it.
+*   You can't activate Fossil Excavation if you don't have any Dinosaur-Type monsters in your GY, even if you would discard one to activate it.
             

@@ -28,6 +28,6 @@ Source: https://edisonformat.net/card?name=Ally%20of%20Justice%20Catastor
 
 ### Card Rulings
 
-● The start of the Damage Step occurs before set monsters are flipped face-up.
+*   The start of the Damage Step occurs before set monsters are flipped face-up.
 (If this card attacks a Set monster, this card's effect doesn’t activate.)
             

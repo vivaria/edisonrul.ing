@@ -28,11 +28,11 @@ Source: https://edisonformat.net/card?name=Armed%20Sea%20Hunter
 
 ### Card Rulings
 
-●The Trigger Effect is mandatory, it activates & resolves on the field.
-●This effect activates in Substep 5 - After Damage Calculation.
-●This effect does not target.
-●This effect activates even if “Armed Sea Hunter” is destroyed by the battle.
-●This effect is continuously applied to the destroyed monster, even in the GY. If it destroys “Treeborn Frog,” its effect in the GY can be activated, but it will resolve negated.
-●The Continuous Effect applies while is card is face-up on the field, it does not start a Chain.
-●You can't choose to destroy monsters that can't be destroyed (due to “Aegis of the Ocean Dragon Lord”) as substitute for this card.
+*   The Trigger Effect is mandatory, it activates & resolves on the field.
+*   This effect activates in Substep 5 - After Damage Calculation.
+*   This effect does not target.
+*   This effect activates even if “Armed Sea Hunter” is destroyed by the battle.
+*   This effect is continuously applied to the destroyed monster, even in the GY. If it destroys “Treeborn Frog,” its effect in the GY can be activated, but it will resolve negated.
+*   The Continuous Effect applies while is card is face-up on the field, it does not start a Chain.
+*   You can't choose to destroy monsters that can't be destroyed (due to “Aegis of the Ocean Dragon Lord”) as substitute for this card.
             

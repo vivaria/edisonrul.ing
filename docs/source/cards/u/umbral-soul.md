@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Umbral%20Soul
 
 ### Card Rulings
 
-●This card’s effect will destroy “Elemental Mistress Doriado”.
+*   This card’s effect will destroy “Elemental Mistress Doriado”.
             

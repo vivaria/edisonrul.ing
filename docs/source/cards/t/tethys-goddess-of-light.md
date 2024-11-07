@@ -27,10 +27,10 @@ Source: https://edisonformat.net/card?name=Tethys,%20Goddess%20of%20Light
 
 ### Card Rulings
 
-●This optional Trigger Effect activates & resolves on the field.
-●1 Fairy-Type monster you JUST drew is revealed to your opponent at activation.
-●This effect can be activated during the Damage Step.
-●If you control 2(+) copies of Tethys, their effects can all activate in a single Chain when you draw a single Fairy-Type monster.
-●This effect can't activate if you drew a Fairy-Type as Chain Link 2(+).
-●This effect can't activate if you draw a Fairy-Type by Upstart Goblin, which resolves sequentially. The last thing to happen is your opponent gaining 1000 Life Points, not you drawing a Fairy.
+*   This optional Trigger Effect activates & resolves on the field.
+*   1 Fairy-Type monster you JUST drew is revealed to your opponent at activation.
+*   This effect can be activated during the Damage Step.
+*   If you control 2(+) copies of Tethys, their effects can all activate in a single Chain when you draw a single Fairy-Type monster.
+*   This effect can't activate if you drew a Fairy-Type as Chain Link 2(+).
+*   This effect can't activate if you draw a Fairy-Type by Upstart Goblin, which resolves sequentially. The last thing to happen is your opponent gaining 1000 Life Points, not you drawing a Fairy.
             

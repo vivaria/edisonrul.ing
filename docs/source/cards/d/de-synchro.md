@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=De-Synchro
 
 ### Card Rulings
 
-●De-Synchro targets 1 face-up Synchro Monster.
-●If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it Cannot be Special Summoned with De-Synchro, even if it is returned to the GY.
+*   De-Synchro targets 1 face-up Synchro Monster.
+*   If a Synchro Material Monster used in the Synchro Summon is removed from the GY, it Cannot be Special Summoned with De-Synchro, even if it is returned to the GY.
             

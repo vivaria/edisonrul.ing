@@ -28,8 +28,8 @@ Source: https://edisonformat.net/card?name=Elemental%20HERO%20Prisma
 
 ### Card Rulings
 
-● This effect has no cost (This is an erratum).
-● It will resolve without effect if "Elemental HERO Prisma" is not face-up on the field when it resolves. No monster will not be sent from the deck to the GY.
-● It can be activated while the effects of "Macro Cosmos" or "Dimensional Fissure" are applying. The sent monster will be banished.
-● If after resolving this effect, the effects of "Elemental HERO Prisma" are negated (e.g. by "Skill Drain" or "Forbidden Chalice"), it keeps the name of the sent monster.
+*   This effect has no cost (This is an erratum).
+*   It will resolve without effect if "Elemental HERO Prisma" is not face-up on the field when it resolves. No monster will not be sent from the deck to the GY.
+*   It can be activated while the effects of "Macro Cosmos" or "Dimensional Fissure" are applying. The sent monster will be banished.
+*   If after resolving this effect, the effects of "Elemental HERO Prisma" are negated (e.g. by "Skill Drain" or "Forbidden Chalice"), it keeps the name of the sent monster.
             

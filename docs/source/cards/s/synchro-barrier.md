@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Synchro%20Barrier
 
 ### Card Rulings
 
-●Tributing 1 Synchro Monster you control is a cost.
+*   Tributing 1 Synchro Monster you control is a cost.
             

@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Gyaku-Gire%20Panda
 
 ### Card Rulings
 
-●When Gyaku-Gire Panda is equipped with Rod of the Mind's Eye and attacks, the Battle Damage is 1000 points.
+*   When Gyaku-Gire Panda is equipped with Rod of the Mind's Eye and attacks, the Battle Damage is 1000 points.
             

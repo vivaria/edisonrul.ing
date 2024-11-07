@@ -44,5 +44,5 @@ Source: https://edisonformat.net/card?name=Machina%20Gearframe
 ### Card Rulings
 
 These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
-● If both "Machina Gearframe" and the "Machina" monster it is equipped to would be destroyed by the same effect (e.g. vs "Icarus Attack"/"Black Rose Dragon"), the effect to "destroy this card instead" is not applied.
+*   If both "Machina Gearframe" and the "Machina" monster it is equipped to would be destroyed by the same effect (e.g. vs "Icarus Attack"/"Black Rose Dragon"), the effect to "destroy this card instead" is not applied.
             

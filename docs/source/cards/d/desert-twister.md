@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Desert%20Twister
 
 ### Card Rulings
 
-●This card’s effect to destroy 1 Spell or Trap Card on the field targets.
+*   This card’s effect to destroy 1 Spell or Trap Card on the field targets.
             

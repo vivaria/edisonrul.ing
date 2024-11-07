@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Red-Eyes%20Black%20Metal%20Dragon
 
 ### Card Rulings
 
-●If you have a “Red-Eyes B. Dragon” equipped with “Metalmorph” and your opponent activates “Prohibition” and declares “Red-Eyes Black Metal Dragon”, you can't Tribute the “Red-Eyes B. Dragon” to Special Summon “Red-Eyes Black Metal Dragon”.
+*   If you have a “Red-Eyes B. Dragon” equipped with “Metalmorph” and your opponent activates “Prohibition” and declares “Red-Eyes Black Metal Dragon”, you can't Tribute the “Red-Eyes B. Dragon” to Special Summon “Red-Eyes Black Metal Dragon”.
             

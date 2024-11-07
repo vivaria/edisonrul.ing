@@ -24,7 +24,7 @@ Source: https://edisonformat.net/card?name=Major%20Riot
 
 ### Card Rulings
 
-●Both players reveal their hand while resolving Major Riot.
-●The monster returned to your hand by your opponent's card effect is not included in the number of returned monsters.
-●High-Level monsters can't be Set with Major Riot.
+*   Both players reveal their hand while resolving Major Riot.
+*   The monster returned to your hand by your opponent's card effect is not included in the number of returned monsters.
+*   High-Level monsters can't be Set with Major Riot.
             

@@ -36,16 +36,16 @@ Source: https://edisonformat.net/card?name=Andro%20Sphinx
 
 ### Card Rulings
 
-●The Ignition Effect activates & resolves in the hand.
-●This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.
-●Paying 500 Life Points is a cost.
-●The Continuous Effect applies while this card is face-up on the field.
-●This effect can be negated by Skill Drain.
-●The Condition can't be negated.
-●This card in the GY Cannot be Special Summoned face-down by The Shallow Grave.
-●This banished card can be Special Summoned by Return from the Different Dimension.
-●This card can be Special Summoned from the Deck by Reasoning.
-●The Trigger Effect is mandatory.
-●This effect activates & resolves on the field in Substep 7 - End of the Damage Step.
-●This effect activates even if this card is flipped face-down / leaves the field.
+*   The Ignition Effect activates & resolves in the hand.
+*   This card’s effect which allows you to Special Summon it is a Spell Speed 1 effect that you can only activate during your Main Phase 1 or 2.
+*   Paying 500 Life Points is a cost.
+*   The Continuous Effect applies while this card is face-up on the field.
+*   This effect can be negated by Skill Drain.
+*   The Condition can't be negated.
+*   This card in the GY Cannot be Special Summoned face-down by The Shallow Grave.
+*   This banished card can be Special Summoned by Return from the Different Dimension.
+*   This card can be Special Summoned from the Deck by Reasoning.
+*   The Trigger Effect is mandatory.
+*   This effect activates & resolves on the field in Substep 7 - End of the Damage Step.
+*   This effect activates even if this card is flipped face-down / leaves the field.
             

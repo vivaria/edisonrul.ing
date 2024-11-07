@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Jutte%20Fighter
 
 ### Card Rulings
 
-●Jutte Fighter's effect targets 1 Attack Position monster your opponent controls.
+*   Jutte Fighter's effect targets 1 Attack Position monster your opponent controls.
             

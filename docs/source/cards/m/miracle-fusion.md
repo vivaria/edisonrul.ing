@@ -21,10 +21,10 @@ Source: https://edisonformat.net/card?name=Miracle%20Fusion
 
 ### Card Rulings
 
-● Banishing is not a cost.
+*   Banishing is not a cost.
 Banishing happens as part of this effect.
 If "Imperial Iron Wall" is chained to this card, this card resolves without effect.
-● You can always use face-down monsters as Fusion Material.
-● When this card resolves, you must Fusion Summon if able to.
-● Banishing and summoning are sequential. Summoning is the last thing to happen.
+*   You can always use face-down monsters as Fusion Material.
+*   When this card resolves, you must Fusion Summon if able to.
+*   Banishing and summoning are sequential. Summoning is the last thing to happen.
             

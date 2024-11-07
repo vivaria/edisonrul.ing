@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Double%20Dude
 
 ### Card Rulings
 
-●This card’s effect activates in the GY. If “Destiny Hero – Double Dude” is removed from play its effect won't activate.
-●If “Destiny Hero – Double Dude” is destroyed and sent to the GY while in the hand/Deck his effect still activates, and you can Special Summon the 2 “Double Dude Tokens”. He could be destroyed in the hand/Deck by effects like “Neo-Spacian Aqua Dolphin” or “Chain Destruction”.
+*   This card’s effect activates in the GY. If “Destiny Hero – Double Dude” is removed from play its effect won't activate.
+*   If “Destiny Hero – Double Dude” is destroyed and sent to the GY while in the hand/Deck his effect still activates, and you can Special Summon the 2 “Double Dude Tokens”. He could be destroyed in the hand/Deck by effects like “Neo-Spacian Aqua Dolphin” or “Chain Destruction”.
             

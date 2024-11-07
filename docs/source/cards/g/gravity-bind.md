@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Gravity%20Bind
 
 ### Card Rulings
 
-● If you activate this after an attack has been declared, the attack does not continue.
-● If you chain this to "Dimensional Prison", Dimensional Prison still banishes the attacking monster.
+*   If you activate this after an attack has been declared, the attack does not continue.
+*   If you chain this to "Dimensional Prison", Dimensional Prison still banishes the attacking monster.
             

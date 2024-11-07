@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Hammer%20Shot
 
 ### Card Rulings
 
-● The monster is chosen as this card resolves.
+*   The monster is chosen as this card resolves.
             

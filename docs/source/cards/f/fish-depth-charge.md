@@ -23,6 +23,6 @@ Source: https://edisonformat.net/card?name=Fish%20Depth%20Charge
 
 ### Card Rulings
 
-●Fish Depth Charge targets 1 card your opponent controls.
-●If Fish Depth Charge does not destroy the selected card when it resolves, you don't draw.
+*   Fish Depth Charge targets 1 card your opponent controls.
+*   If Fish Depth Charge does not destroy the selected card when it resolves, you don't draw.
             

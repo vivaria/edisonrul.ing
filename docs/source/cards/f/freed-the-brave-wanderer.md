@@ -27,5 +27,5 @@ Source: https://edisonformat.net/card?name=Freed%20the%20Brave%20Wanderer
 
 ### Card Rulings
 
-● If Freed leaves the field before this effect resolves, the target is still destroyed (this is due to a TCG/OCG ruling difference). While Freed is not on the field, consider his ATK to be 1700.
+*   If Freed leaves the field before this effect resolves, the target is still destroyed (this is due to a TCG/OCG ruling difference). While Freed is not on the field, consider his ATK to be 1700.
             

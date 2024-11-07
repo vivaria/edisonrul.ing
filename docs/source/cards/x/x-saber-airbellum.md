@@ -20,6 +20,6 @@ Source: https://edisonformat.net/card?name=X-Saber%20Airbellum
 
 ### Card Rulings
 
-● Your opponent can chain "Gorz the Emissary of Darkness" or "Tragoedia" to this effect.
+*   Your opponent can chain "Gorz the Emissary of Darkness" or "Tragoedia" to this effect.
 This effect resolves (and the random card is chosen) after the Gorz/Tragoedia is Summoned.
             

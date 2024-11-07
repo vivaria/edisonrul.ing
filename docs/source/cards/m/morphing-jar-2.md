@@ -28,7 +28,7 @@ Source: https://edisonformat.net/card?name=Morphing%20Jar
 
 ### Card Rulings
 
-● Discarding happens before drawing, which can cause cards like "Jinzo - Returner" to miss their timing.
+*   Discarding happens before drawing, which can cause cards like "Jinzo - Returner" to miss their timing.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
             

@@ -29,9 +29,9 @@ Source: https://edisonformat.net/card?name=Moon%20Dragon%20Quilla
 ### Card Rulings
 
 The ① effect:
-● If the attacking monster isn't face-up on the field when this effect resolves, no LP are gained.
+*   If the attacking monster isn't face-up on the field when this effect resolves, no LP are gained.
 The ② effect:
-● This effect doesn't activate in any zone. It can activate regardless of where this card physically is.
-● It can't be negated by "Light Imprisoning Mirror".
-● It can be negated by "Divine Wrath", but if it is, this card is not destroyed.
+*   This effect doesn't activate in any zone. It can activate regardless of where this card physically is.
+*   It can't be negated by "Light Imprisoning Mirror".
+*   It can be negated by "Divine Wrath", but if it is, this card is not destroyed.
             

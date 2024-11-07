@@ -29,6 +29,6 @@ Source: https://edisonformat.net/card?name=Dark%20Bribe
 
 ### Card Rulings
 
-● This card can only negate the initial activation of Spell/Trap Cards.
+*   This card can only negate the initial activation of Spell/Trap Cards.
 It can't negate the effect of an already face-up "Royal Oppression".
             

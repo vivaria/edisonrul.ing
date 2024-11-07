@@ -22,5 +22,5 @@ Source: https://edisonformat.net/card?name=Emergency%20Teleport
 
 ### Card Rulings
 
-● If that monster is flipped face-down or becomes Equipped to a monster, "banish it during the End Phase" no longer applies to it.
+*   If that monster is flipped face-down or becomes Equipped to a monster, "banish it during the End Phase" no longer applies to it.
             
