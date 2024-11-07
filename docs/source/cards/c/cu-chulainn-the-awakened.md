@@ -4,11 +4,13 @@
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 
-No rulings found for this card.
+*   This is an Ignition Effect.
+*   Removing from play a monster from your Graveyard is part of the effect, it is not a cost.
+*   This effect targets 1 Normal Monster in your Graveyard.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

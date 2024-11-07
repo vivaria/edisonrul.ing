@@ -4,11 +4,11 @@
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 
-No rulings found for this card.
+*   The damage inflicted by "Cemetery Bomb" is based on the number of cards in the Graveyard when "Cemetery Bomb" resolves, not when it activates.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

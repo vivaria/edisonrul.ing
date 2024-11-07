@@ -4,11 +4,12 @@
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 
-No rulings found for this card.
+*   Even if “DNA Surgery” is active, “Ivy Shackles” will take precedence during your turn.
+*   The effect to draw a card starts a chain.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
