@@ -3,7 +3,7 @@
 # V
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :glob:
 
 v/*
