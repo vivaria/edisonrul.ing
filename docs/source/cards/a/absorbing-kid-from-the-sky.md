@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Absorbing%20Kid%20from%20the%20Sky
 
 ### Card Rulings
 
-●The ●This effect activates in Substep 7 - End of the Damage Step.
+●This effect activates in Substep 7 - End of the Damage Step.
 ●This card must be face-up on the field to activate this effect.
 ●The Level is the original Level printed on the card.
             

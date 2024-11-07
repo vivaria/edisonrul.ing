@@ -44,7 +44,7 @@ This card Cannot be Normal Summoned or Set. ●The Special Summon does not start
 ●You can't Tribute your opponent's Vanity's Fiend for this Summon.
 ●You can't Tribute your opponent's non-FIRE monsters while Gozen Match applies.
 ●You can't Tribute your opponent's non-Fiend-Type monsters while Rivalry of Warlords applies.
-●The ●You can't Special Summon Lava Golem AFTER you Normal Summon / Set a monster.
+●You can't Special Summon Lava Golem AFTER you Normal Summon / Set a monster.
 ●You can't Special Summon Lava Golem if your Normal Summon was negated by Solemn Judgment.
-●The ●This effect deals damage even if this card is flipped face-down / leaves the field / changes control.
+●This effect deals damage even if this card is flipped face-down / leaves the field / changes control.
             

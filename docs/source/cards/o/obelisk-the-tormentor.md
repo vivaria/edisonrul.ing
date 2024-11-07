@@ -49,7 +49,7 @@ Source: https://edisonformat.net/card?name=Obelisk%20the%20Tormentor
 ●The unclassified effect can't be negated.
 ●This Normal (Tribute) Summon of this card can't be negated by Solemn Judgment.
 ●The Special Summon can be negated by Royal Oppression.
-●The ●Spell / Trap Cards and their effects, as well as Monster Effects can't be activated (ex: Book of Eclipse, Black Garden, Skill Drain, Torrential Tribute, Strike Ninja).
+●Spell / Trap Cards and their effects, as well as Monster Effects can't be activated (ex: Book of Eclipse, Black Garden, Skill Drain, Torrential Tribute, Strike Ninja).
 ●VS. Sangan & Ultimate Offering: If Ultimate Offering Tributes Sangan (and 2 monsters) to Normal Summon Obelisk as Chain Link 1, Sangan can't activate its effect, since it would activate in the Summon response timing of Obelisk. If instead Obelisk is Summoned as Chain Link 2+, then Sangan can activate in a new Chain once the current one resolves completely
 ●When Obelisk is successfully Summoned, nothing can be done. Afterwards, the Turn Player enters an open game state and may Synchro Summon, Set a Spell / Trap Card, etc.
 ●This effect does not apply if Obelisk was Special Summoned.

@@ -28,7 +28,7 @@ Source: https://edisonformat.net/card?name=Airknight%20Parshath
 
 ### Card Rulings
 
-●The ●This effect won't apply if Total Defense Shogun attacks this card from Defense Position.
+●This effect won't apply if Total Defense Shogun attacks this card from Defense Position.
 ●The mandatory Trigger Effect activates & resolves on the field.
 ●This effect activates in Substep 5 - After Damage Calculation.
 ●Drawing a card is not optional. You must draw 1 card any time Airknight Parshath inflicts Battle Damage to the opponent’s Life Points. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.

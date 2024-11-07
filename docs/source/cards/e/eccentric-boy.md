@@ -35,7 +35,7 @@ Source: https://edisonformat.net/card?name=Eccentric%20Boy
 ●The altered Level (by Cost Down) of the monster in hand is applied for the Synchro Summon.
 ●If Beast of the Pharaoh was used and the Summon was not negated, its effect can activate.
 ●If Tuningware is used, it can't be treated as a Level 2, but you can activate its effect to draw a card when the Synchro Monster is successfully Synchro Summoned.
-●The ●Example: If Colossal Fighter is destroyed by battle, and Imperial Iron Wall prevents it from being removed from play, its effect will activate in the GY and won't be negated.
+●Example: If Colossal Fighter is destroyed by battle, and Imperial Iron Wall prevents it from being removed from play, its effect will activate in the GY and won't be negated.
 ●If the Synchro Monster is flipped face-down, this effect no longer applies.
 ●If the Synchro Monster is removed from play by Interdimensional Matter Transporter, it is treated as being removed from play by the effect of Eccentric Boy and remains removed from play.
 ●VS. De-Synchro: if the Synchro Monster is not returned to the Extra Deck (because it was removed from play by the effect of Eccentric Boy), you can't Special Summon the Synchro Material Monsters.

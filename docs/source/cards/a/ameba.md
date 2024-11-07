@@ -28,5 +28,5 @@ Source: https://edisonformat.net/card?name=Ameba
 
 ●This card’s effect is not activated when equipped to an opponent’s Relinquished.
 ●If your opponent uses Mind Control on a face-down Ameba and Flip Summons it, when it returns to you during the End Phase, its effect activates and you take 2000 damage.
-●The ●The Condition is reset if this card is flipped face-down / leaves the field.
+●The Condition is reset if this card is flipped face-down / leaves the field.
             

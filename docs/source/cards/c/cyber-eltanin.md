@@ -41,7 +41,7 @@ Source: https://edisonformat.net/card?name=Cyber%20Eltanin
 ●Only LIGHT-Attribute Machine-Type monsters (and Tokens) are removed from play as a cost.
 ●Face-down LIGHT-Attribute Machine-Type monsters are not removed from play.
 ●You can Special Summon Cyber Eltanin even if you only have 1 LIGHT-Attribute Machine-Type monster on your field and/or in your GY.
-●The ●The ATK/DEF become 0 if it is flipped face-down, leaves the field, or Skill Drain negates its effects.
+●The ATK/DEF become 0 if it is flipped face-down, leaves the field, or Skill Drain negates its effects.
 ●The Original ATK of Cyber Eltanin is treated as 0 while it is on the field. If Megamorph is equipped, it will have 0 ATK. When the effect of Megamorph is no longer applied, its ATK returns to 500x the number of monsters removed from play to Special Summon Cyber Eltanin.
 ●The Mandatory Trigger Effect activates in the Summon response timing.
 ●This effect does not affect face-down monsters.

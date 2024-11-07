@@ -39,7 +39,7 @@ Source: https://edisonformat.net/card?name=Ultimate%20Ancient%20Gear%20Golem
 ●The Condition can't be negated.
 ●This card Cannot be Special Summoned from the GY / removed from play.
 ●This card  Cannot be Special Summoned by Summoner of Illusions.
-●The ●Inflicting piercing Battle Damage does not start a chain.
+●Inflicting piercing Battle Damage does not start a chain.
 ●The Continuous Effect starts to apply at the Start of the Battle Step - Attack Declaration.
 ●This effect applies until the end of Substep 7 - End of the Damage Step.
 ●This effect stops applying if “Ancient Gear Golem” attacks and is destroyed by battle (in Substep 4 - Damage Calculation) or by an effect during the Damage Step.

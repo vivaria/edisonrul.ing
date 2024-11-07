@@ -30,7 +30,7 @@ Source: https://edisonformat.net/card?name=Alien%20Dog
 
 ### Card Rulings
 
-●The ●This effect activates in the Summon response timing (like Trap Hole).
+●This effect activates in the Summon response timing (like Trap Hole).
 ●If you wish to use this effect, you can't use Ignition Effect Priority in response to the Summon.
 ●This effect can't activate if the Normal Summon happens as Chain Link 2(+) by Ultimate Offering.
 ●Even if you have more than 1 “Alien Dog” in your hand, you can only activate the effect of 1.

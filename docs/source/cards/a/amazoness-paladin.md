@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Amazoness%20Paladin
 
 ### Card Rulings
 
-●The ●Amazoness Paladin counts herself in her effect, so even by herself she gains +100 ATK.
+●Amazoness Paladin counts herself in her effect, so even by herself she gains +100 ATK.
             

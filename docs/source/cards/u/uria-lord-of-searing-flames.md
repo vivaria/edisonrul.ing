@@ -35,7 +35,7 @@ Source: https://edisonformat.net/card?name=Uria,%20Lord%20of%20Searing%20Flames
 ●The Summon effect does not start a chain.
 ●This card Cannot be Special Summoned from the hand / GY / removed from play.
 ●You can send “Embodiment of Apophis” to the GY while it is a monster to Summon this card.
-●The ●If this effect is negated, this card's ATK becomes 0.
+●If this effect is negated, this card's ATK becomes 0.
 ●The Ignition Effect activates & applies on the field.
 ●This effect targets 1 Set Spell / Trap Card your opponent controls.
 ●The (2C) Condition applies when the effect activates, starting a chain.

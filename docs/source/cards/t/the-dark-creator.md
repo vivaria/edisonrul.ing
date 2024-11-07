@@ -32,6 +32,6 @@ Source: https://edisonformat.net/card?name=The%20Dark%20Creator
 ●The Summon Effect does not start a chain.
 ●This card must first be Special Summoned from the hand by the effect.
 ●Once properly Summoned, this card can be Special Summoned from the GY / removed from play.
-●The ●Removing from play 1 DARK monster is a cost.
+●Removing from play 1 DARK monster is a cost.
 ●This effect targets 1 DARK monster in your GY.
             

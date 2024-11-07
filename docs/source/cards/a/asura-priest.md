@@ -33,7 +33,7 @@ Source: https://edisonformat.net/card?name=Asura%20Priest
 
 ### Card Rulings
 
-●The ●If the activation of this effect is negated (by Light and Darkness Dragon), this effect will activate again until it resolves (even if it resolves without effect due to Skill Drain).
+●If the activation of this effect is negated (by Light and Darkness Dragon), this effect will activate again until it resolves (even if it resolves without effect due to Skill Drain).
 ●The Continuous Effect applies while this card is face-up on the field.
 ●Asura Priest may attack directly if it has not already attacked a monster this turn.
 ●Asura Priest can't attack a monster if it has already attacked directly this turn.

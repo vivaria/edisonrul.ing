@@ -30,7 +30,7 @@ Source: https://edisonformat.net/card?name=Allure%20Queen%20LV7
 
 ### Card Rulings
 
-●The ●This effect targets a face-up monster on your opponent's field.
+●This effect targets a face-up monster on your opponent's field.
 ●If Book of Moon is chained to the activation of Allure Queen LV7's effect to turn the Allure Queen face-down,the target is destroyed. It can't be equipped to a face-down monster.
 ●If “Allure Queen LV7” is flipped face-down after being Special Summoned by the effect of “Allure Queen LV5”, it is no longer treated as having been Special Summoned by “Allure Queen LV5”. So you can no longer use its first effect to equip it with a monster. (However, it is still considered to have been Special Summoned for effects like “Special Hurricane”.)
 ●If “Allure Queen LV7” is Special Summoned by the effect of “Allure Queen LV5”, and is then temporarily removed from play with “Dimensionhole” or “Interdimensional Matter Transporter”, after it returns to the field it can still use its first effect. The fact that it was Special Summoned by “Allure Queen LV5” is not reset.

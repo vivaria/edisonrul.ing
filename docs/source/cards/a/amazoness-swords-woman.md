@@ -28,7 +28,7 @@ Source: https://edisonformat.net/card?name=Amazoness%20Swords%20Woman
 
 ### Card Rulings
 
-●The ●Amazoness Swordswoman only applies her effect to Battle Damage to her controller, so if attacked by a stronger monster, the Amazoness Swordswoman herself is still destroyed as normal.
+●Amazoness Swordswoman only applies her effect to Battle Damage to her controller, so if attacked by a stronger monster, the Amazoness Swordswoman herself is still destroyed as normal.
 ●Damage inflicted to the opponent when Amazoness Swordswoman's effect is activated is Battle Damage, so the opponent can't use Barrel Behind the Door.
 ●When Dark Ruler Ha Des attacks Amazoness Swordswoman, the effect of Amazoness Swordswoman is still resolved.
 ●When a monster affected by Diffusion Wave-Motion attacks Amazoness Swordswoman, the Amazoness Swordswoman's effect is applied and the opponent (who used Diffusion Wave-Motion) takes the damage dealt to Life Points. Likewise, the controller of Spear Dragon takes damages when Spear Dragon battles Amazoness Swordswoman (or the controller of a monster equipped with Fairy Meteor Crush, or who used Meteorain).

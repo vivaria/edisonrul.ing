@@ -24,6 +24,6 @@ Source: https://edisonformat.net/card?name=Advance%20Force
 
 ### Card Rulings
 
-●The ●You can still Tribute 2 monsters to Tribute Summon a Level 7 or higher monster if you want to.
+●You can still Tribute 2 monsters to Tribute Summon a Level 7 or higher monster if you want to.
 ●Only the controller of “Advance Force” gets the effect.
             

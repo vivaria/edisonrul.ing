@@ -25,7 +25,7 @@ Source: https://edisonformat.net/card?name=Agido
 
 ### Card Rulings
 
-●The ●This effect activates in Substep 7 - End of the Damage Step.
+●This effect activates in Substep 7 - End of the Damage Step.
 ●Agido can Special Summon itself.
 ●This effect does not target.
             

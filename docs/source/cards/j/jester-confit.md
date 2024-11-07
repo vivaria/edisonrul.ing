@@ -29,7 +29,7 @@ Source: https://edisonformat.net/card?name=Jester%20Confit
 ### Card Rulings
 
 ●The Summon Effect does not start a Chain.
-●The ●This effect targets 1 face-up monster your opponent controls.
+●This effect targets 1 face-up monster your opponent controls.
 ●If either “Jester Confit” or the target is not face-up on the field, neither is returned to the hand.
 ●If your opponent has no face-up monsters. This effect activates, but no cards return to the hand.
 ●If your opponent takes control of this card, they activates this effect during your End Phase.

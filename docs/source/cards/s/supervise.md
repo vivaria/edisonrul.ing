@@ -32,7 +32,7 @@ Source: https://edisonformat.net/card?name=Supervise
 
 ●The Condition can't be negated.
 ●This card can be equipped to a Gemini Monster which has gained its effects.
-●The ●If Spell Canceller negates this effect, the equipped Gemini Monster can be 'Gemini Summoned'.
+●If Spell Canceller negates this effect, the equipped Gemini Monster can be 'Gemini Summoned'.
 ●The mandatory Trigger Effect activates & resolves in the GY.
 ●This effect can activate in the Damage Step.
 ●This effect targets 1 Normal / Gemini Monster in the GY. You can't target a non-Effect Fusion / Synchro Monster.

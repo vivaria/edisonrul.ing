@@ -34,7 +34,7 @@ Source: https://edisonformat.net/card?name=Gandora%20the%20Dragon%20of%20Destruc
 ### Card Rulings
 
 ●The Condition can't be negated. This is not an effect.
-●The ●This effect resolves sequentially: destroy and remove from play all other cards on the field, then Gandora gains 300 ATK for each card destroyed.
+●This effect resolves sequentially: destroy and remove from play all other cards on the field, then Gandora gains 300 ATK for each card destroyed.
 ●Cards destroyed by this effect are removed from play face-up.
 ●You can't activate this effect if there are no other cards on the field.
 ●You can activate this effect more than once per turn.

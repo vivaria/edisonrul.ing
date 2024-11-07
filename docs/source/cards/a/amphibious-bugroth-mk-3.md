@@ -23,5 +23,5 @@ Source: https://edisonformat.net/card?name=Amphibious%20Bugroth%20MK-3
 
 ### Card Rulings
 
-●The ●When Umi is on the field, and Amphibious Bugroth MK-3 declares a direct attack, and Umi is destroyed during the Battle Step, Amphibious Bugroth MK-3 can no longer attack directly, so a replay occurs.
+●When Umi is on the field, and Amphibious Bugroth MK-3 declares a direct attack, and Umi is destroyed during the Battle Step, Amphibious Bugroth MK-3 can no longer attack directly, so a replay occurs.
             

@@ -43,7 +43,7 @@ Source: https://edisonformat.net/card?name=Arcana%20Force%20EX%20-%20The%20Light
 ●Sending 3 monsters you control to the GY is a cost. You can't send Monster Tokens or a face-up Battle Fader (Special Summoned by its effect) to the GY.
 ●You can't Special Summon this card from the GY / banished, even if properly Summoned.
 ●You can't Special Summon this card from the hand / Deck by another effect.
-●The ●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card won't forget which effect is gained while face-up.
+●When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by Skill Drain, but this card won't forget which effect is gained while face-up.
 ●If the heads / tails effect of Arcana Force EX - The Light Ruler is activated and an effect is chained that removes it from the field, the effect of Arcana Force EX - The Light Ruler still resolves.
 ●When Arcana Force EX - The Light Ruler is Special Summoned and its effect activates, if an effect is chained that flips it face-down or removes it from the field, the effect of Arcana Force EX - The Light Ruler disappears and you don't toss a coin.
 ●If Skill Drain is activated after Arcana Force EX - The Light Ruler is Special Summoned, the effect of Arcana Force EX - The Light Ruler is negated. If Skill Drain is later negated or removed from the field, the effect of Arcana Force EX - The Light Ruler is not reapplied.

@@ -37,7 +37,7 @@ Source: https://edisonformat.net/card?name=Dark%20Ruler%20Ha%20Des
 ●The Condition can't be negated.
 ●Dark Ruler Ha Des Cannot be Special Summoned face-down by The Shallow Grave.
 ●Dark Ruler Ha Des can be Special Summoned by Return from the Different Dimension.
-●The ●This effect can't be negated by Divine Wrath, but CAN be negated by Skill Drain.
+●This effect can't be negated by Divine Wrath, but CAN be negated by Skill Drain.
 ●This effect does not apply if Zombie World changes to your Fiend-Types into Zombie-Types.
 ●Monster destroyed by battle are marked for destruction at the end of Damage Calculation.
 ●Effects that activate in Substep 5 - After Damage Calculation are negated.

@@ -36,7 +36,7 @@ Source: https://edisonformat.net/card?name=Evil%20HERO%20Dark%20Gaia
 ●ONLY Dark Fusion / Dark Calling can Special Summon this card.
 ●This card Cannot be Special Summoned from the GY / Removed from Play area.
 ●Fusion Material substitutes (ex: King of the Swamp) can't be used because this card does not specifically name cards (it specifies 1 Fiend-Type monster + 1 Rock-Type monster).
-●The ●If Evil Hero Dark Gaia is flipped face-down / leaves the field, its ATK becomes 0.
+●If Evil Hero Dark Gaia is flipped face-down / leaves the field, its ATK becomes 0.
 ●Determinine the ATK of Evil HERO Dark Gaia using the monsters' total Original (printed) ATK.
 ●Fusion Material Monster's with ? ATK are treated as having 0 ATK.
 ●The mandatory Trigger Effect activates in at the Start of the Battle Step - Attack Declaration.

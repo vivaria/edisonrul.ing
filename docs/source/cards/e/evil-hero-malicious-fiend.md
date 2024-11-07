@@ -36,7 +36,7 @@ Evil Hero Malicious Edge + 1 Level 6 or higher Fiend-Type monster●The Conditio
 ●ONLY Dark Fusion / Dark Calling can Special Summon this card.
 ●This card Cannot be Special Summoned from the GY / Removed from Play area.
 ●Fusion Material substitutes (ex: King of the Swamp) CAN be used in place of Evil Hero Malicious Fiend, but NOT in place of 1 Level 6 or higher Fiend-Type monster.
-●The ●All face-down monsters are flipped simultaneously. Flip Effects still activate and form a chain.
+●All face-down monsters are flipped simultaneously. Flip Effects still activate and form a chain.
 ●If your opponent chooses not to conduct their Battle Phase, this effect is not applied.
 ●Monsters Special Summoned during your opponent's Battle Phase will be affected.
 ●If a monster's Battle Position is changed to Defense Position at the end of the Battle Phase (Goblin Attack Force, etc.), it will be shifted into Attack Position.
