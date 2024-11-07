@@ -10,3 +10,20 @@
     *   This effect will activate even during the Damage Step.
     *   If used in a Synchro Summon, this effect must activate; you cannot claim Ignition Effect Priority to activate the Ignition Effect of the Synchro Monster (ex: “Brionac, Dragon of the Ice Barrier”).
     *   If used to Synchro Summon “Mist Wurm”, both mandatory Trigger Effects activate: “Goblin Zombie” (Chain Link 1) activates first, then “Mist Wurm” (Chain Link 2) if the Synchro Summon is successful.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Goblin%20Zombie
+
+### Edison-Accurate PSCT
+
+> ① If this card inflicts battle damage to your opponent: Send the top card of their Deck to the GY.
+> ② If sent from the field to your GY: Add 1 Zombie with 1200 or less DEF from your Deck to your hand.
+
+### Card Rulings
+
+● Both of these effects are mandatory.
+● If this card is used as Synchro Material for "Brionac, Dragon of the Ice Barrier",
+this card's ② effect must trigger. Because of this, you don't retain Ignition Priority,
+and can't activate Brionac's effect until Goblin Zombie has finished resolving.
+            

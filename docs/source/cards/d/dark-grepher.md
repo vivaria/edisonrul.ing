@@ -8,3 +8,18 @@
 *   The ① Ignition Effect starts a chain.
     *   Discarding 1 DARK monster is a cost.
     *   This effect can be used while "Macro Cosmos" is active. The discarded DARK Monster and the DARK Monster sent from the Deck are both removed from play.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dark%20Grepher
+
+### Edison-Accurate PSCT
+
+> ① You can Special Summon this card (from your hand) by discarding 1 Level 5 or higher DARK.
+> ② Once per turn: You can discard 1 DARK; send 1 DARK from your Deck to the GY.
+
+### Card Rulings
+
+● When you Summon a monster, you can activate any Ignition Effect using your Ignition Priority.
+This means that you can Summon this card by discarding "Destiny HERO - Malicious", then activate that Malicious' effect in your GY immediately, before "D.D. Crow" can be chained to it.
+            

@@ -10,3 +10,20 @@
     *   This cannot negate the activation of Spell Card Effects (ex: "Blaze Accelerator").
     *   The targeted Psychic-Type can be on the field / in the Graveyard / removed from play.
     *   This cannot negate the activation of a Spell / Trap Card that targets more than 1 Psychic-Type, or that simply does not target \[[REF](https://yugipedia.com/wiki/Forum:Icarus_Attack_vs._Thought_Ruler)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Thought%20Ruler%20Archfiend
+
+### Edison-Accurate PSCT
+
+> 1 Tuner + 1+ non-Tuner monsters
+> ① If this card destroys a monster by battle and sends it to the GY:
+> Gain LP equal to that monster's original ATK (even if it is no longer in the GY).
+> ② If a Spell/Trap Card is activated that targets 1 exactly Psychic (anywhere) (Quick): You can pay 1000LP; negate the activation, and if you do, destroy it.
+
+### Card Rulings
+
+● The ② effect can only negate cards, not effects. It can also only negate cards which target exactly 1 Psychic (and no other cards).
+● The ② effect can negate cards which target Psychics anywhere, even in either GY.
+            

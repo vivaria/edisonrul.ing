@@ -7,3 +7,17 @@
 *   If this card is Chained to a card / effect (such as "Cannon Soldier") that Tributed a monster(s) as cost, that effect still resolves since the activation cost was already paid.
 *   If this card is Chained to a Ritual Spell Card, it cannot Tribute monsters when it resolves, but it can still remove from play the "Djinn" monsters if their Levels would allow the Ritual Summon to be performed.
 *   Fusion and Synchro Summons can still be performed, as the Material are not Tributed.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Mask%20of%20Restrict
+
+### Edison-Accurate PSCT
+
+> ① Monsters can't be Tributed.
+
+### Card Rulings
+
+● This card stops Tribute Summoning, Tributing to activate a card or effect, Tributing to Ritual Summon a Ritual Monster, etc.
+● Sending Materials to the GY to Synchro/Fusion Summon is not "tributing", so this card does not prevent Synchro/Tribute Summons.
+            

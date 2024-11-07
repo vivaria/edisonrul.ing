@@ -6,3 +6,18 @@
     *   This effect activates in Substep 7 - End of the Damage Step.
     *   "Agido" can Special Summon itself.
     *   This effect does not target.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Agido
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The ●This effect activates in Substep 7 - End of the Damage Step.
+●Agido can Special Summon itself.
+●This effect does not target.
+            

@@ -22,3 +22,31 @@
 *   You can Tribute “Majestic Star Dragon” to negate an opponent’s card even if they control no cards to be destroyed.
 *   You can use “Stardust Dragon” as a Synchro Material Monster for “Majestic Star Dragon” even if it’s being treated as a Tuner.
 *   You can Summon “Majestic Star Dragon” if “Majestic Dragon” is being treated as a non-Tuner and “Stardust Dragon” is being treated as a Tuner.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Majestic%20Star%20Dragon
+
+### Edison-Accurate PSCT
+
+> Majestic Dragon" + "Stardust Dragon" + 1 non-Tuner
+> ① If your opponent activates a Card/Effect (Quick): You can Tribute this card; negate the activation, and if you do, destroy all cards they control.
+> ② Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, negate its effects, and if you do, this turn, you can activate 1 of its effects as this card's effect.
+> ③ During the End Phase: Target 1 "Stardust Dragon" in your GY; return this card from the field to the Extra Deck (regardless),
+> then Special Summon that target.
+
+### Card Rulings
+
+The ① effect:
+● You can activate this effect even if your opponent controls no cards.
+The ② effect:
+● You can't negate the effects of a monster which already has its effects negated.
+● You can only activate 1 of the target's effects as this card's effect
+(If targeting "Phantom of Chaos", you can "copy" another effect, but not activate that "copied" effect).
+● If negating a Gemini Monster's effect, that monster becomes an Effect Monster
+(regardless of whether it gained its effects or not) (You can't Normal Summon Majestic Star Dragon).
+● If you negate a "Gladiator Beast" monster's effect, you can't shuffle this card into the Main Deck,
+but you can shuffle it into the Extra deck (doing so is only legal if you are a Highly Based Duelist (HBD)).
+The ③ effect:
+● Even if there is no "Stardust Dragon" in your GY, the effect to return this card to the Extra Deck will still activate, and this card will still return to the Extra Deck.
+            

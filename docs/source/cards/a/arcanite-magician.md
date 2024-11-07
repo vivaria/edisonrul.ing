@@ -11,3 +11,19 @@
     *   Removing 1 Spell Counter from a card you control is a cost.
     *   This effect targets 1 card your opponent controls.
     *   This effect can be used more than once per turn.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Arcanite%20Magician
+
+### Edison-Accurate PSCT
+
+> 1 Tuner + 1 or more non-Tuner Spellcasters
+> ① If Synchro Summoned: Place 2 Spell Counters on it.
+> ② Gains 1000 ATK for each Spell Counter on it.
+> ③ You can remove 1 Spell Counter from your field, then target 1 card your opponent controls; destroy that target.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

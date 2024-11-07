@@ -11,3 +11,23 @@
     *   This effect targets 1 Normal / Gemini Monster in the Graveyard. You cannot target a non-Effect Fusion / Synchro Monster.
     *   This effect will still activates "Dust Tornado" destroys "Supervise" before it becomes equipped.
     *   If this card and the equipped Gemini Monster are destroyed together, you can Special Summon it.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Supervise
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The Condition can't be negated.
+●This card can be equipped to a Gemini Monster which has gained its effects.
+●The ●If Spell Canceller negates this effect, the equipped Gemini Monster can be 'Gemini Summoned'.
+●The mandatory Trigger Effect activates & resolves in the GY.
+●This effect can activate in the Damage Step.
+●This effect targets 1 Normal / Gemini Monster in the GY. You can't target a non-Effect Fusion / Synchro Monster.
+●This effect will still activates Dust Tornado destroys Supervise before it becomes equipped.
+●If this card and the equipped Gemini Monster are destroyed together, you can Special Summon it.
+            

@@ -14,3 +14,17 @@
     *   This applies even if the ① effect failed to destroy the target.
     *   This applies even if a card/effect is chained to the ① effect that destroys "Blaze Accelerator".
     *   This applies to monster unaffected by Spell Cards / Effects (ex: "Horus the Black Flame Dragon LV6").
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Blaze%20Accelerator
+
+### Edison-Accurate PSCT
+
+> ① You can target 1 monster your opponent controls; send 1 Pyro with 500 or less ATK from your hand to the GY, and if you do, destroy that target
+> (You can't attack during the turn you activate this effect).
+
+### Card Rulings
+
+● You can't activate this card's effect in the same chain in which the card itself is activated in.
+            

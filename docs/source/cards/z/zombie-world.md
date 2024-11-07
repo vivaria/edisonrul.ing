@@ -12,3 +12,17 @@
 *   VS. "[Rivalry of Warlords](https://yugipedia.com/wiki/Rivalry_of_Warlords)": You cannot Normal / Special Summon a non-Zombie-Type monster from your hand / Deck / Graveyard / removed from play while you control a face-up Zombie-Type monster.
 *   VS. "[DNA Surgery](https://yugioh.fandom.com/wiki/DNA_Surgery)": Whichever card resolved most recently applies its effect.
 *   VS. "[Solidarity](https://yugipedia.com/wiki/Solidarity)": The ATK gain applies if the original (printed) Type of monsters in your Graveyard match.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Zombie%20World
+
+### Edison-Accurate PSCT
+
+> ① All monsters on the field and in the GYs become Zombies.
+> ② Neither player can Tribute Summon monsters face-up, except Zombies.
+
+### Card Rulings
+
+● Players can still Tribute Set non-Zombies while this effect is applying.
+            

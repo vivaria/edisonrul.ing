@@ -2,3 +2,16 @@
 
 *   You can activate the effect of "Charm of Shabti" during the Damage Step.
 *   "Charm of Shabti" is like a reverse-"Kuriboh": you take damage from the attack as normal, but your monster is unharmed.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Charm%20of%20Shabti
+
+### Edison-Accurate PSCT
+
+> ① (Quick): You can discard this card; until the End Phase, "Gravekeeper's" monsters you control can't be destroyed by battle.
+
+### Card Rulings
+
+● Since this is a Quick Effect, you can use it during Damage Calculation.
+            

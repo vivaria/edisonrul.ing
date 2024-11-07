@@ -14,3 +14,17 @@
 *   Returningcontrol of the monster in the End Phase does not start a chain, this occurs even if the monster was flipped face-up / face-down.  
     
 *   A card with an effect of "Control of this face-up card on the field cannot switch" cannot switch control while face-up under any circumstances. So, if a face-down Botanical Lion changes control due to Mind Control and is then flipped face-up, the lingering part of the effect of Mind Control will not apply during the End Phase and control of Botanical Lion will not return to the original owner.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Mind%20Control
+
+### Edison-Accurate PSCT
+
+> ① Target 1 monster your opponent controls; take control of that target until the End Phase, but it can't declare an attack or be Tributed.
+
+### Card Rulings
+
+● Even if the monster is flipped face-down, this card will take control of it, and control will return in the End Phase.
+● Even if the monster is flipped face-down, it still can't be tributed nor declare an attack.
+            

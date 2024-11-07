@@ -7,3 +7,20 @@
     *   This effect WILL NOT trigger in response to the effect of face-up Spell Card (ex: "Black Garden").
     *   This effect WILL NOT trigger if "Dark Horus" is flipped face-down before it can activate its effect.
     *   This effect WILL NOT resolve if "Dark Horus" is flipped face-down before resolving its effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dark%20Horus
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The optional Trigger Effect activates AFTER a Spell Card's activation resolved (starting a new chain).
+●This effect CAN miss the timing if Chain Link 1 was NOT the activation of a Spell Card.
+●This effect won't trigger in response to the effect of face-up Spell Card (ex: Black Garden).
+●This effect won't trigger if Dark Horus is flipped face-down before it can activate its effect.
+●This effect won't resolve if Dark Horus is flipped face-down before resolving its effect.
+            

@@ -20,3 +20,28 @@
 *   The ("Yellow Gadget") Trigger Effect is mandaatory.
     *   This effect activates & resolves on the field in Substep 7 - After Damage Calculation.
     *   This effect activates even if this card is flipped face-down / leaves the field.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Ancient%20Gear%20Gadjiltron%20Dragon
+
+### Edison-Accurate PSCT
+
+> ① While this card is attacking, the opponent can't activate Spell/Trap Cards until the end of the Damage Step.
+> ② If this card was Tribute Summoned by Tributing a "Gadget" monster, it gains the appropriate effect.
+> ● Green Gadget: Inflicts Piercing Damage.
+> ● Red Gadget: If this card inflicts Battle Damage to your opponent: They take 400 damage.
+> ● Yellow Gadget: If this card destroys an opponent's monster by battle: They take 600 damage.
+
+### Card Rulings
+
+About the ① effect:
+
+● It is a Continuous Effect, it applies from attack declaration until the Damage Step ends.
+
+● Spell/Trap effects may still be activated (e.g. the effect of an already activated "Ultimate Offerring"/"Royal Oppression" or the GY effect of "Skill Successor"), the Continuous Effect of Traps will also continue to apply.
+
+● After the Damage Step ends, it returns to the Battle Step. Then, the turn player retains priority to declare an attack, there is not a window for the opponent to activate a Spell/Trap inbetween two consecutive "Ancient Gear" attacks.
+
+● If this card is destroyed by battle, this effect stops applying at the start of substep 6 of the Damage Step.
+            

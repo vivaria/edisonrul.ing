@@ -12,3 +12,21 @@
     *   You can activate "Archlord Zerato"'s effect even if "The Sanctuary in the Sky" is not on the field (and pay cost), but the effect will not resolve.
     *   "The Sanctuary in the Sky" MUST be on the field to resolve this effect.
     *   You can activate this effect more than once per turn.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Archlord%20Zerato
+
+### Edison-Accurate PSCT
+
+> © Cannot be Normal Summoned/Set.
+> © Must be Special Summoned by Tributing 1 face-up "Warrior of Zera" you control,
+> while "The Sanctuary in the Sky" is face-up on the field.
+> ① You can discard 1 LIGHT to the GY; destroy all monsters your opponent controls
+> (Activate and resolve only if you control "The Sanctuary in the Sky").
+
+### Card Rulings
+
+● The only way you can Special Summon this card is via its own procedure.
+Even if it was initially summoned that way, you still can't summon it with card effects.
+            

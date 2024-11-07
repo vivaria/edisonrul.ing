@@ -8,3 +8,17 @@
 *   A monster affected by "Brain Control" that is flipped face-down later (by "Book of Moon") in the turn is still returned during the End Phase.
 *   If you control your opponent’s monster with "Brain Control" and remove it from play with "Dimensionhole", during your following Standby Phase when the monster is returned to your side of the field it immediately returns to your opponent’s control.
 *   You cannot activate "Brain Control" if your Monster Card Zones are all occupied.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Brain%20Control
+
+### Edison-Accurate PSCT
+
+> ① Pay 800 LP, then target 1 face-up monster your opponent controls; take control of that target (until the End Phase).
+
+### Card Rulings
+
+● If that target isn't face-up in your opponent's control when this resolves, control of it does not change.
+● If that monster is later flipped face-down, control still returns during the End Phase.
+            

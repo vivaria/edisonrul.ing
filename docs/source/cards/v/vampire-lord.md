@@ -22,3 +22,16 @@
 *   It is the controller of Vampire Lord, not necessarily the owner, that names a card type.
 *   When you name “Spell” for Vampire Lord, it includes Normal, Quick-Play, Field, Ritual, Continuous, and Equip Spell Cards, and the same is true for Traps.
 *   Card effects like Penguin Knight, Sword of Deep-Seated, and Cockroach Knight will activate their effects when sent to the Graveyard by Vampire Lord’s effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Vampire%20Lord
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

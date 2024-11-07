@@ -13,3 +13,26 @@
 *   The Ⓒ Condition disappears when "Battle Fader" is flipped face-down.
     *   If a card effect would remove this card from the field, it is banished by this Condition instead.
     *   If this card is targeted by "Caius the Shadow Monarch"'s effect, no Effect Damage is inflicted \[[REF](https://www.pojo.biz/board/showthread.php?t=854459)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Battle%20Fader
+
+### Edison-Accurate PSCT
+
+> ① If an opponent's monster declares a direct attack:
+> You can Special Summon this card from your hand, then end the Battle Phase (but banish it if it leaves the field).
+
+### Card Rulings
+
+On Activating the effect:
+● You can't activate this effect during a Replay. You can only activate it on an initial Attack declaration.
+● It this effect is negated, it remains in the hand, and the Battle Phase doesn't end.
+● This effect can be negated by "Royal Oppression", in which case it will be destroyed.
+● You can only activate 1 trigger effect in your hand per chain, so you can only activate 1 "Battle Fader" per chain.
+
+On Banishing this card:
+● Once Summoned, it can't be sent to the GY as a cost (but it can be tributed, used as material, etc)
+● Vs "Interdimensional Matter Transporter": This card won't return to the field.
+● Vs "Caius the Shadow Monarch": If this card is banished this way, no damage is dealt.
+            

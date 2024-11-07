@@ -17,3 +17,26 @@
     *   if "Geartown" was destroyed by its controller activating a new Field Spell Card \[[REF](https://www.pojo.biz/board/showpost.php?p=19974049&postcount=3)\].
     *   if "Geartown" was destroyed as Chain Link 2+.
     *   if "Geartown" was destroyed as the first part of an effect that resolves sequentially. If "[Ancient Fairy Dragon](https://yugipedia.com/wiki/Ancient_Fairy_Dragon)" destroys "Geartown" and gains 1000 Life Points, then also adds a Field Spell from Deck to hand, "Geartown" cannot activate its effect because it has missed the timing.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Geartown
+
+### Edison-Accurate PSCT
+
+> ① "Ancient Gear" monsters can be Tribute Summoned face-up for 1 less Tribute.
+> ② When destroyed and sent to the GY: You can Special Summon 1 "Ancient Gear" monster from your hand/Deck/GY.
+
+### Card Rulings
+
+● You can't Tribute Set using the ① effect.
+
+● In Edison, there can only ever be 1 face-up Field Spell on the field.
+● If you control this, and you activate another Field Spell:
+This card is destroyed, and its ② misses its timing.
+● If you control this, and your opponent activates another Field Spell:
+This card is destroyed, and its ② activates (it does not miss its timing).
+● If you Set another Field Spell while this card is in the Field Spell Zone (face-up or face-down), this card is destroyed, and its ② effect can be activated.
+You can read more about Timing here:
+https://edisonformat.net/rules/compendium/missing-the-timing
+            

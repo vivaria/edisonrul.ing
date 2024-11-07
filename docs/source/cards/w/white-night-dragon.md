@@ -10,3 +10,19 @@
     *   This effect does not target.
     *   If you control your opponent’s monster with “Snatch Steal” while you have “White Night Dragon” in play and your opponent attacks the equipped monster, if you send “Snatch Steal” to the Graveyard to change the attack target no replay occurs.
     *   If this effect is negated by “Skill Drain,” a replay occurs.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=White%20Night%20Dragon
+
+### Edison-Accurate PSCT
+
+> ① If a Spell/Trap Card that targets this card is activated (Quick):
+> Negate the activation, and if you do, destroy it.
+> ② If another face-up monster you control is targeted for an attack:
+> You can send 1 Spell/Trap you control to the GY; change the attack target to this card.
+
+### Card Rulings
+
+● The ① effect is mandatory.
+            

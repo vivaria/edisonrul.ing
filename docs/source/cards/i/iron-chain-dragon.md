@@ -8,3 +8,19 @@
 *   The ② mandatory Trigger Effect activates in Substep 5 - After Damage Calculation.
     *   There is no cost. The top 3 cards of your opponent's Deck are milled when this effect resolves.
     *   This effect applies while "Macro Cosmos" is active. The top 3 cards are removed from play instead.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Iron%20Chain%20Dragon
+
+### Edison-Accurate PSCT
+
+> ① You can banish all "Iron Chain" monster from your GY, aind if you do, this card gains 200 ATK for each card banished this way, until the End Phase.
+> ② If this card inflicts Battle Damage to your opponent: Send the top 3 cards of their Deck to the GY.
+
+### Card Rulings
+
+● Banishing monsters is part of the effect, not a cost. It happens when the ① resolves.
+● If there are no "Iron Chain" monsters in your GY, you cannot activate the ①.
+●The ② is mandatory.
+            

@@ -8,3 +8,18 @@
 *   The ② Continuous Effect does not activate.
     *   This card can still be destroyed by card effects, like that of “Ninja Grandmaster Sasuke”.
     *   If a face-down “Marshmallon” attacked while “Gorgon’s Eye” applies will have its effects negated.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Marshmallon
+
+### Edison-Accurate PSCT
+
+> ① Can't be destroyed by battle.
+> ② After Damage Calculation, if this card was attacked, and was face-down at the start of the Damage Step:
+> The attacking player takes 1000 damage.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

@@ -4,3 +4,16 @@
 
 *   While "Metallizing Parasite - Lunatite" is equipped to a monster, and "Final Destiny" is activated, all monsters are destroyed except for the monster equipped with "Metallizing Parasite - Lunatite".
 *   If you equip "Metallizing Parasite - Lunatite" to a monster that has been affected by "Limiter Removal", the monster is still destroyed during the End Phase by "Limiter Removal"'s effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Metallizing%20Parasite%20-%20Lunatite
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+            

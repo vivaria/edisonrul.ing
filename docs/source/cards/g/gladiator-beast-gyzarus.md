@@ -20,3 +20,25 @@ _Ⓢ This card can only be Special Summoned from your Fusion Deck by returning t
     *   This effect CANNOT be activated if, after battling, Gyzarus (or any Gladiator Beast monster) was flipped face-down, even if it was flipped face-up prior to the End Step of the Battle Phase.
     *   You must have 2+ "Gladiator Beasts" in your Deck not named "Gladiator Beast Bestiari" to activate & resolve this effect.
     *   Returning Gyzarus to the Extra Deck is a cost.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Gyzarus
+
+### Edison-Accurate PSCT
+
+> Gladiator Beast Bestiari" + 1 "Gladiator Beast" monster
+> Ⓢ Must first be Special Summoned (from your Extra Deck)
+> by shuffling the above cards you control into the Deck (You don't use "Polymerization").
+> ① If this card is Special Summoned:You can target up to 2 cards on the field; destroy them.
+> ② At the end of the Battle Phase, if this battled:
+> You can shuffle it into the Deck; Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Bestiari".
+
+### Card Rulings
+
+● “Battling” requires this card to be involved in Damage Calculation
+(If this card's attack is negated, the ② effect can't activate).
+● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase,
+they don’t go on the same Chain (they each activate, one after another, each on their own Chain).
+● If this card was originally Special Summoned by its own procedure, it can still later be Summoned by card effects.
+            

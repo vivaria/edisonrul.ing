@@ -13,3 +13,21 @@
     *   This effect will NOT activate if "Dupe Frog" was sent to the Graveyard as Chain Link 2(+).
     *   This effect WILL activate if "Dupe Frog" is destroyed by Battle and sent to the Graveyard.
     *   This effect WILL activate if "Dupe Frog" is sent to the Graveyard as the last part of Chain Link 1.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dupe%20Frog
+
+### Edison-Accurate PSCT
+
+> ① This card's name becomes "Des Frog" while face-up on the field.
+> ② Your opponent's Monsters can't target any monsters for attacks, except this one.
+> ③ When sent from the field to the GY: You can add 1 "Frog" monster from your Deck/GY to your hand, except "Dupe Frog".
+
+### Card Rulings
+
+● If you control 2 or more "Dupe Frog", your opponent can't attack any monsters (however, this doesn't prevent them from attacking directly with cards like "Drill Warrior").
+● If this card is tributed for the effect of "Substitoad", it will miss its timing.
+You can read more about Timing here:
+https://edisonformat.net/rules/compendium/missing-the-timing
+            

@@ -8,3 +8,18 @@
 *   The ② Continuous Effect does not activate.
     *   Your opponent cannot activate cards / effects that remove cards in the Graveyard(s) from play, whether as cost or as part of their effect.
     *   Your opponent cannot Summon monsters like "Chaos Sorcerer".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Kycoo%20the%20Ghost%20Destroyer
+
+### Edison-Accurate PSCT
+
+> ① If this card inflicts Battle Damage:
+> You can target up to 2 Monsters in their GY; Banish those targets.
+> ② Your opponent can't banish cards from either GY.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

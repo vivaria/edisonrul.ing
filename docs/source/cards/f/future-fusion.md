@@ -23,3 +23,21 @@
     *   If the Fusion Monster is flipped face-down / leaves the field, thiis effect no longer applies to it.
 *   The ③ Continuous-like Effect destroys "Future Fusion" instantly without starting a chain.
     *   If the Fusion Monster leaves the field, but is not destroyed (by "Dark Core"), do not apply this effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Future%20Fusion
+
+### Edison-Accurate PSCT
+
+> ① If this card is activated:
+> Reveal 1 Fusion Monster from your Extra Deck, and send its Materials from your Deck to GY, and, during your 2nd Standby Phase after activation, Fusion Summon 1 Monster from your Extra Deck with the same name as that revealed monster, and target it with this card.
+> ③ If this leaves the field, destroy that monster.
+> ④ If that monster is destroyed, destroy this card.
+
+### Card Rulings
+
+● If you can't Special Summon, you can't activate this card.
+● This card’s Special Summon can't be negated by “Thunder King Rai-Oh” or “Horn of Heaven”.
+● You can chain “Royal Oppression” to this card’s activation. (but not when the Monster is Fusion Summoned).
+            

@@ -7,3 +7,16 @@
     *   This does not affect face-down Machines.
     *   This does not affect Machine-Types treated as Equip Spell Cards (such as Union Monsters).
     *   If your opponent controls “Kycoo the Ghost Destroyer”, Machines in the Graveyard are not removed from play, but Machines on the field can still be removed from play by its effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=System%20Down
+
+### Edison-Accurate PSCT
+
+> ① Pay 1000 LP; banish all Machines your opponent controls and in their GY.
+
+### Card Rulings
+
+● Those cards are banished, not destroyed.
+            

@@ -27,3 +27,24 @@
 *   NOTE: This card received an erratum with [Problem-Solving Card Text](https://yugiohblog.konami.com/articles/?p=4514) in Astral Pack 2 (2013). The TCG rulings were updated, changing the ③ Trigger Effect so that both parts resolved simultaneously. In Edison Format, play with the same rules the OCG used and resolve this effect sequentially.
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Light%20and%20Darkness%20Dragon
+
+### Edison-Accurate PSCT
+
+> ① Cannot be Special Summoned.
+> ② While face-up on the field, this card is also DARK.
+> ③ Once per Chain, if a Spell/Trap Card, or Monster Effect is activated (Quick):
+> This card loses exactly 500 ATK/DEF and that activation is negated.
+> ④ If this card is destroyed and sent to the GY: Target 1 monster in your GY (if possible); destroy all cards you control, also, after that, Special Summon that monster (if any).
+
+### Card Rulings
+
+● For the mandatory ③ effect to resolve, this card must be able to both negate the activation and also lose exactly 500 ATK and 500 DEF. If you can’t do either, you do neither.
+● Vs Spirit Monsters, Lyla, Treeborn Frog, Vayu, etc:
+These trigger effects will be negated by this card’s ③ effect, and can then trigger again.
+(This can “loop” until Light and Darkness Dragon can’t lose any more ATK/DEF.)
+● Summoning a monster with the ④ happens after cards are destroyed.
+            

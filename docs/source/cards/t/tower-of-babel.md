@@ -5,3 +5,16 @@
 *   You can move Spell Counters to "Tower of Babel" with "Pitch Black Power Stone", but if the 4th Spell Counter is placed on "Tower of Babel" with "Pitch Black Power Stone" or "Apprentice Magician", "Tower of Babel" is destroyed but no damage is inflicted.
 *   "Tower of Babel" cannot blow up in the middle of a chain. If you wind up with 5 Spell Counters on "Tower of Babel" after a chain resolves, the player who caused the 4th Spell Counter to be placed takes the damage. So if you have "Tower of Babel" with 3 Spell Counters, and you activate "Pot of Greed", and your opponent chains "Reload", "Reload" resolves first and places the 4th Spell Counter, and your opponent takes the 3000 damage after the current chain resolves.
 *   If "Mystical Space Typhoon" targets "Tower of Babel" with 3 Spell Counters, "Tower of Babel" is destroyed when "Mystical Space Typhoon" resolves, and never gets the 4th Spell Counter, so neither player takes damage.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Tower%20of%20Babel
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

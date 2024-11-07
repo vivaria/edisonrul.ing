@@ -9,3 +9,18 @@
     *   Sending 2 other copies of "Volcanic Scattershot" to the Graveyard is a cost.
     *   You can send 1 Scattershot from your hand and 1 from your Deck, or both from your Deck.
     *   This effect cannot be activated while "Macro Cosmos" is active.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Volcanic%20Scattershot
+
+### Edison-Accurate PSCT
+
+> ① If this card is sent to the GY: Inflict 500 damage to your opponent.
+> ② If this card is sent to the GY by the effect of a "Blaze Accelerator" card:
+> You can send 2 "Volcanic Scattershot" from your hand and/or Deck to the GY; destroy all monsters your opponent controls.
+
+### Card Rulings
+
+● If this card is sent from your hand to the GY by "Blaze Accelerator"'s effect, its effect to inflict 500 damage doesn't activate (Yes, this is really weird).
+            

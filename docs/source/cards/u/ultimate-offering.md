@@ -11,3 +11,17 @@
     *   If this effect resolves as Chain Link 1, "Torrential Tribute" can activate \[[REF](https://www.pojo.biz/board/showthread.php?t=26817)\].
     *   This effect can be activated during your Main Phase or your opponent’s Battle Phase.
     *   If this card is face-up, you can activate this effect multiple times in the same Chain. If you cannot perform every Normal Summon / Set when resolving the chain: reveal your hand to verify.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Ultimate%20Offering
+
+### Edison-Accurate PSCT
+
+> ① During your Main Phase or your opponent's Battle Phase: You can pay 500 LP; during this effect's resolution, Normal Summon/Set 1 monster.
+
+### Card Rulings
+
+● The summon does not happen "immediately after this effect resolves". It can't be negated by "Solemn Judgment".
+● You can chain this effect to itself, even if you only have 1 monster in hand.
+            

@@ -13,3 +13,19 @@
 *   The ② Continuous Effect does not activate.
     *   This effect is applied before resolving the effect that targeted this card \[[REF](https://www.pojo.biz/board/showthread.php?t=896225)\].
     *   If multiple copies of "Machina Fortresses" were targeted by your opponent's “Brionac, Dragon of the Ice Barrier”, you first decide whether or not you want to Chain any effects. Then, when you go to resolve the effect of Brionac, first look at your opponent’s hand and discard 1 card from it for each "Machina Fortress" that was targeted. Finally, resolve Brionac’s effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Machina%20Fortress
+
+### Edison-Accurate PSCT
+
+> You can discard Machine(s) whose total Levels equal 8 or more, then Special Summon this card (from your hand/GY).
+> ① If this card is destroyed by battle and sent to the GY: Target 1 card your opponent controls; destroy that target.
+> ② Before resolving an opponent's monster effect that targets this face-up card, look at their hand, and discard 1 card from it.
+
+### Card Rulings
+
+● This card can discard itself as part of the cost for its Ⓢ.
+● If the effect targeting this card resolves negated, the ② effect still applies.
+            

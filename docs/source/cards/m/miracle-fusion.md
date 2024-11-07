@@ -8,3 +8,21 @@
 *   If you cannot remove from play the Fusion Material for the Fusion Monster you wanted to Summon (ex: "Elemental Hero Absolute Zero") but you have the correct material for a different Fusion Monster (ex: "Elemental Hero Gaia"), you MUST Summon that other monster instead.
 *   Fusion Substitute Monsters like "King of the Swamp" can be used to replace monsters whose name are specifically listed on an "Elemental Hero" Fusion Monster.
 *   VS. "Kycoo the Ghost Destroyer": You can only remove monsters on your field from play for this effect while your opponent controls a face-up Kycoo.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Miracle%20Fusion
+
+### Edison-Accurate PSCT
+
+> ① Banish Fusion Materials from your field/GY, then Fusion Summon 1 appropriate "Elemental HERO" Fusion Monster from your Extra Deck.
+
+### Card Rulings
+
+● Banishing is not a cost.
+Banishing happens as part of this effect.
+If "Imperial Iron Wall" is chained to this card, this card resolves without effect.
+● You can always use face-down monsters as Fusion Material.
+● When this card resolves, you must Fusion Summon if able to.
+● Banishing and summoning are sequential. Summoning is the last thing to happen.
+            

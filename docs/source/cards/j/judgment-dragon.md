@@ -13,3 +13,21 @@
     *   If you do not have enough cards to send to the Graveyard remaining in your Deck when resolving the effect of a “Lightsworn” monster or “Judgment Dragon,” all cards remaining in your Deck are sent to the Graveyard and you will lose the Duel.
     *   If an effect chained to a “Lightsworn” monster’s (or “Judgment Dragon’s”) effect to send cards from your Deck to the Graveyard during the End Phase that removes that “Lightsworn” monster from the field, the “Lightsworn” monster’s effect does not resolve.
     *   See “Jain, Lightsworn Paladin” for additional rulings.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Judgment%20Dragon
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Normal Summoned/Set.
+> Ⓢ Must be Special Summoned (from your hand) by having 4 or more "Lightsworn" monsters with different names in your GY.
+> ① You can pay 1000 LP; destroy all other cards on the field.
+> ② During your End Phase:
+> Send the top 4 cards of your Deck to the GY.
+> (Activate & Resolve only if face-up on the field).
+
+### Card Rulings
+
+● If “Book of Moon” is chained to this card’s ① effect, this card doesn’t destroy itself.
+            

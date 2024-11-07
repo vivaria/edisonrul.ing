@@ -9,3 +9,17 @@
 *   You must control a face-up "Gladiator Beast" monster to activate this effect.
 *   If this effect destroys an opponent's monster BEFORE concluding Substep 4 - Damage Calculation, your "Gladiator Beast" that battled that monster cannot tag out during the End of the Battle Phase.
 *   If this effect destroys an opponent's monster AFTER concluding Substep 4 - Damage Calculation, your "Gladiator Beast" that battled that monster can tag out during the End of the Battle Phase.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Gladiator%20Beast%20War%20Chariot
+
+### Edison-Accurate PSCT
+
+> ① When a Monster Effect is activated while you control a "Gladiator Beast" monster:
+> Negate the activation, and if you do, destroy it.
+
+### Card Rulings
+
+● This card is a Counter Trap, so it can be used in the Damage Step, even during Damage Calculation.
+            

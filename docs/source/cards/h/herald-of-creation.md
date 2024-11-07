@@ -6,3 +6,19 @@
     *   Discarding 1 card is a cost.
     *   This effect targets a Level 7(+) monster in your Graveyard. It is negated by "Necrovalley".
 *   This effect can't activate without a Level 7(+) monster in your Graveyard, even if you discard one as cost.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Herald%20of%20Creation
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The Ignition Effect activates & resolves on the field.
+●Discarding 1 card is a cost.
+●This effect targets a Level 7(+) monster in your GY. It is negated by Necrovalley.
+●This effect can't activate without a Level 7(+) monster in your GY, even if you discard one as cost.
+            

@@ -13,3 +13,21 @@
     *   This effect activates whether this card was destroyed by battle or card effect.
 *   The ③ optional Trigger Effect activates & resolves in the Graveyard.
     *   Removing a Plant from your Graveyard is a cost.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Phoenixian%20Cluster%20Amaryllis
+
+### Edison-Accurate PSCT
+
+> © Cannot be Special Summoned, except by its own effect or by "Phoenixian Seed".
+> ① After Damage Calculation, if this card attacked, Destroy this card.
+> ② If this card you control is destroyed and sent to the GY: Your opponent takes 800 damage.
+> ③ During your End Phase, if this card is in your GY: You can banish 1 Plant from your GY; Special Summon this card in Defense Position.
+
+### Card Rulings
+
+● The ③ effect is not "once per turn", so if it is negated by "Royal Oppression", it can be activated again in the same End Phase.
+(Banishing a plant is a cost, so even if it is negated this way, the plant remains banished).
+● The ① is not an activated effect. It happens at the start of Substep 5, before chains are built.
+            

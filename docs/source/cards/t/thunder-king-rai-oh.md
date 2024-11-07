@@ -10,3 +10,21 @@
     *   This effect activates in the Summon negation timing (like "Black Horn of Heaven").
     *   Sending "Thunder King Rai-Oh" to the Graveyard is a cost. This is not a Tribute. You cannot activate this effect while "Macro Cosmos" is active.
     *   This effect cannot negate a Card Effect (ex: "Debris Dragon") that Special Summons a monster(s).
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Thunder%20King%20Rai-Oh
+
+### Edison-Accurate PSCT
+
+> ① Neither player can add cards from their Deck to their hand except by drawing them.
+> ② When your opponent would Special Summon a monster (Quick effect):
+> You can send this face-up card to the GY; negate the Summon, and if you do, destroy it.
+
+### Card Rulings
+
+● The ② effect can only negate the Summon of a monster while there is no ongoing chain.
+(It can negate a Synchro Summon, or the Special Summon of Cyber Dragon by its own procedure.
+It can't negate the Summon of a monster being Summoned by a card effect, such as by “Call of the Haunted”).
+It can't negate the Summon of a monster being Summoned by a lingering effect, like “Future Fusion”).
+            

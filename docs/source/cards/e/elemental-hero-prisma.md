@@ -9,3 +9,19 @@
     *   If an effect is chained that removes "Elemental Hero Prisma" from the field or flips it face-down, "Elemental Hero Prisma"'s effect disappears. You do not reveal a Fusion Monster or send one of the listed Fusion Material Monsters to the Graveyard \[[REF](http://web.archive.org/web/20080703055137/http://entertainment.upperdeck.com/COMMUNITY/forums/thread/1215851.aspx)\].
     *   VS. "Rainbow Neos": you may only send "Elemental Hero Neos". You cannot send "Rainbow Dragon" or "Rainbow Dark Dragon", as "Rainbow Neos" actually lists "1 'Ultimate Crystal' monster" as the other Fusion Material \[[REF](https://yugipedia.com/wiki/Rainbow_Neos)\].  
         
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Elemental%20HERO%20Prisma
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: You can activate this effect; You can reveal 1 Fusion Monster from your Extra Deck, and send 1 Monster from your Deck to the GY, whose name is specifically listed on that Fusion Monster, and until the End Phase, this card's name becomes the sent monster's.
+
+### Card Rulings
+
+● This effect has no cost (This is an erratum).
+● It will resolve without effect if "Elemental HERO Prisma" is not face-up on the field when it resolves. No monster will not be sent from the deck to the GY.
+● It can be activated while the effects of "Macro Cosmos" or "Dimensional Fissure" are applying. The sent monster will be banished.
+● If after resolving this effect, the effects of "Elemental HERO Prisma" are negated (e.g. by "Skill Drain" or "Forbidden Chalice"), it keeps the name of the sent monster.
+            

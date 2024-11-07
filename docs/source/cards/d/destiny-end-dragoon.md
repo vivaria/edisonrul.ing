@@ -18,3 +18,16 @@
     *   If this effect (or its activation) is negated by "Royal Oppression" (or "Divine Wrath"), this effect can be activated again during the same Standby Phase \[[REF](https://web.archive.org/web/20091001204158/http://www.yu-judges.com/cat359_p5.htm)\].
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Destiny%20End%20Dragoon
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

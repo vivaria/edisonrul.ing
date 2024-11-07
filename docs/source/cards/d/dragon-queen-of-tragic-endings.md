@@ -14,3 +14,22 @@
     *   This effect does not target "Dragon Queen of Tragic Endings". It is not negated by "Necrovalley".
     *   You don’t have to Special Summon this card the turn after it is sent from the field to the Graveyard. You can wait several turns and then Special Summon it during a later Standby Phase.
     *   This effect cannot activate if this card was removed from the Graveyard after being sent there.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dragon%20Queen%20of%20Tragic%20Endings
+
+### Edison-Accurate PSCT
+
+> © Cannot be Normal Summoned/Set.
+> © Must first be Special Summoned (from your hand) by controlling 3 or more face-up Continuous Spells.
+> ① If this attacking card inflicts Battle Damage to your opponent:
+> Your opponent sends 1 card from their hand to the GY, then you draw 1 card.
+> ② During your Standby Phase, if this card is in your GY, and was sent there from the field:
+> You can send 1 face-up Continuous Spell you control to the GY; Special Summon this card.
+
+### Card Rulings
+
+● As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
+you can Summon it from the GY with card effects.
+            

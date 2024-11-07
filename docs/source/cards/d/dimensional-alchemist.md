@@ -10,3 +10,18 @@
     *   This effect can activate when the last thing to happen in Chain Link 1 was this card's destruction.
     *   This effect cannot activate if this card was destroyed as Chain Link 2+.
     *   This effect cannot activate if this card was removed from play, it must be sent to the Graveyard.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dimensional%20Alchemist
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: You can banish the top card of your Deck (face-up), and if you do, until the End Phase, this card gains 500 ATK.
+> ② When this card you control is destroyed and sent to your GY:
+> You can target 1 of your banished monsters; return it to your hand.
+
+### Card Rulings
+
+● If you Normal Summon this card and want to activate its effect, you should clarify whether or not you are using the effect with Ignition Priority.
+            

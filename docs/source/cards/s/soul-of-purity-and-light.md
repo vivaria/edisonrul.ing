@@ -11,3 +11,18 @@
     *   This effect does not target.
     *   This effect only applies during your opponent's Battle Phase.
     *   This effect does not apply in the Main Phase (for "King Tiger Wanghu" or "Trap Hole")_._
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Soul%20of%20Purity%20and%20Light
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Normal Summoned/Set.
+> Ⓢ Must first be Special Summoned by banishing 2 LIGHTs from your GY.
+> ① Monsters your opponent controls lose 300 ATK during their Battle Phase only.
+
+### Card Rulings
+
+● If this card was initially Special Summoned by its own procedure (and the Summon wasn't negated), it can later be summoned by card effects.
+            

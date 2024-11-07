@@ -11,3 +11,19 @@
     *   This effect activates in Substep 7 - End of the Damage Step.
     *   This card must be face-up before being selected as an attack target for this effect to trigger.
     *   This effect cannot activate if this face-down card is attacked and destroyed by battle \[[REF](https://www.pojo.biz/board/showpost.php?p=17414058&postcount=14)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Cyber%20Phoenix
+
+### Edison-Accurate PSCT
+
+> ① While this card is in Attack Position,
+> negate all Spell/Trap effects that target exactly 1 Machine you control (and no other cards).
+> ② If this card is destroyed by battle and sent to the GY, and was face-up at attack declaration: You can Draw 1 card,
+
+### Card Rulings
+
+● If this Set card was destroyed by battle, you can't activate the ② effect.
+It must be face-up when targeted for the attack.
+            

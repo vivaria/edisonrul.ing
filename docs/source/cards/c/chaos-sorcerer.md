@@ -14,3 +14,20 @@
     *   "Chaos Sorcerer" declared an attack (even if a replay occured or if the attack was negated).
 *   The Ⓒ Condition DOES NOT APPLY IF:
     *   the activation of the ① effect was negated by "Divine Wrath".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Chaos%20Sorcerer
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Normal Summoned/Set.
+> Ⓢ Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your GY.
+> ① Once per turn: You can target 1 face-up monster on the field; banish that target.
+> (This card can't attack the turn you activate this effect).
+
+### Card Rulings
+
+● If you take control of this card with a card effect, either player can activate a Fast Effect (like a Trap Card) before you get to activate this card's ①.
+● If that target is flipped face-down before this effect resolves, it is not banished.
+            

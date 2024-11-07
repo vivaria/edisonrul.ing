@@ -5,3 +5,16 @@
 *   You can only Special Summon “Summon Reactor ・SK” if damage calculation occurs. If there is a replay, or a battle involving “Neo-Spacian Gran Mole”, or another situation in which the opponent’s monster attacked but there was no damage calculation, you cannot Special Summon “Summon Reactor ・SK”.
 *   The effect of “Fake Explosion” that Special Summons after damage calculation begins a new chain.
 *   You can activate “Fake Explosion” when your opponent’s monster attacks directly.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Fake%20Explosion
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

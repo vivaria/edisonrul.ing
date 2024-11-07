@@ -12,3 +12,19 @@
     *   This effect activates & resolves in the hand. It cannot be negated by "Light-Imprisoning Mirror".
     *   This effect cannot be activated while "Dimensional Fissure" is active.
 *   VS. "Shrink: If a monster whose ATK has been modified by "Honest" becomes targeted by "Shrink", the monster’s ATK becomes half its original ATK, and then the ATK increase from "Honest" is re-applied.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Honest
+
+### Edison-Accurate PSCT
+
+> ① During your Main Phase: You can return this card you control to the hand.
+> ② During the Damage Step, when a LIGHT monster you control battles (Quick):
+> You can send this card from your hand to the GY; that monster gains ATK equal to the ATK of the opponent's monster it is battling, until the End Phase.
+
+### Card Rulings
+
+● This effect can be activated at any point in the Damage Step, up to and including Substep 4 "During Damage Calculation".
+● If you say "Damage Step?", and activate this effect, you have activated it at the Start of the Damage Step (or the earliest legal substep), not During Damage Calculation.
+            

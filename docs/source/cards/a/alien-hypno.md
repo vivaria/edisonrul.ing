@@ -14,3 +14,16 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
     *   The effect of “Alien Hypno” that removes 1 A-Counter from the monsters controlled through its effect and the effect that destroys the controlled monsters when the last A-Counter is removed do not start a Chain.
 *   The ③ Continuous Effect applies while this card is face-up AND treated as an Effect Monster.
     *   This effect destroys the monster(s) without starting a Chain.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Alien%20Hypno
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
+            

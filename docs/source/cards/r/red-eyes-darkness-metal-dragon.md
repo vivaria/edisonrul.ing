@@ -8,3 +8,19 @@
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect does not target a card in the Graveyard. It is not negated by "Necrovalley".
     *   If there is no Dragon-Type monster is in your Graveyard when this effect resolves, DO NOT reveal your hand to verify that you could not Special Summon a Dragon-Type from your hand instead.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Red-Eyes%20Darkness%20Metal%20Dragon
+
+### Edison-Accurate PSCT
+
+> Ⓢ You can Special Summon this card (from your hand) by banishing 1 face-up Dragon you control.
+> ① Once per turn:
+> You can Special Summon 1 Dragon from your hand/GY (except "Red-Eyes Darkness Metal Dragon”).
+
+### Card Rulings
+
+● You can Special Summon multiple copies of this card per turn (this is an erratum).
+● You can activate the effects of multiple copies of this card per turn (this is an erratum).
+            

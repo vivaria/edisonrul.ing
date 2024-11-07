@@ -22,3 +22,21 @@
     *   Apply this effect if the equipped monster would be destroyed by battle or card effect.  
     *   If an effect (ex: "Black Rose Dragon") would simultaneously destroy Peacekeeper and the equipped Machine-Type monster; destroy both cards, you CANNOT apply this effect \[[REF](https://www.pojo.biz/board/showpost.php?p=18956551&postcount=2)\].  
     *   This does not apply if the equipped monster would be removed from play, returned to the hand / Deck, or flipped face-down by a card effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Machina%20Peacekeeper
+
+### Edison-Accurate PSCT
+
+> ① When this card on the field is destroyed and sent to the GY: You can add 1 Union monster from your Deck to your hand.
+> ② Once per turn, you can either:
+> ● Target 1 Machine you control; equip this card to that target, OR:
+> ● Unequip and Special Summon this card in Attack Position.
+> ③ If the equipped monster would be destroyed, destroy this card instead.
+> ④ A monster can only be equipped with 1 Union Monster at a time.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+            

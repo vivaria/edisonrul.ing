@@ -14,3 +14,24 @@
     *   This effect is not present on contemporary errata of "Mark of the Rose".
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Mark%20of%20the%20Rose
+
+### Edison-Accurate PSCT
+
+> Ⓒ Activate by banishing 1 Plant from your GY, then target 1 monster your opponent controls; equip this card to that target.
+> ① Gain control of the equipped monster.
+> ② During your End Phase: Your opponent gains control of the equipped monster.
+> ③ During your Standby Phase: Gain control of the equipped monster.
+
+### Card Rulings
+
+The Ⓒ:
+● Banishing a card from the GY is a cost to activate this card.
+
+The ② and ③:
+● These effects are activated Trigger Effects.
+● While Cold Wave is applying, control is not changed.
+            

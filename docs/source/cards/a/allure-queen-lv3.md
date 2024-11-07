@@ -12,3 +12,24 @@
 *   The ③ mandatory Trigger Effect activates & resolves on the field.
     *   Sending this card to the Graveyard is a cost.
     *   This effect cannot be activate while "Macro Cosmos" is in play.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Allure%20Queen%20LV3
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The ●This effect targets a face-up monster on your opponent's field.
+●If Book of Moon is chained to the activation of Allure Queen LV3's effect to turn the Allure Queen face-down, the target is destroyed. It can't be equipped to a face-down monster.
+●You can equip a monster to “Allure Queen LV3” that is having its Level reduced to 3 or lower by an effect, like “Demotion”.
+●The Continuous Effect applies while this card is face-up on the field.
+●Applying this effect does not start a Chain.
+●The destroyed monster (that was equipped) is not considered to be destroyed by battle.
+●The mandatory Trigger Effect activates & resolves on the field.
+●Sending this card to the GY is a cost.
+●This effect can't be activate while Macro Cosmos is in play.
+            

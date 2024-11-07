@@ -18,3 +18,24 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
     *   If "Cyber Valley" is flipped face-down (by "Book of Moon"): this effect will still resolve with full effect.
     *   If "Cyber Valley" leaves the field (by "Karma Cut"): do not remove from play 1 card in your hand, and do not add the target from your Graveyard to your hand.
 *   None of this card’s effects can be activated while "Imperial Iron Wall" is active.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Cyber%20Valley
+
+### Edison-Accurate PSCT
+
+> ① If this card is attacked by opponent’s monster:
+> You can banish this card; draw 1 card, then end the Battle Phase.
+> ② You can target this card and 1 other face-up monster you control; banish both targets, then draw 2 cards.
+> ③ You can target 1 card in your GY; banish both this card and 1 card from your hand,
+> then place that target on top of the Deck.
+
+### Card Rulings
+
+● The ① effect can activate and resolve while “Skill Drain” is applying.
+● The ② effect can target a token monster.
+(in which case you still draw, and the token is destroyed).
+● If the ② effect is activated, the other target must be face-up to be banished.
+(This card doesn’t need to stay face-up to be banished. If either isn’t banished, none are banished; no cards are drawn).
+            

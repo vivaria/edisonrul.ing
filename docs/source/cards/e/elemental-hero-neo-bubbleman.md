@@ -6,3 +6,16 @@
 *   If you Special Summon this card you can activate “Inferno Reckless Summon” and Special Summon “Elemental Hero Bubbleman” from your Deck.
 *   While this card is face-up on the field, it can be used as “Elemental Hero Bubbleman” for a Fusion Summon (but not while in your hand).
 *   The effect of “Elemental Hero Neo Bubbleman” that makes it treated as “Elemental Hero Bubbleman” is a Continuous Effect. The effect that destroys a monster that battles it is a Trigger Effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Elemental%20HERO%20Neo%20Bubbleman
+
+### Edison-Accurate PSCT
+
+> © This card Cannot be Normal Summoned or Set or Special Summoned.
+
+### Card Rulings
+
+● Good luck summoning this guy! :)
+            

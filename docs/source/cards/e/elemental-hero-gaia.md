@@ -12,3 +12,18 @@
     *   This effect targets 1 face-up monster your opponent controls.
     *   This effect does not apply if either Hero Gaia or the target is flipped face-down / leaves the field.
     *   These ATK changes last until the End Phase.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Elemental%20HERO%20Gaia
+
+### Edison-Accurate PSCT
+
+> Ⓢ Must be Fusion Summoned.
+> ① If Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains ATK equal to the ATK it lost this way.
+
+### Card Rulings
+
+● This card can only be Special Summoned by Fusion Summon. It can't be summoned by card effects.
+● This card's effect applies until the End Phase (and not for the entire turn).
+            

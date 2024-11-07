@@ -9,3 +9,19 @@
 *   The ① Ignition Effect can be activated multiple times in a single turn.
     *   Removing from play 1 DARK monster is a cost.
     *   This effect targets 1 card on the field at activation.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dark%20Armed%20Dragon
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Normal Summoned/Set.
+> Ⓢ Must be Special Summoned (from your hand) by having 3 DARKs in your GY.
+> ① You can banish 1 DARK from your GY, then target 1 card on the field; destroy it.
+
+### Card Rulings
+
+● The only way you can Special Summon this card is via its own procedure.
+● Like all ignition effects, the ① can be activated before "Bottomless Trap Hole" can be used. Bottomless can then be chained to the ①.
+            

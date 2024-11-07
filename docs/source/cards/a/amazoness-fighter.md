@@ -8,3 +8,20 @@
 *   If "Dark Ruler Ha Des" attacks "Amazoness Fighter", the effect of "Amazoness Fighter" is still applied.
 *   When "Amazoness Fighter" battles "Amazoness Swordswoman", the damage to Life Points is zero.
 *   When a monster quipped with "Wicked-Breaking Flamberge - Baou" attacks "Amazoness Fighter" or "Amazoness Swordswoman", the effects of the Amazonesses are applied.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Amazoness%20Fighter
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The ●This effect is applied in Substep 4 - Damage Calculation.
+●The ATK of this card should be 1500 ATK (this card had 1300 ATK when first printed).
+●If Dark Ruler Ha Des attacks Amazoness Fighter, the effect of Amazoness Fighter is still applied.
+●When Amazoness Fighter battles Amazoness Swordswoman, the damage to Life Points is zero.
+●When a monster quipped with Wicked-Breaking Flamberge - Baou attacks Amazoness Fighter or Amazoness Swordswoman, the effects of the Amazonesses are applied.
+            

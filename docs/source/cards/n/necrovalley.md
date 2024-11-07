@@ -15,3 +15,19 @@
 *   Cards in the Graveyard can have their Type / Attribute changed by card effects that do not target.
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Necrovalley
+
+### Edison-Accurate PSCT
+
+> ① "Gravekeeper's" monsters gain 500 ATK/DEF.
+> ② Neither player can banish cards from GY(s).
+> ③ Negate any card effect that targets a card(s) in the GY.
+
+### Card Rulings
+
+● Effects of cards like “Red-Eyes Darkness Metal Dragon”, “Goyo Guardian”, and “Treeborn Frog” are not negated by this card’s ③ effect, as they don't target.
+● "Question", "Fiber Jar", "Penguin Knight", and "Agido" are negated by this card’s ③ effect, even though they don't target (yes, this is weird).
+            

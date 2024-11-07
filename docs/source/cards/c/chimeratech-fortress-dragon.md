@@ -14,3 +14,25 @@ _Ⓒ This monster cannot be used as a Fusion Material monster. Ⓢ You can only 
 *   The ① Continuous Effect determines this card's ATK.
     *   If "Skill Drain" is active, this card's ATK becomes "0" (even if "Skill Drain" is negated / destroyed).
     *   If this card is flipped face-down / leaves the field, its ATK becomes 0 when it is face-up again.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Chimeratech%20Fortress%20Dragon
+
+### Edison-Accurate PSCT
+
+> Cyber Dragon" + 1 or more Machines
+> © Can't be used as Fusion Material.
+> Ⓢ Must first be Special Summoned (from your Extra Deck)
+> by sending the above cards from either field to the GY(s) (You don't use "Polymerization").
+> ① This card's Original ATK is equal to 1000x the number of its Fusion Materials.
+
+### Card Rulings
+
+● Since this card can't be used as Fusion Material,
+you can't Summon Chimeratech Fortress Dragon using another copy of it as material.
+● You can always use face-down monsters you control as Fusion Material
+(but not ones your opponent controls).
+● You can't use Tokens as Material for this card.
+● If this card's effect is negated, its ATK becomes 0 (permanently)
+            

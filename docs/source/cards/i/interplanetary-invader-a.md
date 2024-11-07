@@ -13,3 +13,16 @@
     *   Invader 'A' is returned to the Deck by "[Grave Protector](https://yugipedia.com/wiki/Grave_Protector)".
     *   a Level 4 or higher monster attacks Invader 'A' and "Gravity Bind" is activated.
     *   Invader 'A' is destroyed without applying damage calculation (ex: "[Sasuke Samurai #4](https://yugioh.fandom.com/wiki/Sasuke_Samurai_4)").
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Interplanetary%20Invader%20A
+
+### Edison-Accurate PSCT
+
+> No rulings available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

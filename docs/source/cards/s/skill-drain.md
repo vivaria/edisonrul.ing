@@ -11,3 +11,18 @@
     *   Conditions (which are not effects) and Lingering Effects are not negated.
     *   Spell Counters cannot be held by Monsters (ex: "Skilled Dark Magician"), remove all Spell Counters.
 *   VS. "Jinzo": Whichever card was face-up first applies its effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Skill%20Drain
+
+### Edison-Accurate PSCT
+
+> © Activate this card by paying 1000 LP.
+> ① The effects of face-up monsters on the field are negated.
+
+### Card Rulings
+
+● This only negates the effects of monsters while they remain face-up on the field.
+If a monster activates its effect on the field, but isn't face-up on the field when that effect resolves (EG, Lonefire Blossom tributing itself), that effect is not negated.
+            

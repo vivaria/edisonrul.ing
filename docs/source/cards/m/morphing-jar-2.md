@@ -7,3 +7,18 @@
 *   Monster Tokens on the field are removed from the field and are not counted towards the number of monsters returned to the Deck.
 *   If "Morphing Jar #2" is flipped by an attack and it is destroyed, it is not shuffled into its owner's Deck.
 *   If "Light of Intervention" is active, the Monster Cards are Special Summoned in face-up Defense Position.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Morphing%20Jar
+
+### Edison-Accurate PSCT
+
+> ① FLIP: Each player discards their hand, then draws 5 cards.
+
+### Card Rulings
+
+● Discarding happens before drawing, which can cause cards like "Jinzo - Returner" to miss their timing.
+You can read more about Timing here:
+https://edisonformat.net/rules/compendium/missing-the-timing
+            

@@ -13,3 +13,18 @@
     *   "Colossal Fighter" was removed from play After Damage Calculation by "D.D. Warrior Lady’s" effect.
     *   "Colossal Fighter" was destroyed After Damage Calculation by the Flip Effect of "Man-Eater Bug".
     *   A Defense Position "Colossal Fighter" was shuffled into the Deck by "Ehren, Lightsworn Monk".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Colossal%20Fighter
+
+### Edison-Accurate PSCT
+
+> 1 Tuner + 1 or more non-Tuners
+> ① Gains 100 ATK for each Warrior in the GY(s).
+> ② If this card is destroyed by battle and sent to the GY: You can target 1 Warrior in either GY; Special Summon it.
+
+### Card Rulings
+
+● This card can target itself in the GY.
+            

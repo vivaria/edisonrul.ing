@@ -6,3 +6,17 @@
 *   Monsters Special Summoned by this effect are Summoned simultaneously.
 *   A Special Summoend monster that is flipped face-down is not removed from play in the End Phase.
 *   You can activate this card while "Imperial Iron Wall" is active. Summoned monsters remain on the field.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Rekindling
+
+### Edison-Accurate PSCT
+
+> ① Special Summon as many FIREs as possible with 200 DEF from your GY (banish them during the End Phase).
+
+### Card Rulings
+
+● You must summon as many monsters as possible.
+● If one of those monsters is flipped face-down, it's not banished in the End Phase.
+            

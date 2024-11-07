@@ -10,3 +10,20 @@
 *   You CANNOT activate this effect if:
     *   "[Red-Eyes Wyvern](https://yugipedia.com/wiki/Red-Eyes_Wyvern)" was only discarded to the Graveyard during the End-of-Turn Discard because you had more cards than your hand size limit (see Edison Format Rule #10 [HERE](https://www.edisonformat.com/format-rules.html)).
     *   You Set / Normal Summoned (even if it was negated by "[Solemn Judgment](https://yugipedia.com/wiki/Solemn_Judgment)") a monster this turn.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Red-Eyes%20Wyvern
+
+### Edison-Accurate PSCT
+
+> ① During your End Phase: You can banish this card from your GY, then target 1 "Red-Eyes" monster in your GY; Special Summon that target.
+> (You can't Normal Summon/Set during the turn you activate this effect.)
+
+### Card Rulings
+
+● This effect targets the "Red-Eyes" monster in your GY.
+● "Normal Summon/Set" refers to Monster Cards, not Setting Spell/Trap Cards.
+● If you discard this card due to hand size, its effect can't be activated that same End Phase.
+● If your Normal Summon was negated by "Solemn Judgment", this card's effect can't be activated in the End Phase.
+            

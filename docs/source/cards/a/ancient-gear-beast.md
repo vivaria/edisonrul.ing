@@ -18,3 +18,30 @@
     *   Continuous-like Effects of Spell / Trap Cards still apply.
     *   The effects of face-up Spell / Trap Cards can still activate (ex: “Ultimate Offering” or “Skull Lair”).
     *   Spell / Trap Cards cannot be activated (flipped face-up / played from the hand).
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Ancient%20Gear%20Beast
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Special Summoned.
+> ① While this card is attacking, opponent can't activate Spell/Trap Cards until the end of the Damage Step.
+> ② Negate the effects of monsters destroyed by battle with this card (including Flips and monsters in the GY).
+
+### Card Rulings
+
+About the ① effect:
+● It is a Continuous Effect, it applies from attack declaration until the Damage Step ends.
+● Spell/Trap effects may still be activated (e.g. the effect of an already activated "Ultimate Offerring"/"Royal Oppression" or the GY effect of "Skill Successor"), the Continuous Effect of Traps will also continue to apply.
+● After the Damage Step ends, it returns to the Battle Step. Then, the turn player retains priority to declare an attack, there is not a window for the opponent to activate a Spell/Trap inbetween two consecutive "Ancient Gear" attacks.
+● If this card is destroyed by battle, this effect stops applying at the start of substep 6 of the Damage Step.
+
+About the ② effect:
+● This continuous effect effect applies from the moment the opponent's monster is destroyed by battle during Damage Calculation until it leaves the GY.
+● The destroyed monster's effects that activate after Damage Calculation has been performed will be negated.
+e.g.:
+"Gemini Soldier", "D.D. Warrior Lady", "Mystic Tomato", Flip and pseudo-Flip effects like "Ryko, Lightsworn Hunter", "Snowman Eater" and GY effects like "Treeborn Frog", "Plaguespreader Zombie".
+● The monster's effects are only negated while on the field/in the GY. If the destroyed monster is banished instead (e.g. due to "Macro Cosmos"/"Dimensional Fissure"), its effects are not negated once it leaves the field.
+- A "D.D. Survivor" that was banished after being destroyed by this card can successfully resolve it's effect.
+            

@@ -6,3 +6,16 @@
 *   Cards such as "Torrential Tribute", "Bottomless Trap Hole", "Mirror Force", and "Last Turn" will all apply their effects to "Fiend Skull Dragon" because these cards do not target.
 *   You can activate "Call of the Haunted" to Special Summon "Fiend Skull Dragon". After it resolves, "Call of the Haunted" will be destroyed and "Fiend Skull Dragon" will remain on the field. Remember that "Fiend Skull Dragon" must have been properly Fusion Summoned previously in order to Special Summon it from the Graveyard.
 *   You can chain "Call of the Haunted" to the activation of a Flip Effect to Special Summon "Fiend Skull Dragon", and the Flip Effect will be negated.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Fiend%20Skull%20Dragon
+
+### Edison-Accurate PSCT
+
+> No rulings available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

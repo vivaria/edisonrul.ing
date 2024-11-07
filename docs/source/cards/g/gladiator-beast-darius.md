@@ -25,3 +25,27 @@
         *   They are not combined onto the same Chain.
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Darius
+
+### Edison-Accurate PSCT
+
+> ① If this card is Special Summoned by the effect of a "Gladiator Beast" monster:
+> You can target 1 "Gladiator Beast" monster in your GY; Special Summon it and target it with this card.
+> ② That target's effects are negated while this card is face-up on the field, also if this card leaves the field, shuffle that target into the Deck.
+> ③ At the end of the Battle Phase, if this battled:
+> You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck (except “Gladiator Beast Darius”).
+
+### Card Rulings
+
+The ① and ② Effects:
+
+● If Darius isn't face-up on the field before the ① resolves:
+The Summoned monster is no longer targeted by Darius.
+(its effects aren't negated, and it isn't shuffled if Darius leaves the field).
+Exception: If Darius is banished by "Bottomless Trap Hole", its effects remain negated.
+● If the Target, or Darius, is flipped face-down, Darius stops targeting it.
+(its effects aren't negated, and it isn't shuffled if Darius leaves the field).
+            

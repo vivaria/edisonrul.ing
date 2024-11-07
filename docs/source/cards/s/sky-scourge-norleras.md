@@ -10,3 +10,19 @@
     *   Paying 1000 Life Points is a cost.
     *   This effect does not target.
     *   Both parts of this effect occur simultaneously \[[REF](https://yugioh.fandom.com/wiki/Forum:Peten_vs._Norleras)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Sky%20Scourge%20Norleras
+
+### Edison-Accurate PSCT
+
+> © Cannot be Normal Summoned/Set.
+> © Must be Special Summoned (from your hand) by banishing 1 LIGHT Fairy and 3 DARK Fiends from your GY.
+> ① You can pay 1000 LP; send all cards in each player's hand and field to the GY, and if you do, draw 1 card.
+
+### Card Rulings
+
+● The only way you can Special Summon this card is via its own procedure.
+Even if it was initially summoned that way, you still can't summon it with card effects.
+            

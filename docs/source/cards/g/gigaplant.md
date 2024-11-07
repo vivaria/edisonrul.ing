@@ -8,3 +8,16 @@
 *   The Ⓒ Condition cannot be negated. This is not an effect.
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect does not target a monster in the Graveyard. It is not negated by "Necrovalley".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Gigaplant
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
+            

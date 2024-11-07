@@ -14,3 +14,23 @@
 *   If “Magical Merchant” is flipped face-up while “Dimension Fortress Weapon” is on the field, its effect is not applied.
 *   If “Chain Destruction” is activated while “Dimension Fortress Weapon” is on the field, copies of the monster in the player’s hand are destroyed, but not copies in their Deck.
 *   If “Spell Vanishing” is activated while “Dimension Fortress Weapon” is on the field, check the opponent’s hand and Deck, and send copies of the Spell Card in their hand to the Graveyard, but not the copies from their Deck.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dimension%20Fortress%20Weapon
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+● Mandatory effects that send a card(s) from the deck to the GY will still activate (e.g. "Ryko, Lightsworn Hunter").
+When they do:
+● If the effect of "Dimension Fortress Weapon" is still applying when the milling would happen, the cards will not be sent from the deck to the GY.
+● If the effect of "Dimension Fortress Weapon" is no longer applying when the milling would happen (e.g. if it is destroyed by the effect of "Ryko, Lightsworn Hunter"), the cards will be sent from the deck to the GY.
+
+● Optional effects that would send a card(s) from the deck to the GY cannot be activated (e.g. "Foolish Burial" / "Future Fusion").
+
+● Effects that send a card(s) from the deck to the GY as cost cannot be activated (e.g. "Card Trooper" / "Celestia, Lightsworn Angel").
+            

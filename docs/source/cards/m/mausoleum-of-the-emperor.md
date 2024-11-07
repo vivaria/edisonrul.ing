@@ -12,3 +12,18 @@
     *   The Normal Summon can be responded to with "Torrential Tribute".
     *   You cannot use the effect of "Spell Economics" to activate this effect without paying Life Points.
     *   This effect cannot be used when resolving the effect of “Ultimate Offering”, because you cannot activate “Mausoleum of the Emperor’s” effect during the resolution of “Ultimate Offering’s” effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Mausoleum%20of%20the%20Emperor
+
+### Edison-Accurate PSCT
+
+> ① During the Main Phase: The turn player can pay choose 1 or 2, then pay that many LP x1000; during this effect's resolution, they Normal Summon 1 monster from their hand, which requires that many tributes, without Tributing (This is their 1 Normal Summon/Set for the turn).
+
+### Card Rulings
+
+● This effect starts a chain.
+● The monster summoned this way is not Tribute Summoned.
+● This Summon can't be negated by "Solemn Judgment" or "Horn of Heaven".
+            

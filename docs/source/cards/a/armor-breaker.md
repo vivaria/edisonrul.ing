@@ -8,3 +8,20 @@
 *   The ② Trigger-like Effect activates & resolves on the field, it is the effect of an Equip Spell Card.
     *   This effect activates in Substep 5 - After Damage Calculation.
     *   This effect targets 1 card on the field.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Armor%20Breaker
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: you can activate 1 of these effects; ● Target 1 Warrior you control; equip this monster to that target.
+> ● Unequip and Special Summon this card in Attack Position.
+> ② While equipped by this effect, if the equipped monster inflicts Battle Damage: Target 1 card on the field; destroy it.
+> ③ If a monster equipped by this card's effect would be destroyed, destroy this card instead.
+> © A monster can never be equipped with more than 1 Union Monster.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+            

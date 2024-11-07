@@ -1,0 +1,13 @@
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Seven%20Tools%20of%20the%20Bandit
+
+### Edison-Accurate PSCT
+
+> ① If a Trap Card is activated: You can pay 1000 LP; negate the activation, and if you do, destroy it.
+
+### Card Rulings
+
+● This card can only negate Trap Cards, not the effects of Traps, so it can't negate an already face-up "Royal Oppression".
+            

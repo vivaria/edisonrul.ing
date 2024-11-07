@@ -7,3 +7,16 @@
     *   This effect targets 1 Zombie-Type monster in your Graveyard.
     *   If the target is no longer a Zombie-Type monster, it is not Special Summoned.
 *   If "Ancient Gear Beast" destroys this card by battle, you can activate this effect but it resolves negated.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Mezuki
+
+### Edison-Accurate PSCT
+
+> ① You can banish this card from your GY, then target 1 Zombie in your GY; Special Summon that target.
+
+### Card Rulings
+
+● If that target isn't a Zombie when this effect resolves, it isn't summoned.
+            

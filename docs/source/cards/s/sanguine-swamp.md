@@ -4,3 +4,17 @@
 
 *   The ①, ②, and ③ Continuous-like Effects do not start a Chain.
 *   If you activate "Sanguine Swamp" while you control face-down Spell or Trap Card(s), it is destroyed after it resolves.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Sanguine%20Swamp
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The,, and Continuous Effects don't start a Chain.
+●If you activate Sanguine Swamp while you control face-down Spell or Trap Card(s), it is destroyed after it resolves.
+            

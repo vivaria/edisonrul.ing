@@ -14,3 +14,20 @@
     *   If the activation of the effect of “Blackwing – Sirocco the Dawn” is negated, then your other monsters may attack this turn.
     *   If you have 2 copies of “Blackwing – Sirocco the Dawn” and target 2 different monsters with them, neither of those monsters can attack this turn.
     *   If “Skill Drain” is activated after the effect of “Blackwing – Sirocco the Dawn” resolves, then the effect is not negated. The ATK boost remains, and the other monsters cannot attack this turn.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Blackwing%20-%20Sirocco%20the%20Dawn
+
+### Edison-Accurate PSCT
+
+> Ⓢ If only your opponent controls a monster, you can Normal Summon/Set this card without Tributing.
+> ① Once per turn: You can target 1 "Blackwing" monster you control; until the End Phase, it gains ATK equal to the total ATK of all other "Blackwing" monsters on the field.
+> (You can't attack the turn you activate this effect, except with that target).
+
+### Card Rulings
+
+● The ① stops applying in the End Phase of the turn it was activated.
+● The target gains ATK equal to the ATK of all Blackwings on the field - including your opponent's.
+● If the target is set, and then flipped face-up, it doesn't gain any ATK, and you can't attack with it.
+            

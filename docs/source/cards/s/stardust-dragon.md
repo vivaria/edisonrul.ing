@@ -16,3 +16,21 @@
     *   This effect only activates "Stardust Dragon" successfully resolved its ① effect this turn.
     *   If this effect is negated (by "Royal Oppression" / "Divine Wrath"), it cannot activate again \[[REF](https://www.pojo.biz/board/showthread.php?t=656779)\].
     *   If your opponent controls your "Stardust Dragon" and they use its ① effect, you can Special Summon it from your Graveyard via its ② effect during the End Phase.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Stardust%20Dragon
+
+### Edison-Accurate PSCT
+
+> ① 1 Tuner + 1 or more non-Tuners
+> When a Spell/Trap Card/Effect, or Monster Effect, is activated, that would destroy a card(s) on the field when it resolves (Quick Effect):
+> You can Tribute this card; negate the activation, and if you do, destroy it.
+> ② During the End Phase, if this effect was activated this turn (and wasn't negated):
+> You can Special Summon this card from your GY.
+
+### Card Rulings
+
+● The ① effect can only negate Cards/Effects which would 100% destroy a card
+● If the activation or effect of the ② effect is negated, it can't activate again.
+            

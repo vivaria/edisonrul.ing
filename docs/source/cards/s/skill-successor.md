@@ -9,3 +9,22 @@
     *   Removing “Skill Successor” from play is a cost.
     *   This effect targets 1 face-up monster you control.
     *   This effect can be activated in the Damage Step before Substep 4 - Damage Calculation.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Skill%20Successor
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The effect activates & resolves on the field.
+●This effect targest 1 face-up monster you control.
+●This card can be activated in the Damage Step before Substep 4 - Damage Calculation.
+●The Quick Effect activates & resolves in the GY.
+●Removing “Skill Successor” from play is a cost.
+●This effect targets 1 face-up monster you control.
+●This effect can be activated in the Damage Step before Substep 4 - Damage Calculation.
+            

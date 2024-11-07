@@ -2,3 +2,17 @@
 
 *   You can only activate "Chaosrider Gustaph"'s effect during your Main Phase 1 or 2.
 *   "Chaosrider Gustaph"'s effect does not target.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Chaosrider%20Gustaph
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●You can only activate Chaosrider Gustaph's effect during your Main Phase 1 or 2.
+●Chaosrider Gustaph's effect does not target.
+            

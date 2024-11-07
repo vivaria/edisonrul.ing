@@ -25,3 +25,18 @@
 *   VS. "[My Body as a Shield](https://yugipedia.com/wiki/My_Body_as_a_Shield)":
     *   You CAN activate this card if at least one face-up monster you control would be destroyed.
     *   You CANNOT activate this card if your monster(s) that would be destroyed is face-down.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Deck%20Devastation%20Virus
+
+### Edison-Accurate PSCT
+
+> ① Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all cards they draw, and all monsters they control,
+> (until the end of their 3rd turn after activation),
+> and destroy those monsters with 1500 or less ATK.
+
+### Card Rulings
+
+● Monsters with ? ATK are treated as having 0 attack while face-down on the field or in the hand for this card, and will be destroyed by this effect.
+            

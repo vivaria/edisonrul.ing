@@ -21,3 +21,24 @@
     *   It applies in Substep 5 - After Damage Calculation before any chain is built.
     *   This can occur when “Relinquished” battles another Attack Position Monster, or when it attacks a Defense Position monster with DEF higher than its current ATK.
     *   The equipped monster is not treated as being 'destroyed by battle'.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Relinquished
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+● If this card is flipped face-down/leaves the field before its effect to equip resolves, the target is sent to the GY.
+● If you already have 5 cards in your S/T zone, you can't activate the effect to equip.
+● If "Sangan" is sent to the GY while equipped to this card, its effect will activate.
+● You can't target "Blindly Loyal Goblin" with this effect.
+● If Relinquised's effects become negated, the equipped monster is sent to the GY, and its ATK becomes 0.
+● While the effect of "Timidity" is active, you can't destroy a Set Monster Card equipped to this.
+●Equipped Token monsters have 0 ATK/DEF, and are destroyed by Token Thanksgiving.
+
+● Damage is only inflicted if the the destruction is prevented.
+            

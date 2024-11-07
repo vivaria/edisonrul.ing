@@ -12,3 +12,23 @@
 *   The ③ mandatory Trigger Effect activates in Substep 5 - After Damage Calculation.
     *   This effect will not trigger if 0 points of damage are dealt (due to "Waboku").
     *   The card discarded is at random, your opponent does not select which card is discarded.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Spirit%20Reaper
+
+### Edison-Accurate PSCT
+
+> ① can't be destroyed by battle.
+> ② After resolving an effect that targets this face-up card on the field, destroy this card.
+> ③ If this card inflicts Direct Battle Damage:
+> Your opponent discards 1 random card.
+
+### Card Rulings
+
+● This must be face-up after the targeting card resolves in order to be destroyed.
+(If the targeting card’s activation is negated, this card is not destroyed).
+(If the targeting card’s effect is negated, this card is still destroyed).
+● This card will be destroyed by its ② effect even if targeted by a continuous effect.
+(Such as an Equip Spell Card, or by “Call of the Haunted”).
+            

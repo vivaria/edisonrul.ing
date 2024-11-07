@@ -8,3 +8,17 @@
 *   Tributing 2 "3-Hump Lacoodas" is a cost.
 *   If your opponent chains "Ring of Destruction" or "Book of Moon" to the activation of "3-Hump Lacooda"'s effect, the effect is not negated.
 *   If you Summon your third "3-Hump Lacooda", you can activate its effect before your opponent activates "Torrential Tribute".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=3-Hump%20Lacooda
+
+### Edison-Accurate PSCT
+
+> ① If you control 3 "3-Hump Lacooda":
+> You can tribute 2 "3-Hump Lacooda"; draw 3 cards.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

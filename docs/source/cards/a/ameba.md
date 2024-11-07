@@ -7,3 +7,18 @@
     *   If your opponent uses "Mind Control" on a face-down "Ameba" and Flip Summons it, when it returns to you during the End Phase, its effect activates and you take 2000 damage.
 *   The Ⓒ Condition cannot be negated.
     *   The Ⓒ Condition is reset if this card is flipped face-down / leaves the field.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Ameba
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●This card’s effect is not activated when equipped to an opponent’s Relinquished.
+●If your opponent uses Mind Control on a face-down Ameba and Flip Summons it, when it returns to you during the End Phase, its effect activates and you take 2000 damage.
+●The ●The Condition is reset if this card is flipped face-down / leaves the field.
+            

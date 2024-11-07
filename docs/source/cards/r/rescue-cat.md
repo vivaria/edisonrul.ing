@@ -8,3 +8,16 @@
     *   A Special Summoned monster(s) that is flipped face-down (by "Book of Moon") is not destroyed.
     *   The Special Summoned monsters do not have their effects negated.
     *   Destroying the Special Summoned monsters in the End Phase does not start a chain.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Rescue%20Cat
+
+### Edison-Accurate PSCT
+
+> ① You can send this card you control to the GY; Special Summon 2 Level 3 or lower Beasts from your Deck (destroy them during the End Phase).
+
+### Card Rulings
+
+● If a monster summoned this way is later flipped face-down, it isn’t destroyed.
+            

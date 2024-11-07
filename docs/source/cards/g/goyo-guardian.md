@@ -12,3 +12,19 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
     *   Goyo battled a monster with equal ATK and both were destroyed.
     *   Goyo is removed from the field by the effect of "D.D. Warrior Lady".
     *   Goyo is removed from the field by a Flip Effect (ex: "Ryko, Lightsworn Hunter" or "Penguin Soldier").
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Goyo%20Guardian
+
+### Edison-Accurate PSCT
+
+> 1 Tuner + 1 or more non-Tuners
+> ① If this card destroys a monster by battle and sends it to the GY:
+> You can Special Summon that monster to your field in Defense Position.
+
+### Card Rulings
+
+● This card does not require an EARTH Tuner. You can use any Tuner (This is an Erratum).
+● This card’s effect specifies “and sends it to the GY”. It triggers at the end of the Damage Step, but not if the destroyed monster wasn’t sent to the GY, or if this card is no longer face-up on the field.
+            

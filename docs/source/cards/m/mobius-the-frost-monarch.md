@@ -10,3 +10,16 @@
     *   if Mobius was Tribute Summoned as Chain Link 2+ by "Ultimate Offering".
     *   if Mobius was Normal Summoned by "Mausoleum of the Emperor".
     *   if Mobius was Normal Summoned while treated as a Level 4 by "Cost Down".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Mobius%20the%20Frost%20Monarch
+
+### Edison-Accurate PSCT
+
+> ① If Tribute Summoned: You can target up to 2 Spells/Traps on the field; destroy those targets.
+
+### Card Rulings
+
+● If one target leaves the field before this effect resolves, the other is still destroyed.
+            

@@ -17,3 +17,25 @@
 *   You cannot use “Soul Exchange” for “Polymerization” because “Polymerization” does not use Tribute.
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of the DTP1 (2008) [erratum of Soul Exchange](https://yugipedia.com/wiki/Card_Errata:Soul_Exchange) are essential to authentic Edison Format play, as the text was not corrected to the initial effect until BP01 (2012).
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Soul%20Exchange
+
+### Edison-Accurate PSCT
+
+> ① Target 1 monster your opponent controls; this turn, if you Tribute a monster, you can Tribute that monster, as if you controlled it.
+> (You can't conduct your Battle Phase the turn you activate this card).
+
+### Card Rulings
+
+● Even if that monster becomes flipped face-down, you can still tribute it.
+● You are not forced to tribute that monster. You can tribute other monsters instead.
+● Face-down monsters don't have Types nor Attributes.
+You can't tribute an opponent's face-down monster for a Ritual Summon, not for "Icarus Attack".
+
+● If this card's activation is negated, you can still conduct your Battle Phase.
+● If this card's effect is negated, you can't conduct your Battle Phase.
+● You can use this card to tribute an opponent's face-up Plant for "Lonefire Blossom".
+● You can't use this card to tribute an opponent's monster for your "Exiled Force".
+            

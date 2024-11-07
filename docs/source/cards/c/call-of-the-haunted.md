@@ -7,3 +7,18 @@
 *   If an effect is chained that removes this card from the field, the target is not Special Summoned.  
     
 *   If "Royal Decree" is activated after "Call of the Haunted" has resolved, and later "Royal Decree" is destroyed, "Call of the Haunted" continues to target the Special Summoned monster.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Call%20of%20the%20Haunted
+
+### Edison-Accurate PSCT
+
+> ① Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position.
+> ② When this card leaves the field, destroy that target.
+> ③ When that target is destroyed, destroy this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

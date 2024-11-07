@@ -8,3 +8,19 @@
     *   This effect is applied if the condition is correct on activation ("8-Claws Scorpion" declared an attack against a face-down Defense Position monster.) The target monster does not have to be in face-down Defense Position when the effect of "8-Claws Scorpion" is resolved. So if "Final Attack Orders" is active, or "Ceasefire" flips the monster face-up, "8-Claws Scorpion" still gets its 2400 ATK.
     *   The ATK of "8-Claws Scorpion" becomes 2400 during damage calculation. You cannot chain "Rush Recklessly" or "Blast with Chain" to this effect. If these cards were activated before damage calculation, then the ATK of "8-Claws Scorpion" becomes 2400 during damage calculation so those cards have no effect on its ATK.
     *   Even if "8-Claws Scorpion" is equipped with an Equip Spell Card, its ATK is 2400 when it attacks a face-down Defense Position monster.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=8-Claws%20Scorpion
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: You can Set this card.
+> ② If this card attacks a Set monster, during Damage Calculation:
+> This card's ATK becomes 2400 until the end of Damage Calculation.
+
+### Card Rulings
+
+● This card's ① effect can only be used once per turn.
+(It "remembers" if it used this effect even after being Set).
+            

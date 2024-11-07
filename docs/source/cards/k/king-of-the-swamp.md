@@ -14,3 +14,23 @@
     *   This effect cannot activate if you have no copy of "Polymerization" in your Deck.
     *   This effect cannot activate if "Prohibition" declares "King of the Swamp".
     *   This effect cannot activate if you use "King of the Swamp" as Fusion Material from your hand.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=King%20of%20the%20Swamp
+
+### Edison-Accurate PSCT
+
+> ① This card can be used as a substitute for any 1 Specifically Listed Fusion Material Monster,
+> but the other Fusion Material(s) must be correct.
+> ② You can discard this card to the GY; add 1 "Polymerization" from your Deck to your hand.
+
+### Card Rulings
+
+● The ① effect doesn't apply while in the Deck.
+You can use this card in the Deck as Fusion Material as the WATER for "Elemental HERO Absolute Zero",
+but you can't use this card in the Deck as Fusion Material as the "Cyber Dragon" for "Chimeratech Overdragon".
+● You can't use the ① effect as a Specific Material for "Contact Fusion" like "Gladiator Beast Gyzarus".
+● You can onlt use the ① effect for a listed card name, like "Cyber Dragon".
+You can't use it for a generic name, like "1 "HERO" Monster".
+            

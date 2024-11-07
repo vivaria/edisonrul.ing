@@ -14,3 +14,20 @@
 *   The Ⓒ Condition cannot be negated.
     *   If a card effect causes this card to leave the field, it is treated as banished by this Condition.
     *   This card cannot be sent to the Graveyard as a cost while this Condition applies.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Totem%20Dragon
+
+### Edison-Accurate PSCT
+
+> ① This card can be treated as 2 Tributes for the Tribute Summon/Set of a Dragon.
+> ② During your Standby Phase, if this is in your GY, you control no monsters, and all monsters in your GY are Dragons:
+> You can Special Summon this card (banish it if it leaves the field).
+
+### Card Rulings
+
+● You can use this card as 2 Tributes for a Tribute Set of a Dragon.
+● The ② effect is not "once per turn". It it is negated by "Royal Oppression", it can be activated again in a new chain.
+● If this card becomes flipped face-down or equipped to a monster, "banish it if it leaves the field" is no longer applied to it.
+            

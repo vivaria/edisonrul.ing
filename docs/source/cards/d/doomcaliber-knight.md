@@ -22,3 +22,22 @@
 *   Example 3: Player A's "Giant Rat" is destroyed in battle and sent to the Graveyard while she has "Green Baboon, Defender of the Forest" in her hand and "Doomcaliber Knight" is face-up on the field. Player A can activate "Giant Rat" and/or "Green Baboon, Defender of the Forest"'s effect. If she activates both effects, she chooses the order the effects are placed onto the Chain, and "Doomcaliber Knight" will negate the effect that is placed highest on the Chain. If "Green Baboon, Defender of the Forest" is Chain Link 1 and "Giant Rat" is Chain Link 2, "Doomcaliber Knight" will negate "Giant Rat".
 *   Example 4: If "Sangan" is Tributed to Tribute Summon "Raiza the Storm Monarch" while "Doomcaliber Knight" is face-up on the field, "Sangan"'s effect is Chain Link 1 and "Raiza the Storm Monarch"'s effect is Chain Link 2. "Doomcaliber Knight"'s effect is chained, negating "Raiza the Storm Monarch"'s effect and destroying it.
 *   Example 5: Player A's "Sasuke Samurai #4" attacks Player B's "Neo-Spacian Grand Mole" while "Doomcaliber Knight" is face-up on the field. "Sasuke Samurai #4"'s effect is Chain Link 1 and "Neo-Spacian Grand Mole" is Chain Link 2. "Doomcaliber Knight"'s effect is chained, and it will negate and destroy "Neo-Spacian Grand Mole".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Doomcaliber%20Knight
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Special Summoned.
+> ① If a monster effect is activated (Quick): Tribute this face-up card; negate the activation, and if you do, destroy that monster.
+
+### Card Rulings
+
+● This effect is Mandatory. It can (and must) activate in any Step and any Phase,
+including Damage Calculation, and even in response to a effect triggered by an End Phase discard.
+● If 2 "Doomcaliber Knight" are on the field, when a monster effect is activated,
+both are tributedm, and both "try" to negate that monster effect.
+however, only the one with a Chain Link directly adjacent to that monster effect in the Chain
+(the first to activate) will actually negate that Monster Effect.
+            

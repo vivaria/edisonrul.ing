@@ -9,3 +9,17 @@
     *   If the target in your Graveyard is no longer a Zombie-Type monster, it is not Special Summoned, but the target in your opponent's Graveyard is still removed from play.
 *   You cannot activate this card unless both Graveyards have 1+ legal targets.
 *   You cannot activate this card if your opponent controls "Kycoo the Ghost Destroyer" / "Imperial Iron Wall".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Book%20of%20Life
+
+### Edison-Accurate PSCT
+
+> ① Target 1 Zombie monster in your GY and 1 monster in your opponent's GY; Special Summon the first target, also banish the second target.
+
+### Card Rulings
+
+● If either leaves the GY before this card resolves, the other target is still summoned/banished.
+● If that target isn't a Zombie when this effect resolves, it isn't summoned.
+            

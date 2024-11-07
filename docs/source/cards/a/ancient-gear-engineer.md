@@ -16,3 +16,29 @@
     *   This effect activates in Substep 7 - End of the Damage Step.
     *   This card must be face-up on the field to activate this effect.
     *   Do not activate this effect if this card is destroyed by battle / flipped face-down / leaves the field.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Ancient%20Gear%20Engineer
+
+### Edison-Accurate PSCT
+
+> ① Negate any Trap effect that targets this card, and if you do, destroy that Trap Card.
+> ② If this card attacks, your opponent cannot activate any Spell/Trap cards until the end of the Damage Step.
+> ③ At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap your opponent controls; destroy that target.
+
+### Card Rulings
+
+About the ① effect:
+● It is a Continuous Effect, it cannot apply while this card is face-down (e.g. if "Book of Moon" is chained to the Trap)
+
+About the ② effect:
+● It is a Continuous Effect, it applies from attack declaration until the Damage Step ends.
+● Spell/Trap effects may still be activated (e.g. the effect of an already activated "Ultimate Offerring"/"Royal Oppression" or the GY effect of "Skill Successor"), the Continuous Effect of Traps will also continue to apply.
+● After the Damage Step ends, it returns to the Battle Step. Then, the turn player retains priority to declare an attack, there is not a window for the opponent to activate a Spell/Trap inbetween two consecutive "Ancient Gear" attacks.
+● If this card is destroyed by battle, this effect stops applying at the start of substep 6 of the Damage Step.
+
+About the ③ effect:
+● This mandatory Trigger Effect starts a chain and targets a Spell/Trap your opponent controls.
+● This card must remain face-up on the field to activate this effect, it will not activate if this card is destroyed by battle.
+            

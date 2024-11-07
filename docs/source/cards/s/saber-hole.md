@@ -8,3 +8,16 @@
 *   This can negate Normal Summons, Flip Summons, Special Summons (like "Chaos Sorcerer"), Synchro Summons, and Contact Fusion Summons (like "Gladiator Beast Gyzarus").
 *   This can negate the Summon performed after an effect resolves as Chain Link 1 (ex: "Ultimate Offering").
 *   This cannot negate effects that perform a Special Summon (ex: "Polymerization", "Blackwing - Vayu the Emblem of Honor").
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Saber%20Hole
+
+### Edison-Accurate PSCT
+
+> ① If a Monster(s) would be Summoned while you control an "X-Saber" Monster, and there is no ongoing Chain: Negate the Summon, and if you do, destroy it.
+
+### Card Rulings
+
+● This card can only be used to negate the summon of a Monster(s) while there is no ongoing chain. It can negate Summons like that of "Cyber Dragon", but not monsters summoned by "Call of the Haunted".
+            

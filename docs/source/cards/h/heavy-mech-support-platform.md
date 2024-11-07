@@ -7,3 +7,16 @@
 *   If you have a monster, "X-Head Cannon" for example, equipped with "Heavy Mech Support Platform", and you activate "Limiter Removal", the ATK will becomes (1800 + 500) x 2 = 4600. Also, the "Heavy Mech Support Platform" will be destroyed instead of the "X-Head Cannon" during the End Phase (by the effect of "Limiter Removal") and "X-Head Cannon"'s ATK will no longer be doubled.
 *   If "Heavy Mech Support Platform" is equipped to "Big Core" or "Reflect Bounder" and they would be destroyed by their effect, "Heavy Mech Support Platform" is destroyed instead.
 *   If “Reflect Bounder” equipped with “Heavy Mech Support Platform” is attacked by “Dark Ruler Ha Des”, during damage calculation “Heavy Mech Support Platform” is destroyed instead of “Reflect Bounder”. Then, after damage calculation, “Reflect Bounder” will destroy itself by its own effect. Its effect is not negated, because it was not destroyed by “Dark Ruler Ha Des”.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Heavy%20Mech%20Support%20Platform
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+            

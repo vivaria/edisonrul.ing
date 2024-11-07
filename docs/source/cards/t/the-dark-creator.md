@@ -9,3 +9,21 @@
 *   The ① Ignition Effect activates & resolves on the field.
     *   Removing from play 1 DARK monster is a cost.
     *   This effect targets 1 DARK monster in your Graveyard.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=The%20Dark%20Creator
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The Condition can't be negated.
+●The Summon Effect does not start a chain.
+●This card must first be Special Summoned from the hand by the effect.
+●Once properly Summoned, this card can be Special Summoned from the GY / removed from play.
+●The ●Removing from play 1 DARK monster is a cost.
+●This effect targets 1 DARK monster in your GY.
+            

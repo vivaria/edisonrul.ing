@@ -18,3 +18,16 @@
 *   If "Call of the Haunted" is chained to "Reload" to Special Summon "Protector of the Sanctuary", your opponent adds his hand to his Deck and shuffles it, but "Protector of the Sanctuary" prevents him from drawing.
 *   If "Call of the Haunted" is chained to "Graceful Charity" to Special Summon "Protector of the Sanctuary", you cannot draw for the effect of "Graceful Charity" and you do not discard 2 cards.
 *   If "Call of the Haunted" is chained to "Mind Wipe" to Special Summon "Protector of the Sanctuary", your opponent adds his hand to the Deck and shuffles, but cannot draw any cards.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Protector%20of%20the%20Sanctuary
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

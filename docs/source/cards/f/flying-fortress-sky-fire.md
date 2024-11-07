@@ -12,3 +12,22 @@
 *   If your opponent flips a card face-down, such as with “Book of Moon”, you can activate effect #2 of “Flying Fortress SKY FIRE” to destroy the Set card.
 *   The effects of “Flying Fortress SKY FIRE” that can be activated during the opponent’s turn cannot be activated during the Damage Step.
 *   If the opponent Summons a monster with an Ignition Effect, they can activate the effect, and then you choose whether or not to chain the Trigger Effect of “Flying Fortress SKY FIRE”.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Flying%20Fortress%20SKY%20FIRE
+
+### Edison-Accurate PSCT
+
+> © Cannot be Normal Summoned/Set.
+> © Must be Special Summoned by the effect of "Summon Reactor SK".
+> ① Once per turn: You can send 1 card from your hand to the GY, then target 1 card your opponent controls; destroy it.
+> ② Once per turn, during your opponent's turn, if your opponent Normal/Special Summons a monster(s), or Sets a card(s), you can (Quick): Destroy that card(s), and if you do, inflict 800 damage to your opponent.
+
+### Card Rulings
+
+●The ② is a Quick Effect.
+● If monsters are Summoned and cards are Set at the same time, you can only choose to destroy monsters or Set cards with the ②.
+● If a card is Set with "Book of Moon", you can destroy it with the ②.
+● The ② can't be activated during the Damage Step, so you can't activate it if a monster is Summoned by the effect of "Giant Rat".
+            

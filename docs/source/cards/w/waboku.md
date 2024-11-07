@@ -7,3 +7,16 @@
 *   SCENARIO 2: Player A activates "Waboku". Player A's "Mega Thunderball" then attacks Player B's "Mega Thunderball". RESULT: Player B's "Mega Thunderball" is destroyed. Player A's (attacking) "Mega Thunderball" is NOT destroyed. So you can use "Waboku" "offensively" when attacking an equal ATK monster.
 *   SCENARIO 3: Player A activates "Waboku". Player A's "Blue-Eyes White Dragon" then attacks Player B's "Sanga of the Thunder". Player B uses "Sanga of the Thunder"'s effect (during the Damage Step). RESULT: Player A's "Blue-Eyes White Dragon" (ATK 0) is not destroyed, nor does Player A lose any Life Points, because of Player A's "Waboku".
 *   SCENARIO 4: Player A's "Mega Thunderball" attacks Player B's "Mega Thunderball". Player B activates "Fairy Box" or "Mirror Wall". Player A activates "Waboku". RESULT: Player A's "Mega Thunderball" (with reduced ATK) is not destroyed, nor does Player A lose any life points, because of Player A's "Waboku". But because Player A's "Mega Thunderball" had reduced ATK, Player B's "Mega Thunderball" is not destroyed either.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Waboku
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

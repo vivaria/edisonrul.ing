@@ -6,3 +6,18 @@
     *   This effect activates in Substep 7 - End of the Damage Step.
     *   This card must be face-up on the field to activate this effect \[[REF](https://www.edisonformat.com/home/basic-strategy-will-it-trigger)\].
     *   The Level is the original Level printed on the card.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Absorbing%20Kid%20from%20the%20Sky
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The ●This effect activates in Substep 7 - End of the Damage Step.
+●This card must be face-up on the field to activate this effect.
+●The Level is the original Level printed on the card.
+            

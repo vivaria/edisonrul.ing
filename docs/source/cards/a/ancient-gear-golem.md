@@ -14,3 +14,18 @@
     *   Continuous-like Effects of Spell / Trap Cards still apply.
     *   The effects of face-up Spell / Trap Cards can still activate (ex: “Ultimate Offering” or “Skull Lair”).
     *   Spell / Trap Cards cannot be activated (flipped face-up / played from the hand).
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Ancient%20Gear%20Golem
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Special Summoned.
+> ① While this card is attacking, opponent can't activate Spell/Trap Cards until the end of the Damage Step.
+> ② Ifnlicts Piercing Damage.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

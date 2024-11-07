@@ -13,3 +13,18 @@
     *   DO NOT negate the Normal Summon from "Ultimate Offering" / "Mausoleum of the Emperor".
     *   DO NOT negate the Fusion Summon after "Polymerization" resolved.
     *   DO NOT negate the Synchro Summon after "Urgent Tuning" resolved.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Solemn%20Judgment
+
+### Edison-Accurate PSCT
+
+> ① If a monster(s) would be Summoned,
+> OR if a Spell/Trap Card is activated: Pay half your LP; negate the Summon/Activation, and if you do, destroy it.
+
+### Card Rulings
+
+This effect can't negate monster effects that start a chain, even if that effect would special summon a monster.
+For example, it can't negate Gorz, The Emissary of Darkness' effect.
+            

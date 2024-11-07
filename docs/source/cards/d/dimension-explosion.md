@@ -6,3 +6,19 @@
 *   This card targets removed from play monsters for both players.
 *   This card CANNOT be activated unless both players have at least 1 removed from play monster.
 *   This card CANNOT be activated unless both players have at least 1 open Monster Card Zone.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dimension%20Explosion
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+Return 1 face-up Fusion Monster you control to the Fusion Deck. ●Returning 1 face-up Fusion Monster you control to the Extra Deck is a cost.
+●This card targets removed from play monsters for both players.
+●This card can't be activated unless both players have at least 1 removed from play monster.
+●This card can't be activated unless both players have at least 1 open Monster Card Zone.
+            

@@ -4,3 +4,16 @@
 
 *   The effect to draw a card while “Oilman” is equipped starts a Chain.
 *   Equipping “Oilman” is an Ignition Effect, and the effects while equipped are considered as effects of a Spell Card.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Oilman
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+            

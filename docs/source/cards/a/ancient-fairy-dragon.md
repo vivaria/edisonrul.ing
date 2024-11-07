@@ -16,3 +16,26 @@
     *   You must destroy a Field Spell(s) AND gain 1000 Life Points in order to search a Field Spell.
     *   The last thing to happen is the optional "_add 1 Field Spell Card from your Deck to your hand._"
         *   A destroyed "Geartown" can't activate its effect if a Field Spell is added to the hand \[[REF](https://www.pojo.biz/board/showpost.php?p=21983320&postcount=2)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Ancient%20Fairy%20Dragon
+
+### Edison-Accurate PSCT
+
+> 1 Tuner + 1+ non-Tuner monsters
+> ① Once per turn: You can Special Summon 1 Level 4 or lower monster from your hand
+> (You can't conduct your Battle Phase the turn you activate this effect).
+> ② Once per turn: You can destroy a card in the Field Spell Card Zone, and if you do, gain 1000 LP,
+> then you can add 1 Field Spell from your Deck to your hand.
+
+### Card Rulings
+
+And if you do" effects are simultaneous. "Then" effects are sequential.
+Simultaneous effects don't cause cards to miss their timing.
+Sequential effects can cause cards to miss their timing.
+● If "Geartown" is destroyed, and no Field Spell is searched, you CAN activate Geartown's effect.
+● If "Geartown" is destroyed, and a Field Spell is searched, you CAN'T activate Geartown's effect.
+You can read more about Timing here:
+https://edisonformat.net/rules/compendium/missing-the-timing
+            

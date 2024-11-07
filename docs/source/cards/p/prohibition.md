@@ -32,3 +32,27 @@
     *   If "Prohibition" is no longer negated, any declared card(s) on the field remain unaffected.
 *   VS. "Exodia the Forbidden One": when a player has all five pieces of Exodia in their hand, they win the Duel. This is a win condition and cannot be prevented with "Prohibition" \[[REF](https://www.pojo.biz/board/showthread.php?t=612954&highlight=prohibition)\].
 *   VS: "Parasite Paracide": After being shuffled into your opponent's Deck, if "Prohibition" is activated and declares "Parasite Paracide", when your opponent draws "Parasite Paracide" its effect is applied because its Flip Effect had already resolved \[[REF](https://www.pojo.biz/board/showthread.php?t=612954&highlight=prohibition)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Prohibition
+
+### Edison-Accurate PSCT
+
+> ①If this card is activated:
+> Declare 1 card name.
+> ② Cards/effects with that name (except cards already on the field, even if Set) can't be used.
+
+### Card Rulings
+
+“Used” means that that card can’t:
+● Be Activated from hand
+● Be Set from hand.
+● Be Summoned from hand nor Extra Deck.
+● Activate/Apply its effects.
+● Be used as Material for a Fusion/Synchro Summon.
+● Change its Battle Position
+● Declare an Attack.
+
+For more information: https://edisonformat.net/rules/compendium/prohibition
+            

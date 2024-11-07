@@ -27,3 +27,28 @@
     *   If the total ATK of all Plant-Type monsters (+ ATK modifiers) is not the same as the ATK of the target, the target is not Summoned (you still destroy "Black Garden" and all Plant-Type monsters).
 *   "Royal Oppression" CANNOT be activated when "Black Garden" is activated (played face-up).
     *   "Royal Oppression" (and its effect) can chain to either of "Black Garden"'s effects.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Black%20Garden
+
+### Edison-Accurate PSCT
+
+> ① If a monster(s) is Normal/Special Summoned (except by “Black Garden”): Halve its ATK, also, if it is still on the field (even if face-down), you Special Summon 1 “Rose Token” (Plant/DARK/Level 2/ATK 800/DEF 800) to that monster's opponent's field, in Attack Position.
+> ② You can target 1 monster in your GY with ATK equal to the total ATK of all face-up Plants; destroy this card and as many Plants on the field as possible, then, if you destroyed all of them, Special Summon that target.
+
+### Card Rulings
+
+Regarding Summoning Tokens with the ①:
+● A token is Summoned even if the monster's ATK can't be halved, as long as the monster is still on the field when the ① resolves (even if it's face-down/was summoned face-down).
+● Even if 2+ monsters are summoned at the same time, only 1 Token is Summoned.
+● The player who Summons the token is always the player who controls Black Garden.
+● The "owner" of the token is opponent of the player whose field it is Summoned to.
+If you control Garden and activate Scapegoat, no Rose Token is Summoned.
+If you control Garden, and the opponent activates Scapegoat, you Summon a Rose Token.
+
+Halving ATK with the ①:
+● The ATK loss remains even if Garden leaves the field or later becomes negated.
+● If "Shrink" is later used on the monster whose ATK was halved:
+Its ATK becomes half its original ATK, and in the End Phase, its ATK becomes its original (printed) ATK.
+            

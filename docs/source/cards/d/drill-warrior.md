@@ -25,3 +25,35 @@
     *   If this effect resolves while your Monster Card Zones are all occupied, the banished "Drill Warrior" is sent to the Graveyard, and you do not add a monster from the Graveyard to your hand \[[REF](https://www.pojo.biz/board/showthread.php?t=900049)\].
     *   If this effect is negated (by "Royal Oppression"), "Drill Warrior" remains removed from play and cannot activate this effect again \[[REF1](https://www.pojo.biz/board/showthread.php?t=832275), [REF2](https://www.pojo.biz/board/showthread.php?t=656779)\].
     *   VS. "Torrential Tribute": If "Drill Warrior" adds a monster from the Graveyard to the hand, then "Torrential Tribute" cannot activate. "Torrential Tribute" can activate if a monster cannot be added.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Drill%20Warrior
+
+### Edison-Accurate PSCT
+
+> Drill Synchron" + 1 or more non-Tuners
+> ① Once per turn, during your Main Phase 1:
+> You can halve this card’s ATK, and if you do, this turn, it can attack directly.
+> ② Once per turn: You can discard 1 card,
+> and if you do, banish this card.
+> ③ If you do, during your next Standby Phase:
+> Special Summon this banished card, then add 1 monster from your GY to your hand.
+
+### Card Rulings
+
+The ①:
+● ATK remains halved until Drill leaves the field or is flipped face-down.
+
+● The ②:
+● Discarding is part of the effect, not a cost.
+● If "Book of Moon" is chained, you still discard 1 card, and this card is still banished.
+● If "Raigeki Break" is chained, you still discard 1 card, but this card is not banished.
+● A discarded "Peten the Dark Clown" will not miss its timing. You can read more about that here: https://edisonformat.net/rules/compendium/conjunctions
+
+The ③:
+● This card is always Summoned to its owner's field (even if it was banished from the other player's field).
+● If you control 5 monsters, Drill is sent to GY instead of being Summoned (no card is added to the hand).
+● If you add a monster to your hand, “add 1 monster” happens after “Special Summon this card”, so cards like Torrential Tribute will have incorrect activation timing.
+Read more about that here: https://edisonformat.net/rules/compendium/missing-the-timing
+            

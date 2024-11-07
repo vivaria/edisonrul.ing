@@ -4,3 +4,16 @@
 *   "Zaborg the Thunder Monarch"'s effect targets.
 *   If you target "Chaos Command Magician" with "Zaborg the Thunder Monarch"'s effect, the effect is negated.
 *   If you Tribute Set "Zaborg the Thunder Monarch" face-down the effect is not activated.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Zaborg%20the%20Thunder%20Monarch
+
+### Edison-Accurate PSCT
+
+> ① If Tribute Summoned: Target 1 monster on the field; destroy it.
+
+### Card Rulings
+
+● This effect is mandatory.
+            

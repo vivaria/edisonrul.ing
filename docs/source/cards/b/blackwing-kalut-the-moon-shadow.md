@@ -6,3 +6,17 @@
 *   The effect of “Blackwing – Kalut the Moon Shadow” does not target.
 *   You can send “Blackwing – Kalut the Moon Shadow” to the Graveyard during either player’s turn, as it is a Quick Effect.
 *   This effect CAN be activated in Substep 4 - Damage Calculation of the Damage Step.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Blackwing%20-%20Kalut%20the%20Moon%20Shadow
+
+### Edison-Accurate PSCT
+
+> ① During the Damage Step, if a "Blackwing" monster you control battles (Quick effect):
+> You can send this card from your hand to the GY; until the End Phase, that monster gains 1400 ATK.
+
+### Card Rulings
+
+● This effect can be activated at any time in the Damage Step, even During Damage Calculation.
+            

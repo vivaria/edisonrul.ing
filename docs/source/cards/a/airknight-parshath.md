@@ -9,3 +9,21 @@
     *   Drawing a card is not optional. You must draw 1 card any time "Airknight Parshath" inflicts Battle Damage to the opponent’s Life Points. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.
     *   If the opponent activates "Waboku" or "Kuriboh" to reduce the Battle Damage to 0, you do not draw.
     *   When "Airknight Parshath" attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is activated (in Substep 6 - Resolve Effects).
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Airknight%20Parshath
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The ●This effect won't apply if Total Defense Shogun attacks this card from Defense Position.
+●The mandatory Trigger Effect activates & resolves on the field.
+●This effect activates in Substep 5 - After Damage Calculation.
+●Drawing a card is not optional. You must draw 1 card any time Airknight Parshath inflicts Battle Damage to the opponent’s Life Points. This includes direct attacks, and when it battles with a monster with a lower ATK or DEF.
+●If the opponent activates Waboku or Kuriboh to reduce the Battle Damage to 0, you don't draw.
+●When Airknight Parshath attacks a face-down monster with a Flip Effect and inflicts Battle Damage, you draw 1 card before the Flip Effect is activated (in Substep 6 - Resolve Effects).
+            

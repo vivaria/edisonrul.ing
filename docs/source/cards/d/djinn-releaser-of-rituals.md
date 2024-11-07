@@ -19,3 +19,32 @@
     *   This is not treated as an additional effect of the Ritual Monster.
     *   This imparted effect disappears if the Ritual Monster is removed from the field / flipped face-down.
     *   VS. "Brain Control": Whoever Summoned the Ritual Monster with Djinn may still Special Summon.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Djinn%20Releaser%20of%20Rituals
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The Unclassified Effect can't be negated.
+●This effect can't be applied while Necrovalley is active.
+●This effect does not start a chain.
+●Remove this card from play when resolving the Ritual Spell Card's effect.
+●More than 1 “Djinn Releaser of Rituals” can be removed from play for a Ritual Summon.
+●This card in your GY can be used even if you have no monsters to Tribute for a Ritual Summon.
+●This effect can be used while “Mask of Restrict” applies, but monsters can't be Tributed.
+●This card can't be used for a Ritual Summon conducted with “Advanced Ritual Art.”
+●This card can only be used as 1 of the Tributes for a Ritual Summon, regardless of whether you Tribute it normally or remove it from play.
+●If you remove this card from play for the Ritual Summon of “Divine Grace – Northwemko” it counts towards the number of cards you can select for the effect of “Divine Grace – Northwemko.”
+●If “D.D. Crow” is Chained to a Ritual Spell removing this card in your GY from play, the Ritual Spell resolves normally and you will Tribute monsters you control or monsters in your hand. If you don't have the required monsters, your opponent verifies your hand and Set monsters.
+●The Unclassified Effect applies whether tributed from hand/field or banished from the GY.
+●The opponent of the player who Summoned the Ritual Monster can't Special Summon
+●This imparted effect applies even if Skill Drain is active.
+●This is not treated as an additional effect of the Ritual Monster.
+●This imparted effect disappears if the Ritual Monster is removed from the field / flipped face-down.
+●VS. Brain Control: Whoever Summoned the Ritual Monster with Djinn may still Special Summon.
+            

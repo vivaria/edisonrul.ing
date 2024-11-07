@@ -13,3 +13,20 @@
 *   The ① Quick Effect can be activated during either player's turn.
     *   This card must be face-up on the field to activate and resolve this effect.
     *   Discarding 1 card is a cost.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Heraklinos
+
+### Edison-Accurate PSCT
+
+> Gladiator Beast Laquari" + 2 "Gladiator Beast" monsters
+> Ⓢ Must first be Special Summoned (from your Extra Deck)
+> by shuffling the above cards you control into the Deck (You don't use "Polymerization").
+> ① If a Spell/Trap Card is activated (Quick): You can discard 1 card; negate the activation, and if you do, destroy it.
+
+### Card Rulings
+
+● If this card was originally Special Summoned by its own procedure, it can still later be Summoned by card effects.
+● If when resolving the ① effect this card is not face-up on the field, it will resolve successfully (due to TCG vs OCG ruling differences at the time).
+            

@@ -22,3 +22,26 @@
         *   They are not combined onto the same Chain.
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Gaiodiaz
+
+### Edison-Accurate PSCT
+
+> Gladiator Beast Spartacus" + 1 "Gladiator Beast" monster
+> Ⓢ Must first be Special Summoned (from your Extra Deck)
+> by shuffling the above cards you control into the Deck (You don't use "Polymerization").
+> ① If this card destroys a monster by battle and sends it to the GY:
+> Your opponent takes damage equal to that monster's original DEF.
+> ② At the end of the Battle Phase, if this battled:
+> You can shuffle it into the Deck; Special Summon 2 "Gladiator Beast" monsters from your Deck.
+
+### Card Rulings
+
+● “Battling” requires this card to be involved in Damage Calculation
+(If this card's attack is negated, the ② effect can't activate).
+● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase,
+they don’t go on the same Chain (they each activate, one after another, each on their own Chain).
+● If this card was originally Special Summoned by its own procedure, it can still later be Summoned by card effects.
+            

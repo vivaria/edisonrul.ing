@@ -11,3 +11,21 @@
         *   The key conjunction employed here is "_and_" and how "_do A and B_" is ruled by P.S.C.T. today.
         *   See "[Acorno](https://yugipedia.com/wiki/Acorno)" for a comparable effect written with P.S.C.T.
 *   This card's Ⓒ Conditions are not Effects. They cannot be negated.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Quickdraw%20Synchron
+
+### Edison-Accurate PSCT
+
+> ① During your Main Phase: You can send 1 other monster from your hand to the GY, and Special Summon this card from your hand.
+> Ⓒ For a Synchro Summon, you can substitute this card for any 1 "Synchron" Tuner.
+> Ⓒ can't be used as a Synchro Material, except for a monster that lists a "Synchron" Tuner as material.
+
+### Card Rulings
+
+● The ① effect is an ignition effect. It activates, and can be chained to.
+● Sending a card to the GY is part of the ① effect. It happens when this effect resolves.
+If you can't send, you can't Summon. If you can't Summon, you don't send.
+(If the effect is negated, you don't send a card from your hand to the GY)
+            

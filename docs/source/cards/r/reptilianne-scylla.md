@@ -5,3 +5,16 @@
 *   This card looks at the ATK of the destroyed monster during damage calculation. If a monster with an original ATK of 0 is destroyed by battle with "[Reptilianne Scylla](https://yugioh.fandom.com/wiki/Reptilianne_Scylla)" while its ATK is increased by another effect, you cannot Special Summon it. If a monster whose ATK is reduced to 0 by an effect like "[Twin Swords of Flashing Light - Tryce](https://yugioh.fandom.com/wiki/Twin_Swords_of_Flashing_Light_-_Tryce)" is destroyed by battle with "[Reptilianne Scylla](https://yugioh.fandom.com/wiki/Reptilianne_Scylla)", you can Special Summon it.  
       
     
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Reptilianne%20Scylla
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

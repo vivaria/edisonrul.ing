@@ -8,3 +8,17 @@
     *   If "Alien Kid" is face-up on the field when multiple monsters are Special Summoned simultaneously, then each Special Summoned monster gains one A-Counter.
 *   The ② Continuous Effect applies while this card is face-up on the field.
     *   If this card is not on the field, a monster with an A-Counter won't lose ATK when battling an "Alien".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Alien%20Kid
+
+### Edison-Accurate PSCT
+
+> ① If a monster(s) is Special Summoned to your opponent's field, place 1 A-Counter on it.
+> ② Monsters with A-Counters lose 300 ATK/DEF for each A-Counter on them, while battling an 'Alien' monster, during Damage Calculation only.
+
+### Card Rulings
+
+●While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.
+            

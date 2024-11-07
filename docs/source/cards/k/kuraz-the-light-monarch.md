@@ -12,3 +12,20 @@
     *   If 2 of your cards were destroyed, you choose to draw 2 cards or 0 cards, you cannot draw 1 card.
 *   The ② Continuous Effect does not activate.
     *   This effect does not apply if Kuraz' effects are negated.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Kuraz%20the%20Light%20Monarch
+
+### Edison-Accurate PSCT
+
+> ① can't attack the turn it was Normal/Special Summoned.
+> ② When Normal/Special Summoned:
+> You can target up to 2 cards on the field; destroy those targets, and if you do, each player can draw 1 card for each of their cards destroyed this way.
+
+### Card Rulings
+
+● Destroying and drawing are simultaneous.
+This does not cause anything to miss its timing.
+● If 1 target is no longer on the field when this resolves, the other is still destroyed.
+            

@@ -5,3 +5,18 @@
 *   The ① Trigger Effect is mandatory.
     *   This effect only activates when it is sent from your side of the field to your Graveyard.
     *   This effect does not activate if “Dark Tinker” is sent to your Graveyard under your opponent's control.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dark%20Tinker
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The Trigger Effect is mandatory.
+●This effect only activates when it is sent from your side of the field to your GY.
+●This effect does not activate if “Dark Tinker” is sent to your GY under your opponent's control.
+            

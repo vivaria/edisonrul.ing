@@ -9,3 +9,18 @@
 *   You cannot activate this card if your opponent has no cards in their Deck.
 *   Both parts of this card’s effect are considered to resolve at the same time.
 *   If this card is Chain Link 2, the negated effect does not resolve, the Chain ends after the opponent draws.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Dark%20Bribe
+
+### Edison-Accurate PSCT
+
+> ① If your opponent activates a Spell/Trap Card:
+> They draw 1 card, also you negate the activation, and if you do, destroy it.
+
+### Card Rulings
+
+● This card can only negate the initial activation of Spell/Trap Cards.
+It can't negate the effect of an already face-up "Royal Oppression".
+            

@@ -14,3 +14,22 @@
     *   If you activate the effect of “Anteatereatingant”, then activate “Skill Drain”, “Anteatereatingant” still can’t attack that turn. (Even if “Skill Drain” was chained to the effect.)
     *   You CAN activate the effect of “Anteatereatingant”, flip it face-down with a card effect, then Flip Summon it, and either activate its effect again or attack. This is because flipping it face-down resets its effect. (Also, if it’s temporarily removed from play, its effect will also reset.)
     *   If the targeted Spell or Trap Card is removed from the field in a chain to this card’s effect, you still cannot use its effect again or attack that turn. If a targeted Spell Card is not destroyed because of a counter from “Magic Reflector”, you still cannot use this card’s effect again or attack that turn.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Anteatereatingant
+
+### Edison-Accurate PSCT
+
+> © Cannot be Normal Summoned/Set.
+> © Must be Special Summoned (from your hand) by sending 2 Spells/Traps you control to the GY.
+> ① During your Main Phase: You can target 1 Spell/Trap your opponent controls; destroy that target.
+> (this card can't attack during the turn you activate this effect).
+
+### Card Rulings
+
+● If you already can't attack, you can't activate this effect.
+This means that you can't activate this effect on the fist turn, and you can't activate it if this effect has already been activate this turn.
+● The only way you can Special Summon this card is via its own procedure.
+Even if it was initially summoned that way, you still can't summon it with card effects.
+            

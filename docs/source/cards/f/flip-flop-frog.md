@@ -10,3 +10,20 @@
     *   This effect activates during Substep 6 - Resolve Effects (of the Damage Step).
     *   The number of monsters you can return to the hand is determined when the effect resolves.
     *   This card counts towards the face-up "Frog" monsters you control, even if it is destroyed by battle.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Flip%20Flop%20Frog
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: You can Set this card.
+> ② When flipped face-up: You can return any number of monsters from the field to the hand, up to the number of "Frog" monsters you control..
+
+### Card Rulings
+
+● This card's ① effect can only be used once per turn.
+(It "remembers" if it used this effect even after being Set).
+● If this Set card is attacked, it's still on the field when its effect resolves, so it counts itself towards the number of monsters to return to the hand.
+● This effect doesn't target (PSCT from this bot will always state when an effect targets).
+            

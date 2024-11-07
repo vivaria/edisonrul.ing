@@ -8,3 +8,21 @@
     *   If the target’s Level is <5 when this effect resolves, reduce it’s Level and Summon "Level Eater".
     *   If "Level Eater" leaves the Graveyard before this effect resolves, you still reduce the target’s Level.
     *   That monster's Level is reduced so long as it remains face-up on the field.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Level%20Eater
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●This Ignition Effect activates & resolves in the GY.
+●This effect targets a Level 5+ monster you control.
+●If the target's Level can't be reduced, Level Eater remains in the GY.
+●If the target’s Level is <5 when this effect resolves, reduce it’s Level and Summon Level Eater.
+●If Level Eater leaves the GY before this effect resolves, you still reduce the target’s Level.
+●That monster's Level is reduced so long as it remains face-up on the field.
+            

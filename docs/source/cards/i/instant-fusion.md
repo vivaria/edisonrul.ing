@@ -18,3 +18,17 @@
     *   If "Instant Fusion"'s activation is negated by "Dark Bribe", you can activate another copy.
     *   If "Instant Fusion"'s effect is negated by "Royal Oppression", you cannot activate another copy.
     *   If “Destiny Hero - Diamond Dude” reveals “Instant Fusion”, in your next turn you can activate(play face-up) “Instant Fusion” as well as the effect of "Instant Fusion" (revealed by Diamond Dude).
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Instant%20Fusion
+
+### Edison-Accurate PSCT
+
+> ① Pay 1000 LP; Fusion Summon 1 Level 5 or lower Fusion Monster from your Extra Deck (it cannot attack, also Destroy it during each End Phase)
+> (You can only activate 1 "Instant Fusion" per turn).
+
+### Card Rulings
+
+● If that monster becomes flipped face-down, the effects "Its effects are negated, also it is destroyed during each End Phase" are no longer applied to it.
+            

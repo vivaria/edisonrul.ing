@@ -5,3 +5,16 @@
 *   If this card is used as a Tribute for a Special Summon, such as a Ritual Summon, the effect of this card is not activated.
 *   If the Tribute Summon of a Fiend-Type monster is negated by "Solemn Judgment" or "Horn of Heaven", the effect of "Skull Knight #2" will not activate.
 *   If the opponent chains "Torrential Tribute" to the effect of "Skull Knight #2", all monsters will be destroyed (including the Level 5 or higher Fiend-Type monster that was Tribute Summoned) and then "Skull Knight #2" will be Special Summoned from your Deck. If the opponent waits until the effect of "Skull Knight #2" resolves and another copy is Special Summoned, and then activates "Torrential Tribute" in response to that Summon, all the monsters will be destroyed.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Skull%20Knight
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

@@ -8,3 +8,18 @@
     *   You can activate "Hero Blast" when you opponent doesn't have any face-up monsters.
 *   This effect MUST attempt to destroy an opponent's face-up monster, if its ATK is lower than the target's.
     *   "My Body as a Shield" can be activated if 1+ of your face-up monsters has less ATK than the "Elemental Hero" Normal Monster your opponent targeted with this effect.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Hero%20Blast
+
+### Edison-Accurate PSCT
+
+> ① Target 1 "Elemental HERO" Normal Monster in your GY; add that target to your hand, then if your opponent controls any monsters with ATK less than or equal to that target's ATK, destroy 1 of them.
+
+### Card Rulings
+
+● You can activate this card even if your opponent controls no monsters.
+● If no card is returned to the hand, no monster is destroyed.
+● "Stardust Dragon"'s effect can be chained to this, but only if there is a monster on the field that would be destroyed.
+            

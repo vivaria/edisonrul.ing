@@ -10,3 +10,18 @@
 *   The ② optional Trigger Effect activates & resolves in the Graveyard.
     *   This effect targets 1 Gemini monster in your Graveyard.
     *   This effect will can activate even during the Damage Step.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Black%20Brutdrago
+
+### Edison-Accurate PSCT
+
+> 1 Tuner + 1 or more non-Tuner Gemini monsters
+> ① Once per turn: You can send 1 Gemini monster from your hand to the GY, then target 1 Spell/Trap your opponent controls; destroy that target.
+> ② When destroyed and sent to the GY: You can target 1 Gemini Monster in your GY; Special Summon it (it's treated as an Effect Monster, and gains its effects).
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

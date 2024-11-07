@@ -8,3 +8,17 @@
     *   If "Skill Drain" is active and "Armor Exe" is Summoned, or if "Skill Drain" is activated after "Armor Exe" is Summoned, in both cases "Armor Exe" CAN attack the same turn it was Summoned.
 *   The Ⓜ Maintenance Cost is not an effect, it can't be negated.
     *   Removing a Spell Counter from "Armor Exe" is a cost. If you can't do this, this card is destroyed immediately (this doesn't start a Chain).
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Armor%20Exe
+
+### Edison-Accurate PSCT
+
+> ① can't attack the turn it is Normal, Flip, Special, or Egg summoned.
+> Ⓜ During each Standby Phase, remove 1 Spell Counter from your field or destroy this card.
+
+### Card Rulings
+
+● This card's name is pronounced "Egg-Zay". Is it NOT ".exe", "ecks-y", or any alternative.
+            

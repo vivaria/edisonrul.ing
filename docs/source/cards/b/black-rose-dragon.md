@@ -10,3 +10,18 @@
     *   If the target is in face-down Defense Position, its Flip Effect will activate after this effect resolves.
     *   A monster whose ATK was changed to 0 can have its ATK increased by cards/effects.
         *   The change is applied to 0 ATK.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Black%20Rose%20Dragon
+
+### Edison-Accurate PSCT
+
+> 1 Tuner + 1+ non-Tuners
+> ① When Synchro Summoned: You can destroy all cards on the field.
+> ② Once per turn: You can banish 1 Plant from your GY, then target 1 opponent's Defense Position monster; change that target to Attack Position, and if you do, until the End Phase, its ATK becomes 0.
+
+### Card Rulings
+
+● If Synchro Summoned using "Dandylion", This ① effect can only be activated as Chain Link 2 (the tokens will be summoned after all cards are destroyed).
+            

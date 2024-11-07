@@ -8,3 +8,18 @@
 *   If “Sea Dragon Lord Gishilnodon” has its ATK halved by “Blackwing – Gale the Whirlwind,” and then its effect is triggered and it gets 3000 ATK, after the turn ends its ATK reverts to normal (2300, plus any other continuous effects like Field Spell Cards).
 *   “Sea Dragon Lord Gishilnodon’s” DEF will remain halved by “Blackwing – Gale the Whirlwind.” “Sea Dragon Lord Gishilnodon” activates its effect when a monster is sent to the Graveyard that was Level 3 or lower on the field and Level 3 or lower in the Graveyard.
 *   If a Level 4 monster that is Level 3 because of “A Legendary Ocean” is sent to the Graveyard, the effect of “Sea Dragon Lord Gishilnodon” does not activate.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Sea%20Dragon%20Lord%20Gishilnodon
+
+### Edison-Accurate PSCT
+
+> 1 Tuner + 1 Level 3 non-Tuner
+> ① If a face-up Level 3 or lower monster is sent from the field to the GY:
+> until the End Phase, this card's ATK becomes 3000.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

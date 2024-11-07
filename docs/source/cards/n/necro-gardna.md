@@ -12,3 +12,17 @@
 *   This effect CANNOT be activated during your turn.
 *   VS. "Red Dragon Archfiend": If an attack is negated, with "Magic Cylinder", etc., the monster is destroyed by "Red Dragon Archfiend"'s effect in your End Phase.
 *   VS. "Prohibition": you cannot activate the effect of a "Necro Gardna" which was in the Graveyard when "Prohibition" was activated. If a "Necro Gardna" is on the field when "Prohibition" is activated, and later that "Necro Gardna" is sent to the Graveyard, then you can activate the effect of that "Necro Gardna".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Necro%20Gardna
+
+### Edison-Accurate PSCT
+
+> ① During your opponent's turn (Quick): You can banish this card from your GY; negate the next attack this turn from a monster your opponent controls.
+
+### Card Rulings
+
+● You can activate this effect at any time, except during the Damage Step, Main Phase 2, or the End Phase.
+● If you activate this in response to an Attack, or during the Battle Step when a monster is attacking, that current attack is negated.
+            

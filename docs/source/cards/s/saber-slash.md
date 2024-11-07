@@ -11,3 +11,19 @@
 *   VS. "Starlight Road": "Starlight Road" can only be activated if it is certain that a card/effect would destroy two+ cards you control. However, your opponent always has the option of destroying the face-up "X-Sabre" monster(s) that they control, so "Starlight Road" can NEVER be used \[[REF](https://www.pojo.biz/board/showthread.php?t=814158)\].
     *   VS. Your own "Starlight Road": If you control 3 "X-Saber" monsters and your opponent controls 1 face-up card, when you play "Saber Slash" it is certain that at least 2 of your "X-Saber" monsters will be destroyed, so you can activate "Starlight Road" in response to your own "Saber Slash" \[[REF](https://www.pojo.biz/board/showthread.php?t=814158)\].
 *   VS. "Stardust Dragon": "Sabre Slash" destroys a card(s) on the field, so Stardust can activate \[[REF](https://www.pojo.biz/board/showthread.php?t=814158)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Saber%20Slash
+
+### Edison-Accurate PSCT
+
+> ① Destroy a number of face-up cards on the field equal to the number of Attack Position "X-Saber" monsters you control.
+
+### Card Rulings
+
+● This card does not target. The cards to be destroyed are chosen at resolution.
+● "Stardust Dragon" can always be chained to this card.
+● Your opponent can never chain "Starlight Road" to this card.
+You can chain "Starlight Road" to this card if you control 2 or more face-up attack position "X-Saber" monsters while your opponent controls no face-up cards
+            

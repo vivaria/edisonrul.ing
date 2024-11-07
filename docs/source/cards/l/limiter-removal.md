@@ -8,3 +8,17 @@
 *   The Ⓛ Lingering Effect applies to all monsters affected by the ① effect.
     *   Machine-Type monsters Summoned after resolving this card are not destroyed.
     *   Affected Machine-Type monsters are not destroyed if they are: flipped face-down, become Equip Cards, leave the field, or change Monster Type (by "DNA Surgery").
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Limiter%20Removal
+
+### Edison-Accurate PSCT
+
+> ① Double the ATK of all Machines you currently control (until the End Phase, also destroy them during the End Phase)
+
+### Card Rulings
+
+● The monsters affected by this card are only the monsters you control when this effect resolves, even if they were not on field at activation.
+● Any monsters later flipped face-down are not destroyed in the End Phase.
+            

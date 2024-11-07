@@ -18,3 +18,40 @@
 *   If you target an “LV” monster, you could Tribute the “Neo-Spacian Dark Panther” to activate the Spell Card “Level Up!”. It will be in the Graveyard when “Level Up!” resolves, so it will no longer have the copied effect, so there is no monster name to reference and therefore the effect disappears.
 *   If you copy an Ignition or Trigger Effect, those effects can be chained to when they are activated, as normal.
 *   When “Neo-Spacian Dark Panther” is destroyed after copying the effects of a "Crystal Beast" monster, it cannot be placed into the Spell and Trap Card Zone.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Neo-Spacian%20Dark%20Panther
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this face-up card's name and effects become that target's.
+
+### Card Rulings
+
+If this card copies a:
+● "Crystal Beast" monsters:
+If this card is destroyed, it can't be put in the S/T zone.
+● "Cyber Harpie Lady":
+This card's name becomes "Harpie Lady".
+● Gemini Monster:
+It doesn't become a Gemini. You can Normal Summon it to gain the Gemini effect.
+● "Junk Synchron":
+It doesn't become a Tuner. You still need at least 1 Tuner to Summon "Junk Warrior".
+● "LV" monsters:
+You can tribute this card for "Level Up!", but you won't Special Summon anything.
+● "Proto Cyber Dragon":
+You can use this card as "Cyber Dragon" for "Chimeratech Fortress Dragon".
+● "Phantom of Chaos":
+You can banish a monster from your GY. This card will gain the banished monster's ATK/name.
+● "Sangan":
+This card's effect only applies on the field. You don't search if it's sent to the GY.
+● Spell Counter monsters:
+You can put Spell Counters on this card. They're removed when this effect stops applying.
+● "Strike Ninja":
+You can banish this card, but it will never return to the field.
+● "Victory Viper XX03":
+Option Tokens will be destroyed in the End Phase, when this effect stops applying.
+● Another "Neo-Spacian Dark Panther":
+You can target this, but you can't use the effect to copy an effect again.
+            

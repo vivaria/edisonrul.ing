@@ -12,3 +12,25 @@
     *   This effect resolves sequentially: first, send this card to the Graveyard; then inflict effect damage.
     *   This effect inflicts damage equal to the original (printed) ATK of "Malevolent Mech - Goku En".
 *   VS. "Creature Swap": If this card (Normal Summoned by its \[U\] Unclassified Effect) changes control and activates its effect in the End Phase, the controller of Goku En on the field (when it was destroyed) takes the damage \[[REF1](https://www.pojo.biz/board/showthread.php?t=759277), [REF2](https://www.pojo.biz/board/showthread.php?t=764678)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Malevolent%20Mech%20-%20Goku%20En
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The Unclassified Effect does not activate, it applies in the hand.
+●The Trigger Effect is mandatory, it activates & resolves on the field in the End Phase.
+●This effect ONLY activates & resolve is if it is the ONLY Zombie-Type monster on the field.
+●This effect will activate during the End Phase of every turn (if this card was Normal Summoned with its [U] Unclassified Effect).
+●If the activation of this effect is negated by Light and Darkness Dragon, it will activate again in the same End Phase.
+●If this effect resolves negated by Skill Drain, it won't activate again in the same End Phase.
+●This effect resolves without effect (Goku En is not destroyed) if an effect (like Call of the Haunted) is chained that Summons an another Zombie-Type monster to the field face-up.
+●This effect resolves sequentially: first, send this card to the GY; then inflict effect damage.
+●This effect inflicts damage equal to the original (printed) ATK of Malevolent Mech - Goku En.
+●VS. Creature Swap: If this card (Normal Summoned by its [U] Unclassified Effect) changes control and activates its effect in the End Phase, the controller of Goku En on the field (when it was destroyed) takes the damage.
+            

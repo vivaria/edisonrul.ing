@@ -1,3 +1,18 @@
 # Morphing Jar
 
 *   If there are fewer than 5 cards in the Deck of either player when this card’s Flip Effect is activated, that player will lose the Duel, since the text of this card says "draw".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Morphing%20Jar
+
+### Edison-Accurate PSCT
+
+> ① FLIP: Each player discards their hand, then draws 5 cards.
+
+### Card Rulings
+
+● Discarding happens before drawing, which can cause cards like "Jinzo - Returner" to miss their timing.
+You can read more about Timing here:
+https://edisonformat.net/rules/compendium/missing-the-timing
+            

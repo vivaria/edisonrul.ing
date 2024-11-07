@@ -14,3 +14,16 @@
 *   The ② Continuous-like Effect applies while this card is face-up on the field.
     *   When "A Legendary Ocean" is active, "The Legendary Fisherman" on the field is unaffected by Spell Cards, so it does not receive the ATK/DEF bonus or have its Level reduced by 1. It still is treated as Level 4 in your hand, so you may Summon it without Tribute.
     *   "A Legendary Ocean" does not have the effect of "Umi" that increases/decreases the ATK and DEF of specific monster Types.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=A%20Legendary%20Ocean
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

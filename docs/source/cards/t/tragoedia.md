@@ -19,3 +19,37 @@
     *   The Level change expires in the End Phase.
     *   The Level change no longer applies if "Tragoedia" is flipped face-down / leaves the field.
     *   VS. "Level Eater": If "Level Eater" lowered the Level of "Tragoedia", then "Tragoedia" changed its Level by its ④ effect, "Tragoedia" becomes the target's Level until the End Phase (the effect of "Level Eater" is no longer applied, even after the effect of "Tragoedia" disappears). However, if "Tragoedia" changes its Level and later "Level Eater" changes it again: during the End Phase, "Tragoedia"'s effect wears off and the change made by "Level Eater" still applies.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Tragoedia
+
+### Edison-Accurate PSCT
+
+> ① If you take battle damage while this card is in your hand: You can Special Summon it.
+> ② Gains 600 ATK/DEF for each card in your hand.
+> ③ Once per turn: You can send 1 monster from your hand to the GY, then target 1 monster your opponent controls with the same Level; take control of that face-up monster.
+> ④ Once per turn: You can target 1 monster in your GY; until the End Phase, this card's Level becomes that target's.
+
+### Card Rulings
+
+The ① Effect:
+● This effect activates in Substep 5.
+●If "X-Saber Airbellum" inflicted direct damage, you can activate this as chain link 2 (before a random card is chosen).
+● You can only activate 1 trigger effect in your hand per chain, so you can't activate the ① in the same chain as your "Gorz the Emissary of Darkness".
+
+The ② Effect:
+● Vs "Limit Reverse" and "Sangan":
+This card's ATK is ? while in Deck/GY/Banished, so these cards cannot Summon/Search it.
+● Vs "Shrink":
+This effect halves the original ATK (0) to 0. It immediately regains ATK for each card in hand.
+● Vs "Blackwing - Gale the Whirlwind" and "Black Garden":
+These effects make the current ATK "become" halved.
+The ATK remains halved and won't change even if number of cards in hand does.
+
+The ③ Effect:
+● If that target isn't face-up at resolution, control is not changed.
+
+The ④ Effect:
+● If that target leaves the GY, this card's level is not changed.
+            

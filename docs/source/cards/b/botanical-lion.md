@@ -9,3 +9,17 @@
     *   A face-down "Botanical Lion" can still change control (by "Mind Control" / "Creature Swap").
     *   A face-down "Botanical Lion" stolen by "Mind Control" and flipped face-up DOES NOT return to its owner's side of the field during the End Phase.
     *   This effect DOES NOT prevent "Goyo Guardian" from Special Summoning a "Botanical Lion".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Botanical%20Lion
+
+### Edison-Accurate PSCT
+
+> ① Gains 300 ATK for each Plant you control.
+> ② Control of this card can't Switch.
+
+### Card Rulings
+
+● While this card's ② effect is applying, it can't be equipped to an opponent's "Relinquished", as that involves changing control of it.
+            

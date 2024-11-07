@@ -9,3 +9,17 @@
     *   Tributing 1 other Fish-Type monster is a cost. You cannot Tribute this card for its own effect.
     *   This negates the activation of effects that target this card (ex: "Blaze Accelerator", "Exiled Force").
     *   This effect can be activated multiple times during the same turn, and even in the Damage Step.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Superancient%20Deepsea%20King%20Coelacanth
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish as possible from your Deck (they can't attack, also negate their effects).
+> ② If this card is targeted by a card effect (Quick): You can Tribute 1 other Fish; negate the activation, and if you do, destroy that card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

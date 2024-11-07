@@ -13,3 +13,20 @@
     *   This effect activates if "Card Trooper" is destroyed while face-down.
     *   This effect activates in the Graveyard and will be negated by "The End of Anubis".
     *   This effect DOES NOT activate if "Card Trooper" is destroyed while under your opponent's control.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Card%20Trooper
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: You can choose 1, 2, or 3, then send that many cards from the top of your Deck to the GY; until the End Phase, this card gains 500 ATK for each card sent to the GY this way.
+> ② If this card you control is destroyed and sent to your GY: Draw 1 card.
+
+### Card Rulings
+
+● Sending to the GY is a cost.
+If "Dimensional Fissure" is applying, you can't activate the ① effect, even if you know that the top card of your Deck is not a Monster.
+● After the ① effect resolves, if this card later has its effect negated, the ATK increase is negated.
+● If this card in your Spell/Trap Zone is destroyed, the ② effect still activates.
+            

@@ -7,3 +7,18 @@
     *   While "Macro Cosmos" is active, the DARK monster sent is banished instead.
     *   This is not a cost. The DARK monster is sent to the Graveyard when this effect resolves.
     *   This effect CAN'T activate if this card was Summoned as Chain Link 2+ (by "Call of the Haunted").
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Armageddon%20Knight
+
+### Edison-Accurate PSCT
+
+> ① When this card is Summoned: You can send 1 DARK monster from your Deck to the GY.
+
+### Card Rulings
+
+● If this card is Summoned as chain link 2 or higher, its effect misses its timing, and can't activate.
+You can read more about Timing here:
+https://edisonformat.net/rules/compendium/missing-the-timing
+            

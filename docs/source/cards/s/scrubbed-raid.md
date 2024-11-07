@@ -10,3 +10,16 @@
 *   If the effect of "Scrubbed Raid" is activated in Chain to an effect like "Dimensional Prison", then the effect of "Dimensional Prison" is not applied, and the attacking monster remains on the field.
 *   If the effect of "Scrubbed Raid" is activated in Chain to "Magic Cylinder", then the Battle Phase ends",Magic Cylinder" cannot negate the attack so the effect of inflicting damage equal to the monster's ATK is not applied.
 *   The effect of "Mirror Force" only destroys all monsters in Attack Position, so all Attack Position monsters will still be destroyed even if the effect of "Scrubbed Raid" ends the Battle Phase.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Scrubbed%20Raid
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

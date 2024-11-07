@@ -13,3 +13,24 @@
     *   This effect does not count "Hero Kid" towards your face up HERO monsters.
 *   The Ⓑ effect CANNOT be activated while "Thunder King Rai-Oh" is face-up on the field.
     *   This effect cannot add "Hero Kid".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Elemental%20HERO%20Stratos
+
+### Edison-Accurate PSCT
+
+> ① When this card is Normal or Special Summoned: You can choose 1 effect;
+> ● You can destroy Spell/Traps on the field, up to the number of other face-up "HERO" monsters you control.
+> ● Add 1 "HERO" monster from your Deck to your hand.
+
+### Card Rulings
+
+● When you activate this effect, you must declare which effect you are using.
+● You can't choose the destroy effect if you control no other HERO monsters.
+
+If you choose the destroy effect:
+● You can choose to destroy 0 cards when resolving this effect (yes this is weird).
+● Starlight Road can't be chained.
+● Stardust Dragon's effect can't be chained.
+            

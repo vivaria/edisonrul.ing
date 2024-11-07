@@ -7,3 +7,17 @@
     *   This effect will not activate if this card is removed from play instead of being sent to the Graveyard.
     *   This effect will not activate if it is destroyed by a card's effect.
 *   The ② Continuous Effect only applies on your turn, while this card is attacking.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Exploder%20Dragon
+
+### Edison-Accurate PSCT
+
+> ① if destroyed by battle and sent to the GY: Destroy the face-up monster on the field that destroyed this card.
+> ② While this card is attacking, any Battle Damage from that attack becomes 0.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

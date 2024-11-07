@@ -11,3 +11,17 @@
     *   Shura was removed from the field by a Flip Effect (ex: "Ryko, Lightsworn Hunter" or "Penguin Soldier").
 *   The Special Summoned monster's effect(s) is negated so long as it remains face-up on the field.
 *   "Torrential Tribute" and "Royal Oppression" CANNOT be activated at any point in the Damage Step.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Blackwing%20-%20Shura%20the%20Blue%20Flame
+
+### Edison-Accurate PSCT
+
+> ① If this card destroys a monster by battle and sends it to the GY:
+> You can Special Summon 1 "Blackwing" monster with 1500 or less ATK from your Deck (negate its effects).
+
+### Card Rulings
+
+● This card’s effect specifies “and sends it to the GY”. It triggers at the end of the Damage Step, but not if the destroyed monster wasn’t sent to the GY, or if this card is no longer face-up on the field.
+            

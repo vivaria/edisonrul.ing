@@ -11,3 +11,21 @@
     *   Examples include: "Magical Dimension", "Barrel Dragon", and "Time Wizard" \[[REF](http://duelistgroundz.com/index.php?/topic/113775-time-wizard-vs-my-body-as-a-shield/)\].
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play. (SJC Edison was played with the TU2 erratum, but the GLD3 erratum better communicates this card's ability to respond to the activation of a Card OR Effect.)
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=My%20Body%20as%20a%20Shield
+
+### Edison-Accurate PSCT
+
+> ① If your opponent activates a Card/Effect that would destroy a monster(s) on the field (except during the Damage Step): Pay 1500 LP; negate the activation, and if you do, destroy it.
+
+### Card Rulings
+
+● This card can't be activated during the Damage Step.
+● This card can negate either the Activation or Effect of cards.
+
+Vs "Deck Devastation Virus:
+● You can chain this card, but only if there you control a face-up monster with 1500 or less ATK.
+● You can't chain this if the monster(s) that would be destroyed are face-down/in-hand.
+            

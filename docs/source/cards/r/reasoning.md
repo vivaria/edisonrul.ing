@@ -6,3 +6,21 @@
 *   If no monster is picked up, shuffle your Deck and put it back in the Deck Zone; the effect of "Reasoning" disappears.
 *   You cannot activate "Reasoning" if you already activated "Scapegoat" this turn.
 *   If "Banisher of the Light" is Special Summoned with "Reasoning", the other cards picked up for "Reasoning" are sent to the Graveyard. The effect of "Banisher of the Light" is not applied until after "Reasoning" resolves.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Reasoning
+
+### Edison-Accurate PSCT
+
+> ① Your opponent declares a number from 1 to 12,
+> then you reveal cards from the top of your Deck until you reveal a monster that can be Normal Summoned/Set,
+> then, if its Level isn't the declared number, send all revealed cards to the GY,
+> else Special Summon it, also send the remaining cards to the GY.
+
+### Card Rulings
+
+● You can't activate this card if you have no monsters that can be Normal Summoned/Set in your Deck.
+● You can't activate this card while "Vanity's Fiend" is applying.
+● If you reveal a card that can't be Summoned because EG "Power Filter" is applying, send all cards to the GY.
+            

@@ -8,3 +8,18 @@
 *   The ② Continuous Effect does not start a Chain.
     *   If "Alien Mother" is flipped face-down, any monsters you Special Summoned with her effect are not destroyed.
     *   If the same "Alien Mother" is later removed from the field, even if was flipped face-up again, monsters you Special Summoned with her effect are not destroyed.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Alien%20Mother
+
+### Edison-Accurate PSCT
+
+> ① At the end of a Battle Phase in which this card destroyed a monster(s) with an A-Counter by battle and sent it to the GY: You can Special Summon that monster(s).
+> ② If this card leaves the field, destroy that monster(s).
+
+### Card Rulings
+
+●This effect continuously targets that monster●If this card becomes set, it no longer targets those monsters.
+● If 'Skill Drain' is applying, those monsters aren't destroyed when it leaves the field.
+            

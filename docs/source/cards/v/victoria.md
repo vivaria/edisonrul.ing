@@ -7,3 +7,20 @@
     *   This effect is negated by "Necrovalley".
 *   The ② Continuous Effect applies while this card is face-up on the field.
     *   If you control two copies of "Victoria", your opponent cannot attack your Fairy-Type monsters.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Victoria
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●The Ignition Effect activates & resolves on the field.
+●This effect targets 1 Dragon-Type monster in your opponent’s GY.
+●This effect is negated by Necrovalley.
+●The Continuous Effect applies while this card is face-up on the field.
+●If you control two copies of Victoria, your opponent can't attack your Fairy-Type monsters.
+            

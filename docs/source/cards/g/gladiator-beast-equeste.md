@@ -14,3 +14,30 @@
         *   They are not combined onto the same Chain.
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Equeste
+
+### Edison-Accurate PSCT
+
+> ① If this card is Special Summoned by the effect of a "Gladiator Beast" monster:
+> You can target 1 "Gladiator Beast" card in your GY; return it to your hand.
+> ② At the end of the Battle Phase, if this battled:
+> You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck (except “Gladiator Beast Equeste”).
+
+### Card Rulings
+
+The ② effect:
+● It can't be activated unless there is a “Gladiator Beast” monster in your Deck.
+● It can activate and resolve while “Skill Drain” is applying (without being negated).
+● It can be negated by “Royal Oppression” (If it is, this card remains in the Deck (it is not destroyed)).
+● “Battling” requires this card to be involved in Damage Calculation
+(If this card's attack is negated, the ② effect can't activate).
+● If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase,
+they don’t go on the same Chain (they each activate, one after another, each on their own Chain).
+
+Vs "Rivalry of Warlords"/"Gozen Match":
+● If you have a Gladiator Beast of the same Type/Attribute in your Deck, you can activate the ② effect.
+If you do, you can Summon any Gladiator Beast of any Attribute.
+            
