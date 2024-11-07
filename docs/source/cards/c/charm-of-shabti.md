@@ -1,9 +1,19 @@
 # Charm Of Shabti
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can activate the effect of "Charm of Shabti" during the Damage Step.
 *   "Charm of Shabti" is like a reverse-"Kuriboh": you take damage from the attack as normal, but your monster is unharmed.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Charm%20of%20Shabti
 

@@ -1,6 +1,14 @@
 # XX-Saber Faultroll
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except while you control 2 or more face-up "X-Saber" monsters. ① Once per turn, you can Special Summon 1 Level 4 or lower "X-Saber" monster from your Graveyard.
+
+### Card Rulings
 
 *   The Ⓒ Summon Condition cannot be negated.
     *   This card can only be Special Summoned (by its effect) from the hand.
@@ -10,7 +18,7 @@
     *   This effect targets 1 Level 4 or lower “X-Saber” in your Graveyard. It is negated by "Necrovalley."
     *   This effect can target “XX-Saber” monsters as well (they are also “X-Saber” monsters).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=XX-Saber%20Faultroll
 

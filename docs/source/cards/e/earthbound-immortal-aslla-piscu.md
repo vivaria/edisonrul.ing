@@ -1,5 +1,15 @@
 # Earthbound Immortal Aslla Piscu
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If you control an Earthbound Immortal and no other monsters, your opponent cannot attack you, because they cannot select the Earthbound Immortal as an attack target. (Exception: they can attack with monsters that can attack directly, such as “Submarineroid.”)
 *   If the only Earthbound Immortal on the field is an Equip Spell Card, it is not treated as a monster so you can Summon an Earthbound Immortal.
 *   If you replace your opponent’s Field Spell Card by activating one of your own, there is a face-up Field Spell Card continuously on the field, so any Earthbound Immortal on the field would not be destroyed.
@@ -11,7 +21,7 @@
 *   If “Earthbound Immortal Aslla piscu” is removed from the field face-down, its effect to destroy monsters and inflict damage does not activate.
 *   If “Earthbound Immortal Aslla piscu” is returned to the Deck from the field, its effect to destroy monsters and inflict damage does not activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Earthbound%20Immortal%20Aslla%20piscu
 

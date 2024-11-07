@@ -1,5 +1,5 @@
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Chimaera,%20the%20Master%20of%20Beasts
 

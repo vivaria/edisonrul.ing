@@ -1,5 +1,15 @@
 # Battle Teleportation
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This effect targets your face-up Psychic-Type monster.
 *   You can activate “Battle Teleportation” even if your opponent has no open Monster Card Zones. If you do, the Psychic-Type monster is unable to move to your opponent’s side of the field and is destroyed.
 *   You cannot activate “Battle Teleportation” if you cannot enter your Battle Phase.
@@ -7,7 +17,7 @@
 *   This card can target a monster that has already attacked.
 *   You can activate “Battle Teleportation” any time between your Draw Phase and the end of the Battle Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Battle%20Teleportation
 

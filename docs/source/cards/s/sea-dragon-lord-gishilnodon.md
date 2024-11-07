@@ -1,6 +1,14 @@
 # Sea Dragon Lord Gishilnodon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When a face-up Level 3 or lower monster on the field is sent to the Graveyard, this card's ATK becomes 3000 until the End Phase of this turn.
+
+### Card Rulings
 
 *   If “Sea Dragon Lord Gishilnodon’s” effect activates, and later “Skill Drain” is activated, “Sea Dragon Lord Gishilnodon” drops to 2300 ATK again. Even if “Skill Drain” is destroyed after that, “Sea Dragon Lord Gishilnodon” remains at 2300 ATK until its effect is triggered again.
 *   If “Sea Dragon Lord Gishilnodon” has its ATK altered by a Field Spell Card, etc., and then its effect is triggered, its ATK becomes 3000.
@@ -9,7 +17,7 @@
 *   “Sea Dragon Lord Gishilnodon’s” DEF will remain halved by “Blackwing – Gale the Whirlwind.” “Sea Dragon Lord Gishilnodon” activates its effect when a monster is sent to the Graveyard that was Level 3 or lower on the field and Level 3 or lower in the Graveyard.
 *   If a Level 4 monster that is Level 3 because of “A Legendary Ocean” is sent to the Graveyard, the effect of “Sea Dragon Lord Gishilnodon” does not activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Sea%20Dragon%20Lord%20Gishilnodon
 

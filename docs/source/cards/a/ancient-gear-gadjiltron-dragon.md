@@ -1,6 +1,14 @@
 # Ancient Gear Gadjiltron Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. ② If you Tribute Summon this card by Tributing any of the following monster(s), this card gets the appropriate effect(s): ● Green Gadget: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ● Red Gadget: If this card inflicts Battle Damage to your opponent, inflict 400 damage to your opponent. ● Yellow Gadget: If this card destroys your opponent's monster by battle, inflict 600 damage to your opponent.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies while this face-up monster is attacking.
     *   This effect begins to apply at the Start of the Battle Step - Attack Declaration.
@@ -21,7 +29,7 @@
     *   This effect activates & resolves on the field in Substep 7 - After Damage Calculation.
     *   This effect activates even if this card is flipped face-down / leaves the field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ancient%20Gear%20Gadjiltron%20Dragon
 

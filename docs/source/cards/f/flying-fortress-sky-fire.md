@@ -1,5 +1,15 @@
 # Flying Fortress Sky Fire
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Summon Reactor ・SK" can Special Summon “Flying Fortress SKY FIRE” from the Graveyard even if it had not been Special Summoned properly before, and even if it was sent directly to the Graveyard from the hand or Deck.
 *   Sending the 3 cards to the Graveyard to Special Summon this monster is a cost.
     *   That effect does not target “Flying Fortress SKY FIRE”.
@@ -13,7 +23,7 @@
 *   The effects of “Flying Fortress SKY FIRE” that can be activated during the opponent’s turn cannot be activated during the Damage Step.
 *   If the opponent Summons a monster with an Ignition Effect, they can activate the effect, and then you choose whether or not to chain the Trigger Effect of “Flying Fortress SKY FIRE”.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Flying%20Fortress%20SKY%20FIRE
 

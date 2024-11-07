@@ -1,6 +1,14 @@
 # Koa'Ki Meiru Drago
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓜ During each of your End Phases, destroy this card unless you send 1 “Iron Core of Koa’ki Meiru” from your hand to the Graveyard or reveal 1 Dragon-Type monster in your hand. ① LIGHT and DARK monsters cannot be Special Summoned.
+
+### Card Rulings
 
 *   The Ⓜ Maintenance Cost is not an effect. It cannot be negated.
     *   Revealing 1 Dragon-Type monster does not start a chain.
@@ -12,7 +20,7 @@
         *   Ex: If "Reasoning" would Special Summon a LIGHT monster, it is sent to the Graveyard.
         *   Ex: "Return from the Different Dimension" cannot Special Summon LIGHT / DARK monsters.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Koa'ki%20Meiru%20Drago
 

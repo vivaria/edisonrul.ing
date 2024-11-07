@@ -1,8 +1,18 @@
 # Herculean Power
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The effect to Special Summon starts a Chain. If you control a monster when this effect resolves or your opponent controls no monsters when this effect resolves, you will not Special Summon a monster.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Herculean%20Power
 

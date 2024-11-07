@@ -1,5 +1,15 @@
 # Vampire Lord
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Your Vampire Lord will only be Special Summoned by his own effect when destroyed and sent to the Graveyard by a card effect that your opponent controls, not by your own card effects or as a result of battle.
 *   Vampire Lord will only return to play with his effect when the owner controls it, because Vampire Lord must be “destroyed and sent to YOUR Graveyard”.
 *   When your opponent takes control of your Vampire Lord, and it inflicts Battle Damage to your Life Points, then the first effect of Vampire Lord is activated. But the second effect will not be activated if Vampire Lord is destroyed and sent to the Graveyard while your opponent controls him.
@@ -23,7 +33,7 @@
 *   When you name “Spell” for Vampire Lord, it includes Normal, Quick-Play, Field, Ritual, Continuous, and Equip Spell Cards, and the same is true for Traps.
 *   Card effects like Penguin Knight, Sword of Deep-Seated, and Cockroach Knight will activate their effects when sent to the Graveyard by Vampire Lord’s effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Vampire%20Lord
 

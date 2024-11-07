@@ -1,5 +1,5 @@
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Change%20of%20Hero%20-%20Reflector%20Ray
 

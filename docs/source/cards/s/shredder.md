@@ -1,5 +1,15 @@
 # Shredder
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Sending the Machine-Type monster to the Graveyard is a cost.
 *   This effect targets the monster you want to destroy.
 *   If you reduce the Level of the monsters in your hand with “Cost Down” then you can only target monsters whose Level is less than or equal to the monster’s Level in your hand.

@@ -1,5 +1,7 @@
 # XYZ Fusion Monsters
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon Cannon", and "XZ-Tank Cannon".
 
 *   These monsters cannot be Special Summoned from the Extra Deck except by the method described in their text. So they cannot be Special Summoned by the effect of "Magical Scientist" or "Summoner of Illusions". They cannot be Special Summoned from the Graveyard even after they have been Special Summoned by the method described in their texts.

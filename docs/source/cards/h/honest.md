@@ -1,6 +1,14 @@
 # Honest
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① During your Main Phase, you can return this card from the field to its owner’s hand. ② During either player’s Damage Step, when a face-up LIGHT monster you control battles, you can send this card from your hand to the Graveyard to have that monster gain ATK equal to the ATK of the opponent’s monster it is battling, until the End Phase.
+
+### Card Rulings
 
 *   The ① Ignition Effect can be activated during your Main Phase 1 or 2.
     *   Returning this card to the hand is not a cost.
@@ -13,7 +21,7 @@
     *   This effect cannot be activated while "Dimensional Fissure" is active.
 *   VS. "Shrink: If a monster whose ATK has been modified by "Honest" becomes targeted by "Shrink", the monster’s ATK becomes half its original ATK, and then the ATK increase from "Honest" is re-applied.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Honest
 

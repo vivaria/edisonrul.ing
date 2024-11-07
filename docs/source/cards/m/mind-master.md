@@ -1,10 +1,20 @@
 # Mind Master
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Paying 800 Life Points and Tributing 1 other Psychic-Type monster is a cost.
 *   You can activate this effect multiple times during the same turn if you can continue to pay the cost.
 *   "Mind Master"'s effect cannot be activated if you do not have any Level 4 or lower Psychic-Type Monsters in your Deck that you can Special Summon.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Mind%20Master
 

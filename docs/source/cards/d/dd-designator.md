@@ -1,5 +1,15 @@
 # D.D. Designator
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can't activate "D. D. Designator" if you have no cards in your hand, or if "D. D. Designator" is the only card in your hand.
 *   If you have your opponent's card in your hand because of "Exchange", you can remove it from play if you name a card your opponent doesn't have in his hand.
 *   You declare the card name when you activate "D. D. Designator".
@@ -7,7 +17,7 @@
 *   You can't activate "D. D. Designator" when your opponent has no cards in his hand.
 *   If you activate "D. D. Designator" and your opponent has 2 copies of the same card in hand, you (the player who activated "D. D. Designator") select which of the 2 cards is removed from play (this can be important if your opponent holds your card because of "Exchange").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=D.D.%20Designator
 

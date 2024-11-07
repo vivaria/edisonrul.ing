@@ -1,6 +1,14 @@
 # Black Whirlwind
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > When a “Blackwing” monster is Normal Summoned to your side of the Field, you can add 1 “Blackwing” monster from your Deck to your hand that has less ATK than that monster.
+
+### Card Rulings
 
 *   This optional Trigger-like Effect activates in the Summon response timing.
 *   Both "Black Whirlwind" and the Normal Summoned "Blackwing" monster must be face-up on the field.
@@ -8,7 +16,7 @@
 *   The ATK (+ATK modifiers) of the "Blackwing" monster is assessed when resolving this effect.
 *   A chain can be built if multiple copies of "Black Whirlwing" were triggered simultaneously.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Black%20Whirlwind
 

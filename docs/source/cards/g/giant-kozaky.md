@@ -1,5 +1,15 @@
 # Giant Kozaky
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The first part of “Giant Kozaky” is a Continuous Effect that does not start a chain. The second part is a Trigger Effect that can be chained to.
 *   You can chain “Barrel Behind the Door” to the Trigger Effect (the damage) of “Giant Kozaky”.
 *   If “Giant Kozaky” is destroyed while face-down, then its effect that inflicts damage is not activated. If “Giant Kozaky” is face-up on the field and is targeted by “Tribute to the Doomed”, and you chain “Book of Moon” so that “Giant Kozaky” is face-down when destroyed by “Tribute to the Doomed”, there is no damage.
@@ -10,7 +20,7 @@
 *   If “Giant Kozaky” is equipped to “Relinquished” as an Equip Spell Card, “Giant Kozaky” will not be destroyed by its effect because it’s not a monster (even if “Kozaky” is not on the field).
 *   If “Giant Kozaky” is equipped to “Relinquished” and is destroyed by “Mystical Space Typhoon” or the effect of “Relinquished”, the effect of “Giant Kozaky” will inflict damage to the controller.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Giant%20Kozaky
 

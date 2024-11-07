@@ -1,10 +1,20 @@
 # Des Frog
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The effect of “Des Frog” is a Trigger Effect that can be chained to. It activates when “Des Frog” is Tribute Summoned successfully.
 *   Count the number of “T.A.D.P.O.L.E.(s)” when you resolve this effect, not when it activates.
 *   If you activate the effect of “Des Frog” but have no “Des Frogs” in your hand or Deck, your opponent can check to confirm.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Des%20Frog
 

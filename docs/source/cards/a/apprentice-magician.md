@@ -1,6 +1,14 @@
 # Apprentice Magician
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Summoned, place 1 Spell Counter on a face-up card that you can place a Spell Counter on. ② When this card is destroyed by battle, you can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position.
+
+### Card Rulings
 
 *   The ① Trigger Effect is mandatory. It activates & resolves on the field.
     *   This effect activates whenever this card is (Normal / Flip / Special) Summoned face-up.
@@ -12,7 +20,7 @@
     *   “Apprentice Magician’s” effect activates at the same time as when monsters are sent to the Graveyard. But it does not have to be sent to the Graveyard; you get to Special Summon a new monster when "Apprentice Magician" is destroyed as a result of battle, even if "Banisher of the Light" is in play.
     *   If you take control of your opponent's "Apprentice Magician", and it is destroyed as a result of battle, then your opponent (the original owner) will get to Special Summon. Because “Apprentice Magician” is no longer on your side of the field, it is now in the opponent’s Graveyard / banished.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Apprentice%20Magician
 

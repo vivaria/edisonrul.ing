@@ -1,6 +1,14 @@
 # Black Rose Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Synchro Summoned, you can destroy all cards on the field. ② Once per turn, you can remove from play 1 Plant-Type monster from your Graveyard to change 1 Defense Position monster your opponent controls to face-up Attack Position, and reduce its ATK to 0 until the End Phase.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates in the Summon response timing.
     *   If "Black Rose Dragon" activates its first effect, it is also destroyed.
@@ -11,7 +19,7 @@
     *   A monster whose ATK was changed to 0 can have its ATK increased by cards/effects.
         *   The change is applied to 0 ATK.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Black%20Rose%20Dragon
 

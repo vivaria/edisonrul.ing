@@ -1,5 +1,15 @@
 # Double Spell
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You select the card you are activating in your opponent's Graveyard when you activate "Double Spell". "Double Spell" can then be chained to after you announce your selection.
 *   The selected card itself CANNOT be chained to as you are in resolution of the chain at that point.
 *   If the selected Spell Card is Ritual, Normal, or Quick-Play (except for "Swords of Revealing Light"), it remains in your opponent's Graveyard and is not placed on the field, so you only need 1 vacant Spell & Trap Card Zone spot (for "Double Spell" itself) to activate "Double Spell".
@@ -8,7 +18,7 @@
 *   You cannot select a Spell Card with "Double Spell" that cannot be activated, such as an Equip Spell Card when no monsters are on the field.
 *   You cannot use "Double Spell" while "Necrovalley" is in effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Double%20Spell
 

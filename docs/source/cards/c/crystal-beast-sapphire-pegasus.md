@@ -1,5 +1,15 @@
 # Crystal Beast Sapphire Pegasus
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate this card’s effect if you have no open Spell & Trap Card Zones.
 *   You choose whether or not to use the “Crystal Beast” effect at the time the destroyed monster would be sent to the Graveyard.
 *   This effect does not use the Chain.
@@ -13,7 +23,7 @@
 *   If you control a "Crystal Beast" equipped with "Premature Burial" and have no open Spell & Trap Card Zones, when that "Crystal Beast" is destroyed "Premature Burial" is also destroyed and then you can choose to put that "Crystal Beast" into the now empty Zone.
 *   If "Dimensional Fissure" is active on the field when a "Crystal Beast" that was being treated as a Continuous Spell Card card is sent to the Graveyard, it will not be removed from play, because it was treated as a Spell and not a monster.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Crystal%20Beast%20Sapphire%20Pegasus
 

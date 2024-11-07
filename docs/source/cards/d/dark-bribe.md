@@ -1,6 +1,14 @@
 # Dark Bribe
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Negate the activation of an opponent's Spell or Trap Card, and destroy it. Your opponent draws 1 card.
+
+### Card Rulings
 
 *   This card can only respond to the activation (when it is played face-up) of a Spell / Trap Card# .
 
@@ -10,7 +18,7 @@
 *   Both parts of this card’s effect are considered to resolve at the same time.
 *   If this card is Chain Link 2, the negated effect does not resolve, the Chain ends after the opponent draws.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dark%20Bribe
 

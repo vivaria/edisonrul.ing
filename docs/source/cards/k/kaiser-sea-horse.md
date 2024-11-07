@@ -1,5 +1,5 @@
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Kaiser%20Sea%20Horse
 

@@ -1,9 +1,19 @@
 # Realm Of Light
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Adding or removing Shine Counters does not start a Chain.
 *   You cannot remove Shine Counters when your opponent activates a Field Spell Card, because "Realm of Light" is not being destroyed by a card effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Realm%20of%20Light
 

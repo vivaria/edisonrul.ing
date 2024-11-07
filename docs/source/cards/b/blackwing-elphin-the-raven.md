@@ -1,10 +1,20 @@
 # Blackwing - Elphin The Raven
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The Trigger Effect of “Blackwing – Elphin the Raven” targets the opponent’s monster.
 *   You can target a face-down monster with “Blackwing – Elphin the Raven” and flip it to face-up Attack Position.
 *   If the monster has a Flip Effect, it will activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Blackwing%20-%20Elphin%20the%20Raven
 

@@ -1,6 +1,14 @@
 # Machine Assembly Line
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① All face-up Machine-Type monsters on the field gain 200 ATK. ② Each time a Machine-Type monster(s) on the field is destroyed, place 2 Junk Counters on this card. ③ You can send this card to the Graveyard to select and Special Summon 1 Machine-Type monster from your Graveyard, whose Level is less than or equal to the number of Junk Counters on this card.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies to face-up Machine-Type monsters on BOTH sides of the field.
 *   The ② Continuous-like Effect does not start a Chain.
@@ -12,7 +20,7 @@
     *   Sending this card to the Graveyard is a cost to activate the effect to Special Summon.
     *   This effect targets a Machine-Type monster at activation.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Machine%20Assembly%20Line
 

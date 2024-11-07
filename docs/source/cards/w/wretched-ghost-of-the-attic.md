@@ -1,5 +1,5 @@
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Wretched%20Ghost%20of%20the%20Attic
 

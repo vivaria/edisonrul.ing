@@ -1,5 +1,5 @@
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dark%20Magician%20Girl
 

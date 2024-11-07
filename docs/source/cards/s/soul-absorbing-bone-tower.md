@@ -1,5 +1,15 @@
 # Soul-Absorbing Bone Tower
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If you have a "Soul-Absorbing Bone Tower" equipped with "Raregold Armor" and a Zombie-Type monster, your opponent cannot attack. Even if you have a Zombie-Type monster, "Gemini Elf", and a "Soul-Absorbing Bone Tower" equipped with "Raregold Armor", your opponent cannot attack.
 *   If you have another Zombie-Type monster and "Soul-Absorbing Bone Tower", your opponent cannot attack the "Soul-Absorbing Bone Tower", but if you equip the "Soul-Absorbing Bone Tower" with "Ring of Magnetism" your opponent can declare an attack but must attack the "Soul-Absorbing Bone Tower" equipped with the "Ring of Magnetism".
 *   If you have multiple "Soul-Absorbing Bone Towers" and no other monsters, your opponent cannot attack.
@@ -14,7 +24,7 @@
 *   If you have "Soul-Absorbing Bone Tower" and "Card of Safe Return", and a Zombie-Type monster is Special Summoned, "Soul-Absorbing Bone Tower" is Step 1 of the chain and "Card of Safe Return" is Step 2.
 *   You can chain to "Soul-Absorbing Bone Tower"'s effect that sends 2 cards to the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Soul-Absorbing%20Bone%20Tower
 

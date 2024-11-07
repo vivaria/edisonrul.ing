@@ -1,6 +1,14 @@
 # Arcana Force Ex - The Dark Ruler
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. ① When this card is Special Summoned, toss a coin: ● Heads: This card can attack twice during the same Battle Phase. If this card battles twice using this effect, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect. ● Tails: If this card is destroyed, destroy all cards on the field.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand (this Special Summon does not start a Chain).
@@ -14,7 +22,7 @@
 *   The (TAILS) Continuous Effect does not start a Chain.
     *   If "Arcana Force EX - The Dark Ruler" is destroyed by battle, all other cards on the field are destroyed when "Arcana Force EX - The Dark Ruler" is sent to the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Arcana%20Force%20EX%20-%20The%20Dark%20Ruler
 

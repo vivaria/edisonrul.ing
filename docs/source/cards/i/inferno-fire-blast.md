@@ -1,5 +1,15 @@
 # Inferno Fire Blast
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   No copies of "Red-Eyes B. Dragon" can attack if you activate "Inferno Fire Blast".
 *   If "Red-Eyes B. Dragon" attacked, you cannot activate "Inferno Fire Blast" during Main Phase 2, but if "Red-Eyes B. Dragon" did not attack, you can activate "Inferno Fire Blast" during Main Phase 2.
 *   As long as a "Red-Eyes B. Dragon" is on the field when you activate "Inferno Fire Blast", "Inferno Fire Blast" still resolves normally even if "Red-Eyes B. Dragon" is no longer on the field when "Inferno Fire Blast" resolves.
@@ -8,7 +18,7 @@
 *   If you activate "Inferno Fire Blast" while "Non-Spellcasting Area" is active, the effect of "Inferno Fire Blast" disappears.
 *   If you only have 1 "Red-Eyes B. Dragon" on the field, you can activate multiple copies of "Inferno Fire Blast" designating that same "Red-Eyes B. Dragon".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Inferno%20Fire%20Blast
 

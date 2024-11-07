@@ -1,6 +1,14 @@
 # Lumina, Lightsworn Summoner
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can discard 1 card to Special Summon 1 Level 4 or lower "Lightsworn" monster from your Graveyard. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Discarding 1 card is a cost to activate this effect.
@@ -20,7 +28,7 @@
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Lumina,%20Lightsworn%20Summoner
 

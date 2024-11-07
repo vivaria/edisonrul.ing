@@ -1,6 +1,14 @@
 # Gladiator Beast Murmillo
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, destroy 1 face-up monster. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Murmillo".
+
+### Card Rulings
 
 *   The ① mandatory Trigger Effect cannot miss the timing.
     *   This effect targets a face-up monster (it will targets one of yours if your opponent has none).
@@ -16,7 +24,7 @@
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Murmillo
 

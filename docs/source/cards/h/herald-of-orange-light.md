@@ -1,6 +1,14 @@
 # Herald Of Orange Light
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can send this card and 1 other Fairy-Type monster from your hand to the Graveyard to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it. You can activate this effect during either player's turn.
+
+### Card Rulings
 
 *   The ① Quick Effect can activate in the Damage Step, as it negates the activation of cards/effects.
     *   Sending this card and 1 Fairy-Type monster from hand to the Graveyard is a cost.
@@ -10,7 +18,7 @@
     *   If this effect destroys a opponent's monster before the Damage Step, a replay occurs.
     *   If this effect destroys a opponent's monster during the Damage Step, no replay occurs.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Herald%20of%20Orange%20Light
 

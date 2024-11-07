@@ -1,5 +1,11 @@
 # Phoenixian Cluster Amaryllis
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Special Summoned except with its own effect or with "Phoenixian Seed". ① If this card attacks, it is destroyed after damage calculation. ② If this card you control is destroyed and sent to the Graveyard, inflict 800 damage to your opponent. ③ During your End Phase, you can remove from play 1 Plant-Type monster from your Graveyard to Special Summon this card from your Graveyard in Defense Position.
   
 
@@ -14,7 +20,7 @@
 *   The ③ optional Trigger Effect activates & resolves in the Graveyard.
     *   Removing a Plant from your Graveyard is a cost.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Phoenixian%20Cluster%20Amaryllis
 

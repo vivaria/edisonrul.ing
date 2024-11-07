@@ -1,6 +1,14 @@
 # Imperial Iron Wall
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Cards cannot be removed from play.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect does not activate.
 *   Cards CANNOT activate if their cost / effect would remove a card(s) from play
@@ -10,7 +18,7 @@
     *   Example: "Imperial Iron Wall" was chained to "Nobleman of Crossout", the targeted monster is destroyed but it is not removed from play. No cards in the Deck are removed from play.
 *   "Imperial Iron Wall" trumps the effect of "Macro Cosmos" since it prevents an action.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Imperial%20Iron%20Wall
 

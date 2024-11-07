@@ -1,6 +1,14 @@
 # Gragonith, Lightsworn Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① This card gains 300 ATK and DEF for each "Lightsworn" monster with a different name in your Graveyard. ② During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ③ During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   The ① Continuous Effect does not start a chain.
     *   If "Blackwing - Gale the Whirlwind" halves this card's ATK, its ATK will not change anymore.
@@ -17,7 +25,7 @@
 *   ③ VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gragonith,%20Lightsworn%20Dragon
 

@@ -1,6 +1,14 @@
 # Armor Exe
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① This card cannot attack in the same turn it is Normal Summoned, Flip Summoned, or Special Summoned. Ⓜ During each of your and your opponent's Standby Phases, remove 1 Spell Counter on your side of the field. If you do not, this card is destroyed.
+
+### Card Rulings
 
 *   This card's name is pronounced "egg-zay".
 *   The ① Continuous Effect applies the turn this card is Summoned.
@@ -9,7 +17,7 @@
 *   The Ⓜ Maintenance Cost is not an effect, it can't be negated.
     *   Removing a Spell Counter from "Armor Exe" is a cost. If you can't do this, this card is destroyed immediately (this doesn't start a Chain).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Armor%20Exe
 

@@ -1,6 +1,14 @@
 # Gozen Match
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Each player sends monsters they control to the Graveyard until they each control monsters of only 1 Attribute. Each player cannot control monsters with different Attributes.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies immediately after this Trap Card’s activation resolves: both players look at the face-up monsters they control and each choose 1 Attribute to keep and send their face-up monsters that aren’t that Attribute to the Graveyard.
     *   Monsters like "Dark Simorgh" can still be Summoned, they only have one Attribute while in hand.
@@ -20,7 +28,7 @@
 *   VS. "Lonefire Blossom": you cannot activate "Lonefire Blossom"'s effect unless you have a FIRE Plant-Type monster in your Deck. If you Tribute your only face-up monster (Lonefire) for this effect, you can Special Summon a non-FIRE Plant-Type monster (ex: "Dandylion", "Tytannial, Princess of Camellias").
 *   VS. Uria, Lord of Searing Flames: You cannot Special Summon Uria by sending Gozen + 2 face-up Continuous Traps to the Graveyard unless you control no face-up monsters non-FIRE monsters.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gozen%20Match
 

@@ -1,6 +1,14 @@
 # Flip Flop Frog
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can flip this card into face-down Defense Position. ② When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up "Frog" monsters you control, except "Frog the Jam".
+
+### Card Rulings
 
 *   The ① Ignition Effect does not target this card.
     *   This effect can only be used once per turn.
@@ -11,7 +19,7 @@
     *   The number of monsters you can return to the hand is determined when the effect resolves.
     *   This card counts towards the face-up "Frog" monsters you control, even if it is destroyed by battle.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Flip%20Flop%20Frog
 

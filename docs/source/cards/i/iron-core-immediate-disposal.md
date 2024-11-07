@@ -1,8 +1,18 @@
 # Iron Core Immediate Disposal
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate “Iron Core Immediate Disposal” unless there is an “Iron Core of Koa’ki Meiru” in your Deck.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Iron%20Core%20Immediate%20Disposal
 

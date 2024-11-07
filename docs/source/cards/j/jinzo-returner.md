@@ -1,6 +1,14 @@
 # Jinzo - Returner
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① This card can attack your opponent directly. ② When this card is sent to the Graveyard, you can Special Summon 1 "Jinzo" from your Graveyard. Destroy it during your End Phase.
+
+### Card Rulings
 
 *   The ① Continuous Effect does not activate.
     *   If this effect is negated in the Damage Step, no replay occurs.
@@ -12,7 +20,7 @@
     *   This effect will not activate if Returner is sent to the Graveyard as Chain Link 2+.
     *   This effect will not activate if Returner is sent to the Graveyard before the last thing to happen.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Jinzo%20-%20Returner
 

@@ -1,6 +1,14 @@
 # Amazoness Tiger
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can only have 1 "Amazoness Tiger" on your side of the field. ② Increase the ATK of this card by 400 points for each monster on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer". ③ As long as this card remains face-up on the field, your opponent cannot attack another monster that includes "Amazoness" in its name, or is named "Amazon Archer".
+
+### Card Rulings
 
 *   The ① Unclassified Effect applies while this card is face-up on the field (like a Continuous Effect).
     *   If you have an "Amazoness Tiger" face-up, you can Set another "Amazoness Tiger" face-down. If the face-down "Amazoness Tiger" is flipped face-up by an attack, the flipped "Amazoness Tiger" is destroyed after damage calculation. If the face-down "Amazoness Tiger" is flipped with "Swords of Revealing Light", etc., the flipped "Amazoness Tiger" is destroyed but the original "Amazoness Tiger" is not.
@@ -15,7 +23,7 @@
     *   When you have "Amazoness Tiger" and another Amazoness equipped with "Raregold Armor", your opponent cannot attack.
     *   When you have "Amazoness Tiger" and another Amazoness equipped with "Ring of Magnetism", the Amazoness equipped with "Ring of Magnetism" can and must be the target of the attack.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Amazoness%20Tiger
 

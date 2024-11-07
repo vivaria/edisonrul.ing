@@ -1,5 +1,15 @@
 # Sacred Phoenix Of Nephthys
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can activate "Divine Wrath" when "Sacred Phoenix of Nephthys" is Special Summoned by its own effect. Because this effect activates in the Graveyard, and is being negated while "Sacred Phoenix of Nepthys" is in the Graveyard, "Sacred Phoenix of Nepthys" is never Special Summoned (so the card is never moved from the Graveyard) and is never destroyed. Because it is not destroyed, its effect to Special Summon itself does not activate again.
 *   If "Sacred Phoenix of Nephthys" is Special Summoned with "Call of the Haunted" or "Premature Burial", and that card is destroyed and destroys "Sacred Phoenix of Nephthys" with its effect, you Special Summon "Sacred Phoenix of Nephthys" during your next Standby Phase because it was destroyed by a card effect.
 *   If "Sacred Phoenix of Nephthys" is destroyed while in your hand or Deck by a card effect, you still activate its effect during your next Standby Phase to Special Summon it from the Graveyard. (For example, if an effect like "Star Boy" is active, and "Sacred Phoenix of Nephthys" is Summoned, and "Chain Destruction" is activated to destroy other copies of "Sacred Phoenix of Nephthys" in the hand and Deck, those copies will be Special Summoned during your next Standby Phase.
@@ -13,7 +23,7 @@
 *   You can chain to the effect of "Sacred Phoenix of Nephthys" that destroys all Spell and Trap Cards.
 *   If "Sacred Phoenix of Nephthys" is Special Summoned by its effect during the Standby Phase, and "Card of Safe Return" is on the field, "Sacred Phoenix of Nephthys" is Step 1 of the chain and "Card of Safe Return" is Step 2, so "Card of Safe Return" resolves first and you draw a card before "Card of Safe Return" is destroyed.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Sacred%20Phoenix%20of%20Nephthys
 

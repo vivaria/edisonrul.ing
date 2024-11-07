@@ -1,6 +1,14 @@
 # Brain Control
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Pay 800 LifePoints. Select 1 face-up monster your opponent controls. Take control of it until the End Phase.
+
+### Card Rulings
 
 *   Paying 800 Life Points is a cost. This effect targets a face-up monster.
     *   The targeted monster must remain face-up in order for control to be changed.
@@ -9,7 +17,7 @@
 *   If you control your opponent’s monster with "Brain Control" and remove it from play with "Dimensionhole", during your following Standby Phase when the monster is returned to your side of the field it immediately returns to your opponent’s control.
 *   You cannot activate "Brain Control" if your Monster Card Zones are all occupied.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Brain%20Control
 

@@ -1,6 +1,14 @@
 # Arcana Force I - The Magician
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Summoned, toss a coin: ● Heads: When a Spell Card is activated, this card's ATK becomes double its original ATK until the End Phase of that turn. ● Tails: When a Spell Card is activated, your opponent gains 500 Life Points.
+
+### Card Rulings
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by "Skill Drain", but this card will not forget which effect is gained while face-up.
@@ -11,7 +19,7 @@
 *   The (TAILS) Continuous Effect applies while this card is face-up on the field.
     *   Your opponent gains 500 Life Points when an activated Spell resolves. This does not start a Chain.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Arcana%20Force%20I%20-%20The%20Magician
 

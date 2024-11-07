@@ -1,6 +1,14 @@
 # Fossil Dyna Pachycephalo
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Neither player can Special Summon monsters. ② When this card is flipped face-up, destroy all Special Summoned monsters on the field.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies while this card is face-up.
     *   Monsters cannot be Special Summoned face-down (by "Super-Nimble Mega Hamster).
@@ -9,7 +17,7 @@
     *   This effect destroys monsters Special Summoned face-down (by "Super-Nimble Mega Hamster).
     *   This effect destroys Special Summoned monsters that were flipped face-down (by "Book of Moon").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Fossil%20Dyna%20Pachycephalo
 

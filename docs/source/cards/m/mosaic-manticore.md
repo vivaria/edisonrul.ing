@@ -1,5 +1,15 @@
 # Mosaic Manticore
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Mosaic Manticor"'s effect is a Trigger Effect that activates during the Standby Phase of your next turn.
 *   "Mosaic Manticore"'s effect does not target.
 *   The effects of the monsters Special Summoned by "Mosaic Manticore" are only negated if they activate on the field or are applied while the monster is on the field. If a monster Special Summoned by "Mosaic Manticore" has an effect that activates while it is in the Graveyard or when it is sent to the Graveyard, the effect will not be negated.
@@ -17,7 +27,7 @@
 *   If "Skill Drain" is activated after the monsters Tributed to Tribute Summon "Mosaic Manticore" are Special Summoned by its effect, the monsters still cannot attack and their effects are negated.
 *   If you Special Summon "Exiled Force" with "Mosaic Manticore"'s effect, you can activate the effect of "Exiled Force", but its effect is negated.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Mosaic%20Manticore
 

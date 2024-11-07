@@ -1,6 +1,14 @@
 # Light End Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this monster battles, you can activate this card’s effect at attack declaration. If you do, this card loses 500 ATK and DEF (permanently), and the monster it is battling loses 1500 ATK and DEF until the End Phase.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates & resolves on the field.
     *   This effect activates in Start of the Battle Step - Attack Declaration.
@@ -13,7 +21,7 @@
     *   This effect decreases both monsters ATK / DEF, even if the attack is negated (by "Magic Cylinder").
 *   VS. "Enemy Controller": if either effect of E-Con is chained to this effect, this card is no longer treated as 'battling'. Therefore, this card will lose 500 ATK and DEF, but the opponent's monster will not lose any.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Light%20End%20Dragon
 

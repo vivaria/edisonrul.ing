@@ -1,8 +1,18 @@
 # Dawnbreak Gardna
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If "Dawnbreak Gardna" gains DEF from "The Reliable Guardian", etc. and then is Normal Summoned again, the DEF increase is recalculated after applying its new original DEF.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dawnbreak%20Gardna
 

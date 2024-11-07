@@ -1,5 +1,15 @@
 # Embodiment Of Apophis
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Once “Embodiment of Apophis” has been activated, it takes up 1 Monster Card Zone and 1 Spell & Trap Card Zone. The physical location of “Embodiment of Apophis” should be on the Monster Card Zones, however.
 *   If your Monster Card Zones are all full you cannot activate “Embodiment of Apophis”. If your Spell & Trap Card Zones are all full you cannot take control of your opponent’s “Embodiment of Apophis” because you will need 1 Monster Card Zone and 1 Spell & Trap Card Zone for it.
 *   If your opponent has no vacant Spell & Trap Card Zones, you cannot give them “Embodiment of Apophis” for “Creature Swap”. If “Embodiment of Apophis” is your only monster in such a case, neither player can activate “Creature Swap”.
@@ -32,7 +42,7 @@
 *   If you change “Embodiment of Apophis” to Machine-Type and use “Limiter Removal”, then “Jinzo” is Summoned later that turn and “Embodiment of Apophis” switches back to a Trap Card, “Embodiment of Apophis” is not destroyed in the End Phase by “Limiter Removal”.
 *   If you use “Dimensionhole” or “Interdimensional Matter Transporter” against “Embodiment of Apophis”, it returns to the field as a Trap Card and is destroyed immediately. If “Dimensionhole” was used, you cannot use the Monster Card Zone while “Embodiment of Apophis” is removed from play, but you can use the Spell & Trap Card Zone it was occupying.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Embodiment%20of%20Apophis
 

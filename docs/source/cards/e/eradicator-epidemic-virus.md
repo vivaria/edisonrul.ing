@@ -1,6 +1,14 @@
 # Eradicator Epidemic Virus
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Tribute 1 DARK monster with 2500 or more ATK, and choose Spell Cards or Trap Cards. ① Check all Spell and Trap Cards on your opponent's side of the field, your opponent's hand, and all cards they draw (until the end of your opponent's 3rd turn after this card's activation), and destroy all cards of the chosen type.
+
+### Card Rulings
 
 *   This card's cost Tributes a DARK monster with 2500 or more ATK.
     *   Face-down DARK monsters can be Tributed (like a Set "[Fusilier Dragon, the Dual-Mode Beast](https://yugioh.fandom.com/wiki/Fusilier_Dragon,_the_Dual-Mode_Beast)").
@@ -23,7 +31,7 @@
     *   You CANNOT activate "Starlight Road" if your two Spell / Trap Cards (whichever declared) that would be destroyed are face-down.
     *   You CANNOT activate "Starlight Road" if you have 1 face-up Spell Card and 1 face-up Trap card (even if there are others face-down) because "Eradicator Epidemic Virus" will only attempt to destroy cards of the declared type (Spell or Trap).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Eradicator%20Epidemic%20Virus
 

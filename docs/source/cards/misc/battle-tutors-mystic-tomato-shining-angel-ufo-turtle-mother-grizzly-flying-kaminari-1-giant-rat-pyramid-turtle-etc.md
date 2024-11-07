@@ -1,6 +1,14 @@
 # Battle Tutors (Mystic Tomato, Shining Angel, Ufo Turtle, Mother Grizzly, Flying Kaminari #1, Giant Rat, Pyramid Turtle, Etc)
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \[Attribute or Type\] monster with \[specified ATK / specified DEF / specified Level\] in \[Battle Position\].
+
+### Card Rulings
 
 *   These optional Trigger Effects activate in Substep 7 - End of the Damage Step.
 *   The "When... you can" structure means this effect can miss the timing.

@@ -1,5 +1,11 @@
 # Gladiator Beast Heraklinos
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > "Gladiator Beast Laquari" + 2 "Gladiator Beast" monsters
 Ⓢ This card can only be Special Summoned from your Fusion Deck, by returning the above cards you control to the Deck. (You do not use "Polymerization".) ① You can discard 1 card from your hand to negate the activation of a Spell or Trap Card and destroy it. You can use this effect during either player's turn.
 
@@ -14,7 +20,7 @@
     *   This card must be face-up on the field to activate and resolve this effect.
     *   Discarding 1 card is a cost.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Heraklinos
 

@@ -1,6 +1,14 @@
 # Cosmic Fortress Gol’Gar
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can select any number of face-up Spell or Trap Cards. Return those cards to their owners' hands, and distribute new A-Counters among monsters on the field equal to the number of cards returned. ② Once per turn, you can remove 2 A-Counters from anywhere on the field to destroy 1 card your opponent controls.
+
+### Card Rulings
 
 *   The ① Ignition Effect targets a number of face-up Spell / Trap Cards on the field.
     *   The targeted cards are returned to the hand when the effect resolves. This is not a cost.
@@ -9,7 +17,7 @@
 *   The ② Ignition Effect targets 1 card your opponent controls.
     *   Removing 2 A-Counters (from anywhere on the field) is a cost.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Cosmic%20Fortress%20Gol'gar
 

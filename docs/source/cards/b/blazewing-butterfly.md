@@ -1,5 +1,11 @@
 # Blazewing Butterfly
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓤ This card is treated as a Normal Monster while face-up on the field or in the Graveyard. Ⓒ While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect:
 ● ① You can Tribute this card to Special Summon 1 Gemini monster from your Graveyard, except "Blazewing Butterfly". A Gemini monster Special Summoned by this effect is treated as an Effect Monster, and gains its effect.
 
@@ -9,7 +15,7 @@
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a Gemini monster in your Graveyard. It will be negated by "Necrovalley".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Blazewing%20Butterfly
 

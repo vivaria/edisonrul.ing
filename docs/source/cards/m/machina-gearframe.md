@@ -1,6 +1,14 @@
 # Machina Gearframe
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Normal Summoned, you can add 1 "Machina" monster, except "Machina Gearframe", from your Deck to your hand. (2A) Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR (2B) unequip it to Special Summon this card in face-up Attack Position. (Ⓒ A monster can only be equipped with 1 Union Monster at a time. ③ If the equipped monster would be destroyed, destroy this card instead.)
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates in the Summon response timing (like "Trap Hole").
     *   The "_When... you can..._" effect can miss the timing if "Machina Gearframe" is Normal Summoned as Chain Link 2+ by the effect of "Ultimate Offering".
@@ -21,7 +29,7 @@
     *   This does not apply if the equipped monster would be removed from play, returned to the hand / Deck, or flipped face-down by a card effect.  
         
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Machina%20Gearframe
 

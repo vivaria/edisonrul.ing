@@ -1,6 +1,14 @@
 # Supervise
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ Equip only to a Gemini monster. ① It is treated as an Effect Monster, and gains its effect(s). ② When this face-up card on the field is sent to the Graveyard, select and Special Summon 1 Normal Monster from your Graveyard.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
     *   This card can be equipped to a Gemini Monster which has gained its effects.
@@ -12,7 +20,7 @@
     *   This effect will still activates "Dust Tornado" destroys "Supervise" before it becomes equipped.
     *   If this card and the equipped Gemini Monster are destroyed together, you can Special Summon it.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Supervise
 

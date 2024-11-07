@@ -1,6 +1,14 @@
 # Darklord Nurse Reficule (Original Name: Nurse Reficule The Fallen One)
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.
+
+### Card Rulings
 
 *   The ① Continuous Effect does not activate, it applies when the effect resolves.
     *   This deals Effect Damage, and is not the same as losing Life Points (ex: "Immortal of Thunder").

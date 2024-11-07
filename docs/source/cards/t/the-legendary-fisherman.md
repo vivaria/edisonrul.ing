@@ -1,5 +1,15 @@
 # The Legendary Fisherman
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If you take control of your opponent's face-down "The Legendary Fisherman" with "Change of Heart" while "Umi" is face-up on the field, when it is flipped face-up it is immediately returned to your opponent.
 *   If you Special Summon "The Legendary Fisherman" with "Premature Burial", when "Premature Burial" is destroyed while "Umi" is face-up on the field "The Legendary Fisherman" is not destroyed.
 *   If a face-up "The Legendary Fisherman" is the only monster you control, when your opponent's monsters attack they attack you directly.
@@ -10,7 +20,7 @@
 *   If your opponent has "The Dark Door" face-up on their side of the field, you can attack with one of your monsters and then attack with "The Legendary Fisherman" if "Umi" is face-up on the field.
 *   If you control your opponent's "The Legendary Fisherman" with "Snatch Steal" and "Umi" is activated, "The Legendary Fisherman" returns to your opponent. During your opponent's Standby Phases they will still gain 1000 Life Points.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=The%20Legendary%20Fisherman
 

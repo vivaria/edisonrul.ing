@@ -1,5 +1,15 @@
 # Tyrant Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The first sentence of this card’s text means that after you complete an attack with "Tyrant Dragon", if there is still a monster on the opponent’s side of the field, "Tyrant Dragon" can immediately attack again. You cannot attack with another monster in between, and then attack a second time with "Tyrant Dragon." If there are no monsters on your opponent’s side of the field after "Tyrant Dragon"’s first attack, "Tyrant Dragon" does not gain a second attack.
 *   "Tyrant Dragon" cannot attack more than twice, even if there is another monster remaining on your opponent’s side of the field after the second attack.
 *   "Tyrant Dragon"'s first attack does not have to be the first attack of the Battle Phase. You may attack with another monster, then with "Tyrant Dragon", then again with "Tyrant Dragon" -- if the opponent still controls a monster.
@@ -14,7 +24,7 @@
 *   You may Tribute a face-down Dragon-Type monster when you Special Summon "Tyrant Dragon".
 *   Even if "Tyrant Dragon" was destroyed by "Dark Balter the Terrible" or some other monster that negated the effect of "Tyrant Dragon", you must still Tribute a Dragon-Type monster if you Special Summon it because this is a condition, not an effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Tyrant%20Dragon
 

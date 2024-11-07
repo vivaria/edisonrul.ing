@@ -1,6 +1,14 @@
 # King Of The Swamp
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s). ② Discard this card from your hand to the Graveyard to add a "Polymerization" from your Deck to your hand. The Deck is then shuffled.
+
+### Card Rulings
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -15,7 +23,7 @@
     *   This effect cannot activate if "Prohibition" declares "King of the Swamp".
     *   This effect cannot activate if you use "King of the Swamp" as Fusion Material from your hand.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=King%20of%20the%20Swamp
 

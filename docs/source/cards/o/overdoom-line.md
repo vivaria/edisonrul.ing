@@ -1,5 +1,15 @@
 # Overdoom Line
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The ATK boost of “Overdoom Line” starts a Chain, but does not target.
 *   The text on “Overdoom Line” that destroys itself is not an effect, so “Royal Decree” etc. will not stop it from being destroyed.
 *   Plants that were Special Summoned before the activation of “Overdoom Line” do not receive an ATK boost when “Overdoom Line” is activated.
@@ -8,7 +18,7 @@
 *   You cannot activate “Overdoom Line” during the Damage Step.
 *   While “Imperial Custom” is active, “Overdoom Line” cannot destroy itself, so it will remain on the field. Its effect will also remain.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Overdoom%20Line
 

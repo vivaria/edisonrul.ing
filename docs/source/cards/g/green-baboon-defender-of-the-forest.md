@@ -1,6 +1,14 @@
 # Green Baboon, Defender Of The Forest
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When a Beast-Type monster you control is destroyed and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card from your hand or the Graveyard._
+
+### Card Rulings
 
 *   The ① optional "_When... you can..." Trigger Effect can miss the timing.
     *   This effect can be activated during either player's turn.
@@ -15,7 +23,7 @@
     *   if your only Green Baboon on the field was destroyed and sent to the Graveyard. It must be in the hand / Graveyard when your Beast-Type monster was destroyed.
     *   if your only Green Baboon and another Beast-Type are destroyed simultaneously (by "Lightning Vortex"). It must be in the hand / Graveyard when your Beast-Type was destroyed.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Green%20Baboon,%20Defender%20of%20the%20Forest
 

@@ -1,5 +1,11 @@
 # Yellow Baboon, Archer Of The Forest
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When a Beast-Type monster you control is destroyed by battle and sent to the Graveyard, you can remove from play 2 Beast-Type monsters in your Graveyard to Special Summon this card from your hand.
   
 
@@ -13,7 +19,7 @@
     *   the Beast destroyed by battle is removed from play (by "D.D. Warrior Lady").
     *   the Beast destroyed by battle is removed from play by "Macro Cosmos".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Yellow%20Baboon,%20Archer%20of%20the%20Forest
 

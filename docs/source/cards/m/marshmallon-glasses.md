@@ -1,5 +1,15 @@
 # Marshmallon Glasses
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   While you have “Marshmallon” and “Marshmallon Glasses” face-up on your side of the field, if you equip a monster, other than “Marshmallon”, on your side of the field with “Ring of Magnetism”, your opponent’s monsters must attack the monster equipped with “Ring of Magnetism” when they attack.
 *   While you have “Marshmallon” and “Marshmallon Glasses” face-up on your side of the field, if you activate “Staunch Defender” and select a monster other than “Marshmallon”, your opponent’s monsters must attack the monster you selected with “Staunch Defender”.
 *   While you have “Marshmallon”, “Marshmallon Glasses”, and “Marauding Captain” face-up on your side of the field and you activate “DNA Surgery”, selecting Warrior-Type, your opponent will not be able to attack with their monsters.
@@ -9,7 +19,7 @@
 *   “Marshmallon Glasses” can be activated while “Marshmallon” is face-down or not on the field.
 *   While you have “Marshmallon” and “Marshmallon Glasses” face-up on your side of the field, your opponent cannot attack directly with cards like “Goblin Black Ops” or “Inaba White Rabbit”. Your opponent must select “Marshmallon” when declaring their attack.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Marshmallon%20Glasses
 

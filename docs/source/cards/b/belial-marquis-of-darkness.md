@@ -1,6 +1,14 @@
 # Belial - Marquis Of Darkness
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Your opponent cannot select any monster you control, except "Belial - Marquis of Darkness", as an attack target, or as a target of a Spell or Trap Card.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies so long as "Belial - Marquis of Darkness" is face-up on the field.
     *   If a Spell / Trap Card targets 1 monster you control and you chain "Call of the Haunted" to Special Summon "Belial - Marquis of Darkness", the effect is still resolved as normal.
@@ -13,7 +21,7 @@
     *   attack your face-down Defense Position monsters \[REF needed, errata'd in 2011\].
 *   If you control "Evil HERO Malicious Fiend" & "Belial - Marquis of Darkness", and their effects are active, your opponent's monsters are changed to Attack Position and must attack "Evil HERO Malicious Fiend".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Belial%20-%20Marquis%20of%20Darkness
 

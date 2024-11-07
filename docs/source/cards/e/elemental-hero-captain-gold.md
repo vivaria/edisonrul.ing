@@ -1,6 +1,14 @@
 # Elemental Hero Captain Gold
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can discard this card to the Graveyard to add 1 "Skyscraper" from your Deck to your hand. ② If this card is on the field but "Skyscraper" is not on the field, destroy this card.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves in the hand.
     *   Discarding this card is a cost.
@@ -10,7 +18,7 @@
     *   If this face-down monster is attacked, and "Skyscraper" is not active, destroy this card at the start of Substep 5 - After Damage Calculation.
     *   If "Skyscraper" leaves the field while resolving a Chain, destroy Captain Gold immediately before resolving the next effect in the Chain.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Elemental%20HERO%20Captain%20Gold
 

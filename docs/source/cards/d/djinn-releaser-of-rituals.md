@@ -1,6 +1,14 @@
 # Djinn Releaser Of Rituals
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When you Ritual Summon a Ritual Monster, you can remove from play this card from your Graveyard as 1 of the monsters required for the Ritual Summon. ② While the monster Ritual Summoned using this card is face-up on the field, your opponent cannot Special Summon.
+
+### Card Rulings
 
 *   The ① Unclassified Effect cannot be negated.
     *   This effect cannot be applied while "Necrovalley" is active.
@@ -20,7 +28,7 @@
     *   This imparted effect disappears if the Ritual Monster is removed from the field / flipped face-down.
     *   VS. "Brain Control": Whoever Summoned the Ritual Monster with Djinn may still Special Summon.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Djinn%20Releaser%20of%20Rituals
 

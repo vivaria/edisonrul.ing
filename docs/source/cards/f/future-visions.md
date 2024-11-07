@@ -1,6 +1,14 @@
 # Future Visions
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When a monster is Normal Summoned, remove from play that monster. ② During the next Standby Phase of the controller who Summoned that monster, return it to the field in face-up Attack Position.
+
+### Card Rulings
 
 *   The ① mandatory Trigger-like Effect cannot miss the timing.
     *   This effect targets the Normal Summoned monster.
@@ -16,7 +24,7 @@
     *   The owner of a removed monster(s) decides which Monster Card Zone it is placed in when returned.
     *   If more than one monster is removed from play by the effect of "Future Visions", they are all returned to the field at the same time. If the player has fewer available Monster Card Zones than there are monsters that would be returned by this effect, that player chooses which monsters to return to the field and sends the remainder to the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Future%20Visions
 

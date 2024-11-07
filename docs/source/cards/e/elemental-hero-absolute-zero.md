@@ -1,5 +1,7 @@
 # Elemental Hero Absolute Zero
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 1 "Elemental Hero", "Destiny Hero", or "Evil Hero" monster + 1 WATER monster
 _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This card gains 500 ATK for each face-up WATER monster on the field, except "Elemental Hero Absolute Zero". ② When this card is removed from the field, destroy all monsters your opponent controls._
 
@@ -18,7 +20,7 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 *   VS. "De-Fusion":
     *   If "Elemental Hero Prisma" used its effect to change its name to "Elemental Hero Neos" and was used alongside a WATER monster to Fusion Summon Absolute Zero, you can still Special Summon that same "Elemental Hero Prisma" when "De-Fusion" resolves and returns Elemental HeroAbsolute Zero to the Extra Deck, even though it was being treated as "Elemental Hero Neos" at the time of the Fusion Summon.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Elemental%20HERO%20Absolute%20Zero
 

@@ -1,6 +1,14 @@
 # Anteatereatingant
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓤ This card cannot be Special Summoned except by sending 2 Spell or Trap Cards you control to the Graveyard. ① You can destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card cannot attack during this turn.
+
+### Card Rulings
 
 *   The Ⓒ Condition is not an effect. It cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand.
@@ -15,7 +23,7 @@
     *   You CAN activate the effect of “Anteatereatingant”, flip it face-down with a card effect, then Flip Summon it, and either activate its effect again or attack. This is because flipping it face-down resets its effect. (Also, if it’s temporarily removed from play, its effect will also reset.)
     *   If the targeted Spell or Trap Card is removed from the field in a chain to this card’s effect, you still cannot use its effect again or attack that turn. If a targeted Spell Card is not destroyed because of a counter from “Magic Reflector”, you still cannot use this card’s effect again or attack that turn.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Anteatereatingant
 

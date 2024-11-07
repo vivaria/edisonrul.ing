@@ -1,5 +1,15 @@
 # Diffusion Wave-Motion
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate "Diffusion Wave-Motion" during Main Phase 2, or if you cannot conduct your Battle Phase this turn (if you activated "Soul Exchange", etc.), or if there are no monsters on your opponent's side of the field, or if your opponent has "Swords of Revealing Light", or if your opponent controls 2 "Marauding Captains" (or appropriate monsters with "Raregold Armor", etc.).
 *   You cannot use "Diffusion Wave-Motion" and select a Level 7 Spellcaster-Type monster that was Summoned this turn with "Tribute Doll" because it cannot attack that turn due to "Tribute Doll"'s effect.
 *   After you activate "Diffusion Wave-Motion", if all monsters on your opponent's side of the field are destroyed (with "Raigeki", etc.) then your selected Level 7 Spellcaster-Type monster can attack your opponent's Life Points directly.
@@ -17,7 +27,7 @@
 *   When a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" attacks "Spirit Reaper" or "Kisetai", it cannot destroy "Spirit Reaper" or "Kisetai" (so "Kisetai"'s effect is not negated).
 *   A Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" will negate: the Flip Effects of a monster it destroys as a result of battle, or the effects of "Giant Rat", "Sangan", "Dark Necrofear", "Sinister Serpent", "D. D. Warrior Lady", "Wall of Illusion", "Helpoemer", "Marie the Fallen One", etc.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Diffusion%20Wave-Motion
 

@@ -1,6 +1,14 @@
 # "Dark World" Monsters (“Beiige, Vanguard Of Dark World”, “Broww, Huntsman Of Dark World”, “Sillva, Warlord Of Dark World” And “Goldd, Wu-Lord Of Dark World”).
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card is discarded from the hand to the Graveyard by a card effect, \[perform action 1\]. ① If this card is discarded from the hand to the Graveyard by an opponent’s card effect, \[perform action 2\].
+
+### Card Rulings
 
 *   These effects will not miss timing, they are mandatory effects.
     *   If discarded by a card effect in the middle of a chain, or in the middle of a card effect like “Dragged Down into the Grave”, these effects will activate after the current chain resolves.

@@ -1,6 +1,14 @@
 # Elemental Hero Wildheart
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① This card is unaffected by the effects of Trap Cards.
+
+### Card Rulings
 
 *   The ① Continuous Effect does not activate.
     *   Apply this effect while Wildheart is face-up; not in the hand / Deck / Graveyard / removed from play.
@@ -10,7 +18,7 @@
     *   This card inflicts no Battle Damage while "Waboku" applies (it affects the Damage, not Wildheart).
     *   VS. “Skill Drain”: whichever effect was active on the field first takes precedence. So if “Elemental Hero Wildheart” is on the field and “Skill Drain” is activated, his effect is not negated. But if “Skill Drain” is on the field and “Elemental Hero Wildheart” is Summoned, his effect is negated by “Skill Drain” as long as “Skill Drain” remains on the field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Elemental%20HERO%20Wildheart
 

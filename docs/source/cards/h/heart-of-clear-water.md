@@ -1,5 +1,15 @@
 # Heart Of Clear Water
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You may equip this card to a monster with ATK 1300 or greater, but it will be immediately destroyed.
 *   If a monster equipped with this card has its ATK increased over 1299, by the effect of "Rush Recklessly", etc., this card is destroyed.
 *   If your "Relinquished" or "Thousand-Eyes Restrict" is equipped with "Heart of Clear Water" and you its effect to equip it with a Monster Card whose ATK is 1300 or higher, "Heart of Clear Water" is destroyed.
@@ -8,7 +18,7 @@
 *   A monster equipped with this card can still be destroyed by effects that do not target, such as the effects of "Fissure", "Dark Hole", "Smashing Ground", or "Torrential Tribute".
 *   A monster equipped with this card cannot be destroyed by a card that targets, but it may still be declared a target. So the opponent may activate "Nightmare Wheel" or "Snatch Steal" targeting your monster equipped with "Heart of Clear Water".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Heart%20of%20Clear%20Water
 

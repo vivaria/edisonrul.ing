@@ -1,6 +1,14 @@
 # Gladiator Beast Secutor
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card was Special Summoned by the effect of a "Gladiator Beast" monster, at the end of any Battle Phase, if this card attacks or was attacked, Special Summon 2 "Gladiator Beast" monsters from your Deck, except "Gladiator Beast Secutor".
+
+### Card Rulings
 
 *   The ① mandatory Trigger Effect activates if this card has engaged in Substep 4 - Damage Calculation.
 *   If you have only 1 available Monster Zone Space, you will still choose 2 “Gladiator Beast” monsters. You will Special Summon one, and the other will be destroyed and sent to the Graveyard.
@@ -15,7 +23,7 @@
     *   They are not combined onto the same Chain.
 *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Secutor
 

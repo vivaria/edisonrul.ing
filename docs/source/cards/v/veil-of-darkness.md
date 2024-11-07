@@ -1,5 +1,15 @@
 # Veil Of Darkness
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Reveal the drawn DARK monster when you activate the effect of "Veil of Darkness". That DARK monster is sent to the Graveyard when the effect is resolved.
 *   You can activate the effect of "Veil of Darkness" when you draw a DARK monster with a card effect during your Draw Phase.
 *   When you draw a DARK monster with the effect of "Veil of Darkness", you can reveal the drawn DARK monster to activate the effect of "Veil of Darkness'" again.
@@ -10,7 +20,7 @@
 *   If, during your Draw Phase, you draw a DARK monster because of "Reload", you can activate "Veil of Darkness". If you draw a DARK monster because of "Veil of Darkness, you can activate the effect of "Veil of Darkness" again.
 *   The effect of a monster like "Sillva, Warlord of Dark World" only activates when it is "discarded to the Graveyard" from the hand by a card effect. The effects of "Hand Destruction" and "Veil of Darkness" "send to the Graveyard" the cards - this is not the same as "discard to the Graveyard". Thus, if a monster like "Sillva, Warlord of Dark World" is sent to the Graveyard by these effects, then you cannot activate its effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Veil%20of%20Darkness
 

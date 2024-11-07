@@ -1,6 +1,14 @@
 # Hand Destruction
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Each player sends 2 cards from their hand to the Graveyard and draws 2 cards.
+
+### Card Rulings
 
 *   Sending 2 cards from the hand to the Graveyard is NOT a cost.
     *   Sending a card to the Graveyard is not the same as discarding it.
@@ -14,7 +22,7 @@
     *   while "Protector of the Sanctuary" is face-up on the field.
     *   if activating (playing it face-up) it would cause you to have fewer than 2 cards in your hand.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Hand%20Destruction
 

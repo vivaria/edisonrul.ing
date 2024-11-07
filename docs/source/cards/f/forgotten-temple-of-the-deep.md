@@ -1,5 +1,15 @@
 # Forgotten Temple Of The Deep
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can activate the effect to remove a monster from play on either player’s turn.
     *   It targets that monster.
 *   Special Summoning the monster does not target.
@@ -11,7 +21,7 @@
 *   The effect to Special Summon starts a Chain.
 *   If you control this card and “A Legendary Ocean” you can send either to the Graveyard to activate the effect of “Codarus.”
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Forgotten%20Temple%20of%20the%20Deep
 

@@ -1,5 +1,15 @@
 # Power Bond
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The ATK bonus for “Power Bond” lasts as long as the Fusion Monster is face-up on the field. If it is flipped face-down or removed from the field, the ATK increase disappears.
 *   The ATK bonus for “Power Bond” is not a fixed number. It is a bonus equal to the original ATK. So if the original ATK changes, so does the bonus from “Power Bond”.
 *   You cannot use “Barrel Behind the Door” against the damage from “Power Bond” because the damage happens much later than the activation of the “Power Bond” card.
@@ -10,7 +20,7 @@
 *   If “Non-Spellcasting Area” is active and “Power Bond” is used to Special Summon a Fusion Monster that has no effect, the Fusion Monster will not gain the ATK bonus from “Power Bond”, but the controller will still take damage for “Power Bond” (because the player is not a non-Effect Monster Card).
 *   If you equip the monster Special Summoned by "Power Bond" with "Megamorph", the ATK gained from "Power Bond" disappears but the damage is still inflicted in the End Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Power%20Bond
 

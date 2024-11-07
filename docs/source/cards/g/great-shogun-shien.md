@@ -1,6 +1,14 @@
 # Great Shogun Shien
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓤ If you control 2 or more "Six Samurai" monsters, you can Special Summon this card from your hand. ① Your opponent can activate only 1 Spell/Trap Card each turn. ② If this card would be destroyed, you can destroy a "Six Samurai" monster you control instead.
+
+### Card Rulings
 
 *   The Ⓤ Unclassified Effect works like a built-in Special Summon. This Summon does not start a chain.
 *   The ① Continuous Effect applies so long as "Great Shogun Shien" is face-up on the field.
@@ -22,7 +30,7 @@
         *   Example: If "Mirror Force" would destroy all your "Six Samurai", you cannot substitute any.
 *   If you control 2 “Six Samurai” monsters, and 1 of them equipped with “Legendary Ebon Steed” would be destroyed, the effect of “Legendary Ebon Steed” must be used. You cannot choose to destroy another “Six Samurai” monster instead.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Great%20Shogun%20Shien
 

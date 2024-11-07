@@ -1,5 +1,15 @@
 # Cloak And Dagger
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You declare a monster card name when “Cloak and Dagger” resolves.
 *   This card’s removal effect starts a Chain.
 *   You cannot activate this card during the Damage Step.
@@ -12,7 +22,7 @@
 *   If your opponent already controls a copy of the declared monster, then Summons another copy, only the newly Summoned monster will be removed from play.
 *   If you Special Summon the monster declared by “Cloak and Dagger”, you can Chain “Inferno Reckless Summon” to the effect of “Cloak and Dagger”. Only the first monster Summoned (the one that triggered the effect of “Cloak and Dagger”) will be removed from play.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Cloak%20and%20Dagger
 

@@ -1,5 +1,11 @@
 # Gladiator Beast Gyzarus
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > “Gladiator Beast Bestiari” + 1 Gladiator Beast monster_
 _Ⓢ This card can only be Special Summoned from your Fusion Deck by returning the above cards you control to the Deck. (You do not use “Polymerization”.) ① When this card is Special Summoned, you can destroy up to 2 cards on the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return this card to the Fusion Deck to Special Summon 2 “Gladiator Beast” monsters from your Deck, except “Gladiator Beast Bestiari”.
 
@@ -21,7 +27,7 @@ _Ⓢ This card can only be Special Summoned from your Fusion Deck by returning t
     *   You must have 2+ "Gladiator Beasts" in your Deck not named "Gladiator Beast Bestiari" to activate & resolve this effect.
     *   Returning Gyzarus to the Extra Deck is a cost.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Gyzarus
 

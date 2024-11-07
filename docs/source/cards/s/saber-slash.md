@@ -1,6 +1,14 @@
 # Saber Slash
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Destroy a number of face-up cards on the field equal to the number of face-up Attack Position "X-Saber" monsters you control.
+
+### Card Rulings
 
 *   This effect does not target.
 *   Count your face-up Attack Position XX-Saber & X-Saber monsters when “Saber Slash” resolves.
@@ -12,7 +20,7 @@
     *   VS. Your own "Starlight Road": If you control 3 "X-Saber" monsters and your opponent controls 1 face-up card, when you play "Saber Slash" it is certain that at least 2 of your "X-Saber" monsters will be destroyed, so you can activate "Starlight Road" in response to your own "Saber Slash" \[[REF](https://www.pojo.biz/board/showthread.php?t=814158)\].
 *   VS. "Stardust Dragon": "Sabre Slash" destroys a card(s) on the field, so Stardust can activate \[[REF](https://www.pojo.biz/board/showthread.php?t=814158)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Saber%20Slash
 

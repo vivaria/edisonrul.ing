@@ -1,6 +1,14 @@
 # Mobius The Frost Monarch
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Tribute Summoned, you can destroy up to 2 Spell or Trap Cards on the field.
+
+### Card Rulings
 
 *   The ① Trigger Effect is OPTIONAL.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -11,7 +19,7 @@
     *   if Mobius was Normal Summoned by "Mausoleum of the Emperor".
     *   if Mobius was Normal Summoned while treated as a Level 4 by "Cost Down".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Mobius%20the%20Frost%20Monarch
 

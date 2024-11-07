@@ -1,5 +1,15 @@
 # Time Machine
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Time Machine" is activated at the end of the Damage Step, when monsters destroyed by battle are sent to the Graveyard.
 *   "Time Machine"'s effect does not target.
 *   If a face-down Defense Position monster is attacked and is destroyed by battle, when it is Special Summoned by "Time Machine" it is Special Summoned in face-up Defense Position.
@@ -18,7 +28,7 @@
 *   If a Fusion Monster that was Special Summoned from the Extra Deck by "Metamorphosis" is destroyed by battle and sent to the Graveyard, "Time Machine" cannot be activated because the Fusion Monster was not properly Special Summoned and cannot be Special Summoned from the Graveyard.
 *   If your "Sealmaster Meisei" is destroyed by battle and sent to the Graveyard while you control "Talisman of Trap Sealing", you can activate "Time Machine" because "Talisman of Trap Sealing" is destroyed when "Sealmaster Mesei" is removed from the field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Time%20Machine
 

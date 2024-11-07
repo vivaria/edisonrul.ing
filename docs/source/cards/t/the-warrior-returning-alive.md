@@ -1,9 +1,19 @@
 # The Warrior Returning Alive
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You may select a Warrior-Type Fusion Monster or Synchro Monster in your Graveyard, but it will be returned to the Extra Deck instead of your hand.
 *   You may select any Warrior-Type monster to return to your hand, regardless of its Summoning requirements. So you may select a "Black Luster Soldier - Envoy of the Beginning" even if it was never properly Summoned.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=The%20Warrior%20Returning%20Alive
 

@@ -1,5 +1,15 @@
 # Voltanis The Adjudicator
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Voltanis the Adjudicator"'s Special Summon effect starts a Chain. After "Voltanis the Adjudicator" is Special Summoned, its effect starts another new Chain if activated.
 *   Tributing all your monsters to Special Summon “Voltanis the Adjudicator” is a cost. If you do not have at least 1 monster to Tribute, you cannot activate this effect.
 *   If the negated effect was Chain Link 2 or higher, you can still activate "Voltanis the Adjudicator"'s effect when the Chain resolves.
@@ -15,7 +25,7 @@
 *   "Royal Oppression" can be used to negate “Voltanis the Adjudicator's” effect to Special Summon itself.
 *   If you activate "Magic Jammer", etc. and discard "Night Assailant" for its activation cost, the effects of "Night Assailant" and “Voltanis the Adjudicator” will start a new Chain after the Chain that included your "Magic Jammer" resolves. "Night Assailant"'s effect will be Chain Link 1 and “Voltanis the Adjudicator's” will be Chain Link 2.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Voltanis%20the%20Adjudicator
 

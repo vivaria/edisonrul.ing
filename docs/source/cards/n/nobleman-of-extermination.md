@@ -1,6 +1,14 @@
 # Nobleman Of Extermination
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Destroy 1 face-down Spell or Trap Card and remove it from play. If the card is a Trap Card, both players must check their respective Decks and remove all cards of the same name from play. Then shuffle the Decks.
+
+### Card Rulings
 
 *   The ① effect targets a face-down Spell / Trap Card anywhere on the field.
     *   You can target a face-down monster that is equipped to "Relinquished".
@@ -10,7 +18,7 @@
         *   This cannot take place using online duel simulators, as it allows opportunity for foul play.
 *   VS. "Imperial Iron Wall": Nobleman CANNOT be activated while IWW is active. If IWW is chained to Nobleman, the target is still destroyed but it is not removed from play, nor are any cards in the Deck(s).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Nobleman%20of%20Extermination
 

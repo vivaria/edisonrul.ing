@@ -1,8 +1,18 @@
 # Consecrated Light
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can Summon “Light and Darkness Dragon” while “Consecrated Light” is on the field. Once it is on the field, it will be unable to attack.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Consecrated%20Light
 

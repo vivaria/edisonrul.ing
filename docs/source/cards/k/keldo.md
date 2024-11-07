@@ -1,9 +1,19 @@
 # Keldo
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate "Keldo"'s effect when there are not at least 2 cards in your opponent's Graveyard.
 *   The owner of the Deck shuffles it and the controller of "Keldo" cuts the Deck.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Keldo
 

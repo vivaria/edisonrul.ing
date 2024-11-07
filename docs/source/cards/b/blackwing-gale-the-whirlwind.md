@@ -1,5 +1,11 @@
 # Blackwing - Gale The Whirlwind
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓢ If you control a “Blackwing” monster other than “Blackwing – Gale the Whirlwind”, you can Special Summon this card from your hand.
 ① Once per turn, you can halve the ATK and DEF of 1 face-up monster your opponent controls.
 
@@ -9,7 +15,7 @@
         *   Example 1: A monster equipped with “United We Stand” whose ATK was halved by Gale WILL NOT have its ATK changed when the number of monsters on the field changes.
         *   Example 2: Gale's effect targets a "Blue-Eyes White Dragon" equipped with "Axe of Despair". Its ATK is reduced to 2000, and will not change even if "Axe of Despair" is destroyed or has its effect negated. This ruling also applies to temporary ATK modifiers (ex: "Rush Recklessly").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Blackwing%20-%20Gale%20the%20Whirlwind
 

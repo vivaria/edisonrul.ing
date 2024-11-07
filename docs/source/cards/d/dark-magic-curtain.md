@@ -1,5 +1,15 @@
 # Dark Magic Curtain
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Paying half of your Life Points is a cost to activate “Dark Magic Curtain”.
 *   If you Normal Summon, Flip Summon, or Special Summon a monster during a turn, you cannot activate “Dark Magic Curtain” during the same turn. For example, if you Normal Summon a monster during your Main Phase 1 you would not be able to activate “Dark Magic Curtain” during your Main Phase 2.
 *   You can Set a monster before or after activating “Dark Magic Curtain”. However, it is not possible to Special Summon monsters face-down, using cards like “The Shallow Grave”, after activating “Dark Magic Curtain”.
@@ -10,7 +20,7 @@
 *   You do not have to pay any Life Points to activate “Dark Magic Curtain” while you have “Spell Economics” face-up on your side of the field.
 *   If you Chain “Serial Spell” to “Dark Magic Curtain”, the effect that prevents you from Normal Summoning, Flip Summoning, or Special Summoning for the remainder of the turn is still applied. When “Serial Spell” resolves it will Special Summon 1 “Dark Magician” from your Deck and it will apply the Summon-restriction, so when “Dark Magic Curtain’s” effect tries to resolve its effect will disappear because you cannot Special Summon a monster.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dark%20Magic%20Curtain
 

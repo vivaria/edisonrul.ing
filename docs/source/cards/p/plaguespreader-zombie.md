@@ -1,6 +1,14 @@
 # Plaguespreader Zombie
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can return 1 card from your hand to the top of the Deck to Special Summon this card from the Graveyard. Ⓛ If you do, remove this card from play when it is removed from the field.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves in the Graveyard.
     *   Placing a card from your hand on top of the Deck is a cost.
@@ -11,7 +19,7 @@
     *   This effect disappears if "Plaguespreader Zombie" is flipped face-down.  
         
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Plaguespreader%20Zombie
 

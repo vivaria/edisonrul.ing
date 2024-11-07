@@ -1,5 +1,15 @@
 # Inferno Reckless Summon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Inferno Reckless Summon" does not target. Your opponent chooses a monster on his/her side of the field when "Inferno Reckless Summon" resolves.
 *   "Inferno Reckless Summon" cannot be activated in the Damage Step.
 *   If there are not enough available Monster Zone spaces for each monster that will be Special Summoned, the monsters that cannot be Special Summoned are sent to the Graveyard instead.
@@ -18,7 +28,7 @@
 *   You can activate "Inferno Reckless Summon" when your opponent Special Summons a monster with 1500 or less ATK onto your side of the field.
 *   If either player does not Special Summon monsters so that they have 3 monsters with the same name in play after resolving "Inferno Reckless Summon", the opponent can check that player's hand and Deck to verify that they have Summoned all possible copies of the chosen monster. If that monster is Limited or Semi-Limited, and the maximum number of copies allowed per Deck are on that player's side of the field the field, in their Graveyard or in their Removed Zone, their opponent can not check their hand and Deck for additional copies.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Inferno%20Reckless%20Summon
 

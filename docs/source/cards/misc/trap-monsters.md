@@ -1,5 +1,7 @@
 # Trap Monsters
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 (These rules apply to: "Cyber Shadow Gardna", "Embodiment of Apophis", "Machine King - 3000 B.C.", "Metal Reflect Slime", "Stronghold the Moving Fortress", and "Zoma the Spirit".)
 
 *   Trap Monsters takes up 1 Monster Card Zone and 1 Spell / Trap Card Zone. The physical location of the Trap Monster is the Monster Card Zone, it is not counted as a card in the Spell / Trap Card Zone (even though 1 of those Zones can't be used).

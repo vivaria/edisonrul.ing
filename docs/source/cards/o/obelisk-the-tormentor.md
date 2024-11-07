@@ -1,6 +1,14 @@
 # Obelisk The Tormentor
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ You must Tribute 3 monsters to Normal Summon this card (you cannot Set this card). Ⓤ The Normal Summon of this card cannot be negated. ① When this card is Normal Summoned, Spells, Traps, and Effect Monster effects cannot be activated. ② This card cannot be targeted by the effects of Spells, Traps, or Effect Monsters. ③ If this card is Special Summoned, it is sent to the Graveyard during the End Phase. ④ You can Tribute 2 monsters to destroy all monsters your opponent controls. (4C) This card cannot declare an attack the turn this effect is activated.
+
+### Card Rulings
 
 *   The Ⓒ Summon Condition cannot be negated.
     *   You can only Tribute Summon this card by Tributing 3 monsters.
@@ -25,7 +33,7 @@
     *   If this activated effect was negated (by "Starlight Road"), the (4C) Condition will still apply.
     *   If the activation of this effect was negated (by "Divine Wrath"), the (4C) Condition does not apply.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Obelisk%20the%20Tormentor
 

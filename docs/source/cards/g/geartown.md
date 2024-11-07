@@ -1,6 +1,14 @@
 # Geartown
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Both players can Tribute Summon "Ancient Gear" monsters with 1 less Tribute than required. ② When this card is destroyed and sent to the Graveyard, you can Special Summon 1 "Ancient Gear" monster from your hand, Deck, or Graveyard.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies to both players.
     *   You can still Tribute the usual number of monsters to Summon an "Ancient Gear" monster.
@@ -18,7 +26,7 @@
     *   if "Geartown" was destroyed as Chain Link 2+.
     *   if "Geartown" was destroyed as the first part of an effect that resolves sequentially. If "[Ancient Fairy Dragon](https://yugipedia.com/wiki/Ancient_Fairy_Dragon)" destroys "Geartown" and gains 1000 Life Points, then also adds a Field Spell from Deck to hand, "Geartown" cannot activate its effect because it has missed the timing.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Geartown
 

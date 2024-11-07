@@ -1,6 +1,14 @@
 # Destiny Hero - Doom Lord
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, if this card is in face-up Attack Position, you can remove from play 1 monster your opponent controls. Ⓒ If you use this effect, you cannot declare an attack this turn, and the removed monster will be returned to the opponent's side of the field in the same battle position during your second Standby Phase after activation.
+
+### Card Rulings
 
 *   The ① Ignition Effect targets a monster.
     *   Doom Lord must remain in face-up Attack Position for this effect to resolve.
@@ -13,7 +21,7 @@
     *   If your 2nd Standby Phase is skipped (by “Solomon’s Lawbook”), the monster will never return.
     *   You can activate this effect even if your Battle Phase skipped by a card effect like “Soul Exchange”.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Doom%20Lord
 

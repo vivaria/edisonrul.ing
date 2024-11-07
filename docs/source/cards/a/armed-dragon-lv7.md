@@ -1,6 +1,14 @@
 # Armed Dragon LV7
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "Armed Dragon LV5". ① By sending 1 Monster Card from your hand to the Graveyard, destroy all face-up monsters on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
     *   You can Special Summon "Armed Dragon LV7" by using "Level Up!" on "Armed Dragon LV5", because "Level Up!" lets you bypass the normal Summoning requirements.
@@ -12,7 +20,7 @@
     *   You can activate "Armed Dragon LV7"’s effect multiple times in the same turn.
     *   Destroy Monsters whose current (not original) ATK is equal to or less than the original (printed) ATK of the Monster sent from your hand to the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Armed%20Dragon%20LV7
 

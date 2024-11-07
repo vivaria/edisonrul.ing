@@ -1,6 +1,14 @@
 # Ancient Gear Engineer
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Negate the effect of any Trap Card that targets this card, and destroy that Trap Card. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of Damage Step. ③ When this card attacks, destroy 1 Spell or Trap Card on your opponent's side of the field at the end of the Damage Step.
+
+### Card Rulings
 
 *   The ① Continuous Effect does not activate.
     *   This card can still be targeted by the effects of Trap Cards, but they resolve without effect.
@@ -17,7 +25,7 @@
     *   This card must be face-up on the field to activate this effect.
     *   Do not activate this effect if this card is destroyed by battle / flipped face-down / leaves the field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ancient%20Gear%20Engineer
 

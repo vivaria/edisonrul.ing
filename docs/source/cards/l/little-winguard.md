@@ -1,9 +1,19 @@
 # Little-Winguard
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Little-Winguard"'s effect can be chained to.
 *   Effects like "Spellbinding Circle" do not prevent you from using "Little-Winguard"'s effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Little-Winguard
 

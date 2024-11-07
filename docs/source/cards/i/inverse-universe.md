@@ -1,5 +1,15 @@
 # Inverse Universe
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   After “Inverse Universe” resolves, monsters whose ATK and DEF are calculated or modified because of their own individual effects have their ATK and DEF “frozen” at the switched values.
 *   Examples: The ATK and DEF of “Tragoedia” will not change even if the number of cards in your hand changes. The ATK and DEF of “Gren Maju Da Eiza” will not change. The ATK and DEF of “Uria, Lord of Searing Flames” will not change. The ATK of “Arcanite Magician” will not change, even if the number of Spell Counters does.
 *   If “Shrink” targets a monster that has been affected by “Inverse Universe” its ATK will be half of its original, printed ATK. After “Shrink” wears off, the monster’s ATK becomes its original, printed ATK.
@@ -9,7 +19,7 @@
 *   When the Equip Spell is destroyed, the ATK and DEF of the monster do not change.
 *   New Equip Spells will modify the new ATK.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Inverse%20Universe
 

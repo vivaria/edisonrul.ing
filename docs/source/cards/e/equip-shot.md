@@ -1,5 +1,15 @@
 # Equip Shot
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Equip Shot" cannot be activated during the Damage Step or End Step.
 *   The Attack Position monster selected by "Equip Shot" must be a legal target for the selected Equip Card. If no legal targets exist, "Equip Shot" cannot be activated.
 *   The selected Equip Card remains under your control when it is equipped to your opponent's monster.
@@ -10,7 +20,7 @@
 *   If an effect is chained that switches the monster that would be the attacker into Defense Position, the selected Equip Card is still transferred but the battle is not conducted, unless the monster can attack while in Defense Position like "Total Defense Shogun".
 *   If one of the monsters affected by "Equip Shot" cannot attack, the Equip Card is still transferred.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Equip%20Shot
 

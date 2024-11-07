@@ -1,5 +1,15 @@
 # Torapart
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The restriction on using “Torapart” as a Synchro Material Monster is not an ‘effect’.
 *   If a monster Synchro Summoned with “Torapart” attacks, the opponent cannot activate Trap Cards until after the Damage Step is over.
 *   Even cards like “Hero Signal” cannot be activated (which activate when monsters are sent to the Graveyard at the end of the Damage Step).
@@ -11,7 +21,7 @@
 *   If “Skill Drain” is active while you use “Torapart” to Synchro Summon a monster, “Torapart” is now no longer on the field, so the effect of “Torapart” will be applied. So the opponent cannot activate Trap Cards when that Synchro Monster attacks. This is because the restriction on activating Trap Cards is an effect of “Torapart,” not an effect of the Synchro Monster.
 *   If “Torapart’s” effects are being negated by “Forbidden Chalice,” the same rule applies – Trap Cards cannot be activated when the Synchro Monster attacks.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Torapart
 

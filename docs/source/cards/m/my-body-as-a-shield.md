@@ -1,6 +1,14 @@
 # My Body As A Shield
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Activate only by paying 1500 Life Poitns when your opponent activates a card with an effect that would destroy 1 or more monster(s) on the field. Negate the activation of that card and destroy it.
+
+### Card Rulings
 
 *   Paying 1500 Life Points is a cost.
 *   CAN be chained to the activation of a Card OR Effect that destroys a monster(s) on the field.
@@ -12,7 +20,7 @@
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play. (SJC Edison was played with the TU2 erratum, but the GLD3 erratum better communicates this card's ability to respond to the activation of a Card OR Effect.)
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=My%20Body%20as%20a%20Shield
 

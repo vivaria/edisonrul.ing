@@ -1,5 +1,15 @@
 # Horus The Black Flame Dragon LV4
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The "you" in "on your side of the field" is the current controller’s field, so as long as "Horus the Black Flame Dragon LV 4" is face-up, it is always "face-up on your side of the field".
 *   If "Horus the Black Flame Dragon LV 4" destroys a monster, you can activate its effect during the End Phase, even if the destroyed monster was your monster that was controlled by your opponent.
 *   If you don’t have "Horus the Black Flame Dragon LV6" in your hand or Deck, you cannot send "Horus the Black Flame Dragon LV4" to the Graveyard to activate its effect.
@@ -9,7 +19,7 @@
 *   You can activate the effect of "Horus the Black Flame Dragon LV 4" during your opponent’s End Phase if appropriate.
 *   If a level monster fulfills its condition to Special Summon the next-highest level (for example, if "Armed Dragon LV5" destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the Graveyard and then Special Summoned from the Graveyard, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Horus%20the%20Black%20Flame%20Dragon%20LV4
 

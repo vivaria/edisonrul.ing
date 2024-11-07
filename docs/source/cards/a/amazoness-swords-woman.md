@@ -1,6 +1,14 @@
 # Amazoness Swords Woman
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① The opponent takes all Battle Damage to this card's controller that he/she would have taken from a battle involving this card.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
 *   "Amazoness Swordswoman" only applies her effect to Battle Damage to her controller, so if attacked by a stronger monster, the "Amazoness Swordswoman" herself is still destroyed as normal.
@@ -10,7 +18,7 @@
 *   When the controller of "Amazoness Swordswoman" uses "Kuriboh", the controller takes zero Battle Damage so no damage is dealt to the opponent.
 *   When "Susa Soldier" battles "Amazoness Swordswoman", the controller of "Susa Soldier" takes full damage; the damage is NOT halved.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Amazoness%20Swords%20Woman
 

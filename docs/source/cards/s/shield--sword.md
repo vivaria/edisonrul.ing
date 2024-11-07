@@ -1,5 +1,15 @@
 # Shield & Sword
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can use this card with "Catapult Turtle". In this case, inflict Direct Damage equal to half of the Tribute monster's original DEF to your opponent's Life Points.
 *   This card switches the original ATK/DEF only. After this, apply all modifiers to the new ATK/DEF.
 *   The effect of this card lasts for your turn only.

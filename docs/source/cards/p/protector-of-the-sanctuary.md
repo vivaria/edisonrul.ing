@@ -1,5 +1,15 @@
 # Protector Of The Sanctuary
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Your opponent cannot draw with "Airknight Parshath" while you control "Protector of the Sanctuary".
 *   Most cards that would cause the opponent to draw outside of the Draw Phase, such as "Card Destruction", cannot be activated, even by the controller of "Protector of the Sanctuary". However, effects that are forcibly activated, like "Morphing Jar", can be activated (but results may vary; see below).
 *   If "Protector of the Sanctuary" is on the field, then Flip Effects like "Morphing Jar" will still activate because they must activate when the monster is flipped (whether it was Flip Summoned, flipped by an attack, or flipped by "Book of Taiyou", etc.).
@@ -19,7 +29,7 @@
 *   If "Call of the Haunted" is chained to "Graceful Charity" to Special Summon "Protector of the Sanctuary", you cannot draw for the effect of "Graceful Charity" and you do not discard 2 cards.
 *   If "Call of the Haunted" is chained to "Mind Wipe" to Special Summon "Protector of the Sanctuary", your opponent adds his hand to the Deck and shuffles, but cannot draw any cards.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Protector%20of%20the%20Sanctuary
 

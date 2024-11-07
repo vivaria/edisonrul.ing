@@ -1,5 +1,15 @@
 # Chaos Emperor Dragon - Envoy Of The End
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Chaos Emperor Dragon - Envoy of the End" sends itself to the Graveyard as part of its effect, and counts itself for determining how much damage it inflicts.
 *   The damage that "Chaos Emperor Dragon - Envoy of the End" inflicts is equal to the number of cards BOTH players send to the Graveyard times 300 points.
 *   "Barrel Behind the Door" and "Trap of Board Eraser" can be chained to "Chaos Emperor Dragon - Envoy of the End"'s effect. "Barrel Behind the Door" is, itself, sent to the Graveyard by "Chaos Emperor Dragon - Envoy of the End"'s effect and counts for an additional 300 points as a result.

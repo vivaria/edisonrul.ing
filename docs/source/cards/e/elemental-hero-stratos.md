@@ -1,5 +1,11 @@
 # Elemental Hero Stratos
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Normal or Special Summoned, you can select and activate 1 of these effects:
 Ⓐ Destroy Spell or Trap Cards on the field up to the number of "Elemental Hero", "Destiny Hero" and "Evil Hero" monsters you control (not counting this card).  
 Ⓑ Select and add 1 "Elemental Hero", "Destiny Hero" or "Evil Hero" from your Deck to your hand.
@@ -14,7 +20,7 @@
 *   The Ⓑ effect CANNOT be activated while "Thunder King Rai-Oh" is face-up on the field.
     *   This effect cannot add "Hero Kid".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Elemental%20HERO%20Stratos
 

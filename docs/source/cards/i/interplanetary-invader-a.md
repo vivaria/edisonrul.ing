@@ -1,6 +1,14 @@
 # Interplanetary Invader 'A'
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.
+
+### Card Rulings
 
 *   The ① Trigger Effect meets activates in Substep 7 - End of the Damage Step, then "starts another chain" in the End of the Battle Phase, this time taking control of every monster that battled it.
     *   This effect does not target.
@@ -14,7 +22,7 @@
     *   a Level 4 or higher monster attacks Invader 'A' and "Gravity Bind" is activated.
     *   Invader 'A' is destroyed without applying damage calculation (ex: "[Sasuke Samurai #4](https://yugioh.fandom.com/wiki/Sasuke_Samurai_4)").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Interplanetary%20Invader%20A
 

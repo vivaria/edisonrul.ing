@@ -1,6 +1,14 @@
 # Freed The Brave Wanderer
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can remove from play 2 LIGHT monsters in your Graveyard to destroy 1 face-up monster on the field with higher ATK than this card.
+
+### Card Rulings
 
 *   The ① Ignition Effect targets 1 face-up monster whose ATK is greater than Freed's
     *   If an effect causes the target's ATK to be less than Freed's ATK, the target is not destroyed.
@@ -9,7 +17,7 @@
     *   Removing from play 2 LIGHT monsters in your Graveyard is a cost.
     *   This effect can only be activated once per turn while this card is face-up.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Freed%20the%20Brave%20Wanderer
 

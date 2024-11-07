@@ -1,6 +1,14 @@
 # Ehren, Lightsworn Monk
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card attacks a Defense Position monster, return that monster to its owner’s Deck before damage calculation. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   The ① mandatory Trigger Effect activates in Substep 3 - Before Damage Calculation.
     *   This effect activates after Set monsters are Flipped face-up (in Substep 2).
@@ -21,7 +29,7 @@
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ehren,%20Lightsworn%20Monk
 

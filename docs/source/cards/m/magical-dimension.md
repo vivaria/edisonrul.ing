@@ -1,5 +1,15 @@
 # Magical Dimension
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Tributing a monster for “Magical Dimension” is not a cost; it’s part of the effect and happens when the effect resolves. If the effect of “Magical Dimension” is negated then you do not Tribute a monster.
 *   You don’t have to destroy a monster when using “Magical Dimension”; it’s optional. If you do choose to destroy a monster, then it’s resolved at the same time as the rest of “Magical Dimension’s” effect.
 *   Because you select which monster to destroy when “Magical Dimension” resolves, (not when it’s activated) “Magical Dimension” does not target.
@@ -12,7 +22,7 @@
 *   You cannot chain “My Body as a Shield” to “Magical Dimension”, since destroying a monster on the field is optional.
 *   If you Summon a monster like “Skilled Dark Magician” and the opponent activates “Bottomless Trap Hole”, you can chain “Magical Dimension” to Tribute “Skilled Dark Magician” and Special Summon another Spellcaster from your hand. This new monster will NOT be destroyed by “Bottomless Trap Hole”.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Magical%20Dimension
 

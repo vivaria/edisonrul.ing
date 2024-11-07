@@ -1,6 +1,14 @@
 # Elemental Hero Prisma
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can reveal 1 Fusion Monster from your Fusion Deck and send 1 of the Fusion Material Monsters listed on that card from your Deck to the Graveyard. Until the End Phase, this card’s name is treated as the sent monster’s name.
+
+### Card Rulings
 
 *   The ① Ignition Effect has no activation cost.
     *   When this effect resolves: reveal a Fusion Monster and send a named Fusion Material Monster.
@@ -10,7 +18,7 @@
     *   VS. "Rainbow Neos": you may only send "Elemental Hero Neos". You cannot send "Rainbow Dragon" or "Rainbow Dark Dragon", as "Rainbow Neos" actually lists "1 'Ultimate Crystal' monster" as the other Fusion Material \[[REF](https://yugipedia.com/wiki/Rainbow_Neos)\].  
         
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Elemental%20HERO%20Prisma
 

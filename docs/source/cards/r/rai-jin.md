@@ -1,8 +1,18 @@
 # Rai-Jin
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If "Rai-Jin" is face-up on your side of the field and you don't have any LIGHT Monsters in your Graveyard, "Rai-Jin"'s ATK is 0.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Rai-Jin
 

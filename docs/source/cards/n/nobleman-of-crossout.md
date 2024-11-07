@@ -1,6 +1,14 @@
 # Nobleman Of Crossout
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Destroy 1 face-down monster and remove it from play. If the monster is a Flip Effect Monster, both players must remove from play all monsters from their Decks with the same name as the destroyed monster.
+
+### Card Rulings
 
 *   The ① effect targets a face-down monster anywhere on the field.
     *   If the target is not destroyed, it is not removed from play, nor are any cards in the Deck(s).
@@ -9,7 +17,7 @@
         *   This cannot take place using online duel simulators, as it allows opportunity for foul play.
 *   VS. "Imperial Iron Wall": Nobleman CANNOT be activated while IWW is active. If IWW is chained to Nobleman, the target is still destroyed but it is not removed from play, nor are any cards in the Deck(s).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Nobleman%20of%20Crossout
 

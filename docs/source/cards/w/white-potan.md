@@ -1,9 +1,19 @@
 # White Potan
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If “White Potan” becomes a Tuner, it cannot be destroyed by battle.
 *   If a monster being treated as a Tuner is destroyed by battle and sent to the Graveyard, it is not considered a Tuner in the Graveyard, and the effect of “White Potan” to inflict damage will not activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=White%20Potan
 

@@ -1,8 +1,18 @@
 # Magical Explosion
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Count the number of Spell Cards in the Graveyard at the time “Magical Explosion” resolves.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Magical%20Explosion
 

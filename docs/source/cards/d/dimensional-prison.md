@@ -1,6 +1,14 @@
 # Dimensional Prison
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Activate only when your opponent declares an attack. Remove from play the attacking monster.
+
+### Card Rulings
 
 *   This card targets the attacking monster.
 *   You cannot choose to activate cards/effects like "Dimensional Prison" while "Imperial Iron Wall" is active.
@@ -12,7 +20,7 @@
     *   If the effect of "Scrubbed Raid" is activated in Chain to "Magic Cylinder", then the Battle Phase ends, so "Magic Cylinder" cannot negate the attack so the effect of inflicting damage equal to the monster's ATK is not applied.
     *   The effect of "Mirror Force" only destroys all monsters in Attack Position, so all Attack Position monsters will still be destroyed even if the effect of "Scrubbed Raid" ends the Battle Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dimensional%20Prison
 

@@ -1,6 +1,14 @@
 # Jain, Lightsworn Paladin
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   The ① Continuous Effect starts to apply in Substep 1 - Start of the Damage Step.
     *   This effect applies until Substep 7 - End of the Damage Step.
@@ -17,7 +25,7 @@
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Jain,%20Lightsworn%20Paladin
 

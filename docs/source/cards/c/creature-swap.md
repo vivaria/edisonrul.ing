@@ -1,5 +1,15 @@
 # Creature Swap
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Creature Swap" does not target. The monsters are chosen when its effect resolves, not when "Creature Swap" is activated.
 *   The opponent cannot chain "Fairy’s Hand Mirror", "Riryoku Field", or "Shift" to "Creature Swap" because it does not target. For the same reason, "Lord of D." does not prevent Dragon-Type monsters from being selected, and "Freed the Matchless General" will not negate the effect of "Creature Swap".
 *   Both players must have at least 1 eligible monster on the field for "Creature Swap" to be activated. If the opponent chains a card (such as "Ring of Destruction") to destroy the only monster on one side of the field, the effect of "Creature Swap" disappears.
@@ -11,7 +21,7 @@
 *   A player may select a monster that is equipped with "Snatch Steal". The original owner of the creature, who now controls the creature again, will still gain 1000 Life Points each turn from the opponent’s "Snatch Steal" card as long as it remains on the field.
 *   A player may activate "Change of Heart" to gain control of an opponent’s monster, and then activate "Creature Swap" and select that monster to return to the opponent. At the end of the turn, the monster targeted by "Change of Heart" does not switch sides again since it is already on the owner’s side of the field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Creature%20Swap
 

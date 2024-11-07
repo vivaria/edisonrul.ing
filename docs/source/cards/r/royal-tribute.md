@@ -1,12 +1,20 @@
 # Royal Tribute
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > This card can only be activated when "Necrovalley" is on your side of the field. Both players discard all Monster Cards in their hands to the Graveyard.
+
+### Card Rulings
 
 *   Both players must reveal their hands to the opponent when "Royal Tribute" resolves.
 *   "Necrovalley" only needs to be face-up on the field when this card is activated.
 *   This effect resolves successfully even if "Necrovalley" leaves the field in the Chain.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Royal%20Tribute
 

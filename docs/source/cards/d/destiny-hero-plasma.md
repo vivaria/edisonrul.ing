@@ -1,6 +1,14 @@
 # Destiny Hero - Plasma
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by Tributing 3 monsters you control. ① Once per turn, select your opponent's monster and equip it to this card (you can only equip 1 monster at a time to this card). ② This card gains equal to half of the ATK of the equipped monster. ③ While this card is face-up on the field, negate all the effect of face-up effect monster your opponent controls.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
     *   This means you cannot Special Summon "Destiny Hero - Plasma" by "Call of the Haunted".

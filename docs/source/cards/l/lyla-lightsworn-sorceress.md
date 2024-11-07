@@ -1,6 +1,14 @@
 # Lyla, Lightsworn Sorceress
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can change this card from face-up Attack Position to face-up Defense Position and destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card's battle position cannot be changed until the end of your next turn, except with a card effect. ② During each of your End Phases, send the top 3 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   The ① Ignition effect activates & resolves on the field.
     *   This effect targets 1 Spell / Trap Card your opponent controls.
@@ -20,7 +28,7 @@
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Lyla,%20Lightsworn%20Sorceress
 

@@ -1,6 +1,14 @@
 # Ryko, Lightsworn Hunter
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > FLIP: Ⓐ You can destroy 1 card on the field. Ⓑ Send the top 3 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   The Flip Effect activates & resolves on the field.
     *   If flipped in the Damage Step, this effect activates in Substep 6 - Resolve Effects.
@@ -11,7 +19,7 @@
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ryko,%20Lightsworn%20Hunter
 

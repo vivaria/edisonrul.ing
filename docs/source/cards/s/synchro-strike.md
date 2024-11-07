@@ -1,9 +1,19 @@
 # Synchro Strike
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot target a Synchro Monster when it is Special Summoned from the Graveyard.
 *   You cannot target a Synchro Monster that was turned face-down by “Book of Moon”, etc., when it is later Flip Summoned.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Synchro%20Strike
 

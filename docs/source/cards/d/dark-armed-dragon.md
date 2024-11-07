@@ -1,6 +1,14 @@
 # Dark Armed Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having exactly 3 DARK monsters in your Graveyard. ① You can remove from play 1 DARK monster from your Graveyard to destroy 1 card on the field.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon Effect is the only way to Special Summon this card.
@@ -10,7 +18,7 @@
     *   Removing from play 1 DARK monster is a cost.
     *   This effect targets 1 card on the field at activation.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dark%20Armed%20Dragon
 

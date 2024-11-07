@@ -1,6 +1,14 @@
 # Ancient Fairy Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can Special Summon 1 Level 4 or lower monster from your hand. Ⓒ You cannot conduct your Battle Phase the turn you activate this effect. ② Once per turn, you can destroy a Field Spell Card. If you do, gain 1000 Life Points, and you can add 1 Field Spell Card from your Deck to your hand.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   You can Special Summon a monster whose level in the hand is to 4 or less by "Cost Down".
@@ -17,7 +25,7 @@
     *   The last thing to happen is the optional "_add 1 Field Spell Card from your Deck to your hand._"
         *   A destroyed "Geartown" can't activate its effect if a Field Spell is added to the hand \[[REF](https://www.pojo.biz/board/showpost.php?p=21983320&postcount=2)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ancient%20Fairy%20Dragon
 

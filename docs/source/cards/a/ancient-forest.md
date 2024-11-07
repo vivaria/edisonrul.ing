@@ -1,6 +1,14 @@
 # Ancient Forest
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When you activate this card, change any Defense Position monster(s) to face-up Attack Position. Flip Effects are not activated at this time. ② If a monster attacks, destroy it at the end of that turn's Battle Phase.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies when “Ancient Forest” resolves.
     *   If “Dust Tornado” is Chained to the activation of “Ancient Forest,” the Defense Position monsters are not changed to Attack Position because “Ancient Forest” is no longer face-up on the field.
@@ -14,7 +22,7 @@
     *   If a monster attacks and is removed from the field or ceases to be a monster before the end of the Battle Phase, it will not be destroyed.
     *   If a monster attacks while “Ancient Forest” is being negated, but before the end of the Battle Phase the effect negating “Ancient Forest” disappears, the monster that attacked will be destroyed.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ancient%20Forest
 

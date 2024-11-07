@@ -1,6 +1,14 @@
 # 'A' Cell Incubator
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Each time an A-Counter(s) is removed from play by a card effect, place 1 A-Counter on this card. ② When this card is destroyed, distribute the A-Counters on this card among face-up monsters.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies on the field.
     *   This effect does not use the Chain.
@@ -10,7 +18,7 @@
 *   The ② mandatory Trigger-like Effect activates & resolves in the Graveyard (or banished).
     *   You may place A-Counters on face-up monsters on either field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=A%20Cell%20Incubator
 

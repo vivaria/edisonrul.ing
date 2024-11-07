@@ -1,5 +1,7 @@
 # Metaphysical Regeneration
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 This card's name has been changed to “SUPERNATURAL REGENERATION".
 
 *   You count Psychic monsters sent to any Graveyard, including your opponent’s.

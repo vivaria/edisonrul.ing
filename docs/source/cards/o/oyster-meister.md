@@ -1,8 +1,18 @@
 # Oyster Meister
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If "Oyster Meister" is Tributed to Summon "Kuraz the Light Monarch" and Kuraz' effect is activated, "Oyster Meister"'s effect is Chain Link 1 and "Kuraz the Light Monarch"'s effect is Chain Link 2.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Oyster%20Meister
 

@@ -1,5 +1,11 @@
 # Lifeforce Harmonizer
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When your opponent activates a card's effect that inflicts damage, you can discard this card to negate its activation and destroy it.
   
 
@@ -12,7 +18,7 @@
     *   It cannot be used against “Thestalos the Firestorm Monarch” since you don’t know if damage will be inflicted.
     *   If you control “Des Wombat” and it is preventing you from taking damage, you cannot activate “Lifeforce Harmonizer”.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Lifeforce%20Harmonizer
 

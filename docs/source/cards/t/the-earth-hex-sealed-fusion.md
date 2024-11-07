@@ -1,6 +1,14 @@
 # The Earth - Hex-Sealed Fusion
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can substitute this card for any 1 Fusion Material Monster. The other Fusion Material Monster(s) must be the correct one(s). ② By Tributing Fusion Material Monsters on the field, including this card, Special Summon 1 EARTH Fusion Monster from your Fusion Deck.
+
+### Card Rulings
 
 *   The ① effect does not have any classification. It is not an Ignition, Trigger, Quick, or Continuous Effect.
     *   This effect does not target.
@@ -13,7 +21,7 @@
     *   This effect does not perform a Fusion Summon, so it can activate while "Non-Fusion Area" applies, but it cannot Special Summon "Evil Hero Dark Gaia" or "Ultimate Ancient Gear Golem".
     *   The Fusion Monster Summoned by this effect cannot be Special Summoned from the Graveyard / removed from play, since it was not "properly" Fusion Summoned.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=The%20Earth%20-%20Hex-Sealed%20Fusion
 

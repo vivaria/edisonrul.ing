@@ -1,5 +1,15 @@
 # Last Will
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can activate “Last Will” before or after a monster is sent to the Graveyard, and still get the effect of “Last Will” to Special Summon a monster.
 *   You can choose the timing for when you Special Summon for the effect of “Last Will”. You can Special Summon the monster at any time during your turn, except during damage calculation. You do not have to Special Summon the monster at the point the first monster was sent to the Graveyard. If you activated “Last Will” after a monster was sent to the Graveyard, you do not have to Special Summon the monster when “Last Will” resolves.
 *   If you wish, you may Special Summon the monster immediately after “Last Will” resolves (if activated after a monster was destroyed), or when the first monster is sent to the Graveyard (if “Last Will” was activated before the monster was destroyed). But you don’t have to, you can do it later.

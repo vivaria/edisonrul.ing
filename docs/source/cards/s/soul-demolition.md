@@ -1,5 +1,15 @@
 # Soul Demolition
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If either player has no monsters in their Graveyard, the effect of this card cannot be activated.
 *   If "Kycoo the Ghost Destroyer" is on the field, the effect of this card cannot be activated.
 *   Paying 500 Life Points is a cost.
@@ -7,7 +17,7 @@
 *   If the opponent chains to the effect of "Soul Demolition" with an effect that destroys all the Fiend-Type monsters on your side of the field, the effect of "Soul Demolition" resolves because the activation conditions were correct at the time.
 *   If you chain the effect of "Soul Demolition" to "Monster Reborn" and remove the monster targeted by "Monster Reborn" from play, the effect of "Monster Reborn" disappears.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Soul%20Demolition
 

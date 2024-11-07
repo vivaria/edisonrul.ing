@@ -1,5 +1,15 @@
 # Nightmare Wheel
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can target a face-down monster for "Nightmare Wheel".
 *   If you activate "Nightmare Wheel" during the Battle Step and target a monster that is attacking, the attack stops.
 *   "Nightmare Wheel" targets. You select the monster when "Nightmare Wheel" is activated.
@@ -10,7 +20,7 @@
 *   The effect of "Nightmare Wheel" is still applied if the targeted monster changes sides.
 *   If the monster targeted by "Nightmare Wheel" becomes equipped to "Relinquished", then "Nightmare Wheel" is destroyed.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Nightmare%20Wheel
 

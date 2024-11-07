@@ -1,6 +1,14 @@
 # Asura Priest
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Special Summoned. ① This card returns to its owner's hand during the End Phase of the turn it is Normal Summoned or flipped face-up. ② This card can attack all monsters your opponent controls once each. This monster cannot attack directly if it has already attacked a monster.
+
+### Card Rulings
 
 *   The Ⓒ Condition is not an effect, it cannot be negated.
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
@@ -15,7 +23,7 @@
     *   Your opponent's "Patrician of Darkness" can re-direct all of your “Asura Priest” attacks to their “Spirit Reaper”.
     *   When "Asura Priest" attacks your opponent’s only monster, if the monster is removed from the field in the battle step, a replay occurs. Since Asura Priest never battled with a monster it can attack directly.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Asura%20Priest
 

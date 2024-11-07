@@ -1,5 +1,11 @@
 # Gorz, The Emissary Of Darkness
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When you take damage from a card your opponent controls while you control no cards, you can Special Summon this card from your hand. ② Then activate the appropriate effect based on the type of damage:
 (2A) Battle Damage: Special Summon 1 “Emissary of Darkness Token” (Fairy-Type/ LIGHT/ Level 7/ ATK ?/DEF ?). Its ATK and DEF are each equal to the amount of battle damage you took.  
 (2B) Effect Damage: Inflict damage to your opponent equal to the amount of damage you took.
@@ -16,7 +22,7 @@
     *   When (2A) resolves as Chain Link 1, the last thing to happen is the Special Summon of a Token.
     *   An "Emissary of Darkness Token" targeted by "Shrink" has its ATK reduced to 0 ("?" ATK / "?" DEF original stats are treated as 0 ATK / 0 DEF).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gorz%20the%20Emissary%20of%20Darkness
 

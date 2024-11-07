@@ -1,8 +1,18 @@
 # Demotion
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   A monster's Level cannot go below 1. You can equip 2 "Demotions" to a monster to reduce its Level by 4.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Demotion
 

@@ -1,5 +1,15 @@
 # Dna Checkup
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This card targets 1 face-down monster you control.
 *   If the targeted monster is not on the field when “DNA Checkup” resolves, its effect disappears.
 *   You cannot target a face-down Spell Card Special Summoned by “Magical Hats”.
@@ -7,7 +17,7 @@
 *   Your opponent declares 2 Attributes when the effect resolves, immediately before revealing the monster.
 *   You cannot activate “DNA Checkup” if either player has less than 2 cards left in their Deck.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=DNA%20Checkup
 

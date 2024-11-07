@@ -1,9 +1,19 @@
 # Riryoku Field
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This card cannot be used against "Monster Reborn" or "Premature Burial" since they do not target a monster on the field.
 *   This card cannot be used against "Fissure", "Smashing Ground", or "Dark Hole" because these cards do not target.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Riryoku%20Field
 

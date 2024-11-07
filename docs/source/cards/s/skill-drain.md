@@ -1,6 +1,14 @@
 # Skill Drain
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Pay 1000 Life Points. ① The effects of all face-up Effect Monsters are negated.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect does not activate.
     *   Paying 1000 Life Points is a cost.
@@ -12,7 +20,7 @@
     *   Spell Counters cannot be held by Monsters (ex: "Skilled Dark Magician"), remove all Spell Counters.
 *   VS. "Jinzo": Whichever card was face-up first applies its effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Skill%20Drain
 

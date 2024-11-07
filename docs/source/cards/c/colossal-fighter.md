@@ -1,6 +1,14 @@
 # Colossal Fighter
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① This card gains 100 ATK for every Warrior-Type monster in any Graveyard. ② When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Warrior-Type monster from either player's Graveyard.
+
+### Card Rulings
 
 *   The ① Continuous Effect re-calculates as the total of Warrior-Type monsters in the Graveyards changes.
     *   This process does not start a chain, even in instances where the ATK gain changes.
@@ -14,7 +22,7 @@
     *   "Colossal Fighter" was destroyed After Damage Calculation by the Flip Effect of "Man-Eater Bug".
     *   A Defense Position "Colossal Fighter" was shuffled into the Deck by "Ehren, Lightsworn Monk".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Colossal%20Fighter
 

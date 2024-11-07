@@ -1,6 +1,14 @@
 # Armed Sea Hunter
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If you control another face-up WATER monster, negate the effects of the monster that battled with this card, after damage calculation. ② If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead.
+
+### Card Rulings
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   This effect activates in Substep 5 - After Damage Calculation \[[REF](https://www.pojo.biz/board/showthread.php?t=753181)\].
@@ -10,7 +18,7 @@
 *   The ② Continuous Effect applies while is card is face-up on the field, it does not start a Chain.
     *   You can't choose to destroy monsters that can't be destroyed (due to “Aegis of the Ocean Dragon Lord”) as substitute for this card.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Armed%20Sea%20Hunter
 

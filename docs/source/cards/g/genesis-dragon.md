@@ -1,6 +1,14 @@
 # Genesis Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. ② When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck.
+
+### Card Rulings
 
 *   The ① Ignition Effect targets a Dragon-Type monster in the Graveyard.
     *   Discarding 1 Dragon-Type monster is a cost. You can target the discarded Dragon.

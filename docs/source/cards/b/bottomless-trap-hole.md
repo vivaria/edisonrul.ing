@@ -1,6 +1,14 @@
 # Bottomless Trap Hole
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Activate only when your opponent Summons a monster(s) with 1500 or more ATK. Destroy and remove from play the monster(s).
+
+### Card Rulings
 
 *   This card can only respond to a Normal / Flip / Special Summon of a monster with 1500(+) ATK.
     *   Only monsters whose current ATK (including ATK changes) is 1500(+) are destroyed.
@@ -13,7 +21,7 @@
 *   You cannot activate this card after "Jinzo" is Summoned.
 *   You cannot activate this card if a monster(s) is Normal / Special Summoned as Chain Link 2+.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Bottomless%20Trap%20Hole
 

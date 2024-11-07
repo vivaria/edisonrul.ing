@@ -1,8 +1,18 @@
 # Truckroid
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If your opponent controls one of your monsters and you destroy that monster in battle with “Truckroid”, the destroyed monster will still be equipped to “Truckroid”.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Truckroid
 

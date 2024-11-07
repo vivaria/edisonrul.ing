@@ -1,5 +1,7 @@
 # Chain Material
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 \[EFFECT\] _Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters._ \[CONDITION\] _You cannot attack during the turn this card is activated._ \[CONDITION\] _If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase._
   
 
@@ -10,7 +12,7 @@
 *   You cannot choose to remove 1 Fusion Material Monster from play while sending the other Fusion Material Monsters to the Graveyard.
 *   Both \[CONDITION\] apply if this card's effect is negated (by "Trap Stun"), but not if this card's activation is negated (by "Dark Bribe").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Chain%20Material
 

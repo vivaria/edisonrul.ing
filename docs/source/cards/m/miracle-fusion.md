@@ -1,5 +1,7 @@
 # Miracle Fusion
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 ① Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on an "Elemental Hero" Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.)
 
 *   This performs a Fusion Summon, like "Polymerization". Face-down monsters you control can be used.
@@ -9,7 +11,7 @@
 *   Fusion Substitute Monsters like "King of the Swamp" can be used to replace monsters whose name are specifically listed on an "Elemental Hero" Fusion Monster.
 *   VS. "Kycoo the Ghost Destroyer": You can only remove monsters on your field from play for this effect while your opponent controls a face-up Kycoo.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Miracle%20Fusion
 

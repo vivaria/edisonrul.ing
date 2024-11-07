@@ -1,5 +1,15 @@
 # Magical Scientist
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can use "Magical Scientist"'s effect multiple times in the same turn.
 *   "Magical Scientist"'s effect does not target.
 *   If the Fusion Monster is flipped face-down with "Book of Moon", or removed from play with "Dimensionhole" or "Interdimensional Matter Transporter" or "Different Dimension Gate", the effect is reset and the Fusion Monster does not go back to the Extra Deck, and is not prohibited from attacking your opponent's Life Points directly.

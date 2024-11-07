@@ -1,6 +1,14 @@
 # Chain Disappearance
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > You can only activate this card when a monster(s) with an ATK of 1000 or less is Normal Summoned, Flip Summoned or Special Summoned. Remove from play those Summoned monster(s), and your opponent removes from play all cards of the same name in their hand and Deck. Their Deck is then shuffled.
+
+### Card Rulings
 
 *   This card activates in the Summon response timing (like "Trap Hole").
     *   This card cannot be activated if a monster was Normal / Special Summoned as Chain Link 2+.
@@ -13,7 +21,7 @@
 *   If this card destroys a Monster, your must briefly reveal their Deck to verify that all copies of the Monster Card within the Deck have been removed from play \[[REF1](https://www.pojo.biz/board/showthread.php?t=822229), [REF2](https://www.pojo.biz/board/showthread.php?t=960621)\].
     *   This cannot take place when using online duel simulators, as viewing your opponent's would allow an opportunity for foul play (via screen captures).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Chain%20Disappearance
 

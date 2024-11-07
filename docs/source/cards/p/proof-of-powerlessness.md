@@ -1,5 +1,11 @@
 # Proof Of Powerlessness
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Activate only while you control a face-up Level 7 or higher monster. Destroy all face-up Level 5 or lower monsters your opponent controls. Monsters you control cannot attack this turn.
   
 
@@ -7,7 +13,7 @@
 *   You can activate this card on your opponent's turn, since you will not be declaring attacks that turn.
 *   Monsters like "Elemental Hero Wildheart" can still attack the turn you activate “Proof of Powerlessness.”
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Proof%20of%20Powerlessness
 

@@ -1,6 +1,14 @@
 # Card Trooper
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can send up to 3 cards from the top of your Deck to the Graveyard. This card gains 500 ATK for each card sent to the Graveyard until the End Phase. ② When this card you control is destroyed and sent to the Graveyard, draw 1 card.The ② mandatory Trigger Effect only activates if "Card Trooper" is destroyed while on your side of the field.
+
+### Card Rulings
 
 *   The ① Ignition Effect sends up to 3 cards from the top of your Deck to the Graveyard AS COST.
     *   This effect CANNOT be activated if "Dimension Fortress Weapon" is face-up on the field.
@@ -14,7 +22,7 @@
     *   This effect activates in the Graveyard and will be negated by "The End of Anubis".
     *   This effect DOES NOT activate if "Card Trooper" is destroyed while under your opponent's control.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Card%20Trooper
 

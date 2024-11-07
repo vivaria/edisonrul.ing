@@ -1,6 +1,14 @@
 # Cross Porter
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can send 1 monster you control to the Graveyard and Special Summon 1 “Neo-Spacian” monster from your hand. ② When this card is sent to the Graveyard, you can add 1 “Neo-Spacian” monster from your Deck to your hand.
+
+### Card Rulings
 
 *   The ① Ignition Effect targets 1 monster you control.
     *   The target is sent to the Graveyard when the effect resolves.
@@ -9,7 +17,7 @@
 *   The ② optional Trigger Effect follows a "When... you can" structure and can miss the timing
     *   If "Cross Porter" targets itself with its first effect, its second effect CANNOT be activated.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Cross%20Porter
 

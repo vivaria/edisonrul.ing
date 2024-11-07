@@ -1,6 +1,14 @@
 # Quickdraw Synchron
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can send 1 monster from your hand to the Graveyard and Special Summon this card from your hand. Ⓒ You can substitute this card for any 1 “Synchron” Tuner monster for a Synchro Summon. Ⓒ This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a monster that lists a “Synchron” monster as a Tuner monster.
+
+### Card Rulings
 
 *   The ① Special Summon starts a chain (treat it as an Ignition Effect) \[[REF](http://duelistgroundz.com/index.php?/topic/119293-hardened-armed-dragon/)\].
     *   Sending (not discarding) 1 monster from your hand to the Graveyard is not a cost.
@@ -12,7 +20,7 @@
         *   See "[Acorno](https://yugipedia.com/wiki/Acorno)" for a comparable effect written with P.S.C.T.
 *   This card's Ⓒ Conditions are not Effects. They cannot be negated.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Quickdraw%20Synchron
 

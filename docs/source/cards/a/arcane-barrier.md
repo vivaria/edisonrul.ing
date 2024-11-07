@@ -1,6 +1,14 @@
 # Arcane Barrier
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Each time a Spellcaster-Type monster(s) on the field is destroyed, place 1 Spell Counter on this card (max. 4). ② You can send this card and 1 face-up Spellcaster-Type monster you control to the Graveyard to draw 1 card for each Spell Counter on this card.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies while this card is face-up on the field.
     *   Placing Spell Counters on “Arcane Barrier” does not start a chain.
@@ -10,7 +18,7 @@
 *   The ② Ignition-like Effect activates & resolves on the field.
     *   Sending “Arcane Barrier” and a Spellcaster to the Graveyard is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Arcane%20Barrier
 

@@ -1,6 +1,14 @@
 # Karma Cut
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Discard 1 card. Remove from play 1 face-up monster your opponent controls. Then, remove from play any cards in your opponent's Graveyard with the same name as that monster.
+
+### Card Rulings
 
 *   Discarding a card from your hand is a cost.
 *   This card can be activated while your opponent controls "Kycoo the Ghost Destroyer".
@@ -10,7 +18,7 @@
     *   If “Proto-Cyber Dragon” is removed from play, copies of “Cyber Dragon” are not affected.
     *   “Harpie Lady”, “Harpie Lady 1”, “Harpie Lady 2”, “Harpie Lady 3”, or “Cyber Harpie Lady” have the same name in the Graveyard. If one is removed from play, others in the Graveyard are affected.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Karma%20Cut
 

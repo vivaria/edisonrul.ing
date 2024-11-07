@@ -1,5 +1,11 @@
 # Chimeratech Fortress Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > “Cyber Dragon” + 1 or more Machine-Type monsters_
 _Ⓒ This monster cannot be used as a Fusion Material monster. Ⓢ You can only Special Summon this card from your Extra Deck by sending the above cards from either side of the field to the Graveyard. (You do not use “Polymerization”.) ① The original ATK of this card is equal to 1000 x the number of Fusion Material Monsters used to Special Summon it.
 
@@ -15,7 +21,7 @@ _Ⓒ This monster cannot be used as a Fusion Material monster. Ⓢ You can only 
     *   If "Skill Drain" is active, this card's ATK becomes "0" (even if "Skill Drain" is negated / destroyed).
     *   If this card is flipped face-down / leaves the field, its ATK becomes 0 when it is face-up again.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Chimeratech%20Fortress%20Dragon
 

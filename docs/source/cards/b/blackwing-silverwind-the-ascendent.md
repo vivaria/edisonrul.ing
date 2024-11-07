@@ -1,6 +1,14 @@
 # Blackwing - Silverwind The Ascendent
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Synchro Summoned, you can select and destroy up to 2 face-up monsters on the field with DEF lower than this card's ATK. Ⓒ You cannot conduct your Battle Phase the turn you activate this effect. ② The next time a "Blackwing" monster you control would be destroyed by battle during your opponent's turn, it is not destroyed, this effect only happens once.
+
+### Card Rulings
 
 *   You can Special Summon this monster with the effect of “Blackwing – Vayu the Emblem of Honor." You must remove from play a Level 7 “Blackwing” monster alongside Vayu to do so.
 *   The ① optional Trigger Effect can only be activated when this monster is Synchro Summoned.

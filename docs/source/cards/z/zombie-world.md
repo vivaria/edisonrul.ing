@@ -1,6 +1,14 @@
 # Zombie World
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① All monsters on the field and in any Graveyard become Zombie-Type monsters. ② Neither player can Tribute Summon monsters, except Zombie-Type monsters.
+
+### Card Rulings
 
 *   The ① Continous-like Effect does not activate.
     *   This effect does not target.
@@ -13,7 +21,7 @@
 *   VS. "[DNA Surgery](https://yugioh.fandom.com/wiki/DNA_Surgery)": Whichever card resolved most recently applies its effect.
 *   VS. "[Solidarity](https://yugipedia.com/wiki/Solidarity)": The ATK gain applies if the original (printed) Type of monsters in your Graveyard match.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Zombie%20World
 

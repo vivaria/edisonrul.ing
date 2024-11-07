@@ -1,6 +1,14 @@
 # Deck Devastation Virus
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Tribute 1 DARK monster with an ATK of 2000 points or more on your side of the field. ① Check all monsters on your opponent's side of the field, your opponent's hand, and all cards he/she draws (until the end of your opponent's 3rd turn after this card's activation), and destroy all monsters with an ATK of 1500 or less.
+
+### Card Rulings
 
 *   This card's cost requires that the monster have 2000 or more ATK while on the field.
     *   You can Tribute a face-down DARK monster with 2000 ATK (ex: "[Fusilier Dragon, the Dual-Mode Beast](https://yugioh.fandom.com/wiki/Fusilier_Dragon,_the_Dual-Mode_Beast)" is Set without Tribute).
@@ -26,7 +34,7 @@
     *   You CAN activate this card if at least one face-up monster you control would be destroyed.
     *   You CANNOT activate this card if your monster(s) that would be destroyed is face-down.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Deck%20Devastation%20Virus
 

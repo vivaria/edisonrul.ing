@@ -1,5 +1,15 @@
 # Swift Samurai Storm!
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate this card during the Damage Step.
 *   This card’s ATK increasing effect does not start a Chain.
 *   The ATK increase happens at the end of the Damage Step the first time a “Six Samurai” monster you control battles that turn.
@@ -7,7 +17,7 @@
 *   If “The Six Samurai – Irou” attacks a face-down monster and destroys it with his effect, it is not considered to have been destroyed by battle. The effect of “Swift Samurai Storm!” will not be applied.
 *   The ATK increase only affects “Six Samurai” monsters that were face-up when it was applied.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Swift%20Samurai%20Storm
 

@@ -1,6 +1,14 @@
 # Brain Golem
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Effects of face-up LIGHT monsters are negated. ② If this card destroys a LIGHT monster by battle, it can attack once again in a row.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies so long as "Brain Golem" is face-up on the field.
     *   This effect only affects LIGHT monsters while they are face-up.
@@ -10,7 +18,7 @@
 *   The ② Trigger Effect activates in Substep 7 of the [Damage Step](https://www.edisonformat.com/battle-phase.html) (End of the Damage Step) when monsters marked for destruction by battle are sent to the Graveyard.
     *   If “Brain Golem” destroys a monster that was LIGHT on the field but is no longer LIGHT in the Graveyard (because of “Scroll of Bewitchment” or “DNA Transplant”) it can still attack once again.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Brain%20Golem
 

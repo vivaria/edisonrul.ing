@@ -1,5 +1,15 @@
 # Neo-Spacian Dark Panther
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   “Neo-Spacian Dark Panther’s” effect is only applied while it is face-up on the field. So if you target “Sangan” and then this card is sent to the Graveyard nothing will happen, because in the Graveyard it no longer copies “Sangan’s” effect.
 *   If “Neo-Spacian Dark Panther” is flipped face-down after using its effect, the effect is no longer applied. You could flip it face-up and activate its effect again in the same turn.
 *   When you use this card’s effect to copy another monster’s name, its name is not considered to be “Neo-Spacian Dark Panther” for the duration of the effect. If you targeted “Cyber Dragon” then activate “Next to be Lost” you would send a “Cyber Dragon” from your Deck to the Graveyard and not “Neo-Spacian Dark Panther”.
@@ -19,7 +29,7 @@
 *   If you copy an Ignition or Trigger Effect, those effects can be chained to when they are activated, as normal.
 *   When “Neo-Spacian Dark Panther” is destroyed after copying the effects of a "Crystal Beast" monster, it cannot be placed into the Spell and Trap Card Zone.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Neo-Spacian%20Dark%20Panther
 

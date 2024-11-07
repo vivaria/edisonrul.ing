@@ -1,6 +1,14 @@
 # Red-Eyes Wyvern
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① During your End Phase, if you did not Normal Summon or Set a monster that turn, you can remove from play this card from your Graveyard to Special Summon 1 "Red-Eyes" monster from your Graveyard, except "Red-Eyes B. Chick".
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates in the Graveyard
     *   Removing this card from play is a cost.
@@ -11,7 +19,7 @@
     *   "[Red-Eyes Wyvern](https://yugipedia.com/wiki/Red-Eyes_Wyvern)" was only discarded to the Graveyard during the End-of-Turn Discard because you had more cards than your hand size limit (see Edison Format Rule #10 [HERE](https://www.edisonformat.com/format-rules.html)).
     *   You Set / Normal Summoned (even if it was negated by "[Solemn Judgment](https://yugipedia.com/wiki/Solemn_Judgment)") a monster this turn.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Red-Eyes%20Wyvern
 

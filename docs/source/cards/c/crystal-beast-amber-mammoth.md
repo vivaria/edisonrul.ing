@@ -1,5 +1,15 @@
 # Crystal Beast Amber Mammoth
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate this effect when “Crystal Beast Amber Mammoth” itself is selected as the attack target.
 *   You can activate this effect when a replay is triggered and a “Crystal Beast” monster you control is selected as an attack target.
 *   If you control multiple copies of “Crystal Beast Amber Mammoth,” you can activate each of their effects, using the Chain. The “Crystal Beast Amber Mammoth” whose effect resolves last (Chain Link 1) will become the new attack target.
@@ -17,7 +27,7 @@
 *   If "Dimensional Fissure" is active on the field when a "Crystal Beast" that was being treated as a Continuous Spell Card card is sent to the Graveyard, it will not be removed from play, because it was treated as a Spell and not a monster.
 *   You can use a "Crystal Beast" that is being treated as a Continuous Spell Card for the cost to Special Summon "Hamon, Lord of Striking Thunder" or "Anteatereatingant".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Crystal%20Beast%20Amber%20Mammoth
 

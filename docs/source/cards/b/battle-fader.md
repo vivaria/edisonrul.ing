@@ -1,6 +1,14 @@
 # Battle Fader
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When your opponent’s monster declares a direct attack, you can Special Summon this card from your hand and end the Battle Phase. Ⓒ If this card is Special Summoned with this effect, remove it from play when it is removed from the field.
+
+### Card Rulings
 
 *   The ① Trigger Effect activates during the first substep of the Battle Step - Attack Declaration.
     *   This effect to Special Summon can be negated by "Royal Oppression".
@@ -14,7 +22,7 @@
     *   If a card effect would remove this card from the field, it is banished by this Condition instead.
     *   If this card is targeted by "Caius the Shadow Monarch"'s effect, no Effect Damage is inflicted \[[REF](https://www.pojo.biz/board/showthread.php?t=854459)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Battle%20Fader
 

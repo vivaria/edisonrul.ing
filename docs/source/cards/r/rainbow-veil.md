@@ -1,5 +1,15 @@
 # Rainbow Veil
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Rainbow Veil"'s effect starts being applied when the attack is declared. It does not start a Chain. It does not target the opponent's monster.
 *   Effects that activate in the Graveyard or removed zone will not be negated by "Rainbow Veil".
 *   If a monster affected by "Rainbow Veil" is not destroyed by the battle, its effects remain negated for the remainder of the Battle Phase.
@@ -8,7 +18,7 @@
 *   If a monster affected by "Rainbow Veil" is flipped face-down after the battle, its effects are no longer negated.
 *   While "Rainbow Veil" is equipped to a monster that is unaffected by the effects of Spell Cards, "Rainbow Veil"'s effect is still applied.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Rainbow%20Veil
 

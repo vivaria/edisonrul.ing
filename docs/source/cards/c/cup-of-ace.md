@@ -1,9 +1,19 @@
 # Cup Of Ace
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate "Cup of Ace" if you or your opponent has 1 or fewer cards remaining in the Deck.
 *   Tossing a coin is not a cost. The coin is tossed when "Cup of Ace" resolves.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Cup%20of%20Ace
 

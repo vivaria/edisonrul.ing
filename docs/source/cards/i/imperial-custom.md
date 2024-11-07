@@ -1,6 +1,14 @@
 # Imperial Custom
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Face-up Continuous Trap Cards cannot be destroyed, except "Imperial Custom". You can only control 1 "Imperial Custom".
+
+### Card Rulings
 
 *   The ① Continuous-like Effect does not activate.
 *   This effect only protects Continuous Traps from destruction.
@@ -16,7 +24,7 @@
     *   have their effects negated (by "Jinzo").
     *   have their activation (playing face-up) negated (by "Dark Bribe"). If the activation of a Continuous Trap Card is negated, it is sent to the Graveyard. It was never face-up on the field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Imperial%20Custom
 

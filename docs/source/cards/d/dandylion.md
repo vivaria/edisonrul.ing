@@ -1,6 +1,14 @@
 # Dandylion
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is sent to the Graveyard, Special Summon 2 "Fluff Tokens" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. Ⓒ These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.
+
+### Card Rulings
 
 *   The ① mandatory Trigger Effect always activates, even if you cannot Special Summon monsters.
     *   This effect MUST Special Summon 2 "Fluff Tokens" simultaneously.
@@ -13,7 +21,7 @@
 *   The Ⓒ Condition only applies the turn the "Fluff Tokens" were Special Summoned.
     *   You cannot Tribute Set a monster the turn these Tokens were Special Summoned.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dandylion
 

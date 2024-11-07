@@ -1,6 +1,14 @@
 # Zombie Master
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can send 1 Monster Card from your hand to the Graveyard to Special Summon 1 Level 4 or lower Zombie-Type Monster from either player's Graveyard.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   Sending 1 Monster Card from your hand to the Graveyard is a cost.
@@ -11,7 +19,7 @@
     *   If "Zombie Master" if flipped face-down / leaves the field, the target is not Special Summoned.
 *   This effect cannot activate without a legal target in any Graveyard, even if you would discard a Level 4 or lower Zombie-Type monster.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Zombie%20Master
 

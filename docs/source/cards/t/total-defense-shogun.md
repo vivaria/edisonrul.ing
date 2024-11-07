@@ -1,5 +1,15 @@
 # Total Defense Shogun
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Total Defense Shogun" does not permanently remain in Defense Position. After the turn that "Total Defense Shogun" is Summoned, you can change his battle position as normal. He can also have his battle position changed with card effects like "Stop Defense".
 *   You don’t Normal Summon or Flip Summon "Total Defense Shogun" in Defense Position; you Normal Summon or Flip Summon him in face-up Attack Position and he changes to Defense Position. (Or you can Tribute Set him in face-down Defense Position.)
 *   You cannot chain to "Total Defense Shogun"’s effect that changes him to Defense Position when Normal Summoned or Flip Summoned. So you cannot chain "Spellbinding Circle", etc.
@@ -11,7 +21,7 @@
 *   If "Total Defense Shogun" is a Dragon-Type because of "D. Tribe" or "DNA Surgery", and "Dragon Capture Jar" is in play, "Total Defense Shogun" can still attack.
 *   If you select "Total Defense Shogun" with "Dark Spirit of the Silent", "Total Defense Shogun" changes to Attack Position even though he could attack while in Defense Position.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Total%20Defense%20Shogun
 

@@ -1,6 +1,14 @@
 # At One With The Sword
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Activate while the only monster you control is 1 face-up "X-Saber" monster. Equip this card to that monster. ① It gains 800 ATK. ② If it destroys your opponent's monster by battle, draw 1 card.
+
+### Card Rulings
 
 *   This effect targets the 1 face-up “X-Saber” monster when activated.
     *   You can use “Tailor of the Fickle” to equip “At One With the Sword” to a different face-up monster.
@@ -11,7 +19,7 @@
     *   This effect activates in Substep 7 - End of the Damage Step.
     *   This card must be face-up on the field to activate & resolve this effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=At%20One%20With%20the%20Sword
 

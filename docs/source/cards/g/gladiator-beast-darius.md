@@ -1,6 +1,14 @@
 # Gladiator Beast Darius
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster, you can select 1 "Gladiator Beast" monster from your Graveyard and Special Summon it. Ⓛ That monster's effect(s) is negated, and it is returned to your Deck when this card is removed from the field. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Darius"._
+
+### Card Rulings
 
 *   The ① optional "_When... you can..." Trigger Effect can miss the timing.
     *   This effect targets 1 "Gladiator Beast" monster in the Graveyard. It is negated by "Necrovalley".
@@ -26,7 +34,7 @@
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Darius
 

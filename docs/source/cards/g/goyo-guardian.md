@@ -1,5 +1,11 @@
 # Goyo Guardian
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > 1 Tuner + 1 or more non-Tuner monsters._
 _① When this card destroys an opponent’s monster by battle and sends it to the Graveyard, you can Special Summon that monster to your side of the field in face-up Defense Position.
 
@@ -13,7 +19,7 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
     *   Goyo is removed from the field by the effect of "D.D. Warrior Lady".
     *   Goyo is removed from the field by a Flip Effect (ex: "Ryko, Lightsworn Hunter" or "Penguin Soldier").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Goyo%20Guardian
 

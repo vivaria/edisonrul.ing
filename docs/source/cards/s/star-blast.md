@@ -1,5 +1,15 @@
 # Star Blast
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   “Star Blast” does not target.
 *   When its effect resolves, choose a monster on the field or in your hand.
 *   Paying Life Points is a cost. “Star Blast” cannot be activated while “Spell Economics” is on the field, since you cannot pay costs.
@@ -13,7 +23,7 @@
 *   The maximum Life Points you can pay for “Star Blast” is based on the maximum Level of legal choices you have available at the time. You cannot over-pay.
 *   If “Majestic Mech – Ohka” has its Level reduced to 4 or lower with “Star Blast”, and it is Summoned without Tribute because it is now a Level 4 or lower monster, its effect to send itself to the Graveyard does not activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Star%20Blast
 

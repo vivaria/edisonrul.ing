@@ -1,5 +1,15 @@
 # Exodia Necross
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Exodia Necross" cannot be Normal Summoned or Set, and cannot be Special Summoned EXCEPT by the effect of "Contract with Exodia". So "Exodia Necross" cannot be Special Summoned with "Monster Reborn", etc., even if Special Summoned properly first.
 *   Players can activate Spell & Trap Card effects that destroy monsters, but "Exodia Necross" will not be destroyed by them.
 *   If a piece of Exodia is removed from the Graveyard while "Exodia Necross" is removed from play due to "Dimensionhole", "Exodia Necross" is destroyed when it returns to the field.
@@ -7,7 +17,7 @@
 *   While "Skill Drain" is active, "Exodia Necross"' ATK is returned to its original 1800 points. Even if "Skill Drain" then leaves play, "Exodia Necross" does no regain any ATK increases it had because of its effect, but it will begin to accumulate ATK points again.
 *   While "Skill Drain" is active, "Exodia Necross" is not destroyed if Exodia pieces are removed from the Graveyard, but it will be destroyed if the effect of "Skill Drain" disappears.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Exodia%20Necross
 

@@ -1,6 +1,14 @@
 # Dark Ruler Ha Des
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Special Summoned from the Graveyard. ① Negate the effects of Effect Monsters destroyed by battle with Fiend-Type monsters you control.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
     *   "Dark Ruler Ha Des" cannot be Special Summoned face-down by "The Shallow Grave".
@@ -16,7 +24,7 @@
     *   This effect does not affect monsters destroyed as substitutes such as "Six Samurai" monsters, or if "Relinquished" would be destroyed by battle while equipped with "Sangan".
 *   If your "Dark Ruler Ha Des" or other Fiend-Type monster destroys "Tyrant Dragon" as a result of battle, a Dragon-Type monster must still be Tributed when "Tyrant Dragon" is Special Summoned from the Graveyard. This is because Tributing a Dragon-Type monster is a condition on the Summoning of the card; it is not part of the effect. For the same reason, if a Spirit Monster is destroyed by a Fiend-Type monster when "Dark Ruler Ha Des" is on the field, it still cannot be Special Summoned from the Graveyard. Also if two "Dark Ruler Ha Des" destroy each other in battle, neither can be Special Summoned from the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dark%20Ruler%20Ha%20Des
 

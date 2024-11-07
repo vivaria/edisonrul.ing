@@ -1,9 +1,19 @@
 # The Shallow Grave
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If "The Shallow Grave" is activated while "Light of Intervention" is active, the monsters are Special Summoned in face-up Defense Position.
 *   "The Shallow Grave" cannot be activated if either play has no open Monster Card Zones or if either player does not have a monster in their Graveyard that they can Special Summon.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=The%20Shallow%20Grave
 

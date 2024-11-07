@@ -1,8 +1,18 @@
 # Blackwing - Blizzard The Far North
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The restriction against Special Summoning “Blackwing – Blizzard the Far North” is not an ‘effect’. The effect of “Blackwing – Blizzard the Far North” targets 1 “Blackwing” monster in your Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Blackwing%20-%20Blizzard%20the%20Far%20North
 

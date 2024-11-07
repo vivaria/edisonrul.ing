@@ -1,5 +1,15 @@
 # Chaos Command Magician
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Chaos Command Magician" must be face-up to negate a monster effect; if face-down then "Chaos Command Magician" will not negate any effects.
 *   When "Chaos Command Magician" is targeted by a card that doesn't select only 1 target, the effect of "Chaos Command Magician" is NOT applied and the effect resolves as normal.
 *   When "Penguin Soldier" targets 2 monsters, including "Chaos Command Magician", this is an effect targets, but not one that select "1 target". So "Chaos Command Magician" will not negate the effect of "Penguin Soldier". However, if "Penguin Soldier" only targets "Chaos Command Magician", then it is an effect that selects "1 target" so "Chaos Command Magician" WILL negate the effect of "Penguin Soldier".
@@ -8,7 +18,7 @@
 *   When "Chaos Command Magician" battles "D. D. Warrior Lady", her effect is NOT negated because it does not target.
 *   You can activate the effect of "Metallizing Parasite - Lunatite" and target "Chaos Command Magician", but "Chaos Command Magician" will negate the effect and "Metallizing Parasite - Lunatite" will remain on the field as a monster.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Chaos%20Command%20Magician
 

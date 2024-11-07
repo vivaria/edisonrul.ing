@@ -1,6 +1,14 @@
 # Bountiful Artemis
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Draw 1 card from your Deck each time a Counter Trap Card is activated.
+
+### Card Rulings
 
 *   The ① Continuous Effect does not start a chain.
 *   "Bountiful Artemis" must be face-up on the field in order to apply this effect.
@@ -9,7 +17,7 @@
 *   This effect will activate even if your opponent is the one who resolved the effect of a Counter Trap.
 *   If “Seven Tools of the Bandit” negates the activation of another Counter Trap Card (ex: “Magic Jammer”), you do not draw a card for “Magic Jammer” since its activation was negated.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Bountiful%20Artemis
 

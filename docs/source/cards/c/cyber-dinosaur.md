@@ -1,6 +1,14 @@
 # Cyber Dinosaur
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When your opponent Special Summons a monster from their hand, you can Special Summon this card from your hand.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect can miss its activation timing.
     *   You can activate this effect if the last thing to happen was your opponent Special Summoning of a monster from their hand.

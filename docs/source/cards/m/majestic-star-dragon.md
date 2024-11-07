@@ -1,5 +1,15 @@
 # Majestic Star Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If you negate the effects of a monster with “Majestic Star Dragon” you can only activate 1 of the monster’s effects 1 time.
 *   The effect to return “Majestic Star Dragon” to the Extra Deck is mandatory. It activates even if an effect that prohibits Special Summons is applied. In that case, you return “Majestic Star Dragon” to the Extra Deck but will not Special Summon “Stardust Dragon.”
 *   If “G.B. Hunter” is on the field, the effect to return “Majestic Star Dragon” to the Extra Deck will activate and resolve without effect.
@@ -23,7 +33,7 @@
 *   You can use “Stardust Dragon” as a Synchro Material Monster for “Majestic Star Dragon” even if it’s being treated as a Tuner.
 *   You can Summon “Majestic Star Dragon” if “Majestic Dragon” is being treated as a non-Tuner and “Stardust Dragon” is being treated as a Tuner.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Majestic%20Star%20Dragon
 

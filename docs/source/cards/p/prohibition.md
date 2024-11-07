@@ -1,6 +1,14 @@
 # Prohibition
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > When you activate this card, declare 1 card name. Cards with that name and their effects cannot be used. Cards on the field before this card was activated are not affected (including face-down cards).
+
+### Card Rulings
 
 *   The effect declares a Card Name at activation. The declared card name cannot be changed.
     *   Cards (face-up / face-down) already on the field are unaffected.
@@ -33,7 +41,7 @@
 *   VS. "Exodia the Forbidden One": when a player has all five pieces of Exodia in their hand, they win the Duel. This is a win condition and cannot be prevented with "Prohibition" \[[REF](https://www.pojo.biz/board/showthread.php?t=612954&highlight=prohibition)\].
 *   VS: "Parasite Paracide": After being shuffled into your opponent's Deck, if "Prohibition" is activated and declares "Parasite Paracide", when your opponent draws "Parasite Paracide" its effect is applied because its Flip Effect had already resolved \[[REF](https://www.pojo.biz/board/showthread.php?t=612954&highlight=prohibition)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Prohibition
 

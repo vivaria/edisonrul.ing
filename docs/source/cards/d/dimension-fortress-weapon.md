@@ -1,5 +1,15 @@
 # Dimension Fortress Weapon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Costs cannot be paid while “Dimension Fortress Weapon” is on the field, if the cost is to send cards from the Deck to the Graveyard. So “Card Trooper” and “Celestia, Lightsworn Angel” cannot activate their effects.
     *   In general, Lightsworn monsters can activate their effects while “Dimension Fortress Weapon” is on the field, but cards are not sent from the Deck to the Graveyard afterwards.
     *   If “Ryko, Lightsworn Hunter” is flipped face-up while “Dimension Fortress Weapon” is on the field, you can destroy 1 card with its effect, but no cards are sent from the Deck to the Graveyard after that. “Solar Recharge” cannot be activated while “Dimension Fortress Weapon” is on the field.
@@ -15,7 +25,7 @@
 *   If “Chain Destruction” is activated while “Dimension Fortress Weapon” is on the field, copies of the monster in the player’s hand are destroyed, but not copies in their Deck.
 *   If “Spell Vanishing” is activated while “Dimension Fortress Weapon” is on the field, check the opponent’s hand and Deck, and send copies of the Spell Card in their hand to the Graveyard, but not the copies from their Deck.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dimension%20Fortress%20Weapon
 

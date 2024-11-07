@@ -1,6 +1,14 @@
 # Dimensional Fissure
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Any monster sent to the Graveyard is removed from play instead.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect only affects Monster Cards that would be sent to the Graveyard.
     *   Face-down monsters that would be sent to the Graveyard are also removed from play.
@@ -12,7 +20,7 @@
         *   Examples: "Foolish Burial", "Blaze Accelerator", and "Needlebug Nest".
 *   VS. "Archlord Kristya": If a face-up Kristya would be sent from the field to the Graveyard (and removed from play), its effect will still trigger and places it back on top of the Deck.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dimensional%20Fissure
 

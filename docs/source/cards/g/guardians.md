@@ -1,5 +1,7 @@
 # Guardians
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 "Guardian Baou", "Guardian Ceal", "Guardian Elma", "Guardian Grarl", "Guardian Kay'est", and "Guardian Tryce" all share some basic rules. These rules apply to all six of these monsters. Using "Guardian Elma" as an example:
 
 *   You can Set "Guardian Elma" face-down without "Butterfly Dagger - Elma", but you cannot Special Summon her face-down with "The Shallow Grave", etc., unless you have "Butterfly Dagger - Elma" on your side of the field.

@@ -1,6 +1,14 @@
 # Book Of Life
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Special Summon 1 Zombie-Type monster from your Graveyard and remove from play 1 monster from your opponent's Graveyard.
+
+### Card Rulings
 
 *   This targets 1 Zombie-Type monster in your Graveyard and 1 monster in your opponent's Graveyard.
     *   This effect resolves both parts simultaneously.
@@ -10,7 +18,7 @@
 *   You cannot activate this card unless both Graveyards have 1+ legal targets.
 *   You cannot activate this card if your opponent controls "Kycoo the Ghost Destroyer" / "Imperial Iron Wall".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Book%20of%20Life
 

@@ -1,6 +1,14 @@
 # Brain Research Lab
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can Normal Summon 1 Psychic-Type monster in addition to your Normal Summon or Set. ② If successful, place 1 Psychic Counter on this card. ③ You can also place 1 Psychic Counter on this card instead of paying Life Points to activate any Psychic-Type monster's effect that you control. ④ When this card is removed from the field, the controller of this card takes 1000 damage for each Psychic Counter on it.
+
+### Card Rulings
 
 *   None of the effects of “Brain Research Lab” start a Chain.
     *   The ①, ②, ③, and ④ effects are all Continuous-like.
@@ -21,7 +29,7 @@
     *   You take damage for each Psychic Counter even if this card was returned to your hand / Deck, .
     *   If “Brain Research Lab's” effects are negated by "Spell Canceller", remove all Psychic Counters.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Brain%20Research%20Lab
 

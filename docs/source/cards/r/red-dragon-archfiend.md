@@ -1,6 +1,14 @@
 # Red Dragon Archfiend
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card attacks a Defense Position monster your opponent controls, destroy all Defense Position monsters your opponent controls after damage calculation. ② During your End Phase, destroy all other monsters you control that did not declare an attack this turn.
+
+### Card Rulings
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect in Substep 5 - After Damage Calculation (before Flip Effects activate).
@@ -10,7 +18,7 @@
     *   This effect activates even if all monsters you control declared attacks this turn.
     *   A monster whose attack was negated (by "Magic Cylinder") is destroyed by this effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Red%20Dragon%20Archfiend
 

@@ -1,9 +1,19 @@
 # Magical Merchant
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You need to show the cards to your opponent, including the one you keep.
 *   If you pick up your entire Deck and there were no Spell or Trap Cards, then "Magical Merchant"'s effect disappears.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Magical%20Merchant
 

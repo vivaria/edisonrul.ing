@@ -1,6 +1,14 @@
 # Soul Of Purity And Light
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by removing from play 2 LIGHT monsters from your Graveyard. ① During your opponent's Battle Phase, monsters they control lose 300 ATK.
+
+### Card Rulings
 
 *   The Ⓒ Summon Condition cannot be negated.
 *   The Ⓢ Summon Condition does not start a Chain.
@@ -12,7 +20,7 @@
     *   This effect only applies during your opponent's Battle Phase.
     *   This effect does not apply in the Main Phase (for "King Tiger Wanghu" or "Trap Hole")_._
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Soul%20of%20Purity%20and%20Light
 

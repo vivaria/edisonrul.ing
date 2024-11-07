@@ -1,6 +1,14 @@
 # Aurkus, Lightsworn Druid
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① "Lightsworn" monsters cannot be targeted by effects. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies so long as this card is face-up on the field.
     *   Card Effects can't target "Lightsworn" monsters on either field / Graveyard / banished.
@@ -20,7 +28,7 @@
     *   VS. "Enemy Controller":
         *   On Player A's turn, Player B takes control of Player A's "Lightsworn" monster. During the End Phase, "Enemy Controller"'s effect wears off and control of the "Lightsworn" monster returns to Player A, then that Lightsworns's mandatory Trigger Effect activates \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Aurkus,%20Lightsworn%20Druid
 

@@ -1,5 +1,15 @@
 # Majestic Red Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The effect that negates a monster’s effect and increases “Majestic Red Dragon’s” ATK targets that monster.
 *   The effect that activates after damage calculation activates even if “Majestic Red Dragon” would be destroyed during damage calculation.
 *   The effect that activates during the End Phase targets 1 “Red Dragon Archfiend” in your Graveyard.
@@ -7,7 +17,7 @@
 *   If you target “Great Maju Garzett” with “Majestic Red Dragon’s” effect, “Great Maju Garzett’s” ATK becomes 0 and “Majestic Red Dragon” will not gain ATK.
 *   You cannot target a non-Effect monster with “Majestic Red Dragon’s” effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Majestic%20Red%20Dragon
 

@@ -1,6 +1,14 @@
 # Swap Frog
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓢ You can discard 1 WATER monster to Special Summon this card from your hand. ① When this card is Summoned, you can select and sent 1 Level 2 or lower Aqua-Type WATER monster from your Deck or your side of the field to the Graveyard. ② Once per turn, you can return 1 monster you control to the hand to Normal Summon 1 “Frog” monster, except “Swap Frog” or “Frog the Jam”, in addition to your Normal Summon or Set this turn.
+
+### Card Rulings
 
 *   TheⓈ Summon Effect does not start a chain.
     *   Discarding 1 WATER monster is a cost.
@@ -17,7 +25,7 @@
     *   You can activate this effect again this turn, even if you have already performed the additional Normal Summon (ex: you Special Summoned "Swap Frog" later that turn) \[[REF](https://www.pojo.biz/board/showthread.php?t=1044244)\].
     *   VS. "Doomcaliber Knight": If "Swap Frog" uses this effect and returns itself to the hand as cost, "Doomcaliber Knight" will tribute itself to negate the effect, but it will not destroy "Swap Frog" since it is considered a different card in the hand (not the same card that activated the effect on the field).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Swap%20Frog
 

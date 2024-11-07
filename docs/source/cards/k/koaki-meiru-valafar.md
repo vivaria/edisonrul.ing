@@ -1,8 +1,18 @@
 # Koa’Ki Meiru Valafar
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The first sentence of this card is a maintenance cost, not an effect. It does not start a Chain. You can use a face-down “Koa’ki Meiru” monster to Tribute Summon “Koa’ki Meiru Valafar” with just 1 Tribute.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Koa'ki%20Meiru%20Valafar
 

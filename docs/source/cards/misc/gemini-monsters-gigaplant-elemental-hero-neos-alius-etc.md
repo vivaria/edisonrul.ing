@@ -1,6 +1,14 @@
 # Gemini Monsters ("Gigaplant", "Elemental Hero Neos Alius", Etc.)
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: \[...\].
+
+### Card Rulings
 
 *   Gemini Monsters are treated as Effect Monsters in the Deck, hand, when removed from play, and while their effects on the field are being negated.
 *   Gemini Monsters are treated as Normal Monsters on the field and in the Graveyard.

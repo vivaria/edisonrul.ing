@@ -1,5 +1,15 @@
 # Destiny Board
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The "proper order" in the text of "Destiny Board" means the order the Spirit Messages are placed on the field, not the order that they occupy your Spell and Trap Card Zones. So if you read your Zones from left to right as N-F-A-I-L, it is okay as long as they came on the field in the order of F-I-N-A-L.
 *   If you have two copies of "Destiny Board" on the field you may place two Spirit Messages from your hand or Deck onto the field but you cannot place the fifth one until one of your two "Destiny Boards" is removed from the field.
 *   If all of your Spell and Trap Card Zones are occupied during your opponent’s End Phase, you cannot use the effect of "Destiny Board" that turn.
@@ -10,7 +20,7 @@
 *   The placing of a Spirit Message on the field by the effect of "Destiny Board" cannot be negated with "Magic Jammer", "Magic Drain", "Solemn Judgment", etc.
 *   If you have a Spirit Message in your hand you cannot activate it, they can only be placed on the field by the effect of "Destiny Board" during your opponent’s End Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Destiny%20Board
 

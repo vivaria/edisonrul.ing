@@ -1,5 +1,15 @@
 # Machine King – 3000 B.C.
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Tributing a monster is a cost.
 *   You cannot Tribute this card to activate its effect.
 *   You can Tribute Monster Tokens and “Machine King – 3000 B.C.” will gain ATK.

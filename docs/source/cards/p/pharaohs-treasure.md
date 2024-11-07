@@ -1,5 +1,15 @@
 # Pharaoh's Treasure
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot select the "Pharaoh’s Treasure" you just drew and sent to the Graveyard as the card to place in your hand.
 *   You can select a face-up "Pharaoh’s Treasure" in your deck as 1 of the 5 cards for "Painful Choice", but because "Painful Choice" is not a draw, the effect of "Pharaoh’s Treasure" will not be activated.
 *   If you take "Pharaoh’s Treasure" from your opponent’s hand with "Exchange" and activate it, the card goes in your Deck, not the original owner’s Deck. When you draw your opponent’s "Pharaoh’s Treasure" from your Deck after that, the controller gets the effect of "Pharaoh’s Treasure" and retrieves a card from his Graveyard, but "Pharaoh’s Treasure" goes to the owner’s Graveyard.
@@ -16,7 +26,7 @@
 *   If "Pharaoh's Treasure" is drawn from your Deck (face-up) while "Banisher of the Light" is in play, "Pharaoh's Treasure" is removed from play and its effect does not activate.
 *   You select the card in your Graveyard that you wish to add to your hand when "Pharaoh's Treasure" is drawn and activates it effect, so your opponent can chain AFTER you have announced which card you wish to retrieve.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Pharaoh's%20Treasure
 

@@ -1,5 +1,15 @@
 # Snatch Steal
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Your cannot select your opponent's face-down monster.
 *   If you equip your opponent's monster with "Snatch Steal", and later your opponent equips the same monster with "Snatch Steal", your opponent gains control of the monster.
 *   If you control your opponent's monster with "Snatch Steal" and your opponent takes control of it with "Brain Control", the monster is returned to you during the End Phase.

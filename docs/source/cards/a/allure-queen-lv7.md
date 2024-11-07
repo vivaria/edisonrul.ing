@@ -1,6 +1,14 @@
 # Allure Queen LV7
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV5", you can select 1 monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) If this card would be destroyed by battle, the equipped monster is destroyed instead.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a face-up monster on your opponent's field.
@@ -12,7 +20,7 @@
     *   Applying this effect does not start a Chain.
     *   The destroyed monster (that was equipped) is not considered to be destroyed by battle.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Allure%20Queen%20LV7
 

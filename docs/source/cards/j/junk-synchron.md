@@ -1,6 +1,14 @@
 # Junk Synchron
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Normal Summoned, you can Special Summon 1 Level 2 or lower monster from your Graveyard in face-up Defense Position. That monster's effect(s) is negated.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates in the Summon response timing (like "Trap Hole").
     *   This effect targets a monster in the Graveyard. It is negated by "Necrovalley".
@@ -8,7 +16,7 @@
     *   If the target is flipped face-down / leaves the field, its effects are no longer negated.
 *   This effect can't activate if Junk was Normal Summoned as Chain Link 2+ by "Ultimate Offering".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Junk%20Synchron
 

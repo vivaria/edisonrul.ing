@@ -1,6 +1,14 @@
 # Kycoo The Ghost Destroyer
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card inflicts Battle Damage to your opponent, you can remove from play up to 2 Monster Cards from their Graveyard. ② Your opponent cannot remove from play cards from either player’s Graveyard.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates in Substep 5 - After Damage Calculation.
     *   This effect targets up to 2 Monsters in your opponent's Graveyard.
@@ -9,7 +17,7 @@
     *   Your opponent cannot activate cards / effects that remove cards in the Graveyard(s) from play, whether as cost or as part of their effect.
     *   Your opponent cannot Summon monsters like "Chaos Sorcerer".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Kycoo%20the%20Ghost%20Destroyer
 

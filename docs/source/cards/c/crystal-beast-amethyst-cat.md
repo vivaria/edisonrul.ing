@@ -1,5 +1,15 @@
 # Crystal Beast Amethyst Cat
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   When attacking using this ability, any increases to “Crystal Beast Amethyst Cat’s” ATK are added first, then the total ATK is halved to calculate Battle Damage to your opponent.
 *   You choose whether or not to use the “Crystal Beast” effect at the time the destroyed monster would be sent to the Graveyard.
 *   This effect does not use the Chain.
@@ -15,7 +25,7 @@
 *   If "Dimensional Fissure" is active on the field when a "Crystal Beast" that was being treated as a Continuous Spell Card card is sent to the Graveyard, it will not be removed from play, because it was treated as a Spell and not a monster.
 *   You can use a "Crystal Beast" that is being treated as a Continuous Spell Card for the cost to Special Summon "Hamon, Lord of Striking Thunder" or "Anteatereatingant".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Crystal%20Beast%20Amethyst%20Cat
 

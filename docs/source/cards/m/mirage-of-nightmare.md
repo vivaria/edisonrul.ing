@@ -1,5 +1,15 @@
 # Mirage Of Nightmare
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If, after drawing during your opponent’s Standby Phase, your "Mirage of Nightmare" is destroyed before you have to discard, then you do not need to discard for its effect.
 *   You may activate "Mystical Space Typhoon" during your Draw Phase to destroy "Mirage of Nightmare" before you have to discard during your Standby Phase. If your Draw Phase was skipped for some reason, you can still activate "Mystical Space Typhoon" to destroy "Mirage of Nightmare" before activating the effect of "Mirage of Nightmare" that will force you to discard. (You can activate any number of effects during your own Standby Phase in any order you wish, as long as required effects are dealt with by the time you leave the Standby Phase and enter your Main Phase 1.)
 *   When the turn player controls "Mirage of Nightmare" and "Imperial Order":

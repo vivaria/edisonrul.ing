@@ -1,6 +1,14 @@
 # Allure Queen LV5
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, during your Main Phase, if this card was Special Summoned by the effect of "Allure Queen LV3", you can select 1 Level 5 or lower monster on your opponent's side of the field and equip it to this card. (Only 1 card at a time can be equipped due to this effect.) ② If this card would be destroyed by battle, the equipped monster is destroyed instead. ③ During your Standby Phase, by sending this card to the Graveyard while it's equipped due to its effect, Special Summon 1 "Allure Queen LV7" from your hand or Deck.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a face-up monster on your opponent's field.
@@ -16,7 +24,7 @@
     *   Sending this card to the Graveyard is a cost.
     *   This effect cannot be activate while "Macro Cosmos" is in play.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Allure%20Queen%20LV5
 

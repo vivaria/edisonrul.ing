@@ -1,6 +1,14 @@
 # Royal Oppression
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Either player can pay 800 Life Points to negate the Special Summon of a monster(s), and/or an effect that Special Summons a monster(s), and destroy those cards.
+
+### Card Rulings
 
 *   The ① Quick-like Effect activates & resolves on the field, so long as this card is face-up.
     *   This Card / Effect can't be activated in the Damage Step.
@@ -13,7 +21,7 @@
     *   A Trap Monster, activated while "Imperial Custom" applies, whose effect to Special Summon itself is negated "Royal Oppression" stays in the Spell / Trap Card Zone meaninglessly \[[REF](https://www.pojo.biz/board//showthread.php?p=14930312)\].
 *   If "Royal Oppression" is activated (flipped face-up) but its Quick-like Effect was not activated, it cannot be activated in that same chain, since the card itself has not yet resolved.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Royal%20Oppression
 

@@ -1,9 +1,19 @@
 # Volcanic Rocket
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can choose "Blaze Accelerator" or "Tri-Blaze Accelerator".
 *   "Volcanic Rocket"'s effect does not target. You choose the card to add to your hand when it resolves.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Volcanic%20Rocket
 

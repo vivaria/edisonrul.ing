@@ -1,8 +1,18 @@
 # Kryuel
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If "Second Coin Toss" is active, and "Kryuel" is sent to the Graveyard as a result of battle, you can re-do the coin toss.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Kryuel
 

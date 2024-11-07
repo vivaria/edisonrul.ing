@@ -1,5 +1,15 @@
 # Metamorphosis
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Metamorphosis" does not properly Summon a Fusion Monster, so you cannot use "Monster Reborn" on it afterwards.
 *   Tributing a monster is a cost.
 *   You can Tribute a face-down monster.

@@ -1,5 +1,7 @@
 # Spirit Monsters
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 The following rules apply to all Spirit Monsters:
 
 *   Spirit is not a monster Type; you cannot declare "Spirit" for the effect of "DNA Surgery".

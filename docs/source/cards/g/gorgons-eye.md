@@ -1,5 +1,15 @@
 # Gorgon's Eye
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Gorgon’s Eye" cannot negate the effect of "Sangan", "Witch of the Black Forest", or "Sinister Serpent" because they activate in the Graveyard. If a Defense Position "Slate Warrior" is attacked and destroyed, the effect of "Slate Warrior" that lowers ATK and DEF is applied because it activates in the Graveyard.
 *   "Gorgon’s Eye"’s effect will include monsters in Defense Position that are Summoned after "Gorgon’s Eye" resolves.
 *   If a monster in Defense Position is changed to Attack Position, "Gorgon’s Eye" no longer affects the monster and the monster’s effect will be applied.
@@ -9,7 +19,7 @@
 *   Monsters like "D.D. Warrior Lady" attacked while in Defense Position have their effects negated (because they are used before the monster is sent to the Graveyard).
 *   While "Gorgon’s Eye" is active, if "Relinquished" equipped with a monster is in Defense Position, the effect of "Relinquished" is negated, it can no longer be equipped with a monster, and the Monster Card equipped to "Relinquished" is destroyed and sent to the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gorgon's%20Eye
 

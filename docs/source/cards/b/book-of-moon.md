@@ -1,6 +1,14 @@
 # Book Of Moon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Flip 1 face-up monster on the field into face-down Defense Position.
+
+### Card Rulings
 
 *   This effect targets 1 face-up monster.
 *   A monster flipped face-down remembers:
@@ -21,7 +29,7 @@
 *   You cannot activate "Book of Moon" while "Light of Intervention" is active.
 *   This card cannot be activated during the Damage Step.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Book%20of%20Moon
 

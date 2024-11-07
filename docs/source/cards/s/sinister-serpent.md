@@ -1,5 +1,15 @@
 # Sinister Serpent
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The effect of this card is optional; you do not have to return it to your hand.
 *   The effect of this card activates no matter how it is sent to the Graveyard. It can be destroyed, Tributed, discarded from the hand, or sent straight from the Deck to the Graveyard.
 *   If your "Sinister Serpent" is on the field and is destroyed during your Standby Phase, you may return it to your hand during that same Standby Phase.

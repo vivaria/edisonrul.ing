@@ -1,6 +1,14 @@
 # Macro Cosmos
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can Special Summon 1 “Helios – The Primordial Sun” from your hand or Deck when you activate this card. ② While this card is on the field, any card sent to the Graveyard is removed from play instead.
+
+### Card Rulings
 
 *   The ① Effect is optional, you can activate this card without a Helios in the Deck.
     *   "Macro Cosmos" must remain face-up on the Field in order to successfully resolve its ① effect.
@@ -14,7 +22,7 @@
     *   If a face-up "Archlord Kristya" would be sent from the field to the Graveyard (and removed from play), "Archlord Kristya’s" effect will still trigger and places it back on top of the Deck.
     *   If "Gravekeeper's Servant" is active, your opponent cannot declare an attack.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Macro%20Cosmos
 

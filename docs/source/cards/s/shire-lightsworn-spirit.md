@@ -1,6 +1,14 @@
 # Shire, Lightsworn Spirit
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① This card gains 300 ATK for each "Lightsworn" monster with a different name in your Graveyard. ② During each of your End Phases, send the top 2 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   The ① Continuous Effect does not start a chain during the Damage Step.
     *   If "Blackwing - Gale the Whirlwind" halves this card's ATK, and later the number of "Lightsworn" monsters with different names in your Graveyard changes, this card's ATK will remain the same.
@@ -16,7 +24,7 @@
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Shire,%20Lightsworn%20Spirit
 

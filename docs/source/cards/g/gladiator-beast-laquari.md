@@ -1,6 +1,14 @@
 # Gladiator Beast Laquari
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card is Special Summoned by the effect of a "Gladiator Beast" monster, its original ATK is 2100. ② At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 "Gladiator Beast" monster from your Deck, except "Gladiator Beast Laquari".
+
+### Card Rulings
 
 *   The ① Continuous Effect does not activate.
     *   This effect no longer applies if Laquari is flipped face-down, leaves the field, or has its effects negated by “Skill Drain” (even if “Skill Drain” is later negated / destroyed).
@@ -15,7 +23,7 @@
         *   The turn player may resolve ALL their "Gladiator Beast" monsters' tag-out effects before their opponent is allowed to activate any of their own "Gladiator Beast" tag-out effects.
     *   If a "Gladiator Beast" monster's attack is stopped (by "Gravity Bind") or is negated (by "Negate Attack"), that "Gladiator Beast" cannot activate its effect at the end of the Battle Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Laquari
 

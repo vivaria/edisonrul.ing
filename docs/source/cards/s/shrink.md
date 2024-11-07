@@ -1,6 +1,14 @@
 # Shrink
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Select 1 face-up monster on the field. The original ATK of that monster is halved until the end of this turn.
+
+### Card Rulings
 
 *   This card can be activated during the Damage Step, before Substep 4 - Damage Calculation.
 *   This effect target's 1 face-up monster anywhere on the field.
@@ -11,7 +19,7 @@
     *   If the target's ATK is set by its effect when it is Summoned (ex: "Chimeratech Fortress Dragon"), its ATK becomes "0", and remains "0" even after the effect of “Shrink” wears off.
 *   VS. "Megamorph": If the same monster is targeted by both, the effect that resolved last is applied.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Shrink
 

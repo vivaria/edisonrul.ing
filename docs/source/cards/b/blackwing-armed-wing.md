@@ -1,8 +1,18 @@
 # Blackwing - Armed Wing
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If “Blackwing Armed Wing” attacks a Defense Position monster, and that monster is changed to Attack Position before the Damage Step, it does not gain 500 ATK.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Blackwing%20Armed%20Wing
 

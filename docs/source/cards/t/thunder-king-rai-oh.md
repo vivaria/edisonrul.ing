@@ -1,6 +1,14 @@
 # Thunder King Rai-Oh
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Neither player can add cards from their Deck to their hand except by drawing them. ② You can send this face-up card to the Graveyard to negate the Special Summon of 1 of your opponent monsters, and destroy it.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   Cards / Effects that add a card(s) from Deck to hand (ex: "Terraforming", "Elemental Hero Stratos") cannot activate. Mandatory effects (like "Sangan" still activate, starting a chain).
@@ -11,7 +19,7 @@
     *   Sending "Thunder King Rai-Oh" to the Graveyard is a cost. This is not a Tribute. You cannot activate this effect while "Macro Cosmos" is active.
     *   This effect cannot negate a Card Effect (ex: "Debris Dragon") that Special Summons a monster(s).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Thunder%20King%20Rai-Oh
 

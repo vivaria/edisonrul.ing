@@ -1,5 +1,15 @@
 # Storm Caller
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Storm Caller"'s second effect only activates when it is destroyed while on the field. If it is destroyed while face-down, its second effect activates.
 *   If a Psychic-Type monster destroys your opponent's "Dark Magician of Chaos" by battle, you cannot return it to the top of your opponent's Deck.
 *   If a Psychic-Type monster destroys your opponent's monster by battle while "Macro Cosmos" or "Dimensional Fissure" is active, you can return the destroyed monster to the top of your opponent's Deck. If you do not, the monster is removed from play.
@@ -8,7 +18,7 @@
 *   You decide if you place your opponent's destroyed monster on top of their Deck at the end of the Damage Step, when monsters destroyed by battle are sent to the Graveyard.
 *   If a Psychic-Type monster destroys your opponent's "Apprentice Magician" by battle, if you return it to the top of your opponent's Deck its effect does not activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Storm%20Caller
 

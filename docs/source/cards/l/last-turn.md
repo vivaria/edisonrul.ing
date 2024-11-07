@@ -1,5 +1,15 @@
 # Last Turn
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   “Last Turn” is a very special Trap Card with very special and unusual rules. The most important thing to understand about “Last Turn” is that not all of its effects are applied when the Trap Card resolves. When “Last Turn” (the Trap Card itself) resolves, the activating player selects 1 monster on their side of the field, and all other cards on the field and in both players’ hands are sent to the Graveyard. That is all that happens when “Last Turn” resolves. After that, the turn player Special Summons 1 monster from their Deck. After that, a special Battle Phase occurs. Then, during the End Phase, the victory check of “Last Turn” is applied. “Last Turn” sets up several effects that resolve later in the turn long after the Trap Card itself has resolved. Several other cards do this too, like “Last Will” and “Change of Heart”.
 *   Suppose that “Ceasefire” is activated (Chain Link 1), and “Last Turn” is chained to it (Chain Link 2). In this case, “Last Turn” resolves first, the activating player selects 1 monster on their side of the field, and all other cards are sent to the Graveyard. Then resolve the effect of “Ceasefire” (Chain Link 1). After “Ceasefire” resolves, the turn player Special Summons a monster for “Last Turn”, then the special Battle Phase occurs, then in the End Phase the victory check is applied. This is an example of how the special nature of “Last Turn” works: the only thing that happens when “Last Turn” resolves is to select 1 monster and send all other cards to the Graveyard.
 *   “Last Turn” is not a card that Special Summons a monster when it resolves. Therefore you can activate “Last Turn” even while “Jowgen the Spiritualist” is face-up on the field. If the player activating “Last Turn” controls “Jowgen the Spiritualist” and selects it as the monster to keep, the opponent cannot Special Summon for “Last Turn”, and there will be no special Battle Phase. However the victory check is still applied in the End Phase.

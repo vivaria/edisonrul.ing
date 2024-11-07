@@ -1,5 +1,15 @@
 # Dimension Fusion
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Dimension Fusion" cannot Special Summon a "Special Summon-only" monster, like a Ritual Monster or "Chaos Emperor Dragon - Envoy of the End", unless it was properly summoned first.
 *   You cannot activate "Dimension Fusion" when neither player has a monster removed from play; at least 1 player must have at least 1 monster removed from play for you to activate it.
 *   "Dimension Fusion" does not target.

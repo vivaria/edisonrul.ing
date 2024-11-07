@@ -1,6 +1,14 @@
 # D.D. Warrior Lady
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card battles your opponent’s monster, after damage calculation you can remove from play the opponent’s monster and this card.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 6 - Resolve Effects of the Damage Step.
@@ -9,7 +17,7 @@
 *   This effect can only activate if this card participated in Substep 4 - Damage Calculation.
 *   This effect cannot activate if this card leaves the field before Substep 4 (by "Ehren, Lightsworn Monk").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=D.D.%20Warrior%20Lady
 

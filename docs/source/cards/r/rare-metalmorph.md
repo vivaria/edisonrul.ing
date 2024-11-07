@@ -1,6 +1,14 @@
 # Rare Metalmorph
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Select 1 face-up Machine-Type monster. It gains 500 ATK. One time only, negate the effect of a Spell Card that targets that monster. ② When the selected monster is removed from the field, destroy this card.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies on the field.
     *   This effect (continuously) targets a face-up Machine-Type monster anywhere on the field.
@@ -12,7 +20,7 @@
     *   This effect applies if the target is destroyed / removed from play / returned to the hand or Deck.
     *   This effect can be negated by "Royal Decree".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Rare%20Metalmorph
 

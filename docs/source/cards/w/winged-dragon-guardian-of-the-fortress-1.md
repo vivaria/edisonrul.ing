@@ -1,5 +1,5 @@
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Winged%20Dragon,%20Guardian%20of%20the%20Fortress%20#1
 

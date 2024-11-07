@@ -1,8 +1,18 @@
 # The Wicked Worm Beast
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If you have 7 or more cards in your hand after returning "The Wicked Worm Beast" to your hand, you must discard cards until you have 6 cards.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=The%20Wicked%20Worm%20Beast
 

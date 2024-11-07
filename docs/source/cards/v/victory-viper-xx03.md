@@ -1,9 +1,19 @@
 # Victory Viper XX03
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If “Victory Viper XX03” leaves the field or is flipped face-down, all of its Option Tokens disappear. (Note that they are not “destroyed”.)
 *   “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Victory%20Viper%20XX03
 

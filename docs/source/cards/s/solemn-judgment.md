@@ -1,6 +1,14 @@
 # Solemn Judgment
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Pay half of your Life Points. ① Negate an activation of a Spell / Trap Card / Normal Summon / Flip Summon / Special Summon and destroy the Spell Card, Trap Card, or Summoned monster.
+
+### Card Rulings
 
 *   Paying half your Life Points is a cost. If this results in a fraction, your Life Points are rounded up.
 *   "Solemn Judgment" does not target the card it will destroy.
@@ -14,7 +22,7 @@
     *   DO NOT negate the Fusion Summon after "Polymerization" resolved.
     *   DO NOT negate the Synchro Summon after "Urgent Tuning" resolved.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Solemn%20Judgment
 

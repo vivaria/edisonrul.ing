@@ -1,11 +1,21 @@
 # Lord British Space Fighter
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This effect activates at the end of the Damage Step.
 *   The second effect targets 1 Set card on the field.
 *   Even if you activate the first effect of this card, you do not have to attack again in a row.
 *   If both this and the opponent’s monster are destroyed by battle with each other, you can still activate the second or third effect of this card.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Lord%20British%20Space%20Fighter
 

@@ -1,9 +1,19 @@
 # Spyder Spider
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This is a Trigger Effect that targets 1 Level 4 or lower Insect-Type monster in your Graveyard.
 *   As long as your opponent's monster was in Defense Position during damage calculation, you can activate this effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Spyder%20Spider
 

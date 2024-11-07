@@ -1,6 +1,14 @@
 # Necrovalley
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Negate the effects of Spells, Traps, and Effect Monsters that target a card(s) in either player’s Graveyard. ② Cards in either player’s Graveyard cannot be removed from play. ③ All “Gravekeeper’s” monsters gain 500 ATK and DEF.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect NEGATES:
     *   cards / effects that targets a card(s) in the Graveyard (ex: "Debris Dragon", "Salvage").
@@ -16,7 +24,7 @@
 
 > Konami policy regarding card legality and cards with [erratas](https://yugipedia.com/wiki/Errata) (section IX. subsection G. of the [policy document](https://img.yugioh-card.com/en/gameplay/penalty_guide/YGOTCG_Policy_v_2_1.pdf)) state that "you are required to play all copies of your cards according to the most recent text". Therefore, the language used and the consequences of this erratum are essential to authentic Edison Format play.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Necrovalley
 

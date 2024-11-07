@@ -1,6 +1,14 @@
 # Celestia, Lightsworn Angel
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When you Tribute Summon this card by Tributing a "Lightsworn" monster, you can send the top 4 cards of your Deck to the Graveyard to destroy up to 2 cards your opponent controls.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect only activates if the Tribute Material is a "Lightsworn" monster.
     *   This effect activates even if the Tributed "Lightsworn" monster was face-down.
@@ -10,7 +18,7 @@
     *   If only 1 card is targeted, your opponent CANNOT chain "Starlight Road" in response.
     *   If 2 cards are targeted, your opponent CAN chain "Starlight Road" in response.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Celestia,%20Lightsworn%20Angel
 

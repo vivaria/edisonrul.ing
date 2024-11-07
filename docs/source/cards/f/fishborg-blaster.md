@@ -1,9 +1,19 @@
 # Fishborg Blaster
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Discarding 1 card is a cost to activate the effect.
 *   The requirement that you use WATER-Attribute Synchro Material Monsters when using this monster for a Synchro Summon is a condition, not an effect. It cannot be negated by “Skill Drain.”
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Fishborg%20Blaster
 

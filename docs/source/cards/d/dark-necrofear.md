@@ -1,5 +1,15 @@
 # Dark Necrofear
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You only remove the 3 Fiend-Type monsters in your Graveyard from play when you Special Summon "Dark Necrofear" from your hand. If you successfully Special Summon it using this method, and then wish to use "Monster Reborn" to Special Summon it from the Graveyard, you do not have to remove 3 more Fiend-Type monsters from the Graveyard.
 *   If "Banisher of the Light" is on the field when "Dark Necrofear" is destroyed, the "Dark Necrofear" is removed from play and does not return as an Equip Spell Card.
 *   If "Imperial Order" is active when "Dark Necrofear" is destroyed while a Monster Card, it must still be equipped to your opponent’s monster, but you will not gain control of it because its effect is negated by "Imperial Order".
@@ -11,7 +21,7 @@
 *   If it is destroyed by your opponent’s "Harpie’s Feather Duster", "Dust Tornado", etc. while it is an Equip Spell Card, "Dark Necrofear" will NOT return during the End Phase since it was NOT destroyed while a Monster Card.
 *   If your "Dark Necrofear" is destroyed on your opponent’s side of the field, by either player’s card effect, it will not activate during the End Phase. It must be on your side of the field and sent to your Graveyard when it is destroyed for its effect to activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dark%20Necrofear
 

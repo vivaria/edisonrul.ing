@@ -1,5 +1,15 @@
 # Spirit Of The Pharaoh
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Spirit of the Pharaoh" cannot be Normal Summoned or Set, and cannot be Special Summoned EXCEPT by the effect of "The First Sarcophagus". So "Spirit of the Pharaoh" cannot be Special Summoned with "Monster Reborn", etc., even if Special Summoned properly first.
 *   If your opponent chains "Royal Decree" to the effect of "The First Sarcophagus", the effect of Special Summoning is negated and "The First Sarcophagus" is sent to the Graveyard because that is the cost.
 *   If "Banisher of the Light" is in play and you activate "The First Sarcophagus", you cannot Special Summon "Spirit of the Pharaoh".
@@ -10,7 +20,7 @@
 *   If a Zombie-Type monster had its Level reduced by "Cost Down", that reduction no longer applies when it is in the Graveyard.
 *   If you activate "Spirit of the Pharaoh"'s effect and "Enemy Controller" is chained, and control of "Spirit of the Pharaoh" switches, the effect is still controlled by the activator of "Spirit of the Pharoah"'s effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Spirit%20of%20the%20Pharaoh
 

@@ -1,5 +1,15 @@
 # Gradius' Option
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The ATK/DEF of "Gradius’ Option" is the same as the current ATK/DEF of the selected "Gradius", not the original ATK/DEF. So if you equip "Axe of Despair" to "Gradius", the ATK of "Gradius’ Option" will also increase by 1000 points.
 *   Equipping "Axe of Despair" to "Gradius’ Option" has no purpose. Activating "Reinforcements" targeting "Gradius’ Option" serves no purpose. "Luminous Spark" on the field will not change the ATK/DEF of "Gradius’ Option". It always has the same ATK/DEF of the selected "Gradius".
 *   If the selected "Gradius" is flipped face-down, "Gradius’ Option" is destroyed.
@@ -9,7 +19,7 @@
 *   If you pick up "Gradius’ Option" by the effect of "Morphing Jar #2" you cannot Special Summon it, and it is sent to the Graveyard.
 *   ”Shrink” has no effect on “Gradius’ Option”.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gradius'%20Option
 

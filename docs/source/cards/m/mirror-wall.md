@@ -1,5 +1,15 @@
 # Mirror Wall
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If "Mirror Wall" is already face-up on the field when a monster declares an attack, "Mirror Wall" reduces the ATK of the attacking monster by half when the attack is declared.
 *   If "Mirror Wall" is activated during an attack (including during the Damage Step), then it reduces the ATK of the attacking monster when "Mirror Wall" resolves. (Even though "Mirror Wall" normally reduces the attack by half when the attack is declared, it will still reduce the attack by half if you activate it after the attack is declared.)
 *   If "Mirror Wall" halves the ATK of a monster, it remains halved as long as "Mirror Wall" remains face-up on the field. If "Mirror Wall" is removed from the field, the ATK of the monsters is restored.
@@ -9,7 +19,7 @@
 *   The effect of "Mirror Wall" does not target.
 *   "Reverse Trap" will have no effect on "Mirror Wall".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Mirror%20Wall
 

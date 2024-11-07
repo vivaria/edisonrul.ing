@@ -1,9 +1,19 @@
 # The Transmigration Prophecy
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This effect targets.
 *   You can target 2 cards in your Graveyard, 2 cards in your opponent’s Graveyard or 1 card from each.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=The%20Transmigration%20Prophecy
 

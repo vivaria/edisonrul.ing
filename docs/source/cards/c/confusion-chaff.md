@@ -1,5 +1,15 @@
 # Confusion Chaff
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This card does not target.
 *   When "Confusion Chaff" resolves, the battle caused by "Confusion Chaff" proceeds directly to the Damage Step.
 *   This card cannot be activated when a single monster like “Hayabusa Knight”, etc., makes its second direct attack in the same Battle Phase.
@@ -8,7 +18,7 @@
 *   If a monster declares a direct attack, but that attack is negated, it will not be considered the first monster that attacked directly that turn.
 *   If your “Amazoness Swords Woman” declares the second direct attack during a Battle Phase, and “Confusion Chaff” is activated, your opponent will take any battle damage from that battle.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Confusion%20Chaff
 

@@ -1,6 +1,14 @@
 # Sangan
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is sent from the field to the Graveyard, add 1 monster with 1500 or less ATK from your Deck to your hand.
+
+### Card Rulings
 
 *   This ① mandatory Trigger Effect activates & resolves in the Graveyard.
     *   Monsters with "? ATK" cannot be added from Deck to hand.
@@ -9,7 +17,7 @@
 *   If the Summon of this card is negated with "Horn of Heaven", this effect does not activate.
 *   This effect will not trigger if "Sangan" is removed from play (by "Dimensional Fissure", etc.) instead of being sent to the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Sangan
 

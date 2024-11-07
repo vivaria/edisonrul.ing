@@ -1,5 +1,15 @@
 # Serial Spell
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Serial Spell" must be chained to the activation of your Normal Spell Card. Nothing can be chained in-between by yourself or your opponent. If your opponent chains to your Normal Spell Card, you cannot chain "Serial Spell" to that Normal Spell Card. Because of this, it is impossible to chain 2 copies of "Serial Spell" to the same Normal Spell Card.
 *   "Serial Spell" does not target a card.
 *   If you chain "Serial Spell" to a Normal Spell Card that targets a card(s) you can select a different target(s) for the "Serial Spell" copy of the Normal Spell Card.
@@ -16,7 +26,7 @@
 *   If you chain "Serial Spell" to "Metamorphosis", there is no effect because you did not Tribute a monster for a cost, so "Serial Spell" has no point of reference and cannot resolve.
 *   If you chain "Serial Spell" to "Monster Gate" resolve the effect of "Monster Gate" twice (once for "Serial Spell" and once for "Monster Gate") even though you only pay the cost once (for "Monster Gate").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Serial%20Spell
 

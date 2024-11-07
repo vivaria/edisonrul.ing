@@ -1,8 +1,16 @@
 # Mind Control
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Take control of 1 monster your opponent controls until the End Phase. It cannot declare an attack or be Tributed.
 
-*   This effect targets 1 (face-up / face-down) monster your opponent controls.  
+### Card Rulings
+
+*   This effect targets 1 (face-up / face-down) monster your opponent controls.
     
 *   If the targeted monster was Special Summoned this turn (by "Call of the Haunted"), you can change its Battle Position when you gain control of it \[[REF](https://www.pojo.biz/board/showthread.php?t=1127248)\].  
     
@@ -15,7 +23,7 @@
     
 *   A card with an effect of "Control of this face-up card on the field cannot switch" cannot switch control while face-up under any circumstances. So, if a face-down Botanical Lion changes control due to Mind Control and is then flipped face-up, the lingering part of the effect of Mind Control will not apply during the End Phase and control of Botanical Lion will not return to the original owner.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Mind%20Control
 

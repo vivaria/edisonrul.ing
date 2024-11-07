@@ -1,8 +1,18 @@
 # Chain Strike
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Chain%20Strike
 

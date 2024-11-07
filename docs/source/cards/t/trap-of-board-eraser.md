@@ -1,9 +1,19 @@
 # Trap Of Board Eraser
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate this card when your opponent does not have a hand.
 *   For other rulings, see "Barrel Behind the Door".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Trap%20of%20Board%20Eraser
 

@@ -1,5 +1,11 @@
 # Elemental Hero Gaia
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > 1 "Elemental Hero" monster + 1 EARTH Monster
 Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① When this card is Fusion Summoned, select 1 face-up monster your opponent controls. Until the end of this turn, that monster's ATK is halved and this card gains the same amount of ATK.
 
@@ -13,7 +19,7 @@
     *   This effect does not apply if either Hero Gaia or the target is flipped face-down / leaves the field.
     *   These ATK changes last until the End Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Elemental%20HERO%20Gaia
 

@@ -1,6 +1,14 @@
 # Verdant Sanctuary
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.
+
+### Card Rulings
 
 *   The ① optional Trigger-like Effect can be activated during the Damage Step.
     *   This effect does not target the monster in the Graveyard.
@@ -11,7 +19,7 @@
     *   an Insect-Type monster is destroyed while equipped to "Relinquished".
     *   a non-Insect-Type monster is destroyed while treated as an Insect-Type by "DNA Surgery".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Verdant%20Sanctuary
 

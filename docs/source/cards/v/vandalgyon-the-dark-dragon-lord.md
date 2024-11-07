@@ -1,5 +1,11 @@
 # Van'Dalgyon The Dark Dragon Lord
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① After a Counter Trap Card you control negates the activation of an opponent's card(s) or effect(s), you can Special Summon this card from your hand. ② Then activate the appropriate effects, based on the type of cards negated:
 • Spell: Inflict 1500 damage to your opponent.  
 • Trap: Select and destroy 1 card your opponent controls.  
@@ -19,7 +25,7 @@
 *   VS. "[Vanity's Call](https://yugipedia.com/wiki/Vanity%27s_Call)": if this card negates multiple card effects controlled by your opponent, when you Special Summon "Van'Dalgyon the Dark Dragon Lord" you will activate each effect appropriate effect.
     *   Example: "Vanity's Call" negates your opponent's "Destiny Draw" and "Dark Bribe". Van'Dalgyon you will activate its "_inflict 1500 damage_" and "_destroy 1 card_" effects when Summoned. You can choose to have "_inflict 1500 damage_" be Chain Link 1 and "_destroy 1 card_" be Chain Link 2, or vice-versa.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Van'Dalgyon%20the%20Dark%20Dragon%20Lord
 

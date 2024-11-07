@@ -1,5 +1,11 @@
 # Evil Hero Dark Gaia
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > 1 Fiend-Type monster + 1 Rock-Type monster
 Ⓒ This card cannot be Special Summoned except with "Dark Fusion". ① The original ATK of this card is equal to the combined ATK of the Fusion Material Monsters used to Fusion Summon it. ② When this card declares an attack, change all Defense Position monsters your opponent controls to face-up Attack Position. Flip Effects are not activated at this time.
 
@@ -16,7 +22,7 @@
     *   Turn player priority makes this effect Chain Link 1, but your opponent can chain "Mirror Force".
 *   VS. "[Necro Gardna](https://yugipedia.com/wiki/Necro_Gardna)": Attacks can only be negated in the Battle Step. If an attack is negated, the Damage Step does not occur (that monster is not treated as having "battled"), and that monster is still considered to have declared an attack that turn (it cannot declare another attack or change its battle position in Main Phase 2) \[[REF](https://yugipedia.com/wiki/Negate)\]. If "Evil Hero Dark Gaia" declares an Attack, at the start of the Battle Step the turn player can activate "Evil Hero Dark Gaia"'s effect in response to the Attack declaration, and the non-turn player can activate "Necro Gardna"'s effect as Chain Link 2. When the chain resolves, "Necro Gardna" negates the Attack and prevents it from proceeding to the Damage Step, then "Evil Hero Dark Gaia"'s effect resolves forcing all the opponent's monsters into Attack Position without activating any Flip Effects. Even if "Necro Gardna"'s effect was activated before "Evil Hero Dark Gaia" declared an attack, "Evil Hero Dark Gaia" can still activate its effect when it declares an attack which is negated by "Necro Gardna".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Evil%20HERO%20Dark%20Gaia
 

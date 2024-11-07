@@ -1,6 +1,14 @@
 # Nurse Reficule The Fallen One (Erratum: "Darklord Nurse Reficule")
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Any effect that would cause your opponent to gain Life Points instead inflicts the same amount of damage to your opponent.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies when effects that cause your opponent to gain Life Points resolve.
     *   This effect causes those effects to inflict Effect Damage.

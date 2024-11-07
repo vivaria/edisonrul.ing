@@ -1,9 +1,19 @@
 # Destiny Hero - Defender
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Destiny Hero - Defender"'s effect is a Trigger Effect.
 *   If an effect is chained that flips "Destiny Hero - Defender" face-down or removes it from the field, its effect disappears.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Defender
 

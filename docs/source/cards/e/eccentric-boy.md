@@ -1,5 +1,7 @@
 # Eccentric Boy
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 Ⓒ When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. ① The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effect, its effect(s) is negated, and it is removed from play when removed from the field.
 
 *   The Ⓒ Condition is not an effect and does not activate. It is not negated by "Skill Drain".
@@ -16,7 +18,7 @@
 *   VS. "[De-Synchro](https://yugipedia.com/wiki/De-Synchro)": if the Synchro Monster is not returned to the Extra Deck (because it was removed from play by the effect of "Eccentric Boy"), you cannot Special Summon the Synchro Material Monsters.
 *   VS. "[Urgent Tuning](https://yugipedia.com/wiki/Urgent_Tuning)": you may perform the Synchro Summon using "[Eccentric Boy](https://yugipedia.com/wiki/Eccentric_Boy)" and a monster in your hand. If you do not have a monster in your hand which can be used as a Synchro Material Monster or you do not have a Synchro Monster in your Extra Deck which can be Special Summoned, then the opponent can check your hand and your Extra Deck to verify. You cannot activate "[Urgent Tuning](https://yugipedia.com/wiki/Urgent_Tuning)" if you do not have a monster in your hand which can be used for a Synchro Summon.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Eccentric%20Boy
 

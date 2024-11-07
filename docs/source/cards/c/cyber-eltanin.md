@@ -1,6 +1,14 @@
 # Cyber Eltanin
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by removing from play all face-up LIGHT Machine-Type monsters from your side of the field and your Graveyard. ① This card's ATK and DEF are equal to the number of monsters removed from play for its Special Summon x 500. ② When this card is Special Summoned, send all other face-up monsters on the field to the Graveyard.
+
+### Card Rulings
 
 *   The Ⓒ Summoning Condition cannot be negated.
 *   The Ⓢ Special Summon Effect is the only way to Special Summon this card.
@@ -16,7 +24,7 @@
     *   This effect does not affect face-down monsters.
     *   This effect 'sends' monster cards to the Graveyard; it does not 'destroy' them.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Cyber%20Eltanin
 

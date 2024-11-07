@@ -1,5 +1,15 @@
 # Twin-Headed Behemoth
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The effect of this card is only activated when it is "destroyed". It will not activate if Tributed, discarded, or sent to the Graveyard.
 *   When "Twin-Headed Behemoth" is Special Summoned by its own effect you can activate "Card of Safe Return" and draw 1 card.
 *   When "Twin-Headed Behemoth" is Special Summoned by its own effect and is equipped with "Megamorph" it is the original ATK/DEF that is doubled or halved. (ATK 3000 / DEF 2400 if doubled, ATK 750 / DEF 600 if halved)
@@ -13,7 +23,7 @@
 *   You may still Special Summon "Twin-Headed Behemoth" with the effect of "Monster Reborn", etc. after its effect has been used once.
 *   If you activate "Monster Reborn" to Special Summon "Twin-Headed Behemoth" in the turn it was destroyed, its effect has not yet been used, and it will activate the next time it is destroyed.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Twin-Headed%20Behemoth
 

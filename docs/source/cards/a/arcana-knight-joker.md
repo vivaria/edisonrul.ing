@@ -1,6 +1,14 @@
 # Arcana Knight Joker
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. ① Once per turn, if this face-up card on the field is targeted by a Spell Card, Trap Card, or Effect Monster's effect, you can negate that effect by discarding the same kind of card (Spell, Trap, or Monster Card).
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
     *   Fusion Substitute cards (like "King of the Swamp") cannot be used in this card's Fusion Summon.
@@ -12,7 +20,7 @@
     *   You can activate this effect during the Damage Step.
     *   This effect can't negate the effects of “Call of the Haunted” that destroys “Arcana Knight Joker” when it is destroyed.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Arcana%20Knight%20Joker
 

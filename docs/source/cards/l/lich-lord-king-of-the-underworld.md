@@ -1,9 +1,19 @@
 # Lich Lord, King Of The Underworld
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This card's effect will be activated if it is Tributed from the hand for a Ritual Spell Card.
 *   See "Diabolos, King of the Abyss" for Tribute Summon rulings.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Lich%20Lord,%20King%20of%20the%20Underworld
 

@@ -1,6 +1,14 @@
 # Blackwing - Vayu The Emblem Of Honor
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card is face-up on the field, you cannot use it for a Synchro Summon. ② If this card is in your Graveyard, you can remove from play this card plus 1 non-Tuner “Blackwing” monster in your Graveyard, and Special Summon 1 “Blackwing” Synchro Monster from your Extra Deck whose Level equals the total Levels of the removed monsters. The effect(s) of that Synchro Monster is negated.
+
+### Card Rulings
 
 *   The ① Continuous Effect CAN be negated (by "Skill Drain" or if Vayu is Special Summoned by Shura).
 *   The ② Ignition Effect targets a "Blackwing" Monster in your Graveyard.
@@ -10,7 +18,7 @@
     *   This effect does not perform a Synchro Summon. It can be activated while "Discord" is active.
     *   Since the monster was not properly Synchro Summoned, it cannot be Special Summoned from the Graveyard / removed from play (ex: "Call of the Haunted", "Return from the Different Dimension").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Blackwing%20-%20Vayu%20the%20Emblem%20of%20Honor
 

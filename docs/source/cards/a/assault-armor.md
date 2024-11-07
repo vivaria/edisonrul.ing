@@ -1,6 +1,14 @@
 # Assault Armor
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ Equip only to a Warrior-Type monster that is the only monster you control. ① It gains 300 ATK. ② During your Main Phase, you can send this equipped card to the Graveyard. If you do, the equipped monster can attack twice during the Battle Phase this turn.
+
+### Card Rulings
 
 *   The Ⓒ Condition is not an effect, it can't be negated.
     *   If “Assault Armor” is equipped to your monster, then after that you Summon another monster, “Assault Armor” remains on the field.
@@ -13,7 +21,7 @@
     *   This effect does not target.
     *   You can only send “Assault Armor” to the Graveyard to activate its effect during Main Phase 1.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Assault%20Armor
 

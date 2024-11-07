@@ -1,6 +1,14 @@
 # Power Tool Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, during your Main Phase, you can select 3 Equip Spell Cards from your Deck, have your opponent pick 1 of them at random, and add it to your hand. Return the remaining cards to your Deck. ② If this card would be destroyed while equipped with an Equip Spell Card, you can send that card to the Graveyard instead.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   You reveal the 3 Equip Spell Cards from your Deck that you pick. From that point on, you do not have to show them (so your opponent does not see them while picking randomly).
@@ -15,7 +23,7 @@
     *   If you send "Double Tool C&D" to the Graveyard, the effect of “Double Tool C&D” that destroys the opponent’s monster does not activate, because it is not on the field at the end of the Damage Step.
     *   An equipped “Archfiend of Gilfer” can be sent to the Graveyard. You can activate the effect of “Archfiend of Gilfer” and re-equip it to a monster on the field (including “Power Tool Dragon”), unless it was sent to the Graveyard during the middle of a Chain, because it misses the timing.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Power%20Tool%20Dragon
 

@@ -1,6 +1,14 @@
 # Evil Hero Infernal Prodigy
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓢ If you control no monsters, you can Special Summon this card from your hand in face-up Attack Position. ① If you Tribute this card to Tribute Summon an "Elemental Hero", "Destiny Hero", or "Evil Hero" monster, draw 1 card during this turn's End Phase.
+
+### Card Rulings
 
 *   This Ⓢ Special Summon effect does not start a chain.
 *   The ① mandatory Trigger Effect activates during the End Phase.
@@ -13,7 +21,7 @@
     *   Prodigy is Tributed to Set a HERO monster.
     *   the Tribute Summon of a HERO monster was negated (by "Solemn Judgment").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Evil%20HERO%20Infernal%20Prodigy
 

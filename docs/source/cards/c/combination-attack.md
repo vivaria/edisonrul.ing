@@ -1,5 +1,15 @@
 # Combination Attack
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This card targets.
 *   Both the equipped monster and the Union Monster can attack after "Combination Attack" is used, assuming the Union Monster was Special Summoned in face-up Attack Position.
 *   "Combination Attack" can only be used against a monster that reached the Damage Step; if a monster attacks and a replay occurs, then it is not considered to have attacked for purposes of "Combination Attack".
@@ -8,7 +18,7 @@
 *   If "Dark Blade", equipped with "Kiryu" and "Twin Swords of Flashing Light - Tryce", attacks twice using "Twin Swords of Flashing Light - Tryce"'s effect, then you use "Combination Attack" to detach "Kiryu" from "Dark Blade", both monsters can attack again once each. "Dark Blade" cannot attack another 2 times because it has already attacked twice.
 *   If the player who would control the Union Monster already has 5 monsters on the field, "Combination Attack" cannot be activated.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Combination%20Attack
 

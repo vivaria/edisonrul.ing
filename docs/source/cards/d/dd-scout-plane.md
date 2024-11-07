@@ -1,5 +1,15 @@
 # D.D. Scout Plane
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "D. D. Scout Plane"'s effect can only activate once during the same End Phase, so if a combo of "Banisher of the Light" and "King Tiger Wanghu" is set up, "D. D. Scout Plane" will only be Special Summoned once.
 *   It is the OWNER of "D. D. Scout Plane" that Special Summons it. Even if your opponent controls your "D. D. Scout Plane", if it is removed from play, you get to Special Summon it.
 *   If you don't have a vacant Monster Card Zone when "D. D. Scout Plane" would be Special Summoned, "D. D. Scout Plane" is destroyed and sent to the Graveyard.
@@ -13,7 +23,7 @@
 *   If "Prohibition" was used and "D. D. Scout Plane" is prohibited, "D. D. Scout Plane" cannot be Special Summoned and remains removed from play.
 *   If "D. D. Scout Plane" is removed from play with "Different Dimension Gate", "D. D. Scout Plane"'s effect activates and "D. D. Scout Plane" is Special Summoned. If "Different Dimension Gate" is later destroyed, the other removed monster is returned to the field at that time.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=D.D.%20Scout%20Plane
 

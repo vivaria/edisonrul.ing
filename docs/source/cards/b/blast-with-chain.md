@@ -1,5 +1,15 @@
 # Blast With Chain
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This card targets 1 monster.
 *   If you use "Emergency Provisions", it sends Spell & Trap Cards to the Graveyard, it does not destroy them, so if you send this card to the Graveyard with "Emergency Provisions", this card's effect will not be activated. The same applies to "Woodland Sprite".
 *   If you equip this card to "Gearfried the Iron Knight", then this card's effect will be activated because it was destroyed by a card effect.
@@ -10,7 +20,7 @@
 *   If your opponent activates "Mystical Space Typhoon" targeting your face-down "Blast with Chain", and you chain "Blast with Chain", you still get "Blast with Chain"'s effect.
 *   If this card is destroyed in the middle of a resolving chain, its effect will start a new chain after current one resolves.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Blast%20with%20Chain
 

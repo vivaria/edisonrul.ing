@@ -1,5 +1,7 @@
 # Jinzo
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 ① Trap Cards cannot be activated. ② The effects of all face-up Trap Cards are negated.
 
 *   The ① Continuous Effect applies while "Jinzo" is face-up on the field as a monster.
@@ -11,7 +13,7 @@
     *   The effects of Trap Cards which have already resolved are not negated.
     *   A face-down "Jinzo" does not apply its effects, it is flipped and destroyed by "Acid Trap Hole".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Jinzo
 

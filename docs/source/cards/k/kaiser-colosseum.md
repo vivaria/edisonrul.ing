@@ -1,6 +1,14 @@
 # Kaiser Colosseum
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If there is 1 or more monster(s) on the field of the controller of this card, his/her opponent cannot place a monster on the field if his/her number of monsters would exceed the number of monsters that are on the field of this card's controller. Ⓒ The cards that are already on the field before this card's activation are unaffected by this effect.
+
+### Card Rulings
 
 *   The ① Continuous Effect only applies while you control 1+ monster(s).
     *   Your opponent can still Flip Summon monsters.
@@ -12,7 +20,7 @@
 *   The Ⓒ Condition cannot be negated. It is not an Effect.
     *   If there are already more monsters on your opponent's side of the field when you activate "Kaiser Colosseum", nothing happens to them but your opponent cannot Summon any more.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Kaiser%20Colosseum
 

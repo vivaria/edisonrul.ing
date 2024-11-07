@@ -1,6 +1,14 @@
 # The Six Samurai - Kamon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, while you control another "Six Samurai" monster with a different name, you can destroy 1 face-up Spell or Trap Card. This monster cannot declare an attack during the turn this effect is used. ② If this card would be destroyed, you can destroy another "Six Samurai" monster you control instead.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   This effect targets a face-up Spell / Trap Card anywhere on the field.
@@ -21,7 +29,7 @@
         *   Example: If "Mirror Force" would destroy all your face-up "Six Samurai" monsters, you cannot destroy any of them as substitutes.
     *   If you control 2 “Six Samurai” monsters, and 1 of them equipped with “Legendary Ebon Steed” would be destroyed, the effect of “Legendary Ebon Steed” must be used. You cannot choose to destroy another “Six Samurai” monster instead.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=The%20Six%20Samurai%20-%20Kamon
 

@@ -1,6 +1,14 @@
 # Tuningware
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If this card is used for a Synchro Summon, you can treat it as a Level 2 monster. ② If this card is sent to the Graveyard for a Synchro Summon, draw 1 card.
+
+### Card Rulings
 
 *   The ① Unclassified Effect does not activate. It applies while this card is face-up on the field
     *   Applying this effect does not start a chain.
@@ -10,7 +18,7 @@
     *   This effect can activate when "Eccentric Boy" uses this card as Synchro Material from the hand.
     *   This effect cannot activate if the Synchro Summon is negated (by "Black Horn of Heaven").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Tuningware
 

@@ -1,5 +1,15 @@
 # Staunch Defender
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This card only affects face-up Attack Position monsters on your opponent's side of the field that can attack.
 *   Activating the card causes a replay.
 *   Monsters Special Summoned during the Battle Phase after activation of "Staunch Defender" must also attack the monster selected by "Staunch Defender".
@@ -12,7 +22,7 @@
 *   If two "Staunch Defenders" are activated during the same turn, the last one to resolve will be the one that applies.
 *   If "Absolute End" and "Staunch Defender" are both activated during the same turn, the last one to resolve will be the one that applies.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Staunch%20Defender
 

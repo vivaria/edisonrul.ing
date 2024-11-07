@@ -1,6 +1,14 @@
 # Arcanite Magician
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is Synchro Summoned, place 2 Spell Counters on it. ② This card gains 1000 ATK for each Spell Counter on it. ③ You can remove 1 Spell Counter from a card you control to destroy 1 card your opponent controls.
+
+### Card Rulings
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
     *   Spell Counters cannot be placed on face-down monsters (if "Book of Moon" is chained).
@@ -12,7 +20,7 @@
     *   This effect targets 1 card your opponent controls.
     *   This effect can be used more than once per turn.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Arcanite%20Magician
 

@@ -1,8 +1,18 @@
 # Fire Trooper
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Fire Trooper"'s effect is a Trigger Effect. Sending "Fire Trooper" to the Graveyard is a cost.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Fire%20Trooper
 

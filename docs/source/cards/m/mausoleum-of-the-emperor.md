@@ -1,6 +1,14 @@
 # Mausoleum Of The Emperor
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Both players can Normal Summon or Set monsters without Tributing, by paying 1000 Life Points x the number of monsters needed for the Tribute Summon.
+
+### Card Rulings
 
 *   The ① Ignition-like Effect activates & resolves on the field.
     *   Either player can use this effect on their respective turn.
@@ -13,7 +21,7 @@
     *   You cannot use the effect of "Spell Economics" to activate this effect without paying Life Points.
     *   This effect cannot be used when resolving the effect of “Ultimate Offering”, because you cannot activate “Mausoleum of the Emperor’s” effect during the resolution of “Ultimate Offering’s” effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Mausoleum%20of%20the%20Emperor
 

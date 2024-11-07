@@ -1,6 +1,14 @@
 # Uria, Lord Of Searing Flames
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by sending 3 face-up Trap Cards you control to the Graveyard. ① This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. ② Once per turn, you can destroy 1 Set Spell or Trap Card your opponent controls. (2C) Spell and Trap Cards cannot be activated in response to this effect's activation.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon effect does not start a chain.
@@ -13,7 +21,7 @@
 *   The (2C) Condition applies when the ② effect activates, starting a chain.
     *   Your opponent cannot chain "Divine Wrath" to the ② effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Uria,%20Lord%20of%20Searing%20Flames
 

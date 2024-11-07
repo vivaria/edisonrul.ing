@@ -1,6 +1,14 @@
 # Tragoedia
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can Special Summon this card from your hand when you take Battle Damage. ② This card gains 600 ATK and DEF for each card in your hand. ③ Once per turn, you can send 1 monster from your hand to the Graveyard to take control of 1 face-up monster your opponent controls with the same Level as the sent monster. ④ Once per turn, you can select 1 monster in your Graveyard; this card's Level becomes the same as that monster's, until the End Phase.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates & resolves in the hand.
     *   This effect activates in Substep 5 - After Damage Calculation (after Battle Damage is dealt).
@@ -20,7 +28,7 @@
     *   The Level change no longer applies if "Tragoedia" is flipped face-down / leaves the field.
     *   VS. "Level Eater": If "Level Eater" lowered the Level of "Tragoedia", then "Tragoedia" changed its Level by its ④ effect, "Tragoedia" becomes the target's Level until the End Phase (the effect of "Level Eater" is no longer applied, even after the effect of "Tragoedia" disappears). However, if "Tragoedia" changes its Level and later "Level Eater" changes it again: during the End Phase, "Tragoedia"'s effect wears off and the change made by "Level Eater" still applies.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Tragoedia
 

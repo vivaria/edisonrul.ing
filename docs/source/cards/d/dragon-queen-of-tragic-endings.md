@@ -1,6 +1,14 @@
 # Dragon Queen Of Tragic Endings
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by controlling 3 or more face-up Continuous Spell Cards. ① When this attacking card inflicts Battle Damage to your opponent, your opponent selects and sends 1 card from their hand to the Graveyard, and you draw 1 card. ② During your Standby Phase, if this card is in your Graveyard and was sent there from the field, you can send 1 face-up Continuous Spell Card you control to the Graveyard to Special Summon this card from the Graveyard.
+
+### Card Rulings
 
 *   The Ⓢ Special Summon procedure is the only way to properly Summoned this card.
     *   This card can only be Special Summoned by Ⓢ from your hand.
@@ -15,7 +23,7 @@
     *   You don’t have to Special Summon this card the turn after it is sent from the field to the Graveyard. You can wait several turns and then Special Summon it during a later Standby Phase.
     *   This effect cannot activate if this card was removed from the Graveyard after being sent there.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dragon%20Queen%20of%20Tragic%20Endings
 

@@ -1,5 +1,15 @@
 # Gearfried The Swordmaster
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If you Tribute 1 “Gearfried the Iron Knight” to activate “Release Restraint”, then chain “Serial Spell”, you can Special Summon 2 “Gearfried the Swordmaster” cards from your Deck.
 *   The Equip Card must be successfully equipped to “Gearfried the Swordmaster” to activate his effect. For example, if “Mystical Space Typhoon” is chained to the activation of an Equip Card, it is destroyed and sent to the Graveyard before resolving, so the effect of “Gearfried the Swordmaster” does not activate.
 *   If your opponent equips “Snatch Steal” to your “Gearfried the Swordmaster”, the effect of “Snatch Steal” resolves first and control changes. Then the effect of “Gearfried the Swordmaster” activates and your opponent gets to select which monster is destroyed.
@@ -9,7 +19,7 @@
 *   This is a targeting effect that targets 1 monster.
 *   The effect of “Gearfried the Swordmaster” will activate even if a Trap Card is equipped to him (such as “Metalmorph” or “Blast with Chain”).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gearfried%20the%20Swordmaster
 

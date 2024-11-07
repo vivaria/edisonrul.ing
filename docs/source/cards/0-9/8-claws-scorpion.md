@@ -1,6 +1,14 @@
 # 8-Claws Scorpion
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can flip this card into face-down Defense Position. ② When this card attacks an opponent's face-down Defense Position monster, this card's ATK becomes 2400 during damage calculation only.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
     *   If you use this effect, then Flip Summon this card: you cannot used this effect again that turn \[[REF](https://www.edisonformat.com/home/basic-strategy-flip-flop-fundamentals)\].
@@ -9,7 +17,7 @@
     *   The ATK of "8-Claws Scorpion" becomes 2400 during damage calculation. You cannot chain "Rush Recklessly" or "Blast with Chain" to this effect. If these cards were activated before damage calculation, then the ATK of "8-Claws Scorpion" becomes 2400 during damage calculation so those cards have no effect on its ATK.
     *   Even if "8-Claws Scorpion" is equipped with an Equip Spell Card, its ATK is 2400 when it attacks a face-down Defense Position monster.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=8-Claws%20Scorpion
 

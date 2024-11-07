@@ -1,6 +1,14 @@
 # Adhesive Explosive
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If an opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. ② Destroy the equipped monster during the Standby Phase of your opponent's next turn.
+
+### Card Rulings
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect activates in Substep 3 - Before Damage Calculation.
@@ -10,7 +18,7 @@
 *   The ② Continuous-like Effect applies on the field.
     *   This effect is treated as the effect of an Equip Spell Card.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Adhesive%20Explosive
 

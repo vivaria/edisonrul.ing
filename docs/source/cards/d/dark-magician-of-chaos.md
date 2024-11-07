@@ -1,5 +1,15 @@
 # Dark Magician Of Chaos
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Missing the Timing: If “Dark Magician of Chaos” is Special Summoned in the middle of a chain (if it is not the last effect in the chain to resolve), the timing will not be correct for its Optional Trigger Effect, so you do NOT return a Spell Card from your Graveyard to your hand.
 *   "Dark Magician of Chaos" is NOT removed from play if it is destroyed in your hand or Deck.
 *   You can Special Summon "Dark Magician of Chaos" with "Monster Reborn", and then return the "Monster Reborn" to your hand with "Dark Magician of Chaos"' effect.

@@ -1,5 +1,15 @@
 # Weapon Change
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Weapon Change" applies to the current ATK & DEF.
 *   "Weapon Change"'s effect targets 1 monster. You select the monster when you activate "Weapon Change"'s effect.
 *   If you use "Weapon Change"'s effect on "Freed the Matchless General", "Weapon Change" is destroyed.
@@ -9,7 +19,7 @@
 *   If you switch a monster's ATK/DEF with "Weapon Change", and then apply a new modifier, apply it to the switched ATK/DEF. Then, after "Weapon Change"'s effect ceases, re-apply the modifier to the reverted ATK/DEF once again.
 *   If you use "Weapon Change" to make "Gear Golem" into a 2200/800 monster, then use "Limiter Removal" to make it 4400/800, then destroy "Weapon Change", "Gear Golem" is 800/4400.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Weapon%20Change
 

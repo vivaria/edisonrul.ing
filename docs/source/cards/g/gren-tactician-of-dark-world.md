@@ -1,8 +1,18 @@
 # Gren, Tactician Of Dark World
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This is a Trigger Effect. This effect targets.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gren,%20Tactician%20of%20Dark%20World
 

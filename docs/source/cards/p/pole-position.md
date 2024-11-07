@@ -1,6 +1,14 @@
 # Pole Position
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① The face-up monster(s) with the highest ATK on the field is unaffected by the effects of Spell Cards. ② When "Pole Position" is removed from the field, destroy the face-up monster(s) with the highest ATK on the field.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect does not start a chain.
 *   The ① Continuous-like Effect can become responsible for "voluntary" and "involuntary" infinite loops. Any "voluntary" action that would result in an infinite loop is simply an illegal action that players CANNOT perform. If an "involuntary" action (such as drawing a card during your Draw Phase) creates an infinite loop, the card responsible for the loop is destroyed by game mechanics.
@@ -10,7 +18,7 @@
     *   Example 4: Player A has a "[Pole Position](https://yugipedia.com/wiki/Pole_Position)" and an "[Opticlops](https://yugipedia.com/wiki/Opticlops)" face-up on the field. Player B has a "[Muka Muka](https://yugipedia.com/wiki/Muka_Muka)" equipped with an "[Axe of Despair](https://yugipedia.com/wiki/Axe_of_Despair)" face-up on the field with no cards in his hand. Player B draws a card at the start of his turn, making "[Muka Muka](https://yugipedia.com/wiki/Muka_Muka)"'s ATK rise to 1900. Since "[Muka Muka](https://yugipedia.com/wiki/Muka_Muka)" is now the monster on the field with the highest ATK, it becomes unaffected by the effects of Spell Cards. But once unaffected by the effects of Spell Cards, "[Muka Muka](https://yugipedia.com/wiki/Muka_Muka)" no longer has the highest ATK on the field. An "involuntary" infinite loop has been created by an action that could not be avoided. Therefore, "[Pole Position](https://yugipedia.com/wiki/Pole_Position)" is destroyed by game mechanics.
 *   The ② Continuous-like Effect does NOT start a chain. The monster is destroyed simultaneously with "Pole Position" being removed from the field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Pole%20Position
 

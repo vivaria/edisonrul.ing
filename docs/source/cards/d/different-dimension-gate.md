@@ -1,5 +1,15 @@
 # Different Dimension Gate
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You select the monsters when you activate "Different Dimension Gate".
 *   If one player has no monsters on the field, you cannot activate "Different Dimension Gate".
 *   The controller of "Different Dimension Gate" selects both monsters.
@@ -15,7 +25,7 @@
 *   When you select "Guardian Kay'est" or "The Legendary Fisherman" as a target of "Different Dimension" gate, only the other monster is removed and returns to the field when "Different Dimension Gate" is destroyed.
 *   You can only use "Different Dimension Gate’s” effect when it is activated, even though it is a Continuous Spell Card.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Different%20Dimension%20Gate
 

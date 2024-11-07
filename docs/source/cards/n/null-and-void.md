@@ -1,5 +1,15 @@
 # Null And Void
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can only chain "Null and Void" to an effect that draws cards and does nothing else. You can chain "Null and Void" to the activation of "Pot of Greed" or "Jar of Greed". You can chain "Null and Void" to the activation of the effect of cards like "Airknight Parshath".
 *   You can chain "Null and Void" to a Continuous Spell or Trap Card that causes drawing, such as "Mirage of Nightmare" or "Heart of the Underdog".
 *   You cannot chain "Null and Void" to "Disturbance Strategy", "Graceful Charity", "Card Destruction", "Morphing Jar", "Mind Wipe", "Dragged Down into the Grave", or "Reload".

@@ -1,6 +1,14 @@
 # Freed The Matchless General
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Negate the effect of any Spell Card that targets this card and destroy it. ② You can add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand instead of conducting a normal draw in your Draw Phase.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   This effect does not apply while Freed is in the Graveyard / removed from play.
@@ -15,7 +23,7 @@
     *   If you control two copies of "Freed the Matchless General", you can only activate the effect of one.
     *   This card must be face-up on the field to activate and to resolve this effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Freed%20the%20Matchless%20General
 

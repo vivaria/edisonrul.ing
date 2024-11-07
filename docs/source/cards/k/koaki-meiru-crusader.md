@@ -1,8 +1,18 @@
 # Koa’Ki Meiru Crusader
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This effect targets 1 “Koa’ki Meiru” card in your Graveyard. If this card battles a monster with the same ATK and both are destroyed, its effect will activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Koa'ki%20Meiru%20Crusader
 

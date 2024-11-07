@@ -1,6 +1,14 @@
 # Stardust Dragon/Assault Mode
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > This card cannot be Normal Summoned or Set. Ⓒ This card cannot be Special Summoned except with its own effect or with "Assault Mode Activate". ① You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card. ② If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase. ③ When this card on the field is destroyed, you can Special Summon 1 "Stardust Dragon" from your Graveyard.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated. It must first be Special Summoned by "Assault Mode Activate".
     *   You cannot Special Summon this card with "Call of the Haunted", only its own effect.
@@ -21,7 +29,7 @@
     *   Even if a "[Red Dragon Archfiend/Assault Mode](https://yugipedia.com/wiki/Red_Dragon_Archfiend/Assault_Mode)" etc. in the Spell & Trap Zone that is treated as an Equip Card is destroyed, you can Special Summon "Red Dragon Archfiend" etc. from your Graveyard (this ruling also applies to "Stardust Dragon/Assault Mode").
     *   If a "[Red Dragon Archfiend/Assault Mode](https://yugipedia.com/wiki/Red_Dragon_Archfiend/Assault_Mode)" Special Summoned by "[Assault Revival](https://yugipedia.com/wiki/Assault_Revival)" is destroyed and banished, since its effect that activates when it leaves the field is not negated, you can Special Summon "Red Dragon Archfiend" (this ruling applies to "Stardust Dragon/Assault Mode").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Stardust%20Dragon%20Assault%20Mode
 

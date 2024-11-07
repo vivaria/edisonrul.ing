@@ -1,6 +1,14 @@
 # Arsenal Bug
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If there are no face-up Insect-Type monsters (except this monster) on your side of the field, both the ATK and DEF of this monster become 1000 points.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
     *   If you have 2 "Arsenal Bugs" on your side of the field, each has ATK 2000.
@@ -9,7 +17,7 @@
     *   When "Arsenal Bug" is Summoned and there are no other Insect-Type monsters on your side of the field, "Bottomless Trap Hole" can't activate because its ATK is 1000 when Summoned.
     *   If you equip "Megamorph" to "Arsenal Bug" then its ATK will be 4000 or 1000, depending on "Megamorph"’s effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Arsenal%20Bug
 

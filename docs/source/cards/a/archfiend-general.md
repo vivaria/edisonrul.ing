@@ -1,6 +1,14 @@
 # Archfiend General
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can discard this card to the Graveyard to add 1 "Pandemonium" from your Deck to your hand. ② If this card is on the field but "Pandemonium" is not on the field, destroy this card.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves in the hand.
     *   Discarding this card to the Graveyard is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
@@ -9,7 +17,7 @@
     *   Destroying this card does not use the Chain.
     *   This effect does not apply while this card's effects are negated (by "Skill Drain").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Archfiend%20General
 

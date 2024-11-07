@@ -1,6 +1,14 @@
 # Spell Canceller
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① As long as this card remains face-up on the field, Spell Cards cannot be activated. ② The effects of all Spell Cards are also negated.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies on the field.
     *   Players CANNOT activate(play face-up) Spell Card. This does not "_negate the activation_" of Spell Cards (the way "Dark Bribe" does), and so "Spiritualism" cannot be played.
@@ -13,7 +21,7 @@
     *   VS. Named / Spell Counters: Remove all Clock Counters from "Clock Tower Prison".
     *   VS. "Premature Burial": "Spell Canceller" is not destroyed by the effect of "Premature Burial".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Spell%20Canceller
 

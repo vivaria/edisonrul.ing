@@ -1,8 +1,18 @@
 # Trap Dustshoot
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can select your own card that was taken by your opponent with "Exchange". The card returns to the owner's deck (yours, in this case).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Trap%20Dustshoot
 

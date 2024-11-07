@@ -1,6 +1,14 @@
 # Barrel Behind The Door
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.
+
+### Card Rulings
 
 *   This card can only be Chained to an activated effect that inflicts damage to YOUR Life Points.
     *   You can activate "Barrel Behind the Door" against "Jigen Bakudan". You don’t activate "Barrel Behind the Door" when the Flip Effect activates, you activate "Barrel Behind the Door" when "Jigen Bakudan" activates its effect during the next Standby Phase to inflict damage.
@@ -13,7 +21,7 @@
     *   Example: "Magical Thorn", "Dark Snake Syndrome", "Wave-Motion Cannon", or "Black Pendant".
 *   This card can't be Chained to Continuous Effects (ex: "Fire Princess") since they don't activate.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Barrel%20Behind%20the%20Door
 

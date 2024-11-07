@@ -1,6 +1,14 @@
 # Alien Dog
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When you Normal Summon an "Alien" monster, you can Special Summon this card from your hand. ② When you do, place 2 A-Counters on face-up monster(s) your opponent controls.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates & resolves in the hand.
     *   This effect activates in the Summon response timing (like "Trap Hole").
@@ -12,7 +20,7 @@
     *   You may place both A-Counters on a single monster, or one on each of two monsters.
     *   The effects of “Alien Dog” do not target. You select the monster(s) when the effect resolves.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Alien%20Dog
 

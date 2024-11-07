@@ -1,9 +1,19 @@
 # Threatening Roar
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You can activate “Threatening Roar” in response to an attack, but the attack has already been declared so it will resolve normally. After that, your opponent cannot attack for the rest of the turn.
 *   You cannot activate “Threatening Roar” during your own turn.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Threatening%20Roar
 

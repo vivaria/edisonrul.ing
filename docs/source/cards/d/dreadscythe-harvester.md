@@ -1,8 +1,18 @@
 # Dreadscythe Harvester
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   “Dreadscythe Harvester’s” effect is an Ignition Effect. Tributing 1 Insect-Type monster is a cost to activate this effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dreadscythe%20Harvester
 

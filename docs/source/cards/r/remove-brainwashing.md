@@ -1,6 +1,14 @@
 # Remove Brainwashing
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > As long as this card remains face-up on the field, the control of all monsters on the field returns to the original owners.
+
+### Card Rulings
 
 *   The Continuous-like Effect does not activate.
     *   Monsters like "Lava Golem" return to their owner's side of the field.
@@ -17,7 +25,7 @@
 *   VS. "[Vengeful Servant](https://yugipedia.com/wiki/Vengeful_Servant)": if the equipped monster changes control, it will immediately switch back before the effect of "Vengeful Servant" can activate. Afterwards, "Vengeful Servant" will activate once, and inflict damage to the equipped monster's current controller: its original owner.
 *   When your opponent activates "Autonomous Action Unit" and Special Summons your Synchro Monster to his field, if "Remove Brainwashing" is on the field, then the monster is still considered to have been Special Summoned to your opponent's field, even though it is now on your side of the field. Thus, you can activate the effect of "Shiny Black "C" to destroy the Synchro Monster, even though it is on your side of the field.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Remove%20Brainwashing
 

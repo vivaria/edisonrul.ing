@@ -1,6 +1,14 @@
 # Starlight Road
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Activate only when an effect is activated that would destroy 2 or more cards you control. Negate the effect and destroy that card. Then, you can Special Summon 1 “Stardust Dragon” from your Extra Deck.
+
+### Card Rulings
 
 *   This card can be activated when an effect would destroy 2(+) cards on the field simultaneously, even if some cards would be unaffected (ex: "Elemental Hero Wildheart" is unaffected by "Torrential Tribute").
     *   This card cannot be activated if an effect would only destroy 1 card you control (ex: "Celestia, Lightsworn Angel" / "Gladiator Beast Gyzarus" only targets 1 card with its effect).
@@ -13,7 +21,7 @@
     *   Example: Player A activates "Heavy Storm" and chains "Starlight Road" (Chain Link 2), Player B activates "Mystical Space Typhoon" (Chain Link 3) targeting "Heavy Storm". "Mystical Space Typhoon" destroys "Heavy Storm", "Starlight Road" negates the effect of "Heavy Storm" but didn't destroy it (Player A can't Summon "Stardust Dragon"), and "Heavy Storm" resolves negated.
     *   Example: Player A Synchro Summon "Black Rose Dragon" and activates its effect to destroy all cards on the field. Player B activates "Starlight Road". Resolving the chain: "Starlight Road" negates the effect of "Black Rose Dragon" and destroys it, Player B chooses to Special Summon 1 "Stardust Dragon", finally then the effect of "Black Rose Dragon" resolves negated. Player A cannot activate "Torrential Tribute" at this time, because "Stardust Dragon" was Summoned as Chain Link 2(+).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Starlight%20Road
 

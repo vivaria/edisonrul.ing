@@ -1,5 +1,15 @@
 # Grave Protector
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Grave Protector"'s effect is not applied to itself when it is destroyed as a result of battle.
 *   Effects like "Mystic Tomato", etc., are not activated while "Grave Protector" is face-up on the field.
 *   A monster destroyed by "Dark Magician of Chaos" or "Lesser Fiend" is returned to the Deck instead of being removed from play.
@@ -10,7 +20,7 @@
 *   If "Grave Protector" is on the field when a monster like "Black Luster Soldier - Envoy of the Beginning" or "Great Dezard" (with an effect based on when they destroy a monster in battle) battles and destroys a monster, then the "Great Dezard", etc., still gets the reward for destroying the monster even though the destroyed monster was shuffled into the Deck instead of being sent to the Graveyard.
 *   If "Grave Protector" is on the field, a monster destroyed by "Sword Hunter" is shuffled into the Deck instead of becoming an Equip Spell Card.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Grave%20Protector
 

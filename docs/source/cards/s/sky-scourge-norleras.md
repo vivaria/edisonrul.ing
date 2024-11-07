@@ -1,6 +1,14 @@
 # Sky Scourge Norleras
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by removing from play 1 LIGHT Fairy-Type monster and 3 DARK Fiend-Type monsters in your Graveyard. ① You can pay 1000 Life Points to send all cards on the field and in both players' hands to the Graveyard, then you draw 1 card.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon Condition does not start a Chain when Summoning this card from the hand.
@@ -11,7 +19,7 @@
     *   This effect does not target.
     *   Both parts of this effect occur simultaneously \[[REF](https://yugioh.fandom.com/wiki/Forum:Peten_vs._Norleras)\].
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Sky%20Scourge%20Norleras
 

@@ -1,5 +1,15 @@
 # Spider’S Lair
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This effect targets 1 face-up Insect-Type monster you control. It is targeted continuously.
 *   You can activate this effect targeting your Insect-Type monster during your Main Phase. It starts a Chain.
 *   The effect to change your opponent’s monster to Defense Position is applied after damage calculation.
@@ -9,7 +19,7 @@
 *   If your opponent’s monster is not changed to Defense Position by “Spider’s Lair” then the effect to keep it in Defense Position is not applied.
 *   Changing your opponent’s monster to Defense Position does not start a Chain.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Spiders'%20Lair
 

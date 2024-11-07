@@ -1,6 +1,14 @@
 # Frozen Soul
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > You can only activate this card when your Life Points are at least 2000 lower than your opponent's. Skip your opponent's next Battle Phase.
+
+### Card Rulings
 
 *   If you activate "Frozen Soul", and your opponent skips his next Battle Phase somehow, his Battle Phase of the next turn is skipped with "Frozen Soul" \[[REF](https://www.pojo.biz/board/showpost.php?p=5706059&postcount=6)\].
     *   "Skipping a Phase" is not the same as "Conducting a Phase". Since the Battle Phase is optional, declare your intent to Conduct your Battle Phase (state you are entering the Battle Phase) in order to Skip it. Players are responsible for declaring they wish to conduct the Battle Phase.
@@ -10,7 +18,7 @@
 *   While "Frozen Soul" applies, you cannot activate "Last Turn" as it involves conducting a Battle Phase.
 *   When you activate "Frozen Soul", and effects are chained that result in the Life Point difference being less than 2000, "Frozen Soul"'s effect still resolves.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Frozen%20Soul
 

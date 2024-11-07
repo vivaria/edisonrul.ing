@@ -1,8 +1,10 @@
 # Ultimate Obedient Fiend
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 If you control "Ultimate Obedient Fiend" and have no hand and no other monsters, but you have Spell or Trap Cards on the field, "Ultimate Obedient Fiend" cannot attack.
   
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ultimate%20Obedient%20Fiend
 

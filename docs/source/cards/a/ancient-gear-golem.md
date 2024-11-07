@@ -1,6 +1,14 @@
 # Ancient Gear Golem
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Special Summoned. ① During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. ② If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
     *   This card cannot be Special Summoned face-down by "The Shallow Grave".
@@ -15,7 +23,7 @@
     *   The effects of face-up Spell / Trap Cards can still activate (ex: “Ultimate Offering” or “Skull Lair”).
     *   Spell / Trap Cards cannot be activated (flipped face-up / played from the hand).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ancient%20Gear%20Golem
 

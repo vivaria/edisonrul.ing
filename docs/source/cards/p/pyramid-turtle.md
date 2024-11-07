@@ -1,8 +1,18 @@
 # Pyramid Turtle
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You may Special Summon a high-level monster with "Pyramid Turtle"'s effect (like "Vampire Lord" or "Ryu Kokki"), but not a Special-Summon only monster (like "Spirit of the Pharaoh").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Pyramid%20Turtle
 

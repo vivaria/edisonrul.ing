@@ -1,6 +1,14 @@
 # Phantom Of Chaos
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Any Battle Damage this monster inflicts to your opponent becomes 0. ② Once per turn, you can remove from play 1 Effect Monster in your Graveyard. Until the End Phase, this card's name is treated as that monster's name, and it gains that monster's effect(s) and ATK.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies so long as this card is face-up on the field.
 *   The ② Ignition Effect activates & resolves on the field.
@@ -15,7 +23,7 @@
     *   VS. "Prohibition": if a card is named, and later "Phantom of Chaos" copied its name, ATK, and effects, then it cannot attack, change its Battle Position, etc.
     *   VS. "Skill Drain": If you use "Phantom of Chaos'" effect to copy the name, ATK, and effect(s) of a DARK monster and afterwards "Skill Drain" is activated, the copied effect(s) are negated, but the copied name and ATK are not negated. If you activate "Phantom of Chaos'" effect and "Skill Drain" is chained, the target is not removed from play, and the effect resolves negated.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Phantom%20of%20Chaos
 

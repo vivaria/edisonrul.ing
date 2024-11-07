@@ -1,6 +1,14 @@
 # Ancient Gear Castle
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Face-up "Ancient Gear" monsters gain 300 ATK. ② Each time a monster(s) is Normal Summoned or Set, put 1 counter on this card. ③ If you Tribute Summon an "Ancient Gear" monster, you can substitute this card for a Tribute(s), if the number of counters is equal to or greater than the number of required Tribute(s).
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies to "Ancient Gear" monsters on BOTH sides of the field.
 *   The ② Continuous-like Effect does not start a Chain.
@@ -13,7 +21,7 @@
     *   This is not an extra Normal Summon, it only substitutes the monster(s) to be Tributed.
     *   This effect does not apply for a Tribute Set.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ancient%20Gear%20Castle
 

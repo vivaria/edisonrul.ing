@@ -1,5 +1,15 @@
 # Berserk Gorilla
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If a face-down "Berserk Gorilla" is attacked and flipped face-up, it's destroyed after damage calculation.
 *   If a face-down "Berserk Gorilla" is flipped face-up by "Swords of Revealing Light", it's destroyed after resolving "Swords of Revealing Light".
 *   "Berserk Gorilla" cannot attack if "Swords of Revealing Light", multiple "Marauding Captains", etc. are in play.
@@ -9,7 +19,7 @@
 *   If "The Dark Door" is active and you control "Berserk Gorilla" and another monster, you can choose for your other monster to be the 1 monster that attacks.
 *   If you control “Berserk Gorilla” you must enter your Battle Phase, even if “Gravity Bind” is active on the field, preventing it from attacking.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Berserk%20Gorilla
 

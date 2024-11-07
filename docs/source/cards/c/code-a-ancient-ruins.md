@@ -1,6 +1,14 @@
 # Code "A" Ancient Ruins
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Each time a face-up "Alien" monster(s) is destroyed, place 1 A-Counter on this card. ② Once per turn, you can remove 2 A-Counters from anywhere on the field to Special Summon 1 "Alien" monster from your Graveyard.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect does not start a chain.
     *   No A-Counter is placed on this card if an "Alien" monster face-down when an attack is declared.
@@ -8,7 +16,7 @@
     *   Removing 2 A-Counters from this card is a cost.
     *   This card must remain face-up on the field in order to resolve this effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Code%20A%20Ancient%20Ruins
 

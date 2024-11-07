@@ -1,5 +1,15 @@
 # Ring Of Destruction
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   You cannot activate "Ring of Destruction" during the Damage Step.
 *   "Ring of Destruction" inflicts damage based on the current (total) ATK value, NOT the original ATK.
 *   This card targets a monster.

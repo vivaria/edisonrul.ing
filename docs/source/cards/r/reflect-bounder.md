@@ -1,5 +1,15 @@
 # Reflect Bounder
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Reflect Bounder" inflicts its effect damage, then damage calculation is applied normally, then "Reflect Bounder" is destroyed by its own effect.
 *   When an Attack Position "Reflect Bounder" is attacked, it is destroyed by its own effect even if the ATK of "Reflect Bounder" is lower than the ATK of the attacking monster.
 *   The damage inflicted by "Reflect Bounder"'s effect is not Battle Damage, so it cannot be reduced to 0 with "Waboku".
@@ -10,7 +20,7 @@
 *   "Reflect Bounder"'s effect does not target.
 *   If "Reflect Bounder" is attacked by "D. D. Warrior Lady", and the effect of "Reflect Bounder" is activated, "Reflect Bounder" inflicts damage, damage calculation is performed, and "Reflect Bounder" destroys itself with its own effect and is sent to the Graveyard, so even if "D. D. Warrior Lady" activates her effect, "Reflect Bounder" is not removed from play because it is already in the Graveyard.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Reflect%20Bounder
 

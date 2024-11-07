@@ -1,6 +1,14 @@
 # D.D. Survivor
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is removed from play while face-up on your side of the field, you Special Summon it during the End Phase.
+
+### Card Rulings
 
 *   The ① mandatory Trigger Effect activates & resolves while this card is banished in the End Phase.
     *   This effect can only be activated once per turn by each copy of "D.D. Survivor".
@@ -10,7 +18,7 @@
 *   VS. "Return from the Different Dimension": If "D.D. Survivor" is Special Summoned by Return, when it is banished during the End Phase its effect will trigger during that same End Phase.
 *   VS. "Divine Wrath": If the effect of "D.D. Survivor" is negated, it remains banished (its effect doesn't activate again).
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=D.D.%20Survivor
 

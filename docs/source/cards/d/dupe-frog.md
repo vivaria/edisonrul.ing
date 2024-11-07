@@ -1,6 +1,14 @@
 # Dupe Frog
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① This card's name is treated as "Des Frog" while it is face-up on the field. ② Your opponent cannot select another monster as an attack target. ③ When this card is sent from the field to the Graveyard, you can add 1 "Frog" monster except "Dupe Frog" or "Frog the Jam" from your Deck or Graveyard to your hand.
+
+### Card Rulings
 
 *   The ① Continuous Effect causes "Dupe Frog" to be counted towards the effect of "Des Croaking".
 *   The ② Continuous Effect applies while face-up on the field. It can be negated by "Skill Drain".
@@ -14,7 +22,7 @@
     *   This effect WILL activate if "Dupe Frog" is destroyed by Battle and sent to the Graveyard.
     *   This effect WILL activate if "Dupe Frog" is sent to the Graveyard as the last part of Chain Link 1.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dupe%20Frog
 

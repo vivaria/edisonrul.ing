@@ -1,5 +1,7 @@
 # Archfiends
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
 The following rulings apply to "Vilepawn Archfiend", "Desrook Archfiend", "Shadowknight Archfiend", "Darkbishop Archfiend", "Infernalqueen Archfiend", "Terrorking Archfiend", and "Skull Archfiend of Lightning".
 
 *   If you don't have enough Life Points to pay for an Archfiend, the Archfiend is destroyed and you don't pay the cost.

@@ -1,5 +1,15 @@
 # Viser Des
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   “Viser Des” targets 1 monster your opponent controls.
 *   If your opponent takes control of “Viser Des” its effect will no longer apply.
 *   If “Viser Des” is equipped to “Relinquished” its effect will no longer apply. You cannot use “My Body as a Shield” against this effect.
@@ -9,7 +19,7 @@
 *   You can target a face-down monster with the effect of “Viser Des.”
 *   If “Viser Des” or the targeted monster is removed from the field before your 3rd Standby Phase, even temporarily, all effects of “Viser Des” will stop being applied.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Viser%20Des
 

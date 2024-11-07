@@ -1,5 +1,15 @@
 # Ogre Of Scarlet Sorrow
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This effect does not target.
 *   If this card is Summoned and a replay occurs, your opponent can either choose to attack this card or choose not to attack with that monster.
 *   If you have both “Ogre of the Scarlet Sorrow” and “Battle Fader” in your hand when your opponent declares their second direct attack, you can only activate the effect of one of them.

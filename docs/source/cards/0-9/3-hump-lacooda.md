@@ -1,6 +1,14 @@
 # 3-Hump Lacooda
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① If there are 3 face-up "3-Hump Lacooda" cards on your side of the field, Tribute 2 of them to draw 3 cards.
+
+### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
 *   You don't have to activate "3-Hump Lacooda"'s effect just because you have 3 copies in play.
@@ -9,7 +17,7 @@
 *   If your opponent chains "Ring of Destruction" or "Book of Moon" to the activation of "3-Hump Lacooda"'s effect, the effect is not negated.
 *   If you Summon your third "3-Hump Lacooda", you can activate its effect before your opponent activates "Torrential Tribute".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=3-Hump%20Lacooda
 

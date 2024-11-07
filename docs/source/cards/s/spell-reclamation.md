@@ -1,5 +1,15 @@
 # Spell Reclamation
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This effect does not target.
 *   This card can be chained to any type of Spell Card (Normal, Continuous, Quick-Play or Equip or Field.).
 *   This card’s effect to return the Spell Card to its owner’s hand does not start a Chain.
@@ -11,7 +21,7 @@
 *   If "Spell Reclamation" is chained to a Spell Card's activation, and "Mystical Space Typhoon", etc. is chained to "Spell Reclamation" targeting the same Spell Card, that Spell Card will not return to its owner's hand because it is destroyed before "Spell Reclamation" resolves.
 *   If a Spell Card that has an effect that activates when it is sent to the Graveyard, like "Black Pendant" or "Lucky Iron Axe", is affected by "Spell Reclamation", that Spell Card's effect will activate, and it will be returned to its owner's hand before resolving the effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Spell%20Reclamation
 

@@ -1,6 +1,14 @@
 # Snowman Eater
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When this card is flipped face-up, destroy 1 face-up monster on the field.
+
+### Card Rulings
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
     *   This effect targets 1 face-up monster on the field.
@@ -8,7 +16,7 @@
     *   This effect can activate when flipped face-up by a card effect (no Flip Summon required).
     *   This effect can activate in Substep 6 - Resolve Effects if flipped face-up by Battle.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Snowman%20Eater
 

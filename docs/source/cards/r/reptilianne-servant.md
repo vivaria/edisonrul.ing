@@ -1,8 +1,18 @@
 # Reptilianne Servant
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If “Spirit Reaper” is Special Summoned by “Call of the Haunted” while “Reptilianne Servant” is face-up on the field, both monsters are destroyed after “Call of the Haunted” resolves.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Reptilianne%20Servant
 

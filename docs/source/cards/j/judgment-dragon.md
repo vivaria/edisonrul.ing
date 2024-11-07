@@ -1,6 +1,14 @@
 # Judgment Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Normal Summoned or Set. Ⓢ This card cannot be Special Summoned except by having 4 or more "Lightsworn" monsters with different names in your Graveyard. ① You can pay 1000 Life Points to destroy all other cards on the field. ② During each of your End Phases, send the top 4 cards of your Deck to the Graveyard.
+
+### Card Rulings
 
 *   This Ⓢ Special Summon effect does not start a chain.
     *   This card can ONLY be special summoned from the hand by this effect.
@@ -14,7 +22,7 @@
     *   If an effect chained to a “Lightsworn” monster’s (or “Judgment Dragon’s”) effect to send cards from your Deck to the Graveyard during the End Phase that removes that “Lightsworn” monster from the field, the “Lightsworn” monster’s effect does not resolve.
     *   See “Jain, Lightsworn Paladin” for additional rulings.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Judgment%20Dragon
 

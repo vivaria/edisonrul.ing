@@ -1,6 +1,14 @@
 # Ultimate Offering
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ①_ _You can pay 500 Life Points to Normal Summon or Set 1 extra monster. You can only activate this effect during your Main Phase or your opponent's Battle Phase.
+
+### Card Rulings
 
 *   The ① Quick-like Effect activates & resolves on the field. This card must remain face-up to resolve.
     *   Paying 500 Life Points is a cost.
@@ -12,7 +20,7 @@
     *   This effect can be activated during your Main Phase or your opponent’s Battle Phase.
     *   If this card is face-up, you can activate this effect multiple times in the same Chain. If you cannot perform every Normal Summon / Set when resolving the chain: reveal your hand to verify.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ultimate%20Offering
 

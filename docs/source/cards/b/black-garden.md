@@ -1,6 +1,14 @@
 # Black Garden
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When a monster is Normal or Special Summoned, except by the effect of “Black Garden”, halve its ATK and Special Summon 1 “Rose Token” (Plant-Type/DARK/Level 2/ATK 800/DEF 800) to its controller’s opponent’s side of the field, in Attack Position. ② You can destroy this card and all face-up Plant-Type monsters on the field and Special Summon 1 monster with ATK equal to the total ATK of those monsters from your Graveyard.
+
+### Card Rulings
 
 *   The ① mandatory Trigger-like Effect CANNOT miss the timing.
     *   Player A performs a Normal Summon, causing "Black Garden" to activate. Player A chooses which Zone the "Rose Token" is Summoned to, and is considered its _owner_ (for "Remove Brainwashing").
@@ -28,7 +36,7 @@
 *   "Royal Oppression" CANNOT be activated when "Black Garden" is activated (played face-up).
     *   "Royal Oppression" (and its effect) can chain to either of "Black Garden"'s effects.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Black%20Garden
 

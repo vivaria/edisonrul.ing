@@ -1,6 +1,14 @@
 # Grandmaster Of The Six Samurai
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓤ You can only control 1 "Grandmaster of the Six Samurai" monster. Ⓢ While you control a face-up "Six Samurai" monster, you can Special Summon this card from your hand. ① When this card is destroyed by your opponent's card effect, add 1 "Six Samurai" monster from your Graveyard to your hand.
+
+### Card Rulings
 
 *   Ⓤ is an Unclassified Effect.
     *   You CANNOTsummon a "Grandmaster of the Six Samurai" while one is already face-up under your control, however you can Tribute Set further copies.
@@ -15,7 +23,7 @@
     *   your opponent uses your "Royal Oppression" to negate this card's built-in Special Summon.
     *   the Continuous Effect of your other "Six Samurai" destroyed Grandmaster as a substitute.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Grandmaster%20of%20the%20Six%20Samurai
 

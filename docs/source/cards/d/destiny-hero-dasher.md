@@ -1,6 +1,14 @@
 # Destiny Hero - Dasher
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, by Tributing 1 monster, this card gains 1000 ATK until the end of this turn. ② If this card attacks, it is changed to Defense Position at the end of the Battle Phase. ③ While this card is in the Graveyard, one time only, when you draw a Monster Card during your Draw Phase you can show it to your opponent and Special Summon it.
+
+### Card Rulings
 
 *   The ① Ignition Effect Tributes 1 monster you control as cost.
     *   If "Soul Exchange" targeted your opponent's monster, you can Tribute it for this effect.
@@ -15,7 +23,7 @@
     *   If you draw 2+ monsters simultaneously (by "Reload") while 2 copies of Dasher are in your Graveyard: you may activate both in a chain.
     *   VS. "Drastic Drop Off": Your turn player priority allows Dasher's effect to be Chain Link 1. However, your opponent can chain "Drastic Drop Off" to discard the Monster Card you drew.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Dasher
 

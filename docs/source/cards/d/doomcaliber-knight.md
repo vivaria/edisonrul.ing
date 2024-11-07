@@ -1,6 +1,14 @@
 # Doomcaliber Knight
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Ⓒ This card cannot be Special Summoned. ① When an Effect Monster’s effect is activated, you must Tribute this card. Negate that effect’s activation, and destroy the monster.
+
+### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
 *   The ① mandatory Quick Effect MUST activate whenever its activation requirement is met.
@@ -23,7 +31,7 @@
 *   Example 4: If "Sangan" is Tributed to Tribute Summon "Raiza the Storm Monarch" while "Doomcaliber Knight" is face-up on the field, "Sangan"'s effect is Chain Link 1 and "Raiza the Storm Monarch"'s effect is Chain Link 2. "Doomcaliber Knight"'s effect is chained, negating "Raiza the Storm Monarch"'s effect and destroying it.
 *   Example 5: Player A's "Sasuke Samurai #4" attacks Player B's "Neo-Spacian Grand Mole" while "Doomcaliber Knight" is face-up on the field. "Sasuke Samurai #4"'s effect is Chain Link 1 and "Neo-Spacian Grand Mole" is Chain Link 2. "Doomcaliber Knight"'s effect is chained, and it will negate and destroy "Neo-Spacian Grand Mole".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Doomcaliber%20Knight
 

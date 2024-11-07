@@ -1,6 +1,14 @@
 # Chaos Sorcerer
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned by removing from play 1 LIGHT and 1 DARK monster in your Graveyard. ① Once per turn, during your Main Phase, you can remove from play 1 face-up monster on the field. Ⓒ If you activate this effect, this card cannot attack this turn.
+
+### Card Rulings
 
 *   The Ⓢ Special Summon effect does not start a chain.
     *   If successfully summoned, "Chaos Sorcerer" can later be Summoned by "Call of the Haunted".
@@ -15,7 +23,7 @@
 *   The Ⓒ Condition DOES NOT APPLY IF:
     *   the activation of the ① effect was negated by "Divine Wrath".
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Chaos%20Sorcerer
 

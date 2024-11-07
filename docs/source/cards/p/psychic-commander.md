@@ -1,6 +1,14 @@
 # Psychic Commander
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① When a Psychic-Type monster you control battles, during the Damage Step you can pay Life Points in multiples of 100 (max. 500) to have the monster it's battling lose that much ATK and DEF, until the End Phase.
+
+### Card Rulings
 
 *   The ① Quick Effect activates & resolves on the field.
     *   This effect targets the opponent's monster.
@@ -9,7 +17,7 @@
     *   Each copy of "Psychic Commander" can use its effect during a single Damage Step.
 *   VS. [Brain Research Lab](https://yugipedia.com/wiki/Card_Rulings:Brain_Research_Lab): You cannot place a Psychic Counter on "Brain Research Lab" for this effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Psychic%20Commander
 

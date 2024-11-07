@@ -1,5 +1,15 @@
 # Horus The Black Flame Dragon LV6
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The "you" in "on your side of the field" is the current controller’s field, so as long as "Horus the Black Flame Dragon LV 6" is face-up, it is always "face-up on your side of the field".
 *   If you don’t have "Horus the Black Flame Dragon LV8" in your hand or Deck, you cannot send "Horus the Black Flame Dragon LV6" to the Graveyard to activate its effect.
 *   You cannot Tribute "Horus the Black Flame Dragon LV 6" for "Ectoplasmer"’s effect because it is not a cost, it is a Tribute when you resolve "Ectoplasmer"’s effect, and "Horus the Black Flame Dragon LV6" is not affected by Spell Cards’ effects.
@@ -8,7 +18,7 @@
 *   You can activate "Level Up!" and send "Horus the Black Flame Dragon LV 6" to the Graveyard to Special Summon "Horus the Black Flame Dragon LV 8" because sending 1 monster to the Graveyard is a cost for "Level Up!" and if a card is unaffected by Spell Cards, that only refers to effects, not to costs.
 *   If a level monster fulfills its condition to Special Summon the next-highest level (for example, if "Armed Dragon LV5" destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the Graveyard and then Special Summoned from the Graveyard, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Horus%20the%20Black%20Flame%20Dragon%20LV6
 

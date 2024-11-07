@@ -1,9 +1,19 @@
 # Molten Zombie
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If you Special Summon "Molten Zombie" face-down with "The Shallow Grave", etc., its effect does not activate.
 *   When you Special Summon "Molten Zombie" and you have "Card of Safe Return", either effect can be Step 1 of the chain; your choice.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Molten%20Zombie
 

@@ -1,6 +1,14 @@
 # Lava Golem
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > This card cannot be Normal Summoned or Set. Ⓢ This card can only be Special Summoned to your opponent's side of the field by Tributing 2 monsters they control. Ⓒ You cannot Normal Summon or Set the turn you Special Summon this card. ① Take 1000 points of damage during each of your Standby Phases.
+
+### Card Rulings
 
 *   The Ⓢ Special Summon does not start a chain.
     *   Once Summoned, "Call of the Haunted" / "Return from the Different Dimension" can Summon it later.
@@ -17,7 +25,7 @@
 *   The ① mandatory Trigger Effect activates during the Standby Phase of this card's controller.
     *   This effect deals damage even if this card is flipped face-down / leaves the field / changes control.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Lava%20Golem
 

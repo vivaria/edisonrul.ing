@@ -1,6 +1,14 @@
 # Stardust Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster’s effect that destroys a card(s) on the field, and destroy that card. ② If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase.
+
+### Card Rulings
 
 *   The ① Quick Effect activates & resolves on the field.
     *   Tributing this card is a cost.
@@ -17,7 +25,7 @@
     *   If this effect is negated (by "Royal Oppression" / "Divine Wrath"), it cannot activate again \[[REF](https://www.pojo.biz/board/showthread.php?t=656779)\].
     *   If your opponent controls your "Stardust Dragon" and they use its ① effect, you can Special Summon it from your Graveyard via its ② effect during the End Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Stardust%20Dragon
 

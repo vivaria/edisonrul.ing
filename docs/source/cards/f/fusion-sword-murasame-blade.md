@@ -1,5 +1,15 @@
 # Fusion Sword Murasame Blade
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If this card is face-down on the field, it can be destroyed by effects that destroy Spell Cards.
 *   When you activate this card, the opponent can chain a card like "Magic Jammer" that will negate its activation and destroy it.
 *   If you equip this card to "Freed the Matchless General", "Ryu Senshi" or to a Warrior-Type monster you control when you have "Frontier Wiseman" on the field, it is negated and destroyed.
@@ -12,7 +22,7 @@
 *   If the monster this card is equipped to has its Type changed to anything but Warrior-Type, this card is destroyed.
 *   If the opponent chains "Mystical Space Typhoon" to the activation of this card, this card is destroyed before its effect can be applied.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Fusion%20Sword%20Murasame%20Blade
 

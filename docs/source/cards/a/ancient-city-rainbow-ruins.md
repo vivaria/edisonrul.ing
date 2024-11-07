@@ -1,6 +1,14 @@
 # Ancient City - Rainbow Ruins
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > This card gets these effects, based on the number of "Crystal Beast" cards in your Spell & Trap Card Zone. ●1+: This card cannot be destroyed by a card effect. ●2+: Once per turn, you can halve the Battle Damage you take. ●3+: You can send 1 "Crystal Beast" monster you control to the Graveyard to negate the activation of a Spell or Trap Card and destroy it. ●4+: Once per turn, during your Main Phase, you can draw 1 card. ●5+: Once per turn, during your Main Phase, you can Special Summon 1 "Crystal Beast" card from your Spell & Trap Card Zone.
+
+### Card Rulings
 
 *   These effects are cumulative. If you have 4 or more "Crystal Beast" monsters in your Spell & Trap Card Zone, this card gets all of these effects except the last one.
     *   Only the controller of this card can use these effects.
@@ -26,7 +34,7 @@
     *   This effect targets 1 “Crystal Beast” card in your Spell & Trap Card Zones.
     *   You must have 5 “Crystal Beast” monsters in your Spell & Trap Card Zones to resolve this effect.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Ancient%20City%20-%20Rainbow%20Ruins
 

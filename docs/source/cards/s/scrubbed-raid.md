@@ -1,5 +1,15 @@
 # Scrubbed Raid
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Sending one other card you control to the Graveyard is a cost to activate the effect of "Scrubbed Raid" which ends the Battle Phase.
 *   You can neither activate "Scrubbed Raid" nor activate the effect of "Scrubbed Raid" during the Damage Step.
 *   You can activate a Spell or Trap Card as Chain Link 1 and then activate the effect of "Scrubbed Raid" in Chain to the card by sending the activated card to the Graveyard. If the activated card was a Normal Spell Card or a Normal Trap Card, then the effect of the card will resolve properly. If the activated card was an Equip, Continuous, or Field Spell Card or a Continuous Trap Card, then the other card is not on the field when resolving its effect, so the effect of the other card is not applied.
@@ -11,7 +21,7 @@
 *   If the effect of "Scrubbed Raid" is activated in Chain to "Magic Cylinder", then the Battle Phase ends",Magic Cylinder" cannot negate the attack so the effect of inflicting damage equal to the monster's ATK is not applied.
 *   The effect of "Mirror Force" only destroys all monsters in Attack Position, so all Attack Position monsters will still be destroyed even if the effect of "Scrubbed Raid" ends the Battle Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Scrubbed%20Raid
 

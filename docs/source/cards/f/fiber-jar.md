@@ -1,5 +1,15 @@
 # Fiber Jar
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   When this card’s effect is activated all cards on the field, in hand, and in the Graveyards are returned to their owner’s Deck. Fusion Monsters and Synchro Monsters in any of these places are returned to the Extra Deck. Cards removed from play remain removed from play.
 *   When the effect of "Fiber Jar" is activated, "Fiber Jar" itself is united with the Deck, even if it has been attacked and destroyed as a result of battle.
 *   If the effect of "Fiber Jar" activates during the Battle Phase, it does not end the Battle Phase, although the turn player will have no monsters after the effect resolves.

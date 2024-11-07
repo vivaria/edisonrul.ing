@@ -1,6 +1,14 @@
 # Dark Simorgh
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① While this card is face-up on the field its Attribute is also treated as WIND. ② You can remove from play 1 DARK monster and 1 WIND monster from your Graveyard to Special Summon this card from your hand. ③ You can remove from play 1 DARK monster and 1 WIND monster from your hand to Special Summon this card from your Graveyard. ④ Your opponent cannot Set any cards on the field.
+
+### Card Rulings
 
 *   You can Normal Summon “Dark Simorgh.”
 *   The ① Continuous Effect applies only while "Dark Simorgh" is face-up.
@@ -19,7 +27,7 @@
     *   If your opponent activates “Scrap-Iron Scarecrow” when you attack with “Dark Simorgh” the attack will be negated, but “Scrap-Iron Scarecrow” will go to the Graveyard because it cannot be Set.
     *   If “Call of the Haunted” is Chained to the activation of “The Shallow Grave” and “Dark Simorgh” is Special Summoned as a result, the controller of “Dark Simorgh” will Special Summon a monster with “The Shallow Grave” but the opponent will not.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Dark%20Simorgh
 

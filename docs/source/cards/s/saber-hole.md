@@ -1,6 +1,14 @@
 # Saber Hole
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Activate only while you control a face-up "X-Saber" monster. Negate the Summon of a monster, and destroy it.
+
+### Card Rulings
 
 *   You must control a face-up XX-Saber or X-Saber monster in order to activate this card.
 *   This card activates in the Summon negation timing (like “Horn of Heaven” and “Black Horn of Heaven”).
@@ -9,7 +17,7 @@
 *   This can negate the Summon performed after an effect resolves as Chain Link 1 (ex: "Ultimate Offering").
 *   This cannot negate effects that perform a Special Summon (ex: "Polymerization", "Blackwing - Vayu the Emblem of Honor").
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Saber%20Hole
 

@@ -1,5 +1,15 @@
 # Black Luster Soldier - Envoy Of The Beginning
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Black Luster Soldier - Envoy of the Beginning" is treated as a different card from "Black Luster Soldier". So you can have 3 copies of "Black Luster Soldier - Envoy of the Beginning" and 3 copies of "Black Luster Soldier" in your Deck & Side Deck combined.
 *   "Black Luster Soldier - Envoy of the Beginning" can remove itself from play using its first effect.
 *   The first effect of "Black Luster Soldier - Envoy of the Beginning" can be activated during your Main Phase 1 or 2. The second effect can be activated during your Damage Step in your Battle Phase, and can be chained to.

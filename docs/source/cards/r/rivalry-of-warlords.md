@@ -1,6 +1,14 @@
 # Rivalry Of Warlords
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Each player sends monsters they control to the Graveyard so that they only control 1 Type of monster. Each player can only control 1 Type of monster.
+
+### Card Rulings
 
 *   The ① Continuous-like Effect applies immediately after this Trap Card’s activation resolves: both players look at the face-up monsters they control and each choose 1 Type to keep and send their face-up monsters that aren’t that Type to the Graveyard.
     *   If a face-down with a different Type is attacked, it is flipped face-up in Substep 2 - Flip Face-Down, and is sent to the Graveyard at the start of Substep 5 - After Damage Calculation. Flip Effects will still activate, but effects that trigger when the monster is destroyed by battle will not.
@@ -17,7 +25,7 @@
 *   VS. "Gladiator Beasts": Your Glad Beasts can tag out (return to your Deck) as long as there is another Gladiator Beast in your Deck of the correct Type that you COULD Summon. However, if you have no face-up monsters when the effect resolves, you can Summon a Glad Beast of any Type.
 *   VS. Uria, Lord of Searing Flames: You cannot Special Summon Uria by sending Rivalry + 2 face-up Continuous Traps to the Graveyard unless you control no face-up monsters Pyro-Type monsters.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Rivalry%20of%20Warlords
 

@@ -1,6 +1,14 @@
 # Armory Arm
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > ① Once per turn, you can equip this card to a monster OR unequip it to Special Summon this card in face-up Attack Position. ② While equipped to a monster by this effect, that monster gains 1000 ATK. ③ When the equipped monster destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the destroyed monster’s ATK.
+
+### Card Rulings
 
 *   The ① Ignition(-like) Effect activates & resolves on the field.
     *   If activated while in the monster zone, this is a Monster Card's effect.
@@ -16,7 +24,7 @@
         *   This ruling changed in January 2011, inflicing damage equal to the original ATK \[[REF](https://www.pojo.biz/board/showpost.php?p=20342358&postcount=3)\].
 *   VS. "Colossal Fighter": Player A equips "Armory Arm" to Player B's "Archfiend Soldier", bringing its ATK to 2900. Player A"'sColossal Fighter" (ATK/2800) attacks "Archfiend Soldier" (ATK/2900), and Player A takes 100 Points of damage in Substep 4 - Damage Calculation. In Substep 7 - End of the Damage Step, Player A activates the mandatory Trigger-like Effect of "Armory Arm" (as Chain Link 1) and the optional Trigger Effect of "Colossal Fighter" (as Chain Link 2, targeting itself). When the Chain resolves, "Colossal Fighter" Special Summons itself, then "Armory Arm" deals 2800 Points of Effect Damage to Player B.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Armory%20Arm
 

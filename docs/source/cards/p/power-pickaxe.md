@@ -1,5 +1,15 @@
 # Power Pickaxe
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   This effect targets the monster in your opponent’s Graveyard.
 *   Removing the monster is an effect, not a cost.
 *   If the target monster is not removed from play by this effect, the equipped monster does not gain ATK.
@@ -10,7 +20,7 @@
 *   If “Power Pickaxe” is destroyed, the previously equipped monster loses the 500 ATK.
 *   Monsters removed by this effect remain removed from play even after the End Phase.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Power%20Pickaxe
 

@@ -1,5 +1,15 @@
 # Lone Wolf
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   If you activate “Lone Wolf” targeting an appropriate monster, and later you Summon another monster, the effect of “Lone Wolf” is still applied.
 *   If you target “Monk Fighter”, etc. with “Lone Wolf”, and “Monk Fighter” is later flipped face-down, the effect of “Lone Wolf” disappears and is not re-activated even if “Monk Fighter” is later flipped face-up again.
 *   “Your opponent’s monster effects” on “Lone Wolf” means “the effects of monsters that your opponent controls”. So if your opponent uses “Monster Reborn” on your “Exiled Force”, they still cannot Tribute “Exiled Force” to destroy your “Monk Fighter” targeted by “Lone Wolf”.
@@ -11,7 +21,7 @@
 *   “Archfiend of Gilfer” and “Dark Necrofear” in the Graveyard can activate their effects and target “Monk Fighter” targeted by “Lone Wolf”. This is because they activate as Monster Cards, equip to the target monster, become treated as Equip Spell Cards, and THEN apply their effects (by which point they are now treated as Equip Spell Cards).
 *   The effect of “Lone Wolf” will be negated by Jinzo even if targeting “Monk Fighter”.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Lone%20Wolf
 

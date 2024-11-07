@@ -1,5 +1,15 @@
 # Exchange Of The Spirit
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   “Exchange of the Spirit” does not “send” cards to the Graveyard; it swaps the cards in your Deck with those in your Graveyard. So the effects of cards like “Penguin Knight”, “Cockroach Knight”, or “Archfiend of Gilfer” will not activate, nor would the effect of “Skull Invitation” deal any damage. If “Banisher of Light” is on the field no cards will become removed from play because they are not being sent to the Graveyard.
 *   “Necrovalley” will negate the effect of “Exchange of the Spirit”.
 *   “Exchange of the Spirit” does not target cards in the Graveyard, so “Big Burn” cannot be activated.

@@ -1,9 +1,19 @@
 # Soul Of Fire
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   “Your opponent draws 1 card” is not a cost to activate this card. It is part of the effect.
 *   You cannot activate "Soul of Fire" if there are no Pyro-Type Monsters remaining in your Deck.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Soul%20of%20Fire
 

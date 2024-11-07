@@ -1,6 +1,14 @@
 # Bait Doll
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
 > Force the activation of 1 face-down Trap Card. If the timing of the activation of the Trap Card is incorrect, negate the effect and destroy it. If it is not a Trap Card, it is returned to its original position. After this card is activated, it is placed into the Deck (not the Graveyard). Then shuffle the Deck.
+
+### Card Rulings
 
 *   You cannot activate this card if you cannot return cards to the Deck (by "G.B. Hunter").
 *   As long as the activation and effect of "Bait Doll" are not negated, the effect of "Bait Doll" that shuffles it back into the Deck still resolves.
@@ -13,7 +21,7 @@
 *   If "Chain Burst" is active on the field and you use "Bait Doll" to activate the opponent's Trap Card, and its timing is correct, the opponent takes the 1000 points of damage.
 *   When "Bait Doll" is activated, "Fake Trap" cannot be activated because there is no guarantee that "Bait Doll" will destroy a Trap Card.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Bait%20Doll
 

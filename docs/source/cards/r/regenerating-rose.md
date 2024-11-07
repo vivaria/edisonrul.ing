@@ -1,8 +1,18 @@
 # Regenerating Rose
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   "Regenerating Rose"'s effect cannot be activated when you have 1 or fewer open Monster Card Zones.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Regenerating%20Rose
 

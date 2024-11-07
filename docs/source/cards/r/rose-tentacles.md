@@ -1,5 +1,15 @@
 # Rose Tentacles
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   The restriction against Special Summoning “Rose Tentacles” is not an ‘effect’.
 *   The effect of “Rose Tentacles” to inflict damage happens at the end of the Damage Step.
 *   You can combine the effect of “Rose Tentacles” with “Wonder Clover:”
@@ -9,7 +19,7 @@
 *   The number of attacks that “Rose Tentacles” can perform is determined at the start of the Battle Phase.
 *   If the number of Plants changes, the number of attacks “Rose Tentacles” can perform doesn’t change.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Rose%20Tentacles
 

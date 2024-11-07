@@ -1,5 +1,15 @@
 # Emergency Provisions
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: https://www.edisonformat.com/rulings
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
 *   Sending Spell and Trap Cards on your side of the field to the Graveyard is a cost for activating this card.
 *   You can activate a Normal Spell Card, such as "Raigeki", then chain "Emergency Provisions" and send "Raigeki" to the Graveyard to gain 1000 Life Points, and the effect of "Raigeki" will still resolve.
 *   If your opponent activates "Heavy Storm" you can chain "Emergency Provisions" to send your Spell and Trap Cards to Graveyard first (and gain the appropriate amount of Life Points).
@@ -11,7 +21,7 @@
 *   While "Banisher of the Light" is face-up on the field, you cannot activate "Emergency Provisions" since it is impossible to send cards to the Graveyard.
 *   If you have "Imperial Order" active on your side of the field, you may send it to the Graveyard as part of the cost to activate "Emergency Provisions" and "Emergency Provisions" will not be negated.
 
-## Edisonformat.net
+## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Emergency%20Provisions
 
