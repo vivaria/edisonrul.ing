@@ -1,5 +1,15 @@
 # Gazelle the King of Mythical Beasts
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Gazelle%20the%20King%20of%20Mythical%20Beasts

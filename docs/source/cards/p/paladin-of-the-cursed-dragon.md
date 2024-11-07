@@ -1,5 +1,15 @@
 # Paladin of the Cursed Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Paladin%20of%20the%20Cursed%20Dragon

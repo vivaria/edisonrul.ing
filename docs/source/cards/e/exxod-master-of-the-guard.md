@@ -1,5 +1,15 @@
 # Exxod, Master of The Guard
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Exxod,%20Master%20of%20The%20Guard

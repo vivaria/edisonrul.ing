@@ -1,5 +1,15 @@
 # Malefic Blue-Eyes White Dragon
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Malefic%20Blue-Eyes%20White%20Dragon

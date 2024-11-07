@@ -1,5 +1,15 @@
 # Mei-Kou, Master of Barriers
 
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: https://edisonformat.net/card?name=Mei-Kou,%20Master%20of%20Barriers
