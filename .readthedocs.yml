@@ -16,7 +16,7 @@ python:
    install:
    - requirements: requirements.txt
 
-formats:
-  - epub
-  - pdf
-  - htmlzip
+#formats:
+#  - epub
+#  - pdf
+#  - htmlzip
