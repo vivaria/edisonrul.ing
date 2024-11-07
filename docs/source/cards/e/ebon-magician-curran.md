@@ -1,19 +1,5 @@
 # Ebon Magician Curran
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   The effect of “Ebon Magician Curran” is a Trigger Effect that can be chained to.
-*   Count the number of monsters on the opponent’s side of the field when you resolve the effect of “Ebon Magician Curran”, not when it activates.
-*   If “Ebon Magician Curran” is Special Summoned during the Standby Phase while “King Tiger Wanghu” is on the field, both Trigger Effects activate immediately and form a chain.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Ebon%20Magician%20Curran](https://edisonformat.net/card?name=Ebon%20Magician%20Curran)
@@ -29,4 +15,20 @@ Source: [https://edisonformat.net/card?name=Ebon%20Magician%20Curran](https://ed
 *   Count the number of monsters on the opponent’s side of the field when you resolve the effect of "Ebon Magician Curran", not when it activates.
 
 *   If this card is Special Summoned during the Standby Phase while your opponent controls "King Tiger Wanghu", this card will be destroyed before the Phase-Trigger Effect can activate.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   The effect of “Ebon Magician Curran” is a Trigger Effect that can be chained to.
+*   Count the number of monsters on the opponent’s side of the field when you resolve the effect of “Ebon Magician Curran”, not when it activates.
+*   If “Ebon Magician Curran” is Special Summoned during the Standby Phase while “King Tiger Wanghu” is on the field, both Trigger Effects activate immediately and form a chain.
+
+

@@ -1,5 +1,18 @@
 # Battery Charger
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Battery%20Charger](https://edisonformat.net/card?name=Battery%20Charger)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   You can't activate Batteryman Charger's effect if you don't have any eligble Batteryman monsters remaining in your hand/Deck.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   You cannot activate "Batteryman Charger"'s effect if you do not have any eligble "Batteryman" monsters remaining in your hand or Deck.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Battery%20Charger](https://edisonformat.net/card?name=Battery%20Charger)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   You can't activate Batteryman Charger's effect if you don't have any eligble Batteryman monsters remaining in your hand/Deck.
-            

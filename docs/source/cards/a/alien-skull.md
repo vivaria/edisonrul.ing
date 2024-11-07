@@ -1,15 +1,5 @@
 # Alien Skull
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Alien%20Skull](https://edisonformat.net/card?name=Alien%20Skull)
@@ -23,4 +13,16 @@ Source: [https://edisonformat.net/card?name=Alien%20Skull](https://edisonformat.
 
 *   While you control 2 copies of this card, a battling monster with 1 A-Counter will lose 600 ATK/DEF.
 *   All of the Ⓤ is one single unclassified effect. Tributing a monster is a cost for this effect. This effect does not start a chain.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

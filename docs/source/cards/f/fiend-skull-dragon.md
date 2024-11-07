@@ -1,5 +1,18 @@
 # Fiend Skull Dragon
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Fiend%20Skull%20Dragon](https://edisonformat.net/card?name=Fiend%20Skull%20Dragon)
+
+### Edison-Accurate PSCT
+
+> No rulings available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -17,15 +30,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   You can activate "Call of the Haunted" to Special Summon "Fiend Skull Dragon". After it resolves, "Call of the Haunted" will be destroyed and "Fiend Skull Dragon" will remain on the field. Remember that "Fiend Skull Dragon" must have been properly Fusion Summoned previously in order to Special Summon it from the Graveyard.
 *   You can chain "Call of the Haunted" to the activation of a Flip Effect to Special Summon "Fiend Skull Dragon", and the Flip Effect will be negated.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Fiend%20Skull%20Dragon](https://edisonformat.net/card?name=Fiend%20Skull%20Dragon)
-
-### Edison-Accurate PSCT
-
-> No rulings available for this card.
-
-### Card Rulings
-
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            

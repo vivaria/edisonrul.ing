@@ -1,24 +1,5 @@
 # Plaguespreader Zombie
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> ① You can return 1 card from your hand to the top of the Deck to Special Summon this card from the Graveyard. Ⓛ If you do, remove this card from play when it is removed from the field.
-
-### Card Rulings
-
-*   The ① Ignition Effect activates & resolves in the Graveyard.
-    *   Placing a card from your hand on top of the Deck is a cost.
-    *   This effect does not target a card in the Graveyard. It is not negated by "Necrovalley".
-*   The Ⓛ Lingering effect banishes this card when it would leave the field.  
-    *   This does not start a chain.  
-    *   This works like "Battle Fader"'s Condition - meaning that "Caius the Shadow Monarch" will not inflict Effect Damage if its effect banishes "Plaguespreader Zombie" summoned by the ① effect.  
-    *   This effect disappears if "Plaguespreader Zombie" is flipped face-down.  
-        
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Plaguespreader%20Zombie](https://edisonformat.net/card?name=Plaguespreader%20Zombie)
@@ -38,4 +19,25 @@ On Banishing this card:
 *   Vs "Interdimensional Matter Transporter": This card won't return to the field.
 *   Vs "Caius the Shadow Monarch": If this card is banished this way, no damage is dealt.
 *   Vs "Book of Moon": "Banish it if it leaves the field" will no longer apply to this card.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> ① You can return 1 card from your hand to the top of the Deck to Special Summon this card from the Graveyard. Ⓛ If you do, remove this card from play when it is removed from the field.
+
+### Card Rulings
+
+*   The ① Ignition Effect activates & resolves in the Graveyard.
+*   Placing a card from your hand on top of the Deck is a cost.
+*   This effect does not target a card in the Graveyard. It is not negated by "Necrovalley".
+*   The Ⓛ Lingering effect banishes this card when it would leave the field.
+*   This does not start a chain.
+*   This works like "Battle Fader"'s Condition - meaning that "Caius the Shadow Monarch" will not inflict Effect Damage if its effect banishes "Plaguespreader Zombie" summoned by the ① effect.
+*   This effect disappears if "Plaguespreader Zombie" is flipped face-down.
+
+
+

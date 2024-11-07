@@ -1,5 +1,18 @@
 # D.D. Dynamite
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=D.D.%20Dynamite](https://edisonformat.net/card?name=D.D.%20Dynamite)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   Count the number of cards removed from play when “D. D. Dynamite” resolves, not when it is activated.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=D.D.%20Dynamite](https://edisonformat.net/card?name=D.D.%20Dynamite)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            

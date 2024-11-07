@@ -1,15 +1,5 @@
 # Evil HERO Infernal Sniper
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Evil%20HERO%20Infernal%20Sniper](https://edisonformat.net/card?name=Evil%20HERO%20Infernal%20Sniper)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Evil%20HERO%20Infernal%20Sniper](htt
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

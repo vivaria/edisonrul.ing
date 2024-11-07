@@ -1,5 +1,18 @@
 # Koitsu
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Koitsu](https://edisonformat.net/card?name=Koitsu)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   "Koitsu"'s effect that inflicts damage is only applied to a monster that is equipped with "Koitsu" by "Koitsu"'s effect; "Koitsu" itself, while a monster, does not receive this effect.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Koitsu](https://edisonformat.net/card?name=Koitsu)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
-            

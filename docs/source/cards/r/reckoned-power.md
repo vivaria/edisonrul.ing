@@ -1,5 +1,18 @@
 # Reckoned Power
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Reckoned%20Power](https://edisonformat.net/card?name=Reckoned%20Power)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   Revealing “Iron Core of Koa’ki Meiru” is a cost to activate this card.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   Revealing “Iron Core of Koa’ki Meiru” is a cost to activate this card.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Reckoned%20Power](https://edisonformat.net/card?name=Reckoned%20Power)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   Revealing “Iron Core of Koa’ki Meiru” is a cost to activate this card.
-            

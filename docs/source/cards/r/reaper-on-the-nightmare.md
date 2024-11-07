@@ -1,15 +1,5 @@
 # Reaper on the Nightmare
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Reaper%20on%20the%20Nightmare](https://edisonformat.net/card?name=Reaper%20on%20the%20Nightmare)
@@ -31,4 +21,16 @@ This effect resolves (and the random card is chosen) after the Gorz/Tragoedia is
 (If the targeting card’s effect is negated, this card is still destroyed).
 *   This card will be destroyed by its ② effect even if targeted by a continuous effect.
 (Such as an Equip Spell Card, or by “Call of the Haunted”).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

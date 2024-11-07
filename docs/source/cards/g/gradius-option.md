@@ -1,5 +1,22 @@
 # Gradius' Option
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Gradius'%20Option](https://edisonformat.net/card?name=Gradius'%20Option)
+
+### Edison-Accurate PSCT
+
+> © Cannot be Normal Summoned/Set.
+> © Must first be Special Summoned (from your hand) by targeting 1 "Gradius" you control.
+> ① This card's ATK/DEF always become equal to that target's.
+> ② If that target leaves the field, destroy this card.
+
+### Card Rulings
+
+*   As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
+you can Summon it from the GY with card effects.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -19,19 +36,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If you pick up "Gradius’ Option" by the effect of "Morphing Jar #2" you cannot Special Summon it, and it is sent to the Graveyard.
 *   ”Shrink” has no effect on “Gradius’ Option”.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Gradius'%20Option](https://edisonformat.net/card?name=Gradius'%20Option)
-
-### Edison-Accurate PSCT
-
-> © Cannot be Normal Summoned/Set.
-> © Must first be Special Summoned (from your hand) by targeting 1 "Gradius" you control.
-> ① This card's ATK/DEF always become equal to that target's.
-> ② If that target leaves the field, destroy this card.
-
-### Card Rulings
-
-*   As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
-you can Summon it from the GY with card effects.
-            

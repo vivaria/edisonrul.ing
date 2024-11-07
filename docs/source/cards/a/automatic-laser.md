@@ -1,5 +1,20 @@
 # Automatic Laser
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Automatic%20Laser](https://edisonformat.net/card?name=Automatic%20Laser)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+When your opponent Normal or Special Summons a monster●This card activates in the Summon response timing (like Trap Hole).
+*   “Automatic Laser” does not target.
+*   You can activate “Automatic Laser” when your opponent Summons multiple monsters, but only the monsters with 1000 or more ATK will be destroyed.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -14,17 +29,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   “Automatic Laser” does not target.
 *   You can activate “Automatic Laser” when your opponent Summons multiple monsters, but only the monsters with 1000 or more ATK will be destroyed.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Automatic%20Laser](https://edisonformat.net/card?name=Automatic%20Laser)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-When your opponent Normal or Special Summons a monster●This card activates in the Summon response timing (like Trap Hole).
-*   “Automatic Laser” does not target.
-*   You can activate “Automatic Laser” when your opponent Summons multiple monsters, but only the monsters with 1000 or more ATK will be destroyed.
-            

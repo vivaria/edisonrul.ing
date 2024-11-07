@@ -1,5 +1,18 @@
 # Freezing Beast
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Freezing%20Beast](https://edisonformat.net/card?name=Freezing%20Beast)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   You may use the effect of "Freezing Beast" to destroy a Spell or Trap Card on your side of the field.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Freezing%20Beast](https://edisonformat.net/card?name=Freezing%20Beast)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
-            

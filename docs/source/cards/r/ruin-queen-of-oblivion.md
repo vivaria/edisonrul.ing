@@ -1,15 +1,5 @@
 # Ruin, Queen of Oblivion
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Ruin,%20Queen%20of%20Oblivion](https://edisonformat.net/card?name=Ruin,%20Queen%20of%20Oblivion)
@@ -22,4 +12,16 @@ Source: [https://edisonformat.net/card?name=Ruin,%20Queen%20of%20Oblivion](https
 ### Card Rulings
 
 *   “It can attack once again in a row” means that this card can keep attacking until its condition to attack again is no longer fulfilled. It can make a second, third, fourth, etc attack this way.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

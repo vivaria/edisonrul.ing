@@ -1,15 +1,5 @@
 # Horn of the Unicorn
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Horn%20of%20the%20Unicorn](https://edisonformat.net/card?name=Horn%20of%20the%20Unicorn)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Horn%20of%20the%20Unicorn](https://e
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

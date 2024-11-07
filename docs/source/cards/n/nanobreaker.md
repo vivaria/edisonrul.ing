@@ -1,5 +1,18 @@
 # Nanobreaker
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Nanobreaker](https://edisonformat.net/card?name=Nanobreaker)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   This card’s effect is a Trigger Effect that starts a chain.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   This card’s effect is a Trigger Effect that starts a chain.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Nanobreaker](https://edisonformat.net/card?name=Nanobreaker)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   This card’s effect is a Trigger Effect that starts a chain.
-            

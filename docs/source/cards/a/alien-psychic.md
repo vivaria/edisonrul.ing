@@ -1,15 +1,5 @@
 # Alien Psychic
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Alien%20Psychic](https://edisonformat.net/card?name=Alien%20Psychic)
@@ -22,4 +12,16 @@ Source: [https://edisonformat.net/card?name=Alien%20Psychic](https://edisonforma
 ### Card Rulings
 
 No rulings currently avaiable.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

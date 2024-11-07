@@ -1,15 +1,5 @@
 # Five-Headed Dragon
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Five-Headed%20Dragon](https://edisonformat.net/card?name=Five-Headed%20Dragon)
@@ -23,4 +13,16 @@ Source: [https://edisonformat.net/card?name=Five-Headed%20Dragon](https://edison
 ### Card Rulings
 
 *   This card can only be Special Summoned by Fusion Summon. It can't be summoned by "Red-Eyes Darkness Metal Dragon".
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

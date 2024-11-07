@@ -1,28 +1,5 @@
 # Grandmaster Of The Six Samurai
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> Ⓤ You can only control 1 "Grandmaster of the Six Samurai" monster. Ⓢ While you control a face-up "Six Samurai" monster, you can Special Summon this card from your hand. ① When this card is destroyed by your opponent's card effect, add 1 "Six Samurai" monster from your Graveyard to your hand.
-
-### Card Rulings
-
-*   Ⓤ is an Unclassified Effect.
-    *   You CANNOTsummon a "Grandmaster of the Six Samurai" while one is already face-up under your control, however you can Tribute Set further copies.
-    *   If youcontrol two or more monsters named "Grandmaster of the Six Samurai", the most recently Summoned of the monsters will be destroyed by game mechanic (your choice in the case of a tie).
-    *   This Unclassified Effect CAN be negated by "Skill Drain", however you still CANNOT Summon further copies of"Grandmaster of the Six Samurai" because the UnclassifiedEffect is still active while it is in the hand or Graveyard.
-*   The Ⓢ Unclassified Effect functions as a built-in Summon. This Special Summon does start a Chain.
-*   The ① mandatory Trigger Effect cannot misstiming.
-    *   This effect targets 1 "Six Samurai" monster in your Graveyard, and can target itself.
-    *   This effect activates & resolves in the Graveyard / removed from play area.
-    *   This effect activates if your opponent's card effect destroys this card in your hand / field / Deck.
-*   The ① Trigger Effect will NOT ACTIVATE if:
-    *   your opponent uses your "Royal Oppression" to negate this card's built-in Special Summon.
-    *   the Continuous Effect of your other "Six Samurai" destroyed Grandmaster as a substitute.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Grandmaster%20of%20the%20Six%20Samurai](https://edisonformat.net/card?name=Grandmaster%20of%20the%20Six%20Samurai)
@@ -48,4 +25,29 @@ About the ① effect:
 *   It will activate if the summon of this card is negated and it is destroyed by your opponent's "Royal Oppression" or "Solemn Judgment" etc.
 *   It will not activate if the summon of this card is negated and it is destroyed by your "Royal Oppression".
 *   It will not activate if this card is "destroyed instead" by the effect of your "Six Samurai" monsters.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> Ⓤ You can only control 1 "Grandmaster of the Six Samurai" monster. Ⓢ While you control a face-up "Six Samurai" monster, you can Special Summon this card from your hand. ① When this card is destroyed by your opponent's card effect, add 1 "Six Samurai" monster from your Graveyard to your hand.
+
+### Card Rulings
+
+*   Ⓤ is an Unclassified Effect.
+*   You CANNOTsummon a "Grandmaster of the Six Samurai" while one is already face-up under your control, however you can Tribute Set further copies.
+*   If youcontrol two or more monsters named "Grandmaster of the Six Samurai", the most recently Summoned of the monsters will be destroyed by game mechanic (your choice in the case of a tie).
+*   This Unclassified Effect CAN be negated by "Skill Drain", however you still CANNOT Summon further copies of"Grandmaster of the Six Samurai" because the UnclassifiedEffect is still active while it is in the hand or Graveyard.
+*   The Ⓢ Unclassified Effect functions as a built-in Summon. This Special Summon does start a Chain.
+*   The ① mandatory Trigger Effect cannot misstiming.
+*   This effect targets 1 "Six Samurai" monster in your Graveyard, and can target itself.
+*   This effect activates & resolves in the Graveyard / removed from play area.
+*   This effect activates if your opponent's card effect destroys this card in your hand / field / Deck.
+*   The ① Trigger Effect will NOT ACTIVATE if:
+*   your opponent uses your "Royal Oppression" to negate this card's built-in Special Summon.
+*   the Continuous Effect of your other "Six Samurai" destroyed Grandmaster as a substitute.
+
+

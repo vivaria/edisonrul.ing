@@ -1,15 +1,5 @@
 # Exxod, Master of The Guard
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Exxod,%20Master%20of%20The%20Guard](https://edisonformat.net/card?name=Exxod,%20Master%20of%20The%20Guard)
@@ -25,4 +15,16 @@ Source: [https://edisonformat.net/card?name=Exxod,%20Master%20of%20The%20Guard](
 
 *   The only way you can Special Summon this card is via its own procedure.
 Even if it was initially summoned that way, you still can't summon it with card effects.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

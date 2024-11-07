@@ -1,17 +1,5 @@
 # Mad Reloader
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   The two cards are sent from your hand to the Graveyard when "Mad Reloader"'s effect resolves. If you have 1 or less cards in your hand, "Mad Reloader"'s effect disappears.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Mad%20Reloader](https://edisonformat.net/card?name=Mad%20Reloader)
@@ -28,4 +16,18 @@ Source: [https://edisonformat.net/card?name=Mad%20Reloader](https://edisonformat
 *   Sending and drawing is simultaneous. It doesn't cause anything to miss timing.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   The two cards are sent from your hand to the Graveyard when "Mad Reloader"'s effect resolves. If you have 1 or less cards in your hand, "Mad Reloader"'s effect disappears.
+
+

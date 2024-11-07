@@ -1,5 +1,18 @@
 # Spider’S Lair
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Spiders'%20Lair](https://edisonformat.net/card?name=Spiders'%20Lair)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -19,15 +32,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If your opponent’s monster is not changed to Defense Position by “Spider’s Lair” then the effect to keep it in Defense Position is not applied.
 *   Changing your opponent’s monster to Defense Position does not start a Chain.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Spiders'%20Lair](https://edisonformat.net/card?name=Spiders'%20Lair)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            

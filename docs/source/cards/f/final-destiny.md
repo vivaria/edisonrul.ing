@@ -1,5 +1,18 @@
 # Final Destiny
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Final%20Destiny](https://edisonformat.net/card?name=Final%20Destiny)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   Discarding 5 cards from your hand is a cost. You can't activate this card if you have less than 5 cards in your hand.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   Discarding 5 cards from your hand is a cost. You cannot activate this card if you have less than 5 cards in your hand.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Final%20Destiny](https://edisonformat.net/card?name=Final%20Destiny)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   Discarding 5 cards from your hand is a cost. You can't activate this card if you have less than 5 cards in your hand.
-            

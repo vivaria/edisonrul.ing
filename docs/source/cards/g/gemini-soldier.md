@@ -1,15 +1,5 @@
 # Gemini Soldier
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gemini%20Soldier](https://edisonformat.net/card?name=Gemini%20Soldier)
@@ -29,4 +19,16 @@ About the ② effect:
 *   It activates and resolves in Substep 5 - After Damage Calculation, before effects of cards like "Ryko, Lightsworn Hunter" and "D.D. Warrior Lady" activate in Substep 6.
 *   It can activate if "Gemini Soldier" is destroyed by battle.
 *   It can activate if "Gemini Soldier" attacks directly or if no battle damage is dealt.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

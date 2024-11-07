@@ -1,15 +1,5 @@
 # Gigantes
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gigantes](https://edisonformat.net/card?name=Gigantes)
@@ -24,4 +14,16 @@ Source: [https://edisonformat.net/card?name=Gigantes](https://edisonformat.net/c
 ### Card Rulings
 
 *   If this card was initially summoned by its Ⓢ procedure, it can later be summoned by a card effect.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

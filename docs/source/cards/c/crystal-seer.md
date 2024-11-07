@@ -1,18 +1,5 @@
 # Crystal Seer
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   If you have 1 or fewer cards in your Deck when this card’s effect resolved, the effect disappears, and you cannot pick up any cards from your Deck.
-*   If your opponent's "Parasite Paracide" is among the card's you pick up with the effect of "Crystal Seer", you can add that card to your hand.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Crystal%20Seer](https://edisonformat.net/card?name=Crystal%20Seer)
@@ -27,4 +14,19 @@ Source: [https://edisonformat.net/card?name=Crystal%20Seer](https://edisonformat
 *   If 'Thunder King Rai-Oh' is applying, this effect still activates. 1 of the cards is sent to the GY and 1 of the cards is returned to the bottom of the Deck.
 *   The cards aren't revealed to your opponent
 (on Duelingbook, this can be resolved by drawing 2 cards, then placing 1 of the drawn cards on the bottom).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   If you have 1 or fewer cards in your Deck when this card’s effect resolved, the effect disappears, and you cannot pick up any cards from your Deck.
+*   If your opponent's "Parasite Paracide" is among the card's you pick up with the effect of "Crystal Seer", you can add that card to your hand.
+
+

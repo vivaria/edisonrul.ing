@@ -1,18 +1,5 @@
 # Maryokutai
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   This monster’s effect is a Quick Effect, and therefore Spell Speed 2. So it may be used against Quick-Play Spell Cards.
-*   You can Tribute "Maryokutai" to activate its effect during the Damage Step.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Maryokutai](https://edisonformat.net/card?name=Maryokutai)
@@ -30,4 +17,19 @@ This is an optional Quick Effect.
 This effect can be used in the Damage Step.
 *   This effect can be used in the Damage Step even if Maryokutai is attacking or being attacked.
 *   This effect can not be used in Substeps 5, 6, or 7, if Maryokutai was destroyed in Battle.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   This monster’s effect is a Quick Effect, and therefore Spell Speed 2. So it may be used against Quick-Play Spell Cards.
+*   You can Tribute "Maryokutai" to activate its effect during the Damage Step.
+
+

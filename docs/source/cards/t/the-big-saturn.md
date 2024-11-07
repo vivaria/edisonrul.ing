@@ -1,15 +1,5 @@
 # The Big Saturn
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=The%20Big%20Saturn](https://edisonformat.net/card?name=The%20Big%20Saturn)
@@ -27,4 +17,16 @@ Source: [https://edisonformat.net/card?name=The%20Big%20Saturn](https://edisonfo
 3. The effect of "The Big Saturn" to inflict damage only activates while the owner of the card controls it.
 4. The damage dealt is the original ATK of "The Big Saturn".
 5. If "The Big Saturn" is destroyed while it's in your hand, the effect to deal damage still activates.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

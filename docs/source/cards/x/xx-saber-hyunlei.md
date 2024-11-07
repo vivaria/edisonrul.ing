@@ -1,17 +1,5 @@
 # XX-Saber Hyunlei
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   This effect targets up to three Spell and Trap Cards.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=XX-Saber%20Hyunlei](https://edisonformat.net/card?name=XX-Saber%20Hyunlei)
@@ -24,4 +12,18 @@ Source: [https://edisonformat.net/card?name=XX-Saber%20Hyunlei](https://edisonfo
 ### Card Rulings
 
 *   If one target leaves the field, the rest are still destroyed.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   This effect targets up to three Spell and Trap Cards.
+
+

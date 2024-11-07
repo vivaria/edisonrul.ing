@@ -1,15 +1,5 @@
 # Dark Scorpion - Cliff the Trap Remover
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Cliff%20the%20Trap%20Remover](https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Cliff%20the%20Trap%20Remover)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Cliff%20the%20
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

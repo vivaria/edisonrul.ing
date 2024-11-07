@@ -1,17 +1,5 @@
 # Chain Strike
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Chain%20Strike](https://edisonformat.net/card?name=Chain%20Strike)
@@ -26,4 +14,18 @@ Source: [https://edisonformat.net/card?name=Chain%20Strike](https://edisonformat
 The first time, there is no "Chain Strike" in that Chain.
 The second time, there is only 1 "Chain Strike" in that Chain.
 The third time, there are multiple cards with the same name in the Chain.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   You can activate a second “Chain Strike” if 1 “Chain Strike” is already on that chain. However, no further “Chain Strikes” can be activated in that same chain after that.
+
+

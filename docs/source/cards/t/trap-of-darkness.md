@@ -1,15 +1,5 @@
 # Trap of Darkness
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Trap%20of%20Darkness](https://edisonformat.net/card?name=Trap%20of%20Darkness)
@@ -25,4 +15,16 @@ Source: [https://edisonformat.net/card?name=Trap%20of%20Darkness](https://edison
 *   If applying an effect that targets, you choose targets when Trap of Darkness is activated.
 *   If applying the effect of "Scrap-Iron Scarecrow", this card Sets itself when it resolves.
 *   You cannot apply an effect that equips (if banishing "Kunai with Chain", you can apply its 1st effect, but not the equip effect).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

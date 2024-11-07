@@ -1,24 +1,5 @@
 # Ancient Sacred Wyvern
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> ① While your Life Points are higher than your opponent's, this card gains ATK equal to the difference. ② While your Life Points are lower than your opponent's, this card loses ATK equal to the difference. ③ When this card is destroyed by battle and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card.
-
-### Card Rulings
-
-*   The ① Continuous Effect does not start a Chain.
-    *   This effect applies while this card is face-up on the field.
-*   The ② Continuous Effect does not start a Chain.
-    *   This effect applies while this card is face-up on the field.
-*   The ③ Trigger Effect is optional. It activates & resolves in the Graveyard.
-    *   Paying 1000 Life Points is a cost to activate the effect.
-    *   This effect activates in Substep 7 - End of the Damage Step.
-    *   This effect does not target, it will not be negated by "Necrovalley".
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Ancient%20Sacred%20Wyvern](https://edisonformat.net/card?name=Ancient%20Sacred%20Wyvern)
@@ -33,4 +14,25 @@ Source: [https://edisonformat.net/card?name=Ancient%20Sacred%20Wyvern](https://e
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> ① While your Life Points are higher than your opponent's, this card gains ATK equal to the difference. ② While your Life Points are lower than your opponent's, this card loses ATK equal to the difference. ③ When this card is destroyed by battle and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card.
+
+### Card Rulings
+
+*   The ① Continuous Effect does not start a Chain.
+*   This effect applies while this card is face-up on the field.
+*   The ② Continuous Effect does not start a Chain.
+*   This effect applies while this card is face-up on the field.
+*   The ③ Trigger Effect is optional. It activates & resolves in the Graveyard.
+*   Paying 1000 Life Points is a cost to activate the effect.
+*   This effect activates in Substep 7 - End of the Damage Step.
+*   This effect does not target, it will not be negated by "Necrovalley".
+
+

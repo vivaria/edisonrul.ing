@@ -1,17 +1,5 @@
 # Trap Dustshoot
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   You can select your own card that was taken by your opponent with "Exchange". The card returns to the owner's deck (yours, in this case).
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Trap%20Dustshoot](https://edisonformat.net/card?name=Trap%20Dustshoot)
@@ -26,4 +14,18 @@ Source: [https://edisonformat.net/card?name=Trap%20Dustshoot](https://edisonform
 (This disparity is due to the nature of online play, as it's impossible to enforce note-taking:
 Online, you could screenshot the cards in your opponent's hand or write them down in a notepad,
 and nobody would be able to tell that you're note-taking).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   You can select your own card that was taken by your opponent with "Exchange". The card returns to the owner's deck (yours, in this case).
+
+

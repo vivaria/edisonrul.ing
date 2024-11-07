@@ -1,15 +1,5 @@
 # Gladiator Beast Samnite
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Samnite](https://edisonformat.net/card?name=Gladiator%20Beast%20Samnite)
@@ -40,4 +30,16 @@ they don’t go on the same Chain (they each activate, one after another, each o
 Vs "Rivalry of Warlords"/"Gozen Match":
 *   If you have a Gladiator Beast of the same Type/Attribute in your Deck, you can activate the ② effect.
 If you do, you can Summon any Gladiator Beast of any Attribute.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

@@ -1,15 +1,5 @@
 # Upstart Goblin
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Upstart%20Goblin](https://edisonformat.net/card?name=Upstart%20Goblin)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Upstart%20Goblin](https://edisonform
 ### Card Rulings
 
 *   If "Infernity Archfiend" is drawn by this effect, it misses its timing.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

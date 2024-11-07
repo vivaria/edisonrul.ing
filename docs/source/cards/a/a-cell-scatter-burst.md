@@ -1,5 +1,18 @@
 # 'A' Cell Scatter Burst
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=A%20Cell%20Scatter%20Burst](https://edisonformat.net/card?name=A%20Cell%20Scatter%20Burst)
+
+### Edison-Accurate PSCT
+
+> No rulings available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -16,15 +29,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   You must place exactly as many A-Counters as the Level of the monster targeted by this effect.
 *   You cannot activate this card if your opponent controls no face-up monsters.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=A%20Cell%20Scatter%20Burst](https://edisonformat.net/card?name=A%20Cell%20Scatter%20Burst)
-
-### Edison-Accurate PSCT
-
-> No rulings available for this card.
-
-### Card Rulings
-
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            

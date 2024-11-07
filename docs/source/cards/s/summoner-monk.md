@@ -1,15 +1,5 @@
 # Summoner Monk
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Summoner%20Monk](https://edisonformat.net/card?name=Summoner%20Monk)
@@ -24,4 +14,16 @@ Source: [https://edisonformat.net/card?name=Summoner%20Monk](https://edisonforma
 
 *   The ① is a continuous effect. It can be negated.
 *   The ② is a mandatory effect. When this card is summoned, the ② must trigger, and you don't retain Ignition Priority (you must wait until it has resolved before you can activate the ③).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

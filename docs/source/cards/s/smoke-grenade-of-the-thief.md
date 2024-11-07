@@ -1,5 +1,19 @@
 # Smoke Grenade Of The Thief
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Smoke%20Grenade%20of%20the%20Thief](https://edisonformat.net/card?name=Smoke%20Grenade%20of%20the%20Thief)
+
+### Edison-Accurate PSCT
+
+> ① If this Equip Card is destroyed by an effect: Look at your opponent's hand and discard 1 card from it.
+
+### Card Rulings
+
+*   If the equipped monster is destroyed by battle, this effect does not activate.
+*   If the equipped monster is destroyed at the same time as this card, this effect does activate.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -15,16 +29,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If the opponent chains "Dust Tornado" or "Mystical Space Typhoon" to the activation of "Smoke Grenade of the Thief", it is destroyed and its effect is NOT activated. This is because it is an Equip Spell Card, and must be on the field when it resolves for its effect to activate.
 *   If "Imperial Order" is active on the field, the effect of "Smoke Grenade of the Thief" is not activated, even if it is destroyed by a card effect.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Smoke%20Grenade%20of%20the%20Thief](https://edisonformat.net/card?name=Smoke%20Grenade%20of%20the%20Thief)
-
-### Edison-Accurate PSCT
-
-> ① If this Equip Card is destroyed by an effect: Look at your opponent's hand and discard 1 card from it.
-
-### Card Rulings
-
-*   If the equipped monster is destroyed by battle, this effect does not activate.
-*   If the equipped monster is destroyed at the same time as this card, this effect does activate.
-            

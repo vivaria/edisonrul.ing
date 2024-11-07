@@ -1,15 +1,5 @@
 # Magical Citadel of Endymion
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Magical%20Citadel%20of%20Endymion](https://edisonformat.net/card?name=Magical%20Citadel%20of%20Endymion)
@@ -39,4 +29,16 @@ About the ③ effect:
 
 About the ④ effect:
 *   This effect can only be applied if this card would be destroyed by card effect. It cannot be applied if your opponent activates a Field Spell.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

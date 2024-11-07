@@ -1,17 +1,5 @@
 # Zeman The Ape King
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   Sending a monster to the Graveyard is a cost. You can send a face-down monster. The effect that negates an attack targets the attacking monster.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Zeman%20the%20Ape%20King](https://edisonformat.net/card?name=Zeman%20the%20Ape%20King)
@@ -25,4 +13,18 @@ Source: [https://edisonformat.net/card?name=Zeman%20the%20Ape%20King](https://ed
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   Sending a monster to the Graveyard is a cost. You can send a face-down monster. The effect that negates an attack targets the attacking monster.
+
+

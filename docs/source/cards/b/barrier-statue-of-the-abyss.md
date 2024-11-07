@@ -1,5 +1,18 @@
 # Barrier Statue Of The Abyss
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Barrier%20Statue%20of%20the%20Abyss](https://edisonformat.net/card?name=Barrier%20Statue%20of%20the%20Abyss)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   If this card is destroyed by battle, the ② stops applying in Substep 6.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -16,15 +29,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   The "Shallow Grave" CAN'T be activated unless BOTH PLAYERS have 1(+) DARK monster in their GY.
 *   "Magical Hats" CAN'T be activated while a Barrier Statue is in play.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Barrier%20Statue%20of%20the%20Abyss](https://edisonformat.net/card?name=Barrier%20Statue%20of%20the%20Abyss)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   If this card is destroyed by battle, the ② stops applying in Substep 6.
-            

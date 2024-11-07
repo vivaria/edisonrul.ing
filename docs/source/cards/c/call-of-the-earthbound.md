@@ -1,15 +1,5 @@
 # Call of the Earthbound
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Call%20of%20the%20Earthbound](https://edisonformat.net/card?name=Call%20of%20the%20Earthbound)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Call%20of%20the%20Earthbound](https:
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

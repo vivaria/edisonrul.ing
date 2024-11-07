@@ -1,15 +1,5 @@
 # Koa'ki Meiru Maximus
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Koa'ki%20Meiru%20Maximus](https://edisonformat.net/card?name=Koa'ki%20Meiru%20Maximus)
@@ -27,4 +17,16 @@ Source: [https://edisonformat.net/card?name=Koa'ki%20Meiru%20Maximus](https://ed
 *   The Ⓜ in this card's text is a maintenance cost. It is not an effect, does not activate, and can't be negated.
 *   As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
 you can Summon it from the GY with card effects.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

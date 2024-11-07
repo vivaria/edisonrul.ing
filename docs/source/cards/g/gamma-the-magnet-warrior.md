@@ -1,15 +1,5 @@
 # Gamma the Magnet Warrior
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gamma%20the%20Magnet%20Warrior](https://edisonformat.net/card?name=Gamma%20the%20Magnet%20Warrior)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Gamma%20the%20Magnet%20Warrior](http
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

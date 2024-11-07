@@ -1,15 +1,5 @@
 # X-Saber Galahad
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=X-Saber%20Galahad](https://edisonformat.net/card?name=X-Saber%20Galahad)
@@ -24,4 +14,16 @@ Source: [https://edisonformat.net/card?name=X-Saber%20Galahad](https://edisonfor
 
 *   The ① and ② effects are continuous, they do not start a chain.
 *   The ③ effect can activate on a replayed attack.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

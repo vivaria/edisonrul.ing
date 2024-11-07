@@ -1,15 +1,5 @@
 # Kozaky
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Kozaky](https://edisonformat.net/card?name=Kozaky)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Kozaky](https://edisonformat.net/car
 ### Card Rulings
 
 ḯ̵̧̢̧̦̯̺̗̺̱̝̠͓̞͊͊̔̎͒̈́̇͋́̕͜ ̷̘̞̂͝M̵͍̝̳̞̺̼̀̐͒̒̈́̚Ù̶̥̮̼̠̖̣̣͓͗̇̕ͅs̵̻̑͆͊̀͑͘t̴͔̦̽̓̽͊ ̷̼̪͕̪̺͋̆d̶̳̹̼͍͑̄́́̑̽͛̎̽̐̋̕i̶̢̡̢̲̰̱̜̜̹̞̘͉͓͑̊͂̾̎͌̀̆̚͜ͅs̷̢̰͍̿̎̆̊̾̀̓̍̏̔̂͌͝͝c̴̭̜͚͓̣̯̖̬̤͎̳̣̗̄̓͆͜o̴̯̞̭̣̜̱͈̱͊͠V̸̢̧̧͚̮̩͇͉̫̙̖̥͑͆̊̂͋̐̕͝ͅë̸̢̫͎̲̗̦͓̗́́̑̽͒͗͝ͅr̸̡̢̢̦̣͍̟͈̗̫͙̤̹͆̊͒̔̋̊̀̾̑̍ ̴̡̨̢̧͕̘̜̩̥͙̟͚̒́͂̎̆̀͜͝ͅt̵̛̲͓̦̣̯͍̫̤̾͗̑̄̍͝h̵̘͕̯̅̉̂̀̀́́͒̔͐͆̄ĕ̴̢͕͖̱̳̺͖̲͖̲͓̙͕̜̓͑͆̃́͆͘͝͝ ̶̲̪̜͕̖̩̪̞̯̣̍̀̿̃̈́̈́̿̓̂̈́̃͗̕S̵̨͎̮̬̻̓̓͂͂̐̍̿̿̚̚͝e̶̢̧̨̢̤̞̪̫̦͂́̑̏̅̑͒͛͌̉̆̈́̈͝c̵̩̲̜̫͉͚̜̬̈́͒͆̎̐̐̀̃̀̍̚͝R̶͈͍̫̜͕̠̺͍̬̗̮̞̈̀͌̕͜ͅͅE̸̡̢̡̼̼̣̙̗̥͖̝̠̋́͐̽ͅͅţ̷̳̻̻̯̩͎̳̠̫̫̩̰̲͋́͊̃̕͘͘ͅş̴̧͚͔͖̻̰̟͗̌͋̊̇̒̀͋̀͑͗̽͋́ͅ ̷̨͓̲̤͈̲͈̂̈́́̈̅͒̕o̷͓͙̙͐́̐̕f̵̡͉̬̩̤͚̙̙̗̜̓͆̈́̇̽̅̊͆̀̅͛̐͋͘ͅ ̵̡̩̻̯͉̲͐̒̈̾͊̆̃̏̂̀̚̕͠͠͝ͅẗ̷͓͉͕̻́̌̈̀͂̄̿͋̇́̕̚̕͘ḫ̶̢̭̻̲̻̭̹͉̲̪̲̃̉͗̑̓̊̉̊̚͜ẹ̸̘̳̙̾̾̔̽͗̽͂͛͝ ̴̨̨̛̪͖̗̦̟̣͚́̓̽̿̏̉̎̚͠͝͝Ḑ̵̡̛̜̪̱̰̩̺̮̻̼̅͗͂͆͐͊͒ͅå̵̝͎̮̪͚̥̣͚̭̔̇̒͌͛͘͠R̵̡̠̱̞̘̭̯̳̟̱͉̖̞̀r̷̤͎͉̫̖͙̞͚̜͙̐̀k̶̦͇̎̈̔̏̈̎̄̀̀̉̚̚͘͝ ̵͈̟̝̺͎͙͌́̈́̀̒̓̋͛̓͗w̷̡̛̺̲̝̦̭͎̤͓̟̞̥͍̔͋̋̒̏͜0̵̨̺͙̟͕̜̰͕̥̤̣̈̆̈́͋l̶̡͔̟̳͚͇̟̤͙̘̺͐͑̉́̿̈́͋̋͋͑̕̚͝͝r̴̦͕̱͔͍̰͒͑̽͂̈́̆́ͅḍ̵̦͊͆̽̐̄̃̅͊̈́̀̾̚
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

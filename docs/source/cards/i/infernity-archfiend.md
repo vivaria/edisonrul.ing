@@ -1,15 +1,5 @@
 # Infernity Archfiend
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Infernity%20Archfiend](https://edisonformat.net/card?name=Infernity%20Archfiend)
@@ -35,4 +25,16 @@ About the ② effect:
 *   It can miss the timing. If you Special Summon this card by a card effect that does something sequentially after the summon (e.g. "ZERO-MAX") or if you Special Summon it by card effect at Chain Link 2 or higher, you cannot activate this effect.
 *   If you activate this effect but have a card(s) in your hand when attempting to resolve it, it will resolve without effect.
 *   You can activate this effect in the Damage Step.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

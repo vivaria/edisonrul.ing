@@ -1,15 +1,5 @@
 # Elemental HERO Terra Firma
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Terra%20Firma](https://edisonformat.net/card?name=Elemental%20HERO%20Terra%20Firma)
@@ -23,4 +13,16 @@ Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Terra%20Firma](ht
 ### Card Rulings
 
 *   The ATK gain is equal to the ATK the tributed monster had on the field, not its original ATK.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

@@ -1,15 +1,5 @@
 # Soul Rope
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Soul%20Rope](https://edisonformat.net/card?name=Soul%20Rope)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Soul%20Rope](https://edisonformat.ne
 ### Card Rulings
 
 You can't use this card in the Damage Step (so you can't activate it when a monster is destroyed by battle).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

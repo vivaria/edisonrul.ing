@@ -1,15 +1,5 @@
 # Shield & Sword
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Shield%20&%20Sword](https://edisonformat.net/card?name=Shield%20&%20Sword)
@@ -25,4 +15,16 @@ Source: [https://edisonformat.net/card?name=Shield%20&%20Sword](https://edisonfo
 *   The effect of this card lasts for your turn only.
 *   This card has no effect on Relinquished because Relinquished's original ATK/DEF are both zero.
 *   If Shrink affects a monster affect by Shield & Sword after Shield & Sword's effect is applied, its ATK will be half of the switched ATK (ie., half of its original DEF). If Shield & Sword's effect is applied after Shrink's, that monster's ATK will become equal to its original DEF, and its original DEF will be equal to its original ATK (The effect of Shrink effectively disappears).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

@@ -1,5 +1,18 @@
 # Frontline Base
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Frontline%20Base](https://edisonformat.net/card?name=Frontline%20Base)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   If you have multiple Frontline Bases, you can Special Summon 1 Union Monster for each.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   If you have multiple "Frontline Bases", you can Special Summon 1 Union Monster for each.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Frontline%20Base](https://edisonformat.net/card?name=Frontline%20Base)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   If you have multiple Frontline Bases, you can Special Summon 1 Union Monster for each.
-            

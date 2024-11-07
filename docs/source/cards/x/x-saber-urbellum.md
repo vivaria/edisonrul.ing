@@ -1,20 +1,5 @@
 # X-Saber Urbellum
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> ①_ _When this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.
-
-### Card Rulings
-
-*   The ① mandatory Trigger Effect activates & resolves on the field.
-    *   This effect activates in Substep 5 - After Damage Calculation.
-    *   This effect will only activate if your opponent has 4(+) cards in hand.
-    *   This effect returns a card, even if your opponent no longer has 4(+) cards in hand.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=X-Saber%20Urbellum](https://edisonformat.net/card?name=X-Saber%20Urbellum)
@@ -28,4 +13,21 @@ Source: [https://edisonformat.net/card?name=X-Saber%20Urbellum](https://edisonfo
 ### Card Rulings
 
 *   "Gorz the Emissary of Darkness" can be chained to this effect. Gorz will resolve first, and after that, the card to discard is chosen (even if this results in them having less than 4 cards in hand).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> ①_ _When this card inflicts Battle Damage to your opponent while they have 4 or more cards in their hand, place 1 random card from their hand on top of their Deck.
+
+### Card Rulings
+
+*   The ① mandatory Trigger Effect activates & resolves on the field.
+*   This effect activates in Substep 5 - After Damage Calculation.
+*   This effect will only activate if your opponent has 4(+) cards in hand.
+*   This effect returns a card, even if your opponent no longer has 4(+) cards in hand.
+
+

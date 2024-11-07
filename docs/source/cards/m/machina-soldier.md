@@ -1,15 +1,5 @@
 # Machina Soldier
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Machina%20Soldier](https://edisonformat.net/card?name=Machina%20Soldier)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Machina%20Soldier](https://edisonfor
 ### Card Rulings
 
 1. This effect does not target.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

@@ -1,17 +1,5 @@
 # Gigastone Omega
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   The effect of “Gigastone Omega” which activates in the Graveyard can activate during the Damage Step.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gigastone%20Omega](https://edisonformat.net/card?name=Gigastone%20Omega)
@@ -27,4 +15,18 @@ Source: [https://edisonformat.net/card?name=Gigastone%20Omega](https://edisonfor
 
 *   As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
 you can Summon it from the GY with card effects.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   The effect of “Gigastone Omega” which activates in the Graveyard can activate during the Damage Step.
+
+

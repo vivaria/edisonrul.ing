@@ -1,15 +1,5 @@
 # Goblin Recon Squad
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Goblin%20Recon%20Squad](https://edisonformat.net/card?name=Goblin%20Recon%20Squad)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Goblin%20Recon%20Squad](https://edis
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

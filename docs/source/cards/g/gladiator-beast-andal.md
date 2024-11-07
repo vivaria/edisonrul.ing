@@ -1,15 +1,5 @@
 # Gladiator Beast Andal
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Andal](https://edisonformat.net/card?name=Gladiator%20Beast%20Andal)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Andal](https://e
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

@@ -1,5 +1,18 @@
 # Smashing Ground
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Smashing%20Ground](https://edisonformat.net/card?name=Smashing%20Ground)
+
+### Edison-Accurate PSCT
+
+> ① Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).
+
+### Card Rulings
+
+*   The monster to destroy is chosen as this card resolves.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -16,15 +29,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   This card can be negated by "My Body as a Shield" because it guarantees an attempt to destroy a monster at resolution.
 *   "[Morphtronic Forcefield](https://yugipedia.com/wiki/Morphtronic_Forcefield)" cannot negate "Smashing Ground"/"Fissure"/etc, even if you only control "Morphtronic" monsters.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Smashing%20Ground](https://edisonformat.net/card?name=Smashing%20Ground)
-
-### Edison-Accurate PSCT
-
-> ① Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).
-
-### Card Rulings
-
-*   The monster to destroy is chosen as this card resolves.
-            

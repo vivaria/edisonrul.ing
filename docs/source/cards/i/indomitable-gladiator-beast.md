@@ -1,15 +1,5 @@
 # Indomitable Gladiator Beast
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Indomitable%20Gladiator%20Beast](https://edisonformat.net/card?name=Indomitable%20Gladiator%20Beast)
@@ -22,4 +12,16 @@ Source: [https://edisonformat.net/card?name=Indomitable%20Gladiator%20Beast](htt
 ### Card Rulings
 
 *   The GY effect is Spell Speed 1.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

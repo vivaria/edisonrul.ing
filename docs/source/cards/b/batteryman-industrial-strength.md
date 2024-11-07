@@ -1,19 +1,5 @@
 # Batteryman Industrial Strength
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   Removing 1 Thunder-Type monster from play is a cost to activate this effect.
-*   "Batteryman Industrial Strength"'s effect cannot be activated unless there is at least 1 monster and at least 1 Spell or Trap Card on the field.
-*   If an effect is chained that removes one of the targets from the field, the remaining target is destroyed.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Batteryman%20Industrial%20Strength](https://edisonformat.net/card?name=Batteryman%20Industrial%20Strength)
@@ -30,4 +16,20 @@ Source: [https://edisonformat.net/card?name=Batteryman%20Industrial%20Strength](
 Even if it was initially summoned that way, you still can't summon it with card effects.
 *   If one target leaves the field before this resolves, the other is still destroyed.
 *   This effect must target exactly 2 cards. It can't target only 1 card.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   Removing 1 Thunder-Type monster from play is a cost to activate this effect.
+*   "Batteryman Industrial Strength"'s effect cannot be activated unless there is at least 1 monster and at least 1 Spell or Trap Card on the field.
+*   If an effect is chained that removes one of the targets from the field, the remaining target is destroyed.
+
+

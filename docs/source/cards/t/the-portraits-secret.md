@@ -1,15 +1,5 @@
 # The Portrait's Secret
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=The%20Portrait's%20Secret](https://edisonformat.net/card?name=The%20Portrait's%20Secret)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=The%20Portrait's%20Secret](https://e
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

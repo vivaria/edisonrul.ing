@@ -1,5 +1,18 @@
 # Koa’Ki Meiru Ice
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Koa'ki%20Meiru%20Ice](https://edisonformat.net/card?name=Koa'ki%20Meiru%20Ice)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -15,15 +28,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   This effect targets 1 Special Summoned monster on the field.
 *   Even if a Special Summoned monster is flipped face-down, you can destroy it later with “Koa’ki Meiru Ice.”
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Koa'ki%20Meiru%20Ice](https://edisonformat.net/card?name=Koa'ki%20Meiru%20Ice)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            

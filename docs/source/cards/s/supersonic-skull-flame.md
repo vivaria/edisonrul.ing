@@ -1,15 +1,5 @@
 # Supersonic Skull Flame
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Supersonic%20Skull%20Flame](https://edisonformat.net/card?name=Supersonic%20Skull%20Flame)
@@ -25,4 +15,16 @@ Source: [https://edisonformat.net/card?name=Supersonic%20Skull%20Flame](https://
 
 *   As long as this card was initially Special Summoned by its own procedure (and the summon wasn't negated),
 you can Summon it from the GY with card effects.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

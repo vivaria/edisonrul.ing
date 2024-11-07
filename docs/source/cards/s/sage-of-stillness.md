@@ -1,5 +1,19 @@
 # Sage Of Stillness
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Sage%20of%20Stillness](https://edisonformat.net/card?name=Sage%20of%20Stillness)
+
+### Edison-Accurate PSCT
+
+> ① If this card destroys an opponent's monster by battle:
+> Your opponent can't activate Trap Cards during the next turn.
+
+### Card Rulings
+
+*   This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -16,16 +30,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   This effect will activate if you destroy your monster controlled by your opponent.
 *   The effects of face-up Continuous Cards can be activated even while the effect of this card is being applied.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Sage%20of%20Stillness](https://edisonformat.net/card?name=Sage%20of%20Stillness)
-
-### Edison-Accurate PSCT
-
-> ① If this card destroys an opponent's monster by battle:
-> Your opponent can't activate Trap Cards during the next turn.
-
-### Card Rulings
-
-*   This effect does not specify “and sends it to the GY”. It triggers at the end of the Damage Step, even if destroyed after Damage Calculation (either by battle or by effect), as long as it destroyed a monster by battle.
-            

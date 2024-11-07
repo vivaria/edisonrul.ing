@@ -1,5 +1,18 @@
 # Doitsu
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Doitsu](https://edisonformat.net/card?name=Doitsu)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   While “Non-Spellcasting Area” is active and “Doitsu” is equipped to “Soitsu”, the increase to ATK is not applied. However, the effect that destroys “Doitsu” instead of “Soitsu” is not an effect that “Soitsu” gets, so that effect is applied normally. Also, the effect of “Doitsu” that allows it to unequip and be Special Summoned is applied normally.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Doitsu](https://edisonformat.net/card?name=Doitsu)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
-            

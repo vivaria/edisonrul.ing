@@ -1,15 +1,5 @@
 # The All-Seeing White Tiger
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=The%20All-Seeing%20White%20Tiger](https://edisonformat.net/card?name=The%20All-Seeing%20White%20Tiger)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=The%20All-Seeing%20White%20Tiger](ht
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

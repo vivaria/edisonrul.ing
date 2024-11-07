@@ -1,15 +1,5 @@
 # Ocean Dragon Lord - Neo-Daedalus
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Ocean%20Dragon%20Lord%20-%20Neo-Daedalus](https://edisonformat.net/card?name=Ocean%20Dragon%20Lord%20-%20Neo-Daedalus)
@@ -24,4 +14,16 @@ Source: [https://edisonformat.net/card?name=Ocean%20Dragon%20Lord%20-%20Neo-Daed
 
 *   The only way you can Special Summon this card is via its own procedure.
 Even if it was initially summoned that way, you still can't summon it with card effects.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

@@ -1,15 +1,5 @@
 # Tempest Magician
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Tempest%20Magician](https://edisonformat.net/card?name=Tempest%20Magician)
@@ -27,4 +17,16 @@ Source: [https://edisonformat.net/card?name=Tempest%20Magician](https://edisonfo
 place 1 Counter on 3 different monsters, or
 place 1 Counter on 1 monster and 2 Counters on a different monster, or
 place all 3 on 1 monster.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

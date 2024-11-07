@@ -1,5 +1,18 @@
 # Kiryu
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Kiryu](https://edisonformat.net/card?name=Kiryu)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -14,15 +27,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If you Tribute "Kiryu" while it is equipped to "Dark Blade", you cannot then use "Super Rejuvenation" and count "Kiryu" as a Dragon-Type monster.
 *   If you Tribute "Kiryu" while equipped to "Dark Blade", "Dark Blade" no longer gets the ATK increase from "Kiryu" as it is no longer equipped with it.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Kiryu](https://edisonformat.net/card?name=Kiryu)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
-            

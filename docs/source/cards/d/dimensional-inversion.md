@@ -1,5 +1,20 @@
 # Dimensional Inversion
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Dimensional%20Inversion](https://edisonformat.net/card?name=Dimensional%20Inversion)
+
+### Edison-Accurate PSCT
+
+> ① When a monster(s) you own is banished by an opponent's card effect: Target 1 of those monsters; Special Summon that target.
+
+### Card Rulings
+
+*   You can activate this card if a monster(s) is banished by your opponent's "Macro Cosmos". If both players control "Macro Cosmos", the turn player's Macro is the one that banished the monster.
+*   This card's activation can have incorrect timing.
+*   You cannot target a Trap Monster with this card.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -18,17 +33,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If a card is removed from play with “Lightforce Sword” or “Different Dimension Capsule”, you cannot activate “Dimensional Inversion” because you cannot verify the card is a monster.
 *   You cannot activate "Dimensional Inversion" during the Damage Step.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Dimensional%20Inversion](https://edisonformat.net/card?name=Dimensional%20Inversion)
-
-### Edison-Accurate PSCT
-
-> ① When a monster(s) you own is banished by an opponent's card effect: Target 1 of those monsters; Special Summon that target.
-
-### Card Rulings
-
-*   You can activate this card if a monster(s) is banished by your opponent's "Macro Cosmos". If both players control "Macro Cosmos", the turn player's Macro is the one that banished the monster.
-*   This card's activation can have incorrect timing.
-*   You cannot target a Trap Monster with this card.
-            

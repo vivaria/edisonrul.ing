@@ -1,15 +1,5 @@
 # Miraculous Rebirth
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Miraculous%20Rebirth](https://edisonformat.net/card?name=Miraculous%20Rebirth)
@@ -24,4 +14,16 @@ Source: [https://edisonformat.net/card?name=Miraculous%20Rebirth](https://edison
 The first time, there is no "Miraculous Rebirth" in that Chain.
 The second time, there is only 1 "Miraculous Rebirth" in that Chain.
 The third time, there are multiple cards with the same name in the Chain.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

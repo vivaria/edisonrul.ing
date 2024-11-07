@@ -1,5 +1,19 @@
 # Creature Swap
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Creature%20Swap](https://edisonformat.net/card?name=Creature%20Swap)
+
+### Edison-Accurate PSCT
+
+> ① Each player chooses 1 monster they control, and switches control of those monsters.
+> (those monsters can't change their Battle Positions for the rest of the turn).
+
+### Card Rulings
+
+*   Unless both monsters can change control, neither changes control.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -21,16 +35,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   A player may select a monster that is equipped with "Snatch Steal". The original owner of the creature, who now controls the creature again, will still gain 1000 Life Points each turn from the opponent’s "Snatch Steal" card as long as it remains on the field.
 *   A player may activate "Change of Heart" to gain control of an opponent’s monster, and then activate "Creature Swap" and select that monster to return to the opponent. At the end of the turn, the monster targeted by "Change of Heart" does not switch sides again since it is already on the owner’s side of the field.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Creature%20Swap](https://edisonformat.net/card?name=Creature%20Swap)
-
-### Edison-Accurate PSCT
-
-> ① Each player chooses 1 monster they control, and switches control of those monsters.
-> (those monsters can't change their Battle Positions for the rest of the turn).
-
-### Card Rulings
-
-*   Unless both monsters can change control, neither changes control.
-            

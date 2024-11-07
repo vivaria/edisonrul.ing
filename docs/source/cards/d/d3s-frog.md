@@ -1,15 +1,5 @@
 # D.3.S. Frog
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=D.3.S.%20Frog](https://edisonformat.net/card?name=D.3.S.%20Frog)
@@ -23,4 +13,16 @@ Source: [https://edisonformat.net/card?name=D.3.S.%20Frog](https://edisonformat.
 ### Card Rulings
 
 *   You can Fusion Summon this card with a "Dupe Frog" being treated as "Des Frog", but not with "King of the Swamp".
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

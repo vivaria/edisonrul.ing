@@ -1,5 +1,18 @@
 # Heavy Mech Support Platform
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Heavy%20Mech%20Support%20Platform](https://edisonformat.net/card?name=Heavy%20Mech%20Support%20Platform)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -16,15 +29,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If "Heavy Mech Support Platform" is equipped to "Big Core" or "Reflect Bounder" and they would be destroyed by their effect, "Heavy Mech Support Platform" is destroyed instead.
 *   If “Reflect Bounder” equipped with “Heavy Mech Support Platform” is attacked by “Dark Ruler Ha Des”, during damage calculation “Heavy Mech Support Platform” is destroyed instead of “Reflect Bounder”. Then, after damage calculation, “Reflect Bounder” will destroy itself by its own effect. Its effect is not negated, because it was not destroyed by “Dark Ruler Ha Des”.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Heavy%20Mech%20Support%20Platform](https://edisonformat.net/card?name=Heavy%20Mech%20Support%20Platform)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
-            

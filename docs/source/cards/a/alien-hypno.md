@@ -1,5 +1,18 @@
 # Alien Hypno
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Alien%20Hypno](https://edisonformat.net/card?name=Alien%20Hypno)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,24 +25,13 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 *   The Ⓤ Unclassified effect cannot be negated, even while in the Graveyard.
 *   The Ⓒ Condition allows this monster to be Gemini Summoned.
 *   The ① Ignition Effect can be activated multiple times during the same turn.
-    *   This effect targets the selected monster, both when the monster is selected and as long as the selected monster remains on the field.
-    *   If you take control of your opponent’s monster with “Alien Hypno” and “Skill Drain” is activated, control of the selected monster is returned to the opponent. If “Skill Drain” is later negated or removed from the field, the selected monster is returned to your control.
-    *   If you take control of your opponent’s monster with “Alien Hypno” and afterwards “Alien Hypno” is flipped face-down, every monster that you are controlling with “Alien Hypno’s” effect is returned to your opponent.
-    *   If you take control of your opponent’s monster with “Alien Hypno” and afterwards the selected monster is flipped face-down, the selected monster is returned to your opponent.
+*   This effect targets the selected monster, both when the monster is selected and as long as the selected monster remains on the field.
+*   If you take control of your opponent’s monster with “Alien Hypno” and “Skill Drain” is activated, control of the selected monster is returned to the opponent. If “Skill Drain” is later negated or removed from the field, the selected monster is returned to your control.
+*   If you take control of your opponent’s monster with “Alien Hypno” and afterwards “Alien Hypno” is flipped face-down, every monster that you are controlling with “Alien Hypno’s” effect is returned to your opponent.
+*   If you take control of your opponent’s monster with “Alien Hypno” and afterwards the selected monster is flipped face-down, the selected monster is returned to your opponent.
 *   The ② Continuous Effect applies while this card is face-up AND treated as an Effect Monster.
-    *   The effect of “Alien Hypno” that removes 1 A-Counter from the monsters controlled through its effect and the effect that destroys the controlled monsters when the last A-Counter is removed do not start a Chain.
+*   The effect of “Alien Hypno” that removes 1 A-Counter from the monsters controlled through its effect and the effect that destroys the controlled monsters when the last A-Counter is removed do not start a Chain.
 *   The ③ Continuous Effect applies while this card is face-up AND treated as an Effect Monster.
-    *   This effect destroys the monster(s) without starting a Chain.
+*   This effect destroys the monster(s) without starting a Chain.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Alien%20Hypno](https://edisonformat.net/card?name=Alien%20Hypno)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
-            

@@ -1,5 +1,20 @@
 # Ceasefire
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Ceasefire](https://edisonformat.net/card?name=Ceasefire)
+
+### Edison-Accurate PSCT
+
+> ① If a Set monster or Effect Monster is on the field:
+> Change all face-down Defense Position monsters on the field to face-up Defense Position,
+> (Flip effects aren't activated), also your opponent takes 500 damage for each Effect Monster on the field.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -16,17 +31,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If "Jinzo" is flipped by "Ceasefire", the damage from "Ceasefire"'s effect is still inflicted.
 *   Monster Tokens and monsters being treated as Equip Cards are not counted as Effect Monsters.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Ceasefire](https://edisonformat.net/card?name=Ceasefire)
-
-### Edison-Accurate PSCT
-
-> ① If a Set monster or Effect Monster is on the field:
-> Change all face-down Defense Position monsters on the field to face-up Defense Position,
-> (Flip effects aren't activated), also your opponent takes 500 damage for each Effect Monster on the field.
-
-### Card Rulings
-
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            

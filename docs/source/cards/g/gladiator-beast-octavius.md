@@ -1,15 +1,5 @@
 # Gladiator Beast Octavius
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Octavius](https://edisonformat.net/card?name=Gladiator%20Beast%20Octavius)
@@ -27,4 +17,16 @@ Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Octavius](https:
 (If this card's attack is negated, the ② effect can't activate).
 *   If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase,
 they don’t go on the same Chain (they each activate, one after another, each on their own Chain).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

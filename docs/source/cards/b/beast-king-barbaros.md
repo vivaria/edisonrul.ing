@@ -1,15 +1,5 @@
 # Beast King Barbaros
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Beast%20King%20Barbaros](https://edisonformat.net/card?name=Beast%20King%20Barbaros)
@@ -23,4 +13,16 @@ Source: [https://edisonformat.net/card?name=Beast%20King%20Barbaros](https://edi
 ### Card Rulings
 
 *   If this card, summoned without Tributing, becomes flipped face-down or has its effects negated, its ATK returns to 3000.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

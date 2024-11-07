@@ -1,15 +1,5 @@
 # Gilford the Legend
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gilford%20the%20Legend](https://edisonformat.net/card?name=Gilford%20the%20Legend)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Gilford%20the%20Legend](https://edis
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

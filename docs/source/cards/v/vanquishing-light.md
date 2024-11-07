@@ -1,15 +1,5 @@
 # Vanquishing Light
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Vanquishing%20Light](https://edisonformat.net/card?name=Vanquishing%20Light)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Vanquishing%20Light](https://edisonf
 ### Card Rulings
 
 *   This card can't be used to negate monsters summoned via card effects. It must be used to negate "inherent" summons, such as Synchro Symmons, the Summon of "Machina Fortress", or "Cyber Dragon".
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

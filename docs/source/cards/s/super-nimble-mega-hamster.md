@@ -1,15 +1,5 @@
 # Super-Nimble Mega Hamster
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Super-Nimble%20Mega%20Hamster](https://edisonformat.net/card?name=Super-Nimble%20Mega%20Hamster)
@@ -25,4 +15,16 @@ FLIP effects are mandatory to activate.
 *   This effect will activate even if you can't Special Summon.
 
 You choose whether or not to Summon a monster when the effect resolves.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

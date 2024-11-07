@@ -1,15 +1,5 @@
 # Banisher of the Radiance
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Banisher%20of%20the%20Radiance](https://edisonformat.net/card?name=Banisher%20of%20the%20Radiance)
@@ -26,4 +16,16 @@ While this effect is applying:
 *   You can still discard and tribute cards.
 *   You can't "Discard 1 card from your hand to the GY" in order to pay a cost.
 *   Future Fusion can still be activated (the monsters are banished instead of being sent to the GY).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

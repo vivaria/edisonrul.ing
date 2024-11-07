@@ -1,15 +1,5 @@
 # Ancient One of the Deep Forest
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Ancient%20One%20of%20the%20Deep%20Forest](https://edisonformat.net/card?name=Ancient%20One%20of%20the%20Deep%20Forest)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Ancient%20One%20of%20the%20Deep%20Fo
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

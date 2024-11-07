@@ -1,15 +1,5 @@
 # Gladiator Beast Torax
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Torax](https://edisonformat.net/card?name=Gladiator%20Beast%20Torax)
@@ -24,4 +14,16 @@ Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Torax](https://e
 *   This can activate and resolve while “Skill Drain” is applying (without being negated).
 *   If multiple “Gladiator Beast” effects are activated at the end of the Battle Phase,
 they don’t go on the same Chain (they each activate, one after another, each on their own Chain).
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

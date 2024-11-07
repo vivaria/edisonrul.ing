@@ -1,5 +1,18 @@
 # Berfomet
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Berfomet](https://edisonformat.net/card?name=Berfomet)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   If “Berfomet” is not face-up on the field when its effect resolves, you still add “Gazelle the King of Mythical Beasts” to your hand.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   If “Berfomet” is not face-up on the field when its effect resolves, you still add “Gazelle the King of Mythical Beasts” to your hand.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Berfomet](https://edisonformat.net/card?name=Berfomet)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   If “Berfomet” is not face-up on the field when its effect resolves, you still add “Gazelle the King of Mythical Beasts” to your hand.
-            

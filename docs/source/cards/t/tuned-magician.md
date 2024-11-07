@@ -1,15 +1,5 @@
 # Tuned Magician
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Tuned%20Magician](https://edisonformat.net/card?name=Tuned%20Magician)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Tuned%20Magician](https://edisonform
 ### Card Rulings
 
 These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compendium/gemini-monsters
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

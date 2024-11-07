@@ -1,15 +1,5 @@
 # Evil Dragon Ananta
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Evil%20Dragon%20Ananta](https://edisonformat.net/card?name=Evil%20Dragon%20Ananta)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Evil%20Dragon%20Ananta](https://edis
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

@@ -1,5 +1,18 @@
 # Rainbow Neos
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Rainbow%20Neos](https://edisonformat.net/card?name=Rainbow%20Neos)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   All three of Rainbow Neos' effects are Ignition Effects.
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -12,15 +25,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   All three of "Rainbow Neos'" effects are Ignition Effects.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Rainbow%20Neos](https://edisonformat.net/card?name=Rainbow%20Neos)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   All three of Rainbow Neos' effects are Ignition Effects.
-            

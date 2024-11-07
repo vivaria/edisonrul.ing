@@ -1,15 +1,5 @@
 # The Gross Ghost of Fled Dreams
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=The%20Gross%20Ghost%20of%20Fled%20Dreams](https://edisonformat.net/card?name=The%20Gross%20Ghost%20of%20Fled%20Dreams)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=The%20Gross%20Ghost%20of%20Fled%20Dr
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

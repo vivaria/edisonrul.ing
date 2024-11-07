@@ -1,18 +1,5 @@
 # Dark Valkyria
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   While "Dark Valkyria" is an Effect Monster, you can place Spell Counters onto it with other card effects, like "Pitch-Black Power Stone" and "Apprentice Magician."
-*   If "Dark Valkyria" is treated as an Effect Monster due to the effect of “Superalloy Beast Raptinus” and has a Spell Counter when "Superalloy Beast Raptinus" is removed from the field, the Spell Counter is removed because "Dark Valkyria" is changed to a Normal Monster. If "Dark Valkyria" becomes an Effect Monster again afterwards, its effect can be used once more.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Dark%20Valkyria](https://edisonformat.net/card?name=Dark%20Valkyria)
@@ -33,4 +20,19 @@ About the ① effect:
 *   If "Dark Valkyria" is treated as an Effect Monster due to the effect of "Supervise" or "Superalloy Beast Raptinus" and has a Spell Counter when that "Superalloy Beast Raptinus" or "Supervise" is removed from the field, the Spell Counter is removed because "Dark Valkyria" is changed to a Normal Monster. If "Dark Valkyria" becomes an Effect Monster again afterwards, its effect can be used once more.
 About the ② effect:
 *   If "Dark Valkyria"'s ATK stat is frozen (e.g. by the effect of "Blackwing - Gale the Whirlwind" or "Black Garden") while it is considered an Effect Monster, it’s ATK will not increase for each Spell Counter on this card.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   While "Dark Valkyria" is an Effect Monster, you can place Spell Counters onto it with other card effects, like "Pitch-Black Power Stone" and "Apprentice Magician."
+*   If "Dark Valkyria" is treated as an Effect Monster due to the effect of “Superalloy Beast Raptinus” and has a Spell Counter when "Superalloy Beast Raptinus" is removed from the field, the Spell Counter is removed because "Dark Valkyria" is changed to a Normal Monster. If "Dark Valkyria" becomes an Effect Monster again afterwards, its effect can be used once more.
+
+

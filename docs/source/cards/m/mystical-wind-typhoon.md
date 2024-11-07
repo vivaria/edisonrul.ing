@@ -1,15 +1,5 @@
 # Mystical Wind Typhoon
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Mystical%20Wind%20Typhoon](https://edisonformat.net/card?name=Mystical%20Wind%20Typhoon)
@@ -24,4 +14,16 @@ Source: [https://edisonformat.net/card?name=Mystical%20Wind%20Typhoon](https://e
 The first time, there is no "Mystical Wind Typhoon" in that Chain.
 The second time, there is only 1 "Mystical Wind Typhoon" in that Chain.
 The third time, there are multiple cards with the same name in the Chain.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

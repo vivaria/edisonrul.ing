@@ -1,18 +1,5 @@
 # Black Horn Of Heaven
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   Like “Horn of Heaven”, this card cannot be used against “Premature Burial”, etc. It can be used against inherent Special Summon effects like “Cyber Dragon” or “Dark Necrofear”.
-*   You cannot activate “Black Horn of Heaven” when you Special Summon “Lava Golem” onto your opponent’s side of the field.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Black%20Horn%20of%20Heaven](https://edisonformat.net/card?name=Black%20Horn%20of%20Heaven)
@@ -31,4 +18,19 @@ It can negate:
 It can't negate:
 *   The Summon of a monster being Summoned during an effect's resolution, eg by “Call of the Haunted”.
 *   "Immediately after you do" effects, even if that effect was CL1.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   Like “Horn of Heaven”, this card cannot be used against “Premature Burial”, etc. It can be used against inherent Special Summon effects like “Cyber Dragon” or “Dark Necrofear”.
+*   You cannot activate “Black Horn of Heaven” when you Special Summon “Lava Golem” onto your opponent’s side of the field.
+
+

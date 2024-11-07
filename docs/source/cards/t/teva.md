@@ -1,15 +1,5 @@
 # Teva
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Teva](https://edisonformat.net/card?name=Teva)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Teva](https://edisonformat.net/card?
 ### Card Rulings
 
 *   This effect starts a chain. 'Pulling the Rug' can be chained to it.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

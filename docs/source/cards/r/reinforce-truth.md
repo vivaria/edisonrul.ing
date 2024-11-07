@@ -1,19 +1,5 @@
 # Reinforce Truth
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   You can activate “Reinforce Truth” during your opponent’s turn.
-*   If the activation of “Reinforce Truth” is negated by “Seven Tools of the Bandit” or “Solemn Judgment” you can still conduct your Battle Phase.
-*   If the effect of “Reinforce Truth” is negated by “Royal Decree” you cannot conduct your Battle Phase.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Reinforce%20Truth](https://edisonformat.net/card?name=Reinforce%20Truth)
@@ -29,4 +15,20 @@ Source: [https://edisonformat.net/card?name=Reinforce%20Truth](https://edisonfor
 
 *   If this card's activation is negated (eg by "Solemn Judgment"), you can still conduct your Battle Phase.
 *   If this card's effect is negated (eg by "Trap Stun"), you cannot conduct your Battle Phase.
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   You can activate “Reinforce Truth” during your opponent’s turn.
+*   If the activation of “Reinforce Truth” is negated by “Seven Tools of the Bandit” or “Solemn Judgment” you can still conduct your Battle Phase.
+*   If the effect of “Reinforce Truth” is negated by “Royal Decree” you cannot conduct your Battle Phase.
+
+

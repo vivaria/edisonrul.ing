@@ -1,15 +1,5 @@
 # Elemental HERO Woodsman
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-### Card Text
-
-> No card text available for this card.
-
-### Card Rulings
-
-No rulings found for this card.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Woodsman](https://edisonformat.net/card?name=Elemental%20HERO%20Woodsman)
@@ -21,4 +11,16 @@ Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Woodsman](https:/
 ### Card Rulings
 
 *   This card can only search "Polymerization". It can't search "Super Polymerization".
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

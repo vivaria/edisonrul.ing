@@ -1,17 +1,5 @@
 # Psychic Lifetrancer
 
-## Edisonformat.com (Historical, Pre-UTW Rulings)
-
-Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
-
-### Card Text
-
-> No card text found for this card.
-
-### Card Rulings
-
-*   Removing 1 Psychic-Type monster in your Graveyard from play is a cost.
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Psychic%20Lifetrancer](https://edisonformat.net/card?name=Psychic%20Lifetrancer)
@@ -24,4 +12,18 @@ Source: [https://edisonformat.net/card?name=Psychic%20Lifetrancer](https://ediso
 ### Card Rulings
 
 No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
-            
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+*   Removing 1 Psychic-Type monster in your Graveyard from play is a cost.
+
+

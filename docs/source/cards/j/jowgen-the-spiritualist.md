@@ -1,5 +1,18 @@
 # Jowgen The Spiritualist
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Jowgen%20the%20Spiritualist](https://edisonformat.net/card?name=Jowgen%20the%20Spiritualist)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
+
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
@@ -14,15 +27,4 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   While this card is on the field neither player can activate "Scapegoat", "Monster Reborn", "Call of the Haunted", "Magical Hats", "Dedication through Light and Darkness", or any other card that Special Summons a monster.
 *   If "Jowgen the Spiritualist" is Special Summoned by the effect of "Cyber Jar", all monsters that are Special Summoned by that "Cyber Jar" are Summoned successfully.
 
-## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Jowgen%20the%20Spiritualist](https://edisonformat.net/card?name=Jowgen%20the%20Spiritualist)
-
-### Edison-Accurate PSCT
-
-> No Edison-Accurate PSCT available for this card.
-
-### Card Rulings
-
-*   If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
-            
