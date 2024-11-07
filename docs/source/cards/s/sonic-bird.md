@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sonic%20Bird
+Source: [https://edisonformat.net/card?name=Sonic%20Bird](https://edisonformat.net/card?name=Sonic%20Bird)
 
 ### Edison-Accurate PSCT
 

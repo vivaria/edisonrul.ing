@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Gift%20of%20Greed
+Source: [https://edisonformat.net/card?name=The%20Gift%20of%20Greed](https://edisonformat.net/card?name=The%20Gift%20of%20Greed)
 
 ### Edison-Accurate PSCT
 

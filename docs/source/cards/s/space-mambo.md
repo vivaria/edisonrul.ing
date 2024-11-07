@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Space%20Mambo
+Source: [https://edisonformat.net/card?name=Space%20Mambo](https://edisonformat.net/card?name=Space%20Mambo)
 
 ### Edison-Accurate PSCT
 

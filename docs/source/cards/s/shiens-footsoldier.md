@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Shien's%20Footsoldier
+Source: [https://edisonformat.net/card?name=Shien's%20Footsoldier](https://edisonformat.net/card?name=Shien's%20Footsoldier)
 
 ### Edison-Accurate PSCT
 

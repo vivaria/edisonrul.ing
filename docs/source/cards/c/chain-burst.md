@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Chain%20Burst
+Source: [https://edisonformat.net/card?name=Chain%20Burst](https://edisonformat.net/card?name=Chain%20Burst)
 
 ### Edison-Accurate PSCT
 

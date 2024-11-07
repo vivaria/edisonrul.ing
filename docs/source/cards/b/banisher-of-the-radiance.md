@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Banisher%20of%20the%20Radiance
+Source: [https://edisonformat.net/card?name=Banisher%20of%20the%20Radiance](https://edisonformat.net/card?name=Banisher%20of%20the%20Radiance)
 
 ### Edison-Accurate PSCT
 

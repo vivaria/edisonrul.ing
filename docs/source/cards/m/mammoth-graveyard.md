@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mammoth%20Graveyard
+Source: [https://edisonformat.net/card?name=Mammoth%20Graveyard](https://edisonformat.net/card?name=Mammoth%20Graveyard)
 
 ### Edison-Accurate PSCT
 

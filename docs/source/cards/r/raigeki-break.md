@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Raigeki%20Break
+Source: [https://edisonformat.net/card?name=Raigeki%20Break](https://edisonformat.net/card?name=Raigeki%20Break)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mei-Kou,%20Master%20of%20Barriers
+Source: [https://edisonformat.net/card?name=Mei-Kou,%20Master%20of%20Barriers](https://edisonformat.net/card?name=Mei-Kou,%20Master%20of%20Barriers)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mist%20Valley%20Soldier
+Source: [https://edisonformat.net/card?name=Mist%20Valley%20Soldier](https://edisonformat.net/card?name=Mist%20Valley%20Soldier)
 
 ### Edison-Accurate PSCT
 

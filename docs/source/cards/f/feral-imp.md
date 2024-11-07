@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Feral%20Imp
+Source: [https://edisonformat.net/card?name=Feral%20Imp](https://edisonformat.net/card?name=Feral%20Imp)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Boot-Up%20Soldier%20-%20Dread%20Dynamo
+Source: [https://edisonformat.net/card?name=Boot-Up%20Soldier%20-%20Dread%20Dynamo](https://edisonformat.net/card?name=Boot-Up%20Soldier%20-%20Dread%20Dynamo)
 
 ### Edison-Accurate PSCT
 

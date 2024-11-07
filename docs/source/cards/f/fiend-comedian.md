@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fiend%20Comedian
+Source: [https://edisonformat.net/card?name=Fiend%20Comedian](https://edisonformat.net/card?name=Fiend%20Comedian)
 
 ### Edison-Accurate PSCT
 

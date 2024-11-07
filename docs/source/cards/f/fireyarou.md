@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fireyarou
+Source: [https://edisonformat.net/card?name=Fireyarou](https://edisonformat.net/card?name=Fireyarou)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Princess%20Pikeru
+Source: [https://edisonformat.net/card?name=Princess%20Pikeru](https://edisonformat.net/card?name=Princess%20Pikeru)
 
 ### Edison-Accurate PSCT
 

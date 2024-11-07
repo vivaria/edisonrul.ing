@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Samsara%20Kaiser
+Source: [https://edisonformat.net/card?name=Samsara%20Kaiser](https://edisonformat.net/card?name=Samsara%20Kaiser)
 
 ### Edison-Accurate PSCT
 

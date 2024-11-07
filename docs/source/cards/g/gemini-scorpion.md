@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gemini%20Scorpion
+Source: [https://edisonformat.net/card?name=Gemini%20Scorpion](https://edisonformat.net/card?name=Gemini%20Scorpion)
 
 ### Edison-Accurate PSCT
 

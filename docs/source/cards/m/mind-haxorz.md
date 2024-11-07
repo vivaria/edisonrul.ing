@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mind%20Haxorz
+Source: [https://edisonformat.net/card?name=Mind%20Haxorz](https://edisonformat.net/card?name=Mind%20Haxorz)
 
 ### Edison-Accurate PSCT
 

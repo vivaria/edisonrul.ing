@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Invitation%20to%20a%20Dark%20Sleep
+Source: [https://edisonformat.net/card?name=Invitation%20to%20a%20Dark%20Sleep](https://edisonformat.net/card?name=Invitation%20to%20a%20Dark%20Sleep)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hyozanryu
+Source: [https://edisonformat.net/card?name=Hyozanryu](https://edisonformat.net/card?name=Hyozanryu)
 
 ### Edison-Accurate PSCT
 

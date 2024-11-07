@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Swallow's%20Nest
+Source: [https://edisonformat.net/card?name=Swallow's%20Nest](https://edisonformat.net/card?name=Swallow's%20Nest)
 
 ### Edison-Accurate PSCT
 

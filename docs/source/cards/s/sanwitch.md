@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sanwitch
+Source: [https://edisonformat.net/card?name=Sanwitch](https://edisonformat.net/card?name=Sanwitch)
 
 ### Edison-Accurate PSCT
 

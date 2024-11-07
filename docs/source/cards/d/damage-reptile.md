@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Damage%20=%20Reptile
+Source: [https://edisonformat.net/card?name=Damage%20=%20Reptile](https://edisonformat.net/card?name=Damage%20=%20Reptile)
 
 ### Edison-Accurate PSCT
 

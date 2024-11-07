@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Frontier%20Wiseman
+Source: [https://edisonformat.net/card?name=Frontier%20Wiseman](https://edisonformat.net/card?name=Frontier%20Wiseman)
 
 ### Edison-Accurate PSCT
 

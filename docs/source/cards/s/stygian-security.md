@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Stygian%20Security
+Source: [https://edisonformat.net/card?name=Stygian%20Security](https://edisonformat.net/card?name=Stygian%20Security)
 
 ### Edison-Accurate PSCT
 

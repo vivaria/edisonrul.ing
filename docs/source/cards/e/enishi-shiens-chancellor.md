@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Enishi,%20Shien's%20Chancellor
+Source: [https://edisonformat.net/card?name=Enishi,%20Shien's%20Chancellor](https://edisonformat.net/card?name=Enishi,%20Shien's%20Chancellor)
 
 ### Edison-Accurate PSCT
 

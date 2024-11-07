@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -20,7 +20,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gravekeeper's%20Assailant
+Source: [https://edisonformat.net/card?name=Gravekeeper's%20Assailant](https://edisonformat.net/card?name=Gravekeeper's%20Assailant)
 
 ### Edison-Accurate PSCT
 

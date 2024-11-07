@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hitotsu-Me%20Giant
+Source: [https://edisonformat.net/card?name=Hitotsu-Me%20Giant](https://edisonformat.net/card?name=Hitotsu-Me%20Giant)
 
 ### Edison-Accurate PSCT
 

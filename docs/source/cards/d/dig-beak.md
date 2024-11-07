@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dig%20Beak
+Source: [https://edisonformat.net/card?name=Dig%20Beak](https://edisonformat.net/card?name=Dig%20Beak)
 
 ### Edison-Accurate PSCT
 

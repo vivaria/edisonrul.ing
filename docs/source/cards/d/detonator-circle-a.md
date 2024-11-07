@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Detonator%20Circle%20A
+Source: [https://edisonformat.net/card?name=Detonator%20Circle%20A](https://edisonformat.net/card?name=Detonator%20Circle%20A)
 
 ### Edison-Accurate PSCT
 

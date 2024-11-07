@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mystic%20Box
+Source: [https://edisonformat.net/card?name=Mystic%20Box](https://edisonformat.net/card?name=Mystic%20Box)
 
 ### Edison-Accurate PSCT
 

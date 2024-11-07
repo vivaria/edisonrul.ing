@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Blackwing%20-%20Silverwind%20the%20Ascendant
+Source: [https://edisonformat.net/card?name=Blackwing%20-%20Silverwind%20the%20Ascendant](https://edisonformat.net/card?name=Blackwing%20-%20Silverwind%20the%20Ascendant)
 
 ### Edison-Accurate PSCT
 

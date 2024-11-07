@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=D.D.%20Borderline
+Source: [https://edisonformat.net/card?name=D.D.%20Borderline](https://edisonformat.net/card?name=D.D.%20Borderline)
 
 ### Edison-Accurate PSCT
 

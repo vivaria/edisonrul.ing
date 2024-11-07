@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Bladefly
+Source: [https://edisonformat.net/card?name=Bladefly](https://edisonformat.net/card?name=Bladefly)
 
 ### Edison-Accurate PSCT
 

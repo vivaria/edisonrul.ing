@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Trial%20of%20Nightmare
+Source: [https://edisonformat.net/card?name=Trial%20of%20Nightmare](https://edisonformat.net/card?name=Trial%20of%20Nightmare)
 
 ### Edison-Accurate PSCT
 

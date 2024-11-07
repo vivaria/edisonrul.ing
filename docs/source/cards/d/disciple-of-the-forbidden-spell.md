@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -18,7 +18,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Disciple%20of%20the%20Forbidden%20Spell
+Source: [https://edisonformat.net/card?name=Disciple%20of%20the%20Forbidden%20Spell](https://edisonformat.net/card?name=Disciple%20of%20the%20Forbidden%20Spell)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Colossal%20Fighter%20Assault%20Mode
+Source: [https://edisonformat.net/card?name=Colossal%20Fighter%20Assault%20Mode](https://edisonformat.net/card?name=Colossal%20Fighter%20Assault%20Mode)
 
 ### Edison-Accurate PSCT
 

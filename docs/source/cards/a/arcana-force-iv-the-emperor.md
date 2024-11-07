@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Arcana%20Force%20IV%20-%20The%20Emperor
+Source: [https://edisonformat.net/card?name=Arcana%20Force%20IV%20-%20The%20Emperor](https://edisonformat.net/card?name=Arcana%20Force%20IV%20-%20The%20Emperor)
 
 ### Edison-Accurate PSCT
 

@@ -15,7 +15,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Jinzo
+Source: [https://edisonformat.net/card?name=Jinzo](https://edisonformat.net/card?name=Jinzo)
 
 ### Edison-Accurate PSCT
 

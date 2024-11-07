@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Two-Mouth%20Darkruler
+Source: [https://edisonformat.net/card?name=Two-Mouth%20Darkruler](https://edisonformat.net/card?name=Two-Mouth%20Darkruler)
 
 ### Edison-Accurate PSCT
 

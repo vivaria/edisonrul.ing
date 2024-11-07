@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sorcerer%20of%20Dark%20Magic
+Source: [https://edisonformat.net/card?name=Sorcerer%20of%20Dark%20Magic](https://edisonformat.net/card?name=Sorcerer%20of%20Dark%20Magic)
 
 ### Edison-Accurate PSCT
 

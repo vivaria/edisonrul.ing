@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Elemental%20HERO%20Sparkman
+Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Sparkman](https://edisonformat.net/card?name=Elemental%20HERO%20Sparkman)
 
 ### Edison-Accurate PSCT
 

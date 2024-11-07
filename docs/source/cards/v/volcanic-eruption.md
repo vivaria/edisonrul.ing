@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Volcanic%20Eruption
+Source: [https://edisonformat.net/card?name=Volcanic%20Eruption](https://edisonformat.net/card?name=Volcanic%20Eruption)
 
 ### Edison-Accurate PSCT
 

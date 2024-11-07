@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Battle%20Ox
+Source: [https://edisonformat.net/card?name=Battle%20Ox](https://edisonformat.net/card?name=Battle%20Ox)
 
 ### Edison-Accurate PSCT
 

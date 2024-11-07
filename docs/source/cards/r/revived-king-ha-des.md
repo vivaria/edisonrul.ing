@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -23,7 +23,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Revived%20King%20Ha%20Des
+Source: [https://edisonformat.net/card?name=Revived%20King%20Ha%20Des](https://edisonformat.net/card?name=Revived%20King%20Ha%20Des)
 
 ### Edison-Accurate PSCT
 

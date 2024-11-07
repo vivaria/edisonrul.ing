@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ogre%20of%20the%20Scarlet%20Sorrow
+Source: [https://edisonformat.net/card?name=Ogre%20of%20the%20Scarlet%20Sorrow](https://edisonformat.net/card?name=Ogre%20of%20the%20Scarlet%20Sorrow)
 
 ### Edison-Accurate PSCT
 

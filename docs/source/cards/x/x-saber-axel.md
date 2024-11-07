@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=X-Saber%20Axel
+Source: [https://edisonformat.net/card?name=X-Saber%20Axel](https://edisonformat.net/card?name=X-Saber%20Axel)
 
 ### Edison-Accurate PSCT
 

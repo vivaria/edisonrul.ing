@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Maiden%20of%20the%20Moonlight
+Source: [https://edisonformat.net/card?name=Maiden%20of%20the%20Moonlight](https://edisonformat.net/card?name=Maiden%20of%20the%20Moonlight)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Zone%20Eater
+Source: [https://edisonformat.net/card?name=Zone%20Eater](https://edisonformat.net/card?name=Zone%20Eater)
 
 ### Edison-Accurate PSCT
 

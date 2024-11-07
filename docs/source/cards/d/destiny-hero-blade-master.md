@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Blade%20Master
+Source: [https://edisonformat.net/card?name=Destiny%20HERO%20-%20Blade%20Master](https://edisonformat.net/card?name=Destiny%20HERO%20-%20Blade%20Master)
 
 ### Edison-Accurate PSCT
 

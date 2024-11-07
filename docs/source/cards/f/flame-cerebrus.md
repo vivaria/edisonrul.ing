@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Flame%20Cerebrus
+Source: [https://edisonformat.net/card?name=Flame%20Cerebrus](https://edisonformat.net/card?name=Flame%20Cerebrus)
 
 ### Edison-Accurate PSCT
 

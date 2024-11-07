@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Super%20Conductor%20Tyranno
+Source: [https://edisonformat.net/card?name=Super%20Conductor%20Tyranno](https://edisonformat.net/card?name=Super%20Conductor%20Tyranno)
 
 ### Edison-Accurate PSCT
 

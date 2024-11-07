@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Designator
+Source: [https://edisonformat.net/card?name=Dark%20Designator](https://edisonformat.net/card?name=Dark%20Designator)
 
 ### Edison-Accurate PSCT
 

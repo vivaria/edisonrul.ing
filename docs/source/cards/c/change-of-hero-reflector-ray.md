@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Change%20of%20Hero%20-%20Reflector%20Ray
+Source: [https://edisonformat.net/card?name=Change%20of%20Hero%20-%20Reflector%20Ray](https://edisonformat.net/card?name=Change%20of%20Hero%20-%20Reflector%20Ray)
 
 ### Edison-Accurate PSCT
 

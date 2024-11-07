@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Phantom%20Beast%20Cross-Wing
+Source: [https://edisonformat.net/card?name=Phantom%20Beast%20Cross-Wing](https://edisonformat.net/card?name=Phantom%20Beast%20Cross-Wing)
 
 ### Edison-Accurate PSCT
 

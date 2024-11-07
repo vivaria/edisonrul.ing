@@ -8,7 +8,7 @@ Also see rulings for “Dark World Monsters”.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Broww,%20Huntsman%20of%20Dark%20World
+Source: [https://edisonformat.net/card?name=Broww,%20Huntsman%20of%20Dark%20World](https://edisonformat.net/card?name=Broww,%20Huntsman%20of%20Dark%20World)
 
 ### Edison-Accurate PSCT
 

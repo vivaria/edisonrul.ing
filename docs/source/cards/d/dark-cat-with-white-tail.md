@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Cat%20with%20White%20Tail
+Source: [https://edisonformat.net/card?name=Dark%20Cat%20with%20White%20Tail](https://edisonformat.net/card?name=Dark%20Cat%20with%20White%20Tail)
 
 ### Edison-Accurate PSCT
 

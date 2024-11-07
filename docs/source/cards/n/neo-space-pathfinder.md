@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Neo%20Space%20Pathfinder
+Source: [https://edisonformat.net/card?name=Neo%20Space%20Pathfinder](https://edisonformat.net/card?name=Neo%20Space%20Pathfinder)
 
 ### Edison-Accurate PSCT
 

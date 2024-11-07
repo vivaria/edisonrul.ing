@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sebek's%20Blessing
+Source: [https://edisonformat.net/card?name=Sebek's%20Blessing](https://edisonformat.net/card?name=Sebek's%20Blessing)
 
 ### Edison-Accurate PSCT
 

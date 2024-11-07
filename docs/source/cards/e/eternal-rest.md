@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Eternal%20Rest
+Source: [https://edisonformat.net/card?name=Eternal%20Rest](https://edisonformat.net/card?name=Eternal%20Rest)
 
 ### Edison-Accurate PSCT
 

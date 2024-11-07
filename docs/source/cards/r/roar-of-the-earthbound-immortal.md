@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Roar%20of%20the%20Earthbound%20Immortal
+Source: [https://edisonformat.net/card?name=Roar%20of%20the%20Earthbound%20Immortal](https://edisonformat.net/card?name=Roar%20of%20the%20Earthbound%20Immortal)
 
 ### Edison-Accurate PSCT
 

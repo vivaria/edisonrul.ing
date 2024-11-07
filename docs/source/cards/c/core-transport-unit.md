@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Core%20Transport%20Unit
+Source: [https://edisonformat.net/card?name=Core%20Transport%20Unit](https://edisonformat.net/card?name=Core%20Transport%20Unit)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gyakutenno%20Megami
+Source: [https://edisonformat.net/card?name=Gyakutenno%20Megami](https://edisonformat.net/card?name=Gyakutenno%20Megami)
 
 ### Edison-Accurate PSCT
 

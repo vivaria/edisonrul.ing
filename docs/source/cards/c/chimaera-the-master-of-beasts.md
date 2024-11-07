@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Chimaera,%20the%20Master%20of%20Beasts
+Source: [https://edisonformat.net/card?name=Chimaera,%20the%20Master%20of%20Beasts](https://edisonformat.net/card?name=Chimaera,%20the%20Master%20of%20Beasts)
 
 ### Edison-Accurate PSCT
 

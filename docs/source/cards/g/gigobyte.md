@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gigobyte
+Source: [https://edisonformat.net/card?name=Gigobyte](https://edisonformat.net/card?name=Gigobyte)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Last%20Day%20of%20Witch
+Source: [https://edisonformat.net/card?name=Last%20Day%20of%20Witch](https://edisonformat.net/card?name=Last%20Day%20of%20Witch)
 
 ### Edison-Accurate PSCT
 

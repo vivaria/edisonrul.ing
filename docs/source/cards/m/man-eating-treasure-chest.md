@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Man-Eating%20Treasure%20Chest
+Source: [https://edisonformat.net/card?name=Man-Eating%20Treasure%20Chest](https://edisonformat.net/card?name=Man-Eating%20Treasure%20Chest)
 
 ### Edison-Accurate PSCT
 

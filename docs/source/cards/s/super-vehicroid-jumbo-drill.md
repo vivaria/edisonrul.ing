@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Super%20Vehicroid%20Jumbo%20Drill
+Source: [https://edisonformat.net/card?name=Super%20Vehicroid%20Jumbo%20Drill](https://edisonformat.net/card?name=Super%20Vehicroid%20Jumbo%20Drill)
 
 ### Edison-Accurate PSCT
 

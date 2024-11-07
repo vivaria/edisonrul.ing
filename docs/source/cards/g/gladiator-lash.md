@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gladiator%20Lash
+Source: [https://edisonformat.net/card?name=Gladiator%20Lash](https://edisonformat.net/card?name=Gladiator%20Lash)
 
 ### Edison-Accurate PSCT
 

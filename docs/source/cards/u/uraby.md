@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Uraby
+Source: [https://edisonformat.net/card?name=Uraby](https://edisonformat.net/card?name=Uraby)
 
 ### Edison-Accurate PSCT
 

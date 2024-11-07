@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=M-Warrior
+Source: [https://edisonformat.net/card?name=M-Warrior](https://edisonformat.net/card?name=M-Warrior)
 
 ### Edison-Accurate PSCT
 

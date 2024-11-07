@@ -6,7 +6,7 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other monsters,
   
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ultimate%20Obedient%20Fiend
+Source: [https://edisonformat.net/card?name=Ultimate%20Obedient%20Fiend](https://edisonformat.net/card?name=Ultimate%20Obedient%20Fiend)
 
 ### Edison-Accurate PSCT
 

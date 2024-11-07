@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ancient%20Gear%20Workshop
+Source: [https://edisonformat.net/card?name=Ancient%20Gear%20Workshop](https://edisonformat.net/card?name=Ancient%20Gear%20Workshop)
 
 ### Edison-Accurate PSCT
 

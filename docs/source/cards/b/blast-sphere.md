@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Blast%20Sphere
+Source: [https://edisonformat.net/card?name=Blast%20Sphere](https://edisonformat.net/card?name=Blast%20Sphere)
 
 ### Edison-Accurate PSCT
 

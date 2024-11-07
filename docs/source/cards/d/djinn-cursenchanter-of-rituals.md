@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Djinn%20Cursenchanter%20of%20Rituals
+Source: [https://edisonformat.net/card?name=Djinn%20Cursenchanter%20of%20Rituals](https://edisonformat.net/card?name=Djinn%20Cursenchanter%20of%20Rituals)
 
 ### Edison-Accurate PSCT
 

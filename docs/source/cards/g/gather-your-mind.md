@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gather%20Your%20Mind
+Source: [https://edisonformat.net/card?name=Gather%20Your%20Mind](https://edisonformat.net/card?name=Gather%20Your%20Mind)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Yaranzo
+Source: [https://edisonformat.net/card?name=Yaranzo](https://edisonformat.net/card?name=Yaranzo)
 
 ### Edison-Accurate PSCT
 

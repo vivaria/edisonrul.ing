@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gernia
+Source: [https://edisonformat.net/card?name=Gernia](https://edisonformat.net/card?name=Gernia)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spirit%20of%20the%20Harp
+Source: [https://edisonformat.net/card?name=Spirit%20of%20the%20Harp](https://edisonformat.net/card?name=Spirit%20of%20the%20Harp)
 
 ### Edison-Accurate PSCT
 

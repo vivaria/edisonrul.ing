@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Paths%20of%20Destiny
+Source: [https://edisonformat.net/card?name=The%20Paths%20of%20Destiny](https://edisonformat.net/card?name=The%20Paths%20of%20Destiny)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Covering%20Fire
+Source: [https://edisonformat.net/card?name=Covering%20Fire](https://edisonformat.net/card?name=Covering%20Fire)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Happy%20Lover
+Source: [https://edisonformat.net/card?name=Happy%20Lover](https://edisonformat.net/card?name=Happy%20Lover)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Great%20Long%20Nose
+Source: [https://edisonformat.net/card?name=Great%20Long%20Nose](https://edisonformat.net/card?name=Great%20Long%20Nose)
 
 ### Edison-Accurate PSCT
 

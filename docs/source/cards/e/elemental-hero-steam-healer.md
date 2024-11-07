@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Elemental%20HERO%20Steam%20Healer
+Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Steam%20Healer](https://edisonformat.net/card?name=Elemental%20HERO%20Steam%20Healer)
 
 ### Edison-Accurate PSCT
 

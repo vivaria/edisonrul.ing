@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Horn%20of%20the%20Unicorn
+Source: [https://edisonformat.net/card?name=Horn%20of%20the%20Unicorn](https://edisonformat.net/card?name=Horn%20of%20the%20Unicorn)
 
 ### Edison-Accurate PSCT
 

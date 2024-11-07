@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Degenerate%20Circuit
+Source: [https://edisonformat.net/card?name=Degenerate%20Circuit](https://edisonformat.net/card?name=Degenerate%20Circuit)
 
 ### Edison-Accurate PSCT
 

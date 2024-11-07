@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Blackwing%20-%20Bora%20the%20Spear
+Source: [https://edisonformat.net/card?name=Blackwing%20-%20Bora%20the%20Spear](https://edisonformat.net/card?name=Blackwing%20-%20Bora%20the%20Spear)
 
 ### Edison-Accurate PSCT
 

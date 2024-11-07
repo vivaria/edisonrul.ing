@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Amazon%20of%20the%20Seas
+Source: [https://edisonformat.net/card?name=Amazon%20of%20the%20Seas](https://edisonformat.net/card?name=Amazon%20of%20the%20Seas)
 
 ### Edison-Accurate PSCT
 

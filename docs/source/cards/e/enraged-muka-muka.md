@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Enraged%20Muka%20Muka
+Source: [https://edisonformat.net/card?name=Enraged%20Muka%20Muka](https://edisonformat.net/card?name=Enraged%20Muka%20Muka)
 
 ### Edison-Accurate PSCT
 

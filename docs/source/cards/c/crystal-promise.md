@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Crystal%20Promise
+Source: [https://edisonformat.net/card?name=Crystal%20Promise](https://edisonformat.net/card?name=Crystal%20Promise)
 
 ### Edison-Accurate PSCT
 

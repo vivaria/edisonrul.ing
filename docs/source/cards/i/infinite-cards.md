@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Infinite%20Cards
+Source: [https://edisonformat.net/card?name=Infinite%20Cards](https://edisonformat.net/card?name=Infinite%20Cards)
 
 ### Edison-Accurate PSCT
 

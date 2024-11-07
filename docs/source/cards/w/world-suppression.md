@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=World%20Suppression
+Source: [https://edisonformat.net/card?name=World%20Suppression](https://edisonformat.net/card?name=World%20Suppression)
 
 ### Edison-Accurate PSCT
 

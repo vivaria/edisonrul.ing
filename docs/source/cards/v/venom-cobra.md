@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Venom%20Cobra
+Source: [https://edisonformat.net/card?name=Venom%20Cobra](https://edisonformat.net/card?name=Venom%20Cobra)
 
 ### Edison-Accurate PSCT
 

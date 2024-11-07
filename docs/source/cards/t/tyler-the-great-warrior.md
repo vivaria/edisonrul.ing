@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Tyler%20the%20Great%20Warrior
+Source: [https://edisonformat.net/card?name=Tyler%20the%20Great%20Warrior](https://edisonformat.net/card?name=Tyler%20the%20Great%20Warrior)
 
 ### Edison-Accurate PSCT
 

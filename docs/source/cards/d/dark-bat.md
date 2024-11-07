@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Bat
+Source: [https://edisonformat.net/card?name=Dark%20Bat](https://edisonformat.net/card?name=Dark%20Bat)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Treasure%20Map
+Source: [https://edisonformat.net/card?name=Treasure%20Map](https://edisonformat.net/card?name=Treasure%20Map)
 
 ### Edison-Accurate PSCT
 

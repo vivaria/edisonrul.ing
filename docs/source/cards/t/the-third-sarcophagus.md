@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Third%20Sarcophagus
+Source: [https://edisonformat.net/card?name=The%20Third%20Sarcophagus](https://edisonformat.net/card?name=The%20Third%20Sarcophagus)
 
 ### Edison-Accurate PSCT
 

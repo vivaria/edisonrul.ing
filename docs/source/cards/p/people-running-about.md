@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=People%20Running%20About
+Source: [https://edisonformat.net/card?name=People%20Running%20About](https://edisonformat.net/card?name=People%20Running%20About)
 
 ### Edison-Accurate PSCT
 

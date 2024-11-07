@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Bistro%20Butcher
+Source: [https://edisonformat.net/card?name=The%20Bistro%20Butcher](https://edisonformat.net/card?name=The%20Bistro%20Butcher)
 
 ### Edison-Accurate PSCT
 

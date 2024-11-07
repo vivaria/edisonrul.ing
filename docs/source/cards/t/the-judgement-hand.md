@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Judgement%20Hand
+Source: [https://edisonformat.net/card?name=The%20Judgement%20Hand](https://edisonformat.net/card?name=The%20Judgement%20Hand)
 
 ### Edison-Accurate PSCT
 

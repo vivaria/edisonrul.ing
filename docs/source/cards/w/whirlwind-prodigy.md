@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Whirlwind%20Prodigy
+Source: [https://edisonformat.net/card?name=Whirlwind%20Prodigy](https://edisonformat.net/card?name=Whirlwind%20Prodigy)
 
 ### Edison-Accurate PSCT
 

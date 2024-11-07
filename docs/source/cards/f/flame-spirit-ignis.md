@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Flame%20Spirit%20Ignis
+Source: [https://edisonformat.net/card?name=Flame%20Spirit%20Ignis](https://edisonformat.net/card?name=Flame%20Spirit%20Ignis)
 
 ### Edison-Accurate PSCT
 

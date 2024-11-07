@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Machine%20Conversion%20Factory
+Source: [https://edisonformat.net/card?name=Machine%20Conversion%20Factory](https://edisonformat.net/card?name=Machine%20Conversion%20Factory)
 
 ### Edison-Accurate PSCT
 

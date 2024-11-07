@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hannibal%20Necromancer
+Source: [https://edisonformat.net/card?name=Hannibal%20Necromancer](https://edisonformat.net/card?name=Hannibal%20Necromancer)
 
 ### Edison-Accurate PSCT
 

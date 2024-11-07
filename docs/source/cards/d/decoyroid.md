@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Decoyroid
+Source: [https://edisonformat.net/card?name=Decoyroid](https://edisonformat.net/card?name=Decoyroid)
 
 ### Edison-Accurate PSCT
 

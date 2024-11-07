@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Scorpion%20Burglars
+Source: [https://edisonformat.net/card?name=Dark%20Scorpion%20Burglars](https://edisonformat.net/card?name=Dark%20Scorpion%20Burglars)
 
 ### Edison-Accurate PSCT
 

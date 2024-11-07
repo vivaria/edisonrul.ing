@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Morphtronic%20Slingen
+Source: [https://edisonformat.net/card?name=Morphtronic%20Slingen](https://edisonformat.net/card?name=Morphtronic%20Slingen)
 
 ### Edison-Accurate PSCT
 

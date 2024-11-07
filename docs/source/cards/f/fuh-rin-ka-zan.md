@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fuh-Rin-Ka-Zan
+Source: [https://edisonformat.net/card?name=Fuh-Rin-Ka-Zan](https://edisonformat.net/card?name=Fuh-Rin-Ka-Zan)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gaia%20Knight,%20the%20Force%20of%20Earth
+Source: [https://edisonformat.net/card?name=Gaia%20Knight,%20the%20Force%20of%20Earth](https://edisonformat.net/card?name=Gaia%20Knight,%20the%20Force%20of%20Earth)
 
 ### Edison-Accurate PSCT
 

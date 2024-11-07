@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Elemental%20HERO%20Knospe
+Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Knospe](https://edisonformat.net/card?name=Elemental%20HERO%20Knospe)
 
 ### Edison-Accurate PSCT
 

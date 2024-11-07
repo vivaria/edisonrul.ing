@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Blue%20Medicine
+Source: [https://edisonformat.net/card?name=Blue%20Medicine](https://edisonformat.net/card?name=Blue%20Medicine)
 
 ### Edison-Accurate PSCT
 

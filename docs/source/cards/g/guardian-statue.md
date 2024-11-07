@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Guardian%20Statue
+Source: [https://edisonformat.net/card?name=Guardian%20Statue](https://edisonformat.net/card?name=Guardian%20Statue)
 
 ### Edison-Accurate PSCT
 

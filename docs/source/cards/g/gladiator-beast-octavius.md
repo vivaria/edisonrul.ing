@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Octavius
+Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Octavius](https://edisonformat.net/card?name=Gladiator%20Beast%20Octavius)
 
 ### Edison-Accurate PSCT
 

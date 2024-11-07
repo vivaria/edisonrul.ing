@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Great%20Phantom%20Thief
+Source: [https://edisonformat.net/card?name=Great%20Phantom%20Thief](https://edisonformat.net/card?name=Great%20Phantom%20Thief)
 
 ### Edison-Accurate PSCT
 

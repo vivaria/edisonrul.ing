@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Armored%20Zombie
+Source: [https://edisonformat.net/card?name=Armored%20Zombie](https://edisonformat.net/card?name=Armored%20Zombie)
 
 ### Edison-Accurate PSCT
 

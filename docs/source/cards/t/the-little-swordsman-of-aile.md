@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Little%20Swordsman%20of%20Aile
+Source: [https://edisonformat.net/card?name=The%20Little%20Swordsman%20of%20Aile](https://edisonformat.net/card?name=The%20Little%20Swordsman%20of%20Aile)
 
 ### Edison-Accurate PSCT
 

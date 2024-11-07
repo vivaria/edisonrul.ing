@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Destiny%20Draw
+Source: [https://edisonformat.net/card?name=Destiny%20Draw](https://edisonformat.net/card?name=Destiny%20Draw)
 
 ### Edison-Accurate PSCT
 

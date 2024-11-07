@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Give%20and%20Take
+Source: [https://edisonformat.net/card?name=Give%20and%20Take](https://edisonformat.net/card?name=Give%20and%20Take)
 
 ### Edison-Accurate PSCT
 

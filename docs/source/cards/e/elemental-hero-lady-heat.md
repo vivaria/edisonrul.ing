@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Elemental%20HERO%20Lady%20Heat
+Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Lady%20Heat](https://edisonformat.net/card?name=Elemental%20HERO%20Lady%20Heat)
 
 ### Edison-Accurate PSCT
 

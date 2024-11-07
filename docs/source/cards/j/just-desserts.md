@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Just%20Desserts
+Source: [https://edisonformat.net/card?name=Just%20Desserts](https://edisonformat.net/card?name=Just%20Desserts)
 
 ### Edison-Accurate PSCT
 

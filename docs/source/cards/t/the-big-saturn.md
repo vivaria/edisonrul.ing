@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Big%20Saturn
+Source: [https://edisonformat.net/card?name=The%20Big%20Saturn](https://edisonformat.net/card?name=The%20Big%20Saturn)
 
 ### Edison-Accurate PSCT
 

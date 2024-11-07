@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Doma%20The%20Angel%20of%20Silence
+Source: [https://edisonformat.net/card?name=Doma%20The%20Angel%20of%20Silence](https://edisonformat.net/card?name=Doma%20The%20Angel%20of%20Silence)
 
 ### Edison-Accurate PSCT
 

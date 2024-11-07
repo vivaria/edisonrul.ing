@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Star%20Boy
+Source: [https://edisonformat.net/card?name=Star%20Boy](https://edisonformat.net/card?name=Star%20Boy)
 
 ### Edison-Accurate PSCT
 

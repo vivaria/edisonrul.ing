@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Three-Headed%20Geedo
+Source: [https://edisonformat.net/card?name=Three-Headed%20Geedo](https://edisonformat.net/card?name=Three-Headed%20Geedo)
 
 ### Edison-Accurate PSCT
 

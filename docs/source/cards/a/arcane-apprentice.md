@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Arcane%20Apprentice
+Source: [https://edisonformat.net/card?name=Arcane%20Apprentice](https://edisonformat.net/card?name=Arcane%20Apprentice)
 
 ### Edison-Accurate PSCT
 

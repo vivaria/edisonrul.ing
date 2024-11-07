@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Firegrass
+Source: [https://edisonformat.net/card?name=Firegrass](https://edisonformat.net/card?name=Firegrass)
 
 ### Edison-Accurate PSCT
 

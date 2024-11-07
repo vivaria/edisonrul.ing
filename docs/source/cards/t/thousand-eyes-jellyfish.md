@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Thousand-Eyes%20Jellyfish
+Source: [https://edisonformat.net/card?name=Thousand-Eyes%20Jellyfish](https://edisonformat.net/card?name=Thousand-Eyes%20Jellyfish)
 
 ### Edison-Accurate PSCT
 

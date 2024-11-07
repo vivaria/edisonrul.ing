@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Selection
+Source: [https://edisonformat.net/card?name=The%20Selection](https://edisonformat.net/card?name=The%20Selection)
 
 ### Edison-Accurate PSCT
 

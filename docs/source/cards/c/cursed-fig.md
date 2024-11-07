@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cursed%20Fig
+Source: [https://edisonformat.net/card?name=Cursed%20Fig](https://edisonformat.net/card?name=Cursed%20Fig)
 
 ### Edison-Accurate PSCT
 

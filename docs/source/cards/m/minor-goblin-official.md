@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Minor%20Goblin%20Official
+Source: [https://edisonformat.net/card?name=Minor%20Goblin%20Official](https://edisonformat.net/card?name=Minor%20Goblin%20Official)
 
 ### Edison-Accurate PSCT
 

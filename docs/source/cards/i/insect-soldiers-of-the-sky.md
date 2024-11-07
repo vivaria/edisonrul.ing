@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Insect%20Soldiers%20of%20the%20Sky
+Source: [https://edisonformat.net/card?name=Insect%20Soldiers%20of%20the%20Sky](https://edisonformat.net/card?name=Insect%20Soldiers%20of%20the%20Sky)
 
 ### Edison-Accurate PSCT
 

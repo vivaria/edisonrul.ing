@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cybernetic%20Cyclopean
+Source: [https://edisonformat.net/card?name=Cybernetic%20Cyclopean](https://edisonformat.net/card?name=Cybernetic%20Cyclopean)
 
 ### Edison-Accurate PSCT
 

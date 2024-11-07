@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Blue-Winged%20Crown
+Source: [https://edisonformat.net/card?name=Blue-Winged%20Crown](https://edisonformat.net/card?name=Blue-Winged%20Crown)
 
 ### Edison-Accurate PSCT
 

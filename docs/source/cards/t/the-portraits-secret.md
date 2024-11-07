@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Portrait's%20Secret
+Source: [https://edisonformat.net/card?name=The%20Portrait's%20Secret](https://edisonformat.net/card?name=The%20Portrait's%20Secret)
 
 ### Edison-Accurate PSCT
 

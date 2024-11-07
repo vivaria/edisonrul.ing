@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20City
+Source: [https://edisonformat.net/card?name=Dark%20City](https://edisonformat.net/card?name=Dark%20City)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Metabo-Shark
+Source: [https://edisonformat.net/card?name=Metabo-Shark](https://edisonformat.net/card?name=Metabo-Shark)
 
 ### Edison-Accurate PSCT
 

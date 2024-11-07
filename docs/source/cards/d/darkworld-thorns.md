@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Darkworld%20Thorns
+Source: [https://edisonformat.net/card?name=Darkworld%20Thorns](https://edisonformat.net/card?name=Darkworld%20Thorns)
 
 ### Edison-Accurate PSCT
 

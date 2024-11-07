@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Oni%20Tank%20T-34
+Source: [https://edisonformat.net/card?name=Oni%20Tank%20T-34](https://edisonformat.net/card?name=Oni%20Tank%20T-34)
 
 ### Edison-Accurate PSCT
 

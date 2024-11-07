@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Goblin%20Decoy%20Squad
+Source: [https://edisonformat.net/card?name=Goblin%20Decoy%20Squad](https://edisonformat.net/card?name=Goblin%20Decoy%20Squad)
 
 ### Edison-Accurate PSCT
 

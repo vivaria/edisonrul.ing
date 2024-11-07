@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ocean%20Dragon%20Lord%20-%20Neo-Daedalus
+Source: [https://edisonformat.net/card?name=Ocean%20Dragon%20Lord%20-%20Neo-Daedalus](https://edisonformat.net/card?name=Ocean%20Dragon%20Lord%20-%20Neo-Daedalus)
 
 ### Edison-Accurate PSCT
 

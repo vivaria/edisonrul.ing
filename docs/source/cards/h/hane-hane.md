@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hane-Hane
+Source: [https://edisonformat.net/card?name=Hane-Hane](https://edisonformat.net/card?name=Hane-Hane)
 
 ### Edison-Accurate PSCT
 

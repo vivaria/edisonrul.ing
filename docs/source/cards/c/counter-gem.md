@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Counter%20Gem
+Source: [https://edisonformat.net/card?name=Counter%20Gem](https://edisonformat.net/card?name=Counter%20Gem)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=B.E.S.%20Tetran
+Source: [https://edisonformat.net/card?name=B.E.S.%20Tetran](https://edisonformat.net/card?name=B.E.S.%20Tetran)
 
 ### Edison-Accurate PSCT
 

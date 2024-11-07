@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gladiator%20Beast's%20Battle%20Gladius
+Source: [https://edisonformat.net/card?name=Gladiator%20Beast's%20Battle%20Gladius](https://edisonformat.net/card?name=Gladiator%20Beast's%20Battle%20Gladius)
 
 ### Edison-Accurate PSCT
 

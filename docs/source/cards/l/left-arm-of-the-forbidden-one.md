@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Left%20Arm%20of%20the%20forbidden%20one
+Source: [https://edisonformat.net/card?name=Left%20Arm%20of%20the%20forbidden%20one](https://edisonformat.net/card?name=Left%20Arm%20of%20the%20forbidden%20one)
 
 ### Edison-Accurate PSCT
 

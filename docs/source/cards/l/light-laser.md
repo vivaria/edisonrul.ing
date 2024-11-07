@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Light%20Laser
+Source: [https://edisonformat.net/card?name=Light%20Laser](https://edisonformat.net/card?name=Light%20Laser)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Toon%20Defense
+Source: [https://edisonformat.net/card?name=Toon%20Defense](https://edisonformat.net/card?name=Toon%20Defense)
 
 ### Edison-Accurate PSCT
 

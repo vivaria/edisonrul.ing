@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -21,7 +21,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Angel%20O7
+Source: [https://edisonformat.net/card?name=Angel%20O7](https://edisonformat.net/card?name=Angel%20O7)
 
 ### Edison-Accurate PSCT
 
@@ -37,4 +37,3 @@ When this card is Tribute Summoned, it gains the following effect: ● The effec
 *   The Continuous Effect applies while this Tribute Summoned card is face-up on the field.
 *   This effect does not prevent a monster's Continuous Effects from being applied.
 *   This effect prevents ALL Monster Card Effects from ACTIVATING in any Zone, even your own.
-            

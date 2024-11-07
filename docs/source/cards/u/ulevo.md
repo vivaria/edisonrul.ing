@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ulevo
+Source: [https://edisonformat.net/card?name=Ulevo](https://edisonformat.net/card?name=Ulevo)
 
 ### Edison-Accurate PSCT
 

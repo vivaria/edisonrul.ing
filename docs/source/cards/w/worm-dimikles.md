@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Worm%20Dimikles
+Source: [https://edisonformat.net/card?name=Worm%20Dimikles](https://edisonformat.net/card?name=Worm%20Dimikles)
 
 ### Edison-Accurate PSCT
 

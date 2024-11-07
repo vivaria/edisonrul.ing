@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fairy's%20Hand%20Mirror
+Source: [https://edisonformat.net/card?name=Fairy's%20Hand%20Mirror](https://edisonformat.net/card?name=Fairy's%20Hand%20Mirror)
 
 ### Edison-Accurate PSCT
 

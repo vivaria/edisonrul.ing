@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Balter%20the%20Terrible
+Source: [https://edisonformat.net/card?name=Dark%20Balter%20the%20Terrible](https://edisonformat.net/card?name=Dark%20Balter%20the%20Terrible)
 
 ### Edison-Accurate PSCT
 

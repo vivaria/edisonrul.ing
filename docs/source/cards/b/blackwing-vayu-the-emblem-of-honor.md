@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -20,7 +20,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Blackwing%20-%20Vayu%20the%20Emblem%20of%20Honor
+Source: [https://edisonformat.net/card?name=Blackwing%20-%20Vayu%20the%20Emblem%20of%20Honor](https://edisonformat.net/card?name=Blackwing%20-%20Vayu%20the%20Emblem%20of%20Honor)
 
 ### Edison-Accurate PSCT
 

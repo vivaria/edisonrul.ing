@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cannon%20Soldier%20MK-
+Source: [https://edisonformat.net/card?name=Cannon%20Soldier%20MK-](https://edisonformat.net/card?name=Cannon%20Soldier%20MK-)
 
 ### Edison-Accurate PSCT
 

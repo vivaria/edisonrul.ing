@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Summoner%20Monk
+Source: [https://edisonformat.net/card?name=Summoner%20Monk](https://edisonformat.net/card?name=Summoner%20Monk)
 
 ### Edison-Accurate PSCT
 

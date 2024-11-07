@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Worm%20Drake
+Source: [https://edisonformat.net/card?name=Worm%20Drake](https://edisonformat.net/card?name=Worm%20Drake)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mirror%20of%20Yata
+Source: [https://edisonformat.net/card?name=Mirror%20of%20Yata](https://edisonformat.net/card?name=Mirror%20of%20Yata)
 
 ### Edison-Accurate PSCT
 

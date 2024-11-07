@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -20,7 +20,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Superancient%20Deepsea%20King%20Coelacanth
+Source: [https://edisonformat.net/card?name=Superancient%20Deepsea%20King%20Coelacanth](https://edisonformat.net/card?name=Superancient%20Deepsea%20King%20Coelacanth)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Des%20Mosquito
+Source: [https://edisonformat.net/card?name=Des%20Mosquito](https://edisonformat.net/card?name=Des%20Mosquito)
 
 ### Edison-Accurate PSCT
 

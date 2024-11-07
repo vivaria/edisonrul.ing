@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Beautiful%20Headhuntress
+Source: [https://edisonformat.net/card?name=Beautiful%20Headhuntress](https://edisonformat.net/card?name=Beautiful%20Headhuntress)
 
 ### Edison-Accurate PSCT
 

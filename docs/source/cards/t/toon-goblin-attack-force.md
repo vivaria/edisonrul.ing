@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Toon%20Goblin%20Attack%20Force
+Source: [https://edisonformat.net/card?name=Toon%20Goblin%20Attack%20Force](https://edisonformat.net/card?name=Toon%20Goblin%20Attack%20Force)
 
 ### Edison-Accurate PSCT
 

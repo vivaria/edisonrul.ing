@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -25,7 +25,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=D.D.%20Scout%20Plane
+Source: [https://edisonformat.net/card?name=D.D.%20Scout%20Plane](https://edisonformat.net/card?name=D.D.%20Scout%20Plane)
 
 ### Edison-Accurate PSCT
 

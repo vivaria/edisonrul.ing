@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Machine%20King
+Source: [https://edisonformat.net/card?name=Machine%20King](https://edisonformat.net/card?name=Machine%20King)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mefist%20the%20Infernal%20General
+Source: [https://edisonformat.net/card?name=Mefist%20the%20Infernal%20General](https://edisonformat.net/card?name=Mefist%20the%20Infernal%20General)
 
 ### Edison-Accurate PSCT
 

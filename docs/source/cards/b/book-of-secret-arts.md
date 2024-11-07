@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Book%20of%20Secret%20Arts
+Source: [https://edisonformat.net/card?name=Book%20of%20Secret%20Arts](https://edisonformat.net/card?name=Book%20of%20Secret%20Arts)
 
 ### Edison-Accurate PSCT
 

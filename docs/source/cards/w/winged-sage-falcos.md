@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Winged%20Sage%20Falcos
+Source: [https://edisonformat.net/card?name=Winged%20Sage%20Falcos](https://edisonformat.net/card?name=Winged%20Sage%20Falcos)
 
 ### Edison-Accurate PSCT
 

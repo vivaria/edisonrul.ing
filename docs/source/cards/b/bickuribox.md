@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Bickuribox
+Source: [https://edisonformat.net/card?name=Bickuribox](https://edisonformat.net/card?name=Bickuribox)
 
 ### Edison-Accurate PSCT
 

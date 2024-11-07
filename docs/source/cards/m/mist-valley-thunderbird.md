@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mist%20Valley%20Thunderbird
+Source: [https://edisonformat.net/card?name=Mist%20Valley%20Thunderbird](https://edisonformat.net/card?name=Mist%20Valley%20Thunderbird)
 
 ### Edison-Accurate PSCT
 

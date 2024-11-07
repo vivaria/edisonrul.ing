@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gravekeeper's%20Commandant
+Source: [https://edisonformat.net/card?name=Gravekeeper's%20Commandant](https://edisonformat.net/card?name=Gravekeeper's%20Commandant)
 
 ### Edison-Accurate PSCT
 

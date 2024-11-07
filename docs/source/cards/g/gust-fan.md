@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gust%20Fan
+Source: [https://edisonformat.net/card?name=Gust%20Fan](https://edisonformat.net/card?name=Gust%20Fan)
 
 ### Edison-Accurate PSCT
 

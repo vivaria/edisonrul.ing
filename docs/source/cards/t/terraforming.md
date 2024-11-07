@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Terraforming
+Source: [https://edisonformat.net/card?name=Terraforming](https://edisonformat.net/card?name=Terraforming)
 
 ### Edison-Accurate PSCT
 

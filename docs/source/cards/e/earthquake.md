@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Earthquake
+Source: [https://edisonformat.net/card?name=Earthquake](https://edisonformat.net/card?name=Earthquake)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=D.3.S.%20Frog
+Source: [https://edisonformat.net/card?name=D.3.S.%20Frog](https://edisonformat.net/card?name=D.3.S.%20Frog)
 
 ### Edison-Accurate PSCT
 

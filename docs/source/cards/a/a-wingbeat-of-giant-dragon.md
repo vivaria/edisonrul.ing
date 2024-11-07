@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -16,7 +16,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=A%20Wingbeat%20of%20Giant%20Dragon
+Source: [https://edisonformat.net/card?name=A%20Wingbeat%20of%20Giant%20Dragon](https://edisonformat.net/card?name=A%20Wingbeat%20of%20Giant%20Dragon)
 
 ### Edison-Accurate PSCT
 

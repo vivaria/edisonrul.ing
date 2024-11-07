@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Killer%20Needle
+Source: [https://edisonformat.net/card?name=Killer%20Needle](https://edisonformat.net/card?name=Killer%20Needle)
 
 ### Edison-Accurate PSCT
 

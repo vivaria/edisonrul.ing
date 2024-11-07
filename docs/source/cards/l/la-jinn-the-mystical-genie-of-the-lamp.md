@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=La%20Jinn%20the%20Mystical%20Genie%20of%20the%20Lamp
+Source: [https://edisonformat.net/card?name=La%20Jinn%20the%20Mystical%20Genie%20of%20the%20Lamp](https://edisonformat.net/card?name=La%20Jinn%20the%20Mystical%20Genie%20of%20the%20Lamp)
 
 ### Edison-Accurate PSCT
 

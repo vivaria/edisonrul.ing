@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Castle%20of%20Dark%20Illusions
+Source: [https://edisonformat.net/card?name=Castle%20of%20Dark%20Illusions](https://edisonformat.net/card?name=Castle%20of%20Dark%20Illusions)
 
 ### Edison-Accurate PSCT
 

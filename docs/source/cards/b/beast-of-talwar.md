@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Beast%20of%20Talwar
+Source: [https://edisonformat.net/card?name=Beast%20of%20Talwar](https://edisonformat.net/card?name=Beast%20of%20Talwar)
 
 ### Edison-Accurate PSCT
 

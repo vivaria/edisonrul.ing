@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -17,7 +17,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Blackwing%20-%20Gale%20the%20Whirlwind
+Source: [https://edisonformat.net/card?name=Blackwing%20-%20Gale%20the%20Whirlwind](https://edisonformat.net/card?name=Blackwing%20-%20Gale%20the%20Whirlwind)
 
 ### Edison-Accurate PSCT
 

@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -17,7 +17,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Rallis%20the%20Star%20Bird
+Source: [https://edisonformat.net/card?name=Rallis%20the%20Star%20Bird](https://edisonformat.net/card?name=Rallis%20the%20Star%20Bird)
 
 ### Edison-Accurate PSCT
 

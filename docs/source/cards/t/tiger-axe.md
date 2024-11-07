@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Tiger%20Axe
+Source: [https://edisonformat.net/card?name=Tiger%20Axe](https://edisonformat.net/card?name=Tiger%20Axe)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Worm%20Bait
+Source: [https://edisonformat.net/card?name=Worm%20Bait](https://edisonformat.net/card?name=Worm%20Bait)
 
 ### Edison-Accurate PSCT
 

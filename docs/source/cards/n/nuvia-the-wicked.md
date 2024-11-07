@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -14,7 +14,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Nuvia%20the%20Wicked
+Source: [https://edisonformat.net/card?name=Nuvia%20the%20Wicked](https://edisonformat.net/card?name=Nuvia%20the%20Wicked)
 
 ### Edison-Accurate PSCT
 

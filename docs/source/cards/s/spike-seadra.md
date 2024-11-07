@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spike%20Seadra
+Source: [https://edisonformat.net/card?name=Spike%20Seadra](https://edisonformat.net/card?name=Spike%20Seadra)
 
 ### Edison-Accurate PSCT
 

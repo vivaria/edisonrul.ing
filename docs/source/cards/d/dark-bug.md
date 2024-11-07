@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Bug
+Source: [https://edisonformat.net/card?name=Dark%20Bug](https://edisonformat.net/card?name=Dark%20Bug)
 
 ### Edison-Accurate PSCT
 

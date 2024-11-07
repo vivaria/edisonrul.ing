@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Birthright
+Source: [https://edisonformat.net/card?name=Birthright](https://edisonformat.net/card?name=Birthright)
 
 ### Edison-Accurate PSCT
 

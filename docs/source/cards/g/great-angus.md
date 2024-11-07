@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Great%20Angus
+Source: [https://edisonformat.net/card?name=Great%20Angus](https://edisonformat.net/card?name=Great%20Angus)
 
 ### Edison-Accurate PSCT
 

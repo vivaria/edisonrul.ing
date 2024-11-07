@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sky%20Scourge%20Enrise
+Source: [https://edisonformat.net/card?name=Sky%20Scourge%20Enrise](https://edisonformat.net/card?name=Sky%20Scourge%20Enrise)
 
 ### Edison-Accurate PSCT
 

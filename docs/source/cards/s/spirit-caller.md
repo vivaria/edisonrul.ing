@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spirit%20Caller
+Source: [https://edisonformat.net/card?name=Spirit%20Caller](https://edisonformat.net/card?name=Spirit%20Caller)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Malevolent%20Catastrophe
+Source: [https://edisonformat.net/card?name=Malevolent%20Catastrophe](https://edisonformat.net/card?name=Malevolent%20Catastrophe)
 
 ### Edison-Accurate PSCT
 

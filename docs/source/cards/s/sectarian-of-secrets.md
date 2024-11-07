@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sectarian%20of%20Secrets
+Source: [https://edisonformat.net/card?name=Sectarian%20of%20Secrets](https://edisonformat.net/card?name=Sectarian%20of%20Secrets)
 
 ### Edison-Accurate PSCT
 

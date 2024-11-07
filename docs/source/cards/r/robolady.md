@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Robolady
+Source: [https://edisonformat.net/card?name=Robolady](https://edisonformat.net/card?name=Robolady)
 
 ### Edison-Accurate PSCT
 

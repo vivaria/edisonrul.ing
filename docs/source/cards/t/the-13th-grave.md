@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%2013th%20Grave
+Source: [https://edisonformat.net/card?name=The%2013th%20Grave](https://edisonformat.net/card?name=The%2013th%20Grave)
 
 ### Edison-Accurate PSCT
 

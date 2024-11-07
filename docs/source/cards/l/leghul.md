@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Leghul
+Source: [https://edisonformat.net/card?name=Leghul](https://edisonformat.net/card?name=Leghul)
 
 ### Edison-Accurate PSCT
 

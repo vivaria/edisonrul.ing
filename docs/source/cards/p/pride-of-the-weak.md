@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Pride%20of%20the%20Weak
+Source: [https://edisonformat.net/card?name=Pride%20of%20the%20Weak](https://edisonformat.net/card?name=Pride%20of%20the%20Weak)
 
 ### Edison-Accurate PSCT
 

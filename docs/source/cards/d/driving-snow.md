@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Driving%20Snow
+Source: [https://edisonformat.net/card?name=Driving%20Snow](https://edisonformat.net/card?name=Driving%20Snow)
 
 ### Edison-Accurate PSCT
 

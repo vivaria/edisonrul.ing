@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spiritual%20Water%20Art%20-%20Aoi
+Source: [https://edisonformat.net/card?name=Spiritual%20Water%20Art%20-%20Aoi](https://edisonformat.net/card?name=Spiritual%20Water%20Art%20-%20Aoi)
 
 ### Edison-Accurate PSCT
 

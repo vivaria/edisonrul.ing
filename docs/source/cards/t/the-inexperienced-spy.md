@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Inexperienced%20Spy
+Source: [https://edisonformat.net/card?name=The%20Inexperienced%20Spy](https://edisonformat.net/card?name=The%20Inexperienced%20Spy)
 
 ### Edison-Accurate PSCT
 

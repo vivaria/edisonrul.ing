@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Featherizer
+Source: [https://edisonformat.net/card?name=Featherizer](https://edisonformat.net/card?name=Featherizer)
 
 ### Edison-Accurate PSCT
 

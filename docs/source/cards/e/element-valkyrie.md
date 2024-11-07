@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Element%20Valkyrie
+Source: [https://edisonformat.net/card?name=Element%20Valkyrie](https://edisonformat.net/card?name=Element%20Valkyrie)
 
 ### Edison-Accurate PSCT
 

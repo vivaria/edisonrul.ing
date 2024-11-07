@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Protector%20of%20the%20Throne
+Source: [https://edisonformat.net/card?name=Protector%20of%20the%20Throne](https://edisonformat.net/card?name=Protector%20of%20the%20Throne)
 
 ### Edison-Accurate PSCT
 

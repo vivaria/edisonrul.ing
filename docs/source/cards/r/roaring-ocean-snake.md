@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Roaring%20Ocean%20Snake
+Source: [https://edisonformat.net/card?name=Roaring%20Ocean%20Snake](https://edisonformat.net/card?name=Roaring%20Ocean%20Snake)
 
 ### Edison-Accurate PSCT
 

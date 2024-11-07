@@ -8,7 +8,7 @@ Special Summoning this monster is a Trigger Effect that that activates in the Gr
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Stardust%20Xiaolong
+Source: [https://edisonformat.net/card?name=Stardust%20Xiaolong](https://edisonformat.net/card?name=Stardust%20Xiaolong)
 
 ### Edison-Accurate PSCT
 

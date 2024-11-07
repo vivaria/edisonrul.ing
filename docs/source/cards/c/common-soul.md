@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Common%20Soul
+Source: [https://edisonformat.net/card?name=Common%20Soul](https://edisonformat.net/card?name=Common%20Soul)
 
 ### Edison-Accurate PSCT
 

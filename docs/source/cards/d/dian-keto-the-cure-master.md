@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dian%20Keto%20the%20Cure%20Master
+Source: [https://edisonformat.net/card?name=Dian%20Keto%20the%20Cure%20Master](https://edisonformat.net/card?name=Dian%20Keto%20the%20Cure%20Master)
 
 ### Edison-Accurate PSCT
 

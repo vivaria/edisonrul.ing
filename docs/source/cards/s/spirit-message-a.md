@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spirit%20Message%20A
+Source: [https://edisonformat.net/card?name=Spirit%20Message%20A](https://edisonformat.net/card?name=Spirit%20Message%20A)
 
 ### Edison-Accurate PSCT
 

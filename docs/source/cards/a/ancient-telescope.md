@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ancient%20Telescope
+Source: [https://edisonformat.net/card?name=Ancient%20Telescope](https://edisonformat.net/card?name=Ancient%20Telescope)
 
 ### Edison-Accurate PSCT
 

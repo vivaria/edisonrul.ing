@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Takriminos
+Source: [https://edisonformat.net/card?name=Takriminos](https://edisonformat.net/card?name=Takriminos)
 
 ### Edison-Accurate PSCT
 

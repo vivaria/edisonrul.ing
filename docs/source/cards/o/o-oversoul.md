@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=O%20-%20Oversoul
+Source: [https://edisonformat.net/card?name=O%20-%20Oversoul](https://edisonformat.net/card?name=O%20-%20Oversoul)
 
 ### Edison-Accurate PSCT
 

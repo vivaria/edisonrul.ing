@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=XY-Dragon%20Cannon
+Source: [https://edisonformat.net/card?name=XY-Dragon%20Cannon](https://edisonformat.net/card?name=XY-Dragon%20Cannon)
 
 ### Edison-Accurate PSCT
 

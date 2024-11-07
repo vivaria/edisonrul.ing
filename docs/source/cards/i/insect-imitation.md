@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Insect%20Imitation
+Source: [https://edisonformat.net/card?name=Insect%20Imitation](https://edisonformat.net/card?name=Insect%20Imitation)
 
 ### Edison-Accurate PSCT
 

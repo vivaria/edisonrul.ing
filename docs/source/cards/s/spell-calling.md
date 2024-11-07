@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spell%20Calling
+Source: [https://edisonformat.net/card?name=Spell%20Calling](https://edisonformat.net/card?name=Spell%20Calling)
 
 ### Edison-Accurate PSCT
 

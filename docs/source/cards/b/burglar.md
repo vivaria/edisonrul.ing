@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Burglar
+Source: [https://edisonformat.net/card?name=Burglar](https://edisonformat.net/card?name=Burglar)
 
 ### Edison-Accurate PSCT
 

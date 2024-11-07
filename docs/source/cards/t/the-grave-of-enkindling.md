@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Grave%20of%20Enkindling
+Source: [https://edisonformat.net/card?name=The%20Grave%20of%20Enkindling](https://edisonformat.net/card?name=The%20Grave%20of%20Enkindling)
 
 ### Edison-Accurate PSCT
 

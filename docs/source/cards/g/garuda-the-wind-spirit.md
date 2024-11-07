@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Garuda%20the%20Wind%20Spirit
+Source: [https://edisonformat.net/card?name=Garuda%20the%20Wind%20Spirit](https://edisonformat.net/card?name=Garuda%20the%20Wind%20Spirit)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Worm%20Cartaros
+Source: [https://edisonformat.net/card?name=Worm%20Cartaros](https://edisonformat.net/card?name=Worm%20Cartaros)
 
 ### Edison-Accurate PSCT
 

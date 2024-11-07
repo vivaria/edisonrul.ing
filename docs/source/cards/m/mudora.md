@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mudora
+Source: [https://edisonformat.net/card?name=Mudora](https://edisonformat.net/card?name=Mudora)
 
 ### Edison-Accurate PSCT
 

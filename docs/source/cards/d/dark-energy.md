@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Energy
+Source: [https://edisonformat.net/card?name=Dark%20Energy](https://edisonformat.net/card?name=Dark%20Energy)
 
 ### Edison-Accurate PSCT
 

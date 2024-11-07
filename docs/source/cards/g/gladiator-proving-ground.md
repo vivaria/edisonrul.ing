@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gladiator%20Proving%20Ground
+Source: [https://edisonformat.net/card?name=Gladiator%20Proving%20Ground](https://edisonformat.net/card?name=Gladiator%20Proving%20Ground)
 
 ### Edison-Accurate PSCT
 

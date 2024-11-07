@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Magical%20Labyrinth
+Source: [https://edisonformat.net/card?name=Magical%20Labyrinth](https://edisonformat.net/card?name=Magical%20Labyrinth)
 
 ### Edison-Accurate PSCT
 

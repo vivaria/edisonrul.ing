@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Gorg%20the%20Strong
+Source: [https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Gorg%20the%20Strong](https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Gorg%20the%20Strong)
 
 ### Edison-Accurate PSCT
 

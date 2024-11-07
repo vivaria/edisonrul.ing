@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Guardian%20Sphinx
+Source: [https://edisonformat.net/card?name=Guardian%20Sphinx](https://edisonformat.net/card?name=Guardian%20Sphinx)
 
 ### Edison-Accurate PSCT
 

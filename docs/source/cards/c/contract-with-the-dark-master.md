@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Contract%20with%20the%20Dark%20Master
+Source: [https://edisonformat.net/card?name=Contract%20with%20the%20Dark%20Master](https://edisonformat.net/card?name=Contract%20with%20the%20Dark%20Master)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ivy%20Shackles
+Source: [https://edisonformat.net/card?name=Ivy%20Shackles](https://edisonformat.net/card?name=Ivy%20Shackles)
 
 ### Edison-Accurate PSCT
 

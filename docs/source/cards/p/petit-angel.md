@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Petit%20Angel
+Source: [https://edisonformat.net/card?name=Petit%20Angel](https://edisonformat.net/card?name=Petit%20Angel)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Goblin%20Calligrapher
+Source: [https://edisonformat.net/card?name=Goblin%20Calligrapher](https://edisonformat.net/card?name=Goblin%20Calligrapher)
 
 ### Edison-Accurate PSCT
 

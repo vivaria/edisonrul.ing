@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Vampire%20Baby
+Source: [https://edisonformat.net/card?name=Vampire%20Baby](https://edisonformat.net/card?name=Vampire%20Baby)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Wetlands
+Source: [https://edisonformat.net/card?name=Wetlands](https://edisonformat.net/card?name=Wetlands)
 
 ### Edison-Accurate PSCT
 

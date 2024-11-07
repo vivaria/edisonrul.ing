@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Element%20Doom
+Source: [https://edisonformat.net/card?name=Element%20Doom](https://edisonformat.net/card?name=Element%20Doom)
 
 ### Edison-Accurate PSCT
 

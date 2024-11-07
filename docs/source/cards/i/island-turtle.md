@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Island%20Turtle
+Source: [https://edisonformat.net/card?name=Island%20Turtle](https://edisonformat.net/card?name=Island%20Turtle)
 
 ### Edison-Accurate PSCT
 

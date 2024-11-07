@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Simorgh,%20Bird%20of%20Divinity
+Source: [https://edisonformat.net/card?name=Simorgh,%20Bird%20of%20Divinity](https://edisonformat.net/card?name=Simorgh,%20Bird%20of%20Divinity)
 
 ### Edison-Accurate PSCT
 

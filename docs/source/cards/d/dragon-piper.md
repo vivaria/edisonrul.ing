@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dragon%20Piper
+Source: [https://edisonformat.net/card?name=Dragon%20Piper](https://edisonformat.net/card?name=Dragon%20Piper)
 
 ### Edison-Accurate PSCT
 

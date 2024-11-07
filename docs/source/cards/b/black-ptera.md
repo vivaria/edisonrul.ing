@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Black%20Ptera
+Source: [https://edisonformat.net/card?name=Black%20Ptera](https://edisonformat.net/card?name=Black%20Ptera)
 
 ### Edison-Accurate PSCT
 

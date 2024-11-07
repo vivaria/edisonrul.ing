@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Seismic%20Crasher
+Source: [https://edisonformat.net/card?name=Seismic%20Crasher](https://edisonformat.net/card?name=Seismic%20Crasher)
 
 ### Edison-Accurate PSCT
 

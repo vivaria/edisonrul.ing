@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cannonball%20Spear%20Shellfish
+Source: [https://edisonformat.net/card?name=Cannonball%20Spear%20Shellfish](https://edisonformat.net/card?name=Cannonball%20Spear%20Shellfish)
 
 ### Edison-Accurate PSCT
 

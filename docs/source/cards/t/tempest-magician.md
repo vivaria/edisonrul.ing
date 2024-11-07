@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Tempest%20Magician
+Source: [https://edisonformat.net/card?name=Tempest%20Magician](https://edisonformat.net/card?name=Tempest%20Magician)
 
 ### Edison-Accurate PSCT
 

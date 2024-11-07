@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gravekeeper's%20Priestess
+Source: [https://edisonformat.net/card?name=Gravekeeper's%20Priestess](https://edisonformat.net/card?name=Gravekeeper's%20Priestess)
 
 ### Edison-Accurate PSCT
 

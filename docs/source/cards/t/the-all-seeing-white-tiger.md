@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20All-Seeing%20White%20Tiger
+Source: [https://edisonformat.net/card?name=The%20All-Seeing%20White%20Tiger](https://edisonformat.net/card?name=The%20All-Seeing%20White%20Tiger)
 
 ### Edison-Accurate PSCT
 

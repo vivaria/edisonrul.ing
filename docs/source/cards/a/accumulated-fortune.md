@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Accumulated%20Fortune
+Source: [https://edisonformat.net/card?name=Accumulated%20Fortune](https://edisonformat.net/card?name=Accumulated%20Fortune)
 
 ### Edison-Accurate PSCT
 

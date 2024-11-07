@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Incandescent%20Ordeal
+Source: [https://edisonformat.net/card?name=Incandescent%20Ordeal](https://edisonformat.net/card?name=Incandescent%20Ordeal)
 
 ### Edison-Accurate PSCT
 

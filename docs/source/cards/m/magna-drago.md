@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Magna%20Drago
+Source: [https://edisonformat.net/card?name=Magna%20Drago](https://edisonformat.net/card?name=Magna%20Drago)
 
 ### Edison-Accurate PSCT
 

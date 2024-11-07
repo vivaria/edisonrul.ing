@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Seismic%20Shockwave
+Source: [https://edisonformat.net/card?name=Seismic%20Shockwave](https://edisonformat.net/card?name=Seismic%20Shockwave)
 
 ### Edison-Accurate PSCT
 

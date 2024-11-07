@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Bean%20Soldier
+Source: [https://edisonformat.net/card?name=Bean%20Soldier](https://edisonformat.net/card?name=Bean%20Soldier)
 
 ### Edison-Accurate PSCT
 

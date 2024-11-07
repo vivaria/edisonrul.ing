@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Takuhee
+Source: [https://edisonformat.net/card?name=Takuhee](https://edisonformat.net/card?name=Takuhee)
 
 ### Edison-Accurate PSCT
 

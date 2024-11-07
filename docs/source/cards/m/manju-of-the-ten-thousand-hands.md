@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Manju%20of%20the%20Ten%20Thousand%20Hands
+Source: [https://edisonformat.net/card?name=Manju%20of%20the%20Ten%20Thousand%20Hands](https://edisonformat.net/card?name=Manju%20of%20the%20Ten%20Thousand%20Hands)
 
 ### Edison-Accurate PSCT
 

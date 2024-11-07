@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gladiator%20Beast%20Samnite
+Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Samnite](https://edisonformat.net/card?name=Gladiator%20Beast%20Samnite)
 
 ### Edison-Accurate PSCT
 

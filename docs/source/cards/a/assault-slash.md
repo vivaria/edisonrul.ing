@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Assault%20Slash
+Source: [https://edisonformat.net/card?name=Assault%20Slash](https://edisonformat.net/card?name=Assault%20Slash)
 
 ### Edison-Accurate PSCT
 

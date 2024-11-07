@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Mask%20of%20Remnants
+Source: [https://edisonformat.net/card?name=The%20Mask%20of%20Remnants](https://edisonformat.net/card?name=The%20Mask%20of%20Remnants)
 
 ### Edison-Accurate PSCT
 

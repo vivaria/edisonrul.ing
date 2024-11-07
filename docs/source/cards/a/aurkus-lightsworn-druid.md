@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -30,7 +30,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Aurkus,%20Lightsworn%20Druid
+Source: [https://edisonformat.net/card?name=Aurkus,%20Lightsworn%20Druid](https://edisonformat.net/card?name=Aurkus,%20Lightsworn%20Druid)
 
 ### Edison-Accurate PSCT
 

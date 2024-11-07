@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Steel%20Shell
+Source: [https://edisonformat.net/card?name=Steel%20Shell](https://edisonformat.net/card?name=Steel%20Shell)
 
 ### Edison-Accurate PSCT
 

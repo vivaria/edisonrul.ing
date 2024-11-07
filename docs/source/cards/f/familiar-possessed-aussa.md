@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Familiar-Possessed%20-%20Aussa
+Source: [https://edisonformat.net/card?name=Familiar-Possessed%20-%20Aussa](https://edisonformat.net/card?name=Familiar-Possessed%20-%20Aussa)
 
 ### Edison-Accurate PSCT
 

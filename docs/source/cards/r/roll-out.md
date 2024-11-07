@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Roll%20Out
+Source: [https://edisonformat.net/card?name=Roll%20Out](https://edisonformat.net/card?name=Roll%20Out)
 
 ### Edison-Accurate PSCT
 

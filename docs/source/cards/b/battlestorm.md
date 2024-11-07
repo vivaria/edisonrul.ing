@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Battlestorm
+Source: [https://edisonformat.net/card?name=Battlestorm](https://edisonformat.net/card?name=Battlestorm)
 
 ### Edison-Accurate PSCT
 

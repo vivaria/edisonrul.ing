@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Infernalqueen%20Archfiend
+Source: [https://edisonformat.net/card?name=Infernalqueen%20Archfiend](https://edisonformat.net/card?name=Infernalqueen%20Archfiend)
 
 ### Edison-Accurate PSCT
 

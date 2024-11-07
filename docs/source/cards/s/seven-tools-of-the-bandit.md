@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Seven%20Tools%20of%20the%20Bandit
+Source: [https://edisonformat.net/card?name=Seven%20Tools%20of%20the%20Bandit](https://edisonformat.net/card?name=Seven%20Tools%20of%20the%20Bandit)
 
 ### Edison-Accurate PSCT
 

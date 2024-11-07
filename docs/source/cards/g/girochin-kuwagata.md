@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Girochin%20Kuwagata
+Source: [https://edisonformat.net/card?name=Girochin%20Kuwagata](https://edisonformat.net/card?name=Girochin%20Kuwagata)
 
 ### Edison-Accurate PSCT
 

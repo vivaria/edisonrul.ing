@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Golden%20Homunculus
+Source: [https://edisonformat.net/card?name=Golden%20Homunculus](https://edisonformat.net/card?name=Golden%20Homunculus)
 
 ### Edison-Accurate PSCT
 

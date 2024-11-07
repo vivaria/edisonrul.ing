@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Silent%20Magician%20LV8
+Source: [https://edisonformat.net/card?name=Silent%20Magician%20LV8](https://edisonformat.net/card?name=Silent%20Magician%20LV8)
 
 ### Edison-Accurate PSCT
 

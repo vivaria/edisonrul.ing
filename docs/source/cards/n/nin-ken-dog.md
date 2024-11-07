@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Nin-Ken%20Dog
+Source: [https://edisonformat.net/card?name=Nin-Ken%20Dog](https://edisonformat.net/card?name=Nin-Ken%20Dog)
 
 ### Edison-Accurate PSCT
 

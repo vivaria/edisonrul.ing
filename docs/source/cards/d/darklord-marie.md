@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Darklord%20Marie
+Source: [https://edisonformat.net/card?name=Darklord%20Marie](https://edisonformat.net/card?name=Darklord%20Marie)
 
 ### Edison-Accurate PSCT
 

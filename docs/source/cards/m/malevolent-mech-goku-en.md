@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -23,7 +23,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Malevolent%20Mech%20-%20Goku%20En
+Source: [https://edisonformat.net/card?name=Malevolent%20Mech%20-%20Goku%20En](https://edisonformat.net/card?name=Malevolent%20Mech%20-%20Goku%20En)
 
 ### Edison-Accurate PSCT
 

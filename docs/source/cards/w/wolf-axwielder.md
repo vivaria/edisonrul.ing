@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Wolf%20Axwielder
+Source: [https://edisonformat.net/card?name=Wolf%20Axwielder](https://edisonformat.net/card?name=Wolf%20Axwielder)
 
 ### Edison-Accurate PSCT
 

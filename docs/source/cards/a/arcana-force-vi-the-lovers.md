@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Arcana%20Force%20VI%20-%20The%20Lovers
+Source: [https://edisonformat.net/card?name=Arcana%20Force%20VI%20-%20The%20Lovers](https://edisonformat.net/card?name=Arcana%20Force%20VI%20-%20The%20Lovers)
 
 ### Edison-Accurate PSCT
 

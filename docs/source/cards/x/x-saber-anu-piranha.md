@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=X-Saber%20Anu%20Piranha
+Source: [https://edisonformat.net/card?name=X-Saber%20Anu%20Piranha](https://edisonformat.net/card?name=X-Saber%20Anu%20Piranha)
 
 ### Edison-Accurate PSCT
 

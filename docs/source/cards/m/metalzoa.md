@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Metalzoa
+Source: [https://edisonformat.net/card?name=Metalzoa](https://edisonformat.net/card?name=Metalzoa)
 
 ### Edison-Accurate PSCT
 

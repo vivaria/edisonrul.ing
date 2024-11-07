@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Morinphen
+Source: [https://edisonformat.net/card?name=Morinphen](https://edisonformat.net/card?name=Morinphen)
 
 ### Edison-Accurate PSCT
 

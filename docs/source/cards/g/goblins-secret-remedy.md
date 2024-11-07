@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Goblin's%20Secret%20Remedy
+Source: [https://edisonformat.net/card?name=Goblin's%20Secret%20Remedy](https://edisonformat.net/card?name=Goblin's%20Secret%20Remedy)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Turu-Purun
+Source: [https://edisonformat.net/card?name=Turu-Purun](https://edisonformat.net/card?name=Turu-Purun)
 
 ### Edison-Accurate PSCT
 

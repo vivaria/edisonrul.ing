@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ambulance%20Rescueroid
+Source: [https://edisonformat.net/card?name=Ambulance%20Rescueroid](https://edisonformat.net/card?name=Ambulance%20Rescueroid)
 
 ### Edison-Accurate PSCT
 

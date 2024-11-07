@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Scrap-Iron%20Scarecrow
+Source: [https://edisonformat.net/card?name=Scrap-Iron%20Scarecrow](https://edisonformat.net/card?name=Scrap-Iron%20Scarecrow)
 
 ### Edison-Accurate PSCT
 

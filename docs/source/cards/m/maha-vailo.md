@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Maha%20Vailo
+Source: [https://edisonformat.net/card?name=Maha%20Vailo](https://edisonformat.net/card?name=Maha%20Vailo)
 
 ### Edison-Accurate PSCT
 

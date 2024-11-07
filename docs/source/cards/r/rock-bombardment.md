@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Rock%20Bombardment
+Source: [https://edisonformat.net/card?name=Rock%20Bombardment](https://edisonformat.net/card?name=Rock%20Bombardment)
 
 ### Edison-Accurate PSCT
 

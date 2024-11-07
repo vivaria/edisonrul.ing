@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mokey%20Mokey
+Source: [https://edisonformat.net/card?name=Mokey%20Mokey](https://edisonformat.net/card?name=Mokey%20Mokey)
 
 ### Edison-Accurate PSCT
 

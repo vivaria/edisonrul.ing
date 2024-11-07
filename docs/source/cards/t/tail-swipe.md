@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Tail%20Swipe
+Source: [https://edisonformat.net/card?name=Tail%20Swipe](https://edisonformat.net/card?name=Tail%20Swipe)
 
 ### Edison-Accurate PSCT
 

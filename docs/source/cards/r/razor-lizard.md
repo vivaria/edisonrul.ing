@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Razor%20Lizard
+Source: [https://edisonformat.net/card?name=Razor%20Lizard](https://edisonformat.net/card?name=Razor%20Lizard)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Phantom%20Beast%20Wild-Horn
+Source: [https://edisonformat.net/card?name=Phantom%20Beast%20Wild-Horn](https://edisonformat.net/card?name=Phantom%20Beast%20Wild-Horn)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ruin,%20Queen%20of%20Oblivion
+Source: [https://edisonformat.net/card?name=Ruin,%20Queen%20of%20Oblivion](https://edisonformat.net/card?name=Ruin,%20Queen%20of%20Oblivion)
 
 ### Edison-Accurate PSCT
 

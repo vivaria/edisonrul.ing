@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Emblem%20of%20Dragon%20Destroyer
+Source: [https://edisonformat.net/card?name=Emblem%20of%20Dragon%20Destroyer](https://edisonformat.net/card?name=Emblem%20of%20Dragon%20Destroyer)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Earth%20Chant
+Source: [https://edisonformat.net/card?name=Earth%20Chant](https://edisonformat.net/card?name=Earth%20Chant)
 
 ### Edison-Accurate PSCT
 

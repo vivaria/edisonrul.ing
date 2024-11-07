@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Anti%20Raigeki
+Source: [https://edisonformat.net/card?name=Anti%20Raigeki](https://edisonformat.net/card?name=Anti%20Raigeki)
 
 ### Edison-Accurate PSCT
 

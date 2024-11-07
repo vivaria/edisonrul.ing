@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gigantes
+Source: [https://edisonformat.net/card?name=Gigantes](https://edisonformat.net/card?name=Gigantes)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Giant%20Soldier%20of%20Stone
+Source: [https://edisonformat.net/card?name=Giant%20Soldier%20of%20Stone](https://edisonformat.net/card?name=Giant%20Soldier%20of%20Stone)
 
 ### Edison-Accurate PSCT
 

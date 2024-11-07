@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Legendary%20Sword
+Source: [https://edisonformat.net/card?name=Legendary%20Sword](https://edisonformat.net/card?name=Legendary%20Sword)
 
 ### Edison-Accurate PSCT
 

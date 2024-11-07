@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -17,7 +17,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dragged%20Down%20into%20the%20Grave
+Source: [https://edisonformat.net/card?name=Dragged%20Down%20into%20the%20Grave](https://edisonformat.net/card?name=Dragged%20Down%20into%20the%20Grave)
 
 ### Edison-Accurate PSCT
 

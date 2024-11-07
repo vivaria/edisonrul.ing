@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mystical%20Shine%20Ball
+Source: [https://edisonformat.net/card?name=Mystical%20Shine%20Ball](https://edisonformat.net/card?name=Mystical%20Shine%20Ball)
 
 ### Edison-Accurate PSCT
 

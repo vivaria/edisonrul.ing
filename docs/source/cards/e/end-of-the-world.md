@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=End%20of%20the%20World
+Source: [https://edisonformat.net/card?name=End%20of%20the%20World](https://edisonformat.net/card?name=End%20of%20the%20World)
 
 ### Edison-Accurate PSCT
 

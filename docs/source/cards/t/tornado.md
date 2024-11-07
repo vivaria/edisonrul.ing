@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Tornado
+Source: [https://edisonformat.net/card?name=Tornado](https://edisonformat.net/card?name=Tornado)
 
 ### Edison-Accurate PSCT
 

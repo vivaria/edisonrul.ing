@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -21,7 +21,7 @@ _① When this card destroys an opponent’s monster by battle and sends it to t
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Goyo%20Guardian
+Source: [https://edisonformat.net/card?name=Goyo%20Guardian](https://edisonformat.net/card?name=Goyo%20Guardian)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Warm%20Worm
+Source: [https://edisonformat.net/card?name=Warm%20Worm](https://edisonformat.net/card?name=Warm%20Worm)
 
 ### Edison-Accurate PSCT
 

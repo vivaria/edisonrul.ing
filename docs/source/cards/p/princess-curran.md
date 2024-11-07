@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Princess%20Curran
+Source: [https://edisonformat.net/card?name=Princess%20Curran](https://edisonformat.net/card?name=Princess%20Curran)
 
 ### Edison-Accurate PSCT
 

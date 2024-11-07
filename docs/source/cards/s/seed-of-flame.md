@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Seed%20of%20Flame
+Source: [https://edisonformat.net/card?name=Seed%20of%20Flame](https://edisonformat.net/card?name=Seed%20of%20Flame)
 
 ### Edison-Accurate PSCT
 

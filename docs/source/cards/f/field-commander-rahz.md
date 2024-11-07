@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Field-Commander%20Rahz
+Source: [https://edisonformat.net/card?name=Field-Commander%20Rahz](https://edisonformat.net/card?name=Field-Commander%20Rahz)
 
 ### Edison-Accurate PSCT
 

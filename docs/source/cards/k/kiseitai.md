@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Kiseitai
+Source: [https://edisonformat.net/card?name=Kiseitai](https://edisonformat.net/card?name=Kiseitai)
 
 ### Edison-Accurate PSCT
 

@@ -20,7 +20,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Eccentric%20Boy
+Source: [https://edisonformat.net/card?name=Eccentric%20Boy](https://edisonformat.net/card?name=Eccentric%20Boy)
 
 ### Edison-Accurate PSCT
 

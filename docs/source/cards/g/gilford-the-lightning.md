@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gilford%20the%20Lightning
+Source: [https://edisonformat.net/card?name=Gilford%20the%20Lightning](https://edisonformat.net/card?name=Gilford%20the%20Lightning)
 
 ### Edison-Accurate PSCT
 

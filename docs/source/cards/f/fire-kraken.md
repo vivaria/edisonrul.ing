@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fire%20Kraken
+Source: [https://edisonformat.net/card?name=Fire%20Kraken](https://edisonformat.net/card?name=Fire%20Kraken)
 
 ### Edison-Accurate PSCT
 

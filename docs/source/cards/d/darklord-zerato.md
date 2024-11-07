@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Darklord%20Zerato
+Source: [https://edisonformat.net/card?name=Darklord%20Zerato](https://edisonformat.net/card?name=Darklord%20Zerato)
 
 ### Edison-Accurate PSCT
 

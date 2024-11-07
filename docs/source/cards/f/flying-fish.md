@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Flying%20Fish
+Source: [https://edisonformat.net/card?name=Flying%20Fish](https://edisonformat.net/card?name=Flying%20Fish)
 
 ### Edison-Accurate PSCT
 

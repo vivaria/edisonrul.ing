@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cloudian%20-%20Sheep%20Cloud
+Source: [https://edisonformat.net/card?name=Cloudian%20-%20Sheep%20Cloud](https://edisonformat.net/card?name=Cloudian%20-%20Sheep%20Cloud)
 
 ### Edison-Accurate PSCT
 

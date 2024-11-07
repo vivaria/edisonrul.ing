@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Machine%20Lord%20Ur
+Source: [https://edisonformat.net/card?name=Machine%20Lord%20Ur](https://edisonformat.net/card?name=Machine%20Lord%20Ur)
 
 ### Edison-Accurate PSCT
 

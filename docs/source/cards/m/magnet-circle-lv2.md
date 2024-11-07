@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Magnet%20Circle%20LV
+Source: [https://edisonformat.net/card?name=Magnet%20Circle%20LV](https://edisonformat.net/card?name=Magnet%20Circle%20LV)
 
 ### Edison-Accurate PSCT
 

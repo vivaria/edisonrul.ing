@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Knight's%20Title
+Source: [https://edisonformat.net/card?name=Knight's%20Title](https://edisonformat.net/card?name=Knight's%20Title)
 
 ### Edison-Accurate PSCT
 

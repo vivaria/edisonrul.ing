@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -23,7 +23,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Uria,%20Lord%20of%20Searing%20Flames
+Source: [https://edisonformat.net/card?name=Uria,%20Lord%20of%20Searing%20Flames](https://edisonformat.net/card?name=Uria,%20Lord%20of%20Searing%20Flames)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Weather%20Report
+Source: [https://edisonformat.net/card?name=Weather%20Report](https://edisonformat.net/card?name=Weather%20Report)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Botanical%20Girl
+Source: [https://edisonformat.net/card?name=Botanical%20Girl](https://edisonformat.net/card?name=Botanical%20Girl)
 
 ### Edison-Accurate PSCT
 

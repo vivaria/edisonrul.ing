@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mad%20Lobster
+Source: [https://edisonformat.net/card?name=Mad%20Lobster](https://edisonformat.net/card?name=Mad%20Lobster)
 
 ### Edison-Accurate PSCT
 

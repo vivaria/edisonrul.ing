@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Overdrive
+Source: [https://edisonformat.net/card?name=Overdrive](https://edisonformat.net/card?name=Overdrive)
 
 ### Edison-Accurate PSCT
 

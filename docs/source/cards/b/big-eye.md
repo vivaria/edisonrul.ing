@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Big%20Eye
+Source: [https://edisonformat.net/card?name=Big%20Eye](https://edisonformat.net/card?name=Big%20Eye)
 
 ### Edison-Accurate PSCT
 

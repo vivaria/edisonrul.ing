@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Copycat
+Source: [https://edisonformat.net/card?name=Copycat](https://edisonformat.net/card?name=Copycat)
 
 ### Edison-Accurate PSCT
 

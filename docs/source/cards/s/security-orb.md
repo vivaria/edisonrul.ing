@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Security%20Orb
+Source: [https://edisonformat.net/card?name=Security%20Orb](https://edisonformat.net/card?name=Security%20Orb)
 
 ### Edison-Accurate PSCT
 

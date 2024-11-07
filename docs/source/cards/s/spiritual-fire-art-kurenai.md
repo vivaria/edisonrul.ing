@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spiritual%20Fire%20Art%20-%20Kurenai
+Source: [https://edisonformat.net/card?name=Spiritual%20Fire%20Art%20-%20Kurenai](https://edisonformat.net/card?name=Spiritual%20Fire%20Art%20-%20Kurenai)
 
 ### Edison-Accurate PSCT
 

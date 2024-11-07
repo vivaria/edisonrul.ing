@@ -14,7 +14,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Chain%20Material
+Source: [https://edisonformat.net/card?name=Chain%20Material](https://edisonformat.net/card?name=Chain%20Material)
 
 ### Edison-Accurate PSCT
 

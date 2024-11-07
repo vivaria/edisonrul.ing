@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20World%20Dealings
+Source: [https://edisonformat.net/card?name=Dark%20World%20Dealings](https://edisonformat.net/card?name=Dark%20World%20Dealings)
 
 ### Edison-Accurate PSCT
 

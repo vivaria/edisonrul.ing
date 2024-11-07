@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Malice%20Dispersion
+Source: [https://edisonformat.net/card?name=Malice%20Dispersion](https://edisonformat.net/card?name=Malice%20Dispersion)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Phantom%20Dragonray%20Bronto
+Source: [https://edisonformat.net/card?name=Phantom%20Dragonray%20Bronto](https://edisonformat.net/card?name=Phantom%20Dragonray%20Bronto)
 
 ### Edison-Accurate PSCT
 

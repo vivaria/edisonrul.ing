@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Witty%20Phantom
+Source: [https://edisonformat.net/card?name=Witty%20Phantom](https://edisonformat.net/card?name=Witty%20Phantom)
 
 ### Edison-Accurate PSCT
 

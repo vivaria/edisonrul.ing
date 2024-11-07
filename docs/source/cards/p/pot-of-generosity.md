@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -17,7 +17,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Pot%20of%20Generosity
+Source: [https://edisonformat.net/card?name=Pot%20of%20Generosity](https://edisonformat.net/card?name=Pot%20of%20Generosity)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Regretful%20Rebirth
+Source: [https://edisonformat.net/card?name=Regretful%20Rebirth](https://edisonformat.net/card?name=Regretful%20Rebirth)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Graverobber's%20Retribution
+Source: [https://edisonformat.net/card?name=Graverobber's%20Retribution](https://edisonformat.net/card?name=Graverobber's%20Retribution)
 
 ### Edison-Accurate PSCT
 

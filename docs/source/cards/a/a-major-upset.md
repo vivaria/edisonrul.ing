@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=A%20Major%20Upset
+Source: [https://edisonformat.net/card?name=A%20Major%20Upset](https://edisonformat.net/card?name=A%20Major%20Upset)
 
 ### Edison-Accurate PSCT
 

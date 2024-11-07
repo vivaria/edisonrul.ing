@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Queen's%20Bodyguard
+Source: [https://edisonformat.net/card?name=Queen's%20Bodyguard](https://edisonformat.net/card?name=Queen's%20Bodyguard)
 
 ### Edison-Accurate PSCT
 

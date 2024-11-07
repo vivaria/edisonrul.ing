@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ancient%20Brain
+Source: [https://edisonformat.net/card?name=Ancient%20Brain](https://edisonformat.net/card?name=Ancient%20Brain)
 
 ### Edison-Accurate PSCT
 

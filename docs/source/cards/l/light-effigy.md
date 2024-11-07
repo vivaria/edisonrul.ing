@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Light%20Effigy
+Source: [https://edisonformat.net/card?name=Light%20Effigy](https://edisonformat.net/card?name=Light%20Effigy)
 
 ### Edison-Accurate PSCT
 

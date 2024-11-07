@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Nightmare%20Penguin
+Source: [https://edisonformat.net/card?name=Nightmare%20Penguin](https://edisonformat.net/card?name=Nightmare%20Penguin)
 
 ### Edison-Accurate PSCT
 

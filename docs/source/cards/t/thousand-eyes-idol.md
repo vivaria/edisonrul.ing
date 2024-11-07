@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Thousand-Eyes%20Idol
+Source: [https://edisonformat.net/card?name=Thousand-Eyes%20Idol](https://edisonformat.net/card?name=Thousand-Eyes%20Idol)
 
 ### Edison-Accurate PSCT
 

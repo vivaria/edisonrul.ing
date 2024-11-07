@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spell-Stopping%20Statute
+Source: [https://edisonformat.net/card?name=Spell-Stopping%20Statute](https://edisonformat.net/card?name=Spell-Stopping%20Statute)
 
 ### Edison-Accurate PSCT
 

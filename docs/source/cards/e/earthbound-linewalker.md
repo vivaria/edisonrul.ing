@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Earthbound%20Linewalker
+Source: [https://edisonformat.net/card?name=Earthbound%20Linewalker](https://edisonformat.net/card?name=Earthbound%20Linewalker)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Harpie%20Lady
+Source: [https://edisonformat.net/card?name=Harpie%20Lady](https://edisonformat.net/card?name=Harpie%20Lady)
 
 ### Edison-Accurate PSCT
 

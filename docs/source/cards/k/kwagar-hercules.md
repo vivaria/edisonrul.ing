@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Kwagar%20Hercules
+Source: [https://edisonformat.net/card?name=Kwagar%20Hercules](https://edisonformat.net/card?name=Kwagar%20Hercules)
 
 ### Edison-Accurate PSCT
 

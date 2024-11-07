@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cloudian%20-%20Storm%20Dragon
+Source: [https://edisonformat.net/card?name=Cloudian%20-%20Storm%20Dragon](https://edisonformat.net/card?name=Cloudian%20-%20Storm%20Dragon)
 
 ### Edison-Accurate PSCT
 

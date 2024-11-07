@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Flint%20Missile
+Source: [https://edisonformat.net/card?name=Flint%20Missile](https://edisonformat.net/card?name=Flint%20Missile)
 
 ### Edison-Accurate PSCT
 

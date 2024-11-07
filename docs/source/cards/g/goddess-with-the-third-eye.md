@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -19,7 +19,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Goddess%20with%20the%20Third%20Eye
+Source: [https://edisonformat.net/card?name=Goddess%20with%20the%20Third%20Eye](https://edisonformat.net/card?name=Goddess%20with%20the%20Third%20Eye)
 
 ### Edison-Accurate PSCT
 

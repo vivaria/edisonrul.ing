@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Empress%20Mantis
+Source: [https://edisonformat.net/card?name=Empress%20Mantis](https://edisonformat.net/card?name=Empress%20Mantis)
 
 ### Edison-Accurate PSCT
 

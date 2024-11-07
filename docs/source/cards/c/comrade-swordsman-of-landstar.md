@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Comrade%20Swordsman%20of%20Landstar
+Source: [https://edisonformat.net/card?name=Comrade%20Swordsman%20of%20Landstar](https://edisonformat.net/card?name=Comrade%20Swordsman%20of%20Landstar)
 
 ### Edison-Accurate PSCT
 

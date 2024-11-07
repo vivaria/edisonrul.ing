@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fires%20of%20Doomsday
+Source: [https://edisonformat.net/card?name=Fires%20of%20Doomsday](https://edisonformat.net/card?name=Fires%20of%20Doomsday)
 
 ### Edison-Accurate PSCT
 

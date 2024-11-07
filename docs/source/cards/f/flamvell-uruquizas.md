@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Flamvell%20Uruquizas
+Source: [https://edisonformat.net/card?name=Flamvell%20Uruquizas](https://edisonformat.net/card?name=Flamvell%20Uruquizas)
 
 ### Edison-Accurate PSCT
 

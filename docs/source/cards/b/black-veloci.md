@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Black%20Veloci
+Source: [https://edisonformat.net/card?name=Black%20Veloci](https://edisonformat.net/card?name=Black%20Veloci)
 
 ### Edison-Accurate PSCT
 

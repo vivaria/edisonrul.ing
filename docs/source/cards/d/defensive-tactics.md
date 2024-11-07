@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Defensive%20Tactics
+Source: [https://edisonformat.net/card?name=Defensive%20Tactics](https://edisonformat.net/card?name=Defensive%20Tactics)
 
 ### Edison-Accurate PSCT
 

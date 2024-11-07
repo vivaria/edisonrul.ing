@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -22,7 +22,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Armored%20Axon%20Kicker
+Source: [https://edisonformat.net/card?name=Armored%20Axon%20Kicker](https://edisonformat.net/card?name=Armored%20Axon%20Kicker)
 
 ### Edison-Accurate PSCT
 

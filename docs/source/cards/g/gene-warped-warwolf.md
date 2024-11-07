@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gene-Warped%20Warwolf
+Source: [https://edisonformat.net/card?name=Gene-Warped%20Warwolf](https://edisonformat.net/card?name=Gene-Warped%20Warwolf)
 
 ### Edison-Accurate PSCT
 

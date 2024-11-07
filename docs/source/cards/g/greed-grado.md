@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Greed%20Grado
+Source: [https://edisonformat.net/card?name=Greed%20Grado](https://edisonformat.net/card?name=Greed%20Grado)
 
 ### Edison-Accurate PSCT
 

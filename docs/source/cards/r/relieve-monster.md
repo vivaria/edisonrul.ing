@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Relieve%20Monster
+Source: [https://edisonformat.net/card?name=Relieve%20Monster](https://edisonformat.net/card?name=Relieve%20Monster)
 
 ### Edison-Accurate PSCT
 

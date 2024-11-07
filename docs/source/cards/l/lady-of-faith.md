@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Lady%20of%20Faith
+Source: [https://edisonformat.net/card?name=Lady%20of%20Faith](https://edisonformat.net/card?name=Lady%20of%20Faith)
 
 ### Edison-Accurate PSCT
 

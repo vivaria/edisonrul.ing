@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fiendish%20Engine%20Omega
+Source: [https://edisonformat.net/card?name=Fiendish%20Engine%20Omega](https://edisonformat.net/card?name=Fiendish%20Engine%20Omega)
 
 ### Edison-Accurate PSCT
 

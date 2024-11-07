@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fushi%20No%20Tori
+Source: [https://edisonformat.net/card?name=Fushi%20No%20Tori](https://edisonformat.net/card?name=Fushi%20No%20Tori)
 
 ### Edison-Accurate PSCT
 

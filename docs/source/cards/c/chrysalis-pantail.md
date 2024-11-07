@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Chrysalis%20Pantail
+Source: [https://edisonformat.net/card?name=Chrysalis%20Pantail](https://edisonformat.net/card?name=Chrysalis%20Pantail)
 
 ### Edison-Accurate PSCT
 

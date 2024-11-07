@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Amazoness%20Archer
+Source: [https://edisonformat.net/card?name=Amazoness%20Archer](https://edisonformat.net/card?name=Amazoness%20Archer)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Enchanted%20Javelin
+Source: [https://edisonformat.net/card?name=Enchanted%20Javelin](https://edisonformat.net/card?name=Enchanted%20Javelin)
 
 ### Edison-Accurate PSCT
 

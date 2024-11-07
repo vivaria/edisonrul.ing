@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mispolymerization
+Source: [https://edisonformat.net/card?name=Mispolymerization](https://edisonformat.net/card?name=Mispolymerization)
 
 ### Edison-Accurate PSCT
 

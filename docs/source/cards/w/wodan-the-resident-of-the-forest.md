@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Wodan%20the%20Resident%20of%20the%20Forest
+Source: [https://edisonformat.net/card?name=Wodan%20the%20Resident%20of%20the%20Forest](https://edisonformat.net/card?name=Wodan%20the%20Resident%20of%20the%20Forest)
 
 ### Edison-Accurate PSCT
 

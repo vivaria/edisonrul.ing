@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Batteryman%20Charger
+Source: [https://edisonformat.net/card?name=Batteryman%20Charger](https://edisonformat.net/card?name=Batteryman%20Charger)
 
 ### Edison-Accurate PSCT
 

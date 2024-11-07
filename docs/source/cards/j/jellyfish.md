@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Jellyfish
+Source: [https://edisonformat.net/card?name=Jellyfish](https://edisonformat.net/card?name=Jellyfish)
 
 ### Edison-Accurate PSCT
 

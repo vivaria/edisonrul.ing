@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hamon,%20Lord%20of%20Striking%20Thunder
+Source: [https://edisonformat.net/card?name=Hamon,%20Lord%20of%20Striking%20Thunder](https://edisonformat.net/card?name=Hamon,%20Lord%20of%20Striking%20Thunder)
 
 ### Edison-Accurate PSCT
 

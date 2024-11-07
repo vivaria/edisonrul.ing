@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Prometheus,%20King%20of%20the%20Shadows
+Source: [https://edisonformat.net/card?name=Prometheus,%20King%20of%20the%20Shadows](https://edisonformat.net/card?name=Prometheus,%20King%20of%20the%20Shadows)
 
 ### Edison-Accurate PSCT
 

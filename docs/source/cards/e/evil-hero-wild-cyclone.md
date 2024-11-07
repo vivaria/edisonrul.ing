@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Evil%20HERO%20Wild%20Cyclone
+Source: [https://edisonformat.net/card?name=Evil%20HERO%20Wild%20Cyclone](https://edisonformat.net/card?name=Evil%20HERO%20Wild%20Cyclone)
 
 ### Edison-Accurate PSCT
 

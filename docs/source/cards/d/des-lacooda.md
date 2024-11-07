@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Des%20Lacooda
+Source: [https://edisonformat.net/card?name=Des%20Lacooda](https://edisonformat.net/card?name=Des%20Lacooda)
 
 ### Edison-Accurate PSCT
 

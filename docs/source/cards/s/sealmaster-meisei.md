@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sealmaster%20Meisei
+Source: [https://edisonformat.net/card?name=Sealmaster%20Meisei](https://edisonformat.net/card?name=Sealmaster%20Meisei)
 
 ### Edison-Accurate PSCT
 

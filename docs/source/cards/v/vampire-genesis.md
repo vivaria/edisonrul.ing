@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Vampire%20Genesis
+Source: [https://edisonformat.net/card?name=Vampire%20Genesis](https://edisonformat.net/card?name=Vampire%20Genesis)
 
 ### Edison-Accurate PSCT
 

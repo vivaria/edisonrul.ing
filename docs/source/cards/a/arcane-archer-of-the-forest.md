@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -19,7 +19,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Arcane%20Archer%20of%20the%20Forest
+Source: [https://edisonformat.net/card?name=Arcane%20Archer%20of%20the%20Forest](https://edisonformat.net/card?name=Arcane%20Archer%20of%20the%20Forest)
 
 ### Edison-Accurate PSCT
 

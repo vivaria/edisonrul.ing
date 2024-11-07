@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Level%20Retuner
+Source: [https://edisonformat.net/card?name=Level%20Retuner](https://edisonformat.net/card?name=Level%20Retuner)
 
 ### Edison-Accurate PSCT
 

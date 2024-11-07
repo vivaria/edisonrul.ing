@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=King%20of%20Destruction%20-%20Xexex
+Source: [https://edisonformat.net/card?name=King%20of%20Destruction%20-%20Xexex](https://edisonformat.net/card?name=King%20of%20Destruction%20-%20Xexex)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cryomancer%20of%20the%20Ice%20Barrier
+Source: [https://edisonformat.net/card?name=Cryomancer%20of%20the%20Ice%20Barrier](https://edisonformat.net/card?name=Cryomancer%20of%20the%20Ice%20Barrier)
 
 ### Edison-Accurate PSCT
 

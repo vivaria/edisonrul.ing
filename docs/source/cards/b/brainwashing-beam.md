@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Brainwashing%20Beam
+Source: [https://edisonformat.net/card?name=Brainwashing%20Beam](https://edisonformat.net/card?name=Brainwashing%20Beam)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gazelle%20the%20King%20of%20Mythical%20Beasts
+Source: [https://edisonformat.net/card?name=Gazelle%20the%20King%20of%20Mythical%20Beasts](https://edisonformat.net/card?name=Gazelle%20the%20King%20of%20Mythical%20Beasts)
 
 ### Edison-Accurate PSCT
 

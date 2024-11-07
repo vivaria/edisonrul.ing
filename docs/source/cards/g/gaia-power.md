@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gaia%20Power
+Source: [https://edisonformat.net/card?name=Gaia%20Power](https://edisonformat.net/card?name=Gaia%20Power)
 
 ### Edison-Accurate PSCT
 

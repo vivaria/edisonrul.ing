@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Shien's%20Castle%20of%20Mist
+Source: [https://edisonformat.net/card?name=Shien's%20Castle%20of%20Mist](https://edisonformat.net/card?name=Shien's%20Castle%20of%20Mist)
 
 ### Edison-Accurate PSCT
 

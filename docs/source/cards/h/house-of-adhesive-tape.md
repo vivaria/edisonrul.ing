@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=House%20of%20Adhesive%20Tape
+Source: [https://edisonformat.net/card?name=House%20of%20Adhesive%20Tape](https://edisonformat.net/card?name=House%20of%20Adhesive%20Tape)
 
 ### Edison-Accurate PSCT
 

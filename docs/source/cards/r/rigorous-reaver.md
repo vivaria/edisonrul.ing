@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Rigorous%20Reaver
+Source: [https://edisonformat.net/card?name=Rigorous%20Reaver](https://edisonformat.net/card?name=Rigorous%20Reaver)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hidden%20Soldiers
+Source: [https://edisonformat.net/card?name=Hidden%20Soldiers](https://edisonformat.net/card?name=Hidden%20Soldiers)
 
 ### Edison-Accurate PSCT
 

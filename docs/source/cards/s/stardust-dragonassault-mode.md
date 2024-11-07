@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -31,7 +31,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Stardust%20Dragon%20Assault%20Mode
+Source: [https://edisonformat.net/card?name=Stardust%20Dragon%20Assault%20Mode](https://edisonformat.net/card?name=Stardust%20Dragon%20Assault%20Mode)
 
 ### Edison-Accurate PSCT
 

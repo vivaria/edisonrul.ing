@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Road%20Warrior
+Source: [https://edisonformat.net/card?name=Road%20Warrior](https://edisonformat.net/card?name=Road%20Warrior)
 
 ### Edison-Accurate PSCT
 

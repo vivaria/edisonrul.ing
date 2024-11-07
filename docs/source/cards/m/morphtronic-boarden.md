@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Morphtronic%20Boarden
+Source: [https://edisonformat.net/card?name=Morphtronic%20Boarden](https://edisonformat.net/card?name=Morphtronic%20Boarden)
 
 ### Edison-Accurate PSCT
 

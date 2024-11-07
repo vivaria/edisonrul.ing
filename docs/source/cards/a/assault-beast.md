@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Assault%20Beast
+Source: [https://edisonformat.net/card?name=Assault%20Beast](https://edisonformat.net/card?name=Assault%20Beast)
 
 ### Edison-Accurate PSCT
 

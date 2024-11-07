@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fusionist
+Source: [https://edisonformat.net/card?name=Fusionist](https://edisonformat.net/card?name=Fusionist)
 
 ### Edison-Accurate PSCT
 

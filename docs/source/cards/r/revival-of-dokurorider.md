@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Revival%20of%20Dokurorider
+Source: [https://edisonformat.net/card?name=Revival%20of%20Dokurorider](https://edisonformat.net/card?name=Revival%20of%20Dokurorider)
 
 ### Edison-Accurate PSCT
 

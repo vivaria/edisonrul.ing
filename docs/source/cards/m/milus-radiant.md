@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Milus%20Radiant
+Source: [https://edisonformat.net/card?name=Milus%20Radiant](https://edisonformat.net/card?name=Milus%20Radiant)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Moai%20Interceptor%20Cannons
+Source: [https://edisonformat.net/card?name=Moai%20Interceptor%20Cannons](https://edisonformat.net/card?name=Moai%20Interceptor%20Cannons)
 
 ### Edison-Accurate PSCT
 

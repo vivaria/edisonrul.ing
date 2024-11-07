@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=D.D.%20Guide
+Source: [https://edisonformat.net/card?name=D.D.%20Guide](https://edisonformat.net/card?name=D.D.%20Guide)
 
 ### Edison-Accurate PSCT
 

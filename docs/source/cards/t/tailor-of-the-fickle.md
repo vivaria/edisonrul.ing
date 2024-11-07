@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Tailor%20of%20the%20Fickle
+Source: [https://edisonformat.net/card?name=Tailor%20of%20the%20Fickle](https://edisonformat.net/card?name=Tailor%20of%20the%20Fickle)
 
 ### Edison-Accurate PSCT
 

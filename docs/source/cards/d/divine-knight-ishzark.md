@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Divine%20Knight%20Ishzark
+Source: [https://edisonformat.net/card?name=Divine%20Knight%20Ishzark](https://edisonformat.net/card?name=Divine%20Knight%20Ishzark)
 
 ### Edison-Accurate PSCT
 

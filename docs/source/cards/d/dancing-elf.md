@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dancing%20Elf
+Source: [https://edisonformat.net/card?name=Dancing%20Elf](https://edisonformat.net/card?name=Dancing%20Elf)
 
 ### Edison-Accurate PSCT
 

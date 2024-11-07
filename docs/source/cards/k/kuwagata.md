@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Kuwagata
+Source: [https://edisonformat.net/card?name=Kuwagata](https://edisonformat.net/card?name=Kuwagata)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sabersaurus
+Source: [https://edisonformat.net/card?name=Sabersaurus](https://edisonformat.net/card?name=Sabersaurus)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Infinity%20Dark
+Source: [https://edisonformat.net/card?name=Infinity%20Dark](https://edisonformat.net/card?name=Infinity%20Dark)
 
 ### Edison-Accurate PSCT
 

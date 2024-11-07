@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Turtle%20Oath
+Source: [https://edisonformat.net/card?name=Turtle%20Oath](https://edisonformat.net/card?name=Turtle%20Oath)
 
 ### Edison-Accurate PSCT
 

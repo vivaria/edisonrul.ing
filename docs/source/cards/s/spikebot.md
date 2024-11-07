@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spikebot
+Source: [https://edisonformat.net/card?name=Spikebot](https://edisonformat.net/card?name=Spikebot)
 
 ### Edison-Accurate PSCT
 

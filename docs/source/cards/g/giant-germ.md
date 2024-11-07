@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Giant%20Germ
+Source: [https://edisonformat.net/card?name=Giant%20Germ](https://edisonformat.net/card?name=Giant%20Germ)
 
 ### Edison-Accurate PSCT
 

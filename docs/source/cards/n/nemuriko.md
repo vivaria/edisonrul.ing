@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Nemuriko
+Source: [https://edisonformat.net/card?name=Nemuriko](https://edisonformat.net/card?name=Nemuriko)
 
 ### Edison-Accurate PSCT
 

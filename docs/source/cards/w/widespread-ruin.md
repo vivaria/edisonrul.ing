@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Widespread%20Ruin
+Source: [https://edisonformat.net/card?name=Widespread%20Ruin](https://edisonformat.net/card?name=Widespread%20Ruin)
 
 ### Edison-Accurate PSCT
 

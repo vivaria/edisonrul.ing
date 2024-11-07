@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Rabid%20Horseman
+Source: [https://edisonformat.net/card?name=Rabid%20Horseman](https://edisonformat.net/card?name=Rabid%20Horseman)
 
 ### Edison-Accurate PSCT
 

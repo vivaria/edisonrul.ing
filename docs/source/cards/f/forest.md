@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Forest
+Source: [https://edisonformat.net/card?name=Forest](https://edisonformat.net/card?name=Forest)
 
 ### Edison-Accurate PSCT
 

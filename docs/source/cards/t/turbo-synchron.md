@@ -17,7 +17,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Turbo%20Synchron
+Source: [https://edisonformat.net/card?name=Turbo%20Synchron](https://edisonformat.net/card?name=Turbo%20Synchron)
 
 ### Edison-Accurate PSCT
 

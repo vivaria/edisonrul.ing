@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Manga%20Ryu-Ran
+Source: [https://edisonformat.net/card?name=Manga%20Ryu-Ran](https://edisonformat.net/card?name=Manga%20Ryu-Ran)
 
 ### Edison-Accurate PSCT
 

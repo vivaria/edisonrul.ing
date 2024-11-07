@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Back%20to%20Square%20One
+Source: [https://edisonformat.net/card?name=Back%20to%20Square%20One](https://edisonformat.net/card?name=Back%20to%20Square%20One)
 
 ### Edison-Accurate PSCT
 

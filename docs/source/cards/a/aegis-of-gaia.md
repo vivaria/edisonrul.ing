@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Aegis%20of%20Gaia
+Source: [https://edisonformat.net/card?name=Aegis%20of%20Gaia](https://edisonformat.net/card?name=Aegis%20of%20Gaia)
 
 ### Edison-Accurate PSCT
 

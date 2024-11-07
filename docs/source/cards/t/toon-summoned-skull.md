@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Toon%20Summoned%20Skull
+Source: [https://edisonformat.net/card?name=Toon%20Summoned%20Skull](https://edisonformat.net/card?name=Toon%20Summoned%20Skull)
 
 ### Edison-Accurate PSCT
 

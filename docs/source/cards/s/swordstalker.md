@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Swordstalker
+Source: [https://edisonformat.net/card?name=Swordstalker](https://edisonformat.net/card?name=Swordstalker)
 
 ### Edison-Accurate PSCT
 

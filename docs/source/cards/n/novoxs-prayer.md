@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Novox's%20Prayer
+Source: [https://edisonformat.net/card?name=Novox's%20Prayer](https://edisonformat.net/card?name=Novox's%20Prayer)
 
 ### Edison-Accurate PSCT
 

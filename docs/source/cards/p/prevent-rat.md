@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Prevent%20Rat
+Source: [https://edisonformat.net/card?name=Prevent%20Rat](https://edisonformat.net/card?name=Prevent%20Rat)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Power%20Invader
+Source: [https://edisonformat.net/card?name=Power%20Invader](https://edisonformat.net/card?name=Power%20Invader)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=H%20-%20Heated%20Heart
+Source: [https://edisonformat.net/card?name=H%20-%20Heated%20Heart](https://edisonformat.net/card?name=H%20-%20Heated%20Heart)
 
 ### Edison-Accurate PSCT
 

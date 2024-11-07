@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -18,7 +18,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Morphtronic%20Magnen%20Bar
+Source: [https://edisonformat.net/card?name=Morphtronic%20Magnen%20Bar](https://edisonformat.net/card?name=Morphtronic%20Magnen%20Bar)
 
 ### Edison-Accurate PSCT
 

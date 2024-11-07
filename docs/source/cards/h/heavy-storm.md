@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Heavy%20Storm
+Source: [https://edisonformat.net/card?name=Heavy%20Storm](https://edisonformat.net/card?name=Heavy%20Storm)
 
 ### Edison-Accurate PSCT
 

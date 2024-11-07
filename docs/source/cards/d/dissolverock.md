@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dissolverock
+Source: [https://edisonformat.net/card?name=Dissolverock](https://edisonformat.net/card?name=Dissolverock)
 
 ### Edison-Accurate PSCT
 

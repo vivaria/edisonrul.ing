@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cemetary%20Bomb
+Source: [https://edisonformat.net/card?name=Cemetary%20Bomb](https://edisonformat.net/card?name=Cemetary%20Bomb)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Elemental%20HERO%20Inferno
+Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Inferno](https://edisonformat.net/card?name=Elemental%20HERO%20Inferno)
 
 ### Edison-Accurate PSCT
 

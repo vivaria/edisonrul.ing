@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Shadow%20Spell
+Source: [https://edisonformat.net/card?name=Shadow%20Spell](https://edisonformat.net/card?name=Shadow%20Spell)
 
 ### Edison-Accurate PSCT
 

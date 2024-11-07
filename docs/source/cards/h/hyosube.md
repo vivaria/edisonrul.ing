@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hyosube
+Source: [https://edisonformat.net/card?name=Hyosube](https://edisonformat.net/card?name=Hyosube)
 
 ### Edison-Accurate PSCT
 

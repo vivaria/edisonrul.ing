@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Beast%20King%20Barbaros
+Source: [https://edisonformat.net/card?name=Beast%20King%20Barbaros](https://edisonformat.net/card?name=Beast%20King%20Barbaros)
 
 ### Edison-Accurate PSCT
 

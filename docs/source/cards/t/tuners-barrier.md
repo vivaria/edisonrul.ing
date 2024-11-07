@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Tuner's%20Barrier
+Source: [https://edisonformat.net/card?name=Tuner's%20Barrier](https://edisonformat.net/card?name=Tuner's%20Barrier)
 
 ### Edison-Accurate PSCT
 

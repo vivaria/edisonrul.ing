@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -18,7 +18,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Burst%20Stream%20of%20Destruction
+Source: [https://edisonformat.net/card?name=Burst%20Stream%20of%20Destruction](https://edisonformat.net/card?name=Burst%20Stream%20of%20Destruction)
 
 ### Edison-Accurate PSCT
 

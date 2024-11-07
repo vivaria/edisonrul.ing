@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Helios%20Trice%20Megistus
+Source: [https://edisonformat.net/card?name=Helios%20Trice%20Megistus](https://edisonformat.net/card?name=Helios%20Trice%20Megistus)
 
 ### Edison-Accurate PSCT
 

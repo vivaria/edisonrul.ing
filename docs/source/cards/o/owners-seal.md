@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Owner's%20Seal
+Source: [https://edisonformat.net/card?name=Owner's%20Seal](https://edisonformat.net/card?name=Owner's%20Seal)
 
 ### Edison-Accurate PSCT
 

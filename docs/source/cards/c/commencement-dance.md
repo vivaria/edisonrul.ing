@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Commencement%20Dance
+Source: [https://edisonformat.net/card?name=Commencement%20Dance](https://edisonformat.net/card?name=Commencement%20Dance)
 
 ### Edison-Accurate PSCT
 

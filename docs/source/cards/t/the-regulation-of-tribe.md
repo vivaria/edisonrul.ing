@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Regulation%20of%20Tribe
+Source: [https://edisonformat.net/card?name=The%20Regulation%20of%20Tribe](https://edisonformat.net/card?name=The%20Regulation%20of%20Tribe)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Testament%20of%20the%20Arcane%20Lords
+Source: [https://edisonformat.net/card?name=Testament%20of%20the%20Arcane%20Lords](https://edisonformat.net/card?name=Testament%20of%20the%20Arcane%20Lords)
 
 ### Edison-Accurate PSCT
 

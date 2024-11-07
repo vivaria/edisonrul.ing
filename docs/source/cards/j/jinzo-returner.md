@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -22,7 +22,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Jinzo%20-%20Returner
+Source: [https://edisonformat.net/card?name=Jinzo%20-%20Returner](https://edisonformat.net/card?name=Jinzo%20-%20Returner)
 
 ### Edison-Accurate PSCT
 

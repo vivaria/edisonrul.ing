@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Yado%20Karu
+Source: [https://edisonformat.net/card?name=Yado%20Karu](https://edisonformat.net/card?name=Yado%20Karu)
 
 ### Edison-Accurate PSCT
 

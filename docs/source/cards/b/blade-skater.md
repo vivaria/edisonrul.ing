@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Blade%20Skater
+Source: [https://edisonformat.net/card?name=Blade%20Skater](https://edisonformat.net/card?name=Blade%20Skater)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Skull%20Archfiend%20of%20Lightning
+Source: [https://edisonformat.net/card?name=Skull%20Archfiend%20of%20Lightning](https://edisonformat.net/card?name=Skull%20Archfiend%20of%20Lightning)
 
 ### Edison-Accurate PSCT
 

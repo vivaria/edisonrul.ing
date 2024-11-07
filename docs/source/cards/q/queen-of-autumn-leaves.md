@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Queen%20of%20Autumn%20Leaves
+Source: [https://edisonformat.net/card?name=Queen%20of%20Autumn%20Leaves](https://edisonformat.net/card?name=Queen%20of%20Autumn%20Leaves)
 
 ### Edison-Accurate PSCT
 

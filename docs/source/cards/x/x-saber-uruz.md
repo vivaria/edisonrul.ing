@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=X-Saber%20Uruz
+Source: [https://edisonformat.net/card?name=X-Saber%20Uruz](https://edisonformat.net/card?name=X-Saber%20Uruz)
 
 ### Edison-Accurate PSCT
 

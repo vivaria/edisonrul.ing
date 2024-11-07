@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Masked%20Beast%20Des%20Gardius
+Source: [https://edisonformat.net/card?name=Masked%20Beast%20Des%20Gardius](https://edisonformat.net/card?name=Masked%20Beast%20Des%20Gardius)
 
 ### Edison-Accurate PSCT
 

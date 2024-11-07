@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Chorus%20of%20Sanctuary
+Source: [https://edisonformat.net/card?name=Chorus%20of%20Sanctuary](https://edisonformat.net/card?name=Chorus%20of%20Sanctuary)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hungry%20Burger
+Source: [https://edisonformat.net/card?name=Hungry%20Burger](https://edisonformat.net/card?name=Hungry%20Burger)
 
 ### Edison-Accurate PSCT
 

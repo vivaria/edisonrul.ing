@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Master%20Kyonshee
+Source: [https://edisonformat.net/card?name=Master%20Kyonshee](https://edisonformat.net/card?name=Master%20Kyonshee)
 
 ### Edison-Accurate PSCT
 

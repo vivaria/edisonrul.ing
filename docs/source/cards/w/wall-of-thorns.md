@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Wall%20of%20Thorns
+Source: [https://edisonformat.net/card?name=Wall%20of%20Thorns](https://edisonformat.net/card?name=Wall%20of%20Thorns)
 
 ### Edison-Accurate PSCT
 

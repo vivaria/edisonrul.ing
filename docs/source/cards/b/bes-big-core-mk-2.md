@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=B.E.S.%20Big%20Core%20MK-
+Source: [https://edisonformat.net/card?name=B.E.S.%20Big%20Core%20MK-](https://edisonformat.net/card?name=B.E.S.%20Big%20Core%20MK-)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Twin%20Long%20Rods
+Source: [https://edisonformat.net/card?name=Twin%20Long%20Rods](https://edisonformat.net/card?name=Twin%20Long%20Rods)
 
 ### Edison-Accurate PSCT
 

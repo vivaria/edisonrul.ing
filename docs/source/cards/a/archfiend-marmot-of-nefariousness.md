@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Archfiend%20Marmot%20of%20Nefariousness
+Source: [https://edisonformat.net/card?name=Archfiend%20Marmot%20of%20Nefariousness](https://edisonformat.net/card?name=Archfiend%20Marmot%20of%20Nefariousness)
 
 ### Edison-Accurate PSCT
 

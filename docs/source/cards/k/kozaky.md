@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Kozaky
+Source: [https://edisonformat.net/card?name=Kozaky](https://edisonformat.net/card?name=Kozaky)
 
 ### Edison-Accurate PSCT
 

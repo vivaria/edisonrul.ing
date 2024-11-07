@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Souls%20of%20the%20Forgotten
+Source: [https://edisonformat.net/card?name=Souls%20of%20the%20Forgotten](https://edisonformat.net/card?name=Souls%20of%20the%20Forgotten)
 
 ### Edison-Accurate PSCT
 

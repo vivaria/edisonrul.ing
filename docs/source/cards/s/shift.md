@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Shift
+Source: [https://edisonformat.net/card?name=Shift](https://edisonformat.net/card?name=Shift)
 
 ### Edison-Accurate PSCT
 

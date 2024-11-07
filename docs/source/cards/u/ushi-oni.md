@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ushi%20Oni
+Source: [https://edisonformat.net/card?name=Ushi%20Oni](https://edisonformat.net/card?name=Ushi%20Oni)
 
 ### Edison-Accurate PSCT
 

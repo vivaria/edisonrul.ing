@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Phantasmal%20Martyrs
+Source: [https://edisonformat.net/card?name=Phantasmal%20Martyrs](https://edisonformat.net/card?name=Phantasmal%20Martyrs)
 
 ### Edison-Accurate PSCT
 

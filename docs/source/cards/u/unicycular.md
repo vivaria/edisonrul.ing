@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Unicycular
+Source: [https://edisonformat.net/card?name=Unicycular](https://edisonformat.net/card?name=Unicycular)
 
 ### Edison-Accurate PSCT
 

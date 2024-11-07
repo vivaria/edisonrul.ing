@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Nova%20Summoner
+Source: [https://edisonformat.net/card?name=Nova%20Summoner](https://edisonformat.net/card?name=Nova%20Summoner)
 
 ### Edison-Accurate PSCT
 

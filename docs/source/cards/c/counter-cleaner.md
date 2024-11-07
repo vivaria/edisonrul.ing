@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Counter%20Cleaner
+Source: [https://edisonformat.net/card?name=Counter%20Cleaner](https://edisonformat.net/card?name=Counter%20Cleaner)
 
 ### Edison-Accurate PSCT
 

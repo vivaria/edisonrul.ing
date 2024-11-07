@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Otherworld%20-%20The%20A%20Zone
+Source: [https://edisonformat.net/card?name=Otherworld%20-%20The%20A%20Zone](https://edisonformat.net/card?name=Otherworld%20-%20The%20A%20Zone)
 
 ### Edison-Accurate PSCT
 

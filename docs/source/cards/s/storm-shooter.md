@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Storm%20Shooter
+Source: [https://edisonformat.net/card?name=Storm%20Shooter](https://edisonformat.net/card?name=Storm%20Shooter)
 
 ### Edison-Accurate PSCT
 

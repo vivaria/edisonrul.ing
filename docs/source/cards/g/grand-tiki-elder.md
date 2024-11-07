@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Grand%20Tiki%20Elder
+Source: [https://edisonformat.net/card?name=Grand%20Tiki%20Elder](https://edisonformat.net/card?name=Grand%20Tiki%20Elder)
 
 ### Edison-Accurate PSCT
 

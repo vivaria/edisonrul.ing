@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -22,7 +22,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Veil%20of%20Darkness
+Source: [https://edisonformat.net/card?name=Veil%20of%20Darkness](https://edisonformat.net/card?name=Veil%20of%20Darkness)
 
 ### Edison-Accurate PSCT
 

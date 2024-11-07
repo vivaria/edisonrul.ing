@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Neo-Parshath,%20the%20Sky%20Paladin
+Source: [https://edisonformat.net/card?name=Neo-Parshath,%20the%20Sky%20Paladin](https://edisonformat.net/card?name=Neo-Parshath,%20the%20Sky%20Paladin)
 
 ### Edison-Accurate PSCT
 

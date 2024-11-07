@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Scrap%20Recycler
+Source: [https://edisonformat.net/card?name=Scrap%20Recycler](https://edisonformat.net/card?name=Scrap%20Recycler)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Great%20White
+Source: [https://edisonformat.net/card?name=Great%20White](https://edisonformat.net/card?name=Great%20White)
 
 ### Edison-Accurate PSCT
 

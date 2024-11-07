@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Armored%20Glass
+Source: [https://edisonformat.net/card?name=Armored%20Glass](https://edisonformat.net/card?name=Armored%20Glass)
 
 ### Edison-Accurate PSCT
 

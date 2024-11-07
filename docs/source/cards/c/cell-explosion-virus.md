@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cell%20Explosion%20Virus
+Source: [https://edisonformat.net/card?name=Cell%20Explosion%20Virus](https://edisonformat.net/card?name=Cell%20Explosion%20Virus)
 
 ### Edison-Accurate PSCT
 

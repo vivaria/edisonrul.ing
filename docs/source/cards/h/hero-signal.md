@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hero%20Signal
+Source: [https://edisonformat.net/card?name=Hero%20Signal](https://edisonformat.net/card?name=Hero%20Signal)
 
 ### Edison-Accurate PSCT
 

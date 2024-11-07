@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Infernity%20Dwarf
+Source: [https://edisonformat.net/card?name=Infernity%20Dwarf](https://edisonformat.net/card?name=Infernity%20Dwarf)
 
 ### Edison-Accurate PSCT
 

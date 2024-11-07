@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Claw%20Reacher
+Source: [https://edisonformat.net/card?name=Claw%20Reacher](https://edisonformat.net/card?name=Claw%20Reacher)
 
 ### Edison-Accurate PSCT
 

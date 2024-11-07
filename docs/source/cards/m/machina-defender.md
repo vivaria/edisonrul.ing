@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Machina%20Defender
+Source: [https://edisonformat.net/card?name=Machina%20Defender](https://edisonformat.net/card?name=Machina%20Defender)
 
 ### Edison-Accurate PSCT
 

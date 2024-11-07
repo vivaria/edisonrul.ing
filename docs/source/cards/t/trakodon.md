@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Trakodon
+Source: [https://edisonformat.net/card?name=Trakodon](https://edisonformat.net/card?name=Trakodon)
 
 ### Edison-Accurate PSCT
 

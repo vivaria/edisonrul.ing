@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Exarion%20Universe
+Source: [https://edisonformat.net/card?name=Exarion%20Universe](https://edisonformat.net/card?name=Exarion%20Universe)
 
 ### Edison-Accurate PSCT
 

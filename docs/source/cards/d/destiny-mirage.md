@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Destiny%20Mirage
+Source: [https://edisonformat.net/card?name=Destiny%20Mirage](https://edisonformat.net/card?name=Destiny%20Mirage)
 
 ### Edison-Accurate PSCT
 

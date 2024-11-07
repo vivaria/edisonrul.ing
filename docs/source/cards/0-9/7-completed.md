@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=7%20Completed
+Source: [https://edisonformat.net/card?name=7%20Completed](https://edisonformat.net/card?name=7%20Completed)
 
 ### Edison-Accurate PSCT
 

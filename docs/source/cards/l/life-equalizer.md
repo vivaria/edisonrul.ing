@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Life%20Equalizer
+Source: [https://edisonformat.net/card?name=Life%20Equalizer](https://edisonformat.net/card?name=Life%20Equalizer)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hard-sellin'%20Goblin
+Source: [https://edisonformat.net/card?name=Hard-sellin'%20Goblin](https://edisonformat.net/card?name=Hard-sellin'%20Goblin)
 
 ### Edison-Accurate PSCT
 

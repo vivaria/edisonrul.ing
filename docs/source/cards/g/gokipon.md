@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gokipon
+Source: [https://edisonformat.net/card?name=Gokipon](https://edisonformat.net/card?name=Gokipon)
 
 ### Edison-Accurate PSCT
 

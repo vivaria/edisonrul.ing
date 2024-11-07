@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Damage%20Condenser
+Source: [https://edisonformat.net/card?name=Damage%20Condenser](https://edisonformat.net/card?name=Damage%20Condenser)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Mimic%20LV1
+Source: [https://edisonformat.net/card?name=Dark%20Mimic%20LV1](https://edisonformat.net/card?name=Dark%20Mimic%20LV1)
 
 ### Edison-Accurate PSCT
 

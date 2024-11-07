@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ocean's%20Keeper
+Source: [https://edisonformat.net/card?name=Ocean's%20Keeper](https://edisonformat.net/card?name=Ocean's%20Keeper)
 
 ### Edison-Accurate PSCT
 

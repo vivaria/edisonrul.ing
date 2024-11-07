@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Bio-Mage
+Source: [https://edisonformat.net/card?name=Bio-Mage](https://edisonformat.net/card?name=Bio-Mage)
 
 ### Edison-Accurate PSCT
 

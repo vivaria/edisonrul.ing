@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Feather%20Wind
+Source: [https://edisonformat.net/card?name=Feather%20Wind](https://edisonformat.net/card?name=Feather%20Wind)
 
 ### Edison-Accurate PSCT
 

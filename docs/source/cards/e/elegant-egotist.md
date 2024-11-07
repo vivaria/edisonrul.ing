@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Elegant%20Egotist
+Source: [https://edisonformat.net/card?name=Elegant%20Egotist](https://edisonformat.net/card?name=Elegant%20Egotist)
 
 ### Edison-Accurate PSCT
 

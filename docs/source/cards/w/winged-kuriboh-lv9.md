@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Winged%20Kuriboh%20LV9
+Source: [https://edisonformat.net/card?name=Winged%20Kuriboh%20LV9](https://edisonformat.net/card?name=Winged%20Kuriboh%20LV9)
 
 ### Edison-Accurate PSCT
 

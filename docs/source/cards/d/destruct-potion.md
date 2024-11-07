@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Destruct%20Potion
+Source: [https://edisonformat.net/card?name=Destruct%20Potion](https://edisonformat.net/card?name=Destruct%20Potion)
 
 ### Edison-Accurate PSCT
 

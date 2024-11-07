@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Servant%20of%20Catabolism
+Source: [https://edisonformat.net/card?name=Servant%20of%20Catabolism](https://edisonformat.net/card?name=Servant%20of%20Catabolism)
 
 ### Edison-Accurate PSCT
 

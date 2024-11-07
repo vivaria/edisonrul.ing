@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fuhma%20Shuriken
+Source: [https://edisonformat.net/card?name=Fuhma%20Shuriken](https://edisonformat.net/card?name=Fuhma%20Shuriken)
 
 ### Edison-Accurate PSCT
 

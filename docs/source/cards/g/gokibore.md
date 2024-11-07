@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gokibore
+Source: [https://edisonformat.net/card?name=Gokibore](https://edisonformat.net/card?name=Gokibore)
 
 ### Edison-Accurate PSCT
 

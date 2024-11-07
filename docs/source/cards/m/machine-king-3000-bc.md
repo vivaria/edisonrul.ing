@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Machine%20King%20-%203000%20B.C.
+Source: [https://edisonformat.net/card?name=Machine%20King%20-%203000%20B.C.](https://edisonformat.net/card?name=Machine%20King%20-%203000%20B.C.)
 
 ### Edison-Accurate PSCT
 

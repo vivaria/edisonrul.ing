@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=V-Tiger%20Jet
+Source: [https://edisonformat.net/card?name=V-Tiger%20Jet](https://edisonformat.net/card?name=V-Tiger%20Jet)
 
 ### Edison-Accurate PSCT
 

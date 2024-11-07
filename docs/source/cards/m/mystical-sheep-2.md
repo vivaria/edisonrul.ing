@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mystical%20Sheep
+Source: [https://edisonformat.net/card?name=Mystical%20Sheep](https://edisonformat.net/card?name=Mystical%20Sheep)
 
 ### Edison-Accurate PSCT
 

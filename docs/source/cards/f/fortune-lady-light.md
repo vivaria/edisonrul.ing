@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -20,7 +20,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fortune%20Lady%20Light
+Source: [https://edisonformat.net/card?name=Fortune%20Lady%20Light](https://edisonformat.net/card?name=Fortune%20Lady%20Light)
 
 ### Edison-Accurate PSCT
 

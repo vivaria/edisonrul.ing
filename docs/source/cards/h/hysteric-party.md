@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Hysteric%20Party
+Source: [https://edisonformat.net/card?name=Hysteric%20Party](https://edisonformat.net/card?name=Hysteric%20Party)
 
 ### Edison-Accurate PSCT
 

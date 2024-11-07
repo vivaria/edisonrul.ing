@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Parasitic%20Ticky
+Source: [https://edisonformat.net/card?name=Parasitic%20Ticky](https://edisonformat.net/card?name=Parasitic%20Ticky)
 
 ### Edison-Accurate PSCT
 

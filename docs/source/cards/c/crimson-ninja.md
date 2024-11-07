@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Crimson%20Ninja
+Source: [https://edisonformat.net/card?name=Crimson%20Ninja](https://edisonformat.net/card?name=Crimson%20Ninja)
 
 ### Edison-Accurate PSCT
 

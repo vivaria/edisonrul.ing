@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dweller%20in%20the%20Depths
+Source: [https://edisonformat.net/card?name=Dweller%20in%20the%20Depths](https://edisonformat.net/card?name=Dweller%20in%20the%20Depths)
 
 ### Edison-Accurate PSCT
 

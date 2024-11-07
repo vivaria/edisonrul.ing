@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Malefic%20Blue-Eyes%20White%20Dragon
+Source: [https://edisonformat.net/card?name=Malefic%20Blue-Eyes%20White%20Dragon](https://edisonformat.net/card?name=Malefic%20Blue-Eyes%20White%20Dragon)
 
 ### Edison-Accurate PSCT
 

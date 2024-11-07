@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=X-Saber%20Galahad
+Source: [https://edisonformat.net/card?name=X-Saber%20Galahad](https://edisonformat.net/card?name=X-Saber%20Galahad)
 
 ### Edison-Accurate PSCT
 

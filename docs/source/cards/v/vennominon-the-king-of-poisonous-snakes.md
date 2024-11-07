@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -16,7 +16,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Vennominon%20the%20King%20of%20Poisonous%20Snakes
+Source: [https://edisonformat.net/card?name=Vennominon%20the%20King%20of%20Poisonous%20Snakes](https://edisonformat.net/card?name=Vennominon%20the%20King%20of%20Poisonous%20Snakes)
 
 ### Edison-Accurate PSCT
 

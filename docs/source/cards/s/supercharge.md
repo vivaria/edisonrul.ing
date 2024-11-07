@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Supercharge
+Source: [https://edisonformat.net/card?name=Supercharge](https://edisonformat.net/card?name=Supercharge)
 
 ### Edison-Accurate PSCT
 

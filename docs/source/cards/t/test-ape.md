@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Test%20Ape
+Source: [https://edisonformat.net/card?name=Test%20Ape](https://edisonformat.net/card?name=Test%20Ape)
 
 ### Edison-Accurate PSCT
 

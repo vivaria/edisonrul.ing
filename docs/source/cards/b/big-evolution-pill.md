@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Big%20Evolution%20Pill
+Source: [https://edisonformat.net/card?name=Big%20Evolution%20Pill](https://edisonformat.net/card?name=Big%20Evolution%20Pill)
 
 ### Edison-Accurate PSCT
 

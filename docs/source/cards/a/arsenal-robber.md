@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Arsenal%20Robber
+Source: [https://edisonformat.net/card?name=Arsenal%20Robber](https://edisonformat.net/card?name=Arsenal%20Robber)
 
 ### Edison-Accurate PSCT
 

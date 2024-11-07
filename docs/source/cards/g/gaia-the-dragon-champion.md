@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gaia%20the%20Dragon%20Champion
+Source: [https://edisonformat.net/card?name=Gaia%20the%20Dragon%20Champion](https://edisonformat.net/card?name=Gaia%20the%20Dragon%20Champion)
 
 ### Edison-Accurate PSCT
 

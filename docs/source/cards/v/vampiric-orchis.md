@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Vampiric%20Orchis
+Source: [https://edisonformat.net/card?name=Vampiric%20Orchis](https://edisonformat.net/card?name=Vampiric%20Orchis)
 
 ### Edison-Accurate PSCT
 

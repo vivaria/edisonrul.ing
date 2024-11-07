@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Giant%20Orc
+Source: [https://edisonformat.net/card?name=Giant%20Orc](https://edisonformat.net/card?name=Giant%20Orc)
 
 ### Edison-Accurate PSCT
 

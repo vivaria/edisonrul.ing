@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Rinyan,%20Lightsworn%20Rogue
+Source: [https://edisonformat.net/card?name=Rinyan,%20Lightsworn%20Rogue](https://edisonformat.net/card?name=Rinyan,%20Lightsworn%20Rogue)
 
 ### Edison-Accurate PSCT
 

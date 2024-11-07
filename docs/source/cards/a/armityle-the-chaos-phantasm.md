@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Armityle%20the%20Chaos%20Phantasm
+Source: [https://edisonformat.net/card?name=Armityle%20the%20Chaos%20Phantasm](https://edisonformat.net/card?name=Armityle%20the%20Chaos%20Phantasm)
 
 ### Edison-Accurate PSCT
 

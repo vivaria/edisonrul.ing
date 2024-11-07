@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Warrior%20Elimination
+Source: [https://edisonformat.net/card?name=Warrior%20Elimination](https://edisonformat.net/card?name=Warrior%20Elimination)
 
 ### Edison-Accurate PSCT
 

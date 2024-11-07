@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sonic%20Chick
+Source: [https://edisonformat.net/card?name=Sonic%20Chick](https://edisonformat.net/card?name=Sonic%20Chick)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Batteryman%20D
+Source: [https://edisonformat.net/card?name=Batteryman%20D](https://edisonformat.net/card?name=Batteryman%20D)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ansatsu
+Source: [https://edisonformat.net/card?name=Ansatsu](https://edisonformat.net/card?name=Ansatsu)
 
 ### Edison-Accurate PSCT
 

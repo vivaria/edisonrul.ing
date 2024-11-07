@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Darklord%20Nurse%20Reficule
+Source: [https://edisonformat.net/card?name=Darklord%20Nurse%20Reficule](https://edisonformat.net/card?name=Darklord%20Nurse%20Reficule)
 
 ### Edison-Accurate PSCT
 

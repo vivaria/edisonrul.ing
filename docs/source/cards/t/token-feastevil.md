@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Token%20Feastevil
+Source: [https://edisonformat.net/card?name=Token%20Feastevil](https://edisonformat.net/card?name=Token%20Feastevil)
 
 ### Edison-Accurate PSCT
 

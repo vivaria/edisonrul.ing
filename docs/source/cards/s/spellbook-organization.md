@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spellbook%20Organization
+Source: [https://edisonformat.net/card?name=Spellbook%20Organization](https://edisonformat.net/card?name=Spellbook%20Organization)
 
 ### Edison-Accurate PSCT
 

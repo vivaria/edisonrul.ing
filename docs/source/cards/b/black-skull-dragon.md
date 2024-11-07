@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=B.%20Skull%20Dragon%20(Archfiend)
+Source: [https://edisonformat.net/card?name=B.%20Skull%20Dragon%20(Archfiend)](https://edisonformat.net/card?name=B.%20Skull%20Dragon%20(Archfiend))
 
 ### Edison-Accurate PSCT
 

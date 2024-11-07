@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Meteo%20the%20Matchless
+Source: [https://edisonformat.net/card?name=Meteo%20the%20Matchless](https://edisonformat.net/card?name=Meteo%20the%20Matchless)
 
 ### Edison-Accurate PSCT
 

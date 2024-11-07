@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Detonate
+Source: [https://edisonformat.net/card?name=Detonate](https://edisonformat.net/card?name=Detonate)
 
 ### Edison-Accurate PSCT
 

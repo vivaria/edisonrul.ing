@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Fog%20Control
+Source: [https://edisonformat.net/card?name=Fog%20Control](https://edisonformat.net/card?name=Fog%20Control)
 
 ### Edison-Accurate PSCT
 

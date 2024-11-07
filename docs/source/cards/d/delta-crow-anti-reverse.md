@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -16,7 +16,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Delta%20Crow%20-%20Anti%20Reverse
+Source: [https://edisonformat.net/card?name=Delta%20Crow%20-%20Anti%20Reverse](https://edisonformat.net/card?name=Delta%20Crow%20-%20Anti%20Reverse)
 
 ### Edison-Accurate PSCT
 

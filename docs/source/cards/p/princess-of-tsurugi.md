@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Princess%20of%20Tsurugi
+Source: [https://edisonformat.net/card?name=Princess%20of%20Tsurugi](https://edisonformat.net/card?name=Princess%20of%20Tsurugi)
 
 ### Edison-Accurate PSCT
 

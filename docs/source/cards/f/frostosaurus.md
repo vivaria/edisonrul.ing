@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Frostosaurus
+Source: [https://edisonformat.net/card?name=Frostosaurus](https://edisonformat.net/card?name=Frostosaurus)
 
 ### Edison-Accurate PSCT
 

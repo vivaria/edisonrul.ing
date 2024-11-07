@@ -22,7 +22,7 @@ _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This c
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Elemental%20HERO%20Absolute%20Zero
+Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Absolute%20Zero](https://edisonformat.net/card?name=Elemental%20HERO%20Absolute%20Zero)
 
 ### Edison-Accurate PSCT
 

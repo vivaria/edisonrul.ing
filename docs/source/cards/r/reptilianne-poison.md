@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Reptilianne%20Poison
+Source: [https://edisonformat.net/card?name=Reptilianne%20Poison](https://edisonformat.net/card?name=Reptilianne%20Poison)
 
 ### Edison-Accurate PSCT
 

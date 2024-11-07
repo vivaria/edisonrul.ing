@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Metabo%20Globster
+Source: [https://edisonformat.net/card?name=Metabo%20Globster](https://edisonformat.net/card?name=Metabo%20Globster)
 
 ### Edison-Accurate PSCT
 

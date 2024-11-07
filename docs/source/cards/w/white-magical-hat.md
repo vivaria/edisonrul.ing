@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=White%20Magical%20Hat
+Source: [https://edisonformat.net/card?name=White%20Magical%20Hat](https://edisonformat.net/card?name=White%20Magical%20Hat)
 
 ### Edison-Accurate PSCT
 

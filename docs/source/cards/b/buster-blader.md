@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Buster%20Blader
+Source: [https://edisonformat.net/card?name=Buster%20Blader](https://edisonformat.net/card?name=Buster%20Blader)
 
 ### Edison-Accurate PSCT
 

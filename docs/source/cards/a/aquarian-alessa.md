@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Aquarian%20Alessa
+Source: [https://edisonformat.net/card?name=Aquarian%20Alessa](https://edisonformat.net/card?name=Aquarian%20Alessa)
 
 ### Edison-Accurate PSCT
 

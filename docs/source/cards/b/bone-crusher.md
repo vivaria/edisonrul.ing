@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Bone%20Crusher
+Source: [https://edisonformat.net/card?name=Bone%20Crusher](https://edisonformat.net/card?name=Bone%20Crusher)
 
 ### Edison-Accurate PSCT
 

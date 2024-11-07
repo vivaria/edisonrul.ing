@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Oscillo%20Hero
+Source: [https://edisonformat.net/card?name=Oscillo%20Hero](https://edisonformat.net/card?name=Oscillo%20Hero)
 
 ### Edison-Accurate PSCT
 

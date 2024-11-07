@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=D.D.%20Trainer
+Source: [https://edisonformat.net/card?name=D.D.%20Trainer](https://edisonformat.net/card?name=D.D.%20Trainer)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Giant%20Flea
+Source: [https://edisonformat.net/card?name=Giant%20Flea](https://edisonformat.net/card?name=Giant%20Flea)
 
 ### Edison-Accurate PSCT
 

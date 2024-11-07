@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Soul%20Taker
+Source: [https://edisonformat.net/card?name=Soul%20Taker](https://edisonformat.net/card?name=Soul%20Taker)
 
 ### Edison-Accurate PSCT
 

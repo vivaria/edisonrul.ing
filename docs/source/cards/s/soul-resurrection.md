@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Soul%20Resurrection
+Source: [https://edisonformat.net/card?name=Soul%20Resurrection](https://edisonformat.net/card?name=Soul%20Resurrection)
 
 ### Edison-Accurate PSCT
 

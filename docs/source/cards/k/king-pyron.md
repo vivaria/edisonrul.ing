@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=King%20Pyron
+Source: [https://edisonformat.net/card?name=King%20Pyron](https://edisonformat.net/card?name=King%20Pyron)
 
 ### Edison-Accurate PSCT
 

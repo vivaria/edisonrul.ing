@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Evil%20HERO%20Infernal%20Sniper
+Source: [https://edisonformat.net/card?name=Evil%20HERO%20Infernal%20Sniper](https://edisonformat.net/card?name=Evil%20HERO%20Infernal%20Sniper)
 
 ### Edison-Accurate PSCT
 

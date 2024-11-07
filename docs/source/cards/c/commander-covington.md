@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Commander%20Covington
+Source: [https://edisonformat.net/card?name=Commander%20Covington](https://edisonformat.net/card?name=Commander%20Covington)
 
 ### Edison-Accurate PSCT
 

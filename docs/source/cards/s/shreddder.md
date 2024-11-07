@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Shreddder
+Source: [https://edisonformat.net/card?name=Shreddder](https://edisonformat.net/card?name=Shreddder)
 
 ### Edison-Accurate PSCT
 

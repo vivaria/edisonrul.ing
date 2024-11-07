@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cyber%20Prima
+Source: [https://edisonformat.net/card?name=Cyber%20Prima](https://edisonformat.net/card?name=Cyber%20Prima)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gaia%20The%20Fierce%20Knight
+Source: [https://edisonformat.net/card?name=Gaia%20The%20Fierce%20Knight](https://edisonformat.net/card?name=Gaia%20The%20Fierce%20Knight)
 
 ### Edison-Accurate PSCT
 

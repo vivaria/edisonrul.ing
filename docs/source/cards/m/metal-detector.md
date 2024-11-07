@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Metal%20Detector
+Source: [https://edisonformat.net/card?name=Metal%20Detector](https://edisonformat.net/card?name=Metal%20Detector)
 
 ### Edison-Accurate PSCT
 

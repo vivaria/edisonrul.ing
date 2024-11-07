@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Koa'ki%20Meiru%20Boulder
+Source: [https://edisonformat.net/card?name=Koa'ki%20Meiru%20Boulder](https://edisonformat.net/card?name=Koa'ki%20Meiru%20Boulder)
 
 ### Edison-Accurate PSCT
 

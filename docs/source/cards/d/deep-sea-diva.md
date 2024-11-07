@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Deep%20Sea%20Diva
+Source: [https://edisonformat.net/card?name=Deep%20Sea%20Diva](https://edisonformat.net/card?name=Deep%20Sea%20Diva)
 
 ### Edison-Accurate PSCT
 

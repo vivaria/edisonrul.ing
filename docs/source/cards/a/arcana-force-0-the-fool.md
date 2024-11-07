@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Arcana%20Force%200%20-%20The%20Fool
+Source: [https://edisonformat.net/card?name=Arcana%20Force%200%20-%20The%20Fool](https://edisonformat.net/card?name=Arcana%20Force%200%20-%20The%20Fool)
 
 ### Edison-Accurate PSCT
 

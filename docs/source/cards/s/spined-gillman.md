@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spined%20Gillman
+Source: [https://edisonformat.net/card?name=Spined%20Gillman](https://edisonformat.net/card?name=Spined%20Gillman)
 
 ### Edison-Accurate PSCT
 

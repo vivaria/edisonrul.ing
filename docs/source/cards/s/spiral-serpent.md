@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spiral%20Serpent
+Source: [https://edisonformat.net/card?name=Spiral%20Serpent](https://edisonformat.net/card?name=Spiral%20Serpent)
 
 ### Edison-Accurate PSCT
 

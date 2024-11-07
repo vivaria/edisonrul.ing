@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Pumpking%20the%20King%20of%20Ghosts
+Source: [https://edisonformat.net/card?name=Pumpking%20the%20King%20of%20Ghosts](https://edisonformat.net/card?name=Pumpking%20the%20King%20of%20Ghosts)
 
 ### Edison-Accurate PSCT
 

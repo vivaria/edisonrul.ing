@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Violent%20Rain
+Source: [https://edisonformat.net/card?name=Violent%20Rain](https://edisonformat.net/card?name=Violent%20Rain)
 
 ### Edison-Accurate PSCT
 

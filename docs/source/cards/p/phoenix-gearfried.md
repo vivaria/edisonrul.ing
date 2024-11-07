@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Phoenix%20Gearfried
+Source: [https://edisonformat.net/card?name=Phoenix%20Gearfried](https://edisonformat.net/card?name=Phoenix%20Gearfried)
 
 ### Edison-Accurate PSCT
 

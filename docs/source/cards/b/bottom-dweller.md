@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Bottom%20Dweller
+Source: [https://edisonformat.net/card?name=Bottom%20Dweller](https://edisonformat.net/card?name=Bottom%20Dweller)
 
 ### Edison-Accurate PSCT
 

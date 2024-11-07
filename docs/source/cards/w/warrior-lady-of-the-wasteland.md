@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Warrior%20Lady%20of%20the%20Wasteland
+Source: [https://edisonformat.net/card?name=Warrior%20Lady%20of%20the%20Wasteland](https://edisonformat.net/card?name=Warrior%20Lady%20of%20the%20Wasteland)
 
 ### Edison-Accurate PSCT
 

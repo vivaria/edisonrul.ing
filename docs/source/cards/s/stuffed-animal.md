@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Stuffed%20Animal
+Source: [https://edisonformat.net/card?name=Stuffed%20Animal](https://edisonformat.net/card?name=Stuffed%20Animal)
 
 ### Edison-Accurate PSCT
 

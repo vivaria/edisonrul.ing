@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Saber%20Beetle
+Source: [https://edisonformat.net/card?name=Saber%20Beetle](https://edisonformat.net/card?name=Saber%20Beetle)
 
 ### Edison-Accurate PSCT
 

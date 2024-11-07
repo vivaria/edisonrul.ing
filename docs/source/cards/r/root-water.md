@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Root%20Water
+Source: [https://edisonformat.net/card?name=Root%20Water](https://edisonformat.net/card?name=Root%20Water)
 
 ### Edison-Accurate PSCT
 

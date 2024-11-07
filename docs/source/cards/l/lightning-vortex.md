@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Lightning%20Vortex
+Source: [https://edisonformat.net/card?name=Lightning%20Vortex](https://edisonformat.net/card?name=Lightning%20Vortex)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Goblin%20Black%20Ops
+Source: [https://edisonformat.net/card?name=Goblin%20Black%20Ops](https://edisonformat.net/card?name=Goblin%20Black%20Ops)
 
 ### Edison-Accurate PSCT
 

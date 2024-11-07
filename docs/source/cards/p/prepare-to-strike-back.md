@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -17,7 +17,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Prepare%20to%20Strike%20Back
+Source: [https://edisonformat.net/card?name=Prepare%20to%20Strike%20Back](https://edisonformat.net/card?name=Prepare%20to%20Strike%20Back)
 
 ### Edison-Accurate PSCT
 

@@ -13,7 +13,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Miracle%20Fusion
+Source: [https://edisonformat.net/card?name=Miracle%20Fusion](https://edisonformat.net/card?name=Miracle%20Fusion)
 
 ### Edison-Accurate PSCT
 

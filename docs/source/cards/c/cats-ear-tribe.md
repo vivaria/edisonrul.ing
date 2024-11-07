@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cat's%20Ear%20Tribe
+Source: [https://edisonformat.net/card?name=Cat's%20Ear%20Tribe](https://edisonformat.net/card?name=Cat's%20Ear%20Tribe)
 
 ### Edison-Accurate PSCT
 

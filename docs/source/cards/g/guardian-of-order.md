@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Guardian%20of%20Order
+Source: [https://edisonformat.net/card?name=Guardian%20of%20Order](https://edisonformat.net/card?name=Guardian%20of%20Order)
 
 ### Edison-Accurate PSCT
 

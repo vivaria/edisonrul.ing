@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -16,7 +16,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Jar%20Robber
+Source: [https://edisonformat.net/card?name=Jar%20Robber](https://edisonformat.net/card?name=Jar%20Robber)
 
 ### Edison-Accurate PSCT
 

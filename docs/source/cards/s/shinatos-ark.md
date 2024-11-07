@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Shinato's%20Ark
+Source: [https://edisonformat.net/card?name=Shinato's%20Ark](https://edisonformat.net/card?name=Shinato's%20Ark)
 
 ### Edison-Accurate PSCT
 

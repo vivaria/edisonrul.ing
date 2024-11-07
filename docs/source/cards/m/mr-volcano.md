@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mr.%20Volcano
+Source: [https://edisonformat.net/card?name=Mr.%20Volcano](https://edisonformat.net/card?name=Mr.%20Volcano)
 
 ### Edison-Accurate PSCT
 

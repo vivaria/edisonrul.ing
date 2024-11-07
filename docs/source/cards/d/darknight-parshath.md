@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Darknight%20Parshath
+Source: [https://edisonformat.net/card?name=Darknight%20Parshath](https://edisonformat.net/card?name=Darknight%20Parshath)
 
 ### Edison-Accurate PSCT
 

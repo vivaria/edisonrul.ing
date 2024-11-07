@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Burning%20Skull%20Head
+Source: [https://edisonformat.net/card?name=Burning%20Skull%20Head](https://edisonformat.net/card?name=Burning%20Skull%20Head)
 
 ### Edison-Accurate PSCT
 

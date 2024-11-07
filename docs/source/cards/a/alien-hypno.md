@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -23,7 +23,7 @@ __● ① During your Main Phase, you can select 1 monster your opponent control
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Alien%20Hypno
+Source: [https://edisonformat.net/card?name=Alien%20Hypno](https://edisonformat.net/card?name=Alien%20Hypno)
 
 ### Edison-Accurate PSCT
 

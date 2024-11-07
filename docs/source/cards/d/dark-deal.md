@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Deal
+Source: [https://edisonformat.net/card?name=Dark%20Deal](https://edisonformat.net/card?name=Dark%20Deal)
 
 ### Edison-Accurate PSCT
 

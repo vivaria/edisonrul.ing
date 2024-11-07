@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Super-Ancient%20Dinobeast
+Source: [https://edisonformat.net/card?name=Super-Ancient%20Dinobeast](https://edisonformat.net/card?name=Super-Ancient%20Dinobeast)
 
 ### Edison-Accurate PSCT
 

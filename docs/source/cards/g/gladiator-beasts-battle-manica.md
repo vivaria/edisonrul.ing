@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gladiator%20Beast's%20Battle%20Manica
+Source: [https://edisonformat.net/card?name=Gladiator%20Beast's%20Battle%20Manica](https://edisonformat.net/card?name=Gladiator%20Beast's%20Battle%20Manica)
 
 ### Edison-Accurate PSCT
 

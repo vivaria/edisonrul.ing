@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Maximum%20Six
+Source: [https://edisonformat.net/card?name=Maximum%20Six](https://edisonformat.net/card?name=Maximum%20Six)
 
 ### Edison-Accurate PSCT
 

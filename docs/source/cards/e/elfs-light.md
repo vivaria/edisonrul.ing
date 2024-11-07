@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Elf's%20Light
+Source: [https://edisonformat.net/card?name=Elf's%20Light](https://edisonformat.net/card?name=Elf's%20Light)
 
 ### Edison-Accurate PSCT
 

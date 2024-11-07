@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Necrolancer%20the%20Time-lord
+Source: [https://edisonformat.net/card?name=Necrolancer%20the%20Time-lord](https://edisonformat.net/card?name=Necrolancer%20the%20Time-lord)
 
 ### Edison-Accurate PSCT
 

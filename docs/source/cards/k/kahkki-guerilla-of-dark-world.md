@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -14,7 +14,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Kahkki,%20Guerilla%20of%20Dark%20World
+Source: [https://edisonformat.net/card?name=Kahkki,%20Guerilla%20of%20Dark%20World](https://edisonformat.net/card?name=Kahkki,%20Guerilla%20of%20Dark%20World)
 
 ### Edison-Accurate PSCT
 

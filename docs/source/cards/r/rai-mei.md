@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Rai-Mei
+Source: [https://edisonformat.net/card?name=Rai-Mei](https://edisonformat.net/card?name=Rai-Mei)
 
 ### Edison-Accurate PSCT
 

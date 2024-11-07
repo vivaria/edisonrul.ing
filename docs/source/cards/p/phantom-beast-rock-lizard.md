@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Phantom%20Beast%20Rock-Lizard
+Source: [https://edisonformat.net/card?name=Phantom%20Beast%20Rock-Lizard](https://edisonformat.net/card?name=Phantom%20Beast%20Rock-Lizard)
 
 ### Edison-Accurate PSCT
 

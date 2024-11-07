@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Flying%20Kamakiri
+Source: [https://edisonformat.net/card?name=Flying%20Kamakiri](https://edisonformat.net/card?name=Flying%20Kamakiri)
 
 ### Edison-Accurate PSCT
 

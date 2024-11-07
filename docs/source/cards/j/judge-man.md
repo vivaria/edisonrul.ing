@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Judge%20Man
+Source: [https://edisonformat.net/card?name=Judge%20Man](https://edisonformat.net/card?name=Judge%20Man)
 
 ### Edison-Accurate PSCT
 

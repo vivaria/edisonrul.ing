@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Maiden%20of%20Macabre
+Source: [https://edisonformat.net/card?name=Maiden%20of%20Macabre](https://edisonformat.net/card?name=Maiden%20of%20Macabre)
 
 ### Edison-Accurate PSCT
 

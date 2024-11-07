@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Soul%20Rope
+Source: [https://edisonformat.net/card?name=Soul%20Rope](https://edisonformat.net/card?name=Soul%20Rope)
 
 ### Edison-Accurate PSCT
 

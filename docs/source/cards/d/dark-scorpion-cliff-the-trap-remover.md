@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Cliff%20the%20Trap%20Remover
+Source: [https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Cliff%20the%20Trap%20Remover](https://edisonformat.net/card?name=Dark%20Scorpion%20-%20Cliff%20the%20Trap%20Remover)
 
 ### Edison-Accurate PSCT
 

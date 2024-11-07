@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Zebra
+Source: [https://edisonformat.net/card?name=Dark%20Zebra](https://edisonformat.net/card?name=Dark%20Zebra)
 
 ### Edison-Accurate PSCT
 

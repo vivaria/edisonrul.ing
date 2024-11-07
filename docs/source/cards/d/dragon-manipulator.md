@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dragon%20Manipulator
+Source: [https://edisonformat.net/card?name=Dragon%20Manipulator](https://edisonformat.net/card?name=Dragon%20Manipulator)
 
 ### Edison-Accurate PSCT
 

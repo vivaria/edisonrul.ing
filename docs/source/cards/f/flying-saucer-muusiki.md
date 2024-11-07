@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Flying%20Saucer%20Muusik'i
+Source: [https://edisonformat.net/card?name=Flying%20Saucer%20Muusik'i](https://edisonformat.net/card?name=Flying%20Saucer%20Muusik'i)
 
 ### Edison-Accurate PSCT
 

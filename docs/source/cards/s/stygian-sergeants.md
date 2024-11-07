@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Stygian%20Sergeants
+Source: [https://edisonformat.net/card?name=Stygian%20Sergeants](https://edisonformat.net/card?name=Stygian%20Sergeants)
 
 ### Edison-Accurate PSCT
 

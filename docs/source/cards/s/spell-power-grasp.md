@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Spell%20Power%20Grasp
+Source: [https://edisonformat.net/card?name=Spell%20Power%20Grasp](https://edisonformat.net/card?name=Spell%20Power%20Grasp)
 
 ### Edison-Accurate PSCT
 

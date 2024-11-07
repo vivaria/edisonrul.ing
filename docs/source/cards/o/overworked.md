@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Overworked
+Source: [https://edisonformat.net/card?name=Overworked](https://edisonformat.net/card?name=Overworked)
 
 ### Edison-Accurate PSCT
 

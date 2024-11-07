@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Froggy%20Forcefield
+Source: [https://edisonformat.net/card?name=Froggy%20Forcefield](https://edisonformat.net/card?name=Froggy%20Forcefield)
 
 ### Edison-Accurate PSCT
 

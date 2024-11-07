@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -19,7 +19,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ordeal%20of%20a%20Traveler
+Source: [https://edisonformat.net/card?name=Ordeal%20of%20a%20Traveler](https://edisonformat.net/card?name=Ordeal%20of%20a%20Traveler)
 
 ### Edison-Accurate PSCT
 

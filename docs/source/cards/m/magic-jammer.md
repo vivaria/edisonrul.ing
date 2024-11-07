@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Magic%20Jammer
+Source: [https://edisonformat.net/card?name=Magic%20Jammer](https://edisonformat.net/card?name=Magic%20Jammer)
 
 ### Edison-Accurate PSCT
 

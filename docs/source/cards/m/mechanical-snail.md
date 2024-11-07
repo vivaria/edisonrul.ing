@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Mechanical%20Snail
+Source: [https://edisonformat.net/card?name=Mechanical%20Snail](https://edisonformat.net/card?name=Mechanical%20Snail)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=The%20Illusory%20Gentleman
+Source: [https://edisonformat.net/card?name=The%20Illusory%20Gentleman](https://edisonformat.net/card?name=The%20Illusory%20Gentleman)
 
 ### Edison-Accurate PSCT
 

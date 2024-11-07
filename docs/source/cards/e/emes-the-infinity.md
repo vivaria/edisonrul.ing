@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Emes%20the%20Infinity
+Source: [https://edisonformat.net/card?name=Emes%20the%20Infinity](https://edisonformat.net/card?name=Emes%20the%20Infinity)
 
 ### Edison-Accurate PSCT
 

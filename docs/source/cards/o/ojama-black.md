@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Ojama%20Black
+Source: [https://edisonformat.net/card?name=Ojama%20Black](https://edisonformat.net/card?name=Ojama%20Black)
 
 ### Edison-Accurate PSCT
 

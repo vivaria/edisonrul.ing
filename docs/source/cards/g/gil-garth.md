@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Gil%20Garth
+Source: [https://edisonformat.net/card?name=Gil%20Garth](https://edisonformat.net/card?name=Gil%20Garth)
 
 ### Edison-Accurate PSCT
 

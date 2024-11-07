@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Dark%20Titan%20of%20Terror
+Source: [https://edisonformat.net/card?name=Dark%20Titan%20of%20Terror](https://edisonformat.net/card?name=Dark%20Titan%20of%20Terror)
 
 ### Edison-Accurate PSCT
 

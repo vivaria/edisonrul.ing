@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Warrior%20of%20Zera
+Source: [https://edisonformat.net/card?name=Warrior%20of%20Zera](https://edisonformat.net/card?name=Warrior%20of%20Zera)
 
 ### Edison-Accurate PSCT
 

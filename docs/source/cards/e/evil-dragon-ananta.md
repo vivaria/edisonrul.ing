@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Evil%20Dragon%20Ananta
+Source: [https://edisonformat.net/card?name=Evil%20Dragon%20Ananta](https://edisonformat.net/card?name=Evil%20Dragon%20Ananta)
 
 ### Edison-Accurate PSCT
 

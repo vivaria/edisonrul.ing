@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Limiter%20Overload
+Source: [https://edisonformat.net/card?name=Limiter%20Overload](https://edisonformat.net/card?name=Limiter%20Overload)
 
 ### Edison-Accurate PSCT
 

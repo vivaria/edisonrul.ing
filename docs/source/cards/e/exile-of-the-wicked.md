@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Exile%20of%20the%20Wicked
+Source: [https://edisonformat.net/card?name=Exile%20of%20the%20Wicked](https://edisonformat.net/card?name=Exile%20of%20the%20Wicked)
 
 ### Edison-Accurate PSCT
 

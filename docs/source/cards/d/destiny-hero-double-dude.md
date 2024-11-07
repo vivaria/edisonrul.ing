@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -15,7 +15,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Destiny%20HERO%20-%20Double%20Dude
+Source: [https://edisonformat.net/card?name=Destiny%20HERO%20-%20Double%20Dude](https://edisonformat.net/card?name=Destiny%20HERO%20-%20Double%20Dude)
 
 ### Edison-Accurate PSCT
 

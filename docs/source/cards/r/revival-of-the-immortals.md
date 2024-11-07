@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Revival%20of%20the%20Immortals
+Source: [https://edisonformat.net/card?name=Revival%20of%20the%20Immortals](https://edisonformat.net/card?name=Revival%20of%20the%20Immortals)
 
 ### Edison-Accurate PSCT
 

@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Judgment%20of%20the%20Pharaoh
+Source: [https://edisonformat.net/card?name=Judgment%20of%20the%20Pharaoh](https://edisonformat.net/card?name=Judgment%20of%20the%20Pharaoh)
 
 ### Edison-Accurate PSCT
 

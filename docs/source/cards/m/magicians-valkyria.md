@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Magician's%20Valkyria
+Source: [https://edisonformat.net/card?name=Magician's%20Valkyria](https://edisonformat.net/card?name=Magician's%20Valkyria)
 
 ### Edison-Accurate PSCT
 

@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -19,7 +19,7 @@ Source: https://www.edisonformat.com/rulings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Arsenal%20Bug
+Source: [https://edisonformat.net/card?name=Arsenal%20Bug](https://edisonformat.net/card?name=Arsenal%20Bug)
 
 ### Edison-Accurate PSCT
 

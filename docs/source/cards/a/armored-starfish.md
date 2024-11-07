@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Armored%20Starfish
+Source: [https://edisonformat.net/card?name=Armored%20Starfish](https://edisonformat.net/card?name=Armored%20Starfish)
 
 ### Edison-Accurate PSCT
 

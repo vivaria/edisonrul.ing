@@ -12,7 +12,7 @@ No rulings found for this card.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Sengenjin
+Source: [https://edisonformat.net/card?name=Sengenjin](https://edisonformat.net/card?name=Sengenjin)
 
 ### Edison-Accurate PSCT
 

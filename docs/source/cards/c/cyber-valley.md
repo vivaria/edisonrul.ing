@@ -2,7 +2,7 @@
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Source: https://www.edisonformat.com/rulings
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
 ### Card Text
 
@@ -27,7 +27,7 @@ _③ You can remove from play this card and 1 card from your hand, and place 1 c
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: https://edisonformat.net/card?name=Cyber%20Valley
+Source: [https://edisonformat.net/card?name=Cyber%20Valley](https://edisonformat.net/card?name=Cyber%20Valley)
 
 ### Edison-Accurate PSCT
 
