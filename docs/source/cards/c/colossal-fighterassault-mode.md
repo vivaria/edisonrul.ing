@@ -1,3 +1,4 @@
+# Colossal Fighter/Assault Mode
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

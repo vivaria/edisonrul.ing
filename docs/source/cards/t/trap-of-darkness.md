@@ -1,3 +1,4 @@
+# Trap of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

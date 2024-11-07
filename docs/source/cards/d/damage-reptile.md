@@ -1,3 +1,4 @@
+# Damage = Reptile
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

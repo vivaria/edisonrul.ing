@@ -1,3 +1,4 @@
+# Stone Ogre Grotto
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

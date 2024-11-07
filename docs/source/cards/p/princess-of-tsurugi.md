@@ -1,3 +1,4 @@
+# Princess of Tsurugi
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

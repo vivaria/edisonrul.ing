@@ -1,3 +1,4 @@
+# Rinyan, Lightsworn Rogue
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

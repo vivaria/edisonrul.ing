@@ -1,3 +1,4 @@
+# Armityle the Chaos Phantasm
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

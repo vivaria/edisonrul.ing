@@ -1,3 +1,4 @@
+# Paladin of White Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

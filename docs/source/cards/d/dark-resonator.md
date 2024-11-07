@@ -1,3 +1,4 @@
+# Dark Resonator
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

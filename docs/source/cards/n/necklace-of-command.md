@@ -1,3 +1,4 @@
+# Necklace of Command
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

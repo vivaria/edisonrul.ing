@@ -1,3 +1,4 @@
+# Mystical Space Typhoon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

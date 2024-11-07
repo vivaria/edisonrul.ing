@@ -1,3 +1,4 @@
+# Sonic Chick
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

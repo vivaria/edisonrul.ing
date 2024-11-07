@@ -1,3 +1,4 @@
+# Kaiser Sea Horse
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

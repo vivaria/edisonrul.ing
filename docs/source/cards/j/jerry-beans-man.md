@@ -1,3 +1,4 @@
+# Jerry Beans Man
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

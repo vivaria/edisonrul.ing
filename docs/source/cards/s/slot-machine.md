@@ -1,3 +1,4 @@
+# Slot Machine
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

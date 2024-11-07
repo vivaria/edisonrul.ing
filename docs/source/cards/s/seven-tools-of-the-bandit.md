@@ -1,3 +1,4 @@
+# Seven Tools of the Bandit
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

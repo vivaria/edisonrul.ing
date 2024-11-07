@@ -1,3 +1,4 @@
+# Gladiator Beast's Battle Manica
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

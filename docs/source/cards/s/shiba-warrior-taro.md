@@ -1,3 +1,4 @@
+# Shiba-Warrior Taro
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

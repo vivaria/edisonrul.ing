@@ -1,3 +1,4 @@
+# Burning Skull Head
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

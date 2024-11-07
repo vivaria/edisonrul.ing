@@ -1,3 +1,4 @@
+# Blue-Eyes Ultimate Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

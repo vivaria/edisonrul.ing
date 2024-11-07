@@ -1,3 +1,4 @@
+# Light Laser
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

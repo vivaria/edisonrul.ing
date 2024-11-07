@@ -1,3 +1,4 @@
+# Gladiator Proving Ground
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

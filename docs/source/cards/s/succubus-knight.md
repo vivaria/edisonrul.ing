@@ -1,3 +1,4 @@
+# Succubus Knight
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

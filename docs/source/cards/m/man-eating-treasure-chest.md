@@ -1,3 +1,4 @@
+# Man-Eating Treasure Chest
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

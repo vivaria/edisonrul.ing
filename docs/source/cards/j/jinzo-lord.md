@@ -1,3 +1,4 @@
+# Jinzo - Lord
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Gilford the Lightning
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

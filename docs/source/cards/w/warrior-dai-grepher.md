@@ -1,3 +1,4 @@
+# Warrior Dai Grepher
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

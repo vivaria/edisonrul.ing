@@ -1,3 +1,4 @@
+# Alchemist of Black Spells
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

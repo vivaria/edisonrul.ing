@@ -1,3 +1,4 @@
+# Beast Fangs
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

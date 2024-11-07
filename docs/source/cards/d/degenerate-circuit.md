@@ -1,3 +1,4 @@
+# Degenerate Circuit
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

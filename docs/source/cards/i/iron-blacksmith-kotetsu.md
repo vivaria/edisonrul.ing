@@ -1,3 +1,4 @@
+# Iron Blacksmith Kotetsu
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

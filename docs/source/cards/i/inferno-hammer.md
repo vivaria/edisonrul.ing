@@ -1,3 +1,4 @@
+# Inferno Hammer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

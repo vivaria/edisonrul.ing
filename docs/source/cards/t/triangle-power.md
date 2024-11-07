@@ -1,3 +1,4 @@
+# Triangle Power
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

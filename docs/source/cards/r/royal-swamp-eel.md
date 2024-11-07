@@ -1,3 +1,4 @@
+# Royal Swamp Eel
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

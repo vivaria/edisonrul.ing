@@ -1,3 +1,4 @@
+# Goblin's Secret Remedy
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

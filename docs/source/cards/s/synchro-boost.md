@@ -1,3 +1,4 @@
+# Synchro Boost
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

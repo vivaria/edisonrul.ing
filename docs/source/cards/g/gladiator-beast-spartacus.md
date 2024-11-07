@@ -1,3 +1,4 @@
+# Gladiator Beast Spartacus
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

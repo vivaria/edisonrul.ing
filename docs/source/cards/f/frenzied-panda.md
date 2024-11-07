@@ -1,3 +1,4 @@
+# Frenzied Panda
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

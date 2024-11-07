@@ -1,3 +1,4 @@
+# Manju of the Ten Thousand Hands
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

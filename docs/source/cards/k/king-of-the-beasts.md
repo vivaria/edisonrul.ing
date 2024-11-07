@@ -1,3 +1,4 @@
+# King of the Beasts
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

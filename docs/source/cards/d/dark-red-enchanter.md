@@ -1,3 +1,4 @@
+# Dark Red Enchanter
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

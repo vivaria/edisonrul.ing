@@ -1,3 +1,4 @@
+# Illusionist Faceless Mage
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

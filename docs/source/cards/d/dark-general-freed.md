@@ -1,3 +1,4 @@
+# Dark General Freed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

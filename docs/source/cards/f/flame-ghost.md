@@ -1,3 +1,4 @@
+# Flame Ghost
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

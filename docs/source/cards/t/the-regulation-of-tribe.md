@@ -1,3 +1,4 @@
+# The Regulation of Tribe
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

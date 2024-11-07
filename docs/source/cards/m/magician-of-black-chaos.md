@@ -1,3 +1,4 @@
+# Magician of Black Chaos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

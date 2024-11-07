@@ -1,3 +1,4 @@
+# Arcana Force 0 - The Fool
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

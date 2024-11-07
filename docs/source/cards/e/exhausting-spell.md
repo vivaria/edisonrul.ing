@@ -1,3 +1,4 @@
+# Exhausting Spell
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

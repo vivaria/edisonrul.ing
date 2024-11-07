@@ -1,3 +1,4 @@
+# 7 Completed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

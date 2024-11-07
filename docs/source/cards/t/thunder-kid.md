@@ -1,3 +1,4 @@
+# Thunder Kid
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

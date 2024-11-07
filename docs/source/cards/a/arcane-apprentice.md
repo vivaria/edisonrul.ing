@@ -1,3 +1,4 @@
+# Arcane Apprentice
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

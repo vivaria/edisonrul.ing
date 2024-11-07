@@ -1,3 +1,4 @@
+# Helios Trice Megistus
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

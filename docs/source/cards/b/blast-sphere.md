@@ -1,3 +1,4 @@
+# Blast Sphere
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

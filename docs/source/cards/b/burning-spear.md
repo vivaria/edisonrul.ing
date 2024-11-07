@@ -1,3 +1,4 @@
+# Burning Spear
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

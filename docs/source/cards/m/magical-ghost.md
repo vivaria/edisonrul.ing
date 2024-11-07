@@ -1,3 +1,4 @@
+# Magical Ghost
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

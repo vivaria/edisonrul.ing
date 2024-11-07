@@ -1,3 +1,4 @@
+# Accumulated Fortune
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

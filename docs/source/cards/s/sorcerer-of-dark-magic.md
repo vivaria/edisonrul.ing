@@ -1,3 +1,4 @@
+# Sorcerer of Dark Magic
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

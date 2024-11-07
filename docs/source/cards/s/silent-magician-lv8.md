@@ -1,3 +1,4 @@
+# Silent Magician LV8
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

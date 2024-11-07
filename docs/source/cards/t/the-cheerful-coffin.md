@@ -1,3 +1,4 @@
+# The Cheerful Coffin
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

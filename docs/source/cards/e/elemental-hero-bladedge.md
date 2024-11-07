@@ -1,3 +1,4 @@
+# Elemental HERO Bladedge
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

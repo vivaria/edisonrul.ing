@@ -1,3 +1,4 @@
+# Hunting Instinct
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

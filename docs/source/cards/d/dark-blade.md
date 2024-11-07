@@ -1,3 +1,4 @@
+# Dark Blade
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

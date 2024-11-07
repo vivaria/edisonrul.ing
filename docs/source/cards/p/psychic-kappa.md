@@ -1,3 +1,4 @@
+# Psychic Kappa
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Gladiator Beast Torax
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

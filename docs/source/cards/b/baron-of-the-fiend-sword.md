@@ -1,3 +1,4 @@
+# Baron of the Fiend Sword
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

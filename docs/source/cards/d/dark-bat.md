@@ -1,3 +1,4 @@
+# Dark Bat
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

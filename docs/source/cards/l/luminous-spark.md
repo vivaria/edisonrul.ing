@@ -1,3 +1,4 @@
+# Luminous Spark
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

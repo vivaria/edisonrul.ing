@@ -1,3 +1,4 @@
+# Dark Scorpion - Gorg the Strong
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

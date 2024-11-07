@@ -1,3 +1,4 @@
+# Senju of the Thousand Hands
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# White Magical Hat
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

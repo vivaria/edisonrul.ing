@@ -1,3 +1,4 @@
+# Magna-Slash Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

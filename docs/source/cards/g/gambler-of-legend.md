@@ -1,3 +1,4 @@
+# Gambler of Legend
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

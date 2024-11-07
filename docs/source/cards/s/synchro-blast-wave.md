@@ -1,3 +1,4 @@
+# Synchro Blast Wave
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

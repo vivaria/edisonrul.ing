@@ -1,3 +1,4 @@
+# Minor Goblin Official
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

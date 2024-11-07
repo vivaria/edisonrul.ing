@@ -1,3 +1,4 @@
+# Ritual Cage
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

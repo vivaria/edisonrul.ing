@@ -1,3 +1,4 @@
+# Damage Polarizer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

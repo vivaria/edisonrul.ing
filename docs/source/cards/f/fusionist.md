@@ -1,3 +1,4 @@
+# Fusionist
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

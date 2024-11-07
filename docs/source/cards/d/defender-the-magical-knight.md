@@ -1,3 +1,4 @@
+# Defender, the Magical Knight
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

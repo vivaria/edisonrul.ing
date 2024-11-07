@@ -1,3 +1,4 @@
+# Silent Swordsman LV7
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

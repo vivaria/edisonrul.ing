@@ -1,3 +1,4 @@
+# Giga-Tech Wolf
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Spirit of Flames
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

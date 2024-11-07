@@ -1,3 +1,4 @@
+# Black Luster Ritual
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

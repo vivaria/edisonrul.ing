@@ -1,3 +1,4 @@
+# Black Illusion Ritual
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

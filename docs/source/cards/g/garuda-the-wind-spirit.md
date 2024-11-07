@@ -1,3 +1,4 @@
+# Garuda the Wind Spirit
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

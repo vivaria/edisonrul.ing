@@ -1,3 +1,4 @@
+# Super Conductor Tyranno
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

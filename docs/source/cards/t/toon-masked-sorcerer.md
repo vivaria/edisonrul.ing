@@ -1,3 +1,4 @@
+# Toon Masked Sorcerer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

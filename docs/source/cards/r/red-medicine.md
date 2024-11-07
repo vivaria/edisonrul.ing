@@ -1,3 +1,4 @@
+# Red Medicine
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

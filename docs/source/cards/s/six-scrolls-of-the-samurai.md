@@ -1,3 +1,4 @@
+# Six Scrolls of the Samurai
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

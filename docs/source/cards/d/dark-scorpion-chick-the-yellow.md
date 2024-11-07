@@ -1,3 +1,4 @@
+# Dark Scorpion - Chick the Yellow
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

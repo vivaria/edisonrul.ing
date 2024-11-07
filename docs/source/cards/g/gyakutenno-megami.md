@@ -1,3 +1,4 @@
+# Gyakutenno Megami
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

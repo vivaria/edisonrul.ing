@@ -1,3 +1,4 @@
+# Beast King Barbaros
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

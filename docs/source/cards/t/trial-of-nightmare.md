@@ -1,3 +1,4 @@
+# Trial of Nightmare
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

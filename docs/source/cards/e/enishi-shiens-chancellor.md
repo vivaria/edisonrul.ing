@@ -1,3 +1,4 @@
+# Enishi, Shien's Chancellor
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

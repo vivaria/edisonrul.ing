@@ -1,3 +1,4 @@
+# Fire Kraken
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

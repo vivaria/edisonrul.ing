@@ -1,3 +1,4 @@
+# Arcanite Magician/Assault Mode
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Guardian of the Throne Room
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

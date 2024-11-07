@@ -1,3 +1,4 @@
+# Manga Ryu-Ran
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Elemental HERO Inferno
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

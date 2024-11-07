@@ -1,3 +1,4 @@
+# Shine Palace
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# King Fog
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Dharc the Dark Charmer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

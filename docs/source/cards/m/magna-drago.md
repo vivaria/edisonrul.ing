@@ -1,3 +1,4 @@
+# Magna Drago
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

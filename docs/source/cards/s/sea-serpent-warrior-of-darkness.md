@@ -1,3 +1,4 @@
+# Sea Serpent Warrior of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

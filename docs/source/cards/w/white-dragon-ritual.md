@@ -1,3 +1,4 @@
+# White Dragon Ritual
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

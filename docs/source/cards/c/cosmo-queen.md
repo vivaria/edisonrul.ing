@@ -1,3 +1,4 @@
+# Cosmo Queen
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

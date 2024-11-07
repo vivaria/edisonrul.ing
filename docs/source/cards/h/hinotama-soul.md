@@ -1,3 +1,4 @@
+# Hinotama Soul
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

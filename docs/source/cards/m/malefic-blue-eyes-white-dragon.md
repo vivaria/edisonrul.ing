@@ -1,3 +1,4 @@
+# Malefic Blue-Eyes White Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

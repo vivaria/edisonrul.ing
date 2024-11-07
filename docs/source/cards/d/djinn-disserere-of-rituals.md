@@ -1,3 +1,4 @@
+# Djinn Disserere of Rituals
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

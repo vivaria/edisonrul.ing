@@ -1,3 +1,4 @@
+# Magical Reflect Slime
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

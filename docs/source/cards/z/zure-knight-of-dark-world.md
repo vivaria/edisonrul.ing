@@ -1,3 +1,4 @@
+# Zure, Knight of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

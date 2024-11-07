@@ -1,3 +1,4 @@
+# Tricky Spell 4
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

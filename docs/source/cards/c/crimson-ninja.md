@@ -1,3 +1,4 @@
+# Crimson Ninja
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

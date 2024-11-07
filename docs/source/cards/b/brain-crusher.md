@@ -1,3 +1,4 @@
+# Brain Crusher
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

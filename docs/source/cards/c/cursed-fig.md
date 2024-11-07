@@ -1,3 +1,4 @@
+# Cursed Fig
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

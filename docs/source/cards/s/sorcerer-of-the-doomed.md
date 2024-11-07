@@ -1,3 +1,4 @@
+# Sorcerer of the Doomed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

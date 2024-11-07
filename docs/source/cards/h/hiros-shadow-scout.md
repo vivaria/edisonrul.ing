@@ -1,3 +1,4 @@
+# Hiro's Shadow Scout
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

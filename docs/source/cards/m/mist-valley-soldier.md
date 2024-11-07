@@ -1,3 +1,4 @@
+# Mist Valley Soldier
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

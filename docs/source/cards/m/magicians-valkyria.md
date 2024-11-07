@@ -1,3 +1,4 @@
+# Magician's Valkyria
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

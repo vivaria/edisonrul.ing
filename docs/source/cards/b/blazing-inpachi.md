@@ -1,3 +1,4 @@
+# Blazing Inpachi
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

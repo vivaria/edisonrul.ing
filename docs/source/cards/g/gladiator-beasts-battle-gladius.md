@@ -1,3 +1,4 @@
+# Gladiator Beast's Battle Gladius
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

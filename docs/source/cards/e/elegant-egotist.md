@@ -1,3 +1,4 @@
+# Elegant Egotist
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

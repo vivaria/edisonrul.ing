@@ -1,3 +1,4 @@
+# Warrior Elimination
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

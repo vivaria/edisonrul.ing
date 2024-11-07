@@ -1,3 +1,4 @@
+# Samurai Sword Baron
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

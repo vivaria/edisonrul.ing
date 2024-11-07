@@ -1,3 +1,4 @@
+# Soul Resurrection
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

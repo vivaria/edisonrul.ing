@@ -1,3 +1,4 @@
+# Gilford the Legend
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

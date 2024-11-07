@@ -1,3 +1,4 @@
+# Ogre of the Black Shadow
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

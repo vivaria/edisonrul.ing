@@ -1,3 +1,4 @@
+# Cyber Summon Blaster
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

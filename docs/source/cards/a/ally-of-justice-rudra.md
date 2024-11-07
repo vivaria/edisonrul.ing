@@ -1,3 +1,4 @@
+# Ally of Justice Rudra
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Spell Power Grasp
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

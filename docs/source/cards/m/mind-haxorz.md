@@ -1,3 +1,4 @@
+# Mind Haxorz
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Javelin Beetle Pact
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

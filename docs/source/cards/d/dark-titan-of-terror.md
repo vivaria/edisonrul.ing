@@ -1,3 +1,4 @@
+# Dark Titan of Terror
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Psychic Jumper
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Mystic Horseman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Chu-Ske the Mouse Fighter
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

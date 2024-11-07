@@ -1,3 +1,4 @@
+# Neo the Magic Swordsman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

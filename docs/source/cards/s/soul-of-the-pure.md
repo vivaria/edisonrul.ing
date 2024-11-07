@@ -1,3 +1,4 @@
+# Soul of the Pure
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

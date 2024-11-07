@@ -1,3 +1,4 @@
+# Ally of Justice Garadholg
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Endymion, the Master Magician
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

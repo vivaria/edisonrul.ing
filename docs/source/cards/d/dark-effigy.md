@@ -1,3 +1,4 @@
+# Dark Effigy
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

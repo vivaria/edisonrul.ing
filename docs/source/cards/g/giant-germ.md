@@ -1,3 +1,4 @@
+# Giant Germ
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Solar Ray
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Infinity Dark
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

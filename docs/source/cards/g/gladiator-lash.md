@@ -1,3 +1,4 @@
+# Gladiator Lash
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

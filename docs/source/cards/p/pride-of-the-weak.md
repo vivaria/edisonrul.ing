@@ -1,3 +1,4 @@
+# Pride of the Weak
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

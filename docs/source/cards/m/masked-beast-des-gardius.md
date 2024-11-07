@@ -1,3 +1,4 @@
+# Masked Beast Des Gardius
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Giant Soldier of Stone
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

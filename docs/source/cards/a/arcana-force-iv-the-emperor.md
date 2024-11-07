@@ -1,3 +1,4 @@
+# Arcana Force IV - The Emperor
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

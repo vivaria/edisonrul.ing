@@ -1,3 +1,4 @@
+# Magic Formula
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

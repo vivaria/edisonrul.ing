@@ -1,3 +1,4 @@
+# Chain Burst
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

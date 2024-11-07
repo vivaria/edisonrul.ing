@@ -1,3 +1,4 @@
+# Gaia the Dragon Champion
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

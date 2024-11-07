@@ -1,3 +1,4 @@
+# Evil HERO Lightning Golem
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

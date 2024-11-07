@@ -1,3 +1,4 @@
+# Fushi No Tori
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

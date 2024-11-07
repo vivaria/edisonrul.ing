@@ -1,3 +1,4 @@
+# Radiant Jeral
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

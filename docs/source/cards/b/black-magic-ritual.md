@@ -1,3 +1,4 @@
+# Black Magic Ritual
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Legendary Sword
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

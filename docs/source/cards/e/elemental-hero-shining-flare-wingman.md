@@ -1,3 +1,4 @@
+# Elemental HERO Shining Flare Wingman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Giant Trunade
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

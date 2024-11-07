@@ -1,3 +1,4 @@
+# Fuhma Shuriken
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

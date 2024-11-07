@@ -1,3 +1,4 @@
+# Magical Labyrinth
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

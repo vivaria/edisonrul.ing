@@ -1,3 +1,4 @@
+# Maximum Six
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

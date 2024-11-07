@@ -1,3 +1,4 @@
+# Infernal Flame Emperor
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

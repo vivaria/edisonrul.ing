@@ -1,3 +1,4 @@
+# Hero Ring
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Magician's Circle
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

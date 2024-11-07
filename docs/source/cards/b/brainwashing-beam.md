@@ -1,3 +1,4 @@
+# Brainwashing Beam
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

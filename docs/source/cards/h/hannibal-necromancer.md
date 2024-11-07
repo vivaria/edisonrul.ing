@@ -1,3 +1,4 @@
+# Hannibal Necromancer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

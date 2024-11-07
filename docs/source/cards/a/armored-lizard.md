@@ -1,3 +1,4 @@
+# Armored Lizard
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

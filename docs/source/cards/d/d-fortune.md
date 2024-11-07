@@ -1,3 +1,4 @@
+# D - Fortune
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

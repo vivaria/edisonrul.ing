@@ -1,3 +1,4 @@
+# Mask of the Accursed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

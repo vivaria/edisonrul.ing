@@ -1,3 +1,4 @@
+# High Tide Gyojin
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

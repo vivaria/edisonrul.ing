@@ -1,3 +1,4 @@
+# Sonic Duck
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

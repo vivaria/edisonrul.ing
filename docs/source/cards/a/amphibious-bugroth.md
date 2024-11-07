@@ -1,3 +1,4 @@
+# Amphibious Bugroth
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

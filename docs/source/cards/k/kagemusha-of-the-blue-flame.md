@@ -1,3 +1,4 @@
+# Kagemusha of the Blue Flame
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Hysteric Party
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Magical Stone Excavation
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

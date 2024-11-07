@@ -1,3 +1,4 @@
+# Elemental HERO Heat
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

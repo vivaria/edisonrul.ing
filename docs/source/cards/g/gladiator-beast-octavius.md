@@ -1,3 +1,4 @@
+# Gladiator Beast Octavius
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

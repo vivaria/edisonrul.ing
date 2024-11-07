@@ -1,3 +1,4 @@
+# Psychic Sword
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

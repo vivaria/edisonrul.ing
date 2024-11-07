@@ -1,3 +1,4 @@
+# Dark Balter the Terrible
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

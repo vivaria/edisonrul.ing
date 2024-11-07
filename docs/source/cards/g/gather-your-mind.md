@@ -1,3 +1,4 @@
+# Gather Your Mind
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

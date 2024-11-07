@@ -1,3 +1,4 @@
+# Steel Ogre Grotto #2
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

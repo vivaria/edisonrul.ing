@@ -1,3 +1,4 @@
+# Gamma the Magnet Warrior
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

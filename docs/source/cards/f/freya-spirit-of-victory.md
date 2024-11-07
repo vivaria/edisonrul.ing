@@ -1,3 +1,4 @@
+# Freya, Spirit of Victory
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

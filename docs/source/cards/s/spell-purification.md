@@ -1,3 +1,4 @@
+# Spell Purification
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

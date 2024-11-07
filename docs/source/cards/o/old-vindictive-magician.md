@@ -1,3 +1,4 @@
+# Old Vindictive Magician
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

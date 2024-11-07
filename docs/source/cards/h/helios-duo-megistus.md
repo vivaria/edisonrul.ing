@@ -1,3 +1,4 @@
+# Helios Duo Megistus
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

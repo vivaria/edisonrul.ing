@@ -1,3 +1,4 @@
+# Bubonic Vermin
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Destiny HERO - Blade Master
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

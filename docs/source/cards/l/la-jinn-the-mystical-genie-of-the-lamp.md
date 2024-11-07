@@ -1,3 +1,4 @@
+# La Jinn the Mystical Genie of the Lamp
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

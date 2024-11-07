@@ -1,3 +1,4 @@
+# Phantom Beast Thunder-Pegasus
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Burden of the Mighty
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

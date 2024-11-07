@@ -1,3 +1,4 @@
+# King of Destruction - Xexex
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Change of Hero - Reflector Ray
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

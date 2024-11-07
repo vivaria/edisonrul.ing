@@ -1,3 +1,4 @@
+# Cannon Soldier
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

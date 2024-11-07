@@ -1,3 +1,4 @@
+# Two-Headed King Rex
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

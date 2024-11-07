@@ -1,3 +1,4 @@
+# Gravekeeper's Spear Soldier
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

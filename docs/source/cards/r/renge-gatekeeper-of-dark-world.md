@@ -1,3 +1,4 @@
+# Renge, Gatekeeper of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

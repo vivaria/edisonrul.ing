@@ -1,3 +1,4 @@
+# Flamvell Magician
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

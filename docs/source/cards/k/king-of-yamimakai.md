@@ -1,3 +1,4 @@
+# King of Yamimakai
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

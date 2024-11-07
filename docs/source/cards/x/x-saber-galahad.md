@@ -1,3 +1,4 @@
+# X-Saber Galahad
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

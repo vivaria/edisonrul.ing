@@ -1,3 +1,4 @@
+# Dark Magician Girl
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Alpha The Magnet Warrior
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Mystic Lamp
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

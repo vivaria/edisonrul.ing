@@ -1,3 +1,4 @@
+# Power of Kaishin
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

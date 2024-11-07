@@ -1,3 +1,4 @@
+# Masaki the Legendary Swordsman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Kwagar Hercules
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Shining Friendship
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

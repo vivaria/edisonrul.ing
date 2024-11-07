@@ -1,3 +1,4 @@
+# Paladin of the Cursed Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

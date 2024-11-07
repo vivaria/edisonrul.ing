@@ -1,3 +1,4 @@
+# Mystic Plasma Zone
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

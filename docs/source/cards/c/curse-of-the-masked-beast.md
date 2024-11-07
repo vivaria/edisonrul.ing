@@ -1,3 +1,4 @@
+# Curse of the Masked Beast
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Nitro Synchron
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

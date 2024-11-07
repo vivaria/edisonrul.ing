@@ -1,3 +1,4 @@
+# Hidden Spellbook
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

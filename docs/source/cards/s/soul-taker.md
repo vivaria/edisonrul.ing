@@ -1,3 +1,4 @@
+# Soul Taker
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

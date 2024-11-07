@@ -1,3 +1,4 @@
+# Magnetic Mosquito
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

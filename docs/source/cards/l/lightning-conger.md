@@ -1,3 +1,4 @@
+# Lightning Conger
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

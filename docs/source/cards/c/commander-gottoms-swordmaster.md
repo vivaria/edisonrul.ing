@@ -1,3 +1,4 @@
+# Commander Gottoms, Swordmaster
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

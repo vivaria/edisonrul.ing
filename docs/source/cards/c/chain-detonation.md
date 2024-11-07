@@ -1,3 +1,4 @@
+# Chain Detonation
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

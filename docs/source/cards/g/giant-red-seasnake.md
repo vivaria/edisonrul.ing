@@ -1,3 +1,4 @@
+# Giant Red Seasnake
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

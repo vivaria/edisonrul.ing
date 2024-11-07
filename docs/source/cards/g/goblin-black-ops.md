@@ -1,3 +1,4 @@
+# Goblin Black Ops
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

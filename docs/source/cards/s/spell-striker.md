@@ -1,3 +1,4 @@
+# Spell Striker
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Humanoid Slime
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

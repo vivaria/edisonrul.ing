@@ -1,3 +1,4 @@
+# Thousand-Eyes Idol
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

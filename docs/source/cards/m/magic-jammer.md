@@ -1,3 +1,4 @@
+# Magic Jammer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

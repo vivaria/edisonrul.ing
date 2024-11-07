@@ -1,3 +1,4 @@
+# Blue Medicine
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

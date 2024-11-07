@@ -1,3 +1,4 @@
+# Fuh-Rin-Ka-Zan
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

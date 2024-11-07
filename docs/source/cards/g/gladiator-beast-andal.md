@@ -1,3 +1,4 @@
+# Gladiator Beast Andal
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

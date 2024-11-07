@@ -1,3 +1,4 @@
+# Ritual Sealing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Frontier Wiseman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

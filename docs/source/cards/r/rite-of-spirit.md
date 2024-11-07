@@ -1,3 +1,4 @@
+# Rite of Spirit
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

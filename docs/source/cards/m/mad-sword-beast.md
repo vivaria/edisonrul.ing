@@ -1,3 +1,4 @@
+# Mad Sword Beast
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

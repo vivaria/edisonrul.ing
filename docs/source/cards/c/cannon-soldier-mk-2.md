@@ -1,3 +1,4 @@
+# Cannon Soldier MK-2
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

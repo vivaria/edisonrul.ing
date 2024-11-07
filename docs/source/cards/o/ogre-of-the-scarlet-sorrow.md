@@ -1,3 +1,4 @@
+# Ogre of the Scarlet Sorrow
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

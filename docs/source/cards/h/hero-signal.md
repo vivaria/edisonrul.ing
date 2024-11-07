@@ -1,3 +1,4 @@
+# Hero Signal
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

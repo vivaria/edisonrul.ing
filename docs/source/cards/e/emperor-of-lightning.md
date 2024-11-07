@@ -1,3 +1,4 @@
+# Emperor of Lightning
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

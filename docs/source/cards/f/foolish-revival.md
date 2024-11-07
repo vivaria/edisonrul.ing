@@ -1,3 +1,4 @@
+# Foolish Revival
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

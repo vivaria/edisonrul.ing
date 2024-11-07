@@ -1,3 +1,4 @@
+# Mind Wipe
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

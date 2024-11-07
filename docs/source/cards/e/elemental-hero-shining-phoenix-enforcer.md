@@ -1,3 +1,4 @@
+# Elemental HERO Shining Phoenix Enforcer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

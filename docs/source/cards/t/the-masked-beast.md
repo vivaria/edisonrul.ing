@@ -1,3 +1,4 @@
+# The Masked Beast
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

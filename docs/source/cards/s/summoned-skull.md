@@ -1,3 +1,4 @@
+# Summoned Skull
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

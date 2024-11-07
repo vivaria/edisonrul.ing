@@ -1,3 +1,4 @@
+# Banisher of the Radiance
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Cu Chulainn the Awakened
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

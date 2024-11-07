@@ -1,3 +1,4 @@
+# Twin-Headed Thunder Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

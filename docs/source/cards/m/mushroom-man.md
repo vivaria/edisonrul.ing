@@ -1,3 +1,4 @@
+# Mushroom Man
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

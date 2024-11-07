@@ -1,3 +1,4 @@
+# War-Lion Ritual
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

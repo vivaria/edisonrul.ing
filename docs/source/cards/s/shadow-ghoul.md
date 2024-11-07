@@ -1,3 +1,4 @@
+# Shadow Ghoul
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

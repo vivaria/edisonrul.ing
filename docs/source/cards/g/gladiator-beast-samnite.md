@@ -1,3 +1,4 @@
+# Gladiator Beast Samnite
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

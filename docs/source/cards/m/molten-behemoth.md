@@ -1,3 +1,4 @@
+# Molten Behemoth
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

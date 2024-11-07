@@ -1,3 +1,4 @@
+# Indomitable Gladiator Beast
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

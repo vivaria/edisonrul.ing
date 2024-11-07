@@ -1,3 +1,4 @@
+# Mystic Probe
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Silver Fang
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

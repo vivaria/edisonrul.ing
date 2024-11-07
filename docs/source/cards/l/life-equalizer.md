@@ -1,3 +1,4 @@
+# Life Equalizer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Wandering Mummy
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

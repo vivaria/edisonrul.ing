@@ -1,3 +1,4 @@
+# Elemental HERO Sparkman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

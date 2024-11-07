@@ -1,3 +1,4 @@
+# Earthbound Spirit
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

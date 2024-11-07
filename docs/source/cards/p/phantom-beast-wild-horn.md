@@ -1,3 +1,4 @@
+# Phantom Beast Wild-Horn
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

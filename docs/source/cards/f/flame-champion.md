@@ -1,3 +1,4 @@
+# Flame Champion
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

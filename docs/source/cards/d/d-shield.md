@@ -1,3 +1,4 @@
+# D - Shield
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

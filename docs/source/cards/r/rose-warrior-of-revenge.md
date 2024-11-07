@@ -1,3 +1,4 @@
+# Rose, Warrior of Revenge
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

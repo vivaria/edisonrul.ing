@@ -1,3 +1,4 @@
+# Javelin Beetle
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

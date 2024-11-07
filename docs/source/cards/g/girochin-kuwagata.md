@@ -1,3 +1,4 @@
+# Girochin Kuwagata
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Blue-Eyes Shining Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

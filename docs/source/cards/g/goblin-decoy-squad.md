@@ -1,3 +1,4 @@
+# Goblin Decoy Squad
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

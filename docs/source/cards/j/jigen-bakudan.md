@@ -1,3 +1,4 @@
+# Jigen Bakudan
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

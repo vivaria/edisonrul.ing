@@ -1,3 +1,4 @@
+# Gravedigger Ghoul
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

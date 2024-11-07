@@ -1,3 +1,4 @@
+# Beiige, Vanguard of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

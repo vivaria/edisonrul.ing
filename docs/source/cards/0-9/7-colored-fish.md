@@ -1,3 +1,4 @@
+# 7 Colored Fish
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

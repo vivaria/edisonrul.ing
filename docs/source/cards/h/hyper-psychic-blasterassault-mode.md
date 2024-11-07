@@ -1,3 +1,4 @@
+# Hyper Psychic Blaster/Assault Mode
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

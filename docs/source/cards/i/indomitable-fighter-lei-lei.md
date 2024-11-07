@@ -1,3 +1,4 @@
+# Indomitable Fighter Lei Lei
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

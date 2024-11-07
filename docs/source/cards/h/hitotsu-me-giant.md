@@ -1,3 +1,4 @@
+# Hitotsu-Me Giant
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

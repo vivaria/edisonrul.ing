@@ -1,3 +1,4 @@
+# D.D. Warrior
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

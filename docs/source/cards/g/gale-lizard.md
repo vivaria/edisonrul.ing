@@ -1,3 +1,4 @@
+# Gale Lizard
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

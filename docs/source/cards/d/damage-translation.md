@@ -1,3 +1,4 @@
+# Damage Translation
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

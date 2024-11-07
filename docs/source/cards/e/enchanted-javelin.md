@@ -1,3 +1,4 @@
+# Enchanted Javelin
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

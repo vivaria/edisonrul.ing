@@ -1,3 +1,4 @@
+# Magical Citadel of Endymion
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

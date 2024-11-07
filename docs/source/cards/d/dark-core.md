@@ -1,3 +1,4 @@
+# Dark Core
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

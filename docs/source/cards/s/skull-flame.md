@@ -1,3 +1,4 @@
+# Skull Flame
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

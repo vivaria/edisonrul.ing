@@ -1,3 +1,4 @@
+# Earthbound Immortal Revival
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

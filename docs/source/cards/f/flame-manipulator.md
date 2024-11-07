@@ -1,3 +1,4 @@
+# Flame Manipulator
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Spellbook Organization
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

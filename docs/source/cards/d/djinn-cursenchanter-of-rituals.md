@@ -1,3 +1,4 @@
+# Djinn Cursenchanter of Rituals
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

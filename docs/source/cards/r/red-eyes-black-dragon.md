@@ -1,3 +1,4 @@
+# Red-Eyes Black Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

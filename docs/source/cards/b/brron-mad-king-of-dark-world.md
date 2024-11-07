@@ -1,3 +1,4 @@
+# Brron, Mad King of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Magicians Unite
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

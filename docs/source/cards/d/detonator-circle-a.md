@@ -1,3 +1,4 @@
+# Detonator Circle "A"
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Mystical Shine Ball
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

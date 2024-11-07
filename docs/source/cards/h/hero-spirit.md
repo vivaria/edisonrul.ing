@@ -1,3 +1,4 @@
+# Hero Spirit
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

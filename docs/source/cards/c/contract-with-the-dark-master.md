@@ -1,3 +1,4 @@
+# Contract with the Dark Master
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

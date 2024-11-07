@@ -1,3 +1,4 @@
+# Chimaera, the Master of Beasts
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

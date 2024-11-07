@@ -1,3 +1,4 @@
+# Molten Destruction
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

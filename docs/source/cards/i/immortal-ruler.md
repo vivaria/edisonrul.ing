@@ -1,3 +1,4 @@
+# Immortal Ruler
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

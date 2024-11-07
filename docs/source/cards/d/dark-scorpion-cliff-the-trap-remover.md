@@ -1,3 +1,4 @@
+# Dark Scorpion - Cliff the Trap Remover
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

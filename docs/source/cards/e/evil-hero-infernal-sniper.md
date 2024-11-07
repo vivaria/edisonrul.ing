@@ -1,3 +1,4 @@
+# Evil HERO Infernal Sniper
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

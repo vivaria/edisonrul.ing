@@ -1,3 +1,4 @@
+# Mesmeric Control
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

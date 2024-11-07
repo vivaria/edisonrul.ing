@@ -1,3 +1,4 @@
+# Spell Calling
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

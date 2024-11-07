@@ -1,3 +1,4 @@
+# Lord of the Lamp
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Red-Eyes Darkness Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Goblin Recon Squad
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

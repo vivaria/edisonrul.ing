@@ -1,3 +1,4 @@
+# Elemental HERO Magma Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

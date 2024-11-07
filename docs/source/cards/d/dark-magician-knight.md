@@ -1,3 +1,4 @@
+# Dark Magician Knight
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

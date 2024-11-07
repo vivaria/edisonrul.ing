@@ -1,3 +1,4 @@
+# Remove Trap
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

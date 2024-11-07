@@ -1,3 +1,4 @@
+# Sand Gambler
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

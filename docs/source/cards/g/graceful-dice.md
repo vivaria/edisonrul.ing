@@ -1,3 +1,4 @@
+# Graceful Dice
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

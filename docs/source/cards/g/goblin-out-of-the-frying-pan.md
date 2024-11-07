@@ -1,3 +1,4 @@
+# Goblin Out of the Frying Pan
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

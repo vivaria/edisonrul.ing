@@ -1,3 +1,4 @@
+# Green Phantom King
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

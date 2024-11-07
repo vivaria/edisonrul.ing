@@ -1,3 +1,4 @@
+# Warrior of Tradition
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

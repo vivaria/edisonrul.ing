@@ -1,3 +1,4 @@
+# Hidden Armory
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

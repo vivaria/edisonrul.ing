@@ -1,3 +1,4 @@
+# The Stern Mystic
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

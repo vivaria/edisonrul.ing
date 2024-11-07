@@ -1,3 +1,4 @@
+# Spirit Ryu
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,3 +1,4 @@
+# Hidden Soldiers
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

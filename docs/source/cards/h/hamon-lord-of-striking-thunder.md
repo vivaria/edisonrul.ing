@@ -1,3 +1,4 @@
+# Hamon, Lord of Striking Thunder
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
