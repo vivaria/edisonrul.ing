@@ -7,3 +7,18 @@
     *   This card cannot be Tributed to Special Summon "Lava Golem".
     *   Cards / Effects that perform Special Summons (ex: "Scapegoat") cannot be activated.
     *   Mandatory effects (like “Gravekeeper's Spy”) still activate, but you do not Special Summon.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Vanity's%20Fiend
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Special Summoned.
+> ① Neither player can attempt to Special Summon monsters.
+
+### Card Rulings
+
+● While this effect is applying, "Future Fusion" cannot be activated, nor can it Summon a Monster during the 2nd Standby Phase.
+●If this card is destroyed by battle, the ② stops applying in Substep 6 ("Tragoedia"'s effect can't be activated).
+            

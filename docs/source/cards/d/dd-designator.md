@@ -6,3 +6,16 @@
 *   If your opponent has no cards in his hand when "D. D. Designator" resolves, the effect of "D. D. Designator" is negated.
 *   You can't activate "D. D. Designator" when your opponent has no cards in his hand.
 *   If you activate "D. D. Designator" and your opponent has 2 copies of the same card in hand, you (the player who activated "D. D. Designator") select which of the 2 cards is removed from play (this can be important if your opponent holds your card because of "Exchange").
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=D.D.%20Designator
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+You can't activate "D. D. Designator" if you have no cards in your hand, or if "D. D. Designator" is the only card in your hand.
+            

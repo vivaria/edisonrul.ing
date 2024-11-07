@@ -12,3 +12,19 @@
     *   the Beast destroyed by battle leaves the field by an effect (like "Red Dragon Archfiend").
     *   the Beast destroyed by battle is removed from play (by "D.D. Warrior Lady").
     *   the Beast destroyed by battle is removed from play by "Macro Cosmos".
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Yellow%20Baboon,%20Archer%20of%20the%20Forest
+
+### Edison-Accurate PSCT
+
+> ① If this card is in your hand, If a Beast you control is destroyed by battle and sent to the GY:
+> You can banish 2 Beasts from your GY; Special Summon this card.
+
+### Card Rulings
+
+● You can only activate 1 Trigger Effect in your hand per chain.
+(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).
+● If the destroyed monster was not sent to the GY, this effect can't be activated.
+            

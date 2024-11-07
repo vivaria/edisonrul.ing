@@ -18,3 +18,25 @@
     *   If a Monster Effect is negated, this effect targets a monster in the Graveyard. It is negated by "Necrovalley".
 *   VS. "[Vanity's Call](https://yugipedia.com/wiki/Vanity%27s_Call)": if this card negates multiple card effects controlled by your opponent, when you Special Summon "Van'Dalgyon the Dark Dragon Lord" you will activate each effect appropriate effect.
     *   Example: "Vanity's Call" negates your opponent's "Destiny Draw" and "Dark Bribe". Van'Dalgyon you will activate its "_inflict 1500 damage_" and "_destroy 1 card_" effects when Summoned. You can choose to have "_inflict 1500 damage_" be Chain Link 1 and "_destroy 1 card_" be Chain Link 2, or vice-versa.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Van'Dalgyon%20the%20Dark%20Dragon%20Lord
+
+### Edison-Accurate PSCT
+
+> ① If this card is in your hand, if the Activation of your opponent's Spell/Trap Card, or Monster Effect,
+> is negated by your Counter Trap (except during the Damage Step):
+> You can Special Summon this card.
+> ② If you do, activate the appropriate effect(s) in sequence, depending on what was negated:
+> ● Spell Card: Your opponent takes 1500 damage.
+> ● Trap Card: Target 1 card your opponent controls; destroy that target.
+> ● Monster Effect: Target 1 monster in your GY; Special Summon it.
+
+### Card Rulings
+
+● You can only activate 1 Trigger Effect in your hand per chain.
+(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand).
+● The ① effect does not trigger when a Spell/Trap Effect is negated; it only triggers when the Spell/Trap itself is negated.
+(Activating a Spell/Trap Card from your hand is a Card Activation. Activating the effect of a Spell/Trap which is already face-up on the field is an Effect Activation).
+            

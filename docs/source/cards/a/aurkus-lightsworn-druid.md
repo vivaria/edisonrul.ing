@@ -19,3 +19,19 @@
         2.  Player A can activate the "Lightsworn"'s Trigger Effect to mill cards from their Deck. Then, Player A resolves "Brain Control" and returns the "Lightsworn" monster to Player B \[[REF](https://www.pojo.biz/board/showthread.php?t=653322)\].
     *   VS. "Enemy Controller":
         *   On Player A's turn, Player B takes control of Player A's "Lightsworn" monster. During the End Phase, "Enemy Controller"'s effect wears off and control of the "Lightsworn" monster returns to Player A, then that Lightsworns's mandatory Trigger Effect activates \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Aurkus,%20Lightsworn%20Druid
+
+### Edison-Accurate PSCT
+
+> ① Neither player can target "Lightsworn" monsters (anywhere) with card effects.
+> ② During your End Phase: Send the top 2 cards of your Deck to the GY.
+> (Activate & Resolve only if this card is face-up on the field).
+
+### Card Rulings
+
+● This effect prevents monsters "everywhere" from being targeted, including monsters in the GY.
+● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+            

@@ -20,3 +20,21 @@
     2.  Player A activates and resolves the "Lightsworn" monster's effect to send cards from the top of their Deck to the Graveyard. Then that "Lightsworn" monster is returned to Player B's control \[[REF](https://www.pojo.biz/board/showthread.php?t=653322)\].
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Ehren,%20Lightsworn%20Monk
+
+### Edison-Accurate PSCT
+
+> ① If this attacks a Defense Position monster, before Damage Calculation:
+> Shuffle that monster into the Deck.
+> ② During your End Phase:
+> Send the top 3 cards of your Deck to the GY.
+> (Activate & Resolve only if this card is face-up on the field).
+
+### Card Rulings
+
+● If this card attacks a Set monster, that monster is flipped face-up, shuffled into the Deck, and after Damage Calculation its Flip Effect (if any) is activated. However, that Flip Monster’s effect is treated as being activated on the field (and can be negated by Light-Imprisoning Mirror).
+● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+            

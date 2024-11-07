@@ -8,3 +8,16 @@
 *   If an effect is Chained that removes the card you revealed from your hand, the effect to Special Summon will not be resolved.
 *   You cannot activate “Wolf in Sheep’s Clothing” if you don’t have a monster in your Deck of the same name as a Level 1 monster in your hand.
 *   The card you reveal is revealed until “Wolf in Sheep’s Clothing” is completely resolved.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Wolf%20in%20Sheep's%20Clothing
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

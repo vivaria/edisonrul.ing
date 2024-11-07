@@ -14,3 +14,19 @@
     *   if the last thing to happen when resolving an effect was not the destruction of the Beast-Type.
     *   if your only Green Baboon on the field was destroyed and sent to the Graveyard. It must be in the hand / Graveyard when your Beast-Type monster was destroyed.
     *   if your only Green Baboon and another Beast-Type are destroyed simultaneously (by "Lightning Vortex"). It must be in the hand / Graveyard when your Beast-Type was destroyed.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Green%20Baboon,%20Defender%20of%20the%20Forest
+
+### Edison-Accurate PSCT
+
+> ① When this card is in your hand or GY, when a face-up Beast you control is destroyed and sent to the GY (except in the Damage Step):
+> You can pay 1000 LP; Special Summon this card.
+
+### Card Rulings
+
+● You can only activate 1 Trigger Effect in your hand per chain.
+(You can't activate the ① effect of this card more that once per chain, even if you have multiple copies in your hand/GY).
+● This card's effect can't be activated in the Damage Step, so it can't be activated when a Beast is destroyed by battle.
+            

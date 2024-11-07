@@ -20,3 +20,21 @@
     *   If an effect (ex: "Black Rose Dragon") would simultaneously destroy Gearframe and the equipped Machine-Type monster; destroy both cards, you CANNOT apply this effect \[[REF](https://www.pojo.biz/board/showpost.php?p=18956551&postcount=2)\].  
     *   This does not apply if the equipped monster would be removed from play, returned to the hand / Deck, or flipped face-down by a card effect.  
         
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Machina%20Gearframe
+
+### Edison-Accurate PSCT
+
+> ① When Normal Summoned: You can add 1 "Machina" monster from your Deck to your hand, except "Machina Gearframe".
+> ② Once per turn: you can activate 1 of these effects; ● Target 1 Machine you control; equip this monster to that target.
+> ● Unequip and Special Summon this card in Attack Position.
+> ③ If a monster equipped by this card's effect would be destroyed, destroy this card instead.
+> © A monster can never be equipped with more than 1 Union Monster.
+
+### Card Rulings
+
+These rulings apply to all Union Monsters: https://edisonformat.net/rules/compendium/union-monsters
+● If both "Machina Gearframe" and the "Machina" monster it is equipped to would be destroyed by the same effect (e.g. vs "Icarus Attack"/"Black Rose Dragon"), the effect to "destroy this card instead" is not applied.
+            

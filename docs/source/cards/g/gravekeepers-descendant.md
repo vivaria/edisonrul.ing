@@ -7,3 +7,16 @@
     *   The target is destroyed even if it flipped face-down (by "Book of Moon") or it is chained.
 *   Tributing a face-up "Gravekeeper"'s monster is a cost.
     *   If "Soul Exchange" targets your opponent's face-up "Gravekeeper"'s monster, you can Tribute it.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Gravekeeper's%20Descendant
+
+### Edison-Accurate PSCT
+
+> ① You can tribute other 1 face-up "Gravekeeper's" monster, then target 1 card your opponent controls; destroy it.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+            

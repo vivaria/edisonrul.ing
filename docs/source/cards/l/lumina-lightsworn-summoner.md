@@ -19,3 +19,19 @@
     2.  Player A activates and resolves the "Lightsworn" monster's effect to send cards from the top of their Deck to the Graveyard. Then that "Lightsworn" monster is returned to Player B's control \[[REF](https://www.pojo.biz/board/showthread.php?t=653322)\].
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Lumina,%20Lightsworn%20Summoner
+
+### Edison-Accurate PSCT
+
+> ① Once per turn: You can discard 1 card, then target 1 "Lightsworn" monster in your GY; Special Summon it.
+> ② During your End Phase: Send the top 3 cards of your Deck to the GY.
+> (Activate & Resolve only if this card is face-up on the field).
+
+### Card Rulings
+
+● You can only activate the ① effect if you already have a "Lightsworn" monster in your GY. However, when choosing a target, you can choose to target the card you discarded, instead.
+● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+            

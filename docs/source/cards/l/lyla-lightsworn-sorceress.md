@@ -19,3 +19,28 @@
     2.  Player A activates and resolves the "Lightsworn" monster's effect to send cards from the top of their Deck to the Graveyard. Then that "Lightsworn" monster is returned to Player B's control \[[REF](https://www.pojo.biz/board/showthread.php?t=653322)\].
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Lyla,%20Lightsworn%20Sorceress
+
+### Edison-Accurate PSCT
+
+> ① You can target 1 Spell/Trap your opponent controls; change this card from Attack Position to face-up Defense Position, and if you do, destroy that target, also, if this card was changed to Defense Position by this effect, it's battle position cannot be changed until the end of your next turn.
+> ② During your End Phase: Send the top 3 cards of your Deck to the GY. (Activate & Resolve only if face-up on the field).
+
+### Card Rulings
+
+About the ① effect:
+● Like all "and if you do" effects, the first part (changing this card to defense) must happen in order for the second part (destroying that target) to happen.
+You can read more about conjunctions here: https://edisonformat.net/rules/compendium/conjunctions.
+
+● If an effect is chained to this effect that switches this card to Defense Position, the effect will not be applied so this card's battle position may still be changed (e.g. vs "Book of Moon" or "Enemy Controler").
+
+● If this card is switched to Defense Position by this effect, but cannot destroy the targeted Spell/Trap (e.g. if it no longer exists on the field), this card's battle position still cannot be changed until the end of your next turn.
+
+● "this card's battle position can't be changed until the end of your next turn" affects Lyla, not her Controller. If you take control of a Lyla with this effect applied, she still can't change her Battle Position.
+
+About the ② effect:
+● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+            

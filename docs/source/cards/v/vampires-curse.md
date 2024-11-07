@@ -3,3 +3,18 @@
 *   You pay 500 Life Points when "Vampire's Curse" is sent to the Graveyard. Paying 500 Life Points is a cost.
 *   The effect that increases "Vampire's Curse"'s ATK starts a Chain when it is Special Summoned by its effect.
 *   "Vampire's Curse" is not Special Summoned with its effect if it is removed from play.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Vampire's%20Curse
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+●You pay 500 Life Points when Vampire's Curse is sent to the GY. Paying 500 Life Points is a cost.
+●The effect that increases Vampire's Curse's ATK starts a Chain when it is Special Summoned by its effect.
+●Vampire's Curse is not Special Summoned with its effect if it is removed from play.
+            

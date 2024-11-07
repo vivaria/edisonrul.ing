@@ -8,3 +8,22 @@
     *   The number of A-Counters distributed is based on the number of Spell/Trap Cards actually returned to the hand.
 *   The ② Ignition Effect targets 1 card your opponent controls.
     *   Removing 2 A-Counters (from anywhere on the field) is a cost.
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Cosmic%20Fortress%20Gol'gar
+
+### Edison-Accurate PSCT
+
+> Alien Ammonite" + 1 or more non-Tuner "Alien" monsters
+> ① Once per turn: You can target any number of face-up Spells/Traps; return them to the hand, and if you do, place A-Counters on monsters on the field, equal to the number returned.
+> ② Once per turn: You can remove 2 A-Counters from the field, then target 1 card your opponent controls; destroy that target.
+
+### Card Rulings
+
+● If 3 cards are returned, you can:
+place 1 Counter on 3 different monsters, or
+place 1 Counter on 1 monster and 2 Counters on a different monster, or
+place all 3 on 1 monster.
+● If a card is not returned to the hand (maybe it was destroyed), no counter is placed for that card.
+            

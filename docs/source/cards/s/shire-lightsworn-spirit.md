@@ -15,3 +15,18 @@
     2.  Player A activates and resolves the "Lightsworn" monster's effect to send cards from the top of their Deck to the Graveyard. Then that "Lightsworn" monster is returned to Player B's control \[[REF](https://www.pojo.biz/board/showthread.php?t=653322)\].
 *   ② VS. "Enemy Controller":
     *   During Player A's turn, Player B gains control of Player A's "Lightsworn" monster. During the End Phase, when control of the "Lightsworn" monster is restored to Player A, its mandatory Trigger Effect will activate \[[REF](http://duelistgroundz.com/index.php?/topic/85182-judgment-dragon-and-enemy-controller/)\].
+
+## Edisonformat.net
+
+Source: https://edisonformat.net/card?name=Shire,%20Lightsworn%20Spirit
+
+### Edison-Accurate PSCT
+
+> ① Gains 300 ATK and DEF for each "Lightsworn" monster in your GY with a different name.
+> ② During your End Phase: Send the top 2 cards of your Deck to the GY.
+> (Activate & Resolve only if face-up on the field).
+
+### Card Rulings
+
+● If you control multiple “Lightsworn” monsters, their End Phase effects don’t chain to each other (they each activate, one after another).
+            
