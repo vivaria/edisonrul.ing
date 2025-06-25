@@ -9,14 +9,15 @@
 project = 'edisonrul.ing'
 author = 'vivaria'
 copyright = 'vivaria'
-version = '0.0.1'
+version = '0.0.2'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
     'myst_parser',
-    'sphinx_last_updated_by_git'
+    'sphinx_last_updated_by_git',
+    'sphinx_immaterial'
 ]
 myst_enable_extensions = [
     "amsmath",
@@ -43,29 +44,48 @@ suppress_warnings = ['epub.unknown_project_files']
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'insipid'
+html_theme = "sphinx_immaterial"
 html_theme_options = {
-    'body_centered': False,
-    'breadcrumbs': False,
-    'left_buttons': [
-        'search-button.html',
-        'fullscreen-button.html',
+    "edit_uri": "blob/main/docs/source",
+    "repo_url": "https://github.com/vivaria/edisonrul.ing",
+    "repo_name": "edisonrul.ing",
+    "icon": {
+        "repo": "fontawesome/brands/github",
+        "edit": "material/file-edit-outline",
+        "logo": "material/cards-playing"
+    },
+    "features": [
+        "content.action.view",
+        "content.action.edit",
+        "navigation.expand",
+        "navigation.footer"
     ],
-    'right_buttons': [
-        'pdf-button.html',
-        'epub-button.html',
-        'repo-button.html',
-    ],
-    'show_insipid': False,
-}
-html_sidebars = {
-    '**': [
-        'home.html',
-        'github-badge.html',
-        'globaltoc.html',
+    "font": {
+        "text": "Funnel Sans",  # used for all the pages' text
+        "code": "Roboto Mono"  # used for literal code blocks
+    },
+    "palette": [
+        {
+            "media": "(prefers-color-scheme: light)",
+            "scheme": "default",
+            "primary": "brown",
+            "toggle": {
+                "icon": "material/weather-night",
+                "name": "Switch to dark mode",
+            }
+        },
+        {
+            "media": "(prefers-color-scheme: dark)",
+            "scheme": "slate",
+            "primary": "brown",
+            "toggle": {
+                "icon": "material/weather-sunny",
+                "name": "Switch to light mode",
+            }
+        },
     ]
 }
-html_title = 'edisonrul.ing'
+html_title = 'Edison Rulings'
 html_favicon = '_static/img/favicon.ico'
 html_static_path = ['_static']
 html_css_files = ['css/custom.css']
