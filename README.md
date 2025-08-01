@@ -3,7 +3,7 @@
 This website contains the rulings for both [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings) and [https://edisonformat.net/card](https://edisonformat.net/card):
 
 - **Edisonformat.com**: Pre-UTW, historical rulings written by Upper Deck Entertainment circa 2010 and compiled in 2021.
-- **Edisonformat.net**: Post-UTW, up-to-date rulings written by Mika and eva to reflect present-day Konami rulings at high-profile Edison events, including Edison-accurate problem solving card text.
+- **Edisonformat.net**: Post-UTW, up-to-date rulings written by Mika and Dani to reflect present-day Konami rulings at high-profile Edison events, including Edison-accurate problem solving card text.
 
 When there is a rulings conflict, please refer to the **Edisonformat.net** rulings. If the **Edisonformat.net** section is missing rulings, please fall back to the historical UDE rulings listed under the **Edisonformat.com** section.
 
