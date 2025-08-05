@@ -1,6 +1,6 @@
 # Yu-Gi-Oh! Edison Rulings
 
-### Overview
+## Overview
 
 This website contains the rulings for both [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings) and [https://edisonformat.net/card](https://edisonformat.net/card):
 
@@ -9,7 +9,7 @@ This website contains the rulings for both [https://www.edisonformat.com/rulings
 
 When there is a rulings conflict, please refer to the **Edisonformat.net** rulings. If the **Edisonformat.net** section is missing rulings, please fall back to the historical UDE rulings listed under the **Edisonformat.com** section.
 
-### Goals
+## Goals
 
 The goals of **Edisonrul.ing** are as follows:
 
@@ -18,7 +18,7 @@ The goals of **Edisonrul.ing** are as follows:
 - Proper attribution of rulings (whether UDE or Edisonformat.net)
 - Transparent comparison between historical rulings and updated rulings.
 
-### Requesting a change
+## Requesting a change
 
 As this website contains scraped text, there may be minor formatting issues or outdated rulings. If you encounter any mistakes, please contact me on Discord (username: `_vivaria`) and I will be happy to update any mistakes.
 
