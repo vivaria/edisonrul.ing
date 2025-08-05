@@ -1,4 +1,4 @@
-# The Hunter With 7 Weapons
+# The Hunter with 7 Weapons
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

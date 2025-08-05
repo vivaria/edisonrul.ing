@@ -1,4 +1,4 @@
-# Rise Of The Snake Deity
+# Rise of the Snake Deity
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

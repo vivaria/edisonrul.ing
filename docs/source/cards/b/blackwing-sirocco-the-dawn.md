@@ -1,4 +1,4 @@
-# Blackwing - Sirocco The Dawn
+# Blackwing - Sirocco the Dawn
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

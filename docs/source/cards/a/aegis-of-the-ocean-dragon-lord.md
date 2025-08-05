@@ -1,4 +1,4 @@
-# Aegis Of The Ocean Dragon Lord
+# Aegis of the Ocean Dragon Lord
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

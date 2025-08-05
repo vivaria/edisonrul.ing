@@ -1,4 +1,4 @@
-# Blackwing - Blizzard The Far North
+# Blackwing - Blizzard the Far North
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

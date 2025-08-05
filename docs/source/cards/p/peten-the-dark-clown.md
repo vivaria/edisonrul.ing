@@ -1,4 +1,4 @@
-# Peten The Dark Clown
+# Peten the Dark Clown
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

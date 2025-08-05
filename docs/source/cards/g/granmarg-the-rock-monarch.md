@@ -1,4 +1,4 @@
-# Granmarg The Rock Monarch
+# Granmarg the Rock Monarch
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

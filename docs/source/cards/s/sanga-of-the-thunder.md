@@ -1,4 +1,4 @@
-# Sanga Of The Thunder
+# Sanga of the Thunder
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Thestalos The Firestorm Monarch
+# Thestalos the Firestorm Monarch
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

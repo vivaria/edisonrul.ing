@@ -1,4 +1,4 @@
-# Cloudian - Eye Of The Typhoon
+# Cloudian - Eye of the Typhoon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

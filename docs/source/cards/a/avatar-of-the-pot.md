@@ -1,4 +1,4 @@
-# Avatar Of The Pot
+# Avatar of the Pot
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

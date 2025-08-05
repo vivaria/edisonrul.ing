@@ -1,4 +1,4 @@
-# The Flute Of Summoning Dragon
+# The Flute of Summoning Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

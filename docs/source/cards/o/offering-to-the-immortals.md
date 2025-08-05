@@ -1,4 +1,4 @@
-# Offering To The Immortals
+# Offering to the Immortals
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

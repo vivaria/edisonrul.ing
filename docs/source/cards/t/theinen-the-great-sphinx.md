@@ -1,4 +1,4 @@
-# Theinen The Great Sphinx
+# Theinen the Great Sphinx
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

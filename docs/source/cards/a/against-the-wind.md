@@ -1,4 +1,4 @@
-# Against The Wind
+# Against the Wind
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

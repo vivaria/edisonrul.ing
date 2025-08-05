@@ -1,4 +1,4 @@
-# The Eye Of Truth
+# The Eye of Truth
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

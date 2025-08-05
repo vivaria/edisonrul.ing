@@ -1,4 +1,4 @@
-# Spirit Of The Pharaoh
+# Spirit of the Pharaoh
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

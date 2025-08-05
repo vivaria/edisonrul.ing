@@ -1,4 +1,4 @@
-# The Puppet Magic Of Dark Ruler
+# The Puppet Magic of Dark Ruler
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

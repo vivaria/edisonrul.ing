@@ -1,4 +1,4 @@
-# Otherworld - The "A" Zone
+# Otherworld - the "A" Zone
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

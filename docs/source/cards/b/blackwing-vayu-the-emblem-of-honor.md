@@ -1,4 +1,4 @@
-# Blackwing - Vayu The Emblem Of Honor
+# Blackwing - Vayu the Emblem of Honor
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

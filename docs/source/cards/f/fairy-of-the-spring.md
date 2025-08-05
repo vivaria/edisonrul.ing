@@ -1,4 +1,4 @@
-# Fairy Of The Spring
+# Fairy of the Spring
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

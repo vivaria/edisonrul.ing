@@ -1,4 +1,4 @@
-# Forgotten Temple Of The Deep
+# Forgotten Temple of the Deep
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

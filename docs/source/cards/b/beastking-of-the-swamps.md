@@ -1,4 +1,4 @@
-# Beastking Of The Swamps
+# Beastking of the Swamps
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

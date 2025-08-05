@@ -1,4 +1,4 @@
-# Chiron The Mage
+# Chiron the Mage
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

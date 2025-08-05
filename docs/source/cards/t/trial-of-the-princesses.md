@@ -1,4 +1,4 @@
-# Trial Of The Princesses
+# Trial of the Princesses
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

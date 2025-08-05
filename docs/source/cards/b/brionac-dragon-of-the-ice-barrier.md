@@ -1,4 +1,4 @@
-# Brionac, Dragon Of The Ice Barrier
+# Brionac, Dragon of the Ice Barrier
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

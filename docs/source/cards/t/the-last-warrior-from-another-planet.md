@@ -1,4 +1,4 @@
-# The Last Warrior From Another Planet
+# The Last Warrior from Another Planet
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

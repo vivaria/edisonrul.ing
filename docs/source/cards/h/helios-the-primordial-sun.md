@@ -1,4 +1,4 @@
-# Helios - The Primordial Sun
+# Helios - the Primordial Sun
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

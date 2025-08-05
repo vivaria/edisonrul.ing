@@ -1,4 +1,4 @@
-# Lich Lord, King Of The Underworld
+# Lich Lord, King of the Underworld
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

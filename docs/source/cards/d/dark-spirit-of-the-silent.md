@@ -1,4 +1,4 @@
-# Dark Spirit Of The Silent
+# Dark Spirit of the Silent
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

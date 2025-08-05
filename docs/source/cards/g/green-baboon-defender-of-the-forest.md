@@ -1,4 +1,4 @@
-# Green Baboon, Defender Of The Forest
+# Green Baboon, Defender of the Forest
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

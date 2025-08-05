@@ -1,4 +1,4 @@
-# Blackwing - Kalut The Moon Shadow
+# Blackwing - Kalut the Moon Shadow
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Gateway To Dark World
+# Gateway to Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

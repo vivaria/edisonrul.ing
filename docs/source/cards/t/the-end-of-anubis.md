@@ -1,4 +1,4 @@
-# The End Of Anubis
+# The End of Anubis
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

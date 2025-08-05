@@ -1,4 +1,4 @@
-# Aussa The Earth Charmer
+# Aussa the Earth Charmer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

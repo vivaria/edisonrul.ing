@@ -1,4 +1,4 @@
-# Appointer Of The Red Lotus
+# Appointer of the Red Lotus
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

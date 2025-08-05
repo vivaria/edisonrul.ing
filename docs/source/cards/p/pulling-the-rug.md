@@ -1,4 +1,4 @@
-# Pulling The Rug
+# Pulling the Rug
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

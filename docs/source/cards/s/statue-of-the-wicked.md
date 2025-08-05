@@ -1,4 +1,4 @@
-# Statue Of The Wicked
+# Statue of the Wicked
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

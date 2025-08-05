@@ -1,4 +1,4 @@
-# Barrier Statue Of The Drought
+# Barrier Statue of the Drought
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

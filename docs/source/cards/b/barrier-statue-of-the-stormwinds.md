@@ -1,4 +1,4 @@
-# Barrier Statue Of The Stormwinds
+# Barrier Statue of the Stormwinds
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

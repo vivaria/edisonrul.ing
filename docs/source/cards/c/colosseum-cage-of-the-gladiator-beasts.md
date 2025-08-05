@@ -1,4 +1,4 @@
-# Colosseum - Cage Of The Gladiator Beasts
+# Colosseum - Cage of the Gladiator Beasts
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

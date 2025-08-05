@@ -1,4 +1,4 @@
-# Freed The Brave Wanderer
+# Freed the Brave Wanderer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

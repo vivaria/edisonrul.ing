@@ -1,4 +1,4 @@
-# Zaborg The Thunder Monarch
+# Zaborg the Thunder Monarch
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

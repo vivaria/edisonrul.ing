@@ -1,4 +1,4 @@
-# Versago The Destroyer
+# Versago the Destroyer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

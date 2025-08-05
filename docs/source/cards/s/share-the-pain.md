@@ -1,4 +1,4 @@
-# Share The Pain
+# Share the Pain
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

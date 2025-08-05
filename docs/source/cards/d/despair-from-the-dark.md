@@ -1,4 +1,4 @@
-# Despair From The Dark
+# Despair from the Dark
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

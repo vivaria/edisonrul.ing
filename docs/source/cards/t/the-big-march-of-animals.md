@@ -1,4 +1,4 @@
-# The Big March Of Animals
+# The Big March of Animals
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# The Immortal Of Thunder
+# The Immortal of Thunder
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

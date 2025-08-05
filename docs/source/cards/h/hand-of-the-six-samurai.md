@@ -1,4 +1,4 @@
-# Hand Of The Six Samurai
+# Hand of the Six Samurai
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

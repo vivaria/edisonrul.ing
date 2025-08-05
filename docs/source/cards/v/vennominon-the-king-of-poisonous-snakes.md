@@ -1,4 +1,4 @@
-# Vennominon The King Of Poisonous Snakes
+# Vennominon the King of Poisonous Snakes
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

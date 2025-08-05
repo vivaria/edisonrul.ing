@@ -1,4 +1,4 @@
-# Rallis The Star Bird
+# Rallis the Star Bird
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

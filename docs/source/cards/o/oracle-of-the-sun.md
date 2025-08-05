@@ -1,4 +1,4 @@
-# Oracle Of The Sun
+# Oracle of the Sun
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Dragged Down Into The Grave
+# Dragged Down Into the Grave
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Witch Of The Black Rose
+# Witch of the Black Rose
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

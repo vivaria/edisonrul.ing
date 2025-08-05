@@ -1,4 +1,4 @@
-# Blackwing - Elphin The Raven
+# Blackwing - Elphin the Raven
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

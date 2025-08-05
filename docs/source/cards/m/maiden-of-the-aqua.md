@@ -1,4 +1,4 @@
-# Maiden Of The Aqua
+# Maiden of the Aqua
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

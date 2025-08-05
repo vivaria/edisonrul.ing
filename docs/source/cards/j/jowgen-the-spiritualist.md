@@ -1,4 +1,4 @@
-# Jowgen The Spiritualist
+# Jowgen the Spiritualist
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

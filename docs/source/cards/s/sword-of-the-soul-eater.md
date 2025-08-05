@@ -1,4 +1,4 @@
-# Sword Of The Soul-Eater
+# Sword of the Soul-Eater
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# The Beginning Of The End
+# The Beginning of the End
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

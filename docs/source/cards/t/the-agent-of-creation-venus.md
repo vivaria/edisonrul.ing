@@ -1,4 +1,4 @@
-# The Agent Of Creation - Venus
+# The Agent of Creation - Venus
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

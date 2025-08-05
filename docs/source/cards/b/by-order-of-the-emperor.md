@@ -1,4 +1,4 @@
-# By Order Of The Emperor
+# By Order of the Emperor
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

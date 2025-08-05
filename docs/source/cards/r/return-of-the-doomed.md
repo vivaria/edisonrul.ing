@@ -1,4 +1,4 @@
-# Return Of The Doomed
+# Return of the Doomed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

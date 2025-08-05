@@ -1,4 +1,4 @@
-# Attack Of The Cornered Rat
+# Attack of the Cornered Rat
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

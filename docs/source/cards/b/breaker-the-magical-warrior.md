@@ -1,4 +1,4 @@
-# Breaker The Magical Warrior
+# Breaker the Magical Warrior
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

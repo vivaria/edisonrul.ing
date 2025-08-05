@@ -1,4 +1,4 @@
-# Grave Of The Super Ancient Organism
+# Grave of the Super Ancient Organism
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

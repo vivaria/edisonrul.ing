@@ -1,4 +1,4 @@
-# Chaos Emperor Dragon - Envoy Of The End
+# Chaos Emperor Dragon - Envoy of the End
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 

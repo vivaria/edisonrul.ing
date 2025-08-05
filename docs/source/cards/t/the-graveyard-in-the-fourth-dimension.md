@@ -1,4 +1,4 @@
-# The Graveyard In The Fourth Dimension
+# The Graveyard in the Fourth Dimension
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Mobius The Frost Monarch
+# Mobius the Frost Monarch
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

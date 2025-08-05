@@ -1,4 +1,4 @@
-# Stone Statue Of The Aztecs
+# Stone Statue of the Aztecs
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

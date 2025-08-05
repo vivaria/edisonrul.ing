@@ -1,4 +1,4 @@
-# Horus The Black Flame Dragon LV8
+# Horus the Black Flame Dragon LV8
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

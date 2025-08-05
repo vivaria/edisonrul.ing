@@ -1,4 +1,4 @@
-# Dekoichi The Battlechanted Locomotive
+# Dekoichi the Battlechanted Locomotive
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

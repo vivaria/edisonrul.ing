@@ -1,4 +1,4 @@
-# Valkyrion The Magna Warrior
+# Valkyrion the Magna Warrior
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

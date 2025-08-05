@@ -1,4 +1,4 @@
-# Hiita The Fire Charmer
+# Hiita the Fire Charmer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

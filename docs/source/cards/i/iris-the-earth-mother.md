@@ -1,4 +1,4 @@
-# Iris, The Earth Mother
+# Iris, the Earth Mother
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Freed The Matchless General
+# Freed the Matchless General
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Backs To The Wall
+# Backs to the Wall
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

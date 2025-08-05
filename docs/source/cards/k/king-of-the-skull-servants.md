@@ -1,4 +1,4 @@
-# King Of The Skull Servants
+# King of the Skull Servants
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

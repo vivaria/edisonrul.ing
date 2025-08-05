@@ -1,4 +1,4 @@
-# Beta The Magnet Warrior
+# Beta the Magnet Warrior
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

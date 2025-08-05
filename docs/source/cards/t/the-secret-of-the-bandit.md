@@ -1,4 +1,4 @@
-# The Secret Of The Bandit
+# The Secret of the Bandit
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

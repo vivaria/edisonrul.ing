@@ -1,4 +1,4 @@
-# Gorz, The Emissary Of Darkness
+# Gorz, the Emissary of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

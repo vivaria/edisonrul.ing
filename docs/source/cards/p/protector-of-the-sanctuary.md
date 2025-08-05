@@ -1,4 +1,4 @@
-# Protector Of The Sanctuary
+# Protector of the Sanctuary
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

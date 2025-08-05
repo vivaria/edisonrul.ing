@@ -1,4 +1,4 @@
-# The Agent Of Judgment - Saturn
+# The Agent of Judgment - Saturn
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

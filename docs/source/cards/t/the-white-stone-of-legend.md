@@ -1,4 +1,4 @@
-# The White Stone Of Legend
+# The White Stone of Legend
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

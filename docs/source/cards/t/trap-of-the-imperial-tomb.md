@@ -1,4 +1,4 @@
-# Trap Of The Imperial Tomb
+# Trap of the Imperial Tomb
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

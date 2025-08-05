@@ -1,4 +1,4 @@
-# Fear From The Dark
+# Fear from the Dark
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

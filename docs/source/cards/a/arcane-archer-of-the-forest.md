@@ -1,4 +1,4 @@
-# Arcane Archer Of The Forest
+# Arcane Archer of the Forest
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

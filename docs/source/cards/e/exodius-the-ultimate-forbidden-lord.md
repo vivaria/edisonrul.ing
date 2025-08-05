@@ -1,4 +1,4 @@
-# Exodius The Ultimate Forbidden Lord
+# Exodius the Ultimate Forbidden Lord
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

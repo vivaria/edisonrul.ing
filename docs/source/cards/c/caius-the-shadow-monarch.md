@@ -1,4 +1,4 @@
-# Caius The Shadow Monarch
+# Caius the Shadow Monarch
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

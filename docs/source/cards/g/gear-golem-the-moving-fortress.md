@@ -1,4 +1,4 @@
-# Gear Golem The Moving Fortress
+# Gear Golem the Moving Fortress
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

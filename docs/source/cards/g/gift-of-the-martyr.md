@@ -1,4 +1,4 @@
-# Gift Of The Martyr
+# Gift of the Martyr
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

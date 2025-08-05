@@ -1,4 +1,4 @@
-# Exodia The Forbidden One
+# Exodia the Forbidden One
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

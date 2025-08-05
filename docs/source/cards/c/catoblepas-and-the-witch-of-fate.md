@@ -1,4 +1,4 @@
-# Catoblepas And The Witch Of Fate
+# Catoblepas and the Witch of Fate
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

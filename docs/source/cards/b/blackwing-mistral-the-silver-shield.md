@@ -1,4 +1,4 @@
-# Blackwing - Mistral The Silver Shield
+# Blackwing - Mistral the Silver Shield
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

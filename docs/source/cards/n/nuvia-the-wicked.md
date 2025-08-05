@@ -1,4 +1,4 @@
-# Nuvia The Wicked
+# Nuvia the Wicked
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

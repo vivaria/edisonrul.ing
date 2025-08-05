@@ -1,4 +1,4 @@
-# Vennominaga The Deity Of Poisonous Snakes
+# Vennominaga the Deity of Poisonous Snakes
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

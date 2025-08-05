@@ -1,4 +1,4 @@
-# Gaia Plate The Earth Giant
+# Gaia Plate the Earth Giant
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

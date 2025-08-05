@@ -1,4 +1,4 @@
-# Grandmaster Of The Six Samurai
+# Grandmaster of the Six Samurai
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

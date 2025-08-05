@@ -1,4 +1,4 @@
-# Return From The Different Dimension
+# Return from the Different Dimension
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

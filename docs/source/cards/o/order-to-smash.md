@@ -1,4 +1,4 @@
-# Order To Smash
+# Order to Smash
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

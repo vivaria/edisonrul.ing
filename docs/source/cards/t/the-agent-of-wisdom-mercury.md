@@ -1,4 +1,4 @@
-# The Agent Of Wisdom - Mercury
+# The Agent of Wisdom - Mercury
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

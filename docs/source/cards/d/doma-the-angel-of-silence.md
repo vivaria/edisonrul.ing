@@ -1,4 +1,4 @@
-# Doma The Angel of Silence
+# Doma the Angel of Silence
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

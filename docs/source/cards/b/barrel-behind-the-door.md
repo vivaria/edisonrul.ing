@@ -1,4 +1,4 @@
-# Barrel Behind The Door
+# Barrel Behind the Door
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

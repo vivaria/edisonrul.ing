@@ -1,4 +1,4 @@
-# Fusilier Dragon, The Dual-Mode Beast
+# Fusilier Dragon, the Dual-Mode Beast
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

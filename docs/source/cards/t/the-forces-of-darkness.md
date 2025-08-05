@@ -1,4 +1,4 @@
-# The Forces Of Darkness
+# The Forces of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

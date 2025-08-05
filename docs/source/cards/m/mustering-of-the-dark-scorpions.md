@@ -1,4 +1,4 @@
-# Mustering Of The Dark Scorpions
+# Mustering of the Dark Scorpions
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

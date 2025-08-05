@@ -1,4 +1,4 @@
-# Escape From The Dark Dimension
+# Escape from the Dark Dimension
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

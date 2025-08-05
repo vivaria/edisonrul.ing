@@ -1,4 +1,4 @@
-# Secret Village Of The Spellcasters
+# Secret Village of the Spellcasters
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

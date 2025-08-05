@@ -1,4 +1,4 @@
-# Call Of The Reaper
+# Call of the Reaper
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

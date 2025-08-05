@@ -1,4 +1,4 @@
-# Bazoo The Soul-Eater
+# Bazoo the Soul-Eater
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

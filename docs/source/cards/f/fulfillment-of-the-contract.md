@@ -1,4 +1,4 @@
-# Fulfillment Of The Contract
+# Fulfillment of the Contract
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

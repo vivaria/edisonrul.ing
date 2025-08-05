@@ -1,4 +1,4 @@
-# Mausoleum Of The Emperor
+# Mausoleum of the Emperor
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

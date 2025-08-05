@@ -1,4 +1,4 @@
-# Zombyra The Dark
+# Zombyra the Dark
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Heart Of The Underdog
+# Heart of the Underdog
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Gandora The Dragon Of Destruction
+# Gandora the Dragon of Destruction
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

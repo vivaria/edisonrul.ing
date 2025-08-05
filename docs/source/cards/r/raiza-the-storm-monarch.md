@@ -1,4 +1,4 @@
-# Raiza The Storm Monarch
+# Raiza the Storm Monarch
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

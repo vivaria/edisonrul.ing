@@ -1,4 +1,4 @@
-# Witch Of The Black Forest
+# Witch of the Black Forest
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 

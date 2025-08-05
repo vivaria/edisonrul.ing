@@ -1,4 +1,4 @@
-# Yubel - The Ultimate Nightmare
+# Yubel - the Ultimate Nightmare
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

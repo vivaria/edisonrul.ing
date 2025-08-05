@@ -1,4 +1,4 @@
-# The Agent Of Force - Mars
+# The Agent of Force - Mars
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

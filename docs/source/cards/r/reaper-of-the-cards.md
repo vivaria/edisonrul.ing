@@ -1,4 +1,4 @@
-# Reaper Of The Cards
+# Reaper of the Cards
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

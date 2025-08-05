@@ -1,4 +1,4 @@
-# Offerings To The Doomed
+# Offerings to the Doomed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

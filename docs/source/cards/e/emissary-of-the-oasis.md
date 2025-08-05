@@ -1,4 +1,4 @@
-# Emissary Of The Oasis
+# Emissary of the Oasis
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

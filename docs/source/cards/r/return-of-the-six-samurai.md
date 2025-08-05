@@ -1,4 +1,4 @@
-# Return Of The Six Samurai
+# Return of the Six Samurai
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

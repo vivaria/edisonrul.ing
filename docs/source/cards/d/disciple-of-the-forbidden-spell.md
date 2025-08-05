@@ -1,4 +1,4 @@
-# Disciple Of The Forbidden Spell
+# Disciple of the Forbidden Spell
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

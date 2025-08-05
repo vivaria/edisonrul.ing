@@ -1,4 +1,4 @@
-# Call Of The Mummy
+# Call of the Mummy
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

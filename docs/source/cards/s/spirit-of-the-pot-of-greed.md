@@ -1,4 +1,4 @@
-# Spirit Of The Pot Of Greed
+# Spirit Of the Pot of Greed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

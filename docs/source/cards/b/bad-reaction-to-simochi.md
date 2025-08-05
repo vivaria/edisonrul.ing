@@ -1,4 +1,4 @@
-# Bad Reaction To Simochi
+# Bad Reaction to Simochi
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

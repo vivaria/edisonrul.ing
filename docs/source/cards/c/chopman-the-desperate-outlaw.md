@@ -1,4 +1,4 @@
-# Chopman The Desperate Outlaw
+# Chopman the Desperate Outlaw
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

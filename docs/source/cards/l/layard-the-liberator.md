@@ -1,4 +1,4 @@
-# Layard The Liberator
+# Layard the Liberator
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Gaap The Divine Soldier
+# Gaap the Divine Soldier
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Judgment Of The Desert
+# Judgment of the Desert
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

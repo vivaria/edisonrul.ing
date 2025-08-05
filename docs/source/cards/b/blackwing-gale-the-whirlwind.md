@@ -1,4 +1,4 @@
-# Blackwing - Gale The Whirlwind
+# Blackwing - Gale the Whirlwind
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

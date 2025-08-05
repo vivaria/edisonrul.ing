@@ -1,4 +1,4 @@
-# Roc From The Valley Of Haze
+# Roc from the Valley of Haze
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Barrier Statue Of The Heavens
+# Barrier Statue of the Heavens
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

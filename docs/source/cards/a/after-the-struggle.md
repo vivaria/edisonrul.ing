@@ -1,4 +1,4 @@
-# After The Struggle
+# After the Struggle
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

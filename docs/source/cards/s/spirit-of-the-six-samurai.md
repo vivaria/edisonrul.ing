@@ -1,4 +1,4 @@
-# Spirit Of The Six Samurai
+# Spirit of the Six Samurai
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

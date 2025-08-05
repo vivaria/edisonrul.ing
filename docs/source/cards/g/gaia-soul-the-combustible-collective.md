@@ -1,4 +1,4 @@
-# Gaia Soul The Combustible Collective
+# Gaia Soul the Combustible Collective
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

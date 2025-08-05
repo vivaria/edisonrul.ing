@@ -1,4 +1,4 @@
-# Gaia The Fierce Knight
+# Gaia the Fierce Knight
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

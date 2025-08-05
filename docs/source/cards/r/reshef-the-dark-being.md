@@ -1,4 +1,4 @@
-# Reshef The Dark Being
+# Reshef the Dark Being
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

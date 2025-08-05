@@ -1,4 +1,4 @@
-# Secrets Of The Gallant
+# Secrets of the Gallant
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

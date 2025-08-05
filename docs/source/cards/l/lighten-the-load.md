@@ -1,4 +1,4 @@
-# Lighten The Load
+# Lighten the Load
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

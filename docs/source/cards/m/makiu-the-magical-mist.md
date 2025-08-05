@@ -1,4 +1,4 @@
-# Makiu, The Magical Mist
+# Makiu, the Magical Mist
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Goddess With The Third Eye
+# Goddess with the Third Eye
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

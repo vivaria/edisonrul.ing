@@ -1,4 +1,4 @@
-# Battle Of The Elements
+# Battle of the Elements
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

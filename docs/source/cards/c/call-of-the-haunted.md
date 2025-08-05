@@ -1,4 +1,4 @@
-# Call Of The Haunted
+# Call of the Haunted
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

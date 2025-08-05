@@ -1,4 +1,4 @@
-# Gearfried The Iron Knight
+# Gearfried the Iron Knight
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

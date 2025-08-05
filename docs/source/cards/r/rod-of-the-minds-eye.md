@@ -1,4 +1,4 @@
-# Rod Of The Mind's Eye
+# Rod of the Mind's Eye
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

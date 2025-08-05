@@ -1,4 +1,4 @@
-# Banisher Of The Light
+# Banisher of the Light
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

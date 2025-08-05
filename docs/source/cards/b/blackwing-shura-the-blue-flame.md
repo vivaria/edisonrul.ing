@@ -1,4 +1,4 @@
-# Blackwing - Shura The Blue Flame
+# Blackwing - Shura the Blue Flame
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Swift Gaia The Fierce Knight
+# Swift Gaia the Fierce Knight
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Chimera The Flying Mythical Beast
+# Chimera the Flying Mythical Beast
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Eliminating The League
+# Eliminating the League
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

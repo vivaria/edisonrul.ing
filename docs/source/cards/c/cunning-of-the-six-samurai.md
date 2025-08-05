@@ -1,4 +1,4 @@
-# Cunning Of The Six Samurai
+# Cunning of the Six Samurai
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

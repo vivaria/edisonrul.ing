@@ -1,4 +1,4 @@
-# Gearfried The Swordmaster
+# Gearfried the Swordmaster
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Gateway Of The Six
+# Gateway of the Six
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

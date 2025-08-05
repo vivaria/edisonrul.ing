@@ -1,4 +1,4 @@
-# Kycoo The Ghost Destroyer
+# Kycoo the Ghost Destroyer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

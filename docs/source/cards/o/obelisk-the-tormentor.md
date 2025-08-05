@@ -1,4 +1,4 @@
-# Obelisk The Tormentor
+# Obelisk the Tormentor
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

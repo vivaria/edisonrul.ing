@@ -1,4 +1,4 @@
-# Blasting The Ruins
+# Blasting the Ruins
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

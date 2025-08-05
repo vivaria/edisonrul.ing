@@ -1,4 +1,4 @@
-# Blackwing - Fane The Steel Chain
+# Blackwing - Fane the Steel Chain
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

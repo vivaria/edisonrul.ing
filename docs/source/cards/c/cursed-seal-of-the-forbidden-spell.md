@@ -1,4 +1,4 @@
-# Cursed Seal Of The Forbidden Spell
+# Cursed Seal of the Forbidden Spell
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

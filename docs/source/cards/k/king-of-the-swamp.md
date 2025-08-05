@@ -1,4 +1,4 @@
-# King Of The Swamp
+# King of the Swamp
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

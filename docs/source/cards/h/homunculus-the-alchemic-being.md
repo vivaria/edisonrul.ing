@@ -1,4 +1,4 @@
-# Homunculus The Alchemic Being
+# Homunculus the Alchemic Being
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

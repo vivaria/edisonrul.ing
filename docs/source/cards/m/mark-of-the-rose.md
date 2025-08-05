@@ -1,4 +1,4 @@
-# Mark Of The Rose
+# Mark of the Rose
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

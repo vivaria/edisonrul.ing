@@ -1,4 +1,4 @@
-# Eria The Water Charmer
+# Eria the Water Charmer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

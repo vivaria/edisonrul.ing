@@ -1,4 +1,4 @@
-# Goka, The Pyre Of Malice
+# Goka, the Pyre of Malice
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

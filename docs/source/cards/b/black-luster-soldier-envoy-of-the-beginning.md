@@ -1,4 +1,4 @@
-# Black Luster Soldier - Envoy Of The Beginning
+# Black Luster Soldier - Envoy of the Beginning
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 

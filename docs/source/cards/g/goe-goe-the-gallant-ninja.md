@@ -1,4 +1,4 @@
-# Goe Goe The Gallant Ninja
+# Goe Goe the Gallant Ninja
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

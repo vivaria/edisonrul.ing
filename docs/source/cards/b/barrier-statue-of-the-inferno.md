@@ -1,4 +1,4 @@
-# Barrier Statue Of The Inferno
+# Barrier Statue of the Inferno
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

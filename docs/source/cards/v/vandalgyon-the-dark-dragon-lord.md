@@ -1,4 +1,4 @@
-# Van'Dalgyon The Dark Dragon Lord
+# Van'Dalgyon the Dark Dragon Lord
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Valhalla, Hall Of The Fallen
+# Valhalla, Hall of the Fallen
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

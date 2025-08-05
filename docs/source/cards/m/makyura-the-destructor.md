@@ -1,4 +1,4 @@
-# Makyura The Destructor
+# Makyura the Destructor
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 

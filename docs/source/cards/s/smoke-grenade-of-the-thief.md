@@ -1,4 +1,4 @@
-# Smoke Grenade Of The Thief
+# Smoke Grenade of the Thief
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

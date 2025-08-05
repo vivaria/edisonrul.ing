@@ -1,4 +1,4 @@
-# The Lady In Wight
+# The Lady in Wight
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

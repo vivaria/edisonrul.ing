@@ -1,4 +1,4 @@
-# Exxod, Master of The Guard
+# Exxod, Master of the Guard
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

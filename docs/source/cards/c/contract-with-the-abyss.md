@@ -1,4 +1,4 @@
-# Contract With The Abyss
+# Contract with the Abyss
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

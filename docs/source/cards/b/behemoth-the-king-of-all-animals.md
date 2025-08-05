@@ -1,4 +1,4 @@
-# Behemoth The King Of All Animals
+# Behemoth the King of All Animals
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

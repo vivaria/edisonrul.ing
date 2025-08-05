@@ -1,4 +1,4 @@
-# Barrier Statue Of The Abyss
+# Barrier Statue of the Abyss
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

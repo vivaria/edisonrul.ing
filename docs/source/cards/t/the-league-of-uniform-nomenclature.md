@@ -1,4 +1,4 @@
-# The League Of Uniform Nomenclature
+# The League of Uniform Nomenclature
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

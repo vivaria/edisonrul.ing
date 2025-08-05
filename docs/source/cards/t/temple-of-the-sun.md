@@ -1,4 +1,4 @@
-# Temple Of The Sun
+# Temple of the Sun
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

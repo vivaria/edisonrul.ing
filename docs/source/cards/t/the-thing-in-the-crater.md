@@ -1,4 +1,4 @@
-# The Thing In The Crater
+# The Thing in the Crater
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Gallis The Star Beast
+# Gallis the Star Beast
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

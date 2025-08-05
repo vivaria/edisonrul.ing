@@ -1,4 +1,4 @@
-# Secret Pass To The Treasures
+# Secret Pass to the Treasures
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

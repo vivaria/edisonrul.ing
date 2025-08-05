@@ -1,4 +1,4 @@
-# Reinforcement Of The Army
+# Reinforcement of the Army
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

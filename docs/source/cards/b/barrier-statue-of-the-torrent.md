@@ -1,4 +1,4 @@
-# Barrier Statue Of The Torrent
+# Barrier Statue of the Torrent
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

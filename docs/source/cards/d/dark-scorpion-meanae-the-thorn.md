@@ -1,4 +1,4 @@
-# Dark Scorpion - Meanae The Thorn
+# Dark Scorpion - Meanae the Thorn
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

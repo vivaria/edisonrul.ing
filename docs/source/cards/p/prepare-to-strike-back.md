@@ -1,4 +1,4 @@
-# Prepare To Strike Back
+# Prepare to Strike Back
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

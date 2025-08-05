@@ -1,4 +1,4 @@
-# Beast Of The Pharaoh
+# Beast of the Pharaoh
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Mataza The Zapper
+# Mataza the Zapper
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

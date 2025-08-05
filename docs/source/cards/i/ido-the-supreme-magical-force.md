@@ -1,4 +1,4 @@
-# Ido The Supreme Magical Force
+# Ido the Supreme Magical Force
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

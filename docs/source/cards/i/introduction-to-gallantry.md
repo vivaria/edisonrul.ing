@@ -1,4 +1,4 @@
-# Introduction To Gallantry
+# Introduction to Gallantry
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

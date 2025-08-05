@@ -1,4 +1,4 @@
-# Demise Of The Land
+# Demise of the Land
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

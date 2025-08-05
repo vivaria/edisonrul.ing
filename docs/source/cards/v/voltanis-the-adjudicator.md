@@ -1,4 +1,4 @@
-# Voltanis The Adjudicator
+# Voltanis the Adjudicator
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

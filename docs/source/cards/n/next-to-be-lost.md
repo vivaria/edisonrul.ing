@@ -1,4 +1,4 @@
-# Next To Be Lost
+# Next to be Lost
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Absorbing Kid From The Sky
+# Absorbing Kid from the Sky
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

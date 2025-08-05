@@ -1,4 +1,4 @@
-# Yellow Baboon, Archer Of The Forest
+# Yellow Baboon, Archer of the Forest
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

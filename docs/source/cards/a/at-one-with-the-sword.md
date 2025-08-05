@@ -1,4 +1,4 @@
-# At One With The Sword
+# At One with the Sword
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

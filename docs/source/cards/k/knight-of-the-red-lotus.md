@@ -1,4 +1,4 @@
-# Knight Of The Red Lotus
+# Knight of the Red Lotus
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

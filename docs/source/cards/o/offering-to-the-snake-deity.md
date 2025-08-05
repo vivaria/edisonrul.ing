@@ -1,4 +1,4 @@
-# Offering To The Snake Deity
+# Offering to the Snake Deity
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

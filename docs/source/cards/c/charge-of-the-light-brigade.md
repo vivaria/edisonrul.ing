@@ -1,4 +1,4 @@
-# Charge Of The Light Brigade
+# Charge of the Light Brigade
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

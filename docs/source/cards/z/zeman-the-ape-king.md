@@ -1,4 +1,4 @@
-# Zeman The Ape King
+# Zeman the Ape King
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# A Feather Of The Phoenix
+# A Feather of the Phoenix
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

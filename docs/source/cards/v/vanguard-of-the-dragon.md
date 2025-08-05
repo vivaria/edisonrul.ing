@@ -1,4 +1,4 @@
-# Vanguard Of The Dragon
+# Vanguard of the Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

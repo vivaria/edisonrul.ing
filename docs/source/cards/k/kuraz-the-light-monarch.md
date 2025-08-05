@@ -1,4 +1,4 @@
-# Kuraz The Light Monarch
+# Kuraz the Light Monarch
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

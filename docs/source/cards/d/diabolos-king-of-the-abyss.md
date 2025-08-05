@@ -1,4 +1,4 @@
-# Diabolos, King Of The Abyss
+# Diabolos, King of the Abyss
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

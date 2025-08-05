@@ -1,4 +1,4 @@
-# Exchange Of The Spirit
+# Exchange of the Spirit
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 

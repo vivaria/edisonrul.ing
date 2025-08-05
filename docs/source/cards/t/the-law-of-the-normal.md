@@ -1,4 +1,4 @@
-# The Law Of The Normal
+# The Law of the Normal
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

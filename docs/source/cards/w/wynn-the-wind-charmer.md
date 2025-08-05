@@ -1,4 +1,4 @@
-# Wynn The Wind Charmer
+# Wynn the Wind Charmer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

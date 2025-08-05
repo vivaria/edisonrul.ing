@@ -1,4 +1,4 @@
-# Emissary Of The Afterlife
+# Emissary of the Afterlife
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
