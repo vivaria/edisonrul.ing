@@ -21,7 +21,7 @@ Also see rulings for “Dark World Monsters”.
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
-#### Card Text
+### Card Text
 
 > No card text available for this card.
 
