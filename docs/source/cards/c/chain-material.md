@@ -28,8 +28,13 @@ Source: [https://edisonformat.net/card?name=Chain%20Material](https://edisonform
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-\[EFFECT\] _Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters._ \[CONDITION\] _You cannot attack during the turn this card is activated._ \[CONDITION\] _If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase._
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
 
+### Card Text
+
+> \[EFFECT\] _Any time you Fusion Summon a monster this turn, you can remove from play, from your side of the field, Deck, hand or Graveyard, Fusion Material Monsters that are listed on the Fusion Monster Card, and use them as Fusion Material Monsters._ \[CONDITION\] _You cannot attack during the turn this card is activated._ \[CONDITION\] _If you used this effect for a Fusion Summon, the Summoned Fusion Monster(s) is destroyed during the End Phase._
+
+### Card Rulings
 
 *   When you Fusion Summon after activating "Chain Material", you do not have to use its effect.
 *   You cannot use "Chain Material"'s effect when resolving "Instant Fusion" or "Future Fusion".

@@ -24,8 +24,14 @@ Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Absolute%20Zero](
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-1 "Elemental Hero", "Destiny Hero", or "Evil Hero" monster + 1 WATER monster
-_Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This card gains 500 ATK for each face-up WATER monster on the field, except "Elemental Hero Absolute Zero". ② When this card is removed from the field, destroy all monsters your opponent controls._
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> 1 "Elemental Hero", "Destiny Hero", or "Evil Hero" monster + 1 WATER monster
+> _Ⓒ This monster cannot be Special Summoned except by Fusion Summon. ① This card gains 500 ATK for each face-up WATER monster on the field, except "Elemental Hero Absolute Zero". ② When this card is removed from the field, destroy all monsters your opponent controls._
+
+### Card Rulings
 
 *   Fusion Material cannot include "Hero Kid", as it is neither a HERO monster nor a WATER monster.
 *   The Ⓒ Condition restricts how this card can be Special Summoned.

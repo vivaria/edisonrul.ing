@@ -21,6 +21,14 @@ Also see rulings for “Dark World Monsters”.
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
 Also see rulings for “Dark World Monsters”.
 
 *   The second part of this card’s effect targets 2 cards on the opponent’s side of the field. If the opponent chains a card to remove 1 of the 2 targets, the other targeted card is still destroyed.

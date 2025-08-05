@@ -26,7 +26,13 @@ Source: [https://edisonformat.net/card?name=Eccentric%20Boy](https://edisonforma
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-Ⓒ When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. ① The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effect, its effect(s) is negated, and it is removed from play when removed from the field.
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> Ⓒ When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand. ① The Synchro Monster that used this card as a Synchro Material Monster cannot activate its effect, its effect(s) is negated, and it is removed from play when removed from the field.
+
+### Card Rulings
 
 *   The Ⓒ Condition is not an effect and does not activate. It is not negated by "Skill Drain".
 *   This performs a Synchro Summon. The monster Summoned can be Special Summoned from the Graveyard / removed from play area afterwards.

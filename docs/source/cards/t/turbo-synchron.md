@@ -24,7 +24,13 @@ Source: [https://edisonformat.net/card?name=Turbo%20Synchron](https://edisonform
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-① When this card declares an attack, you can change the attack target to Defense Position. ② When you take Battle Damage while this card is attacking, you can Special Summon 1 monster from your hand with ATK equal to or less than the Battle Damage you took.
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> ① When this card declares an attack, you can change the attack target to Defense Position. ② When you take Battle Damage while this card is attacking, you can Special Summon 1 monster from your hand with ATK equal to or less than the Battle Damage you took.
+
+### Card Rulings
 
 *   The ① optional Trigger Effect activates & resolves on the field.
 *   This effect activates at the Start of the Battle Step - Attack Declaration (like "Mirror Force").

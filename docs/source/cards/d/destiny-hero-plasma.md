@@ -1,5 +1,21 @@
 # Destiny Hero - Plasma
 
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Destiny%20HERO%20-%20Plasma](https://edisonformat.net/card?name=Destiny%20HERO%20-%20Plasma)
+
+### Edison-Accurate PSCT
+
+> Ⓢ Cannot be Normal Summoned/Set.
+> Ⓢ Must be Special Summoned by tributing 3 monsters.
+> ① Negate the effects of monsters while they are face-up on your opponent's side of the field.
+> ② Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1).
+> ③ Gains ATK equal to half the original ATK of the monster equipped by this effect.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
 Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)

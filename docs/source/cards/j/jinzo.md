@@ -21,7 +21,13 @@ Source: [https://edisonformat.net/card?name=Jinzo](https://edisonformat.net/card
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-① Trap Cards cannot be activated. ② The effects of all face-up Trap Cards are negated.
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> ① Trap Cards cannot be activated. ② The effects of all face-up Trap Cards are negated.
+
+### Card Rulings
 
 *   The ① Continuous Effect applies while "Jinzo" is face-up on the field as a monster.
 *   This card's Flip / Normal Summon can be negated by "Solemn Judgment" / "Horn of Heaven".

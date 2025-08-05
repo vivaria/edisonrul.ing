@@ -16,6 +16,14 @@ Also see rulings for “Dark World Monsters”.
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
 Also see rulings for “Dark World Monsters”.
 
 *   If this card is discarded from your hand by the opponent’s card effect, you draw both cards at the same time. If you had “Solemn Wishes” on the field, you would only gain 500 Life Points.

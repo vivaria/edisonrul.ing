@@ -19,6 +19,14 @@ Also see rulings for “Dark World Monsters”.
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+#### Card Text
+
+> No card text available for this card.
+
+### Card Rulings
+
 Also see rulings for “Dark World Monsters”.
 
 *   If this card is discarded from your hand by the opponent’s card effect, and they only have 1 card in their hand, then you still can Special Summon “Sillva, Warlord of Dark World”, but the other part of the effect will not resolve because the opponent does not have 2 cards to select.

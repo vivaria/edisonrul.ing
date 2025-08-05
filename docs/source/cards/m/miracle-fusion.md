@@ -20,7 +20,13 @@ If "Imperial Iron Wall" is chained to this card, this card resolves without effe
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
-① Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on an "Elemental Hero" Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.)
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> ① Remove from play, from your side of the field or your Graveyard, Fusion Material Monsters that are listed on an "Elemental Hero" Fusion Monster Card, and Special Summon that Fusion Monster from your Fusion Deck. (This Special Summon is treated as a Fusion Summon.)
+
+### Card Rulings
 
 *   This performs a Fusion Summon, like "Polymerization". Face-down monsters you control can be used.
 *   You cannot activate this card while "Non-Fusion Area" is active.
