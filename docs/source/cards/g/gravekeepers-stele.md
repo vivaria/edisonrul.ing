@@ -21,6 +21,6 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Rulings
 
-No rulings found for this card.
+*   This effect targets 2 “Gravekeeper’s” monsters in your Graveyard. If only 1 of the targets is still in the Graveyard when this card resolves, the remaining monster is added to your hand.
 
 

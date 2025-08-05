@@ -21,6 +21,6 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Rulings
 
-No rulings found for this card.
+*   You cannot choose an effect that cannot be performed (such as choosing to destroy a Spell or Trap Card when there are none on the field).
 
 

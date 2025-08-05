@@ -21,6 +21,6 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Rulings
 
-No rulings found for this card.
+*   Revealing “Iron Core of Koa’ki Meiru” is a cost to activate the effect.
 
 

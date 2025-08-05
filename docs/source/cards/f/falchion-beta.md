@@ -1,4 +1,6 @@
-# Falchion Beta
+# Falchionβ
+
+Also known as: "Falchion Beta".
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -21,6 +23,9 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Rulings
 
-No rulings found for this card.
+*   The effect to Special Summon from the Graveyard targets.
+*   If “Falchionβ” battles a monster with the same ATK and both are destroyed, it can select and Special Summon itself from the Graveyard.
+*   The effect of “Falchionβ” is mandatory.
+    *   If you have no appropriate targets in your Graveyard or appropriate monsters in your Deck, your opponent can check your Deck to verify.
 
 

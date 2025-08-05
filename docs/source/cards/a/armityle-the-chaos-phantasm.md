@@ -22,6 +22,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 > "Uria, Lord of Searing Flames" + "Hamon, Lord of Striking Thunder" + "Raviel, Lord of Phantasms"
 Ⓒ This card can only be Special Summoned from your Extra Deck by removing from play the above cards you control. (You do not use "Polymerization".) ① This card cannot be destroyed by battle. ② This card gains 10,000 ATK during your turn only.
 
+### Card Rulings
+
 *   The Ⓒ Condition cannot be negated.
     *   This card can't be Special Summoned by "Summoner of Illusions".
     *   This card can't be Fusion Summoned.
