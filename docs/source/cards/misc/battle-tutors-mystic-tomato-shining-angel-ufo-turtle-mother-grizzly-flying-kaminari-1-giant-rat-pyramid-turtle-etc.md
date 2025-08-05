@@ -1,4 +1,4 @@
-# Battle Tutors (Mystic Tomato, Shining Angel, Ufo Turtle, Mother Grizzly, Flying Kaminari #1, Giant Rat, Pyramid Turtle, Etc)
+# Battle Tutors (Mystic Tomato, Shining Angel, UFO Turtle, Mother Grizzly, Flying Kaminari #1, Giant Rat, Pyramid Turtle, Etc)
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 

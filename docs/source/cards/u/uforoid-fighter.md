@@ -1,4 +1,4 @@
-# Uforoid Fighter
+# UFOroid Fighter
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

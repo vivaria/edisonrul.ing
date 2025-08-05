@@ -1,4 +1,4 @@
-# Ufo Turtle
+# UFO Turtle
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

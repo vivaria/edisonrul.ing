@@ -1,4 +1,4 @@
-# Uforoid
+# UFOroid
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
