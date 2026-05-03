@@ -4,3 +4,4 @@ sphinx_immaterial<0.14
 sphinx-last-updated-by-git<0.4
 selenium<4.39
 webdriver_manager<4.1
+pandas
