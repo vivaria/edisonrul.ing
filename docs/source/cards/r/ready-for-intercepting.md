@@ -1,4 +1,4 @@
-# Ready For Intercepting
+# Ready for Intercepting
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

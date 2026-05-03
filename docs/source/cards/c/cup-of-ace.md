@@ -1,4 +1,4 @@
-# Cup Of Ace
+# Cup of Ace
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

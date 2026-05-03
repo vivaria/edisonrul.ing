@@ -40,7 +40,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   "Time Machine" is activated at the end of the Damage Step, when monsters destroyed by battle are sent to the Graveyard.
-*   "Time Machine"'s effect does not target.
+*   "Time Machine's" effect does not target.
 *   If a face-down Defense Position monster is attacked and is destroyed by battle, when it is Special Summoned by "Time Machine" it is Special Summoned in face-up Defense Position.
 *   If a monster is Special Summoned onto your side of the field with "Time Machine" during your Battle Phase, it may attack again during that Battle Phase.
 *   If you activate "Time Machine" when your monster that is being controlled by your opponent is destroyed by battle and sent to the Graveyard, when "Time Machine" resolves your monster is Special Summoned onto your opponent's side of the field. If your opponent had taken control of the monster with "Brain Control", etc., it will remain under your opponent's control and will not return to your side of the field in the End Phase.

@@ -1,4 +1,4 @@
-# Horn Of Heaven
+# Horn of Heaven
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Light Of Intervention
+# Light of Intervention
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

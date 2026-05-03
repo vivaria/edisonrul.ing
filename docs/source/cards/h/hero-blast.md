@@ -26,10 +26,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   This effect targets 1 "Elemental Hero" Normal Monster (including Gemini Monsters) in your Graveyard.
-*   If the target is not returned to your hand, you do not destroy your opponent's monster.
+    - If the target is not returned to your hand, you do not destroy your opponent's monster.
 *   This effect does NOT target an opponent's monster.
-*   You can activate "Hero Blast" when you opponent doesn't have any face-up monsters.
+    - You can activate "Hero Blast" when you opponent doesn't have any face-up monsters.
 *   This effect MUST attempt to destroy an opponent's face-up monster, if its ATK is lower than the target's.
-*   "My Body as a Shield" can be activated if 1+ of your face-up monsters has less ATK than the "Elemental Hero" Normal Monster your opponent targeted with this effect.
+    - "My Body as a Shield" can be activated if 1+ of your face-up monsters has less ATK than the "Elemental Hero" Normal Monster your opponent targeted with this effect.
 
 

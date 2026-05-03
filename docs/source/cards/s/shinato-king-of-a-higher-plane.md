@@ -1,4 +1,4 @@
-# Shinato, King Of A Higher Plane
+# Shinato, King of a Higher Plane
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

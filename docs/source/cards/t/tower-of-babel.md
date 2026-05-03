@@ -1,4 +1,4 @@
-# Tower Of Babel
+# Tower of Babel
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

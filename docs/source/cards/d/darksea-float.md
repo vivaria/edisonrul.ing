@@ -27,5 +27,3 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   This effect will activate even if this card is destroyed by a card effect while face-down.
 
 
-
-

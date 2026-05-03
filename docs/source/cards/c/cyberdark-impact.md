@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Cyberdark%20Impact](https://edisonformat.net/card?name=Cyberdark%20Impact)
+Source: [https://edisonformat.net/card?name=Cyberdark%20Impact!](https://edisonformat.net/card?name=Cyberdark%20Impact!)
 
 ### Edison-Accurate PSCT
 

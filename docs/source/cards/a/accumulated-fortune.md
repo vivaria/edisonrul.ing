@@ -20,7 +20,7 @@ The third time, there are multiple cards with the same name in the Chain.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

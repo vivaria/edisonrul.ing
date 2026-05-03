@@ -19,7 +19,7 @@ Source: [https://edisonformat.net/card?name=Stygian%20Sergeants](https://edisonf
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

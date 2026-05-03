@@ -1,4 +1,4 @@
-# Elemental Hero Captain Gold
+# Elemental HERO Captain Gold
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -26,11 +26,11 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves in the hand.
-*   Discarding this card is a cost.
-*   This effect cannot activate while "Dimensional Fissure" is active.
-*   This effect can only add the card named "Skyscraper", it cannot add "Skyscraper 2".
+    - Discarding this card is a cost.
+    - This effect cannot activate while "Dimensional Fissure" is active.
+    - This effect can only add the card named "Skyscraper", it cannot add "Skyscraper 2".
 *   The ② Continuous Effect destroys this card without using the Chain.
-*   If this face-down monster is attacked, and "Skyscraper" is not active, destroy this card at the start of Substep 5 - After Damage Calculation.
-*   If "Skyscraper" leaves the field while resolving a Chain, destroy Captain Gold immediately before resolving the next effect in the Chain.
+    - If this face-down monster is attacked, and "Skyscraper" is not active, destroy this card at the start of Substep 5 - After Damage Calculation.
+    - If "Skyscraper" leaves the field while resolving a Chain, destroy Captain Gold immediately before resolving the next effect in the Chain.
 
 

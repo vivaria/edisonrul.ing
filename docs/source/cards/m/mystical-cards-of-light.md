@@ -1,4 +1,4 @@
-# Mystical Cards Of Light
+# Mystical Cards of Light
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -33,6 +33,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   Drawing 2 cards with "Mystical Cards of Light" does not start a Chain.
 *   You can choose to draw only 1 card.
 *   You cannot choose to draw 2 cards if you have 1 card remaining in your Deck.
-*   If "Mystical Cards of Light"'s effect is negated, you can activate or Set Spell and Trap Cards into the unusable Spell & Trap Card Zone. If the effect of "Mystical Cards of Light" is reapplied while a Spell or Trap Card is in the unusable Spell & Trap Card Zone, the Spell & Trap Card Zone become unusable when the Spell or Trap Card is removed from the field.
+*   If "Mystical Cards of Light's" effect is negated, you can activate or Set Spell and Trap Cards into the unusable Spell & Trap Card Zone. If the effect of "Mystical Cards of Light" is reapplied while a Spell or Trap Card is in the unusable Spell & Trap Card Zone, the Spell & Trap Card Zone become unusable when the Spell or Trap Card is removed from the field.
 
 

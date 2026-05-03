@@ -6,7 +6,7 @@ Source: [https://edisonformat.net/card?name=Core%20Transport%20Unit](https://edi
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> ① Once per turn: You can discard 1 card; add 1 "Iron Core of Koa'ki Meiru" from your Deck to your hand.
 
 ### Card Rulings
 
@@ -17,7 +17,7 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

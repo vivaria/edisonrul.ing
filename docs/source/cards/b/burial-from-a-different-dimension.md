@@ -1,4 +1,4 @@
-# Burial From A Different Dimension
+# Burial from a Different Dimension
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

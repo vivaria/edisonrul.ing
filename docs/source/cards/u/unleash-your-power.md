@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Unleash%20Your%20Power](https://edisonformat.net/card?name=Unleash%20Your%20Power)
+Source: [https://edisonformat.net/card?name=Unleash%20Your%20Power!](https://edisonformat.net/card?name=Unleash%20Your%20Power!)
 
 ### Edison-Accurate PSCT
 

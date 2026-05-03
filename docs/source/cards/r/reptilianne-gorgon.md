@@ -28,5 +28,3 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   The effect of "[Reptilianne Gorgon](https://yugioh.fandom.com/wiki/Reptilianne_Gorgon)" will apply to a monster it battles as long as the monster is face-up on the field.
 
 
-
-

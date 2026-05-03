@@ -1,4 +1,4 @@
-# Destiny Hero - Fear Monger
+# Destiny HERO - Fear Monger
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

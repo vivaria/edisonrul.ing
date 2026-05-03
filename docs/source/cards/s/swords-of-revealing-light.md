@@ -1,4 +1,4 @@
-# Swords Of Revealing Light
+# Swords of Revealing Light
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

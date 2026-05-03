@@ -1,4 +1,4 @@
-# Destiny Hero - Dread Servant
+# Destiny HERO - Dread Servant
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Destiny Hero - Dread Servant"'s second effect targets 1 Spell or Trap Card you control.
+*   "Destiny Hero - Dread Servant's" second effect targets 1 Spell or Trap Card you control.
 
 

@@ -1,4 +1,4 @@
-# Spell Of Pain
+# Spell of Pain
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

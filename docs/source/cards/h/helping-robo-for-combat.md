@@ -1,4 +1,4 @@
-# Helping Robo For Combat
+# Helping Robo for Combat
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

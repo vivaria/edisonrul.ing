@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Izanagi"'s effect is not applied if it is face-down during the End Phase.
+*   "Izanagi's" effect is not applied if it is face-down during the End Phase.
 
 

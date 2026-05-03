@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Valafar
+# Koa'ki Meiru Valafar
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

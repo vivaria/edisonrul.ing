@@ -1,4 +1,4 @@
-# Black Horn Of Heaven
+# Black Horn of Heaven
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Royal Writ Of Taxation
+# Royal Writ of Taxation
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

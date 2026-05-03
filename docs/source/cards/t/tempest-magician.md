@@ -23,7 +23,7 @@ place all 3 on 1 monster.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

@@ -31,12 +31,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① optional Trigger Effect must Special Summon at least 1 "Skyblaster Token".
-*   If you control no monsters when this effect resolves, no Tokens are Special Summoned.
+    - If you control no monsters when this effect resolves, no Tokens are Special Summoned.
 *   The ② optional Trigger Effect activates & resolves on the field.
-*   This effect only inflicts damage for your face-up "Skyblaster" monsters.
-*   "Skyblaster" monsters Summoned later in the turn also cannot attack.
-*   If this effect is activated, your "Skyblaster" monsters cannot attack this turn.
-*   If this effect is negated (by "Skill Drain"), your "Skyblaster" monsters cannot attack this turn.
-*   If the activation of this effect is negated (by "Divine Wrath"), your "Skyblaster" monsters can attack this turn.
+    - This effect only inflicts damage for your face-up "Skyblaster" monsters.
+    - "Skyblaster" monsters Summoned later in the turn also cannot attack.
+    - If this effect is activated, your "Skyblaster" monsters cannot attack this turn.
+    - If this effect is negated (by "Skill Drain"), your "Skyblaster" monsters cannot attack this turn.
+    - If the activation of this effect is negated (by "Divine Wrath"), your "Skyblaster" monsters can attack this turn.
 
 

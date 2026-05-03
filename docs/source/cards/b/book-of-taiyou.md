@@ -1,4 +1,4 @@
-# Book Of Taiyou
+# Book of Taiyou
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

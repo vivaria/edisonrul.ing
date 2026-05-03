@@ -11,7 +11,7 @@ Source: [https://edisonformat.net/card?name=Fishborg%20Blaster](https://edisonfo
 
 ### Card Rulings
 
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+The Ⓒ is not an effect, it cannot be negated (e.g. by "Skill Drain" or "Superancient Deepsea King Coeloaanth").
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

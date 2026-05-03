@@ -20,11 +20,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Text
 
-> No card text available for this card.
+> Special Summoning this monster is a Trigger Effect that that activates in the Graveyard.
 
 ### Card Rulings
-
-Special Summoning this monster is a Trigger Effect that that activates in the Graveyard.
 
 *   If you have more than one “Stardust Xiaolong” in your Graveyard when you Synchro Summon “Stardust Dragon,” you can activate the effects of each of them.
 

@@ -1,4 +1,4 @@
-# Blast With Chain
+# Blast with Chain
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -38,7 +38,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   You can activate this card during the Damage Step because it specifically modifies ATK.
 *   You cannot target Tyrant Dragon with this card and if you attempt to, then this card is negated and destroyed, and you do NOT get the effect of this card.
 *   If a monster attacks "Gearfried the Iron Knight", and you activate "Blast with Chain" during the Damage Step, "Blast With Chain" is destroyed and gets its effect, so you can destroy the attacking monster before Damage Calculation.
-*   If your opponent activates "Mystical Space Typhoon" targeting your face-down "Blast with Chain", and you chain "Blast with Chain", you still get "Blast with Chain"'s effect.
+*   If your opponent activates "Mystical Space Typhoon" targeting your face-down "Blast with Chain", and you chain "Blast with Chain", you still get "Blast with Chain's" effect.
 *   If this card is destroyed in the middle of a resolving chain, its effect will start a new chain after current one resolves.
 
 

@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Ojama%20Delta%20Hurricane](https://edisonformat.net/card?name=Ojama%20Delta%20Hurricane)
+Source: [https://edisonformat.net/card?name=Ojama%20Delta%20Hurricane!!](https://edisonformat.net/card?name=Ojama%20Delta%20Hurricane!!)
 
 ### Edison-Accurate PSCT
 

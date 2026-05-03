@@ -18,7 +18,7 @@ Source: [https://edisonformat.net/card?name=Indomitable%20Gladiator%20Beast](htt
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

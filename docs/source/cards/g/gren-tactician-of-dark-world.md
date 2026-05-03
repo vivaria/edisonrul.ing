@@ -1,4 +1,4 @@
-# Gren, Tactician Of Dark World
+# Gren, Tactician of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

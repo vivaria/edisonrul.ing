@@ -1,4 +1,4 @@
-# Destruction Of Destiny
+# Destruction of Destiny
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

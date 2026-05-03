@@ -2,17 +2,49 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Morphing%20Jar](https://edisonformat.net/card?name=Morphing%20Jar)
+Source: [https://edisonformat.net/card?name=Morphing%20Jar%20#](https://edisonformat.net/card?name=Morphing%20Jar%20#)
 
 ### Edison-Accurate PSCT
 
-> ① FLIP: Each player discards their hand, then draws 5 cards.
+> ① FLIP: Shuffle all monsters on the field into the Deck. Then, each player excavates cards from the top of their Deck, until they excavate the same number of monsters they shuffled into their Main Deck. Special Summon all excavated Level 4 or lower monsters in face-down Defense Position to their owner's field, also send the remaining cards to the GY.
 
 ### Card Rulings
 
-*   Discarding happens before drawing, which can cause cards like "Jinzo - Returner" to miss their timing.
-You can read more about Timing here:
-https://edisonformat.net/rules/compendium/missing-the-timing
+If this card is flipped face-up and destroyed by battle:
+*   This card is not shuffled into the Deck.
+*   This card does not count towards the number of cards that will be excavated.
+
+Tokens on the field:
+*   Are destroyed instead of being shuffled into the Deck.
+*   Do not count towards the number of cards that will be excavated.
+
+Trap Monsters
+*   Are shuffled into the Deck.
+*   Do not count towards the number of cards that will be excavated.
+*   Cannot be Special Summoned if they are excavated.
+
+Fusion/Synchro on the field:
+*   Are returned to the Extra Deck.
+*   Do not count towards the number of cards that will be excavated.
+
+Excavated Level 5+ monsters, or monsters that cannot be special Summoned:
+*   Are sent to the GY, not Special Summoned.
+*   Still count towards the total number of excavated cards.
+
+Vs "Light of Intervention":
+*   This effect resolves as normal, but the monsters are Summoned in face-up Defense Position, instead.
+
+Vs "G.B. Hunter":
+*   This effect will still activate (it is a mandatory effect), but nothing will be excavated.
+*   The effect of "Royal Oppression" can still be chained.
+
+Vs "Dark Simorgh":
+*   This effect will still activate.
+*   If "Dark Simorgh" was shuffled into the Deck, monsters can still be Special Summoned.
+*   If "Dark Simorgh" was not shuffled into the Deck, all excavated cards are sent to the GY.
+
+Vs "Rilvalry of Warlords"/"Gozen Match"
+*   This effect will resolve as normal, as the monsters are Summoned face-down.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

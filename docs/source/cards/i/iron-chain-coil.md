@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Iron Chain Coil"'s effect targets 1 face-up "Iron Chain" monster you control.
+*   "Iron Chain Coil's" effect targets 1 face-up "Iron Chain" monster you control.
 
 

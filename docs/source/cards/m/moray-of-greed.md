@@ -1,4 +1,4 @@
-# Moray Of Greed
+# Moray of Greed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

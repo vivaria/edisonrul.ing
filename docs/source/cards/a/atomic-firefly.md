@@ -27,8 +27,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Trigger Effect is mandatory, it activates & resolves in the Graveyard / banished.
-*   The card text is very correct on the card mechanics; "Atomic Firefly" has to be face-up BEFORE the attack is declared.
-*   This effect activates in Substep 7 - End of the Damage Step.
-*   You can use "Barrel Behind the Door" against "Atomic Firefly"'s effect.
+    - The card text is very correct on the card mechanics; "Atomic Firefly" has to be face-up BEFORE the attack is declared.
+    - This effect activates in Substep 7 - End of the Damage Step.
+    - You can use "Barrel Behind the Door" against "Atomic Firefly"'s effect.
 
 

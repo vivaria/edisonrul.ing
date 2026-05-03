@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   If an effect is chained that removes 1 or more of the "Batteryman" monsters from your side of the field, "Short Circuit"'s effect still resolves.
+*   If an effect is chained that removes 1 or more of the "Batteryman" monsters from your side of the field, "Short Circuit's" effect still resolves.
 
 

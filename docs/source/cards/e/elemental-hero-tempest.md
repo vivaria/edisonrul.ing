@@ -1,4 +1,4 @@
-# Elemental Hero Tempest
+# Elemental HERO Tempest
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

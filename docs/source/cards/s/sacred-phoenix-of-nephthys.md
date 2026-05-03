@@ -1,4 +1,4 @@
-# Sacred Phoenix Of Nephthys
+# Sacred Phoenix of Nephthys
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

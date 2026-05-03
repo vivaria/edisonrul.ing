@@ -1,4 +1,4 @@
-# Djinn Presider Of Rituals
+# Djinn Presider of Rituals
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

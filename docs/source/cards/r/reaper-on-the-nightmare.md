@@ -27,7 +27,7 @@ This effect resolves (and the random card is chosen) after the Gorz/Tragoedia is
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

@@ -1,4 +1,4 @@
-# Summoner Of Illusions
+# Summoner of Illusions
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

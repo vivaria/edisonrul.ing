@@ -1,4 +1,4 @@
-# Ninjitsu Art Of Decoy
+# Ninjitsu Art of Decoy
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

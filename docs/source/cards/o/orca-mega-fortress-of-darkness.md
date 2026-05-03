@@ -1,4 +1,4 @@
-# Orca Mega-Fortress Of Darkness
+# Orca Mega-Fortress of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

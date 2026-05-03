@@ -1,4 +1,4 @@
-# Dna Checkup
+# DNA Checkup
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

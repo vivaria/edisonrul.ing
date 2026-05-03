@@ -1,4 +1,4 @@
-# Ribbon Of Rebirth
+# Ribbon of Rebirth
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

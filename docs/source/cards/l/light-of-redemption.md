@@ -1,4 +1,4 @@
-# Light Of Redemption
+# Light of Redemption
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

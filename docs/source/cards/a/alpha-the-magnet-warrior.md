@@ -1,4 +1,4 @@
-# Alpha the Magnet Warrior
+# Alpha The Magnet Warrior
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -17,7 +17,7 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

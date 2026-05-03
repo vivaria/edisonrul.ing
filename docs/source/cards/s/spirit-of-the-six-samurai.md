@@ -28,6 +28,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   The effect of “Spirit of the Six Samurai” that activates when the equipped “Six Samurai” monster destroys a monster in battle begins a Chain at the time when the destroyed monster is sent to the Graveyard.
 *   If a “Six Samurai” monster is equipped with “Legendary Ebon Steed” and “Spirit of the Six Samurai”, when the equipped “Six Samurai” monster would be destroyed both the “Legendary Ebon Steed” and “Spirit of the Six Samurai” are destroyed instead.
-*   If both "Spirit of the Six Samurai" and the equipped "Six Samurai" monster are destroyed by the same effect, the "Spirit of the Six Samurai"'s effect is not applied.
+*   If both "Spirit of the Six Samurai" and the equipped "Six Samurai" monster are destroyed by the same effect, the "Spirit of the Six Samurai's" effect is not applied.
 
 

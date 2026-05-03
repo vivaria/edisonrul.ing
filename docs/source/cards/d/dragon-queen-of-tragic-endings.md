@@ -1,4 +1,4 @@
-# Dragon Queen Of Tragic Endings
+# Dragon Queen of Tragic Endings
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -30,16 +30,16 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The Ⓢ Special Summon procedure is the only way to properly Summoned this card.
-*   This card can only be Special Summoned by Ⓢ from your hand.
-*   This card can be Special Summoned by “Call of the Haunted” after being properly Summoned.
+    - This card can only be Special Summoned by Ⓢ from your hand.
+    - This card can be Special Summoned by “Call of the Haunted” after being properly Summoned.
 *   The ① mandatory Trigger Effect activates in Substep 5 - After Damage Calculation.
-*   If your opponent has no cards in their hand to send to the Graveyard, you cannot draw a card.
-*   If your opponent sends a card to the Graveyard but you have no cards to draw, you lose the Duel.
-*   This effect resolves sequentially: your opponent sends a card to the Graveyard, then you draw one.
+    - If your opponent has no cards in their hand to send to the Graveyard, you cannot draw a card.
+    - If your opponent sends a card to the Graveyard but you have no cards to draw, you lose the Duel.
+    - This effect resolves sequentially: your opponent sends a card to the Graveyard, then you draw one.
 *   The ② optional Trigger Effect activates in the Graveyard.
-*   Sending a Continuous Spell Card to the Graveyard is a cost.
-*   This effect does not target "Dragon Queen of Tragic Endings". It is not negated by "Necrovalley".
-*   You don’t have to Special Summon this card the turn after it is sent from the field to the Graveyard. You can wait several turns and then Special Summon it during a later Standby Phase.
-*   This effect cannot activate if this card was removed from the Graveyard after being sent there.
+    - Sending a Continuous Spell Card to the Graveyard is a cost.
+    - This effect does not target "Dragon Queen of Tragic Endings". It is not negated by "Necrovalley".
+    - You don’t have to Special Summon this card the turn after it is sent from the field to the Graveyard. You can wait several turns and then Special Summon it during a later Standby Phase.
+    - This effect cannot activate if this card was removed from the Graveyard after being sent there.
 
 

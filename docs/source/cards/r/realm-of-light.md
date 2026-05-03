@@ -1,4 +1,4 @@
-# Realm Of Light
+# Realm of Light
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

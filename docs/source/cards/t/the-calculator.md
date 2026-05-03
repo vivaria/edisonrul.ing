@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   The ATK determined by "The Calculator"'s effect is not treated as its original ATK.
+*   The ATK determined by "The Calculator's" effect is not treated as its original ATK.
 
 

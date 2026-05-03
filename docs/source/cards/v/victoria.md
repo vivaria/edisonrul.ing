@@ -28,9 +28,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
-*   This effect targets 1 Dragon-Type monster in your opponent’s Graveyard.
-*   This effect is negated by "Necrovalley".
+    - This effect targets 1 Dragon-Type monster in your opponent’s Graveyard.
+    - This effect is negated by "Necrovalley".
 *   The ② Continuous Effect applies while this card is face-up on the field.
-*   If you control two copies of "Victoria", your opponent cannot attack your Fairy-Type monsters.
+    - If you control two copies of "Victoria", your opponent cannot attack your Fairy-Type monsters.
 
 

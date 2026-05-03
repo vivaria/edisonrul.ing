@@ -1,4 +1,4 @@
-# Labyrinth Of Nightmare
+# Labyrinth of Nightmare
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

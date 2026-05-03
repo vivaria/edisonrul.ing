@@ -1,4 +1,4 @@
-# Multiplication Of Ants
+# Multiplication of Ants
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

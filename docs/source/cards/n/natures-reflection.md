@@ -1,4 +1,4 @@
-# Nature’S Reflection
+# Nature's Reflection
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

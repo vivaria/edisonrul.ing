@@ -1,4 +1,4 @@
-# Ballista Of Rampart Smashing
+# Ballista of Rampart Smashing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

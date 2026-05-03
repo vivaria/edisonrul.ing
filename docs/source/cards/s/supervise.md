@@ -31,13 +31,13 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The Ⓒ Condition cannot be negated.
-*   This card can be equipped to a Gemini Monster which has gained its effects.
+    - This card can be equipped to a Gemini Monster which has gained its effects.
 *   The ① Continuous-like Effect does not activate.
-*   If "Spell Canceller" negates this effect, the equipped Gemini Monster can be 'Gemini Summoned'.
+    - If "Spell Canceller" negates this effect, the equipped Gemini Monster can be 'Gemini Summoned'.
 *   The ② mandatory Trigger-like Effect activates & resolves in the Graveyard.
-*   This effect can activate in the Damage Step.
-*   This effect targets 1 Normal / Gemini Monster in the Graveyard. You cannot target a non-Effect Fusion / Synchro Monster.
-*   This effect will still activates "Dust Tornado" destroys "Supervise" before it becomes equipped.
-*   If this card and the equipped Gemini Monster are destroyed together, you can Special Summon it.
+    - This effect can activate in the Damage Step.
+    - This effect targets 1 Normal / Gemini Monster in the Graveyard. You cannot target a non-Effect Fusion / Synchro Monster.
+    - This effect will still activates "Dust Tornado" destroys "Supervise" before it becomes equipped.
+    - If this card and the equipped Gemini Monster are destroyed together, you can Special Summon it.
 
 

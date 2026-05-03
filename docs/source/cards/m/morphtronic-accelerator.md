@@ -35,6 +35,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   Destroying the target and drawing 1 card are considered to happen at the same time.
 *   If you do not have any cards remaining in your Deck, you cannot activate "Morphtronic Accelerator".
 *   If you cannot destroy the targeted card, you must still return 1 "Morphtronic" card from your hand to the Deck, but you do not draw 1 card.
-*   If you do not have a “Morphtronic” monster in your hand when "Morphtronic Accelerator" resolves, "Morphtronic Accelerator"'s effect disappears.
+*   If you do not have a “Morphtronic” monster in your hand when "Morphtronic Accelerator" resolves, "Morphtronic Accelerator's" effect disappears.
 
 

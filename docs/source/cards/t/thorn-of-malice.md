@@ -1,4 +1,4 @@
-# Thorn Of Malice
+# Thorn of Malice
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

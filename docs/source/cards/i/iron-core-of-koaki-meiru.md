@@ -1,4 +1,4 @@
-# Iron Core Of Koa’Ki Meiru
+# Iron Core of Koa'ki Meiru
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

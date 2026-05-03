@@ -1,4 +1,4 @@
-# Sage Of Stillness
+# Sage of Stillness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

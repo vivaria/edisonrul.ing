@@ -1,4 +1,4 @@
-# Goblin Of Greed
+# Goblin of Greed
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

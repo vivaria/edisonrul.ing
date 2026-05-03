@@ -1,4 +1,4 @@
-# Destiny Hero - Dogma
+# Destiny HERO - Dogma
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

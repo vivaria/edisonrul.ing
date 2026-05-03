@@ -13,9 +13,18 @@ Source: [https://edisonformat.net/card?name=Blackwing%20-%20Vayu%20the%20Emblem%
 ### Card Rulings
 
 *   This card’s ① effect is an effect, so it can be negated by effects (for example, by Shura).
+
 *   If “Royal Oppression” is chained to this card’s ② effect, this card is not banished, since the effect to banish both monsters is negated. This effect can then activate again that same turn.
+
 *   The monsters summoned this way are not Synchro Summoned monsters.
 This means that they can't be summoned by card effects if later sent to the GY/Banished (Goyo Guardian can't Summon a monster summoned this way).
+
+*   If this effect cannot fully resolve because you cannot Special Summon the Synchro Monster, Vayu and the target are still banished and the Synchro remains in the Extra Deck.
+E.G:
+- If a monster such as "Fossil Dyna Pachycephalo" is summoned in chain
+- If no appropriate Synchro monster exists in your Extra Deck on resolution
+- If "Rivalry of Walords" or "Gozen Match" is chained to this effect
+etc
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
@@ -30,10 +39,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   The ① Continuous Effect CAN be negated (by "Skill Drain" or if Vayu is Special Summoned by Shura).
 *   The ② Ignition Effect targets a "Blackwing" Monster in your Graveyard.
-*   Vayu + 1 non-Tuner "Blackwing" monster are removed from play when this effect resolves. This is not a cost.
-*   Both monsters must be removed from play by Vayu’s effect to perform the Special Summon.
-*   Example: Player A activates Vayu's effect targeting Sirocco in their Graveyard. Player B chains "D.D. Crow" and targets that same Sirocco. When the chain resolves, Vayu could not remove both itself and its target from play in the Graveyard. Thus, Player A's Vayu is not remove from play, and no "Blackwing" Synchro monster is Special Summoned.
-*   This effect does not perform a Synchro Summon. It can be activated while "Discord" is active.
-*   Since the monster was not properly Synchro Summoned, it cannot be Special Summoned from the Graveyard / removed from play (ex: "Call of the Haunted", "Return from the Different Dimension").
+    - Vayu + 1 non-Tuner "Blackwing" monster are removed from play when this effect resolves. This is not a cost.
+    - Both monsters must be removed from play by Vayu’s effect to perform the Special Summon.
+        * Example: Player A activates Vayu's effect targeting Sirocco in their Graveyard. Player B chains "D.D. Crow" and targets that same Sirocco. When the chain resolves, Vayu could not remove both itself and its target from play in the Graveyard. Thus, Player A's Vayu is not remove from play, and no "Blackwing" Synchro monster is Special Summoned.
+    - This effect does not perform a Synchro Summon. It can be activated while "Discord" is active.
+    - Since the monster was not properly Synchro Summoned, it cannot be Special Summoned from the Graveyard / removed from play (ex: "Call of the Haunted", "Return from the Different Dimension").
 
 

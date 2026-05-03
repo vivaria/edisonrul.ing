@@ -1,4 +1,4 @@
-# Swing Of Memories
+# Swing of Memories
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

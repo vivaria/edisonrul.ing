@@ -12,7 +12,7 @@ Source: [https://edisonformat.net/card?name=Junk%20Archer](https://edisonformat.
 
 ### Card Rulings
 
-*   The target returns in the same Battle Position. If it is face-down, it is banished face-down, and returns face-down.
+*   The target returns in the same Battle Position. If it is face-down, it is banished face-down,   and returns face-down.
 *   If your opponent controls 5 monsters when the monster would return, it is instead sent to GY.
 
 
@@ -27,9 +27,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect targets 1 (face-up / face-down) monster your opponent controls.
-*   If the target is face-down, it is banished face-down, and returns to the field face-down.
-*   The target returns, even if "Junk Archer" is flipped face-down / leaves the field.
-*   The target returns without starting a Chain. This is not treated as a Special Summon.
-*   If the target was a Token, it does not return to the field.
+    - If the target is face-down, it is banished face-down, and returns to the field face-down.
+    - The target returns, even if "Junk Archer" is flipped face-down / leaves the field.
+    - The target returns without starting a Chain. This is not treated as a Special Summon.
+    - If the target was a Token, it does not return to the field.
 
 

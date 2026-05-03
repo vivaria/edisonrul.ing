@@ -1,4 +1,4 @@
-# Veil Of Darkness
+# Veil of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

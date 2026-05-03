@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Sasuke%20Samurai%203](https://edisonformat.net/card?name=Sasuke%20Samurai%203)
+Source: [https://edisonformat.net/card?name=Sasuke%20Samurai%20#3](https://edisonformat.net/card?name=Sasuke%20Samurai%20#3)
 
 ### Edison-Accurate PSCT
 
@@ -17,7 +17,7 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

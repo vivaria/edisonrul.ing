@@ -18,7 +18,7 @@ These rulings apply to all Gemini Monsters: https://edisonformat.net/rules/compe
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

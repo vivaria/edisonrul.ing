@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Blockman"'s effect only counts the number of your turns. The turn you Summon "Blockman" is the first turn.
+*   "Blockman's" effect only counts the number of your turns. The turn you Summon "Blockman" is the first turn.
 
 

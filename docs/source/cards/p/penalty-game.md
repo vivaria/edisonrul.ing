@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Penalty%20Game](https://edisonformat.net/card?name=Penalty%20Game)
+Source: [https://edisonformat.net/card?name=Penalty%20Game!](https://edisonformat.net/card?name=Penalty%20Game!)
 
 ### Edison-Accurate PSCT
 

@@ -1,4 +1,4 @@
-# Nex
+# NEX
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

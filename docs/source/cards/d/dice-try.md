@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Dice%20Try](https://edisonformat.net/card?name=Dice%20Try)
+Source: [https://edisonformat.net/card?name=Dice%20Try!](https://edisonformat.net/card?name=Dice%20Try!)
 
 ### Edison-Accurate PSCT
 

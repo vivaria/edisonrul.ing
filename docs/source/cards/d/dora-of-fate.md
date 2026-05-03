@@ -1,4 +1,4 @@
-# Dora Of Fate
+# Dora of Fate
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

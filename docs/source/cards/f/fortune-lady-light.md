@@ -28,11 +28,11 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
-*   This card has "? ATK" while in the Graveyard.
+    - This card has "? ATK" while in the Graveyard.
 *   The ② mandatory Trigger Effect activates & resolves on the field.
-*   If this card’s Level is 12, the effect to increase its Level will not activate during the Standby Phase.
+    - If this card’s Level is 12, the effect to increase its Level will not activate during the Standby Phase.
 *   The ③ optional Trigger Effect activates & resolves wherever this card was moved to.
-*   This effect can be activated if this card is returned to a private knowledge location (hand / Deck).
-*   If “Fortune Lady Light” is returned from the field to your hand, you can activate its effect. (If it was face-down you must show it to your opponent.)
+    - This effect can be activated if this card is returned to a private knowledge location (hand / Deck).
+    - If “Fortune Lady Light” is returned from the field to your hand, you can activate its effect. (If it was face-down you must show it to your opponent.)
 
 

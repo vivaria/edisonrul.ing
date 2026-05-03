@@ -1,4 +1,4 @@
-# Spring Of Rebirth
+# Spring of Rebirth
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

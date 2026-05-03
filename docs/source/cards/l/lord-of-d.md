@@ -1,8 +1,8 @@
-# Lord Of D.
+# Lord of D.
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Lord%20of%20D](https://edisonformat.net/card?name=Lord%20of%20D)
+Source: [https://edisonformat.net/card?name=Lord%20of%20D.](https://edisonformat.net/card?name=Lord%20of%20D.)
 
 ### Edison-Accurate PSCT
 

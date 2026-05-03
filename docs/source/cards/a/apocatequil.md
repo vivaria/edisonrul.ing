@@ -28,9 +28,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continuous Effect applies while this card is face-up on the field.
-*   If “Level Eater” reduced this card's Level to 4: it becomes Level 3 when the Tuner is flipped face-down / leaves the field; it becomes Level 5 if another Tuner is Summoned face-up.
+    - If “Level Eater” reduced this card's Level to 4: it becomes Level 3 when the Tuner is flipped face-down / leaves the field; it becomes Level 5 if another Tuner is Summoned face-up.
 *   The ② Trigger Effect is optional. It activates & resolves in the Graveyard.
-*   This effect targets 1 “Oracle of the Sun” in your Graveyard.
-*   This effect can activate in the Damage Step.
+    - This effect targets 1 “Oracle of the Sun” in your Graveyard.
+    - This effect can activate in the Damage Step.
 
 

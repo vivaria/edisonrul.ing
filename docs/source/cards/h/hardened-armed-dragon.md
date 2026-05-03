@@ -29,10 +29,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The (U1) Unclassified effect is a built-in Special Summon. This does not start a Chain.
-*   This can only be used to Summon this card from the hand.
-*   Sending 1 Level 8+ monster from your hand to the Graveyard is a cost.
+    - This can only be used to Summon this card from the hand.
+    - Sending 1 Level 8+ monster from your hand to the Graveyard is a cost.
 *   The (U2) Unclassified effect does not activate. It applies to the Tribute Summoned Level 7+ monster.
-*   This effect applies even if "Skill Drain" negates the effects of the Tribute Summoned monster.
-*   If this card is Tributed to Summon "[Earthbound Immortal Aslla piscu](https://yugipedia.com/wiki/Earthbound_Immortal_Aslla_piscu)" while there is not face-up Field Spell Card on the field, "[Earthbound Immortal Aslla piscu](https://yugipedia.com/wiki/Earthbound_Immortal_Aslla_piscu)" will not be destroyed by its own effect.
+    - This effect applies even if "Skill Drain" negates the effects of the Tribute Summoned monster.
+    - If this card is Tributed to Summon "[Earthbound Immortal Aslla piscu](https://yugipedia.com/wiki/Earthbound_Immortal_Aslla_piscu)" while there is not face-up Field Spell Card on the field, "[Earthbound Immortal Aslla piscu](https://yugipedia.com/wiki/Earthbound_Immortal_Aslla_piscu)" will not be destroyed by its own effect.
 
 

@@ -1,4 +1,4 @@
-# Destiny Hero - Dreadmaster
+# Destiny HERO - Dreadmaster
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

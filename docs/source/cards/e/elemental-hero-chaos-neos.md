@@ -1,4 +1,4 @@
-# Elemental Hero Chaos Neos
+# Elemental HERO Chaos Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

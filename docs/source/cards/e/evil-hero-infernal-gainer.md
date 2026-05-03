@@ -1,4 +1,4 @@
-# Evil Hero Infernal Gainer
+# Evil HERO Infernal Gainer
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

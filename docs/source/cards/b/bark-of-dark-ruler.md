@@ -1,4 +1,4 @@
-# Bark Of Dark Ruler
+# Bark of Dark Ruler
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

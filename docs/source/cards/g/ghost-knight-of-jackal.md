@@ -1,4 +1,4 @@
-# Ghost Knight Of Jackal
+# Ghost Knight of Jackal
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

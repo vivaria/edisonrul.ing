@@ -29,10 +29,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   This ① Ignition Effect activates & resolves in the Graveyard.
-*   This effect targets a Level 5+ monster you control.
-*   If the target's Level cannot be reduced, "Level Eater" remains in the Graveyard.
-*   If the target’s Level is <5 when this effect resolves, reduce it’s Level and Summon "Level Eater".
-*   If "Level Eater" leaves the Graveyard before this effect resolves, you still reduce the target’s Level.
-*   That monster's Level is reduced so long as it remains face-up on the field.
+    - This effect targets a Level 5+ monster you control.
+    - If the target's Level cannot be reduced, "Level Eater" remains in the Graveyard.
+    - If the target’s Level is <5 when this effect resolves, reduce it’s Level and Summon "Level Eater".
+    - If "Level Eater" leaves the Graveyard before this effect resolves, you still reduce the target’s Level.
+    - That monster's Level is reduced so long as it remains face-up on the field.
 
 

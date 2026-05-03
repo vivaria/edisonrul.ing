@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=A%20Rival%20Appears](https://edisonformat.net/card?name=A%20Rival%20Appears)
+Source: [https://edisonformat.net/card?name=A%20Rival%20Appears!](https://edisonformat.net/card?name=A%20Rival%20Appears!)
 
 ### Edison-Accurate PSCT
 

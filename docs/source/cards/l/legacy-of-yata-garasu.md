@@ -1,4 +1,4 @@
-# Legacy Of Yata-Garasu
+# Legacy of Yata-Garasu
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

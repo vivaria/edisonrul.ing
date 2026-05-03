@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Sasuke%20Samurai%204](https://edisonformat.net/card?name=Sasuke%20Samurai%204)
+Source: [https://edisonformat.net/card?name=Sasuke%20Samurai%20#4](https://edisonformat.net/card?name=Sasuke%20Samurai%20#4)
 
 ### Edison-Accurate PSCT
 

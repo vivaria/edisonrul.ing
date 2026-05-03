@@ -24,7 +24,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   "Trap Hole" can only be activated during the Summon response window after a Normal or Flip Summon.
-*   "Trap Hole"targets the monster that was Summoned.
+*   "Trap Hole" targets the monster that was Summoned.
 *   The monster summoned must remain face-up on the field in order for "Trap Hole" to destroy that monster.
 
 

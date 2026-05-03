@@ -1,4 +1,4 @@
-# Elemental Hero Thunder Giant
+# Elemental HERO Thunder Giant
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

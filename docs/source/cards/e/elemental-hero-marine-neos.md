@@ -1,4 +1,4 @@
-# Elemental Hero Marine Neos
+# Elemental HERO Marine Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

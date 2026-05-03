@@ -1,4 +1,4 @@
-# Talisman Of Spell Sealing
+# Talisman of Spell Sealing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

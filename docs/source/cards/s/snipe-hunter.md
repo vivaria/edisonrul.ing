@@ -24,8 +24,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   This ① Ignition Effect activates & resolves on the field.
-*   This effect targets a (face-up / face-down) card anywhere on the field.
-*   Discarding 1 card is a cost.
+    - This effect targets a (face-up / face-down) card anywhere on the field.
+    - Discarding 1 card is a cost.
 *   It is unknown whether a card will be destroyed, therefore cards whose activation requirement specify 'when your opponent activates a card or effect that would destroy a card(s) on the field' cannot be activated in response to this effect (such as "Stardust Dragon", "Destruction Jammer", and "My Body as a Shield").
 
 

@@ -1,4 +1,4 @@
-# Toon Table Of Contents
+# Toon Table of Contents
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

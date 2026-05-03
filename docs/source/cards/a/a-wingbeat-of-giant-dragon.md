@@ -1,4 +1,4 @@
-# A Wingbeat Of Giant Dragon
+# A Wingbeat of Giant Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -24,7 +24,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   "A Wingbeat of Giant Dragon" targets 1 Level 5 or higher Dragon-Type monster.
-*   If you target a Level 5 or higher Dragon-Type Fusion / Synchro Monster, it is returned to the Extra Deck.
-*   If the target is flipped face-down / leaves the field / has its Monster Type changed, "A Wingbeat of Giant Dragon"'s effect disappears.
+*   If you target a Level 5 or higher Dragon-Type Fusion / Synchro  Monster, it is returned to the Extra Deck.
+*   If the target is flipped face-down / leaves the field / has its Monster Type changed, "A Wingbeat of Giant Dragon's" effect disappears.
 
 

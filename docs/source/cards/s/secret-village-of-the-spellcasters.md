@@ -31,12 +31,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continuous-like Effect does not activate.
-*   This effect applies if you have a face-up Spellcaster-Type monster and your opponent does not.
-*   Your opponent can still Set Spell Cards face-down, but they cannot be activated (played face-up).
-*   Your opponent can stil activate the effects of Spell Cards (ex: "Magical Blast", "Call of the Mummy").
+    - This effect applies if you have a face-up Spellcaster-Type monster and your opponent does not.
+    - Your opponent can still Set Spell Cards face-down, but they cannot be activated (played face-up).
+    - Your opponent can stil activate the effects of Spell Cards (ex: "Magical Blast", "Call of the Mummy").
 *   The ② Continuous-like Effect does not activate.
-*   This effect applies if you do not control a face-up Spellcaster-Type monster.
-*   You can still Set Spell Cards face-down, but they cannot be activated (played face-up).
-*   You can still activate the effects of Spell Cards (ex: "Magical Blast", "Call of the Mummy").
+    - This effect applies if you do not control a face-up Spellcaster-Type monster.
+    - You can still Set Spell Cards face-down, but they cannot be activated (played face-up).
+    - You can still activate the effects of Spell Cards (ex: "Magical Blast", "Call of the Mummy").
 
 

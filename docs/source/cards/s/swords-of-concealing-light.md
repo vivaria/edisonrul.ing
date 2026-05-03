@@ -1,4 +1,4 @@
-# Swords Of Concealing Light
+# Swords of Concealing Light
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

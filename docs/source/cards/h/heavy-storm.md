@@ -10,6 +10,7 @@ Source: [https://edisonformat.net/card?name=Heavy%20Storm](https://edisonformat.
 
 ### Card Rulings
 
+If there are no other Spells/Traps on the field, you cannot activate this card.
 *   This card does not destroy itself (it's still sent to the GY when the chain resolves).
 
 
@@ -17,7 +18,7 @@ Source: [https://edisonformat.net/card?name=Heavy%20Storm](https://edisonformat.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

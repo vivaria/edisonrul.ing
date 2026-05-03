@@ -27,12 +27,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continuous Effect does not start a Chain.
-*   This effect applies while this card is face-up on the field.
+    - This effect applies while this card is face-up on the field.
 *   The ② Continuous Effect does not start a Chain.
-*   This effect applies while this card is face-up on the field.
+    - This effect applies while this card is face-up on the field.
 *   The ③ Trigger Effect is optional. It activates & resolves in the Graveyard.
-*   Paying 1000 Life Points is a cost to activate the effect.
-*   This effect activates in Substep 7 - End of the Damage Step.
-*   This effect does not target, it will not be negated by "Necrovalley".
+    - Paying 1000 Life Points is a cost to activate the effect.
+    - This effect activates in Substep 7 - End of the Damage Step.
+    - This effect does not target, it will not be negated by "Necrovalley".
 
 

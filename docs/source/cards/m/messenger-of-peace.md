@@ -1,4 +1,4 @@
-# Messenger Of Peace
+# Messenger of Peace
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

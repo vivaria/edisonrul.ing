@@ -1,4 +1,4 @@
-# Twin Swords Of Flashing Light - Tryce
+# Twin Swords of Flashing Light - Tryce
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

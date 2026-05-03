@@ -24,9 +24,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect can only activate it during your Main Phase.
-*   This card removes itself from play as a cost.
-*   This effect targets 1 Zombie-Type monster in your Graveyard.
-*   If the target is no longer a Zombie-Type monster, it is not Special Summoned.
+    - This card removes itself from play as a cost.
+    - This effect targets 1 Zombie-Type monster in your Graveyard.
+    - If the target is no longer a Zombie-Type monster, it is not Special Summoned.
 *   If "Ancient Gear Beast" destroys this card by battle, you can activate this effect but it resolves negated.
 
 

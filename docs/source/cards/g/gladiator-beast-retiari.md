@@ -6,7 +6,7 @@ Source: [https://edisonformat.net/card?name=Gladiator%20Beast%20Retiari](https:/
 
 ### Edison-Accurate PSCT
 
-> ① If this card is Special Summoned by the effect of a "Gladiator Beast" monster:
+> ① When this card is Special Summoned by the effect of a "Gladiator Beast" monster:
 > You can target 1 card in your opponent's GY; banish it.
 > ② At the end of the Battle Phase, if this battled:
 > You can shuffle it into the Deck; Special Summon 1 "Gladiator Beast" monster from your Deck (except “Gladiator Beast Retiari”).
@@ -31,7 +31,7 @@ If you do, you can Summon any Gladiator Beast of any Attribute.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

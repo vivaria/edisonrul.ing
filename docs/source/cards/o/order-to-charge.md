@@ -6,7 +6,7 @@ Source: [https://edisonformat.net/card?name=Order%20to%20Charge](https://edisonf
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> Target 1 non-Token Normal Monster you control; Tribute that Normal Monster, and if you do, destroy 1 monster your opponent controls.
 
 ### Card Rulings
 
@@ -17,7 +17,7 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

@@ -1,4 +1,4 @@
-# Fortune’S Future
+# Fortune's Future
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

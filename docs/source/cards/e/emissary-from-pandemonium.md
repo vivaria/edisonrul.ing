@@ -1,4 +1,4 @@
-# Emissary From Pandemonium
+# Emissary from Pandemonium
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

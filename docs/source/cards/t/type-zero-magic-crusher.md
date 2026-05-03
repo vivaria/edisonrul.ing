@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   Discarding 1 Spell Card is a cost to activate "Type Zero Magic Crusher"'s Ignition-like effect.
+*   Discarding 1 Spell Card is a cost to activate "Type Zero Magic Crusher's" Ignition-like effect.
 
 

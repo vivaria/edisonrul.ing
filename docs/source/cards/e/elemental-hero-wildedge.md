@@ -1,4 +1,4 @@
-# Elemental Hero Wildedge
+# Elemental HERO Wildedge
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

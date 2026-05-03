@@ -27,14 +27,14 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect can be activated during your Main Phase 1 or 2.
-*   Returning this card to the hand is not a cost.
-*   If "Honest" is flipped face-down, it is not returned to the hand.
+    - Returning this card to the hand is not a cost.
+    - If "Honest" is flipped face-down, it is not returned to the hand.
 *   The ② Quick Effect does not target your LIGHT monster.
-*   Sending "Honest" to the Graveyard is a cost.
-*   The ATK gain occurs once, even if that monster (ex: "Asura Priest") battles other monsters after.
-*   This effect can activate in Substep 1 - Start of the Damage Step, Substep 3 - Before Damage Calculation, or Substep 4 - Damage Calculation.
-*   This effect activates & resolves in the hand. It cannot be negated by "Light-Imprisoning Mirror".
-*   This effect cannot be activated while "Dimensional Fissure" is active.
+    - Sending "Honest" to the Graveyard is a cost.
+    - The ATK gain occurs once, even if that monster (ex: "Asura Priest") battles other monsters after.
+    - This effect can activate in Substep 1 - Start of the Damage Step,  Substep 3 - Before Damage Calculation, or Substep 4 - Damage Calculation.
+    - This effect activates & resolves in the hand. It cannot be negated by "Light-Imprisoning Mirror".
+    - This effect cannot be activated while "Dimensional Fissure" is active.
 *   VS. "Shrink: If a monster whose ATK has been modified by "Honest" becomes targeted by "Shrink", the monster’s ATK becomes half its original ATK, and then the ATK increase from "Honest" is re-applied.
 
 

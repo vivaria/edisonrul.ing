@@ -1,4 +1,4 @@
-# Djinn Prognosticator Of Rituals
+# Djinn Prognosticator of Rituals
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

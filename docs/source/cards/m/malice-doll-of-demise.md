@@ -1,4 +1,4 @@
-# Malice Doll Of Demise
+# Malice Doll of Demise
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

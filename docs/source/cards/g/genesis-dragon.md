@@ -10,7 +10,15 @@ Source: [https://edisonformat.net/card?name=Genesis%20Dragon](https://edisonform
 
 ### Card Rulings
 
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+*   The Ignition Effect targets a Dragon-Type monster in the GY.
+*   Discarding 1 Dragon-Type monster is a cost. You can target the discarded Dragon.
+*   You can't activate this effect if you have no Dragon-Type monsters in your GY.
+*   This effect will be negated by Necrovalley.
+*   The optional When... you can... Trigger Effect can miss the timing.
+*   This effect does not target any cards in the GY. It is not negated by Necrovalley.
+*   If activated, return all available Dragon-Type monsters (including Genesis Dragon) to the Deck.
+*   This effect can activate even if Genesis Dragon is sent to the GY from the hand / Deck, or while treated as an Equip Spell by Relinquished.
+
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
@@ -23,10 +31,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect targets a Dragon-Type monster in the Graveyard.
-    *   Discarding 1 Dragon-Type monster is a cost. You can target the discarded Dragon.
-    *   You CANNOT activate this effect if you have no Dragon-Type monsters in your Graveyard.
-    *   This effect will be negated by "Necrovalley".
-*   The ② optional "_When... you can..._" Trigger Effect can miss the timing.
-    *   This effect does not target any cards in the Graveyard. It is not negated by "Necrovalley".
-    *   If activated, return all available Dragon-Type monsters (including "Genesis Dragon") to the Deck.
-    *   This effect can activate even if "Genesis Dragon" is sent to the Graveyard from the hand / Deck, or while treated as an Equip Spell by "Relinquished".
+    - Discarding 1 Dragon-Type monster is a cost. You can target the discarded Dragon.
+    - You CANNOT activate this effect if you have no Dragon-Type monsters in your Graveyard.
+    - This effect will be negated by "Necrovalley".
+*   The ② optional "*When... you can...*" Trigger Effect can miss the timing.
+    - This effect does not target any cards in the Graveyard. It is not negated by "Necrovalley".
+    - If activated, return all available Dragon-Type monsters (including "Genesis Dragon") to the Deck.
+    - This effect can activate even if "Genesis Dragon" is sent to the Graveyard from the hand / Deck, or while treated as an Equip Spell by "Relinquished".
+
+

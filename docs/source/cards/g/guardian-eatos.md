@@ -30,9 +30,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   The Ⓤ Unclassified effect works like a built-in Special Summon. This does not start a Chain.
 *   The ① Ignition Effect sends an Equip Spell equipped to this card to the Graveyard for cost.
-*   You can send an opponent’s Equip Spell equipped to this card to the Graveyard as the cost.
-*   This effect targets 1, 2, or 3 monsters in your opponent’s Graveyard.
-*   Removing the targets from play and increasing this card’s ATK occur simultaneously.
-*   If a target disappears, the other targets are removed from play and Eatos gains ATK accordingly.
+    - You can send an opponent’s Equip Spell equipped to this card to the Graveyard as the cost.
+    - This effect targets 1, 2, or 3 monsters in your opponent’s Graveyard.
+    - Removing the targets from play and increasing this card’s ATK occur simultaneously.
+    - If a target disappears, the other targets are removed from play and Eatos gains ATK accordingly.
 
 

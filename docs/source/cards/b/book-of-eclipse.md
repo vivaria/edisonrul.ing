@@ -1,4 +1,4 @@
-# Book Of Eclipse
+# Book of Eclipse
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

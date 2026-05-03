@@ -17,7 +17,7 @@ Source: [https://edisonformat.net/card?name=Guardian%20Baou](https://edisonforma
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

@@ -1,4 +1,4 @@
-# Ducker Mobile Cannon
+# DUCKER Mobile Cannon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "DUCKER Mobile Cannon"'s effect targets 1 Level 4 monster in your Graveyard.
+*   "DUCKER Mobile Cannon's" effect targets 1 Level 4 monster in your Graveyard.
 
 

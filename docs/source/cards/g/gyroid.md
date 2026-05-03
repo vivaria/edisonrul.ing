@@ -10,7 +10,7 @@ Source: [https://edisonformat.net/card?name=Gyroid](https://edisonformat.net/car
 
 ### Card Rulings
 
-*   You can't choose when to apply “Gyroid’s” effect. If “Gyroid” would be destroyed as a result of battle, its effect is applied (once per turn) whether you want it to be destroyed or not.
+*   You can't choose when to apply “Gyroid’s” effect. If “Gyroid” would be destroyed as a result of battle, its effect is applied (once per turn) whether you want  it to be destroyed or not.
 *   If “Gyroid” is destroyed, and is then Special Summoned again that same turn, the effect is reset and its effect will be applied again if appropriate. If “Gyroid” is attacked once, is not destroyed because of its effect, then gets flipped face-down, its effect is reset and will be applied again if attacked that turn.
 *   The effect of “Gyroid” is a Continuous Effect that can't be chained to (including “Divine Wrath”).
 *   If “Gyroid” is attacked for the first time in a turn by “Dark Ruler Ha Des”, “Gyroid”’s effect is not negated because it won't be destroyed.

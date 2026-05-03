@@ -26,8 +26,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
-*   This effect targets 1 face-up monster your opponent controls.
-*   When a monster selected for "Amazoness Blowpiper"'s effect is flipped face-down, the effect is reset.
-*   After selecting a monster with "Amazoness Blowpiper"'s effect, if "Amazoness Blowpiper" is flipped face-down or removed from the field, its effect still applies until the end of the turn.
+    - This effect targets 1 face-up monster your opponent controls.
+    - When a monster selected for "Amazoness Blowpiper"'s effect is flipped face-down, the effect is reset.
+    - After selecting a monster with "Amazoness Blowpiper"'s effect, if "Amazoness Blowpiper" is flipped face-down or removed from the field, its effect still applies until the end of the turn.
 
 

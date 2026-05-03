@@ -1,4 +1,4 @@
-# Mask Of Restrict
+# Mask of Restrict
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

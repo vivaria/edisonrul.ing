@@ -18,7 +18,7 @@ Source: [https://edisonformat.net/card?name=Darknight%20Parshath](https://edison
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

@@ -1,4 +1,4 @@
-# Sword Of Sparkles
+# Sword of Sparkles
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

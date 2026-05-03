@@ -1,4 +1,4 @@
-# Light Of Judgment
+# Light of Judgment
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

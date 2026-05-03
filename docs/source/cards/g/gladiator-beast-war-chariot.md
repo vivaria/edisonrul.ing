@@ -26,7 +26,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   This effect does not target.
 *   This negates the activation of the monster's effect, removing that Link from the Chain.
-*   If Chain Link 1 = monster effect, and Chain Link 2 = War Chariot: the last thing to happen (when the Chain resolves) is the effect of War Chariot that destroys the opponent's monster.
+    - If Chain Link 1 = monster effect, and Chain Link 2 = War Chariot: the last thing to happen (when the Chain resolves) is the effect of War Chariot that destroys the opponent's monster.
 *   This effect can be activated during the Damage Step.
 *   You must control a face-up "Gladiator Beast" monster to activate this effect.
 *   If this effect destroys an opponent's monster BEFORE concluding Substep 4 - Damage Calculation, your "Gladiator Beast" that battled that monster cannot tag out during the End of the Battle Phase.

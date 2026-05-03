@@ -1,4 +1,4 @@
-# Scroll Of Bewitchment
+# Scroll of Bewitchment
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

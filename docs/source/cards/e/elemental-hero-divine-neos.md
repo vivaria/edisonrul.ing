@@ -1,4 +1,4 @@
-# Elemental Hero Divine Neos
+# Elemental HERO Divine Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

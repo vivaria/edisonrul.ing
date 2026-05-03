@@ -1,4 +1,4 @@
-# Elemental Hero Neo Bubbleman
+# Elemental HERO Neo Bubbleman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

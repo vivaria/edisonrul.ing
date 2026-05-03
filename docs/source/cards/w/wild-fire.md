@@ -35,6 +35,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   You cannot activate "Wild Fire" if you are prevented from Special Summoning monsters, due to an effect like "Scapegoat".
 *   If you activate "Wild Fire" the effect that you cannot declare an attack affects you, the player, so even a monster that is unaffected by the effects of Spell Cards like "Horus the Black Flame Dragon LV6" cannot attack.
 *   You can activate "Royal Oppression" in a chain to "Wild Fire".
-*   "Blaze Accelerator" is destroyed when "Wild Fire" resolves. If an effect is chained that removes "Blaze Accelerator" from the field, "Wild Fire"'s effect disappears and you can attack that turn.
+*   "Blaze Accelerator" is destroyed when "Wild Fire" resolves. If an effect is chained that removes "Blaze Accelerator" from the field, "Wild Fire's" effect disappears and you can attack that turn.
 
 

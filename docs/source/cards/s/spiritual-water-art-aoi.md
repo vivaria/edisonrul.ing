@@ -18,7 +18,7 @@ In real-life tournaments, you may never take any notes.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

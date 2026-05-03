@@ -1,4 +1,4 @@
-# Uria, Lord Of Searing Flames
+# Uria, Lord of Searing Flames
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -33,13 +33,13 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon effect does not start a chain.
-*   This card cannot be Special Summoned from the hand / Graveyard / removed from play.
-*   You can send “Embodiment of Apophis” to the Graveyard while it is a monster to Summon this card.
+    - This card cannot be Special Summoned from the hand / Graveyard / removed from play.
+    - You can send “Embodiment of Apophis” to the Graveyard while it is a monster to Summon this card.
 *   The ① Continuous Effect applies while this card is face-up on the field.
-*   If this effect is negated, this card's ATK becomes "0".
+    - If this effect is negated, this card's ATK becomes "0".
 *   The ② Ignition Effect activates & applies on the field.
-*   This effect targets 1 Set Spell / Trap Card your opponent controls.
+    - This effect targets 1 Set Spell / Trap Card your opponent controls.
 *   The (2C) Condition applies when the ② effect activates, starting a chain.
-*   Your opponent cannot chain "Divine Wrath" to the ② effect.
+    - Your opponent cannot chain "Divine Wrath" to the ② effect.
 
 

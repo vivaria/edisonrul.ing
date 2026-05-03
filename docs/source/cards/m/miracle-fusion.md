@@ -29,7 +29,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   This performs a Fusion Summon, like "Polymerization". Face-down monsters you control can be used.
-*   You cannot activate this card while "Non-Fusion Area" is active.
+    - You cannot activate this card while "Non-Fusion Area" is active.
 *   This effect does not target. You remove the monsters from play when this effect resolves.
 *   If you cannot remove from play the Fusion Material for the Fusion Monster you wanted to Summon (ex: "Elemental Hero Absolute Zero") but you have the correct material for a different Fusion Monster (ex: "Elemental Hero Gaia"), you MUST Summon that other monster instead.
 *   Fusion Substitute Monsters like "King of the Swamp" can be used to replace monsters whose name are specifically listed on an "Elemental Hero" Fusion Monster.

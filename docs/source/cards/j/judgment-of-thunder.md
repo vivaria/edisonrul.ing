@@ -1,4 +1,4 @@
-# Judgment Of Thunder
+# Judgment of Thunder
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

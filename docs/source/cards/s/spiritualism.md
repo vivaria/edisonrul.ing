@@ -30,6 +30,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   The Spell / Trap Card goes to its owner’s hand.
 *   This targets 1 Spell / Trap Card your opponent controls, even monsters treated as Equip Spell Cards.
 *   If you cannot activate (play face-up) Spell Cards, you cannot activate this card.
-*   This may be due to an effect like "Spell Canceller", "Sonic Jammer", or "Cold Wave".
+    - This may be due to an effect like "Spell Canceller", "Sonic Jammer", or "Cold Wave".
 
 

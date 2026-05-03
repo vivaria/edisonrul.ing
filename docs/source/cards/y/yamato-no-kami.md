@@ -1,4 +1,4 @@
-# Yamato-No-Kami
+# Yamato-no-Kami
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

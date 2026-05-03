@@ -1,4 +1,4 @@
-# Dedication Through Light And Darkness
+# Dedication through Light and Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

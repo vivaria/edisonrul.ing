@@ -28,7 +28,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   This effect targets a monster in the Graveyard, and continues to target it while it is face-up on the field.
 *   If the monster Special Summoned with "Call of the Haunted" is returned to its owner's hand by an effect, "Call of the Haunted" remains on the field meaninglessly.
 *   If an effect is chained that removes this card from the field, the target is not Special Summoned.
-
 *   If "Royal Decree" is activated after "Call of the Haunted" has resolved, and later "Royal Decree" is destroyed, "Call of the Haunted" continues to target the Special Summoned monster.
 
 

@@ -1,4 +1,4 @@
-# Elemental Hero Mariner
+# Elemental HERO Mariner
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

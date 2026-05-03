@@ -1,4 +1,4 @@
-# Summon Reactor Sk
+# Summon Reactor SK
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -36,16 +36,16 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   The Ⓒ Summoning Condition cannot be negated.
 *   The Ⓢ Special Summon Effect is the only way to Special Summon this card.
-*   This Summon does not start a chain.
-*   This card CANNOT be Special Summoned from the Graveyard / removed from play area.
-*   Only LIGHT-Attribute Machine-Type monsters (and Tokens) are removed from play as a cost.
-*   Face-down LIGHT-Attribute Machine-Type monsters are not removed from play.
-*   You can Special Summon "Cyber Eltanin" even if you only have 1 LIGHT-Attribute Machine-Type monster on your field and/or in your Graveyard.
+    - This Summon does not start a chain.
+    - This card CANNOT be Special Summoned from the Graveyard / removed from play area.
+    - Only LIGHT-Attribute Machine-Type monsters (and Tokens) are removed from play as a cost.
+    - Face-down LIGHT-Attribute Machine-Type monsters are not removed from play.
+    - You can Special Summon "Cyber Eltanin" even if you only have 1 LIGHT-Attribute Machine-Type monster on your field and/or in your Graveyard.
 *   The ① Continuous Effect effect applies so long as it is face-up on the field.
-*   The ATK/DEF become "0" if it is flipped face-down, leaves the field, or "Skill Drain" negates its effects.
-*   The Original ATK of "Cyber Eltanin" is treated as 0 while it is on the field. If "Megamorph" is equipped, it will have 0 ATK. When the effect of "Megamorph" is no longer applied, its ATK returns to 500x the number of monsters removed from play to Special Summon "Cyber Eltanin".
+    - The ATK/DEF become "0" if it is flipped face-down, leaves the field, or "Skill Drain" negates its effects.
+    - The Original ATK of "Cyber Eltanin" is treated as 0 while it is on the field. If "Megamorph" is equipped, it will have 0 ATK. When the effect of "Megamorph" is no longer applied, its ATK returns to 500x the number of monsters removed from play to Special Summon "Cyber Eltanin".
 *   The ② Mandatory Trigger Effect activates in the Summon response timing.
-*   This effect does not affect face-down monsters.
-*   This effect 'sends' monster cards to the Graveyard; it does not 'destroy' them.
+    - This effect does not affect face-down monsters.
+    - This effect 'sends' monster cards to the Graveyard; it does not 'destroy' them.
 
 

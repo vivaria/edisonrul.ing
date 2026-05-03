@@ -1,4 +1,4 @@
-# Destiny Hero - Double Dude
+# Destiny HERO - Double Dude
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

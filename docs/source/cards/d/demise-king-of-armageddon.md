@@ -1,4 +1,4 @@
-# Demise, King Of Armageddon
+# Demise, King of Armageddon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -25,10 +25,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The Ⓒ Summoning Condition common to Ritual Monsters at the time is poorly worded.
-*   This card CAN be Ritual Summoned by "Advanced Ritual Art" or "Contract with the Abyss".
+    - This card CAN be Ritual Summoned by "Advanced Ritual Art" or "Contract with the Abyss".
 *   The ① Ignition Effect can be used many times in the same turn.
-*   This effect does not target.
-*   Paying 2000 Life Points is a cost.
-*   If "Book of Moon" is chained to flip Demise face-down, he is still not destroyed by his effect.
+    - This effect does not target.
+    - Paying 2000 Life Points is a cost.
+    - If "Book of Moon" is chained to flip Demise face-down, he is still not destroyed by his effect.
 
 

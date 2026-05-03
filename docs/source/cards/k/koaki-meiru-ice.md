@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Ice
+# Koa'ki Meiru Ice
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Paralyzing Chain"'s effect is a Trigger Effect.
+*   "Paralyzing Chain's" effect is a Trigger Effect.
 
 

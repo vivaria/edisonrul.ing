@@ -1,4 +1,4 @@
-# Hand Of Nephthys
+# Hand of Nephthys
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

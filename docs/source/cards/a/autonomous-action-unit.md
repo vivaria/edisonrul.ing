@@ -30,7 +30,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   Paying 1500 Life Points is a cost.
 *   This effect targets 1 monster in your opponent Graveyard, it is negated by "Necrovalley".
 *   The ① Continuous-like Effect does not start a Chain.
-*   If this card returns to the hand (by "Giant Trunade"), destroy the equipped monster immediately.
-*   If you use "Autonomous Action Unit" to Special Summon a monster from your opponent's Graveyard and then activate "Dimensionhole", "Autonomous Action Unit" is destroyed and when the monster returns to the field it returns to the original owner's control.
+    - If this card returns to the hand (by "Giant Trunade"), destroy the equipped monster immediately.
+    - If you use "Autonomous Action Unit" to Special Summon a monster from your opponent's Graveyard and then activate "Dimensionhole", "Autonomous Action Unit" is destroyed and when the monster returns to the field it returns to the original owner's control.
 
 

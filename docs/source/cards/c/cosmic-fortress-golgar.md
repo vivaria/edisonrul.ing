@@ -1,4 +1,4 @@
-# Cosmic Fortress Gol’Gar
+# Cosmic Fortress Gol'gar
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -30,10 +30,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect targets a number of face-up Spell / Trap Cards on the field.
-*   The targeted cards are returned to the hand when the effect resolves. This is not a cost.
-*   If a chained effect destroys a Spell/Trap Card targeted by “Cosmic Fortress Gol’gar” before it is returned to the hand, no A-Counter is distributed for that particular Spell/Trap Card.
-*   The number of A-Counters distributed is based on the number of Spell/Trap Cards actually returned to the hand.
+    - The targeted cards are returned to the hand when the effect resolves. This is not a cost.
+    - If a chained effect destroys a Spell/Trap Card targeted by “Cosmic Fortress Gol’gar” before it is returned to the hand, no A-Counter is distributed for that particular Spell/Trap Card.
+    - The number of A-Counters distributed is based on the number of Spell/Trap Cards actually returned to the hand.
 *   The ② Ignition Effect targets 1 card your opponent controls.
-*   Removing 2 A-Counters (from anywhere on the field) is a cost.
+    - Removing 2 A-Counters (from anywhere on the field) is a cost.
 
 

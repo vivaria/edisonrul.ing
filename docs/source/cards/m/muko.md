@@ -1,7 +1,5 @@
 # Muko
 
-Also known as: "Null and Void".
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Muko](https://edisonformat.net/card?name=Muko)
@@ -17,9 +15,11 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 
@@ -31,3 +31,5 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 *   You can chain "Null and Void" to "Reckless Greed". Since you cannot draw by the effect of "Reckless Greed", the effect of skipping 2 Draw Phases is NOT applied.
 *   You can chain "Null and Void" to the effect of "Royal Magical Library".
 *   You cannot chain "Null and Void" to the effect of "Appropriate" because the effect of "Appropriate" cannot be chained to.
+
+

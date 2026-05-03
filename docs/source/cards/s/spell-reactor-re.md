@@ -1,4 +1,4 @@
-# Spell Reactor Re
+# Spell Reactor RE
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

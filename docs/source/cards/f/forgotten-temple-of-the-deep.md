@@ -33,7 +33,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   You can activate the effect to remove a monster from play on either player’s turn.
-*   It targets that monster.
+    - It targets that monster.
 *   Special Summoning the monster does not target.
 *   If you take control of your opponent’s monster and remove it from play, it returns to your side of the field during your End Phase.
 *   The field is not treated as “Umi” while this card is active.

@@ -24,6 +24,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   Count the number of face-up Psychic-Type monsters when "Magical Android"'s effect resolves.
+*   Count the number of face-up Psychic-Type monsters when "Magical Android's" effect resolves.
 
 

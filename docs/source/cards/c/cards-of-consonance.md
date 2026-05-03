@@ -1,4 +1,4 @@
-# Cards Of Consonance
+# Cards of Consonance
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

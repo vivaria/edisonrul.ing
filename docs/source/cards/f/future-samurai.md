@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Future Samurai"'s effect is an Ignition Effect. Removing from play 1 monster from your Graveyard is a cost.
+*   "Future Samurai's" effect is an Ignition Effect. Removing from play 1 monster from your Graveyard is a cost.
 
 

@@ -1,4 +1,4 @@
-# Precious Cards From Beyond
+# Precious Cards from Beyond
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

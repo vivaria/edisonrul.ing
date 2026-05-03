@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Level%20Up](https://edisonformat.net/card?name=Level%20Up)
+Source: [https://edisonformat.net/card?name=Level%20Up!](https://edisonformat.net/card?name=Level%20Up!)
 
 ### Edison-Accurate PSCT
 

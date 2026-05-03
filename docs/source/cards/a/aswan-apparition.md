@@ -26,7 +26,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Trigger Effect is optional, it activates & resolves on the field.
-*   This effect activates in Substep 5 - After Damage Calculation.
-*   This effect targets a card in the Graveyard, it will be negated by "Necrovalley".
+    - This effect activates in Substep 5 - After Damage Calculation.
+    - This effect targets a card in the Graveyard, it will be negated by "Necrovalley".
 
 

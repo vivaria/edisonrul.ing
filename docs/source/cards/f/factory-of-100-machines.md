@@ -1,4 +1,4 @@
-# Factory Of 100 Machines
+# Factory of 100 Machines
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Pyro Clock Of Destiny
+# Pyro Clock of Destiny
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

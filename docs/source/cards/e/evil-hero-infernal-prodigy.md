@@ -1,4 +1,4 @@
-# Evil Hero Infernal Prodigy
+# Evil HERO Infernal Prodigy
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -37,13 +37,13 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   This Ⓢ Special Summon effect does not start a chain.
 *   The ① mandatory Trigger Effect activates during the End Phase.
-*   This effect ONLY ACTIVATES ONCE, even if Tributed for HERO monsters multiple times this turn.
-*   This effect WILL STILL activate if Prodigy is removed from play when Tributed (by "Macro Cosmos") or after it was Tributed (by "Soul Release").
+    - This effect ONLY ACTIVATES ONCE, even if Tributed for HERO monsters multiple times this turn.
+    - This effect WILL STILL activate if Prodigy is removed from play when Tributed (by "Macro Cosmos") or after it was Tributed (by "Soul Release").
 *   The ① effect will NOT trigger if:
-*   after being Tributed, Prodigy is Special Summoned to the field prior to the End Phase.
-*   after being Tributed, Prodigy is shuffled into the Deck prior to the End Phase.
-*   after being Tributed, Prodigy was added to the hand prior to the End Phase.
-*   Prodigy is Tributed to Set a HERO monster.
-*   the Tribute Summon of a HERO monster was negated (by "Solemn Judgment").
+    - after being Tributed, Prodigy is Special Summoned to the field prior to the End Phase.
+    - after being Tributed, Prodigy is shuffled into the Deck prior to the End Phase.
+    - after being Tributed, Prodigy was added to the hand prior to the End Phase.
+    - Prodigy is Tributed to Set a HERO monster.
+    - the Tribute Summon of a HERO monster was negated (by "Solemn Judgment").
 
 

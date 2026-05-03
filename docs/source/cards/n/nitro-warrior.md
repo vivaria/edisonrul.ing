@@ -27,10 +27,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continuous Effect applies in Substep 4 - Damage Calculation.
-*   If the Spell Card was activated before "Nitro Warrior" was Summoned, this effect does not apply.
+    - If the Spell Card was activated before "Nitro Warrior" was Summoned, this effect does not apply.
 *   The ② optional Trigger Effect activates in Substep 7 - End of the Damage Step.
-*   This effect targets a face-up Defense Position monster your opponent controls.
-*   If the target is flipped face-down / leaves the field, you do not make a second attack.
-*   You only gain 1 additional attack with this effect. "Mirror Force" can be activated in response to that additional attack, and if "Toll" is active you must pay 500 Life Points.
+    - This effect targets a face-up Defense Position monster your opponent controls.
+    - If the target is flipped face-down / leaves the field, you do not make a second attack.
+    - You only gain 1 additional attack with this effect. "Mirror Force" can be activated in response to that additional attack, and if "Toll" is active you must pay 500 Life Points.
 
 

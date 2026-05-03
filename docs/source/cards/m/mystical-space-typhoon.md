@@ -17,7 +17,7 @@ Source: [https://edisonformat.net/card?name=Mystical%20Space%20Typhoon](https://
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

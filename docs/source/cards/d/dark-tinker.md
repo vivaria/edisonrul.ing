@@ -26,7 +26,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Trigger Effect is mandatory.
-*   This effect only activates when it is sent from your side of the field to your Graveyard.
-*   This effect does not activate if “Dark Tinker” is sent to your Graveyard under your opponent's control.
+    - This effect only activates when it is sent from your side of the field to your Graveyard.
+    - This effect does not activate if “Dark Tinker” is sent to your Graveyard under your opponent's control.
 
 

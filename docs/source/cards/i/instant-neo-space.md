@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   When "Instant Neo Space" and the equipped monster are destroyed by the same effect, "Instant Neo Space"'s effect does not activate.
+*   When "Instant Neo Space" and the equipped monster are destroyed by the same effect, "Instant Neo Space's" effect does not activate.
 
 

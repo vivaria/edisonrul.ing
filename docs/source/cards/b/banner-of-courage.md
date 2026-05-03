@@ -1,4 +1,4 @@
-# Banner Of Courage
+# Banner of Courage
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

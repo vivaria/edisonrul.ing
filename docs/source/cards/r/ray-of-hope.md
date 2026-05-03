@@ -1,4 +1,4 @@
-# Ray Of Hope
+# Ray of Hope
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Flying Fortress Sky Fire
+# Flying Fortress SKY FIRE
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -31,7 +31,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   "Summon Reactor ・SK" can Special Summon “Flying Fortress SKY FIRE” from the Graveyard even if it had not been Special Summoned properly before, and even if it was sent directly to the Graveyard from the hand or Deck.
 *   Sending the 3 cards to the Graveyard to Special Summon this monster is a cost.
-*   That effect does not target “Flying Fortress SKY FIRE”.
+    - That effect does not target “Flying Fortress SKY FIRE”.
 *   If multiple monsters are Summoned at the same time, you can use “Flying Fortress SKY FIRE” to destroy all of them and inflict 800 damage to your opponent.
 *   If multiple cards are Set at the same time, you can use “Flying Fortress SKY FIRE” to destroy all of them and inflict 800 damage to your opponent.
 *   If a combination of monsters are Summoned and Set at the same time, you must choose to either destroy the Summoned monsters, or the Set monsters, and inflict 800 damage to your opponent.

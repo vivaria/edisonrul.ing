@@ -27,9 +27,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① optional Trigger Effect activates & resolves in the Graveyard.
-*   This effect does not target. It is not negated by "Necrovalley".
-*   This effect can activate multiple times in the same Standby Phase.
-*   You cannot activate two copies of "Treeborn Frog" in the same chain.
-*   If a chained effect puts a Spell / Trap Card on your field, "Treeborn Frog" remains in the Graveyard.
+    - This effect does not target. It is not negated by "Necrovalley".
+    - This effect can activate multiple times in the same Standby Phase.
+    - You cannot activate two copies of "Treeborn Frog" in the same chain.
+    - If a chained effect puts a Spell / Trap Card on your field, "Treeborn Frog" remains in the Graveyard.
 
 

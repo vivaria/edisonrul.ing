@@ -18,7 +18,7 @@ The counters remain even if this card later has its effect negated or if this ca
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

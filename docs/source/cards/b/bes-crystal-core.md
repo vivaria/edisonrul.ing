@@ -31,12 +31,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
-*   If this card's effects are negated, the counters placed by this effect are removed.
+    - If this card's effects are negated, the counters placed by this effect are removed.
 *   The ② Continuous Effect applies while this card is face-up on the field.
 *   The ③ Trigger Effect is mandatory, it activates & resolves on the field.
-*   This effect activates in Substep 7 - End of the Damage Step.
-*   The effect of “B.E.S. Crystal Core” that destroys itself during the damage step cannot be chained to.
+    - This effect activates in Substep 7 - End of the Damage Step.
+    - The effect of “B.E.S. Crystal Core” that destroys itself during the damage step cannot be chained to.
 *   The ④ Ignition Effect targets, it activates & resolves on the field.
-*   If you target the opponent’s monster with the effect of “B.E.S. Crystal Core”, and an effect is chained that causes it to no longer be on your opponent’s side of the field (such as “Remove Brainwashing” or “Enemy Controller”), the effect of “B.E.S. Crystal Core” is not applied.
+    - If you target the opponent’s monster with the effect of “B.E.S. Crystal Core”, and an effect is chained that causes it to no longer be on your opponent’s side of the field (such as “Remove Brainwashing” or “Enemy Controller”), the effect of “B.E.S. Crystal Core” is not applied.
 
 

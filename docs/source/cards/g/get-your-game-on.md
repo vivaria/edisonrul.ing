@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Get%20Your%20Game%20On](https://edisonformat.net/card?name=Get%20Your%20Game%20On)
+Source: [https://edisonformat.net/card?name=Get%20Your%20Game%20On!](https://edisonformat.net/card?name=Get%20Your%20Game%20On!)
 
 ### Edison-Accurate PSCT
 
@@ -17,7 +17,7 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

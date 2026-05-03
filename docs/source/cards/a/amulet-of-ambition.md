@@ -1,4 +1,4 @@
-# Amulet Of Ambition
+# Amulet of Ambition
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

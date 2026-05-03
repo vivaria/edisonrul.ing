@@ -1,4 +1,4 @@
-# Elemental Hero Rampart Blaster
+# Elemental HERO Rampart Blaster
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

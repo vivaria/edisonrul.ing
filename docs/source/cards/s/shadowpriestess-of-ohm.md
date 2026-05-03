@@ -1,4 +1,4 @@
-# Shadowpriestess Of Ohm
+# Shadowpriestess of Ohm
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -24,7 +24,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Shadowpriestess of Ohm"'s effect is an Ignition Effect.
+*   "Shadowpriestess of Ohm's" effect is an Ignition Effect.
 *   Tributing 1 face-up DARK monster is a cost.
 
 

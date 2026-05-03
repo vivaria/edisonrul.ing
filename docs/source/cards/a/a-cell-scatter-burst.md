@@ -1,4 +1,4 @@
-# 'A' Cell Scatter Burst
+# "A" Cell Scatter Burst
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

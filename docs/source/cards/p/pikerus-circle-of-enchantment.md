@@ -1,4 +1,4 @@
-# Pikeru's Circle Of Enchantment
+# Pikeru's Circle of Enchantment
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

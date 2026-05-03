@@ -1,4 +1,4 @@
-# Cestus Of Dagla
+# Cestus of Dagla
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

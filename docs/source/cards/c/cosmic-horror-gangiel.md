@@ -1,4 +1,4 @@
-# Cosmic Horror Gangi'El
+# Cosmic Horror Gangi'el
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
