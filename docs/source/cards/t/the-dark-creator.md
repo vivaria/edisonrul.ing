@@ -30,10 +30,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓢ Summon Effect does not start a chain.
-*   This card must first be Special Summoned from the hand by the Ⓢ effect.
-*   Once properly Summoned, this card can be Special Summoned from the Graveyard / removed from play.
+    - This card must first be Special Summoned from the hand by the Ⓢ effect.
+    - Once properly Summoned, this card can be Special Summoned from the Graveyard / removed from play.
 *   The ① Ignition Effect activates & resolves on the field.
-*   Removing from play 1 DARK monster is a cost.
-*   This effect targets 1 DARK monster in your Graveyard.
+    - Removing from play 1 DARK monster is a cost.
+    - This effect targets 1 DARK monster in your Graveyard.
 
 

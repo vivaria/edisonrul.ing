@@ -1,4 +1,4 @@
-# Manticore Of Darkness
+# Manticore of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

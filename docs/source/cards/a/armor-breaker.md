@@ -28,10 +28,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition(-like) Effect activates & resolves on the field.
-*   If activated while in the monster zone, this is a Monster Card's effect.
-*   If activated while equipped, this is an Equip Spell Card's effect.
+    - If activated while in the monster zone, this is a Monster Card's effect.
+    - If activated while equipped, this is an Equip Spell Card's effect.
 *   The ② Trigger-like Effect activates & resolves on the field, it is the effect of an Equip Spell Card.
-*   This effect activates in Substep 5 - After Damage Calculation.
-*   This effect targets 1 card on the field.
+    - This effect activates in Substep 5 - After Damage Calculation.
+    - This effect targets 1 card on the field.
 
 

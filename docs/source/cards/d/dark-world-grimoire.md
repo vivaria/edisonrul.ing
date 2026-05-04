@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Dark World Grimoire"'s effect starts a Chain. It targets the discarded Monster Card that is selected.
+*   "Dark World Grimoire's" effect starts a Chain. It targets the discarded Monster Card that is selected.
 
 

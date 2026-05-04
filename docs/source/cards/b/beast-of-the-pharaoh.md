@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Beast of the Pharaoh"'s effect targets 1 Level 4 or lower Zombie-Type monster in your Graveyard.
+*   "Beast of the Pharaoh's" effect targets 1 Level 4 or lower Zombie-Type monster in your Graveyard.
 
 

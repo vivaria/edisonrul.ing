@@ -1,4 +1,4 @@
-# Elemental Hero Darkbright
+# Elemental HERO Darkbright
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

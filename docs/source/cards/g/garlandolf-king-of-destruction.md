@@ -1,4 +1,4 @@
-# Garlandolf, King Of Destruction
+# Garlandolf, King of Destruction
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

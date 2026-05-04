@@ -24,6 +24,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   You can choose "Blaze Accelerator" or "Tri-Blaze Accelerator".
-*   "Volcanic Rocket"'s effect does not target. You choose the card to add to your hand when it resolves.
+*   "Volcanic Rocket's" effect does not target. You choose the card to add to your hand when it resolves.
 
 

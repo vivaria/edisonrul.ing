@@ -11,7 +11,7 @@ Source: [https://edisonformat.net/card?name=Minefieldriller](https://edisonforma
 ### Card Rulings
 
 *   You can activate this effect during the Damage Step.
-*   This effect can activate if it is returned to the hand, but not if it is returned to the Deck.
+*    This effect can activate if it is returned to the hand, but not if it is returned to the Deck.
 *   If a face-down “Minefieldriller” is flipped face-up by battle and then removed from the field, its effect does not activate.
 
 
@@ -19,7 +19,7 @@ Source: [https://edisonformat.net/card?name=Minefieldriller](https://edisonforma
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

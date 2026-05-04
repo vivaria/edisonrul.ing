@@ -1,4 +1,4 @@
-# Judgment Of Anubis
+# Judgment of Anubis
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

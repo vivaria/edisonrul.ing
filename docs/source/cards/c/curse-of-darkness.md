@@ -1,4 +1,4 @@
-# Curse Of Darkness
+# Curse of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

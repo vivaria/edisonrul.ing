@@ -1,4 +1,4 @@
-# A Cat Of Ill Omen
+# A Cat of Ill Omen
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

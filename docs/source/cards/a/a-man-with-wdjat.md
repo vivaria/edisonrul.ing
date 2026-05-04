@@ -1,4 +1,4 @@
-# A Man With Wdjat
+# A Man with Wdjat
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Zeradias, Herald Of Heaven
+# Zeradias, Herald of Heaven
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

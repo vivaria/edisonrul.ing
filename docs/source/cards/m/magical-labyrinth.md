@@ -18,7 +18,7 @@ You cannot activate the effect to Summon if "Wall Shadow" is not in your Deck.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

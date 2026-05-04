@@ -1,4 +1,4 @@
-# Frost And Flame Dragon
+# Frost and Flame Dragon
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

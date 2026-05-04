@@ -1,4 +1,4 @@
-# Guardian Kay'Est
+# Guardian Kay'est
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

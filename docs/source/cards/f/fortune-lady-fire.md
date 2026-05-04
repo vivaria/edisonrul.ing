@@ -28,5 +28,3 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If you Special Summon “Fortune Lady Fire” in Defense Position by the effect of “Fortune Lady Light” while “Level Limit – Area A” is active, it will be switched to Attack Position and its effect will activate.
 
 
-
-

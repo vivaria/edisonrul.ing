@@ -1,7 +1,5 @@
 # Zoma the Spirit
 
-Also known as "Skull Zoma".
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Zoma%20the%20Spirit](https://edisonformat.net/card?name=Zoma%20the%20Spirit)
@@ -12,30 +10,37 @@ Source: [https://edisonformat.net/card?name=Zoma%20the%20Spirit](https://edisonf
 
 ### Card Rulings
 
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+Trap Monster Rulings
+*   When this card is activated, its Spell/Trap Zone cannot be used until the card is removed from the field, even while it is in the Monster Zone.
+*   While in the Monster Zone, this card can still be targeted by "Mystical Space Typhoon", and be destroyed by "Heavy Storm".
+*   If an effect is applying that negates Trap Effects ("Royal Decree", "Jinzo", "Trap Stun"), this card returns face-up to the Spell/Trap Zone, and is not Summoned again even when that effect stops applying.
+*   If this card becomes Set while in the Monster Zone, eg by "Book of Moon", it returns face-down to the Spell/Trap Zone.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 
-*   When "Zoma the Spirit" is destroyed by battle, its effect activates when it is sent to the Graveyard at the end of the Damage Step. This effect still activates if it is removed from play instead, due to "Macro Cosmos", etc. This effect starts a Chain.
-*   When "Dark Ruler Ha Des" destroys "Zoma the Spirit" by battle, its effects are negated and it will not inflict damage.
-*   When "Zoma the Spirit" is destroyed by battle, its owner activates its effect.
-*   If a "Zoma the Spirit" is Special Summoned with "Magical Hats", its effect will not activate when it is destroyed in battle.
-*   When an Attack Position "Zoma the Spirit" battles a monster with equal ATK and both monsters are destroyed, "Zoma the Spirit"'s effect still activates.
-*   "Barrel Behind the Door" cannot be chained to "Zoma the Spirit"'s effect.
-*   "Divine Wrath" cannot be chained to "Zoma the Spirit"'s effect because it is a Trap Card in the Graveyard.
-*   "Sorcerer of Dark Magic"'s effect cannot be chained to the damage inflicting effect of "Zoma the Spirit".
-*   "Zoma the Spirit"'s effect cannot be negated by "Skill Drain".
-*   "Des Volstgalph"'s effect does not activate when it destroys "Zoma the Spirit" by battle.
-*   If "Zoma the Spirit" inflicts damage to your opponent's Life Points while "Begone, Knave!" is active, it will return to your hand. If "Makyura the Destructor"'s effect was activated during the same turn, it can be activated from the hand and Special Summoned. If "Final Attack Orders" is also active, it will be shifted into Attack Position and can then attack again during the same Battle Phase.
-*   "Zoma the Spirit" inflicts damage equal to the current ATK of the monster that destroyed it by battle.
-*   When "Black Luster Soldier - Envoy of the Beginning" destroys "Zoma the Spirit" by battle, it can activate its effect to attack once again.
-*   When "Zoma the Spirit" is equipped to "Relinquished" by its effect, it is only treated as an Equip Spell Card, not a Trap Card or Monster Card.
-*   While "Zoma the Spirit" is treated as an Effect Monster Card, it can be targeted with "Generation Shift" or "Next to Be Lost".
+*   When "Skull Zoma" is destroyed by battle, its effect activates when it is sent to the Graveyard at the end of the Damage Step. This effect still activates if it is removed from play instead, due to "Macro Cosmos", etc. This effect starts a Chain.
+*   When "Dark Ruler Ha Des" destroys "Skull Zoma" by battle, its effects are negated and it will not inflict damage.
+*   When "Skull Zoma" is destroyed by battle, its owner activates its effect.
+*   If a "Skull Zoma" is Special Summoned with "Magical Hats", its effect will not activate when it is destroyed in battle.
+*   When an Attack Position "Skull Zoma" battles a monster with equal ATK and both monsters are destroyed, "Skull Zoma's" effect still activates.
+*   "Barrel Behind the Door" cannot be chained to "Skull Zoma's" effect.
+*   "Divine Wrath" cannot be chained to "Skull Zoma's" effect because it is a Trap Card in the Graveyard.
+*   "Sorcerer of Dark Magic's" effect cannot be chained to the damage inflicting effect of "Skull Zoma".
+*   "Skull Zoma's" effect cannot be negated by "Skill Drain".
+*   "Des Volstgalph's" effect does not activate when it destroys "Skull Zoma" by battle.
+*   If "Skull Zoma" inflicts damage to your opponent's Life Points while "Begone, Knave!" is active, it will return to your hand. If "Makyura the Destructor's" effect was activated during the same turn, it can be activated from the hand and Special Summoned. If "Final Attack Orders" is also active, it will be shifted into Attack Position and can then attack again during the same Battle Phase.
+*   "Skull Zoma" inflicts damage equal to the current ATK of the monster that destroyed it by battle.
+*   When "Black Luster Soldier - Envoy of the Beginning" destroys "Skull Zoma" by battle, it can activate its effect to attack once again.
+*   When "Skull Zoma" is equipped to "Relinquished" by its effect, it is only treated as an Equip Spell Card, not a Trap Card or Monster Card.
+*   While "Skull Zoma" is treated as an Effect Monster Card, it can be targeted with "Generation Shift" or "Next to Be Lost".
+
 

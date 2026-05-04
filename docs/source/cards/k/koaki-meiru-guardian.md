@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Guardian
+# Koa'ki Meiru Guardian
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

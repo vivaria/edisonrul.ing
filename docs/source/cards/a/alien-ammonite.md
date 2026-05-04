@@ -24,7 +24,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① optional Trigger Effect activates in the Summon response timing.
-*   The effect targets one Level 4 or lower "Alien" Monster in your Graveyard.
-*   Destroy the Summoned monster in the End Phase (this does not start a chain), even if “Alien Ammonite” is not on the field.
+    - The effect targets one Level 4 or lower "Alien" Monster in your Graveyard.
+    - Destroy the Summoned monster in the End Phase (this does not start a chain), even if “Alien Ammonite” is not on the field.
 
 

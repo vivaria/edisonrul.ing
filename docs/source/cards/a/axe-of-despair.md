@@ -1,4 +1,4 @@
-# Axe Of Despair
+# Axe of Despair
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -26,8 +26,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   (This card is always treated as an "Archfiend" card.)
 *   The ① Continuous-like Effect applies while this card is on the field.
 *   The ② Trigger Effect is optional, it activates & resolves in the Graveyard.
-*   Tributing 1 monster is a cost.
-*   This effect is not negated by "Necrovalley".
-*   If all your monsters are sent to the Graveyard simultaneously by the effect of "Cyber Jar", "Raigeki", etc. and "Axe of Despair" is equipped to one of them, you cannot Tribute one of those monsters to return "Axe of Despair" to the top of your Deck. You also cannot Tribute one of the monsters Special Summoned by the effect of "Cyber Jar" since the timing has passed.
+    - Tributing 1 monster is a cost.
+    - This effect is not negated by "Necrovalley".
+    - If all your monsters are sent to the Graveyard simultaneously by the effect of "Cyber Jar", "Raigeki", etc. and "Axe of Despair" is equipped to one of them, you cannot Tribute one of those monsters to return "Axe of Despair" to the top of your Deck. You also cannot Tribute one of the monsters Special Summoned by the effect of "Cyber Jar" since the timing has passed.
 
 

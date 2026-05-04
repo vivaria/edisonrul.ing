@@ -1,4 +1,4 @@
-# Rope Of Life
+# Rope of Life
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

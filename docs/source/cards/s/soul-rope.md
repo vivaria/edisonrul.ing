@@ -17,7 +17,7 @@ You can't use this card in the Damage Step (so you can't activate it when a mons
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

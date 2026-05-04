@@ -1,4 +1,4 @@
-# Blackwing - Armed Wing
+# Blackwing Armed Wing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

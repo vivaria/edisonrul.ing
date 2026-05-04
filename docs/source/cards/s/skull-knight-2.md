@@ -2,11 +2,11 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Skull%20Knight](https://edisonformat.net/card?name=Skull%20Knight)
+Source: [https://edisonformat.net/card?name=Skull%20Knight%20#](https://edisonformat.net/card?name=Skull%20Knight%20#)
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> No rulings available for this card.
 
 ### Card Rulings
 

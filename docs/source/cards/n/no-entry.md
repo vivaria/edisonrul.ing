@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=No%20Entry](https://edisonformat.net/card?name=No%20Entry)
+Source: [https://edisonformat.net/card?name=No%20Entry!!](https://edisonformat.net/card?name=No%20Entry!!)
 
 ### Edison-Accurate PSCT
 

@@ -28,9 +28,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① mandatory Trigger Effect activates & resolves in the Graveyard.
-*   This effect activates in Substep 5 - After Damage Calculation.
-*   This effect activates even if you do not have another FIRE monster in your Graveyard.
-*   There is no cost. "Volcanic Counter" is banished when this effect inflicts Effect Damage.
+    - This effect activates in Substep 5 - After Damage Calculation.
+    - This effect activates even if you do not have another FIRE monster in your Graveyard.
+    - There is no cost. "Volcanic Counter" is banished when this effect inflicts Effect Damage.
 *   The ① effect does not activate if your Life Points were reduced to 0 in Substep 4 - Damage Calculation.
 
 

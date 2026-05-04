@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Tornado
+# Koa'ki Meiru Tornado
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Elemental Hero Air Neos
+# Elemental HERO Air Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

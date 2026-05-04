@@ -1,4 +1,4 @@
-# Evil Hero Inferno Wing
+# Evil HERO Inferno Wing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

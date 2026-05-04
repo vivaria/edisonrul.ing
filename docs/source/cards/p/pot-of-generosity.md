@@ -1,4 +1,4 @@
-# Pot Of Generosity
+# Pot of Generosity
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

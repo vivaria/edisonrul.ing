@@ -1,4 +1,4 @@
-# Morphtronic Mix-Up
+# Morphtronic Mix-up
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

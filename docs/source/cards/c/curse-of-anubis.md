@@ -1,4 +1,4 @@
-# Curse Of Anubis
+# Curse of Anubis
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

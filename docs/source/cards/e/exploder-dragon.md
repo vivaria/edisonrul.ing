@@ -25,9 +25,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① mandatory Trigger Effect does not target the monster that destroyed this card.
-*   This effect activates in Substep 7 - End of the Damage Step (like "Masked Dragon").
-*   This effect will not activate if this card is removed from play instead of being sent to the Graveyard.
-*   This effect will not activate if it is destroyed by a card's effect.
+    - This effect activates in Substep 7 - End of the Damage Step (like "Masked Dragon").
+    - This effect will not activate if this card is removed from play instead of being sent to the Graveyard.
+    - This effect will not activate if it is destroyed by a card's effect.
 *   The ② Continuous Effect only applies on your turn, while this card is attacking.
 
 

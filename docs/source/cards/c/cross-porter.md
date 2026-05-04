@@ -29,10 +29,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect targets 1 monster you control.
-*   The target is sent to the Graveyard when the effect resolves.
-*   If "Cross Porter" targets itself and is flipped face-down (by "Book of Moon"), the effect still resolves.
-*   If another monster targeted by this effect is flipped face-down / removed from the field, this effect will resolve without effect. This is also applies if "Cross Porter" targets itself and leaves the field.
+    - The target is sent to the Graveyard when the effect resolves.
+    - If "Cross Porter" targets itself and is flipped face-down (by "Book of Moon"), the effect still resolves.
+    - If another monster targeted by this effect is flipped face-down / removed from the field, this effect will resolve without effect. This is also applies if "Cross Porter" targets itself and leaves the field.
 *   The ② optional Trigger Effect follows a "When... you can" structure and can miss the timing
-*   If "Cross Porter" targets itself with its first effect, its second effect CANNOT be activated.
+    - If "Cross Porter" targets itself with its first effect, its second effect CANNOT be activated.
 
 

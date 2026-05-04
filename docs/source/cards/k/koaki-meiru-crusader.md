@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Crusader
+# Koa'ki Meiru Crusader
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Invasion Of Flames
+# Invasion of Flames
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

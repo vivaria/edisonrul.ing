@@ -39,15 +39,15 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The Ⓢ Unclassified Effect applies in the hand (this Special Summon does not start a chain).
-*   This card can still be Normal Summoned, or Special Summoned by card effects.
+    - This card can still be Normal Summoned, or Special Summoned by card effects.
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
-*   This effect targets 1 Fairy-Type monster in your Graveyard.
+    - This effect targets 1 Fairy-Type monster in your Graveyard.
 *   The ② Continuous Effect applies while this card is face-up on the field.
-*   "Reasoning", "Future Fusion" and "Monster Gate" CAN'T be activated while this effect applies.
+    - "Reasoning", "Future Fusion" and "Monster Gate" CAN'T be activated while this effect applies.
 *   The Ⓤ Unclassified Effect applies when this face-up card leaves the field (this doesn't start a Chain).
-*   While "Macro Cosmos" is active, "Archlord Kristya" is still returned to the Deck.
-*   This effect will not apply while "Skill Drain" is active, as this effect applies on the field.
-*   This effect will not apply when "Archlord Kristya" is sent to the Graveyard while face-down.
-*   VS. "Bottomless Trap Hole": Kristya can't apply its effect, it is destroyed and banished.
+    - While "Macro Cosmos" is active, "Archlord Kristya" is still returned to the Deck.
+    - This effect will not apply while "Skill Drain" is active, as this effect applies on the field.
+    - This effect will not apply when "Archlord Kristya" is sent to the Graveyard while face-down.
+    - VS. "Bottomless Trap Hole": Kristya can't apply its effect, it is destroyed and banished.
 
 

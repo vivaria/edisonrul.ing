@@ -1,4 +1,4 @@
-# Altar For Tribute
+# Altar for Tribute
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

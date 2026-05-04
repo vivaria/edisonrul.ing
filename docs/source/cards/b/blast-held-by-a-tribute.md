@@ -1,4 +1,4 @@
-# Blast Held By A Tribute
+# Blast Held by a Tribute
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

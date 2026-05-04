@@ -1,4 +1,4 @@
-# Card Of Sanctity
+# Card of Sanctity
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

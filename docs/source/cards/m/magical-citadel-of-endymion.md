@@ -35,7 +35,7 @@ About the ④ effect:
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

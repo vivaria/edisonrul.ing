@@ -1,4 +1,4 @@
-# Mirror Of Oaths
+# Mirror of Oaths
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

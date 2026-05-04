@@ -1,4 +1,4 @@
-# Sage Of Silence
+# Sage of Silence
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

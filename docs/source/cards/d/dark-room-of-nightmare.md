@@ -1,4 +1,4 @@
-# Dark Room Of Nightmare
+# Dark Room of Nightmare
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

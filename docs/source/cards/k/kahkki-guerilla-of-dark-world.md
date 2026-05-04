@@ -1,4 +1,4 @@
-# Kahkki, Guerilla Of Dark World
+# Kahkki, Guerilla of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

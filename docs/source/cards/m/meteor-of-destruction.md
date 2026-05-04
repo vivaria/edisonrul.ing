@@ -1,4 +1,4 @@
-# Meteor Of Destruction
+# Meteor of Destruction
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

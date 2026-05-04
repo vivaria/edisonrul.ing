@@ -1,4 +1,4 @@
-# Mazera Deville
+# Mazera DeVille
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

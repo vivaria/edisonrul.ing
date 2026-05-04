@@ -1,4 +1,4 @@
-# Reversal Of Fate
+# Reversal of Fate
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

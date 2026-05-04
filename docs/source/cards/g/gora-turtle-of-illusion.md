@@ -1,4 +1,4 @@
-# Gora Turtle Of Illusion
+# Gora Turtle of Illusion
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

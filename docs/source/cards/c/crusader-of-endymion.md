@@ -1,4 +1,4 @@
-# Crusader Of Endymion
+# Crusader of Endymion
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

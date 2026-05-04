@@ -1,4 +1,4 @@
-# Sillva, Warlord Of Dark World
+# Sillva, Warlord of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -23,11 +23,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Text
 
-> No card text available for this card.
+> Also see rulings for “Dark World Monsters”.
 
 ### Card Rulings
-
-Also see rulings for “Dark World Monsters”.
 
 *   If this card is discarded from your hand by the opponent’s card effect, and they only have 1 card in their hand, then you still can Special Summon “Sillva, Warlord of Dark World”, but the other part of the effect will not resolve because the opponent does not have 2 cards to select.
 *   “Sillva, Warlord of Dark World” must be Special Summoned to resolve the second part of his effect. If you cannot Summon him because you activated “Scapegoat” that turn, or your Monster Card Zones are full, then the second part of his effect does not resolve.

@@ -2,11 +2,11 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Tyhone](https://edisonformat.net/card?name=Tyhone)
+Source: [https://edisonformat.net/card?name=Tyhone%20#](https://edisonformat.net/card?name=Tyhone%20#)
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> No rulings available for this card.
 
 ### Card Rulings
 
@@ -17,7 +17,7 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

@@ -1,4 +1,4 @@
-# Wrath Of Neos
+# Wrath of Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

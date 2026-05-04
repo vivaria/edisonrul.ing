@@ -1,4 +1,4 @@
-# Ka-2 Des Scissors
+# KA-2 Des Scissors
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

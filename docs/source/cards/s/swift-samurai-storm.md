@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Swift%20Samurai%20Storm](https://edisonformat.net/card?name=Swift%20Samurai%20Storm)
+Source: [https://edisonformat.net/card?name=Swift%20Samurai%20Storm!](https://edisonformat.net/card?name=Swift%20Samurai%20Storm!)
 
 ### Edison-Accurate PSCT
 

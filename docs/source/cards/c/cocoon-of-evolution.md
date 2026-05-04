@@ -1,4 +1,4 @@
-# Cocoon Of Evolution
+# Cocoon of Evolution
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

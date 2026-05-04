@@ -1,4 +1,4 @@
-# Release From Stone
+# Release from Stone
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

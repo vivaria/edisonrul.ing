@@ -1,4 +1,4 @@
-# Rod Of Silence - Kay'Est
+# Rod of Silence - Kay'est
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

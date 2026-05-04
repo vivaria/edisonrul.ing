@@ -32,13 +32,13 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continous Effect of gaining effect(s) by Tributing a "Gadget" does not activate.
-*   When you Tribute Summon this card by Tributing a "Gadget" monster, it does not start a chain. Gaining the appropriate effect is a Continuous Effect.
+    - When you Tribute Summon this card by Tributing a "Gadget" monster, it does not start a chain. Gaining the appropriate effect is a Continuous Effect.
 *   The "Green Gadget" Continuous Effect does not start a Chain.
-*   This effect applies immediately, since it does not start a Chain.
+    - This effect applies immediately, since it does not start a Chain.
 *   The ("Red Gadget") Trigger Effect is mandatory.
-*   This effect activates & resolves on the field in Substep 5 - After Damage Calculation.
+    - This effect activates & resolves on the field in Substep 5 - After Damage Calculation.
 *   The ("Yellow Gadget") Trigger Effect is mandaatory.
-*   This effect activates & resolves on the field in Substep 7 - After Damage Calculation.
-*   This effect activates even if this card is flipped face-down / leaves the field.
+    - This effect activates & resolves on the field in Substep 7 - After Damage Calculation.
+    - This effect activates even if this card is flipped face-down / leaves the field.
 
 

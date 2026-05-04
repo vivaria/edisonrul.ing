@@ -1,4 +1,4 @@
-# Elemental Hero Grand Neos
+# Elemental HERO Grand Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

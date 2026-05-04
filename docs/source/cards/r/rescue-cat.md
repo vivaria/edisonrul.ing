@@ -24,10 +24,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
-*   Sending this card to the Graveyard is cost. This effect cannot activate with "Macro Cosmos" active.
-*   This effect Special Summons 2 monsters simultaneously. You cannot activate this effect to only Summon 1 monster.
-*   A Special Summoned monster(s) that is flipped face-down (by "Book of Moon") is not destroyed.
-*   The Special Summoned monsters do not have their effects negated.
-*   Destroying the Special Summoned monsters in the End Phase does not start a chain.
+    - Sending this card to the Graveyard is cost. This effect cannot activate with "Macro Cosmos" active.
+    - This effect Special Summons 2 monsters simultaneously. You cannot activate this effect to only Summon 1 monster.
+    - A Special Summoned monster(s) that is flipped face-down (by "Book of Moon") is not destroyed.
+    - The Special Summoned monsters do not have their effects negated.
+    - Destroying the Special Summoned monsters in the End Phase does not start a chain.
 
 

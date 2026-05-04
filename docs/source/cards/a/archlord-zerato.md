@@ -30,13 +30,13 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand (this Special Summon does not start a Chain).
-*   Tributing 1 face-up "Warrior of Zera" you control is a cost.
-*   You can't Special Summon this card from the Graveyard / banished, even if properly Summoned.
-*   You can't Special Summon this card from the hand / Deck by another effect.
+    - Tributing 1 face-up "Warrior of Zera" you control is a cost.
+    - You can't Special Summon this card from the Graveyard / banished, even if properly Summoned.
+    - You can't Special Summon this card from the hand / Deck by another effect.
 *   The ① Ignition Effect activates & resolves on the field.
-*   Discarding 1 LIGHT Monster to the Graveyard is a cost. This effect can't be activated while "Macro Cosmos" is active, since you can't pay the cost.
-*   You can activate "Archlord Zerato"'s effect even if "The Sanctuary in the Sky" is not on the field (and pay cost), but the effect will not resolve.
-*   "The Sanctuary in the Sky" MUST be on the field to resolve this effect.
-*   You can activate this effect more than once per turn.
+    - Discarding 1 LIGHT Monster to the Graveyard is a cost. This effect can't be activated while "Macro Cosmos" is active, since you can't pay the cost.
+    - You can activate "Archlord Zerato's" effect even if "The Sanctuary in the Sky" is not on the field (and pay cost), but the effect will not resolve.
+    - "The Sanctuary in the Sky" MUST be on the field to resolve this effect.
+    - You can activate this effect more than once per turn.
 
 

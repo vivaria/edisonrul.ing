@@ -1,4 +1,4 @@
-# Wall Of Illusion
+# Wall of Illusion
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

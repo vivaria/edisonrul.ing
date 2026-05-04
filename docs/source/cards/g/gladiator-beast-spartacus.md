@@ -31,7 +31,7 @@ If you do, you can Summon any Gladiator Beast of any Attribute.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

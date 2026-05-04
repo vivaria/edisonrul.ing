@@ -1,4 +1,4 @@
-# 'A' Cell Breeding Device
+# "A" Cell Breeding Device
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -24,6 +24,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① mandatory Trigger-like Effect activates & resolves on the field.
-*   You can select a monster that is unaffected by the effects of Spell Cards as the monster to put an A-Counter on, but the counter will not be placed.
+    - You can select a monster that is unaffected by the effects of Spell Cards as the monster to put an A-Counter on, but the counter will not be placed.
 
 

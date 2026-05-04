@@ -1,4 +1,4 @@
-# Ritual Of Grace
+# Ritual of Grace
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -30,11 +30,11 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Unclassified Effect does not activate. It applies while this card is face-up on the field
-*   Applying this effect does not start a chain.
-*   This effect can be negated (by "Debris Dragon" / "Junk Synchron" / "Skill Drain").
-*   If "Tuningware"'s Level is changed, it can still apply this effect.
+    - Applying this effect does not start a chain.
+    - This effect can be negated (by "Debris Dragon" / "Junk Synchron" / "Skill Drain").
+    - If "Tuningware's" Level is changed, it can still apply this effect.
 *   The ② mandatory Trigger Effect activates & resolves in the Graveyard.
-*   This effect can activate when "Eccentric Boy" uses this card as Synchro Material from the hand.
-*   This effect cannot activate if the Synchro Summon is negated (by "Black Horn of Heaven").
+    - This effect can activate when "Eccentric Boy" uses this card as Synchro Material from the hand.
+    - This effect cannot activate if the Synchro Summon is negated (by "Black Horn of Heaven").
 
 

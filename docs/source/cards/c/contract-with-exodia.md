@@ -1,4 +1,4 @@
-# Contract With Exodia
+# Contract with Exodia
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

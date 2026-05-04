@@ -1,4 +1,4 @@
-# Curse Of Aging
+# Curse of Aging
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

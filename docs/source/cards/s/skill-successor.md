@@ -30,11 +30,11 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① effect activates & resolves on the field.
-*   This effect targest 1 face-up monster you control.
-*   This card can be activated in the Damage Step before Substep 4 - Damage Calculation.
+    - This effect targest 1 face-up monster you control.
+    - This card can be activated in the Damage Step before Substep 4 - Damage Calculation.
 *   The ② Quick-like Effect activates & resolves in the Graveyard.
-*   Removing “Skill Successor” from play is a cost.
-*   This effect targets 1 face-up monster you control.
-*   This effect can be activated in the Damage Step before Substep 4 - Damage Calculation.
+    - Removing “Skill Successor” from play is a cost.
+    - This effect targets 1 face-up monster you control.
+    - This effect can be activated in the Damage Step before Substep 4 - Damage Calculation.
 
 

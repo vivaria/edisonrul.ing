@@ -1,4 +1,4 @@
-# Destiny Hero - Dasher
+# Destiny HERO - Dasher
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -35,16 +35,16 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect Tributes 1 monster you control as cost.
-*   If "Soul Exchange" targeted your opponent's monster, you can Tribute it for this effect.
-*   You cannot Tribute more than 1 monster by this effect.
-*   Dasher CANNOT Tribute itself for this effect.
+    - If "Soul Exchange" targeted your opponent's monster, you can Tribute it for this effect.
+    - You cannot Tribute more than 1 monster by this effect.
+    - Dasher CANNOT Tribute itself for this effect.
 *   The ② Continuous Effect does not activate, it applies at the end of the Battle Phase.
 *   The ③ optional Trigger Effect follows a "When... you can" structure and can miss the timing.
-*   This effect starts a chain by revealing the drawn Monster Card.
-*   Dasher must be in the Graveyard in order to activate this effect, but not to resolve it.
-*   If this effect / activation is negated, it CANNOT be used again until Dasher leaves the Graveyard.
-*   This effect can activate if the last thing to happen was a card being drawn by an effect (ex: "Reload", "Heard of the Underdog") during your Draw Phase.
-*   If you draw 2+ monsters simultaneously (by "Reload") while 2 copies of Dasher are in your Graveyard: you may activate both in a chain.
-*   VS. "Drastic Drop Off": Your turn player priority allows Dasher's effect to be Chain Link 1. However, your opponent can chain "Drastic Drop Off" to discard the Monster Card you drew.
+    - This effect starts a chain by revealing the drawn Monster Card.
+    - Dasher must be in the Graveyard in order to activate this effect, but not to resolve it.
+    - If this effect / activation is negated, it CANNOT be used again until Dasher leaves the Graveyard.
+    - This effect can activate if the last thing to happen was a card being drawn by an effect (ex: "Reload", "Heard of the Underdog") during your Draw Phase.
+    - If you draw 2+ monsters simultaneously (by "Reload") while 2 copies of Dasher are in your Graveyard: you may activate both in a chain.
+    - VS. "Drastic Drop Off": Your turn player priority allows Dasher's effect to be Chain Link 1. However, your opponent can chain "Drastic Drop Off" to discard the Monster Card you drew.
 
 

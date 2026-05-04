@@ -1,4 +1,4 @@
-# Curse Of Royal
+# Curse of Royal
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

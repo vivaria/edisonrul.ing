@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Doom
+# Koa'ki Meiru Doom
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

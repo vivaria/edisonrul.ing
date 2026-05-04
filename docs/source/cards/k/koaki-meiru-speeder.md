@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Speeder
+# Koa'ki Meiru Speeder
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

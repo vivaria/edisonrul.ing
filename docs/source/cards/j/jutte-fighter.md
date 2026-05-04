@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Jutte Fighter"'s effect targets 1 face-up Attack Position monster your opponent controls.
+*   "Jutte Fighter's" effect targets 1 face-up Attack Position monster your opponent controls.
 
 

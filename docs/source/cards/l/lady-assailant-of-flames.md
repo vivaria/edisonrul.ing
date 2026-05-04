@@ -1,4 +1,4 @@
-# Lady Assailant Of Flames
+# Lady Assailant of Flames
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

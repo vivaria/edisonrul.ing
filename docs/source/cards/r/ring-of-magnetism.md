@@ -1,4 +1,4 @@
-# Ring Of Magnetism
+# Ring of Magnetism
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

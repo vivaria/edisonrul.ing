@@ -1,4 +1,4 @@
-# Invader Of Darkness
+# Invader of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

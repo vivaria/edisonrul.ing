@@ -27,9 +27,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   This ① mandatory Trigger Effect activates & resolves in the Graveyard.
-*   Monsters with "? ATK" cannot be added from Deck to hand.
-*   This effect cannot miss the timing.
-*   This effect activates even if you have no more monsters in Deck.
+    - Monsters with "? ATK" cannot be added from Deck to hand.
+    - This effect cannot miss the timing.
+    - This effect activates even if you have no more monsters in Deck.
 *   If the Summon of this card is negated with "Horn of Heaven", this effect does not activate.
 *   This effect will not trigger if "Sangan" is removed from play (by "Dimensional Fissure", etc.) instead of being sent to the Graveyard.
 

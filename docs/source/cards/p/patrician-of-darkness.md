@@ -1,4 +1,4 @@
-# Patrician Of Darkness
+# Patrician of Darkness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

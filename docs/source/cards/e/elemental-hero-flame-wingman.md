@@ -1,4 +1,4 @@
-# Elemental Hero Flame Wingman
+# Elemental HERO Flame Wingman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

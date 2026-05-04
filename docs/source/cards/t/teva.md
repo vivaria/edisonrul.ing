@@ -17,7 +17,7 @@ Source: [https://edisonformat.net/card?name=Teva](https://edisonformat.net/card?
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

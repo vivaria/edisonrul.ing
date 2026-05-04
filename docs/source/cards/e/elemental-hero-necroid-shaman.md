@@ -1,4 +1,4 @@
-# Elemental Hero Necroid Shaman
+# Elemental HERO Necroid Shaman
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

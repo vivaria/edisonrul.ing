@@ -20,7 +20,7 @@ they don’t go on the same Chain (they each activate, one after another, each o
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

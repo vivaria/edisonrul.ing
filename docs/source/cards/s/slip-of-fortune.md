@@ -1,4 +1,4 @@
-# Slip Of Fortune
+# Slip of Fortune
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

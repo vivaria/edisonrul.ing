@@ -19,12 +19,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Text
 
-> FLIP: Special Summon 1 "Gravekeeper"'s monster with 1500 or less ATK from your Deck.
+> FLIP: Special Summon 1 "Gravekeeper's" monster with 1500 or less ATK from your Deck.
 
 ### Card Rulings
 
 *   The Flip Effect is mandatory.
-*   This effect always activates, even if there are no "Gravekeeper"'s monsters in your Deck.
-*   The "Gravekeeper"'s monster must have 1500 or less printed ATK while in the Deck.
+    - This effect always activates, even if there are no "Gravekeeper's" monsters in your Deck.
+    - The "Gravekeeper's" monster must have 1500 or less printed ATK while in the Deck.
 
 

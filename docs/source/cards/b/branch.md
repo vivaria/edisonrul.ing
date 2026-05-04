@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Branch](https://edisonformat.net/card?name=Branch)
+Source: [https://edisonformat.net/card?name=Branch!](https://edisonformat.net/card?name=Branch!)
 
 ### Edison-Accurate PSCT
 

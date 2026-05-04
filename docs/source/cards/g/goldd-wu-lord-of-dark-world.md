@@ -1,4 +1,4 @@
-# Goldd, Wu-Lord Of Dark World
+# Goldd, Wu-Lord of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -25,11 +25,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Text
 
-> No card text available for this card.
+> Also see rulings for “Dark World Monsters”.
 
 ### Card Rulings
-
-Also see rulings for “Dark World Monsters”.
 
 *   The second part of this card’s effect targets 2 cards on the opponent’s side of the field. If the opponent chains a card to remove 1 of the 2 targets, the other targeted card is still destroyed.
 *   “Goldd, Wu-Lord of Dark World” must be Special Summoned to resolve the second part of his effect. If you cannot Summon him because you activated “Scapegoat” that turn, or your Monster Card Zones are full, then the second part of his effect does not resolve.

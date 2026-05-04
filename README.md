@@ -1,5 +1,7 @@
 # Yu-Gi-Oh! Edison Rulings
 
+> 📢 **Notice**: This site was updated on 2026-05-03 to include formatting fixes and new EF.net rulings. Check out [this PR](https://github.com/vivaria/edisonrul.ing/pull/3) for more details.
+
 This website contains the rulings for both [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings) and [https://edisonformat.net/card](https://edisonformat.net/card):
 
 - **Edisonformat.com**: Pre-UTW, historical rulings written by Upper Deck Entertainment circa 2010 and compiled in 2021.

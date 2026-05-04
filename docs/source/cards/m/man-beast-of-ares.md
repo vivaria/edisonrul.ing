@@ -1,4 +1,4 @@
-# Man Beast Of Ares
+# Man Beast of Ares
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

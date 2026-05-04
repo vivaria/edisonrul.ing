@@ -27,8 +27,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
-*   Returning the “Assault Mode Activate” to the Deck is a cost.
-*   This effect targets the Spell or Trap Card you wish to destroy.
-*   If you return “Assault Mode Activate” from your hand to the Deck, reveal it to your opponent.
+    - Returning the “Assault Mode Activate” to the Deck is a cost.
+    - This effect targets the Spell or Trap Card you wish to destroy.
+    - If you return “Assault Mode Activate” from your hand to the Deck, reveal it to your opponent.
 
 

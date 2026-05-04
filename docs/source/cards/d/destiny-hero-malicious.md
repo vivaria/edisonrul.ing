@@ -1,4 +1,4 @@
-# Destiny Hero - Malicious
+# Destiny HERO - Malicious
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -24,7 +24,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves in the Graveyard.
-*   Banishing this card is a cost. This effect cannot activate while "Necrovalley" is in play.
-*   If there are no open Monster Card Zones when this effect resolves, the second copy of "Destiny Hero - Malicious" cannot be Special Summoned. It is destroyed and sent to the Graveyard.
+    - Banishing this card is a cost. This effect cannot activate while "Necrovalley" is in play.
+    - If there are no open Monster Card Zones when this effect resolves, the second copy of "Destiny Hero - Malicious" cannot be Special Summoned. It is destroyed and sent to the Graveyard.
 
 

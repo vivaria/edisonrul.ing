@@ -25,11 +25,11 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
-*   Discarding 1 card is a cost.
-*   This effect must Summon as many Level 4 or lower Fish-Type monsters from your Deck as possible. You cannot Special Summon only 1 Fish-Type while you have 3 open Monster Card Zones, unless it is the only Level 4 or lower Fish-Type monster remaining in your Deck.
+    - Discarding 1 card is a cost.
+    - This effect must Summon as many Level 4 or lower Fish-Type monsters from your Deck as possible. You cannot Special Summon only 1 Fish-Type while you have 3 open Monster Card Zones, unless it is the only Level 4 or lower Fish-Type monster remaining in your Deck.
 *   The ② Quick Effect activates & resolves on the field.
-*   Tributing 1 other Fish-Type monster is a cost. You cannot Tribute this card for its own effect.
-*   This negates the activation of effects that target this card (ex: "Blaze Accelerator", "Exiled Force").
-*   This effect can be activated multiple times during the same turn, and even in the Damage Step.
+    - Tributing 1 other Fish-Type monster is a cost. You cannot Tribute this card for its own effect.
+    - This negates the activation of effects that target this card (ex: "Blaze Accelerator", "Exiled Force").
+    - This effect can be activated multiple times during the same turn, and even in the Damage Step.
 
 

@@ -1,4 +1,4 @@
-# Elemental Hero Aqua Neos
+# Elemental HERO Aqua Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Cry%20Havoc](https://edisonformat.net/card?name=Cry%20Havoc)
+Source: [https://edisonformat.net/card?name=Cry%20Havoc!](https://edisonformat.net/card?name=Cry%20Havoc!)
 
 ### Edison-Accurate PSCT
 

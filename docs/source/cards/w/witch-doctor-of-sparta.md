@@ -1,4 +1,4 @@
-# Witch Doctor Of Sparta
+# Witch Doctor of Sparta
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

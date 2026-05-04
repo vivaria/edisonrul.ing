@@ -20,7 +20,7 @@ Source: [https://edisonformat.net/card?name=Blackwing%20-%20Bora%20the%20Spear](
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

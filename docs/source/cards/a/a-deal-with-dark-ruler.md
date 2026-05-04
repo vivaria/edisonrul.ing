@@ -1,4 +1,4 @@
-# A Deal With Dark Ruler
+# A Deal with Dark Ruler
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

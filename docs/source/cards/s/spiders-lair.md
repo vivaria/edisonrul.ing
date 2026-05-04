@@ -1,4 +1,4 @@
-# Spider’S Lair
+# Spiders' Lair
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

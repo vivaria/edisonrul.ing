@@ -27,13 +27,13 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continuous Effect only applies while this card is in face-up Attack Position.
-*   Your Machine-Type monster Summoned by "Call of the Haunted" is not destroyed when "Call of the Haunted" leaves the field. This also applies to “D.D.R. - Different Dimension Reincarnation”.
-*   Union Monsters can equip to Machine-Type monsters you control, but all their effects are negated.
-*   This does not negate effects that target 2(+) cards (like "Icarus Attack").
-*   This does not negate effects that don't target (like "Bottomless Trap Hole").
+    - Your Machine-Type monster Summoned by "Call of the Haunted" is not destroyed when "Call of the Haunted" leaves the field. This also applies to “D.D.R. - Different Dimension Reincarnation”.
+    - Union Monsters can equip to Machine-Type monsters you control, but all their effects are negated.
+    - This does not negate effects that target 2(+) cards (like "Icarus Attack").
+    - This does not negate effects that don't target (like "Bottomless Trap Hole").
 *   The ② optional Trigger Effect activates & resolves in the Graveyard.
-*   This effect activates in Substep 7 - End of the Damage Step.
-*   This card must be face-up before being selected as an attack target for this effect to trigger.
-*   This effect cannot activate if this face-down card is attacked and destroyed by battle \[[REF](https://www.pojo.biz/board/showpost.php?p=17414058&postcount=14)\].
+    - This effect activates in Substep 7 - End of the Damage Step.
+    - This card must be face-up before being selected as an attack target for this effect to trigger.
+    - This effect cannot activate if this face-down card is attacked and destroyed by battle [[REF](https://www.pojo.biz/board/showpost.php?p=17414058&postcount=14)].
 
 

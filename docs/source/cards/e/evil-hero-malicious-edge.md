@@ -1,4 +1,4 @@
-# Evil Hero Malicious Edge
+# Evil HERO Malicious Edge
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

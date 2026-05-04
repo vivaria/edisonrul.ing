@@ -10,6 +10,12 @@ Source: [https://edisonformat.net/card?name=Cyber%20Shadow%20Gardna](https://edi
 
 ### Card Rulings
 
+*   Trap Monster Rulings
+*   When this card is activated, its Spell/Trap Zone cannot be used until the card is removed from the field, even while it is in the Monster Zone.
+*   While in the Monster Zone, this card can still be targeted by "Mystical Space Typhoon", and be destroyed by "Heavy Storm".
+*   If an effect is applying that negates Trap Effects ("Royal Decree", "Jinzo", "Trap Stun"), this card returns face-up to the Spell/Trap Zone, and is not Summoned again even when that effect stops applying.
+*   If this card becomes Set while in the Monster Zone, eg by "Book of Moon", it returns face-down to the Spell/Trap Zone.
+
 *   A Field Spell Card or similar effect will adjust the ATK/DEF of “Cyber Shadow Gardna” accordingly after it copies the ATK & DEF of another monster.
 *   You can't chain to the effect of “Cyber Shadow Gardna” that copies another monster’s ATK & DEF.
 *   “Light of Intervention” only stops you from Setting monsters. Since the final effect of “Cyber Shadow Gardna” Sets it as a Trap Card, this effect will still happen even if “Light of Intervention” is active.

@@ -1,4 +1,4 @@
-# Charm Of Shabti
+# Charm of Shabti
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

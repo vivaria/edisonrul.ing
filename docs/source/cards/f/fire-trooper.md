@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Fire Trooper"'s effect is a Trigger Effect. Sending "Fire Trooper" to the Graveyard is a cost.
+*   "Fire Trooper's" effect is a Trigger Effect. Sending "Fire Trooper" to the Graveyard is a cost.
 
 

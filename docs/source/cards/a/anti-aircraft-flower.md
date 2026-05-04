@@ -26,7 +26,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
-*   Tributing 1 Insect-Type monster you control is a cost.
-*   You can Tribute a face-down Insect-Type monster to activate "Anti-Aircraft Flower"'s effect.
+    - Tributing 1 Insect-Type monster you control is a cost.
+    - You can Tribute a face-down Insect-Type monster to activate "Anti-Aircraft Flower"'s effect.
 
 

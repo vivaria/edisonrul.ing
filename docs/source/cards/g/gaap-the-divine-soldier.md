@@ -30,12 +30,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continuous Effect applies while Gaap is face-up on the field.
-*   Set monsters changed to Attack Position by this effect are not treated as being Flip Summoned.
-*   "Torrential Tribute" CANNOT be activated.
-*   Both Players can Set monsters, but they are immediately changed to face-up Attack Position.
-*   Cards / Effects that Special Summon face-down / Set monsters can be activated, but those monsters are immediately changed to face-up Attack Position.
+    - Set monsters changed to Attack Position by this effect are not treated as being Flip Summoned.
+        * "Torrential Tribute" CANNOT be activated.
+    - Both Players can Set monsters, but they are immediately changed to face-up Attack Position.
+    - Cards / Effects that Special Summon face-down / Set monsters can be activated, but those monsters are immediately changed to face-up Attack Position.
 *   The ② Ignition Effect can only be activated during the Main Phase.
-*   Revealing a Fiend-Type monster(s) from your hand is a cost.
-*   You can choose how many Fiend-Type monsters you reveal.
+    - Revealing a Fiend-Type monster(s) from your hand is a cost.
+    - You can choose how many Fiend-Type monsters you reveal.
 
 

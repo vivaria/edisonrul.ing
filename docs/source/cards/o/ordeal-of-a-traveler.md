@@ -1,4 +1,4 @@
-# Ordeal Of A Traveler
+# Ordeal of a Traveler
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -21,7 +21,7 @@ Source: [https://edisonformat.net/card?name=Trap%20of%20Darkness](https://edison
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

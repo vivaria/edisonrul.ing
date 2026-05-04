@@ -1,4 +1,4 @@
-# Ritual Of Destruction
+# Ritual of Destruction
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

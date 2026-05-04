@@ -1,4 +1,4 @@
-# Heart Of Clear Water
+# Heart of Clear Water
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

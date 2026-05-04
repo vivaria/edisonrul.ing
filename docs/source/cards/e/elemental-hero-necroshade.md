@@ -1,4 +1,4 @@
-# Elemental Hero Necroshade
+# Elemental HERO Necroshade
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

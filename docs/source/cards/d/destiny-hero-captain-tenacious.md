@@ -1,4 +1,4 @@
-# Destiny Hero - Captain Tenacious
+# Destiny HERO - Captain Tenacious
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

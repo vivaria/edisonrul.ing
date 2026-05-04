@@ -1,4 +1,4 @@
-# Burst Stream Of Destruction
+# Burst Stream of Destruction
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

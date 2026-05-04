@@ -20,7 +20,7 @@ Source: [https://edisonformat.net/card?name=Commander%20Covington](https://ediso
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

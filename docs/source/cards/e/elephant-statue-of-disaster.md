@@ -1,4 +1,4 @@
-# Elephant Statue Of Disaster
+# Elephant Statue of Disaster
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

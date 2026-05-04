@@ -24,6 +24,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   Sending card(s) from your hand to the Graveyard is a cost.
-*   "Red Ogre"'s effect targets card(s) on the field.
+*   "Red Ogre's" effect targets card(s) on the field.
 
 

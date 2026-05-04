@@ -25,6 +25,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The Ⓤ Unclassified Effect applies in the hand.
-*   Special Summoning this card does not start a chain.
+    - Special Summoning this card does not start a chain.
 
 

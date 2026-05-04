@@ -1,4 +1,4 @@
-# Wall Of Revealing Light
+# Wall of Revealing Light
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

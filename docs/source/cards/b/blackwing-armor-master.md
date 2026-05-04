@@ -1,4 +1,4 @@
-# Blackwing - Armor Master
+# Blackwing Armor Master
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -29,9 +29,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   This ① Continuous Effect can be negated by "Skill Drain".
 *   The ② optional Trigger Effect places a "Wedge Counter" on a monster that battled Amor Master during Substep 7 - End of the Damage Step (when monsters destroyed by battle are sent to the Graveyard).
-*   This effect does not target the monster battling Armor Master.
-*   "Wedge Counters" fall off a monster if it is flipped face-down / leaves the field.
+    - This effect does not target the monster battling Armor Master.
+    - "Wedge Counters" fall off a monster if it is flipped face-down / leaves the field.
 *   The ③ Ignition Effect removes all "Wedge Counters" from the field as cost.
-*   The ATK / DEF changes are reset when that monster is flipped face-down / leaves the field.
+    - The ATK / DEF changes are reset when that monster is flipped face-down / leaves the field.
 
 

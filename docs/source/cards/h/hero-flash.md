@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Hero%20Flash](https://edisonformat.net/card?name=Hero%20Flash)
+Source: [https://edisonformat.net/card?name=Hero%20Flash!!](https://edisonformat.net/card?name=Hero%20Flash!!)
 
 ### Edison-Accurate PSCT
 

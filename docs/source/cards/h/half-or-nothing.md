@@ -1,4 +1,4 @@
-# Half Or Nothing
+# Half or Nothing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

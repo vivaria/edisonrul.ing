@@ -19,7 +19,7 @@ Cards like "Bottomless Trap Hole" and "Torrential Tribute" can never be used in 
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

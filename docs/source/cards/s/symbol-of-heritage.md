@@ -1,4 +1,4 @@
-# Symbol Of Heritage
+# Symbol of Heritage
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

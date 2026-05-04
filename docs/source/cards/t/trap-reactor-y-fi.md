@@ -1,4 +1,4 @@
-# Trap Reactor Y Fi
+# Trap Reactor Y FI
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

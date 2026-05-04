@@ -21,7 +21,7 @@ You choose whether or not to Summon a monster when the effect resolves.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

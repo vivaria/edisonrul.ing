@@ -1,4 +1,4 @@
-# Seal Of Wickedness
+# Seal of Wickedness
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Elemental Hero Dark Neos
+# Elemental HERO Dark Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

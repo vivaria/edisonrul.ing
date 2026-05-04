@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Flying%20Kamakiri%201](https://edisonformat.net/card?name=Flying%20Kamakiri%201)
+Source: [https://edisonformat.net/card?name=Flying%20Kamakiri%20#1](https://edisonformat.net/card?name=Flying%20Kamakiri%20#1)
 
 ### Edison-Accurate PSCT
 

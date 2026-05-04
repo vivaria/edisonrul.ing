@@ -1,7 +1,5 @@
 # Counter Gem
 
-Also known as: "Crystal Counter".
-
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
 Source: [https://edisonformat.net/card?name=Counter%20Gem](https://edisonformat.net/card?name=Counter%20Gem)
@@ -17,13 +15,15 @@ No rulings found for this card. Request new rulings at https://discord.gg/shVJnY
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
 
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 
-*   You cannot activate "Counter Gem" when there are no "Crystal Beast" monsters in your Graveyard.
-*   You cannot activate "Counter Gem" if it is the only card in your Spell and Trap Card Zone.
+*   You cannot activate "Crystal Counter" when there are no "Crystal Beast" monsters in your Graveyard.
+*   You cannot activate "Crystal Counter" if it is the only card in your Spell and Trap Card Zone.
 
 

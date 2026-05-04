@@ -1,4 +1,4 @@
-# An Owl Of Luck
+# An Owl of Luck
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

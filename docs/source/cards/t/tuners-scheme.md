@@ -1,4 +1,4 @@
-# Tuner’S Scheme
+# Tuner's Scheme
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

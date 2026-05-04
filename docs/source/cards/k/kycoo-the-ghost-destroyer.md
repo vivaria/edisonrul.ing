@@ -26,10 +26,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① optional Trigger Effect activates in Substep 5 - After Damage Calculation.
-*   This effect targets up to 2 Monsters in your opponent's Graveyard.
-*   This effect cannot activate while "Necrovalley" is active.
+    - This effect targets up to 2 Monsters in your opponent's Graveyard.
+    - This effect cannot activate while "Necrovalley" is active.
 *   The ② Continuous Effect does not activate.
-*   Your opponent cannot activate cards / effects that remove cards in the Graveyard(s) from play, whether as cost or as part of their effect.
-*   Your opponent cannot Summon monsters like "Chaos Sorcerer".
+    - Your opponent cannot activate cards / effects that remove cards in the Graveyard(s) from play, whether as cost or as part of their effect.
+    - Your opponent cannot Summon monsters like "Chaos Sorcerer".
 
 

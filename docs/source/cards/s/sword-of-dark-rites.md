@@ -1,4 +1,4 @@
-# Sword Of Dark Rites
+# Sword of Dark Rites
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

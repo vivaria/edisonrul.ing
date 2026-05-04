@@ -1,4 +1,4 @@
-# Convulsion Of Nature
+# Convulsion of Nature
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

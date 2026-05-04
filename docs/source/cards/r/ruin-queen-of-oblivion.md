@@ -7,7 +7,7 @@ Source: [https://edisonformat.net/card?name=Ruin,%20Queen%20of%20Oblivion](https
 ### Edison-Accurate PSCT
 
 > You can Ritual Summon this card with "End of the World"
-> ① If this attacking card destroys an opponent's monster by battle: you can activate this effect; It can attack again in a row.
+> ① If this attacking card destroys an opponent's monster by battle: you can activate this effect;  It can attack again in a row.
 
 ### Card Rulings
 
@@ -18,7 +18,7 @@ Source: [https://edisonformat.net/card?name=Ruin,%20Queen%20of%20Oblivion](https
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

@@ -1,4 +1,4 @@
-# Herald Of Creation
+# Herald of Creation
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -27,8 +27,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
-*   Discarding 1 card is a cost.
-*   This effect targets a Level 7(+) monster in your Graveyard. It is negated by "Necrovalley".
+    - Discarding 1 card is a cost.
+    - This effect targets a Level 7(+) monster in your Graveyard. It is negated by "Necrovalley".
 *   This effect can't activate without a Level 7(+) monster in your Graveyard, even if you discard one as cost.
 
 

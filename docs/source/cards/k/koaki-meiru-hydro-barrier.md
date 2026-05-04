@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Hydro Barrier
+# Koa'ki Meiru Hydro Barrier
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

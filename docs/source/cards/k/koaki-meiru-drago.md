@@ -1,4 +1,4 @@
-# Koa'Ki Meiru Drago
+# Koa'ki Meiru Drago
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -31,13 +31,13 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The Ⓜ Maintenance Cost is not an effect. It cannot be negated.
-*   Revealing 1 Dragon-Type monster does not start a chain.
-*   VS. "Brain Control": if your opponent controls your Drago; they can fail to pay the maintenance cost, destroying Drago, before resolving "Brain Control" (returning your Drago).
+    - Revealing 1 Dragon-Type monster does not start a chain.
+    - VS. "Brain Control": if your opponent controls your Drago; they can fail to pay the maintenance cost, destroying Drago, before resolving "Brain Control" (returning your Drago).
 *   The ① Continuous Effect does not activate.
-*   LIGHT / DARK monsters cannot be Special Summoned (face-up or face-down).
-*   Cards / Effects that would Special Summon a LIGHT / DARK monster cannot be activated.
-*   Cards / Effects that MIGHT Special Summon a LIGHT / DARK monster can be activated
-*   Ex: If "Reasoning" would Special Summon a LIGHT monster, it is sent to the Graveyard.
-*   Ex: "Return from the Different Dimension" cannot Special Summon LIGHT / DARK monsters.
+    - LIGHT / DARK monsters cannot be Special Summoned (face-up or face-down).
+    - Cards / Effects that would Special Summon a LIGHT / DARK monster cannot be activated.
+    - Cards / Effects that MIGHT Special Summon a LIGHT / DARK monster can be activated
+        * Ex: If "Reasoning" would Special Summon a LIGHT monster, it is sent to the Graveyard.
+        * Ex: "Return from the Different Dimension" cannot Special Summon LIGHT / DARK monsters.
 
 

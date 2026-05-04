@@ -28,8 +28,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① optional Trigger Effect follows a "When... you can" structure and can miss the timing.
-*   This effect targets the monster in the Graveyard, and will be negated by "Necrovalley".
-*   The Summoned monster can still activate its effect(s) to pay costs (ex: "Lonefire Blossom"), but it will resolve without effect.
+    - This effect targets the monster in the Graveyard, and will be negated by "Necrovalley".
+    - The Summoned monster can still activate its effect(s) to pay costs (ex: "Lonefire Blossom"), but it will resolve without effect.
 *   This card has two Ⓒ Conditions ([Rule Effects](https://yugipedia.com/wiki/Condition)) which CANNOT be negated.
 
 

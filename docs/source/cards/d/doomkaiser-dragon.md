@@ -25,9 +25,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① effect targets 1 Zombie-Type monster in either Graveyard.
-*   This effect continuous to target the Special Summoned monster while it is on the field.
-*   If "Doomkaiser Dragon" is flipped face-down before this effect resolves, the target is still Special Summoned and it is no longer targeted by "Doomkaiser Dragon" while on the field.
+    - This effect continuous to target the Special Summoned monster while it is on the field.
+    - If "Doomkaiser Dragon" is flipped face-down before this effect resolves, the target is still Special Summoned and it is no longer targeted by "Doomkaiser Dragon" while on the field.
 *   The Ⓒ Condition destroys the Summoned monster immediately. This does not start a Chain.
-*   If this card is destroyed while resolving an effect in the Chain, destroy the Special Summoned monster immediately before resolving the next effect in the Chain.
+    - If this card is destroyed while resolving an effect in the Chain, destroy the Special Summoned monster immediately before resolving the next effect in the Chain.
 
 

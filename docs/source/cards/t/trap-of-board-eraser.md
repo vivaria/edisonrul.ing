@@ -1,4 +1,4 @@
-# Trap Of Board Eraser
+# Trap of Board Eraser
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

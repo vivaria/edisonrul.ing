@@ -25,8 +25,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   This card can only respond to the activation (when it is played face-up) of a Spell / Trap Card# .
-
+*   This card can only respond to the activation (when it is played face-up) of a Spell / Trap Card**.**
 *   This card cannot respond to the activated effect of a Spell / Trap Card on the field / in the Graveyard.
 *   Your opponent draws a card when the effect resolves. This is not a cost.
 *   You cannot activate this card if your opponent has no cards in their Deck.

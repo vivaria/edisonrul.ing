@@ -34,7 +34,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 *   If an attacking monster or the monster being attacked is destroyed by this card, no replay occurs. If damage calculation has not been performed yet, it is not performed.
 *   This card will only negate the activation of the monster Effect that preceeds it in the Chain.
 *   This card can negate the effect of a Spirit Monster that returns it to its owner’s hand.
-*   If this card negates "Treeborn Frog"'s effect, its effect can be activated again in that Standby Phase.
+*   If this card negates "Treeborn Frog's" effect, its effect can be activated again in that Standby Phase.
 *   This card cannot negate the effect of an equipped Union Monster that would Special Summon itself as a monster, because that is an effect of an Equip Spell Card.
 *   This card cannot negate a monster's Continuous Effect, such as "Goblin Attack Force" going to Defense Position after declaring an attack, as these effects do not activate.
 

@@ -27,10 +27,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect does not target this card.
-*   There is no cost.
-*   When this effect resolves, remove fromplay all "Iron Chain" monsters in your Graveyard.
+    - There is no cost.
+    - When this effect resolves, remove fromplay  all "Iron Chain" monsters in your Graveyard.
 *   The ② mandatory Trigger Effect activates in Substep 5 - After Damage Calculation.
-*   There is no cost. The top 3 cards of your opponent's Deck are milled when this effect resolves.
-*   This effect applies while "Macro Cosmos" is active. The top 3 cards are removed from play instead.
+    - There is no cost. The top 3 cards of your opponent's Deck are milled when this effect resolves.
+    - This effect applies while "Macro Cosmos" is active. The top 3 cards are removed from play instead.
 
 

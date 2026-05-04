@@ -25,7 +25,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① optional Trigger Effect activates & resolves on the field.
-*   You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.
-*   If you add 2 "roid" monsters to your hand with "Expressroid"'s effect while you control this card, you can activate its effect to Special Summon both "roid" monsters.
+    - You can Special Summon “Dark Jeroid” with “Ambulanceroid’s” effect because it has “roid” in its card name.
+    - If you add 2 "roid" monsters to your hand with "Expressroid's" effect while you control this card, you can activate its effect to Special Summon both "roid" monsters.
 
 

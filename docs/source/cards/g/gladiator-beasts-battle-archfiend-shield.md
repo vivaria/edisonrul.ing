@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Gladiator Beast's Battle Archfiend Shield"'s effect to destroy itself instead of the equipped monster does not start a Chain.
+*   "Gladiator Beast's Battle Archfiend Shield's" effect to destroy itself instead of the equipped monster does not start a Chain.
 
 

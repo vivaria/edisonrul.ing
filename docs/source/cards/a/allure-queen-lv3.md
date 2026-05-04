@@ -32,14 +32,14 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Ignition Effect activates & resolves on the field.
-*   This effect targets a face-up monster on your opponent's field.
-*   If "Book of Moon" is chained to the activation of "Allure Queen LV3"'s effect to turn the "Allure Queen" face-down, the target is destroyed. It cannot be equipped to a face-down monster.
-*   You can equip a monster to “Allure Queen LV3” that is having its Level reduced to 3 or lower by an effect, like “Demotion”.
+    - This effect targets a face-up monster on your opponent's field.
+    - If "Book of Moon" is chained to the activation of "Allure Queen LV3's" effect to turn the "Allure Queen" face-down, the target is destroyed. It cannot be equipped to a face-down monster.
+    - You can equip a monster to “Allure Queen LV3” that is having its Level reduced to 3 or lower by an effect, like “Demotion”.
 *   The ② Continuous Effect applies while this card is face-up on the field.
-*   Applying this effect does not start a Chain.
-*   The destroyed monster (that was equipped) is not considered to be destroyed by battle.
+    - Applying this effect does not start a Chain.
+    - The destroyed monster (that was equipped) is not considered to be destroyed by battle.
 *   The ③ mandatory Trigger Effect activates & resolves on the field.
-*   Sending this card to the Graveyard is a cost.
-*   This effect cannot be activate while "Macro Cosmos" is in play.
+    - Sending this card to the Graveyard is a cost.
+    - This effect cannot be activate while "Macro Cosmos" is in play.
 
 

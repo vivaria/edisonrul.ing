@@ -1,4 +1,4 @@
-# Cloak And Dagger
+# Cloak and Dagger
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

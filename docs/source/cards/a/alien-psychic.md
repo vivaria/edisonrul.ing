@@ -7,7 +7,7 @@ Source: [https://edisonformat.net/card?name=Alien%20Psychic](https://edisonforma
 ### Edison-Accurate PSCT
 
 > ① If this card is Normal/Flip Summoned: Change it to Defense position.
-> ② Monsters with A-Counters can't declare attacks.
+>  ② Monsters with A-Counters can't declare attacks.
 
 ### Card Rulings
 
@@ -18,7 +18,7 @@ No rulings currently avaiable.
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

@@ -17,7 +17,7 @@ Source: [https://edisonformat.net/card?name=Seven%20Tools%20of%20the%20Bandit](h
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

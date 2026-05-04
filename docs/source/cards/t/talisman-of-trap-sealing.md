@@ -1,4 +1,4 @@
-# Talisman Of Trap Sealing
+# Talisman of Trap Sealing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

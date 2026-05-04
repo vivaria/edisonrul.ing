@@ -25,7 +25,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   Sending "Gadget Driver" from your hand to the Graveyard is a cost.
-*   "Gadget Driver"'s effect targets face-up "Morphtronic" monster(s) you control.
-*   "Gadget Driver"'s effect cannot be activated during the Damage Step.
+*   "Gadget Driver's" effect targets face-up "Morphtronic" monster(s) you control.
+*   "Gadget Driver's" effect cannot be activated during the Damage Step.
 
 

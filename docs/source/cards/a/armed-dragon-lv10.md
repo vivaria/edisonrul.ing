@@ -30,10 +30,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 *   The Ⓒ Condition cannot be negated.
 *   The Ⓤ Unclassified Effect applies in the hand (this Special Summon doesn't start a Chain).
-*   You can't Special Summon "Armed Dragon LV10" with "Level Up!" because "Armed Dragon LV7" doesn't mention "Armed Dragon LV7" in its card text.
-*   Can't be Special Summoned from the Graveyard / banished, even if it was properly Summoned.
+    - You can't Special Summon "Armed Dragon LV10" with "Level Up!" because "Armed Dragon LV7" doesn't mention "Armed Dragon LV7" in its card text.
+    - Can't be Special Summoned from the Graveyard / banished, even if it was properly Summoned.
 *   The ① Ignition Effect activates & resolves on the field.
-*   Sending 1 Monster Card from your hand is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
-*   Face-down monsters are not destroyed.
+    - Sending 1 Monster Card from your hand is a cost. This effect can't activate while "Macro Cosmos" is active, since you can't pay the cost.
+    - Face-down monsters are not destroyed.
 
 

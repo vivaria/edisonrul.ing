@@ -26,9 +26,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Trigger Effect is optional, it activates & resolves on the field.
-*   This effect activates in the Summon response timing (like "Trap Hole").
-*   While "Macro Cosmos" is active, the DARK monster sent is banished instead.
-*   This is not a cost. The DARK monster is sent to the Graveyard when this effect resolves.
-*   This effect CAN'T activate if this card was Summoned as Chain Link 2+ (by "Call of the Haunted").
+    - This effect activates in the Summon response timing (like "Trap Hole").
+    - While "Macro Cosmos" is active, the DARK monster sent is banished instead.
+    - This is not a cost. The DARK monster is sent to the Graveyard when this effect resolves.
+    - This effect CAN'T activate if this card was Summoned as Chain Link 2+ (by "Call of the Haunted").
 
 

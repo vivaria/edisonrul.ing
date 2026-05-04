@@ -17,7 +17,7 @@ Source: [https://edisonformat.net/card?name=Gaia%20Knight,%20the%20Force%20of%20
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

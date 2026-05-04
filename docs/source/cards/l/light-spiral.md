@@ -24,6 +24,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Light Spiral"'s effect starts a Chain.
+*   "Light Spiral's" effect starts a Chain.
 
 

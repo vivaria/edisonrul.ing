@@ -1,4 +1,4 @@
-# Code "A" Ancient Ruins
+# Code A Ancient Ruins
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
@@ -12,7 +12,7 @@ Source: [https://edisonformat.net/card?name=Code%20A%20Ancient%20Ruins](https://
 
 ### Card Rulings
 
-*   If a Set “Alien” monster is destroyed by battle, you don't place A-Counters on this card.
+*   If a Set  “Alien” monster is destroyed by battle, you don't place A-Counters on this card.
 (It needs to be face-up at attack declaration).
 
 
@@ -27,9 +27,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Continuous-like Effect does not start a chain.
-*   No A-Counter is placed on this card if an "Alien" monster face-down when an attack is declared.
+    - No A-Counter is placed on this card if an "Alien" monster face-down when an attack is declared.
 *   The ② Ignition-llike Effect targets an "Alien" monster in your Graveyard.
-*   Removing 2 A-Counters from this card is a cost.
-*   This card must remain face-up on the field in order to resolve this effect.
+    - Removing 2 A-Counters from this card is a cost.
+    - This card must remain face-up on the field in order to resolve this effect.
 
 

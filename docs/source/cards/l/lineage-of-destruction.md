@@ -1,4 +1,4 @@
-# Lineage Of Destruction
+# Lineage of Destruction
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

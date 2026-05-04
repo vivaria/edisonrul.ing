@@ -26,8 +26,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① mandatory Trigger Effect activates & resolves in the Graveyard.
-*   This effect activates in Substep 7 - End of the Damage Step.
-*   "Agido" can Special Summon itself.
-*   This effect does not target.
+    - This effect activates in Substep 7 - End of the Damage Step.
+    - "Agido" can Special Summon itself.
+    - This effect does not target.
 
 

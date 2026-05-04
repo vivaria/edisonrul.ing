@@ -1,4 +1,4 @@
-# Dark Factory Of Mass Production
+# Dark Factory of Mass Production
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

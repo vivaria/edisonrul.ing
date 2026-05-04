@@ -19,7 +19,7 @@ Source: [https://edisonformat.net/card?name=Elemental%20HERO%20Terra%20Firma](ht
 
 ### Card Text
 
-> No card text available for this card.
+> No card text found for this card.
 
 ### Card Rulings
 

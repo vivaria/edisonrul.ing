@@ -1,4 +1,4 @@
-# Reign-Beaux, Overlord Of Dark World
+# Reign-Beaux, Overlord of Dark World
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

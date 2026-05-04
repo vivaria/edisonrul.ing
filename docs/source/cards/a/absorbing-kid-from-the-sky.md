@@ -26,8 +26,8 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① mandatory Trigger Effect activates & resolves on the field.
-*   This effect activates in Substep 7 - End of the Damage Step.
-*   This card must be face-up on the field to activate this effect \[[REF](https://www.edisonformat.com/home/basic-strategy-will-it-trigger)\].
-*   The Level is the original Level printed on the card.
+    - This effect activates in Substep 7 - End of the Damage Step.
+    - This card must be face-up on the field to activate this effect [[REF](https://www.edisonformat.com/home/basic-strategy-will-it-trigger)].
+    - The Level is the original Level printed on the card.
 
 

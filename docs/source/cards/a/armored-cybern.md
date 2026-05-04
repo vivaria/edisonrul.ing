@@ -27,9 +27,9 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   "Armored Cybern"'s effect to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.
+*   "Armored Cybern's" effect to destroy 1 monster targets. The ATK of the equipped monster is decreased when this effect resolves.
 *   If "Reverse Trap" is activated, the equipped monster will gain 1000 ATK instead of losing 1000 ATK. When the turn ends, the ATK gain will become an ATK loss.
 *   When "Armored Cybern" is unequipped or removed from the field, the ATK lost with its effect is no longer applied.
-*   When "Armored Cybern" is equipped to a monster that is unaffected by the effects of Spell Cards, you can activate its effect but the effect disappears because the equipped monster's ATK cannot be reduced with "Armored Cybern"'s effect.
+*   When "Armored Cybern" is equipped to a monster that is unaffected by the effects of Spell Cards, you can activate its effect but the effect disappears because the equipped monster's ATK cannot be reduced with "Armored Cybern's" effect.
 
 

@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Sea Panther
+# Koa'ki Meiru Sea Panther
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

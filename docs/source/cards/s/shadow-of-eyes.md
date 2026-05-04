@@ -1,4 +1,4 @@
-# Shadow Of Eyes
+# Shadow of Eyes
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -1,4 +1,4 @@
-# Ninjitsu Art Of Transformation
+# Ninjitsu Art of Transformation
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

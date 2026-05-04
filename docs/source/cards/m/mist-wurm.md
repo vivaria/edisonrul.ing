@@ -25,7 +25,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① mandatory Trigger Effect activates in the Summon response timing (like "Trap Hole").
-*   This effect targets 1, 2, or 3 (face-up / face-down) cards your opponent controls.
-*   Targets are returned to the hand even if flipped face-up / face-down.
+    - This effect targets 1, 2, or 3 (face-up / face-down) cards your opponent controls.
+    - Targets are returned to the hand even if flipped face-up / face-down.
 
 

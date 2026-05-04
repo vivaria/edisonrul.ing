@@ -10,7 +10,7 @@ Source: [https://edisonformat.net/card?name=The%20Wicked%20Avatar](https://ediso
 
 ### Card Rulings
 
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+*   If The Wicked Avatar is the only face-up monster on the field, its ATK and DEF are 100.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
@@ -24,3 +24,5 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   If "The Wicked Avatar" is the only face-up monster on the field, its ATK and DEF are 100.
+
+

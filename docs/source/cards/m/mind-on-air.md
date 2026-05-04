@@ -1,4 +1,4 @@
-# Mind On Air
+# Mind on Air
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

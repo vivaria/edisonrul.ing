@@ -1,4 +1,4 @@
-# Koa’Ki Meiru Rooklord
+# Koa'ki Meiru Rooklord
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

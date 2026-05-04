@@ -1,4 +1,4 @@
-# Wolf In Sheep’S Clothing
+# Wolf in Sheep's Clothing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

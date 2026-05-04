@@ -1,8 +1,8 @@
-# Level Down!
+# Level Down!?
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Level%20Down](https://edisonformat.net/card?name=Level%20Down)
+Source: [https://edisonformat.net/card?name=Level%20Down!?](https://edisonformat.net/card?name=Level%20Down!?)
 
 ### Edison-Accurate PSCT
 

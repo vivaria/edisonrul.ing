@@ -1,4 +1,4 @@
-# Raviel, Lord Of Phantasms
+# Raviel, Lord of Phantasms
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

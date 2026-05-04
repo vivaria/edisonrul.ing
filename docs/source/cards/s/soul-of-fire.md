@@ -1,4 +1,4 @@
-# Soul Of Fire
+# Soul of Fire
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

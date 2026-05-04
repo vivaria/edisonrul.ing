@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   If "Rai-Jin" is face-up on your side of the field and you don't have any LIGHT Monsters in your Graveyard, "Rai-Jin"'s ATK is 0.
+*   If "Rai-Jin" is face-up on your side of the field and you don't have any LIGHT Monsters in your Graveyard, "Rai-Jin's" ATK is 0.
 
 

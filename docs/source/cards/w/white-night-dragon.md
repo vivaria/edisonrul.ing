@@ -27,12 +27,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Quick Effect activates & resolves on the field.
-*   This effect can be activated on either players turn, and even in the Damage Step.
-*   This effect can be activated more than once in a Chain.
-*   The ② optional Trigger Effect activates & resolves on the field.
-*   Sending a Spell or Trap Card to the Graveyard is a cost.
-*   This effect does not target.
-*   If you control your opponent’s monster with “Snatch Steal” while you have “White Night Dragon” in play and your opponent attacks the equipped monster, if you send “Snatch Steal” to the Graveyard to change the attack target no replay occurs.
-*   If this effect is negated by “Skill Drain,” a replay occurs.
+    - This effect can be activated on either players turn, and even in the Damage Step.
+    - This effect can be activated more than once in a Chain.
+*   The ②  optional Trigger Effect activates & resolves on the field.
+    - Sending a Spell or Trap Card to the Graveyard is a cost.
+    - This effect does not target.
+    - If you control your opponent’s monster with “Snatch Steal” while you have “White Night Dragon” in play and your opponent attacks the equipped monster, if you send “Snatch Steal” to the Graveyard to change the attack target no replay occurs.
+    - If this effect is negated by “Skill Drain,” a replay occurs.
 
 

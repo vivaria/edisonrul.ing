@@ -27,12 +27,12 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The Ⓤ Unclassified Effect acts as a built-in Special Summon (this does not start a Chain).
-*   This card can also be Normal Summoned.
+    - This card can also be Normal Summoned.
 *   The ① Ignition Effect activates & resolves on the field.
-*   This effect does not target.
+    - This effect does not target.
 *   The ② Continuous Effect applies while this card is face-up on the field.
-*   If this card is not on the field, a monster with an A-Counter won't lose ATK when battling an "Alien".
+    - If this card is not on the field, a monster with an A-Counter won't lose ATK when battling an "Alien".
 *   The ③ Unclassified Effect applies while this card is face-up on the field.
-*   This effect can be negated by "Skill Drain".
+    - This effect can be negated by "Skill Drain".
 
 

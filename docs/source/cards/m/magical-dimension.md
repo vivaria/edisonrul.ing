@@ -6,7 +6,7 @@ Source: [https://edisonformat.net/card?name=Magical%20Dimension](https://edisonf
 
 ### Edison-Accurate PSCT
 
-> If you control a Spellcaster: Target 1 monster you control; tribute that target, and if you do, Special Summon 1 Spellcaster from your hand, then you can destroy 1 monster on the field.
+> If you control a Spellcaster monster: Target 1 monster you control; tribute that target, and if you do, Special Summon 1 Spellcaster from your hand, then you can destroy 1 monster on the field.
 
 ### Card Rulings
 

@@ -1,4 +1,4 @@
-# Elephant Statue Of Blessing
+# Elephant Statue of Blessing
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

@@ -29,10 +29,10 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Trigger Effect is mandatory, it activates & resolves on the field.
-*   When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by "Skill Drain", but this card will not forget which effect is gained while face-up.
+    - When this effect resolves, this card gains the corresponding Effect. The corresponding effect can be negated by "Skill Drain", but this card will not forget which effect is gained while face-up.
 *   The (HEADS) Trigger Effect is optional, it activates & resolves on the field.
 *   The (TAILS) Trigger Effect is mandatory, it activates & resolves on the field.
-*   This effect targets 1 monster you control.
-*   Monsters given to your opponent with "Arcana Force XVIII - The Moon"'s tails effect will remain on your opponent's side of the field when "Arcana Force XVIII - The Moon" is removed from the field or flipped face-down.
+    - This effect targets 1 monster you control.
+    - Monsters given to your opponent with "Arcana Force XVIII - The Moon's" tails effect will remain on your opponent's side of the field when "Arcana Force XVIII - The Moon" is removed from the field or flipped face-down.
 
 

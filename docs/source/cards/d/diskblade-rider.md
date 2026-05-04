@@ -23,6 +23,6 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 
 ### Card Rulings
 
-*   Removing 1 Normal Trap Card from play is not a cost. "Diskblade Rider"'s effect targets 1 Normal Trap Card in your Graveyard.
+*   Removing 1 Normal Trap Card from play is not a cost. "Diskblade Rider's" effect targets 1 Normal Trap Card in your Graveyard.
 
 

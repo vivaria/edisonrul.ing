@@ -1,4 +1,4 @@
-# Pot Of Benevolence
+# Pot of Benevolence
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

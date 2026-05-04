@@ -26,7 +26,7 @@ Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/ruli
 ### Card Rulings
 
 *   The ① Trigger Effect is OPTIONAL.
-*   This effect activates in Substep 1 - Start of the Damage Step (before face-down monsters are flipped face-up). A face-down Flip Monster that is attacked is returned without activating its effect.
-*   This effect does not target the opponent's monster.
+    - This effect activates in Substep 1 - Start of the Damage Step (before face-down monsters are flipped face-up). A face-down Flip Monster that is attacked is returned without activating its effect.
+    - This effect does not target the opponent's monster.
 
 

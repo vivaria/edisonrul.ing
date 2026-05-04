@@ -1,4 +1,4 @@
-# Elemental Hero Flare Neos
+# Elemental HERO Flare Neos
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

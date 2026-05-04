@@ -1,4 +1,4 @@
-# Mystical Knight Of Jackal
+# Mystical Knight of Jackal
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 

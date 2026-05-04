@@ -2,7 +2,7 @@
 
 ## Edisonformat.net (Revised, Post-UTW Rulings)
 
-Source: [https://edisonformat.net/card?name=Breakthrough](https://edisonformat.net/card?name=Breakthrough)
+Source: [https://edisonformat.net/card?name=Breakthrough!](https://edisonformat.net/card?name=Breakthrough!)
 
 ### Edison-Accurate PSCT
 
