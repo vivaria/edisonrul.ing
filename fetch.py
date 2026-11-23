@@ -17,10 +17,10 @@ are made for that phase.
 from __future__ import annotations
 
 import re
-import asyncio
 import argparse
 import json
 import tqdm
+import time
 import unicodedata
 from pathlib import Path
 from dataclasses import dataclass
@@ -28,7 +28,7 @@ from dataclasses import dataclass
 import pandas as pd
 from bs4 import BeautifulSoup
 import markdownify
-from playwright.async_api import async_playwright
+import requests
 
 
 # ============================================================================
@@ -48,8 +48,8 @@ EFCOM_URLS = [
 
 OUTPUT_ROOT          = Path("docs/source/cards").resolve()
 CARDPOOL_CSV_DEFAULT = "edison_cardpool.csv"
-PAGE_LOAD_TIMEOUT    = 30_000   # ms  (efcom)
-JS_SETTLE_MS         =  2_000   # ms  (efcom)
+PAGE_LOAD_TIMEOUT    = 30  # seconds (efcom)
+EFCOM_DELAY_SECONDS  = 2
 
 # ---------------------------------------------------------------------------
 # Errata / name-mapping table
@@ -128,7 +128,7 @@ def resolve_slug(raw_slug: str) -> str:
 
 def output_path(slug: str) -> Path:
     """Return the canonical output path for a given slug."""
-    subfolder = "0-9" if slug[0].isdigit() else slug[0].upper()
+    subfolder = "0-9" if slug[0].isdigit() else slug[0].lower()
     return OUTPUT_ROOT / subfolder / f"{slug}.md"
 
 
@@ -229,13 +229,13 @@ def build_full_markdown(
 
 
 # ============================================================================
-# SECTION 3 — EFCOM FETCH PHASE  (sync Playwright)
+# SECTION 3 — EFCOM FETCH PHASE
 # ============================================================================
 
-async def _efcom_fetch_page(page, url: str) -> BeautifulSoup:
-    await page.goto(url, wait_until="networkidle", timeout=PAGE_LOAD_TIMEOUT)
-    await page.wait_for_timeout(JS_SETTLE_MS)
-    return BeautifulSoup(await page.content(), "html.parser")
+def _efcom_fetch_page(session: requests.Session, url: str) -> BeautifulSoup:
+    response = session.get(url, timeout=PAGE_LOAD_TIMEOUT)
+    response.raise_for_status()
+    return BeautifulSoup(response.text, "html.parser")
 
 
 def _efcom_extract_rulings_html(soup: BeautifulSoup) -> str:
@@ -364,9 +364,9 @@ def _efcom_parse_card(card_md: str, source_url: str) -> EfcomData:
     )
 
 
-async def fetch_efcom_cards(skip: bool = False) -> dict[str, EfcomData]:
+def fetch_efcom_cards(skip: bool = False) -> dict[str, EfcomData]:
     """
-    Async Playwright phase: fetch all edisonformat.com rulings pages sequentially.
+    Fetch all edisonformat.com rulings pages sequentially.
 
     Returns a dict mapping final (errata-resolved) slug → EfcomData.
     Cards that hit an errata mapping are logged.  Duplicates are skipped.
@@ -377,21 +377,21 @@ async def fetch_efcom_cards(skip: bool = False) -> dict[str, EfcomData]:
 
     results: dict[str, EfcomData] = {}
 
-    async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=True)
-        page = await browser.new_page()
-
-        for url in EFCOM_URLS:
+    with requests.Session() as session:
+        session.headers["User-Agent"] = (
+            "edisonrul.ing rulings refresh (https://github.com/vivaria/edisonrul.ing)"
+        )
+        for index, url in enumerate(EFCOM_URLS):
+            if index:
+                time.sleep(EFCOM_DELAY_SECONDS)
             print(f"[efcom] Fetching {url}")
-            try:
-                soup = await _efcom_fetch_page(page, url)
-            except Exception as exc:
-                print(f"[efcom]   ERROR: {exc}")
-                continue
+            soup = _efcom_fetch_page(session, url)
 
             rulings_html = _efcom_extract_rulings_html(soup)
             markdown     = _efcom_html_to_markdown(rulings_html)
             cards        = _efcom_split_into_cards(markdown)
+            if not cards:
+                raise ValueError(f"No card rulings found on {url}")
 
             print(f"[efcom]   Found {len(cards)} cards.")
             for card_name, card_md in cards:
@@ -408,8 +408,6 @@ async def fetch_efcom_cards(skip: bool = False) -> dict[str, EfcomData]:
 
                 results[final_slug] = _efcom_parse_card(card_md, source_url=url)
 
-        await browser.close()
-
     print(f"[efcom] Done. {len(results)} cards fetched.")
     return results
 
@@ -420,10 +418,7 @@ async def fetch_efcom_cards(skip: bool = False) -> dict[str, EfcomData]:
 
 
 def _efnet_field(data: dict, key: str) -> str:
-    """
-    Return data[key]["Edison"], falling back to data[key]["Base"].
-    Returns "" if both are absent or start with a known sentinel phrase.
-    """
+    """Prefer Edison data to Base, including upstream placeholders."""
     for variant in ("Edison", "Base"):
         value = data.get(key, {}).get(variant, "")
         if value:
@@ -459,11 +454,17 @@ def load_efnet_cards(
             continue
 
         with open(path, encoding="utf-8") as f:
-            try:
-                raw = json.load(f)
-            except json.decoder.JSONDecodeError:
-                print(f"Failed to decode {path}")
-                continue
+            raw = json.load(f)
+
+        if not isinstance(raw, dict) or raw.get("id") != int(card_id):
+            raise ValueError(f"[efnet] Invalid card ID in {path}")
+        for field in ("PSCT", "Rulings"):
+            variants = raw.get(field)
+            if not isinstance(variants, dict) or not any(
+                isinstance(variants.get(variant), str) and variants[variant]
+                for variant in ("Edison", "Base")
+            ):
+                raise ValueError(f"[efnet] Missing {field} data in {path}")
 
         results[slug] = EfnetData(
             card_name=raw.get("name", card.get("card_name", slug)),
@@ -474,11 +475,43 @@ def load_efnet_cards(
 
     print(f"[efnet] Loaded {len(results)} cards from '{json_dir}'.")
     if missing_files:
-        print(f"[efnet] {len(missing_files)} slugs had no matching JSON file:")
-        for slug in sorted(missing_files):
-            print(f"  {slug}")
+        raise ValueError(
+            f"[efnet] {len(missing_files)} slugs had no matching JSON file: "
+            + ", ".join(sorted(missing_files))
+        )
 
     return results
+
+
+def validate_efcom_coverage(
+    card_data: dict[str, dict], efcom_cards: dict[str, EfcomData]
+) -> None:
+    """Prevent a partial scrape from deleting existing historical content."""
+    missing = []
+    for slug in card_data:
+        path = output_path(slug)
+        if not path.is_file():
+            continue
+        text = path.read_text(encoding="utf-8")
+        historical = text.partition("## Edisonformat.com (Historical, Pre-UTW Rulings)")[2]
+        if not historical:
+            continue
+        existing_text = historical.partition("### Card Text\n\n")[2].partition("\n\n### Card Rulings")[0].strip()
+        existing_rulings = historical.partition("### Card Rulings\n\n")[2].strip()
+        card = efcom_cards.get(slug)
+        if (existing_text and existing_text != f"> {_NO_TEXT}" and (
+            not card or not card.card_text or card.card_text.strip() == _NO_TEXT
+        )) or (
+            existing_rulings and existing_rulings != _NO_RULING and (
+                not card or not card.rulings or card.rulings.strip() == _NO_RULING
+            )
+        ):
+            missing.append(slug)
+    if missing:
+        raise ValueError(
+            f"[efcom] Scrape would remove historical content for {len(missing)} cards: "
+            + ", ".join(sorted(missing))
+        )
 
 
 # ============================================================================
@@ -529,6 +562,7 @@ def merge_and_write(
         path.write_text(
             build_full_markdown(display_name, efnet, efcom),
             encoding="utf-8",
+            newline="\n",
         )
         written += 1
 
@@ -569,7 +603,7 @@ def merge_and_write(
 # SECTION 6 — ENTRY POINT
 # ============================================================================
 
-async def _async_main(args: argparse.Namespace) -> None:
+def _run(args: argparse.Namespace) -> None:
     # Load cardpool CSV (source of truth)
     card_data = csv_to_dict(args.input)
     print(f"Loaded {len(card_data)} cards from '{args.input}'.\n")
@@ -578,11 +612,13 @@ async def _async_main(args: argparse.Namespace) -> None:
     efnet_cards = load_efnet_cards(args.json_dir, card_data)
     print()
 
-    # Phase B — efcom (async, sequential pages)
-    efcom_cards = await fetch_efcom_cards(skip=args.skip_efcom)
+    # Phase B — efcom (sequential pages)
+    efcom_cards = fetch_efcom_cards(skip=args.skip_efcom)
     print()
 
     # Phase C — merge & write
+    if not args.skip_efcom:
+        validate_efcom_coverage(card_data, efcom_cards)
     merge_and_write(card_data, efnet_cards, efcom_cards)
 
 
@@ -600,7 +636,7 @@ def main() -> None:
                         help=f"Cardpool CSV file (default: {CARDPOOL_CSV_DEFAULT})")
 
     args = parser.parse_args()
-    asyncio.run(_async_main(args))
+    _run(args)
 
 
 if __name__ == "__main__":
