@@ -17,3 +17,11 @@ The goals of **Edisonrul.ing** are as follows:
 - Transparent comparison between historical rulings and updated rulings.
 
 > Note: The individual card rulings for **Edisonformat.com** were compiled from the archived UDE Gameplay FAQ database \[[REF](https://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C)\] and the Konami Card Rulings documents \[[CRMS](https://ms.yugipedia.com//1/11/Card_Rulings_-_Crimson_Crisis_v2.0.pdf), [RGBT](https://img.yugioh-card.com/uk/gameplay/rulings/RGBT_rules.pdf), [ANPR](https://img.yugioh-card.com/uk/gameplay/rulings/ANPR_rules.pdf), [SOVR](https://img.yugioh-card.com/lat-am/pt/gameplay/rulings/SOVR_sneak_ruling.pdf), [ABPF](https://img.yugioh-card.com/uk/gameplay/rulings/ABPF_rules.pdf), [HA01](https://img.yugioh-card.com/uk/gameplay/rulings/100304%20HA_SDWS_ST09_Rules.pdf), [SDMM](https://img.yugioh-card.com/lat-am/gameplay/rulings/10406SDMachinaMayhem_Rules.pdf)\]. Notable cards have streamlined rulings and additional information cross-referenced against Pojo / Duelistgroundz.
+
+## Refreshing rulings
+
+The [refresh workflow](.github/workflows/refresh-rulings.yml) runs daily at 06:17 UTC. It fetches rulings from [mikaRulings](https://github.com/MikaMikaDE/mikaRulings) and edisonformat.com, validates and builds the docs, and commits changes to `main` when needed.
+
+Pull requests run a dry run and upload a `rulings-patch` artifact if changes are found. Manual runs default to dry run; disabling it permits a push only from `main`. Actions needs write permission and branch rules must allow the push. Read the Docs must be configured to rebuild on pushes.
+
+For local runs, install `requirements-fetch.txt` with Python 3.12 and run `python fetch.py --json-dir PATH_TO_MIKARULINGS_CARDS`. Run tests with `python -m pytest tests`. The `--skip-efcom` option writes empty historical sections.

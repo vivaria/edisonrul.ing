@@ -6,7 +6,10 @@ Source: [https://edisonformat.net/card?name=The%20Six%20Samurai%20-%20Yaichi](ht
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> ① Once per turn: You can target 1 Set Spell/Trap Card; destroy that target.
+> You must control a face-up "Six Samurai" monster with a different name to activate and to resolve this effect.
+> This card cannot declare an attack during the turn this effect is activated.
+> ② If this card would be destroyed, you can destroy another face-up "Six Samurai" monster you control instead..
 
 ### Card Rulings
 

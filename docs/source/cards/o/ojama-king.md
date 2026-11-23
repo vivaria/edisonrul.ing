@@ -6,14 +6,15 @@ Source: [https://edisonformat.net/card?name=Ojama%20King](https://edisonformat.n
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> "Ojama Green" + "Ojama Yellow" + "Ojama Black"
+> ① Choose up to 3 of your opponent's unused Monster Zones. Those zones cannot be used.
 
 ### Card Rulings
 
-*   You can't select occupied Monster Card Zones with Ojama King’s effect. If your opponent has 5 monsters on the field, then Ojama King’s effect is not applied.
-*   Ojama King’s effect activates and you select up to 3 Monster Card Zones when Ojama King becomes face-up on the field.
-*   If you select up to 3 Monster Card Zones and your Ojama King is flipped face-down, the Monster Card Zones are usable again. When Ojama King is flipped face-up again, you can select up to 3 Monster Card Zones again.
-*   If you take control of your opponent’s face-up Ojama King, you can't select new Monster Card Zones because the zones are selected when Ojama King becomes face-up on the field.
+*   You can't choose occupied Monster Card Zones with the effect of "Ojama King". If your opponent has 5 monsters on the field, the effect of "Ojama King" effect is not applied.
+*   The effect of "Ojama King" is continuous and applies while "Ojama King" is face-up on the field.
+*   If you select up to 3 Monster Card Zones and your "Ojama King" is flipped face-down, the Monster Card Zones are usable again. When "Ojama King" is flipped face-up again, you can select up to 3 Monster Card Zones again.
+*   If you take control of your opponent’s face-up "Ojama King", you can't select new Monster Card Zones because the zones are selected when "Ojama King becomes" face-up on the field.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

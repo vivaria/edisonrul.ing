@@ -6,7 +6,7 @@ Source: [https://edisonformat.net/card?name=Alien%20Skull](https://edisonformat.
 
 ### Edison-Accurate PSCT
 
-> Ⓤ You can Special Summon this card (from your hand) to your opponent's field by tributing 1 Level 3 or lower monster they control, also place 1 A-Counter on this card (You can't Normal/Special Summon the turn you use this effect).
+> Ⓤ You can Special Summon this card (from your hand) to your opponent's field by tributing 1 Level 3 or lower monster they control, also place 1 A-Counter on this card (You can't Normal Summon/Set the turn you use this effect).
 > ② Monsters with A-Counters lose 300 ATK/DEF for each A-Counter on them, while battling an 'Alien' monster, during Damage Calculation only.
 
 ### Card Rulings

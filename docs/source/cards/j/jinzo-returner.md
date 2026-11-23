@@ -6,7 +6,8 @@ Source: [https://edisonformat.net/card?name=Jinzo%20-%20Returner](https://edison
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> Ⓒ This card can attack directly.
+>  ① When this card is sent to the GY: You can target 1 "Jinzo" in your GY; Special Summon it, but destroy it during your End Phase.
 
 ### Card Rulings
 

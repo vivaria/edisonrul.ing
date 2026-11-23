@@ -14,7 +14,8 @@ Source: [https://edisonformat.net/card?name=Destiny%20HERO%20-%20Plasma](https:/
 
 ### Card Rulings
 
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
+*   If you equip a card to this card that has a lingering effect applied to it, it will be reset as if it left the field. E.g. "Plaguespreader Zombie" will not be banished.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

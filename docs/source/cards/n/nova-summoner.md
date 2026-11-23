@@ -7,7 +7,7 @@ Source: [https://edisonformat.net/card?name=Nova%20Summoner](https://edisonforma
 ### Edison-Accurate PSCT
 
 > ① If destroyed by battle and sent to the GY:
-> You can Special Summon 1 Fairy with 1500 or less ATK from your Deck,
+> You can Special Summon 1 LIGHT Fairy monster with 1500 or less ATK from your Deck,
 > or, if "Sanctuary in the Sky" is on the field, you can Special Summon 1 "Airknight Parshath", instead.
 
 ### Card Rulings

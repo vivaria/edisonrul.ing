@@ -6,7 +6,7 @@ Source: [https://edisonformat.net/card?name=Shire,%20Lightsworn%20Spirit](https:
 
 ### Edison-Accurate PSCT
 
-> ① Gains 300 ATK and DEF for each "Lightsworn" monster in your GY with a different name.
+> ① Gains 300 ATK for each "Lightsworn" monster in your GY with a different name.
 > ② During your End Phase: Send the top 2 cards of your Deck to the GY.
 > (Activate & Resolve only if face-up on the field).
 

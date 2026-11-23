@@ -6,7 +6,7 @@ Source: [https://edisonformat.net/card?name=Mind%20Master](https://edisonformat.
 
 ### Edison-Accurate PSCT
 
-> ① You can pay 800 LP, then and Tribute 1 Psychic (except "Mind Master"); Special Summon 1 Level 4 or lower Psychic from your Deck in Attack Position.
+> ① You can pay 800 LP, and Tribute 1 Psychic (except "Mind Master"); Special Summon 1 Level 4 or lower Psychic from your Deck in Attack Position.
 
 ### Card Rulings
 

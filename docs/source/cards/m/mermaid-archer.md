@@ -13,6 +13,7 @@ Source: [https://edisonformat.net/card?name=Mermaid%20Archer](https://edisonform
 ### Card Rulings
 
 *   If both this card and its equipped monster would be destroyed at the same time, you can't use the ③ effect to prevent its destruction.
+*   If you equip a card to this card that has a lingering effect applied to it, it will be reset as if it left the field. E.g. "Plaguespreader Zombie" will not be banished.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

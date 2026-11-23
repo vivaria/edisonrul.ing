@@ -13,7 +13,9 @@ Source: [https://edisonformat.net/card?name=Cross%20Porter](https://edisonformat
 
 ### Card Rulings
 
-*   If this card is sent to the GY to activate its ① effect, its ② effect will have incorrect timing.
+*   You can choose to activate this effect under "Macro Cosmos", but after banishing a monster you cannot summon a "Neo-Spacian" from your hand.
+*   You can choose to activate this effect sending a token to the GY, but you cannot summon a "Neo-Spacian" from your hand.
+*   If this card is sent to the GY to activate its ① effect, its ② effect will miss its activation timing.
 You can read more about Timing here:
 https://edisonformat.net/rules/compendium/missing-the-timing
 
