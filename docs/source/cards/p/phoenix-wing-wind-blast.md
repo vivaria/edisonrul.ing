@@ -6,7 +6,7 @@ Source: [https://edisonformat.net/card?name=Phoenix%20Wing%20Wind%20Blast](https
 
 ### Edison-Accurate PSCT
 
-> ① Discard 1 card, then target 1 card on the field; return it to the top of the Deck.
+> ① Discard 1 card, then target 1 card your opponent controls; return it to the top of the Deck.
 
 ### Card Rulings
 

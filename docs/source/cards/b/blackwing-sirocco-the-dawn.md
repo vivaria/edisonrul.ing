@@ -15,6 +15,12 @@ Source: [https://edisonformat.net/card?name=Blackwing%20-%20Sirocco%20the%20Dawn
 *   The ① stops applying in the End Phase of the turn it was activated.
 *   The target gains ATK equal to the ATK of all Blackwings on the field - including your opponent's.
 *   If the target is set, and then flipped face-up, it doesn't gain any ATK, and you can't attack with it.
+*   This effect can target itself even if there are no other "Blackwing" monsters on the field, although the ATK will not be increased.
+*   This effect cannot be activated during your Main Phase 2.
+vs Negation:
+*   If the activation of this effect is negated (e.g. by "Gladiator Beast War Chariot"), you may attack with monsters other than the target.
+*   If the effect is negated (e.g. by "Forbidden Chalice"), you may not attack with monsters other than the target.
+*   If Sirocco's effects are negated after this effect has resolved (e.g. by "Skill Drain"), the ATK boost will remain and you still may not attack with other monsters.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

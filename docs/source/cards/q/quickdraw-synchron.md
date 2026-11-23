@@ -15,7 +15,10 @@ Source: [https://edisonformat.net/card?name=Quickdraw%20Synchron](https://edison
 *   The ① effect is an ignition effect. It activates, and can be chained to.
 *   Sending a card to the GY is part of the ① effect. It happens when this effect resolves.
 If you can't send, you can't Summon. If you can't Summon, you don't send.
-(If the effect is negated, you don't send a card from your hand to the GY)
+(e.g. if "Mind Crush" is chained, removing the last monster from your hand or if "Call of the Haunted is chained", summoning "Vanity's Fiend".
+But not if "Macro Cosmos" is chained, in which case you may banish the sent monster instead, still summoning this card).
+*   If the effect is negated, you don't send a card from your hand to the GY.
+*   Because this card is summoned as part of the effect, it cannot be negated by cards like "Solemn Judgment", "Thunder King Rai-Oh" etc. The entire effect may be negated by "Royal Oppression" however.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

@@ -19,6 +19,7 @@ Source: [https://edisonformat.net/card?name=Relinquished](https://edisonformat.n
 *   Equipped Token monsters have 0 ATK/DEF, and are destroyed by Token Thanksgiving.
 
 *   Damage is only inflicted if the the destruction is prevented.
+*   If you equip a card to this card that has a lingering effect applied to it, it will be reset as if it left the field. E.g. "Plaguespreader Zombie" will not be banished.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

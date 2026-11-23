@@ -13,6 +13,15 @@ Source: [https://edisonformat.net/card?name=Revived%20King%20Ha%20Des](https://e
 ### Card Rulings
 
 *   This negation is permanent, until the destroyed monster leaves the GY.
+*   This effect can't be negated by Divine Wrath, but CAN be negated by Skill Drain.
+*   This effect will be applied by every monster if Zombie World is in play.
+*   Monster destroyed by battle are marked for destruction at the end of Damage Calculation.
+*   Effects that activate in Substep 5 - After Damage Calculation are negated.
+*   Effects that activate in Substep 6 - Resolve Effects are negated (ex: Ryko, Lightsworn Hunter and D.D. Warrior Lady).
+*   Effects that activate in Substep 7 - End of the Damage Step are negated (ex: Mystic Tomato).
+*   Effects that activate in the GY are negated; such as Treeborn Frog, Plaguespreader Zombie, Sinister Serpent. The negation is reset if these cards are removed from the GY.
+*   This effect does not affect monsters destroyed as substitutes such as Six Samurai monsters, or if Relinquished would be destroyed by battle while equipped with Sangan.
+*   If your Revived King Ha Des or other Zombie-Type monster destroys Tyrant Dragon as a result of battle, a Dragon-Type monster must still be Tributed when Tyrant Dragon is Special Summoned from the GY. This is because Tributing a Dragon-Type monster is a condition on the Summoning of the card; it is not part of the effect. For the same reason, if a Spirit Monster is destroyed by a Zombie-Type monster when Revived King Ha Des is on the field, it still Cannot be Special Summoned from the GY. Also if Revived King Ha Des destroy Dark Ruler Ha Des by battle, it still cannot be Special Summoned from the GY.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

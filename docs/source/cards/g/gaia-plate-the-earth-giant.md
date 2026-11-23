@@ -6,11 +6,20 @@ Source: [https://edisonformat.net/card?name=Gaia%20Plate%20the%20Earth%20Giant](
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> ① You can Special Summon this card (from your hand) by banishing 2 Rock Monsters from your GY.
+> ② Halve the ATK/DEF of any monster that battles with this card during Damage Calculation only.
+> Ⓜ During your Standby Phase, send this card you control to the GY, unless you banish 1 Rock monster from your GY.
 
 ### Card Rulings
 
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+The Ⓜ :
+This is a Maintenance Cost. It does not activate, and cannot be negated.
+
+The ②:
+*   This applies in Damage Calculation.
+*   This effect is "Supercontinuous", meaning that it will apply and re-apply after any other ATK/DEF modifier.
+EG, vs "Honest": This effect will apply before Honest is activated, and will re-apply after Honest resolves.
+Once this effect stops applying, reapply all other ATK/DEF modifiers, including Lingering Effects.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

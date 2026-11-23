@@ -8,8 +8,7 @@ Source: [https://edisonformat.net/card?name=Hyper%20Psychic%20Blaster](https://e
 
 > 1 Tuner + 1 or more non-Tuner Psychics
 > ① Inflicts Piercing Damage.
-> ② At the end of the Damage Step, if this card attacked a monster with DEF lower than this card's ATK:
-> Gain LP equal to the difference.
+> ② At the end of the Damage Step, if this card attacked a Defense Position monster with DEF lower than this card's ATK: Gain LP equal to the difference.
 
 ### Card Rulings
 

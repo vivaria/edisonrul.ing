@@ -10,7 +10,8 @@ Source: [https://edisonformat.net/card?name=Trap%20Stun](https://edisonformat.ne
 
 ### Card Rulings
 
-No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+*   Trap Effects don't leave the field even if the physical card leaves the field. For example:
+If "Jar of Greed" is activated, and "Mystical Space Typhoon" is chained, targeting that Jar of Greed, while this card's effect is applying, "Jar of Greed" is still negated, even though the card is in the GY.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

@@ -6,7 +6,11 @@ Source: [https://edisonformat.net/card?name=Earthbound%20Immortal%20Aslla%20pisc
 
 ### Edison-Accurate PSCT
 
-> No Edison-Accurate PSCT available for this card.
+> Ⓤ There can only be 1 "Earthbound Immortal" monster on the field.
+> ① If there is no face-up Field Spell on the field, destroy this card.
+> ②Your opponent's monsters cannot target this card for attacks.
+> ③ This card can attack directly.
+> ④ If this face-up card leaves the field, except by its own effect: Destroy as many face-up monsters your opponent controls as possible, then, inflict 800 damage to your opponent for each monster destroyed.
 
 ### Card Rulings
 
@@ -20,6 +24,7 @@ Source: [https://edisonformat.net/card?name=Earthbound%20Immortal%20Aslla%20pisc
 *   If a face-down “Earthbound Immortal Aslla piscu” is attacked while there is no Field Spell Card on the field, and the attacking monster destroys it by battle: Aslla piscu is destroyed by battle, it is not destroyed by its effect after that, and when Aslla piscu is sent to the GY as a result of that battle, its effect will activate to destroy monsters and inflict damage.
 *   If “Earthbound Immortal Aslla piscu” is removed from the field face-down, its effect to destroy monsters and inflict damage does not activate.
 *   If “Earthbound Immortal Aslla piscu” is returned to the Deck from the field, its effect to destroy monsters and inflict damage does not activate.
+*   In this format, the destruction of face-up monsters your opponent controls and the inflicting of damage is treated as happening sequentially. Cards such as "Dupe Frog" will miss their activation timing if destroyed by this effect.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

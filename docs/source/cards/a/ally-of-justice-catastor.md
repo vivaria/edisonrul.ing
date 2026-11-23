@@ -15,6 +15,7 @@ Source: [https://edisonformat.net/card?name=Ally%20of%20Justice%20Catastor](http
 
 *   The start of the Damage Step occurs before set monsters are flipped face-up.
 (If this card attacks a Set monster, this card's effect doesn’t activate.)
+*   If "Ally of Justice Catastor" battles a monster that can be treated as both DARK and another Attribute, such as "Dark Simorgh", the effect of "Ally of Justice Catastor" will activate and destroy the monster.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

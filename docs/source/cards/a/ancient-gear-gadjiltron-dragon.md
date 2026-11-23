@@ -18,7 +18,7 @@ About the ① effect:
 
 *   It is a Continuous Effect, it applies from attack declaration until the Damage Step ends.
 
-*   Spell/Trap effects may still be activated (e.g. the effect of an already activated "Ultimate Offerring"/"Royal Oppression" or the GY effect of "Skill Successor"), the Continuous Effect of Traps will also continue to apply.
+*   Spell/Trap effects may still be activated (e.g. the effect of an already activated "Ultimate Offering"/"Royal Oppression" or the GY effect of "Skill Successor"), the Continuous Effect of Traps will also continue to apply.
 
 *   After the Damage Step ends, it returns to the Battle Step. Then, the turn player retains priority to declare an attack, there is not a window for the opponent to activate a Spell/Trap inbetween two consecutive "Ancient Gear" attacks.
 

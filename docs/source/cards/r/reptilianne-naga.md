@@ -8,7 +8,7 @@ Source: [https://edisonformat.net/card?name=Reptilianne%20Naga](https://edisonfo
 
 > ① This card cannot be destroyed by battle.
 > ② At the end of the Battle Phase, if this card battled: the ATK of the monster(s) this card battled becomes 0.
-> ③ During your End Phase, if you control this Attack Position card: change this card to face-up Defense Position.
+> ③ During your End Phase, if you control this Defense Position card: change this card to face-up Attack Position.
 
 ### Card Rulings
 

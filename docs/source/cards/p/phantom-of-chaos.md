@@ -21,7 +21,7 @@ Source: [https://edisonformat.net/card?name=Phantom%20of%20Chaos](https://edison
 *   You decide when this lingering effect expires during the End Phase (like with Brain Control).
 *   VS. Relinquished: If Phantom  of Chaos copies the name, ATK, and effects of Relinquished and equips an opponent's monster, the equipped monster is destroyed during the End Phase.
 *   VS. Prohibition: if a card is named, and later Phantom of Chaos copied its name, ATK, and effects, then it can't attack, change its Battle Position, etc.
-*   VS. Skill Drain: If you use Phantom of Chaos' effect to copy the name, ATK, and effect(s) of a DARK monster and afterwards Skill Drain is activated, the copied effect(s) are negated, but the copied name and ATK are not negated. If you activate Phantom of Chaos' effect and Skill Drain is chained, the target is not removed from play, and the effect resolves negated.
+*   VS. Skill Drain: If you use Phantom of Chaos' effect to copy the name, ATK, and effect(s) of a monster and afterwards Skill Drain is activated, the copied effect(s) are negated, but the copied name and ATK are not negated. If you activate Phantom of Chaos' effect and Skill Drain is chained, the target is not removed from play, and the effect resolves negated.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)

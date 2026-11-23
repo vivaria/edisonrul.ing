@@ -10,11 +10,11 @@ Source: [https://edisonformat.net/card?name=Volcanic%20Queen](https://edisonform
 > Ⓢ Must first be Special Summoned (from your hand) to the opponent's field, by tributing 1 monster they control.
 > Ⓒ You can't Normal Summon/Set the turn this card is successfully Summoned this way.
 > ① Once per turn: You can send 1 other card you control to the GY; inflict 1000 damage to your opponent.
-> ② During your End Phase: Tribute 1 monster or take 1000 damage.
+> ② During your End Phase: Tribute 1 other monster or take 1000 damage.
 
 ### Card Rulings
 
-*   You choose whether to tribute or inflict damage with the ③ when it resolves, not when it activates.
+*   You choose whether to tribute or inflict damage with the ② when it resolves, not when it activates.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
