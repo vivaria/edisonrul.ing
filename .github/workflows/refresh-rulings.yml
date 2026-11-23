@@ -1,0 +1,110 @@
+name: Refresh rulings
+
+on:
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Generate and validate a patch without pushing
+        type: boolean
+        default: true
+
+concurrency:
+  group: refresh-rulings-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    outputs:
+      changed: ${{ steps.patch.outputs.changed }}
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: '0'
+          persist-credentials: false
+      - name: Check out upstream rulings
+        uses: actions/checkout@v4
+        with:
+          repository: MikaMikaDE/mikaRulings
+          path: upstream-rulings
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: |
+            requirements.txt
+            requirements-fetch.txt
+      - name: Install dependencies
+        run: python -m pip install -r requirements-fetch.txt
+      - name: Run generator tests
+        run: python -m pytest tests
+      - name: Refresh card pages
+        run: |
+          echo "Upstream rulings revision: $(git -C upstream-rulings rev-parse HEAD)"
+          python fetch.py --json-dir upstream-rulings/cards
+      - name: Build documentation
+        run: sphinx-build -W -j 4 -b html docs/source "$RUNNER_TEMP/rulings-html"
+      - name: Prepare patch
+        id: patch
+        shell: bash
+        run: |
+          git add -- docs/source/cards
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No card documentation changes." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git diff --cached --binary > "$RUNNER_TEMP/rulings.patch"
+            {
+              echo "Card documentation changes:"
+              echo '```'
+              git diff --cached --stat
+              echo '```'
+              echo "Download the rulings-patch artifact to review the full diff."
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Upload patch for review
+        if: steps.patch.outputs.changed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: rulings-patch
+          path: ${{ runner.temp }}/rulings.patch
+          if-no-files-found: error
+
+  commit:
+    needs: refresh
+    if: >-
+      needs.refresh.outputs.changed == 'true' &&
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'schedule' ||
+       (github.event_name == 'workflow_dispatch' && inputs.dry_run == false))
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the tested revision
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+      - name: Download generated patch
+        uses: actions/download-artifact@v4
+        with:
+          name: rulings-patch
+          path: ${{ runner.temp }}
+      - name: Commit and push changes
+        shell: bash
+        run: |
+          git apply --index "$RUNNER_TEMP/rulings.patch"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh card rulings"
+          git push origin HEAD:main
