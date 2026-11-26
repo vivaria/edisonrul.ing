@@ -25,6 +25,7 @@ e.g.:
 "Gemini Soldier", "D.D. Warrior Lady", "Mystic Tomato", Flip and pseudo-Flip effects like "Ryko, Lightsworn Hunter", "Snowman Eater" and GY effects like "Treeborn Frog", "Plaguespreader Zombie".
 *   The monster's effects are only negated while on the field/in the GY. If the destroyed monster is banished instead (e.g. due to "Macro Cosmos"/"Dimensional Fissure"), its effects are not negated once it leaves the field.
 - A "D.D. Survivor" that was banished after being destroyed by this card can successfully resolve it's effect.
+*   The destroyed monster's effects remain negated even if "Ancient Gear Beast" leaves the field or has its effects negated.
 
 
 ## Edisonformat.com (Historical, Pre-UTW Rulings)
