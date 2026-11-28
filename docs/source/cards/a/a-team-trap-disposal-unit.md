@@ -12,7 +12,7 @@ Source: [https://edisonformat.net/card?name=A-Team:%20Trap%20Disposal%20Unit](ht
 
 This is an optional Quick Effect.
 *   It is not a mandatory effect.
-*   It can chain to the activation of any type of Spell Card.
+*   It can chain to the activation of any type of Trap Card, except Counter Traps.
 
 This effect can be used in the Damage Step.
 *   This effect can be used in the Damage Step even if The A-Team is attacking or being attacked.

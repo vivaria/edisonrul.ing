@@ -6,9 +6,10 @@ Source: [https://edisonformat.net/card?name=Armored%20Cybern](https://edisonform
 
 ### Edison-Accurate PSCT
 
-> ① Once per turn: you can activate 1 of these effects; ● Target 1 "Cyber Dragon", or 1 Fusion Monster that lists "Cyber Dragon" as Material, that you control; equip this monster to that target.
+> ① Once per turn: you can activate 1 of these effects;
+> ● Target 1 "Cyber Dragon", or 1 Fusion Monster that lists "Cyber Dragon" as Material, that you control; equip this monster to that target.
 > ● Unequip and Special Summon this card in Attack Position.
-> ② Once per turn, while equipped by this effect: You can target 1 face-up monster on the field; the equipped monster loses 1000 ATK (even if this card leaves the field), and if it does, destroy that target.
+> ② Once per turn, while equipped by this effect: You can target 1 face-up monster on the field; the equipped monster loses 1000 ATK (only while this card remains face-up on the field and equipped), and if it does, destroy that target.
 > ③ If a monster equipped by this card's effect would be destroyed, destroy this card instead.
 > © A monster can never be equipped with more than 1 Union Monster.
 
